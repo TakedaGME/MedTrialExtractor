@@ -103,7 +103,7 @@ class RoleDataset(Dataset):
                     if words:
                         labels_by_prod = list(zip(*labels))
                         for y in labels_by_prod:
-                            assert "B-Prod" in y # make sure there is a Product
+                            assert "B-arm_description" in y # make sure there is a Product
                             examples.append(InputExample(
                                 guid=f"{guid_index}",
                                 metainfo=metainfo,
@@ -192,10 +192,10 @@ class PlainRoleDataset(Dataset):
                         prods = get_entities(labels)
                         for etype, ss, se in prods:
                             # create prod-specific instance
-                            assert etype == "Prod"
+                            assert etype == "arm_description"
                             inst_labels = ["O"] * len(words)
-                            inst_labels[ss] = "B-Prod"
-                            inst_labels[ss+1:se+1] = ["I-Prod"] * (se-ss)
+                            inst_labels[ss] = "B-arm_description"
+                            inst_labels[ss+1:se+1] = ["I-arm_description"] * (se-ss)
                             examples.append(
                                 InputExample(
                                     guid=f"{guid_index}",
@@ -245,11 +245,11 @@ def convert_examples_to_features(
         prod_start_index = prod_end_index = -1
         for wid, (word, label) in enumerate(
                 zip(example.words, example.labels)):
-            if label == "B-Prod":
+            if label == "B-arm_description":
                 prod_start_index = len(tokens)
                 tokens.append(PROD_START_MARKER)
                 label_ids.append(pad_token_label_id)
-            elif prod_start_index >= 0 and prod_end_index < 0 and label != "I-Prod":
+            elif prod_start_index >= 0 and prod_end_index < 0 and label != "I-arm_description":
                 prod_end_index = len(tokens)
                 tokens.append(PROD_END_MARKER)
                 label_ids.append(pad_token_label_id)
@@ -376,10 +376,10 @@ def write_predictions(input_file, output_file, predictions, align="labeled"):
                     output_line = [cols[0]]
                     for j, label in enumerate(cols[1:]):
                         output_line.append(label)
-                        if label in ["B-Prod", "I-Prod"]:
+                        if label in ["B-arm_description", "I-arm_description"]:
                             output_line.append(label)
                         else:
-                            if predictions[example_id+j]:
+                            if example_id + j < len(predictions) and predictions[example_id+j]:
                                 output_line.append(predictions[example_id+j].pop(0))
                             else:
                                 logger.info(
@@ -408,8 +408,8 @@ def write_predictions(input_file, output_file, predictions, align="labeled"):
                         srl_labels = []
                         for _, ss, se in prods:
                             inst_labels = ["O"] * len(words)
-                            inst_labels[ss] = "B-Prod"
-                            inst_labels[ss+1:se+1] = ["I-Prod"] * (se-ss)
+                            inst_labels[ss] = "B-arm_description"
+                            inst_labels[ss+1:se+1] = ["I-arm_description"] * (se-ss)
                             for i, w in enumerate(words):
                                 if i < ss or i > se:
                                     if not predictions[example_id]:

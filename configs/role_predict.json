@@ -1,7 +1,7 @@
 {
-  "input_file": "tests/sample_data/role/inputs.txt",
-  "output_file": "tests/sample_data/role/outputs_role.txt",
-  "model_name_or_path": "models/role",
+  "input_file": "/data/rsg/nlp/juanmoo1/projects/02_takead_tests/03_takeda_new/00_workdir/01_span_dosage/test_docs/rd_input.txt",
+  "output_file": "/data/rsg/nlp/juanmoo1/projects/02_takead_tests/03_takeda_new/00_workdir/01_span_dosage/test_docs/rd_output.txt",
+  "model_name_or_path": "/data/rsg/nlp/juanmoo1/projects/02_takead_tests/03_takeda_new/00_workdir/01_span_dosage/rd/docs/model/",
   "labels": "configs/role_labels.txt",
   "max_seq_length": 512,
   "batch_size": 256,

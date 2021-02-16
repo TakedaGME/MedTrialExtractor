@@ -75,8 +75,8 @@ complex	O
 led	O
 to	O
 only	O
-cycloheptadienone	B-Prod
-23A	B-Prod
+cycloheptadienone	B-arm_description
+23A	B-arm_description
 in	O
 30	O
 %	O
@@ -100,8 +100,8 @@ complex	O	O	O
 led	O	O	O
 to	O	O	O
 only	O	O	O
-cycloheptadienone	B-Prod	O	O
-23A	O	B-Prod	O
+cycloheptadienone	B-arm_description	O	O
+23A	O	B-arm_description	O
 in	O	O	O
 30	B-Yield	B-Yield	O
 %	I-Yield	I-Yield	O
@@ -114,7 +114,7 @@ complex	O	O	O
 19B	O	O	B-Reactants
 ,	O	O	O
 cycloheptadienone	O	O	O
-25	O	O	B-Prod
+25	O	O	B-arm_description
 was	O	O	O
 produced	O	O	O
 in	O	O	O

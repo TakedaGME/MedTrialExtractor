@@ -188,10 +188,10 @@ class RxnExtractor(object):
             prods = get_entities(prod_labels)
             num_rxns_per_sent.append(len(prods))
             for i, (etype, ss, se) in enumerate(prods):
-                assert etype == "Prod"
+                assert etype == "arm_description"
                 labels = ["O"] * len(sent)
-                labels[ss] = "B-Prod"
-                labels[ss+1:se+1] = ["I-Prod"] * (se-ss)
+                labels[ss] = "B-arm_description"
+                labels[ss+1:se+1] = ["I-arm_description"] * (se-ss)
                 examples.append(InputExample(
                     guid=guid,
                     words=sent,
@@ -248,13 +248,13 @@ class RxnExtractor(object):
                 rxn_labels = []
                 ex = examples[example_id]
                 for j, label in enumerate(ex.labels):
-                    if label in ["B-Prod", "I-Prod"]:
+                    if label in ["B-arm_description", "I-arm_description"]:
                         rxn_labels.append(label)
                     else:
                         rxn_labels.append(all_preds[example_id].pop(0))
                 rxn = {}
                 for role, ss, se in get_entities(rxn_labels):
-                    if role == "Prod":
+                    if role == "arm_description":
                         rxn["Product"] = (ss, se)
                     else:
                         if role not in rxn:
