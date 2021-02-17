@@ -6,7 +6,6 @@ from typing import Dict, List, Optional, Tuple
 from tqdm.auto import tqdm, trange
 
 from seqeval.metrics import f1_score, precision_score, recall_score
-import numpy as np
 import torch
 from torch import nn
 from torch.utils.data.dataset import Dataset
@@ -18,16 +17,14 @@ from transformers.data.data_collator import default_data_collator
 from transformers import set_seed
 
 from .trainer import IETrainer as Trainer
-from chemrxnextractor.models import BertForRoleLabeling, BertCRFForRoleLabeling
-from chemrxnextractor.data import RoleDataset, PlainRoleDataset
-from chemrxnextractor.data.utils import get_labels
-from chemrxnextractor.constants import PROD_START_MARKER, PROD_END_MARKER
-from chemrxnextractor.data.role import write_predictions
-from chemrxnextractor.utils import create_logger
+from medtrialextractor.models import BertForTagging, BertCRFForTagging
+from medtrialextractor.data import ProdDataset
+from medtrialextractor.data.utils import get_labels
+from medtrialextractor.data.prod import write_predictions
+from medtrialextractor.utils import create_logger
 
 
 logger = logging.getLogger(__name__)
-SPECIAL_TOKENS = [PROD_START_MARKER, PROD_END_MARKER]
 
 
 def train(model_args, data_args, train_args):
@@ -39,21 +36,22 @@ def train(model_args, data_args, train_args):
     ):
         raise ValueError(
             f"Output directory ({train_args.output_dir}) already exists and is not empty."
-            " Use --overwrite_output_dir to overcome."
+             " Use --overwrite_output_dir to overcome."
         )
 
     # Setup logging
     logging.basicConfig(
         format="%(asctime)s - %(message)s",
         datefmt="%m/%d/%Y %H:%M:%S",
-        level=logging.INFO if train_args.local_rank in [-1, 0] else logging.WARN,
+        level=logging.INFO,
     )
-    # logger = create_logger(name="train_role", save_dir=train_args.output_dir)
+    # logger = create_logger(name="train_prod", save_dir=train_args.output_dir)
     logger.info("Training/evaluation parameters %s", train_args)
 
     # Set seed
     set_seed(train_args.seed)
 
+    # Prepare prod-ext task
     labels = get_labels(data_args.labels)
     label_map: Dict[int, str] = {i: label for i, label in enumerate(labels)}
     num_labels = len(labels)
@@ -69,30 +67,26 @@ def train(model_args, data_args, train_args):
         model_args.model_name_or_path,
         cache_dir=model_args.cache_dir,
         use_fast=model_args.use_fast,
-        additional_special_tokens=SPECIAL_TOKENS
     )
     if model_args.use_crf:
-        model = BertCRFForRoleLabeling.from_pretrained(
+        model = BertCRFForTagging.from_pretrained(
             model_args.model_name_or_path,
             config=config,
             cache_dir=model_args.cache_dir,
             tagging_schema="BIO",
-            use_cls=model_args.use_cls,
-            prod_pooler=model_args.prod_pooler
+            use_cls=model_args.use_cls
         )
     else:
-        model = BertForRoleLabeling.from_pretrained(
+        model = BertForTagging.from_pretrained(
             model_args.model_name_or_path,
             config=config,
             cache_dir=model_args.cache_dir,
-            use_cls=model_args.use_cls,
-            prod_pooler=model_args.prod_pooler
+            use_cls=model_args.use_cls
         )
-    model.resize_token_embeddings(len(tokenizer))
 
     # Get datasets
     train_dataset = (
-        RoleDataset(
+        ProdDataset(
             data_file=os.path.join(data_args.data_dir, "train.txt"),
             tokenizer=tokenizer,
             labels=labels,
@@ -104,7 +98,7 @@ def train(model_args, data_args, train_args):
         else None
     )
     eval_dataset = (
-        RoleDataset(
+        ProdDataset(
             data_file=os.path.join(data_args.data_dir, "dev.txt"),
             tokenizer=tokenizer,
             labels=labels,
@@ -157,7 +151,7 @@ def train(model_args, data_args, train_args):
         output = trainer.evaluate()
         predictions = output['predictions']
         label_ids = output['label_ids']
-        metrics = output["metrics"]
+        metrics = output['metrics']
 
         output_eval_file = os.path.join(train_args.output_dir, "eval_results.txt")
         with open(output_eval_file, "w") as writer:
@@ -177,20 +171,21 @@ def train(model_args, data_args, train_args):
 
     # Predict
     if train_args.do_predict:
-        test_dataset = RoleDataset(
+        test_dataset = ProdDataset(
             data_file=os.path.join(data_args.data_dir, "test.txt"),
             tokenizer=tokenizer,
             labels=labels,
             model_type=config.model_type,
             max_seq_length=data_args.max_seq_length,
-            overwrite_cache=data_args.overwrite_cache
+            overwrite_cache=data_args.overwrite_cache,
         )
 
         output = trainer.predict(test_dataset)
+
         predictions = output['predictions']
         label_ids = output['label_ids']
-        metrics = output["metrics"]
-        # Note: preds_list doesn't contain labels for [arm_description] and [/arm_description]
+        metrics = output['metrics']
+
         preds_list = [[label_map[x] for x in seq] for seq in predictions]
 
         output_test_results_file = os.path.join(train_args.output_dir, "test_results.txt")
@@ -214,8 +209,7 @@ def predict(model_args, predict_args):
         datefmt="%m/%d/%Y %H:%M:%S",
         level=logging.INFO,
     )
-
-    # logger = create_logger(name="predict_role", save_dir=train_args.output_dir)
+    # logger = create_logger(name="predict_prod", save_dir=train_args.output_dir)
     logger.info("Predict parameters %s", predict_args)
 
     # Prepare prod-ext task
@@ -235,24 +229,19 @@ def predict(model_args, predict_args):
         model_args.model_name_or_path,
         cache_dir=model_args.cache_dir,
         use_fast=model_args.use_fast,
-        additional_special_tokens=SPECIAL_TOKENS
     )
     if model_args.use_crf:
-        model = BertCRFForRoleLabeling.from_pretrained(
+        model = BertCRFForTagging.from_pretrained(
             model_args.model_name_or_path,
             config=config,
             cache_dir=model_args.cache_dir,
-            tagging_schema="BIO",
-            use_cls=model_args.use_cls,
-            prod_pooler=model_args.prod_pooler,
+            tagging_schema="BIO"
         )
     else:
-        model = BertForRoleLabeling.from_pretrained(
+        model = BertForTagging.from_pretrained(
             model_args.model_name_or_path,
             config=config,
-            cache_dir=model_args.cache_dir,
-            use_cls=model_args.use_cls,
-            prod_pooler=model_args.prod_pooler,
+            cache_dir=model_args.cache_dir
         )
 
     device = torch.device(
@@ -263,7 +252,7 @@ def predict(model_args, predict_args):
     model = model.to(device)
 
     # load test dataset
-    test_dataset = PlainRoleDataset(
+    test_dataset = ProdDataset(
         data_file=predict_args.input_file,
         tokenizer=tokenizer,
         labels=labels,
@@ -281,8 +270,8 @@ def predict(model_args, predict_args):
     )
 
     logger.info("***** Running Prediction *****")
-    logger.info("  Num examples = %d", len(data_loader.dataset))
-    logger.info("  Batch size = %d", predict_args.batch_size)
+    logger.info("  Num examples = {}".format(len(data_loader.dataset)))
+    logger.info("  Batch size = {}".format(predict_args.batch_size))
 
     model.eval()
 
@@ -296,14 +285,11 @@ def predict(model_args, predict_args):
                 outputs = model(
                     input_ids=inputs['input_ids'],
                     attention_mask=inputs['attention_mask'],
-                    prod_start_mask=inputs['prod_start_mask'],
-                    prod_end_mask=inputs['prod_end_mask'],
-                    prod_mask=inputs['prod_mask'],
                     token_type_ids=inputs['token_type_ids']
                 )
                 logits = outputs[0]
 
-            preds = model.decode(logits, mask=inputs['decoder_mask'].bool())
+            preds = model.decode(logits, inputs['decoder_mask'].bool())
             preds_list = [[label_map[x] for x in seq] for seq in preds]
 
             all_preds += preds_list
@@ -311,7 +297,6 @@ def predict(model_args, predict_args):
     write_predictions(
         predict_args.input_file,
         predict_args.output_file,
-        all_preds,
-        align="plain"
+        all_preds
     )
 

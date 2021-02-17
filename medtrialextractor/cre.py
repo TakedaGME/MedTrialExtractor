@@ -6,12 +6,12 @@ from collections import defaultdict
 from dataclasses import dataclass
 from tqdm.auto import tqdm
 
-import chemrxnextractor as cre
-from chemrxnextractor.models import BertForTagging
-from chemrxnextractor.models import BertCRFForTagging
-from chemrxnextractor.models import BertForRoleLabeling
-from chemrxnextractor.models import BertCRFForRoleLabeling
-from chemrxnextractor.data.utils import InputExample
+import medtrialextractor as cre
+from medtrialextractor.models import BertForTagging
+from medtrialextractor.models import BertCRFForTagging
+from medtrialextractor.models import BertForRoleLabeling
+from medtrialextractor.models import BertCRFForRoleLabeling
+from medtrialextractor.data.utils import InputExample
 from .utils import create_logger
 
 import torch

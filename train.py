@@ -13,13 +13,13 @@ if __name__ == '__main__':
     if len(sys.argv) > 2:
         task = sys.argv[1]
         if task == "prod":
-            from chemrxnextractor.prod_args import parse_train_args
-            from chemrxnextractor.train import prod_train
+            from medtrialextractor.prod_args import parse_train_args
+            from medtrialextractor.train import prod_train
             args = parse_train_args(sys.argv[2:])
             prod_train(*args)
         elif task == "role":
-            from chemrxnextractor.role_args import parse_train_args
-            from chemrxnextractor.train import role_train
+            from medtrialextractor.role_args import parse_train_args
+            from medtrialextractor.train import role_train
             args = parse_train_args(sys.argv[2:])
             role_train(*args)
     else:

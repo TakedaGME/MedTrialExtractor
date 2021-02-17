@@ -13,8 +13,8 @@ This repository contains code/data for extracting chemical reactions from scient
 5. seqeval
 
 ### Install from source
-1. `git clone https://github.com/jiangfeng1124/ChemRxnExtractor`
-2. `cd ChemRxnExtractor`
+1. `git clone https://github.com/jiangfeng1124/medtrialextractor`
+2. `cd medtrialextractor`
 3. `pip install -r requirements.txt`
 4. `pip install -e .`
 
@@ -28,7 +28,7 @@ tar zxvf cre_models_v0.1.tgz
 
 Using RxnExtractor in your code:
 ```python
-from chemrxnextractor import RxnExtractor
+from medtrialextractor import RxnExtractor
 
 model_dir="models" # directory saving both prod and role models
 rxn_extractor = RxnExtractor(model_dir)
