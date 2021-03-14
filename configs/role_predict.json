@@ -7,7 +7,7 @@
   "batch_size": 256,
   "use_crf": true,
   "use_cls": true,
-  "prod_pooler": "span",
+  "ner_pooler": "span",
   "use_fast": true,
   "overwrite_cache": true
 }

@@ -30,7 +30,7 @@ Using RxnExtractor in your code:
 ```python
 from medtrialextractor import RxnExtractor
 
-model_dir="models" # directory saving both prod and role models
+model_dir="models" # directory saving both ner and role models
 rxn_extractor = RxnExtractor(model_dir)
 
 # test_file contains texts line by line
@@ -54,12 +54,12 @@ To train a new model on your own datasets, download [ChemBERT v3.0](https://driv
 
 ### Fine-tuning
 
-We provide scripts to train new models (product/role extraction) using your own data. We also plan to release our training data in the near future.
+We provide scripts to train new models (neruct/role extraction) using your own data. We also plan to release our training data in the near future.
 
 #### Data format
 
 Your training data should contain texts (sequences of tokens) and known target labels.
-We follow conventional BIO-tagging scheme, where `B-{type}` indicates the Beginning of a specific entity type (e.g., Prod, Reactants, Solvent), and `I-{type}` means the Inside of an entity.
+We follow conventional BIO-tagging scheme, where `B-{type}` indicates the Beginning of a specific entity type (e.g., ner, Reactants, Solvent), and `I-{type}` means the Inside of an entity.
 
 ##### Product Extraction
 

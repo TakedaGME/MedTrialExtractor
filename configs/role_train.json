@@ -17,7 +17,7 @@
   "crf_learning_rate": 5e-3,
   "use_cls": true,
   "use_fast": true,
-  "prod_pooler": "span",
+  "ner_pooler": "span",
   "overwrite_output_dir": true,
   "overwrite_cache": true
 }

@@ -1,4 +1,4 @@
-""" Trains a product extraction or role labeling model on a dataset.
+""" Trains a neruct extraction or role labeling model on a dataset.
 """
 
 import warnings
@@ -12,11 +12,11 @@ os.environ["WANDB_DISABLED"] = 'false'
 if __name__ == '__main__':
     if len(sys.argv) > 2:
         task = sys.argv[1]
-        if task == "prod":
-            from medtrialextractor.prod_args import parse_train_args
-            from medtrialextractor.train import prod_train
+        if task == "ner":
+            from medtrialextractor.ner_args import parse_train_args
+            from medtrialextractor.train import ner_train
             args = parse_train_args(sys.argv[2:])
-            prod_train(*args)
+            ner_train(*args)
         elif task == "role":
             from medtrialextractor.role_args import parse_train_args
             from medtrialextractor.train import role_train

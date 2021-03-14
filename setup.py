@@ -29,7 +29,9 @@ setup(
         'tqdm>=4.36.0',
         'transformers>=3.0.2',
         'seqeval',
-        'numpy>=1.18.0'
+        'numpy>=1.18.0',
+        'bs4',
+        'spacy'
     ],
     keywords=[
         'chemistry',

@@ -40,7 +40,7 @@ class RxnExtractor(object):
         self.batch_size = batch_size
         self.pad_token_label_id = nn.CrossEntropyLoss().ignore_index
 
-        self.prod_max_seq_len = 256
+        self.ner_max_seq_len = 256
         self.role_max_seq_len = 512
 
         self.device = torch.device(
@@ -52,12 +52,12 @@ class RxnExtractor(object):
         self.load_model()
 
     def load_model(self):
-        prod_model_dir = os.path.join(self.model_dir, "prod")
-        if os.path.isdir(prod_model_dir):
-            sys.stderr.write(f"Loading product extractor from {prod_model_dir}...")
-            config = AutoConfig.from_pretrained(prod_model_dir)
-            prod_tokenizer = AutoTokenizer.from_pretrained(
-                prod_model_dir,
+        ner_model_dir = os.path.join(self.model_dir, "ner")
+        if os.path.isdir(ner_model_dir):
+            sys.stderr.write(f"Loading product extractor from {ner_model_dir}...")
+            config = AutoConfig.from_pretrained(ner_model_dir)
+            ner_tokenizer = AutoTokenizer.from_pretrained(
+                ner_model_dir,
                 use_fast=True
             )
             model_class = (
@@ -65,18 +65,18 @@ class RxnExtractor(object):
                 if "BertCRFForTagging" in config.architectures
                 else BertForTagging
             )
-            prod_extractor = model_class.from_pretrained(
-                prod_model_dir,
+            ner_extractor = model_class.from_pretrained(
+                ner_model_dir,
                 config=config
             )
-            prod_labels = ["O"] * len(config.id2label)
+            ner_labels = ["O"] * len(config.id2label)
             for i, label in config.id2label.items():
-                prod_labels[int(i)] = label
+                ner_labels[int(i)] = label
             sys.stderr.write("done\n")
         else:
             sys.stderr.write(f"Product extractor not found in {self.model_dir}!")
-            prod_tokenizer = None
-            prod_extractor = None
+            ner_tokenizer = None
+            ner_extractor = None
 
         role_model_dir = os.path.join(self.model_dir, "role")
         if os.path.isdir(role_model_dir):
@@ -95,7 +95,7 @@ class RxnExtractor(object):
                 role_model_dir,
                 config=config,
                 use_cls=True,
-                prod_pooler="span"
+                ner_pooler="span"
             )
             role_labels = ["O"] * len(config.id2label)
             for i, label in config.id2label.items():
@@ -106,13 +106,13 @@ class RxnExtractor(object):
             role_tokenizer = None
             role_extractor = None
 
-        self.prod_tokenizer = prod_tokenizer
-        self.prod_extractor = prod_extractor.to(self.device)
-        self.prod_extractor.eval()
+        self.ner_tokenizer = ner_tokenizer
+        self.ner_extractor = ner_extractor.to(self.device)
+        self.ner_extractor.eval()
         self.role_tokenizer = role_tokenizer
         self.role_extractor = role_extractor.to(self.device)
         self.role_extractor.eval()
-        self.prod_labels = prod_labels
+        self.ner_labels = ner_labels
         self.role_labels = role_labels
 
     def get_products(self, sents):
@@ -131,12 +131,12 @@ class RxnExtractor(object):
                 labels=labels
             ))
 
-        features = cre.data.prod.convert_examples_to_features(
+        features = cre.data.ner.convert_examples_to_features(
             examples,
-            self.prod_labels,
-            self.prod_max_seq_len,
-            self.prod_tokenizer,
-            pad_token=self.prod_tokenizer.pad_token_id,
+            self.ner_labels,
+            self.ner_max_seq_len,
+            self.ner_tokenizer,
+            pad_token=self.ner_tokenizer.pad_token_id,
             pad_token_label_id=self.pad_token_label_id
         )
 
@@ -154,18 +154,18 @@ class RxnExtractor(object):
                 for k, v in batch.items():
                     if isinstance(v, torch.Tensor):
                         batch[k] = v.to(self.device)
-                outputs = self.prod_extractor(
+                outputs = self.ner_extractor(
                     input_ids=batch['input_ids'],
                     attention_mask=batch['attention_mask'],
                     token_type_ids=batch['token_type_ids']
                 )
                 logits = outputs[0]
 
-            preds = self.prod_extractor.decode(
+            preds = self.ner_extractor.decode(
                 logits,
                 batch['decoder_mask'].bool()
             )
-            preds = [[self.prod_labels[x] for x in seq] for seq in preds]
+            preds = [[self.ner_labels[x] for x in seq] for seq in preds]
             all_preds += preds
 
         tokenized_sents = [ex.words for ex in examples]
@@ -180,12 +180,12 @@ class RxnExtractor(object):
         assert len(products) == len(tokenized_sents)
 
         # create dataset
-        # for each sent, create #{prod} instances
+        # for each sent, create #{ner} instances
         examples = []
         num_rxns_per_sent = []
-        for guid, (sent, prod_labels) in enumerate(zip(tokenized_sents, products)):
-            assert len(sent) == len(prod_labels)
-            prods = get_entities(prod_labels)
+        for guid, (sent, ner_labels) in enumerate(zip(tokenized_sents, products)):
+            assert len(sent) == len(ner_labels)
+            prods = get_entities(ner_labels)
             num_rxns_per_sent.append(len(prods))
             for i, (etype, ss, se) in enumerate(prods):
                 assert etype == "arm_description"
@@ -224,9 +224,9 @@ class RxnExtractor(object):
                 outputs = self.role_extractor(
                     input_ids=batch['input_ids'],
                     attention_mask=batch['attention_mask'],
-                    prod_start_mask=batch['prod_start_mask'],
-                    prod_end_mask=batch['prod_end_mask'],
-                    prod_mask=batch['prod_mask'],
+                    ner_start_mask=batch['ner_start_mask'],
+                    ner_end_mask=batch['ner_end_mask'],
+                    ner_mask=batch['ner_mask'],
                     token_type_ids=batch['token_type_ids']
                 )
                 logits = outputs[0]
@@ -244,7 +244,7 @@ class RxnExtractor(object):
         for guid, sent in enumerate(tokenized_sents):
             rxns = {"tokens": sent, "reactions": []}
             for k in range(num_rxns_per_sent[guid]):
-                # merge preds with prod labels
+                # merge preds with ner labels
                 rxn_labels = []
                 ex = examples[example_id]
                 for j, label in enumerate(ex.labels):

@@ -7,13 +7,16 @@ import uuid
 import re
 import json
 import codecs
+from multiprocessing import Pool
 from bs4 import BeautifulSoup
 from spacy.lang.en import English
-from multiprocessing import Pool
+from spacy.tokenizer import Tokenizer
+
 
 # ----- Utils ----- #
 nlp = English()
-tokenizer = nlp.Defaults.create_tokenizer(nlp)
+tokenizer = Tokenizer(nlp.vocab)
+#tokenizer = nlp.Defaults.create_tokenizer(nlp)
 
 
 def tokenize(text):
@@ -156,6 +159,8 @@ def batch_process(input_dir, output_file, **kwargs):
     # Save output struct
     with codecs.open(output_file, 'wb', encoding='utf-8', errors='replace') as outfile:
         json.dump(structs, outfile, indent=4)
+        return True
+
 
 def xml_batch_process_cli(args):
 
@@ -166,8 +171,3 @@ def xml_batch_process_cli(args):
     kwargs['output_file'] = output_file
 
     batch_process(**kwargs)
-
-
-
-
-
