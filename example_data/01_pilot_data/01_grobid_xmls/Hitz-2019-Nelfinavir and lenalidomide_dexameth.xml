@@ -1,0 +1,714 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /data/rsg/nlp/juanmoo1/bin/grobid-0.6.1/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Nelfinavir and lenalidomide/ dexamethasone in patients with lenalidomide-refractory multiple myeloma. A phase I/II Trial (SAKK 39/10)</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">F</forename><surname>Hitz</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="laboratory">Swiss Group for Clinical Cancer Research SAKK</orgName>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="department">Department of Oncology and Hematology, Kantonsspital St.Gallen</orgName>
+								<address>
+									<settlement>St.Gallen</settlement>
+									<country key="CH">Switzerland</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Kraus</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="laboratory">Swiss Group for Clinical Cancer Research SAKK</orgName>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="department">Department of Oncology and Hematology, Kantonsspital St.Gallen</orgName>
+								<address>
+									<settlement>St.Gallen</settlement>
+									<country key="CH">Switzerland</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Pabst</surname></persName>
+							<affiliation key="aff2">
+								<orgName type="department">Department of Medical Oncology, Inselspital</orgName>
+								<orgName type="institution">Universitätsspital Bern</orgName>
+								<address>
+									<settlement>Bern</settlement>
+									<country key="CH">Switzerland</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><surname>Hess</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="laboratory">Swiss Group for Clinical Cancer Research SAKK</orgName>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="department">Department of Oncology and Hematology, Kantonsspital St.Gallen</orgName>
+								<address>
+									<settlement>St.Gallen</settlement>
+									<country key="CH">Switzerland</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">L</forename><surname>Besse</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="laboratory">Swiss Group for Clinical Cancer Research SAKK</orgName>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="department">Department of Oncology and Hematology, Kantonsspital St.Gallen</orgName>
+								<address>
+									<settlement>St.Gallen</settlement>
+									<country key="CH">Switzerland</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Silzle</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="laboratory">Swiss Group for Clinical Cancer Research SAKK</orgName>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="department">Department of Oncology and Hematology, Kantonsspital St.Gallen</orgName>
+								<address>
+									<settlement>St.Gallen</settlement>
+									<country key="CH">Switzerland</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">U</forename><surname>Novak</surname></persName>
+							<affiliation key="aff2">
+								<orgName type="department">Department of Medical Oncology, Inselspital</orgName>
+								<orgName type="institution">Universitätsspital Bern</orgName>
+								<address>
+									<settlement>Bern</settlement>
+									<country key="CH">Switzerland</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><surname>Seipel</surname></persName>
+							<affiliation key="aff2">
+								<orgName type="department">Department of Medical Oncology, Inselspital</orgName>
+								<orgName type="institution">Universitätsspital Bern</orgName>
+								<address>
+									<settlement>Bern</settlement>
+									<country key="CH">Switzerland</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Rondeau</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Studeli</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Berardi Vilei</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><surname>Samaras</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">U</forename><surname>Mey</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><surname>Driessen</surname></persName>
+						</author>
+						<title level="a" type="main">Nelfinavir and lenalidomide/ dexamethasone in patients with lenalidomide-refractory multiple myeloma. A phase I/II Trial (SAKK 39/10)</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<idno type="DOI">10.1038/s41408-019-0228-2</idno>
+					<note type="submission">Received: 26 January 2019 Revised: 20 May 2019 Accepted: 28 May 2019</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.6.1" ident="GROBID" when="2020-10-09T18:38+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<abstract>
+				<p>The antiretroviral agent nelfinavir has antimyeloma activity and can overcome resistance to bortezomib. Our phase I/II trial investigated whether adding nelfinavir to lenalidomide-dexamethasone can overcome lenalidomide resistance in lenalidomide-refractory multiple myeloma (MM). Twenty-nine patients were included (high-risk cytogenetic aberrations 31%; ≥2 prior therapy lines 93%; lenalidomide-bortezomib double-refractory 34%). Twenty-four patients (83%) had prior bortezomib and 10 (34%) were lenalidomide-bortezomib double-refractory. They received four cycles of nelfinavir 2500 mg/day with standard-dose lenalidomide (25 mg days 1-21) and dexamethasone (40/20 mg days 1, 8, 15, 22). Minor response or better was achieved in 16 patients (55%; 95% CI 36-74%), including 40% of those who were lenalidomide-bortezomib double-refractory, and partial response or better in nine patients (31%; 95% CI 15-51%). Median progression-free survival was 3.4 (95% CI 2.0-4.9) months and median overall survival 21.6 (13.0-50.1) months. Lenalidomide-related pneumonitis, pneumonia, and neutropenic fever occurred, but there were no unexpected adverse events. Peripheral blood mononuclear cells showed a 45% (95% CI 40-51%) reduction in total proteasome activity from baseline and significant induction of unfolded protein response and autophagy. Thus, nelfinavir-lenalidomide-dexamethasone is an active oral combination in lenalidomide-refractory MM.</p>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Introduction</head><p>Despite development of new drug combinations, including immunomodulatory drugs (pomalidomide p.o.), proteasome inhibitors (carfilzomib i.v., ixazomib p.o.), and targeted antibodies (daratumumab i.v.), for treatment of relapsed multiple myeloma (MM), the duration of response in double-refractory patients is only 3-5 months <ref type="bibr" target="#b0">[1]</ref><ref type="bibr" target="#b1">[2]</ref><ref type="bibr" target="#b2">[3]</ref> . Thus, development of alternative myeloma drugs for the refractory setting in particular is an urgent priority. Repurposing of well-known drugs approved for use in other therapeutic settings can potentially provide a shortcut to the development of new myeloma treatments <ref type="bibr" target="#b3">4</ref> . The best example of this strategy is the success of thalidomide, which now shapes an entire class of myeloma agents, after originally being developed as a hypnotic agent.</p><p>Nelfinavir is an oral inhibitor of HIV protease, an enzyme lacking mammalian homologs, and was a standard treatment for HIV infection for several years. It has single-agent activity against myeloma in vivo, inducing cell cycle arrest and apoptosis in tumor cells via multiple pathways, including inhibition of proteasomal degradation and the PI3K/Akt pathway <ref type="bibr" target="#b4">[5]</ref><ref type="bibr" target="#b5">[6]</ref><ref type="bibr" target="#b6">[7]</ref> and importantly, by inducing endoplasmic reticulum (ER) stress. In a phase I trial (SAKK 65/08) <ref type="bibr" target="#b7">8</ref> we showed that nelfinavir inhibited proteasome activity and significantly upregulated the expression of proteins related to the unfolded protein response (UPR) in peripheral blood mononuclear cells (PMBC). This key modulator of protein production, folding and destruction <ref type="bibr" target="#b8">9,</ref><ref type="bibr" target="#b9">10</ref> , also determines proteasome inhibitor sensitivity. Combination of nelfinavir with bortezomib further induced the UPR and overcame proteasome inhibitor resistance <ref type="bibr" target="#b7">8</ref> . A subsequent phase II trial (SAKK 39/13) demonstrated promising clinical activity of a nelfinavir-bortezomib-dexamethasone combination, with an unprecedented overall response rate of 65% in heavily pretreated, proteasome inhibitor-refractory MM patients <ref type="bibr" target="#b10">11</ref> . Preclinical data indicate that nelfinavir was able to overcome resistance to the proteasome inhibitor carfilzomib via modulation of multidrug resistance (MDR) efflux pumps such as ABCB1 (ref. <ref type="bibr" target="#b11">12</ref> ). As lenalidomide is a substrate of the same pump family <ref type="bibr" target="#b11">12</ref> , and via binding to the E3 ligase cereblon, works on the ubiquitin-proteasome system, we postulated that nelfinavir might likewise be able to overcome resistance to immunomodulatory drugs.</p><p>Thus, we conducted a phase I/II study to determine whether adding nelfinavir to lenalidomide-dexamethasone (Len-Dex) can overcome lenalidomide resistance in patients with lenalidomide-refractory MM. Results from this study have been reported previously in abstract form <ref type="bibr" target="#b12">13</ref> .</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Patients and methods</head><p>Patients with lenalidomide-refractory MM, defined according to IMWG criteria (MM that had progressed during or within 60 days after termination of lenalidomide-containing therapy of ≥2 months' duration) <ref type="bibr" target="#b13">14</ref> , were eligible for the study. They were required to have measurable disease (serum M-protein ≥10 g/L for IgG or ≥5 g/L for IgA, IgM, or IgD, or urine M-protein ≥200 mg/24 h) or in the absence of measurable disease, serum immunoglobulin free light chain &gt;100 mg/L 15 . Also required were adequate hematologic values (neutrophils ≥1 × 10 9 /L and platelets ≥75 × 10 9 /L) and hepatic function (bilirubin ≤ 1.5 × ULN, AST, and AP ≤ 2.5 × ULN), as well as calculated creatinine clearance &gt;50 mL/min and cardiac ejection fraction ≥40%. Excluded were patients receiving potent CYP3A4 modulators during the study and those with previous grade 4 adverse events related to lenalidomide: previous malignancy, HIV positivity, psychiatric disorders, uncontrolled cardiac disease, or a serious underlying medical condition.</p><p>All patients provided written informed consent. The trial was conducted according to applicable national and international laws and regulations and approved by regulatory authorities (registered at ClinicalTrials.gov: NCT01555281).</p><p>Len-Dex was administered according to a standard schedule (Len 25 mg p.o. days 1-21; Dex 20/40 mg p.o. days <ref type="bibr" target="#b0">1,</ref><ref type="bibr" target="#b7">8,</ref><ref type="bibr" target="#b14">15,</ref><ref type="bibr" target="#b21">22)</ref>. In phase I, a standard 3 + 3 dose escalation design was used to identify the recommended phase II dose (RP2D) of nelfinavir for use in combination with Len-Dex. The nelfinavir dose-escalation scheme was 1250 mg orally b.i.d. (2500 mg daily) for dose level (DL) 1 and 1875 mg b.i.d. (3750 mg daily) for DL 2. Nelfinavir was taken from days 1 to 21 of every cycle. The decision to escalate to the next DL was based on the number of doselimiting toxicities (DLTs) observed in the first cycle of trial treatment. Persistent and late toxicities were also considered.</p><p>In phase II nelfinavir was administered at the RP2D in combination with Len-Dex (as above) for four cycles or until progression, unacceptable toxicity, or patient withdrawal. Response was assessed at the start of each treatment cycle and confirmed by a central committee. In addition to standard IWIG response criteria <ref type="bibr" target="#b13">14</ref> [complete response (CR): very good partial response (VGPR), and partial response (PR)], we included minor response (MR), as defined by Kyle and Rajkumar: 15 a ≥25% but &lt;49% reduction of serum M protein and reduction in 24 h urine M protein by 50-89%, which still exceeds 200 mg/24 h and a 25-49% reduction in the size of soft tissue plasmacytomas (if present at baseline) and no increase in the size or number of lytic bone lesions. This response category is used in patients with relapsed/refractory MM to obtain a signal of activity in phase I/II trials of novel agents. The primary endpoint in phase II was best response (CR, VGPR, PR, or MR) within 16 weeks (4 cycles).</p><p>Toxicities were graded according to the National Cancer Institute Common Terminology Criteria for Adverse Events (CTCAE) v.4.0.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Pharmacodynamics</head><p>Whole-blood samples were obtained from seven patients at baseline, day 8 and day 15 of the phase I study. PBMC were isolated and cell lysates used to test for pharmacodynamic markers: proteasome activity was measured in-gel after SDS-PAGE as described previously <ref type="bibr" target="#b15">16</ref> using a proteasome-specific, active site-directed fluorescent chemical probe <ref type="bibr" target="#b16">17</ref> (kindly supplied by Herman Overkleeft, Leiden University), which visualizes both immuno-and constitutive proteasome subunit activities. Expression of UPR-associated proteins was evaluated using western blot techniques after SDS-PAGE: blots for phospho-(S724) IRE1α (Abcam, Cambridge, UK) to evaluate activation of the main ER stress axis IRE/XBP and blots for CCAAT-enhancer-binding protein homologous protein (CHOP) (Cell Signaling Technology, Danvers, USA) to show UPR leading to ER stress-induced apoptosis. Blots against LC3A (Cell Signaling Technology, Danvers, USA) were used to evaluate autophagy. GAPDH (Proteintech, Manchester, UK) served as a loading control. Quantitative assessments were calculated relative to loading control using densitometry.</p><p>For the determination of proteasome activity, the fluorescent-labeled activity-based proteasome probe (MV151) was incubated for 1 h at 37°C with PBMC lysates. Subsequently, the samples were denatured for 2 min at 95°C and separated by polyacrylamide gel electrophoresis. Proteasome activity was visualized via quantitative assessment of the respective specific fluorescence signals using Fusion Solo S Western Blot and Chemi Imaging System (Vilber).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Statistical considerations</head><p>In phase II, the Simon's two-stage design <ref type="bibr" target="#b17">18</ref> was used to test the null hypothesis of a response rate (MR or better) ≤10% versus the alternative hypothesis of a response rate ≥30%. With a one-sided significance level of 5% and a power of 80%, a total of 29 patients (including the 6 patients from phase I treated at the RP2D) were required with 10 patients in the first stage and 19 more patients in the second stage (calculated using PASS 2011, by NCSS, Kaysville, USA). At the second-stage analysis, if at least six patients had achieved MR or better the null hypothesis was to be rejected and the trial regimen considered active and promising for further investigation.</p><p>The OR rate and corresponding Clopper-Pearson 95% confidence interval (CI) were calculated. For time-toevent endpoints median values, along with 95% CI, were estimated using the Kaplan-Meier (KM) method. The Wilcoxon signed-rank test was used to determine differences from baseline in pharmacodynamic parameters. Statistical analyses were performed using SAS® 9.4 (SAS Institute Inc., Cary, NC, USA).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Results</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Patients</head><p>Between May 2012 and December 2016, 29 patients were enrolled at seven Swiss centers. Ten patients were included in phase I and analyzed for DLTs: two DLTs were observed: diarrhea grade 3 and thrombocytopenia grade 4 at a dose level of 1850 mg b.i.d. Nelfinavir 1250 mg b.i.d. (2500 mg daily) was therefore identified as the R2PD. Twenty-nine patients were included in phase II, including six patients from phase I.</p><p>Patient and disease characteristics for the 29 patients are presented in <ref type="table" target="#tab_0">Table 1</ref>. Most (93%) had undergone two or more prior lines of therapy, and 24 (83%) had prior bortezomib exposure, including 18 (62%) with prior autologous stem cell transplantation and 10 (34%) who were double-refractory to lenalidomide and bortezomib, based on International Myeloma Working Group (IMWG) criteria <ref type="bibr" target="#b13">14</ref> .</p><p>Fifteen patients completed four cycles of study treatment. Fourteen of 29 patients discontinued trial treatment due to: progressive disease (PD; n = 8), unacceptable toxicity (4), or patient refusal (2).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Response and survival</head><p>Sixteen patients (55%; 95% CI 36-74%) achieved a response (MR or better), with VGPR in three patients (10%), PR in six patients (21%), and MR in seven patients Four responding patients received additional cycles (n = 2: 3 patients; n = 7: 1 patient) of trial treatment on a compassionate-use basis after completing the trial.</p><p>After a median follow-up of 24.9 months (interquartile range 21.8-28.6 months), median progression-free survival was 3.4 (95% CI 2.0-4.9) months, overall duration of response 4 (1.8-5.7) months, and median overall survival 21.6 (13.0-50.1) months ( <ref type="table" target="#tab_1">Table 2)</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Tolerability</head><p>The most frequent adverse events were grade 1 gastrointestinal symptoms (nine patients) and metabolic disorders (nine patients). Hematologic adverse events grade ≥3 were anemia (seven patients), thrombocytopenia (six patients), and neutropenia (seven patients, including two patients with febrile neutropenia). Patients with neutropenic fever were allowed to receive treatment with granulocyte-colony-stimulating factor.</p><p>Non-hematologic adverse events grade ≥3 were dyspnea (three patients; unrelated to study treatment) and bone pain grade 3 (two patients; related to traumatic iliac fracture in the absence of progressive disease in one patient). Other non-hematologic events, all judged to be possibly/ probably related to lenalidomide, were lung infection (three patients; n = 1 grade 3/1 grade 5; proven respiratory syncytial virus infection), pneumonitis (1 patient; grade 2), and fatigue, a well-known adverse effect of both lenalidomide and nelfinavir (13 patients; n = 3 grade 3).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Pharmacodynamics</head><p>The mechanism of action of nelfinavir in myeloma therapy has not been identified. However, high concentrations provide proteasome inhibition in vitro <ref type="bibr" target="#b15">16</ref> . Lenalidomide has synergistic activity with proteasome inhibitors in vivo <ref type="bibr" target="#b18">19</ref> . Activity-based chemical tools were developed that allow for a direct, specific, activitydependent visualization of active proteasome subunits <ref type="bibr" target="#b16">17</ref> . We used this tool to assess proteasome activity and related pharmacodynamics parameters in a set of PBMC samples from seven treated patients taken at baseline, day 8, and day 15 of cycle 1. We observed a significant (p = 0.0156) reduction in proteasome activity in vivo, with a 51% inhibition in β2/2i (tryptic) activity, 39% in β1/1i, 5/5i (caspase-like/chymotryptic, bortezomib-type inhibition pattern), and 45% (95% CI 40-51%) in pan-proteasome activity of all proteasome subunits (marizomib-type inhibition pattern) <ref type="figure">(Fig. 1a)</ref>. Most recent evidence suggests that co-inhibition of β2/2i proteasome activity, in addition to inhibition of β5/β1, is key to the activity of proteasome inhibitors against refractory MM <ref type="bibr" target="#b19">20</ref> . We therefore relate the β2/2i versus β1/1i,5/5i ratios to the clinical outcome of the seven patients: the two patients who did not respond to treatment showed relatively poor β2/2i co-inhibition, with a β2/β1-β5 ratio &lt;1 <ref type="figure">(Fig. 1b)</ref>.  <ref type="figure">Figure 1c</ref> shows activity-based proteasome labeling in PBMC from two representative patients and corresponding densitometric analysis. Proteasome inhibition results in myeloma cell death through the induction of excess proteotoxic stress that manifests in an upregulation of UPR-related proteins and the induction of autophagy. In <ref type="figure">Fig. 2a</ref> the expression of the ER stress protein phospho-IRE1α on day 8 and 15 is shown relative to the clinical outcome of the 7 patients. Interestingly, patients who had PD as best clinical response did not exhibit increased UPR activity on day 15, while those who maintained a substantial upregulation of phospho-IRE1α (&gt;100% of baseline value) responded to treatment or showed SD. In <ref type="figure">Fig. 2b</ref> we show the densitometric evaluation of western blots: mean expression of all patients (maximum change versus before treatment) for LC3 (mean of 305%, p = 0.031), indicating increased autophagy, for CHOP (mean of 254%, p = 0.016), and for activated phospho-IRE1α (to a mean of 250%, p = 0.016), both indicating elevated ER stress. Two representative PBMC samples are shown in <ref type="figure">Fig. 2c</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Discussion</head><p>Our phase II study shows that a combination of standard Len-Dex with nelfinavir is active in patients with lenalidomide-refractory MM, including those with double-refractory disease. Thus, the combination of nelfinavir-lenalidomide-dexamethasone overcomes lenalidomide drug resistance in a relevant proportion of patients. We reported earlier that the combination of nelfinavir with bortezomib-dexamethasone achieved a noteworthy 65% ORR in patients with double-refractory MM <ref type="bibr" target="#b10">11</ref> . Given the established safety, worldwide availability, oral route of administration, and competitive costs of nelfinavir, together with its FDA-recognized status as an orphan drug for MM, we continue to R R e <ref type="figure">Fig. 1</ref> Proteasome activity in PBMC. a Maximum change from baseline in proteasome activity on days 8 or 15 (β2/2i, β1/1i, 5/5i proteasome subunits and global proteasome activity), mean of all patients. b Comparison of β2/2i/β1/1i, 5/5i ratio versus clinical response. c Active site labeling days 0 (baseline), 8, and 15 (n = 2 patients) and its densitometric evaluation of the bands explore the clinical potential of re-purposing nelfinavir for the treatment of patients with heavily pretreated, refractory disease. Nelfinavir-lenalidomide-dexamethasone achieved a response rate of 55% (MR or better, 95% CI 36-74%) in our patients with lenalidomide-refractory MM, with an ORR of 31% (95% CI 15-51%) (i.e PR or better). High rates of response were seen in patients with high-risk cytogenetic aberrations (78% MR or better) and those who were double-refractory to previous lenalidomide and bortezomib treatment (40% MR or better). The duration of response was 4 months in this heavily pretreated patient population. Although the patient numbers in this study are low and preclude definite conclusions, the response rates are in a similar order of magnitude to the benchmark for next-line active therapy in doublerefractory MM <ref type="bibr" target="#b20">21</ref> . Moreover, because of the short duration of this study it is likely that the clinical benefit of the combination was underestimated-patients could receive a maximum of only four cycles, since there was limited external funding support for this non-commercial trial. Treatment was well tolerated, with hematologic and nonhematologic toxicities consistent with the expected side effects of the individual components. Although patients had significant comorbidities, adverse events were manageable with optimized supportive care. Nevertheless, a small number of severe adverse events, such as a grade 2 pneumonitis, were encountered. Lung toxicity is a wellknown complication of lenalidomide, but a potential contribution of nelfinavir cannot be excluded.</p><p>Active therapeutic options in the lenalidomide-refractory, and in particular in the proteasome inhibitorlenalidomide double-refractory MM setting, remain limited. Such patients were excluded from drug approval trials evaluating triplets of ixazomib, daratumumab, or carfilzomib in combination with lenalidomide/dexamethasone. Carfilzomib achieved a clinical benefit rate (≥MR) of 37% <ref type="bibr" target="#b21">22</ref> , daratumumab 37% <ref type="bibr" target="#b22">23</ref>   continuous low-dose cyclophosphamide, with ≥MR in 83% of patients, including those with lenalidomide-and bortezomib-refractory disease and high-risk cytogenetic abnormalities <ref type="bibr" target="#b23">24</ref> .</p><p>Further studies evaluating the activity of Len-containing triplets in Len-refractory patients are very scarce. Len-Dex combined with daratumumab in a phase III trial demonstrated a very high ORR of 92.9%, versus 76.4% for the Len-Dex control group (P &lt; 0.001). The study population included patients exposed to lenalidomide but only 3.5% were refractory in previous lines of therapy <ref type="bibr" target="#b24">25</ref> .</p><p>Given the lack of hematotoxicity of nelfinavir, it is tempting to speculate that a quadruplet regimen of lenalidomide, nelfinavir, cyclophosphamide, and dexamethasone might potentially provide an even more active oral treatment option for patients with drugrefractory MM. Pomalidomide-based triplets (Elotuzumab + Pom/Dex, Daratumumab + Pom/Dex) have recently been explored and appear to have a similar or better response profile than the Nelfinavir + Len/Dex regimen investigated here <ref type="bibr" target="#b25">26,</ref><ref type="bibr" target="#b26">27</ref> . However, the Nelfinavir + Len/Dex regimen is one of the very few all-oral combinations that can provide stabilization of the disease for a majority of patients in the relapsed-refractory setting. Moreover, the components are available and affordable even in countries with low/intermediate incomes, in contrast to triplets containing pomalidomide and antibodies.</p><p>The mechanism of activity of nelfinavir against MM is not yet well established. Employing last-generation chemical biology-based tools that directly address proteasome subunit activity in patient-derived cells, we observed a significant inhibition of proteasome activity and subsequent upregulation of markers of proteotoxic stress in PBMC from patients treated with nelfinavir-lenalidomide-dexamethasone in our study. While the number of samples is small, this finding suggests that synergy between functional proteasome inhibition and the activity of lenalidomide might underlie the clinical activity of the study combination. Indeed, the degree of in vivo proteasome inhibition we observed in PBMC during study treatment, at approximately 50% versus baseline, is quantitatively quite relevant, since inhibition achieved with standard bortezomib treatment is in the 60-70% range in clinical trials <ref type="bibr" target="#b27">28</ref> . Ixazomib, the only oral proteasome inhibitor approved to date, has significantly lower proteasomeinhibiting activity than bortezomib, with an IC 50 of 1000 nM for β5, respectively in vitro <ref type="bibr" target="#b19">20</ref> and, to our knowledge, in vivo activity is yet to be reported. The epoxyketone next-generation oral proteasome inhibitor oprozomib has shown poor tolerability, with marked gastrointestinal side effects <ref type="bibr" target="#b28">29</ref> .</p><p>The nelfnavir related HIV protease inhibitor ritonavir likewise induces proteasome inhibition at high concentrations, by interfering with regulatory subunits of the proteasome <ref type="bibr" target="#b15">16</ref> . Nelfinavir has pan-proteasome-inhibiting activity at high concentrations (20-40 μM) in vitro <ref type="bibr" target="#b29">30</ref> , but peak nelfinavir concentrations at the 2 × 1875 mg dose are in the 15 μM range in treated patients <ref type="bibr" target="#b7">8</ref> . We speculate that adding lenalidomide to nelfinavir treatment may increase intracellular nelfinavir concentrations sufficiently to mediate the pan-proteasome-inhibiting activity seen with high concentrations of nelfinavir. Both nelfinavir and lenalidomide are substrates of MDR-1 type drug efflux pumps <ref type="bibr" target="#b11">12</ref> ; thus, competing interaction of the two drugs for the MDR-1 drug exporter may limit the export of nelfinavir in the presence of lenalidomide. This theory is consistent with the observation that the MTD of nelfinavir in combination with bortezomib (a poor MDR-1 substrate) and dexamethasone was 2 × 2500 mg/day (ref. <ref type="bibr" target="#b7">8</ref> ), while in our present study the MTD was only 2 × 1250 mg in combination with lenalidomide-dexamethasone in a comparable population of MM patients. Likewise, nelfinavir may have contributed to the clinical activity of the combination therapy by increasing intracellular lenalidomide concentrations within myeloma cells <ref type="bibr" target="#b11">12</ref> .</p><p>Comparison of pharmacodynamic data with clinical outcomes in our study suggests that a relatively high proportion of β2/2i inhibition and prolonged induction of a proteotoxic stress response are associated with clinical response. This is in line with the most recent notion that co-inhibition of β2-type proteasome activity is particularly important for the cytotoxic activity of proteasome inhibitors in the drug-refractory setting, leading to enhanced induction of proteotoxic stress, as seen with high-dose (but not low-dose) carfilzomib <ref type="bibr" target="#b19">20</ref> .</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Conclusion</head><p>A combination of nelfinavir with Len/Dex was found to be active in patients with lenalidomide-refractory myeloma, including those with lenalidomide-bortezomib double-refractory and high-risk disease. New treatments are urgently needed for such patients. The combination treatment resulted in significant proteasome inhibition and induction of proteotoxic stress in vivo. This new regimen offers the advantages of all-oral administration and lower costs than those based on novel proteasometargeted drugs, given that nelfinavir is available in generic form. These findings warrant further evaluation of nelfinavir in MM.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>ent t 7 BFig. 2 UPR</head><label>72</label><figDesc>and autophagy in PBMC. a Comparison of phospho-IRE1α expression versus clinical response. b Maximum change from baseline in UPR, western blots densitometric evaluation (phospho-IRE1α, CHOP), and autophagy (LC3A) [mean of all patients]. c Western blots for ER stress proteins (phospho-IRE1α, CHOP) and densitometric evaluation on days 0, 8, and 15 from two representative patients</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>Table 1</head><label>1</label><figDesc>Patient characteristics (24%). Of the remaining patients, four (14%) had stable disease (SD), seven (24%) had PD, and two patients were not evaluable for response analysis. Subgroup analysis revealed seven responders among the nine patients with high-risk cytogenetic features (78%: 1 VGPR/2 PR/4 MR) and four responders among the 10 patients with doublerefractory disease (40%; 1 VGPR/1 PR/2 MR).Partial response or better was achieved in 9 (31%; 95% CI 15-51%) of patients.</figDesc><table><row><cell>Total (n = 29)</cell></row></table><note></note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_1"><head>Table 2</head><label>2</label><figDesc>Response and survival outcomes (n = 29 patients)</figDesc><table><row><cell>Best response ≥ MR</cell><cell>16 (55%, 95% CI 36-74)</cell></row><row><cell>Best response categories</cell><cell></cell></row><row><cell>Very good partial response (VGPR)</cell><cell>3 (10%)</cell></row><row><cell>Partial response (PR)</cell><cell>6 (21%)</cell></row><row><cell>Minor response (MR)</cell><cell>7 (24%)</cell></row><row><cell>Stable disease (SD)</cell><cell>4 (14%)</cell></row><row><cell>Progressive disease (PD)</cell><cell>7 (24%)</cell></row><row><cell>Not evaluable</cell><cell>2 (7%)</cell></row><row><cell>Best response ≥ MR by subgroup</cell><cell></cell></row><row><cell>High-risk cytogenetics (n = 9)</cell><cell>7 (78%)</cell></row><row><cell>VGPR</cell><cell>1</cell></row><row><cell>PR</cell><cell>2</cell></row><row><cell>MR</cell><cell>4</cell></row><row><cell>Lenalidomide + bortezomib; double-refractory</cell><cell>4 (40%)</cell></row><row><cell>(n = 10)</cell><cell></cell></row><row><cell>VGPR</cell><cell>1</cell></row><row><cell>PR</cell><cell>1</cell></row><row><cell>MR</cell><cell>2</cell></row><row><cell>Duration of response (months) (n = 16)</cell><cell>4.0 (1.8-5.7)</cell></row><row><cell>Overall survival (OS), median (95% CI)</cell><cell>21.6 (13.0-50.1)</cell></row><row><cell>(months)</cell><cell></cell></row><row><cell>6-month OS rate</cell><cell>82% (62-92)</cell></row><row><cell>12-month OS rate</cell><cell>79% (58-90)</cell></row><row><cell>18-month OS rate</cell><cell>59% (38-75)</cell></row><row><cell>24-month OS rate</cell><cell>45% 25-63)</cell></row><row><cell>Time to progression, median (95% CI)</cell><cell>3.6 (2.0-5.1)</cell></row><row><cell>(months)</cell><cell></cell></row><row><cell>Progression-free survival (PFS), median (95%</cell><cell>3.4 (2.0-4.9)</cell></row><row><cell>CI) (months)</cell><cell></cell></row><row><cell>4-month PFS rate</cell><cell>43% (25-60)</cell></row><row><cell>6-month PFS rate</cell><cell>20% (7-36)</cell></row><row><cell>12-month PFS rate</cell><cell>8% (1-22)</cell></row><row><cell cols="2">Data are shown as n (%), median (95% CI) or % (95% CI) unless otherwise</cell></row><row><cell>indicated. Median follow-up 24.9 months</cell><cell></cell></row></table><note></note></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot">Blood Cancer Journal</note>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Acknowledgements</head><p>The trial was supported by the Swiss State Secretariat for Education, Research and Innovation (SERI) and Celgene International. Julia Balfour of Northstar Medical Writing and Editing Services provided editorial support.</p></div>
+			</div>
+
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Hirslanden, Zürich, Switzerland. <ref type="bibr" target="#b4">5</ref> Department of Oncology, Kantonsspital Graubünden, Chur, Switzerland</p><p>Conflict of interest FH has received consultancy fees from Celgene. PS has received consultancy fees or honoraria from Celgene, Takeda, Amgen, Novartis, and Janssen. UM has received consultancy fees, research funding, honoraria from Celgene, as well as honoraria for membership on an entity's Board of Directors or advisory committees from Celgene.</p><p>Publisher's note Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.</p></div>			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Carfilzomib and dexamethasone versus bortezomib and dexamethasone for patients with relapsed or refractory multiple myeloma (ENDEAVOR): a randomised, phase 3, open-label, multicentre study</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">A</forename><surname>Dimopoulos</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Lancet Oncol</title>
+		<imprint>
+			<biblScope unit="volume">17</biblScope>
+			<biblScope unit="page" from="27" to="38" />
+			<date type="published" when="2016" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Pomalidomide plus low-dose dexamethasone versus highdose dexamethasone alone for patients with relapsed and refractory multiple myeloma (MM-003): a randomised, open-label, phase 3 trial</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">S</forename><surname>Miguel</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Lancet Oncol</title>
+		<imprint>
+			<biblScope unit="volume">14</biblScope>
+			<biblScope unit="page" from="1055" to="1066" />
+			<date type="published" when="2013" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Daratumumab, bortezomib, and dexamethasone for multiple myeloma</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Palumbo</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">N. Engl. J. Med</title>
+		<imprint>
+			<biblScope unit="volume">375</biblScope>
+			<biblScope unit="page" from="754" to="766" />
+			<date type="published" when="2016" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Can you teach old drugs new tricks?</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">N</forename><surname>Nosengo</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nature</title>
+		<imprint>
+			<biblScope unit="volume">534</biblScope>
+			<biblScope unit="page" from="314" to="316" />
+			<date type="published" when="2016" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">The HIV protease inhibitor nelfinavir downregulates Akt phosphorylation by inhibiting proteasomal activity and inducing the unfolded protein response</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><forename type="middle">K</forename><surname>Gupta</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Neoplasia</title>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="page" from="271" to="278" />
+			<date type="published" when="2007" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">HIV drug shows promise as potential cancer treatment</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Cohen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Science</title>
+		<imprint>
+			<biblScope unit="volume">317</biblScope>
+			<biblScope unit="page">1305</biblScope>
+			<date type="published" when="2017" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">NFV, an HIV-1 protease inhibitor, induces growth arrest, reduced Akt signalling, apoptosis and docetaxel sensitisation in NSCLC cell lines</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Y</forename><surname>Yang</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Br. J. Cancer</title>
+		<imprint>
+			<biblScope unit="volume">95</biblScope>
+			<biblScope unit="page" from="1653" to="1662" />
+			<date type="published" when="2006" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Treatment with the HIV protease inhibitor nelfinavir triggers the unfolded protein response and may overcome proteasome inhibitor resistance of multiple myeloma in combination with bortezomib: a phase I trial (SAKK 65/08)</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><surname>Driessen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Haematologica</title>
+		<imprint>
+			<biblScope unit="volume">101</biblScope>
+			<biblScope unit="page" from="346" to="355" />
+			<date type="published" when="2016" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">The unfolded protein response: from stress pathway to homeostatic regulation</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><surname>Walter</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><surname>Ron</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Science</title>
+		<imprint>
+			<biblScope unit="volume">334</biblScope>
+			<biblScope unit="page" from="1081" to="1086" />
+			<date type="published" when="2011" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Proteasome inhibitors induce a terminal unfolded protein response in multiple myeloma cells</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><forename type="middle">A</forename><surname>Obeng</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Blood</title>
+		<imprint>
+			<biblScope unit="volume">107</biblScope>
+			<biblScope unit="page" from="4907" to="4916" />
+			<date type="published" when="2006" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Promising activity of nelfinavir-bortezomib-dexamethasone (NeVd) in proteasome inhibitor-refractory multiple myeloma</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><surname>Driessen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Blood</title>
+		<imprint>
+			<biblScope unit="volume">132</biblScope>
+			<biblScope unit="page" from="2097" to="2100" />
+			<date type="published" when="2018" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Carfilzomib resistance due to ABCB1/MDR1 overexpression is overcome by nelfinavir and lopinavir in multiple myeloma</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Besse</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Leukemia</title>
+		<imprint>
+			<biblScope unit="volume">32</biblScope>
+			<biblScope unit="page" from="391" to="401" />
+			<date type="published" when="2018" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Nelfinavir and lenalidomide/dexamethasone in patients with lenalidomide-refractory multiple myeloma. A phase I/II trial-SAKK 39/10</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">F</forename><surname>Hitz</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Blood</title>
+		<imprint>
+			<biblScope unit="volume">130</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="1884" to="1884" />
+			<date type="published" when="2017" />
+		</imprint>
+	</monogr>
+	<note>Suppl</note>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Consensus recommendations for the uniform reporting of clinical trials: report of the International Myeloma Workshop Consensus Panel 1</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><forename type="middle">V</forename><surname>Rajkumar</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Blood</title>
+		<imprint>
+			<biblScope unit="volume">117</biblScope>
+			<biblScope unit="page" from="4691" to="4695" />
+			<date type="published" when="2011" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">Criteria for diagnosis, staging, risk stratification and response assessment of multiple myeloma</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><forename type="middle">A</forename><surname>Kyle</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><forename type="middle">V</forename><surname>Rajkumar</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Leukemia</title>
+		<imprint>
+			<biblScope unit="volume">23</biblScope>
+			<biblScope unit="page" from="3" to="9" />
+			<date type="published" when="2009" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Ritonavir, nelfinavir, saquinavir and lopinavir induce proteotoxic stress in acute myeloid leukemia cells and sensitize them for proteasome inhibitor treatment at low micromolar drug concentrations</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Kraus</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Leuk. Res</title>
+		<imprint>
+			<biblScope unit="volume">38</biblScope>
+			<biblScope unit="page" from="383" to="392" />
+			<date type="published" when="2014" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">A fluorescent broad-spectrum proteasome inhibitor for labeling proteasomes in vitro and in vivo</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Verdoes</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Chem. Biol</title>
+		<imprint>
+			<biblScope unit="volume">13</biblScope>
+			<biblScope unit="page" from="1217" to="1226" />
+			<date type="published" when="2006" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Optimal two-stage designs for phase II clinical trials</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><surname>Simon</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Control Clin. Trials</title>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="page" from="1" to="10" />
+			<date type="published" when="1989" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">Bortezomib with lenalidomide and dexamethasone versus lenalidomide and dexamethasone alone in patients with newly diagnosed myeloma without intent for immediate autologous stem-cell transplant (SWOG S0777): a randomised, open-label</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">B</forename><forename type="middle">G M</forename><surname>Durie</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Lancet</title>
+		<imprint>
+			<biblScope unit="volume">389</biblScope>
+			<biblScope unit="page" from="519" to="527" />
+			<date type="published" when="2017" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">Proteasome inhibition in multiple myeloma: head-to-head comparison of currently available proteasome inhibitors</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Besse</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Cell Chem. Biol</title>
+		<imprint>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="page" from="340" to="351" />
+			<date type="published" when="2019" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">Natural history of relapsed myeloma, refractory to immunomodulatory drugs and proteasome inhibitors: a multicenter IMWG study</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><forename type="middle">K</forename><surname>Kumar</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Leukemia</title>
+		<imprint>
+			<biblScope unit="volume">31</biblScope>
+			<biblScope unit="page" from="2443" to="2448" />
+			<date type="published" when="2017" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">A phase 2 study of single-agent carfilzomib (PX-171-003-A1) in patients with relapsed and refractory multiple myeloma</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><forename type="middle">S</forename><surname>Siegel</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Blood</title>
+		<imprint>
+			<biblScope unit="volume">120</biblScope>
+			<biblScope unit="page" from="2817" to="2825" />
+			<date type="published" when="2012" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">Clinical efficacy of daratumumab monotherapy in patients with heavily pretreated relapsed or refractory multiple myeloma</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><forename type="middle">Z</forename><surname>Usmani</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Blood</title>
+		<imprint>
+			<biblScope unit="volume">128</biblScope>
+			<biblScope unit="page" from="37" to="44" />
+			<date type="published" when="2016" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title level="a" type="main">Phase 1/2 study of lenalidomide combined with low-dose cyclophosphamide and prednisone in lenalidomide-refractory multiple myeloma</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">I</forename><forename type="middle">S</forename><surname>Nijhof</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Blood</title>
+		<imprint>
+			<biblScope unit="volume">128</biblScope>
+			<biblScope unit="page" from="2297" to="2306" />
+			<date type="published" when="2016" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title level="a" type="main">Daratumumab, lenalidomide, and dexamethasone for multiple myeloma</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">A</forename><surname>Dimopoulos</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">N. Engl. J. Med</title>
+		<imprint>
+			<biblScope unit="volume">375</biblScope>
+			<biblScope unit="page" from="1319" to="1331" />
+			<date type="published" when="2016" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title level="a" type="main">Elotuzumab plus pomalidomide and dexamethasone for multiple myeloma</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">A</forename><surname>Dimopoulos</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">N. Engl. J. Med</title>
+		<imprint>
+			<biblScope unit="volume">379</biblScope>
+			<biblScope unit="page" from="1811" to="1822" />
+			<date type="published" when="2018" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title level="a" type="main">Pomalidomide+low-dose dexamethasone+daratumumab in relapsed and/or refractory multiple myeloma after lenalidomide-based treatment failure</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><forename type="middle">S</forename><surname>Siegel</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Blood</title>
+		<imprint>
+			<biblScope unit="volume">132</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="3271" to="3271" />
+			<date type="published" when="2018" />
+		</imprint>
+	</monogr>
+	<note>Suppl</note>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+		<title level="a" type="main">Bortezomib or high-dose dexamethasone for relapsed multiple myeloma</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><forename type="middle">G</forename><surname>Richardson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">N. Engl. J. Med</title>
+		<imprint>
+			<biblScope unit="volume">352</biblScope>
+			<biblScope unit="page" from="2487" to="2498" />
+			<date type="published" when="2005" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<analytic>
+		<title level="a" type="main">A phase 1b study of oprozomib with dexamethasone or pomalidomide and dexamethasone in patients with relapsed or refractory multiple myeloma</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><surname>Hari</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Blood</title>
+		<imprint>
+			<biblScope unit="volume">132</biblScope>
+			<biblScope unit="page" from="803" to="803" />
+			<date type="published" when="2018" />
+		</imprint>
+	</monogr>
+	<note>Suppl 1</note>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<analytic>
+		<title level="a" type="main">Ritonavir induces endoplasmic reticulum stress and sensitizes sarcoma cells toward bortezomib-induced apoptosis</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Kraus</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Mol. Cancer Ther</title>
+		<imprint>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="page" from="1940" to="1948" />
+			<date type="published" when="2008" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

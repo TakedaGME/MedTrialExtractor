@@ -1,0 +1,858 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /data/rsg/nlp/juanmoo1/bin/grobid-0.6.1/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Impact of high-risk cytogenetics and prior therapy on outcomes in patients with advanced relapsed or refractory multiple myeloma treated with lenalidomide plus dexaméthasone</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+				<date type="published" when="2010-01-14">14 January 2010</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author role="corresp">
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><roleName>Professor</roleName><forename type="first">H</forename><surname>Avet-Loiseau</surname></persName>
+							<email>herve.avetloiseau@chu-nantes.fr</email>
+							<affiliation key="aff0">
+								<orgName type="institution">Institut National de la Santé et de la Recherche Médicale (INSERM)</orgName>
+								<address>
+									<addrLine>Unité 892</addrLine>
+									<settlement>Nantes</settlement>
+									<country key="FR">France</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="laboratory">Hematology Laboratory</orgName>
+								<orgName type="institution">University Hospital Hô tel-Dieu</orgName>
+								<address>
+									<settlement>Nantes</settlement>
+									<country key="FR">France</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff2">
+								<orgName type="department">Centre d&apos;Etude et de Recherche sur le Myélome (CERM)</orgName>
+								<address>
+									<settlement>Nantes</settlement>
+									<country key="FR">France</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff3">
+								<orgName type="institution">Institut Régional du Cancer Nantes-Atlantique (IRCNA)</orgName>
+								<address>
+									<settlement>Nantes</settlement>
+									<country key="FR">France</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Soulier</surname></persName>
+							<affiliation key="aff4">
+								<orgName type="laboratory">Institut Universitaire d&apos;Hématologie (IUH)</orgName>
+								<orgName type="institution" key="instit1">Université Denis Diderot</orgName>
+								<orgName type="institution" key="instit2">Hematology Laboratory AP-HP</orgName>
+								<orgName type="institution" key="instit3">Hô pital St-Louis</orgName>
+								<address>
+									<settlement>Paris</settlement>
+									<country key="FR">France</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J-P</forename><surname>Fermand</surname></persName>
+							<affiliation key="aff4">
+								<orgName type="laboratory">Institut Universitaire d&apos;Hématologie (IUH)</orgName>
+								<orgName type="institution" key="instit1">Université Denis Diderot</orgName>
+								<orgName type="institution" key="instit2">Hematology Laboratory AP-HP</orgName>
+								<orgName type="institution" key="instit3">Hô pital St-Louis</orgName>
+								<address>
+									<settlement>Paris</settlement>
+									<country key="FR">France</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff5">
+								<orgName type="department">Département d&apos;Immunologie</orgName>
+								<orgName type="institution" key="instit1">Hô pital Saint-Louis</orgName>
+								<orgName type="institution" key="instit2">Assistance Publique-Hô pitaux de Paris</orgName>
+								<address>
+									<settlement>Paris</settlement>
+									<country key="FR">France</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">I</forename><surname>Yakoub-Agha</surname></persName>
+							<affiliation key="aff6">
+								<orgName type="department">Hematology Department</orgName>
+								<orgName type="institution">University Hospital Huriez</orgName>
+								<address>
+									<settlement>Lille</settlement>
+									<country key="FR">France</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Attal</surname></persName>
+							<affiliation key="aff7">
+								<orgName type="department">Hematology Department</orgName>
+								<orgName type="institution">Centre Hospitalier Purpan</orgName>
+								<address>
+									<settlement>Toulouse</settlement>
+									<country key="FR">France</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><surname>Hulin</surname></persName>
+							<affiliation key="aff8">
+								<orgName type="department">Hematology Department</orgName>
+								<orgName type="institution">University Hospital Brabois</orgName>
+								<address>
+									<settlement>Nancy</settlement>
+									<country key="FR">France</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">L</forename><surname>Garderet</surname></persName>
+							<affiliation key="aff9">
+								<orgName type="department">Hematology Department</orgName>
+								<orgName type="institution" key="instit1">Hô pital Saint-Antoine</orgName>
+								<orgName type="institution" key="instit2">Assistance Publique-Hô pitaux de Paris</orgName>
+								<address>
+									<settlement>Paris</settlement>
+									<country key="FR">France</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><surname>Belhadj</surname></persName>
+							<affiliation key="aff10">
+								<orgName type="department">Hematology Department</orgName>
+								<orgName type="institution" key="instit1">Hô pital Henri Mondor</orgName>
+								<orgName type="institution" key="instit2">Assistance Publique-Hô pitaux de Paris</orgName>
+								<address>
+									<settlement>Paris</settlement>
+									<country key="FR">France</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">V</forename><surname>Dorvaux</surname></persName>
+							<affiliation key="aff11">
+								<orgName type="department">Hematology Department</orgName>
+								<orgName type="institution">Hô pital Notre-Dame de Bon Secours</orgName>
+								<address>
+									<settlement>Metz</settlement>
+									<country key="FR">France</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Minvielle</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="institution">Institut National de la Santé et de la Recherche Médicale (INSERM)</orgName>
+								<address>
+									<addrLine>Unité 892</addrLine>
+									<settlement>Nantes</settlement>
+									<country key="FR">France</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="laboratory">Hematology Laboratory</orgName>
+								<orgName type="institution">University Hospital Hô tel-Dieu</orgName>
+								<address>
+									<settlement>Nantes</settlement>
+									<country key="FR">France</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff2">
+								<orgName type="department">Centre d&apos;Etude et de Recherche sur le Myélome (CERM)</orgName>
+								<address>
+									<settlement>Nantes</settlement>
+									<country key="FR">France</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff3">
+								<orgName type="institution">Institut Régional du Cancer Nantes-Atlantique (IRCNA)</orgName>
+								<address>
+									<settlement>Nantes</settlement>
+									<country key="FR">France</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><surname>Moreau</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="institution">Institut National de la Santé et de la Recherche Médicale (INSERM)</orgName>
+								<address>
+									<addrLine>Unité 892</addrLine>
+									<settlement>Nantes</settlement>
+									<country key="FR">France</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff2">
+								<orgName type="department">Centre d&apos;Etude et de Recherche sur le Myélome (CERM)</orgName>
+								<address>
+									<settlement>Nantes</settlement>
+									<country key="FR">France</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff3">
+								<orgName type="institution">Institut Régional du Cancer Nantes-Atlantique (IRCNA)</orgName>
+								<address>
+									<settlement>Nantes</settlement>
+									<country key="FR">France</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff12">
+								<orgName type="department">Hematology Department</orgName>
+								<orgName type="institution">University Hospital Hô tel-Dieu</orgName>
+								<address>
+									<settlement>Nantes</settlement>
+									<country key="FR">France</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff13">
+								<orgName type="department">Institut de Biologie</orgName>
+								<orgName type="laboratory">Laboratoire d&apos;Hémato-logie</orgName>
+								<address>
+									<addrLine>9 quai Moncouscu</addrLine>
+									<postCode>44093</postCode>
+									<settlement>Nantes</settlement>
+									<country key="FR">France</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Impact of high-risk cytogenetics and prior therapy on outcomes in patients with advanced relapsed or refractory multiple myeloma treated with lenalidomide plus dexaméthasone</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date type="published" when="2010-01-14">14 January 2010</date>
+						</imprint>
+					</monogr>
+					<idno type="DOI">10.1038/leu.2009.273</idno>
+					<note type="submission">Received 6 May 2009; revised 29 October 2009; accepted 9 November 2009;</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.6.1" ident="GROBID" when="2021-01-01T18:48+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>myeloma</term>
+					<term>lenalidomide</term>
+					<term>cytogenetics</term>
+					<term>FISH</term>
+					<term>prognosis</term>
+				</keywords>
+			</textClass>
+			<abstract>
+				<p>This retrospective analysis investigated the prognostic value of del(13) and t(4;14) abnormalities and the impact of prior treatment on outcomes in 207 heavily pretreated patients with relapsed or refractory multiple myeloma (MM) treated with lenalidomide plus dexamethasone. Patients with relapsed or refractory MM who had either earlier received thalidomide or bortezomib, or for whom continuation of these agents was contraindicated, and who had fluorescence in situ hybridization data available were included in the analysis. Patients with relapsed or refractory MM who received treatment with lenalidomide plus dexamethasone in the presence of del(13) and t(4;14) chromosomal abnormalities had lower overall response rates (ORRs) and shorter median progression-free survival (PFS) and overall survival (OS) compared with those who did not have these abnormalities. The results also showed that prior treatment with bortezomib was associated with shorter median PFS and OS. Progression during thalidomide therapy was the only significant independent predictor for OS and that the presence of del(13) and hemoglobin levels o10 g per 100 ml were prognostic factors for ORR and PFS, but not OS, in these heavily pretreated relapsed or refractory MM patients treated with lenalidomide plus dexamethasone.</p>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Introduction</head><p>Multiple myeloma (MM) is a common hematological malignancy, which accounts for B2% of all cancer deaths according to recent US statistics. <ref type="bibr" target="#b0">1</ref> It is an incurable disease, but with the introduction of novel therapies, such as thalidomide, lenalidomide, and bortezomib, median survival has doubled to B4-5 years and patients now have a 20% chance of surviving longer than 10 years. <ref type="bibr" target="#b1">2</ref> Lenalidomide (Revlimid; Celgene Corporation, Summit, NJ, USA) in combination with dexamethasone was shown to be highly effective in the treatment of patients with relapsed or refractory MM <ref type="bibr" target="#b2">3,</ref><ref type="bibr" target="#b3">4</ref> and has been approved in the European Union and the United States for the treatment of patients with MM who have received at least one prior therapy.</p><p>The chromosomal abnormalities of del <ref type="bibr" target="#b12">(13)</ref>, t <ref type="bibr">(4;14)</ref>, and del(17p) are associated with poor progression-free survival (PFS) and shorter overall survival (OS) in newly diagnosed MM patients treated with traditional chemotherapy. <ref type="bibr" target="#b4">[5]</ref><ref type="bibr" target="#b5">[6]</ref><ref type="bibr" target="#b6">[7]</ref><ref type="bibr" target="#b7">[8]</ref> It was earlier reported that newly diagnosed MM patients with an abnormal karyotype treated with lenalidomide plus dexamethasone had a lower PFS and OS compared with patients with a normal karyotype. <ref type="bibr" target="#b8">9</ref> Preliminary results from a study in patients with relapsed and refractory MM treated with lenalidomide plus dexamethasone showed that this combination can overcome the poor prognosis conferred by the chromosomal abnormalities of del <ref type="bibr" target="#b12">(13)</ref> and t <ref type="bibr">(4;14)</ref>, but not del(17p). <ref type="bibr" target="#b9">10</ref> In contrast, a recent analysis of 100 patients treated with lenalidomide plus dexamethasone at diagnosis revealed that this combination was not able to overcome the poor prognosis of chromosomal abnormalities and high labeling index. <ref type="bibr" target="#b10">11</ref> The prognostic value of these cytogenetic abnormalities and the impact of prior therapy in the relapsed and refractory setting remain to be fully defined.</p><p>We performed a retrospective analysis to investigate the prognostic values of del <ref type="bibr" target="#b12">(13)</ref>, t <ref type="bibr">(4;14)</ref>, and del(17p) and the impact of prior treatment on outcomes in relapsed or refractory MM patients treated with lenalidomide plus dexamethasone.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Materials and methods</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>The Autorisation Temporaire d'Utilisation program, or</head><p>Temporary Authorization for Use, is the regulatory mechanism used by the French Health Products and Safety Agency, which allows access of non-approved drugs to patients in France, on a named-patient basis. Medical records were obtained from 49 clinical centers participating in the French Autorisation Temporaire d'Utilisation program.</p><p>Patients with relapsed or refractory MM who had earlier received alkylating agents as well as prior thalidomide and/or bortezomib and patients with available fluorescence in situ hybridization (FISH) data were included in the analysis. Patients received oral treatment with lenalidomide (25 mg per day on days 1-21 of every 28-day cycle) plus dexamethasone (40 mg per day on days 1-4, 9-12, and 17-20 for four cycles, then days 1-4 beginning with cycle 5).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Assessments</head><p>At enrolment, FISH cytogenetic analysis was performed by two laboratories (in Nantes and Paris). CD138-purified plasma cells were analyzed for del <ref type="bibr" target="#b12">(13)</ref>, t <ref type="bibr">(4;14)</ref>, and del(17p) as described earlier. <ref type="bibr" target="#b5">6</ref> Response and disease progression endpoints were evaluated using the European Group for Blood and Marrow Transplantation criteria. <ref type="bibr" target="#b11">12,</ref><ref type="bibr" target="#b12">13</ref> OS data were collected at the time of the patients' last visit.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Statistical analyses</head><p>The independent prognostic impact of the chromosomal abnormalities del(13) and t <ref type="bibr">(4;14)</ref> was analyzed by comparing the outcomes (overall response rate [ORR], PFS, and OS) of patients with or without the respective abnormality. Patient response and survival according to the presence or absence of del(17p) were not evaluable because of the small number of patients with del(17p) (n ¼ 8). The w 2 tests, Fisher's exact test, and logistic regression were used to compare ORR between groups. Time-to-event variables were estimated by Kaplan-Meier methods. Two-sided log-rank tests were used to compare survivorship functions between groups.</p><p>Multivariate analyses using Cox proportional-hazard regression model were performed to assess the impact of the following variables on ORR, PFS, and OS: age, sex, hemoglobin level, presence of del <ref type="bibr" target="#b12">(13)</ref>, presence of t <ref type="bibr">(4;14)</ref>, prior bortezomib treatment, prior thalidomide treatment, progression on thalidomide, prior stem cell transplant, and number of lines of earlier therapy. Age, hemoglobin, and number of lines of earlier therapy were continuous variables; all other variables were dichotomous. The thresholds for entry and stay were 0.25 and 0.15, respectively.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Results</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Patient characteristics</head><p>Of 228 eligible patients, 207 patients enrolled in the Autorisation Temporaire d'Utilisation program between April 2006 and March 2007 were included in this analysis. The remaining 21 patients were excluded either because of early death before the end of the first cycle (n ¼ 14) or because of patient or physician refusal for continued participation (n ¼ 7).</p><p>FISH data for del <ref type="bibr" target="#b12">(13)</ref> were available in 92% (191 of 207) of patients, for t <ref type="bibr">(4;14)</ref> in 89% (184 of 207) of patients, and for del(17p) in 58% (120 of 207) of patients. Del <ref type="bibr" target="#b12">(13)</ref> was observed in 41% of analyzed patients, t <ref type="bibr">(4;14)</ref> in 14% of patients, and del(17p) in 7% of patients <ref type="table" target="#tab_0">(Table 1)</ref>, in agreement with earlier reports. Patients had received a median of three prior therapies (range, 1-10); 86% of patients had received prior thalidomide therapy and 81% had received prior bortezomib therapy. At the time of analysis (November 2007), all patients had received lenalidomide plus dexamethasone for a median of five cycles (range, 1-22) ( <ref type="table" target="#tab_0">Table 1</ref>).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Efficacy</head><p>Among the 207 patients, the ORR was achieved in 59% of patients, including complete response in 7% and very good partial response in 14%. The median PFS was 9.6 months and the median OS was 15.1 months ( <ref type="table" target="#tab_1">Table 2)</ref>.</p><p>Impact of chromosomal abnormalities. Among patients with del(13) compared with patients without del(13), the ORR was significantly lower, and median PFS and OS were significantly shorter, (ORR 43% vs 71%, respectively, Po0.001; median PFS 5.0 months vs 12.5 months, Po0.0001; median OS 10.4 months vs 17.4 months, P ¼ 0.001) ( <ref type="table" target="#tab_1">Table 2</ref>; Figures 1a and b). A similar pattern was observed among patients with t(4;14) compared with patients without t(4;14) (ORR 39% vs 62%, respectively, P ¼ 0.04; median PFS 5.5 months vs 10.6 months, Po0.01; median OS 9.4 months vs 15.4 months, P ¼ 0.005) ( <ref type="table" target="#tab_1">Table 2)</ref>.</p><p>Patients with isolated del(13), defined as the presence of del(13) without t <ref type="bibr">(4;14)</ref> or del(17p), had significantly lower ORR compared with patients without isolated del(13) (43% vs 71%, respectively; P ¼ 0.01) ( <ref type="table" target="#tab_1">Table 2</ref>). In contrast, the median PFS and OS were not (or marginally) shorter in patients with isolated del(13) (PFS was 8 months vs 10.4 months, P ¼ 0.05; OS was 10.8 months vs 15.1 months, P ¼ 0.56). The number of patients with del(17p) was too low for meaningful interpretation.</p><p>Impact of prior treatment. Patients who had received prior treatment with bortezomib had significantly lower ORR (55.4% vs 74.3%; P ¼ 0.04), shorter median PFS (8.3 months vs not reached; P ¼ 0.0003) and significantly shorter median OS (12.2 months vs not reached; Po0.002) compared with patients who did not receive prior bortezomib. In contrast, patients who received prior thalidomide therapy had comparable ORR (57.0% vs 69.2%; P ¼ 0.24), as well as comparable median PFS (8.5 months vs 10.6 months; P ¼ 0.10) and median OS , and del(17p), 32 had del(13) without t <ref type="bibr">(4;14)</ref> or del(17p).</p><p>(9.4 months vs not yet reached, P ¼ 0.43) compared with those who were not earlier treated with thalidomide. Patients who progressed during thalidomide therapy had a significantly shorter PFS (5.7 months vs 15.7 months; Po0.0001) and OS (9.7 months vs 16.1 months; P ¼ 0.0007) compared with those who did not progress during thalidomide therapy <ref type="figure" target="#fig_1">(Figures 2a  and b</ref>). Patients who were thalidomide resistant had received an additional line of therapy (median, 4 vs 3) and a higher proportion had t(4;14) (16% vs 9%) compared with patients who were not thalidomide resistant.</p><p>Additional analyses were conducted to determine the combined impact of progression on thalidomide and either del <ref type="bibr" target="#b12">(13)</ref> or prior bortezomib use on OS. For patients who did not progress on thalidomide, the median OS was 10.4 months for patients with del <ref type="bibr" target="#b12">(13)</ref> and not reached for patients without del(13). However, for patients who progressed on thalidomide,   there was no difference in OS between patients with or without del(13) (median 9.5 months vs 9.7 months, respectively). For patients who progressed on thalidomide, the median OS was 11.6 months if they had prior bortezomib and not reached if they had no prior bortezomib. However, for patients with no prior bortezomib use, there was no difference in OS between patients with or without progression on thalidomide (median not reached for both).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Multivariate analyses</head><p>Multivariate analysis on ORR identified lower hemoglobin level o10 g 100 ml (hazard ratio (HR): 1.230; 95% confidence interval (CI): 1.000-1.511; P ¼ 0.05), increased number of prior therapies (HR: 0.745; 95% CI: 0.573-0.967; P ¼ 0.03), and del(13) (HR: 3.431; 95% CI: 1.531-7.689; P ¼ 0.003) as independent predictors of lower ORR <ref type="table" target="#tab_2">(Table 3</ref>). Sex and t(4;14) met the criteria to stay in the model though they were not statistically significant. Age, sex, prior transplant, prior bortezomib use, prior thalidomide use, and progression during thalidomide did not affect ORR <ref type="table" target="#tab_2">(Table 3)</ref>. Multivariate analysis on PFS identified progression during thalidomide (HR: 2.72; 95% CI: 1.66-4.46; Po0.0001), del(13) (HR: 2.35; 95% CI: 1.44-3.83; Po0.001), and lower hemoglobin level o10 g per 100 ml (HR: 0.81; 95% CI: 0.71-0.93; P ¼ 0.002) as independent predictors of reduced PFS <ref type="table" target="#tab_3">(Table 4</ref>). There was a trend toward reduced PFS with prior bortezomib use (HR: 2.37; 95% CI: 0.91-6.16; P ¼ 0.076) and increased number of prior therapies (HR: 1.17. 95% CI: 0.99-1.37; P ¼ 0.062) <ref type="table" target="#tab_3">(Table 4)</ref>. Age, sex, prior transplant, prior thalidomide use, and t(4;14) translocation were not predictive of PFS <ref type="table" target="#tab_3">(Table 4)</ref>.</p><p>Multivariate analysis on OS identified progression on thalidomide (HR: 1.810; 95% CI: 1.081-3.030; Po0.02) as the only significant independent predictor of reduced OS <ref type="table" target="#tab_4">(Table 5</ref>). There was a trend toward reduced OS with prior bortezomib use (HR: 2.611; 95% CI: 0.927-7.360; P ¼ 0.07) ( <ref type="table" target="#tab_4">Table 5</ref>). Del(13) and t(4;14) met the criteria to stay in the model though they were not statistically significant. Age, sex, number of lines of prior therapy, prior transplant, prior thalidomide treatment, and hemoglobin level did not affect OS <ref type="table" target="#tab_4">(Table 5</ref>).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Discussion</head><p>In this heavily pretreated population, the combination of lenalidomide plus dexamethasone achieved an ORR of 59% and median PFS of 9.6 months. These data are consistent with the results of the pivotal phase III studies in patients with more than one prior therapy (ORR 57%; median PFS 9.5 months). <ref type="bibr" target="#b2">3,</ref><ref type="bibr" target="#b3">4</ref> The median OS was lower in this study (15.1 months) than in the phase III studies (35.8 months). This can be explained by the higher percentage of patients with prior SCT (73% vs 53%), prior thalidomide (86% vs 52%), and prior bortezomib (81% vs 11%). In this study, multivariate analyses showed that lower hemoglobin level, increased number of prior therapies, and del <ref type="bibr" target="#b12">(13)</ref> were independent predictors of lower ORR; that lower  hemoglobin level, progression on thalidomide, and del <ref type="bibr" target="#b12">(13)</ref> were prognostic of reduced PFS; and that progression on thalidomide was the only significant independent predictor of OS. The chromosomal abnormalities del(13), t <ref type="bibr">(4;14)</ref>, and del(17p) have been associated with a decreased OS in newly diagnosed MM treated with traditional chemotherapy. <ref type="bibr" target="#b5">6,</ref><ref type="bibr" target="#b6">7</ref> In the presence of abnormal karyotypes, newly diagnosed MM patients treated with lenalidomide plus dexamethasone also have a shorter PFS and OS compared with patients with normal karyotypes. <ref type="bibr" target="#b8">9</ref> The prognostic value of these chromosomal abnormalities has not been assessed in elderly patients with advanced heavily pretreated MM.</p><p>In this retrospective study of patients with relapsed or refractory MM who received treatment with lenalidomide plus dexamethasone, the incidence of del(13), t <ref type="bibr">(4;14)</ref>, and del(17p) was consistent with the incidence reported by the Intergroupe Francophone du Myélome (IFM) group. In this study of patients with relapsed or refractory MM with del(13), t <ref type="bibr">(4;14)</ref>, and del(17p) cytogenetic abnormalities achieved an ORR of 59%, similar to that reported (60.6%) for the overall cohort of patients in the pivotal phase III registration studies. <ref type="bibr" target="#b2">3,</ref><ref type="bibr" target="#b3">4</ref> Patients with del(13) and t(4;14) chromosomal abnormalities had lower ORRs and shorter median PFS and OS compared with those who did not have these abnormalities. These results partly contrast the MM-016 study by Reece et al., <ref type="bibr" target="#b9">10</ref> which reported that relapsed and refractory MM patients treated with lenalidomide plus dexamethasone overcame poor prognosis conferred by the chromosomal abnormalities of del(13), t(4;14), but not del(17p), as evidenced by the findings that the advantage in TTP and OS conferred by the addition of lenalidomide to dexamethasone were independent of del(13) or t <ref type="bibr">(4;14)</ref> abnormalities. However, the study also reported that both del(13q) and t <ref type="bibr">(4;14)</ref> were associated with shorter TTP in univariate analyses, and that the ORRs in patients with del(13q), t <ref type="bibr">(4;14)</ref>, and del(17p13) (76.4, 78.6 and 58.3%, respectively) were lower than reported for the overall study population (83.1%). The partial contrast between these findings could be a result of differences in patient characteristics between the two studies. Patients in our study were older (median age of 65 years vs 61 years), had a higher median number of prior therapies (3 vs 2), and a higher proportion of patients with earlier thalidomide (86% vs 54%) or bortezomib (81% vs 46%) therapy. However, our results confirm those observed in newly diagnosed patients, although the definition of high-risk patients was slightly different. <ref type="bibr" target="#b10">11</ref> Another finding in this study is the prognostic value of isolated del <ref type="bibr" target="#b12">(13)</ref>. In studies analyzing patients at diagnosis, isolated del(13) (that is not associated with t <ref type="figure" target="#fig_0">(4;14)</ref> or del(17p)) was not associated with a particular outcome. In other words, all the prognostic value of del(13) was related to the prognostic impact of related chromosomal abnormalities. In this study, del <ref type="bibr" target="#b12">(13)</ref> was associated with a lower ORR and a shorter PFS. This may suggest that del(13) displays a different prognostic value at diagnosis and in later phases of the disease.</p><p>Most patients in this study had received earlier thalidomide (81%) and/or bortezomib (86%) therapy. Wang et al. <ref type="bibr" target="#b13">14</ref> reported that efficacy of lenalidomide and dexamethasone was superior to dexamethasone alone in patients with relapsed or refractory MM treated with lenalidomide and dexamethasone regardless of prior thalidomide exposure. The efficacy results were more favorable for patients without than with prior thalidomide treatment; however, this was also observed for patients treated with dexamethasone alone and probably reflects the fact that patients with prior thalidomide exposure were more heavily pretreated (median 3 vs 2 prior therapies). In this study, we found that prior thalidomide made no difference in PFS or OS according to univariate and multivariate analyses, but that patients who progressed on thalidomide had shorter OS than patients who had not progressed on thalidomide. In addition, for patients who had not progressed on thalidomide, those without del(13) had better OS than patients with del(13); however, for patients who had progressed on thalidomide, the presence of del(13) did not have an adverse effect on OS. Patients who were resistant to thalidomide had an additional line of prior therapy (median of 4 vs 3 prior lines) and a higher incidence of t(4;14) (16% vs 9%) than patients who were not resistant to thalidomide, which may account for poorer outcomes observed in these patients. However, the main explanation is probably a cross-resistance between the two related drugs. Finally, patients who had received prior bortezomib therapy had significantly shorter median PFS and OS compared with those with no earlier bortezomib treatment. Our data show that OS is only compromised in patients who progressed on thalidomide if they received prior bortezomib, which suggests that bortezomib may induce resistance to late salvage therapy. This could be related to the adaptive mechanisms, which allow cells to develop resistance to proteasome inhibitors and establish a hyperproliferative and apoptosis-resistant phenotype. <ref type="bibr" target="#b14">15,</ref><ref type="bibr" target="#b15">16</ref> However, we have to stress that patients who did not receive bortezomib presented a lower median number of lines of treatment (median ¼ 2), than those who receive prior bortezomib (median ¼ 4).</p><p>In relapsed or refractory MM patients with del(13), outcomes reported here for lenalidomide and dexamethasone are comparable with those reported for bortezomib in a consecutive patient cohort (ORR 45%; OS 9.9 months) <ref type="bibr" target="#b16">17</ref> and in a retrospective analysis of the SUMMIT (ORR 24%; OS 10.0 months) and APEX (ORR 20-53%; OS 10.0 months to not reached) trials. <ref type="bibr" target="#b17">18</ref> In the consecutive patient cohort, the authors reported no significant difference in outcomes between patients with and without del <ref type="bibr" target="#b12">(13)</ref>; however, median time from initiation of first-line therapy was significantly shorter in patients with than without del(13) (26 months vs 51 months; P ¼ 0.02). <ref type="bibr" target="#b16">17</ref> In the retrospective analysis, prognosis appeared to be poorer in patients with del <ref type="bibr" target="#b12">(13)</ref> in both studies, but the differences were not statistically significant in the matched-pairs analyses (selected groups of patients balanced for age and ISS parameters). <ref type="bibr" target="#b17">18</ref> Our study adds new data with regard to the prognostic value of high-risk cytogenetic abnormalities in relapsed or refractory MM treated with novel therapies. The data are limited by the retrospective nature of the analysis and the relatively high rate of missing data. These results are not completely consistent with currently available data and further clarification is required, ideally by prospective studies.</p><p>In conclusion, multivariate analyses showed that an increased number of prior therapies was predictive of lower ORR; lower hemoglobin level and the presence of del <ref type="bibr" target="#b12">(13)</ref> were prognostic of reduced ORR and lower median PFS; and progression on thalidomide was an independent predictor of both PFS and OS. This study confirms the beneficial effects of lenalidomide and dexamethasone in this heavily pretreated population and suggests that because of a better toxicity profile, lenalidomide should be proposed earlier in the patient evolution. Randomized clinical trials are needed to further evaluate these findings.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>Figure 1</head><label>1</label><figDesc>PFS (a) and OS (b) according to the presence of del<ref type="bibr" target="#b12">(13)</ref>.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head>Figure 2</head><label>2</label><figDesc>PFS (a) and OS (b) according to progression on thalidomide or not.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>Table 1</head><label>1</label><figDesc>Main characteristics of patients with relapsed or refractory MM who received lenalidomide plus dexamethasone therapy (n ¼ 207)</figDesc><table><row><cell>Characteristics</cell><cell></cell></row><row><cell>Median age, years (range)</cell><cell>65 (37-89)</cell></row><row><cell>Male (%)</cell><cell>56</cell></row><row><cell>ISS stage (%)</cell><cell></cell></row><row><cell>1</cell><cell>73 (35)</cell></row><row><cell>2</cell><cell>31 (15)</cell></row><row><cell>3</cell><cell>34 (16)</cell></row><row><cell>Missing</cell><cell>69 (33)</cell></row><row><cell>Chromosomal abnormality (%) a</cell><cell></cell></row><row><cell>Del(13)</cell><cell>41</cell></row><row><cell>t(4;14)</cell><cell>14</cell></row><row><cell>Del(17p) Isolated del(13)</cell><cell>7 35 b</cell></row><row><cell>Median number of Len/Dex cycles (range)</cell><cell>5 (1-22)</cell></row><row><cell>Median number of prior therapies (range)</cell><cell>3 (1-10)</cell></row><row><cell>Prior therapies (%)</cell><cell></cell></row><row><cell>High-dose melphalan</cell><cell>72</cell></row><row><cell>Bortezomib</cell><cell>81</cell></row><row><cell>Thalidomide</cell><cell>86</cell></row><row><cell>Progression on prior thalidomide (%) Hemoglobin level o 10 g per 100 ml (%)</cell><cell>39 39</cell></row><row><cell>Mild-to-moderate RI (%) PN grade p2 (%)</cell><cell>23 72</cell></row></table><note>Abbreviations: FISH, fluorescence in situ hybridization; Len/Dex, lenalidomide plus dexamethasone; MM, multiple myeloma; PN, peripheral neuropathy; RI, renal impairment.a Assessed using available FISH data from 191 patients for del(13), 184 patients for t(4;14), and 120 patients for del(17p).b Of 92 patients with FISH data for del(13), t(4;14)</note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_1"><head>Table 2</head><label>2</label><figDesc>Response, PFS, and OS in patients with relapsed or refractory MM who received treatment with lenalidomide plus dexamethasone, according to cytogenetic abnormalities Abbreviations: MM, multiple myeloma; ORR, overall response rate; OS, overall survival; PFS, progression-free survival.</figDesc><table><row><cell></cell><cell>All patients</cell><cell></cell><cell>Del(13) vs</cell><cell></cell><cell></cell><cell>Isolated</cell><cell></cell><cell></cell><cell>t(4;14) vs no</cell></row><row><cell></cell><cell>(N ¼ 207)</cell><cell></cell><cell cols="2">no Del(13) n ¼ 178</cell><cell cols="3">Del(13) a vs no Del(13) n ¼ 92</cell><cell></cell><cell cols="2">t(4;14) n ¼ 172</cell></row><row><cell></cell><cell></cell><cell cols="2">Del(13) No del(13)</cell><cell>P</cell><cell cols="2">Isolated Del(13) No Del(13)</cell><cell>P</cell><cell cols="2">t(4;14) No t(4;14)</cell><cell>P</cell></row><row><cell>ORR (%) Median PFS (months) Median OS (months)</cell><cell>59 9.6 15.1</cell><cell>43 5 10.4</cell><cell>71 12.5 17.4</cell><cell>o0.001 b o0.0001 c 0.001 c</cell><cell>43 8.0 10.8</cell><cell>71 10.4 15.1</cell><cell cols="2">0.0127 39 0.0495 5.5 0.5645 9.4</cell><cell>62 10.6 15.4</cell><cell>0.04 b o0.01 c 0.005 c</cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell cols="2">), t(4;14), and</cell></row><row><cell>del(17p).</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row></table><note>a Defined as del(13) without t(4;14) or del(17p). On the basis of 92 patients with fluorescence in situ hybridization data for del(13b w 2 test.c Log-rank test.</note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_2"><head>Table 3</head><label>3</label><figDesc>Cox proportional hazards model evaluating multi-factors on overall response rate</figDesc><table><row><cell>Variable</cell><cell>Univariate analysis</cell><cell></cell><cell>Multivariate analysis</cell><cell></cell></row><row><cell></cell><cell>Hazard ratio (95% CI)</cell><cell>P</cell><cell>Hazard ratio (95% CI)</cell><cell>P</cell></row><row><cell>Age</cell><cell>1.020 (0.990-1.051)</cell><cell>0.1965</cell><cell></cell><cell></cell></row><row><cell>Sex</cell><cell>1.370 (0.763-2.459)</cell><cell>0.2917</cell><cell>1.820 (0.834-3.974)</cell><cell>0.1326</cell></row><row><cell>Number of prior lines of therapy</cell><cell>0.837 (0.700-1.001)</cell><cell>0.0509</cell><cell>0.745 (0.573-0.967)</cell><cell>0.0270</cell></row><row><cell>Prior transplant</cell><cell>0.936 (0.491-1.785)</cell><cell>0.8416</cell><cell></cell><cell></cell></row><row><cell>Prior bortezomib use</cell><cell>2.324 (1.023-5.281)</cell><cell>0.0440</cell><cell></cell><cell></cell></row><row><cell>Prior thalidomide use</cell><cell>1.699 (0.699-4.130)</cell><cell>0.2419</cell><cell></cell><cell></cell></row><row><cell>Progression on thalidomide</cell><cell>1.805 (1.001-3.255)</cell><cell>0.0497</cell><cell></cell><cell></cell></row><row><cell>Deletion of chromosome 13</cell><cell>3.237 (1.732-6.053)</cell><cell>0.0002</cell><cell>3.431 (1.531-7.689)</cell><cell>0.0027</cell></row><row><cell>Translocation (4;14)</cell><cell>2.583 (1.050-6.358)</cell><cell>0.0389</cell><cell>2.584 (0.772-8.651)</cell><cell>0.1236</cell></row><row><cell>Hemoglobin</cell><cell>1.296 (1.094-1.535)</cell><cell>0.0028</cell><cell>1.230 (1.000-1.511)</cell><cell>0.0495</cell></row><row><cell>Abbreviation: CI, confidence interval.</cell><cell></cell><cell></cell><cell></cell><cell></cell></row></table><note></note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_3"><head>Table 4</head><label>4</label><figDesc>Cox proportional hazards model evaluating multi-factors on progression-free survival</figDesc><table><row><cell>Variable</cell><cell>Univariate analysis</cell><cell></cell><cell>Multivariate analysis</cell><cell></cell></row><row><cell></cell><cell>Hazard ratio (95% CI)</cell><cell>P</cell><cell>Hazard ratio (95% CI)</cell><cell>P</cell></row><row><cell>Age</cell><cell>0.98 (0.96-1.00)</cell><cell>0.0336</cell><cell>Not retained</cell><cell></cell></row><row><cell>Sex</cell><cell>1.02 (0.68-1.51)</cell><cell>0.9405</cell><cell>Not retained</cell><cell></cell></row><row><cell>Number of prior lines of therapy</cell><cell>1.13 (1.01-1.26)</cell><cell>0.0281</cell><cell>1.17 (0.99-1.37)</cell><cell>0.062</cell></row><row><cell>Prior transplant</cell><cell>1.23 (0.78-1.95)</cell><cell>0.3733</cell><cell>Not retained</cell><cell></cell></row><row><cell>Prior bortezomib use</cell><cell>3.31 (1.66-6.58)</cell><cell>0.0006</cell><cell>2.37 (0.91-6.16)</cell><cell>0.076</cell></row><row><cell>Prior thalidomide use Progression on thalidomide Deletion of chromosome 13</cell><cell>1.81 (0.88-3.72) 2.55 (1.72-3.80) 2.75 (1.80-4.20)</cell><cell>0.1097 o0.0001 o0.0001</cell><cell>Not retained 2.72 (1.66-4.46) 2.35 (1.44-3.83)</cell><cell>o0.0001 o0.001</cell></row><row><cell>Translocation (4;14) Hemoglobin</cell><cell>2.00 (1.17-3.40) 0.79 (0.71-0.89)</cell><cell>0.0112 o0.0001</cell><cell>Not retained 0.81 (0.71-0.93)</cell><cell>0.002</cell></row></table><note>Abbreviations: CI, confidence interval; PFS, progression-free survival.</note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_4"><head>Table 5</head><label>5</label><figDesc>Cox proportional hazards model evaluating multi-factors on overall survival</figDesc><table><row><cell>Variable</cell><cell>Univariate analysis</cell><cell></cell><cell>Multivariate analysis</cell><cell></cell></row><row><cell></cell><cell>Hazard ratio (95% CI)</cell><cell>P</cell><cell>Hazard ratio (95% CI)</cell><cell>P</cell></row><row><cell>Age</cell><cell>0.984 (0.962-1.006)</cell><cell>0.1437</cell><cell>Not retained</cell><cell></cell></row><row><cell>Sex</cell><cell>0.908 (0.585-1.409)</cell><cell>0.6658</cell><cell>Not retained</cell><cell></cell></row><row><cell>Number of prior lines of therapy</cell><cell>1.083 (0.960-1.223)</cell><cell>0.1942</cell><cell>Not retained</cell><cell></cell></row><row><cell>Prior transplant</cell><cell>1.216 (0.732-2.020)</cell><cell>0.4506</cell><cell>Not retained</cell><cell></cell></row><row><cell>Prior bortezomib use</cell><cell>3.260 (1.499-7.090)</cell><cell>0.0029</cell><cell>2.611 (0.927-7.360)</cell><cell>0.0694</cell></row><row><cell>Prior thalidomide use</cell><cell>1.370 (0.629-2.982)</cell><cell>0.4282</cell><cell>Not retained</cell><cell></cell></row><row><cell>Progression on thalidomide</cell><cell>2.158 (1.391-3.348)</cell><cell>0.0006</cell><cell>1.810 (1.081-3.030)</cell><cell>0.0241</cell></row><row><cell>Deletion of chromosome 13</cell><cell>2.136 (1.338-3.411)</cell><cell>0.0015</cell><cell>1.557 (0.870-2.787)</cell><cell>0.1357</cell></row><row><cell>Translocation (4;14)</cell><cell>2.209 (1.246-3.915)</cell><cell>0.0067</cell><cell>1.665 (0.835-3.319)</cell><cell>0.1478</cell></row><row><cell>Hemoglobin</cell><cell>0.878 (0.783-0.984)</cell><cell>0.0253</cell><cell>Not retained</cell><cell></cell></row><row><cell>Abbreviation: CI, confidence interval.</cell><cell></cell><cell></cell><cell></cell><cell></cell></row></table><note></note></figure>
+		</body>
+		<back>
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Conflict of interest</head><p>The authors declare no conflict of interest.</p></div>			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title/>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Jemal</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><surname>Siegel</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><surname>Ward</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Y</forename><surname>Hao</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Xu</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Murray</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Cancer statistics</title>
+		<imprint>
+			<biblScope unit="volume">58</biblScope>
+			<biblScope unit="page" from="71" to="96" />
+			<date type="published" when="2008" />
+		</imprint>
+	</monogr>
+	<note>CA Cancer J Clin</note>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Epidemiology and outcomes research for MGUS, myeloma and amyloidosis</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">B</forename><surname>Sirohi</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><surname>Powles</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Eur J Cancer</title>
+		<imprint>
+			<biblScope unit="volume">42</biblScope>
+			<biblScope unit="page" from="1671" to="1683" />
+			<date type="published" when="2006" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Multiple Myeloma (010) Study Investigators. Lenalidomide plus dexamethasone for relapsed or refractory multiple myeloma</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Dimopoulos</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Spencer</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Attal</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><forename type="middle">M</forename><surname>Prince</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">L</forename><surname>Harousseau</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Dmoszynska</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">N Engl J Med</title>
+		<imprint>
+			<biblScope unit="volume">357</biblScope>
+			<biblScope unit="page" from="2123" to="2132" />
+			<date type="published" when="2007" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Multiple Myeloma (009) Study Investigators. Lenalidomide plus dexamethasone for relapsed multiple myeloma in North America</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><forename type="middle">M</forename><surname>Weber</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><surname>Chen</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><surname>Niesvizky</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Wang</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Belch</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><forename type="middle">A</forename><surname>Stadtmauer</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">N Engl J Med</title>
+		<imprint>
+			<biblScope unit="volume">357</biblScope>
+			<biblScope unit="page" from="2133" to="2142" />
+			<date type="published" when="2007" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Clinical and biological implications of recurrent genomic aberrations in myeloma</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><surname>Fonseca</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><surname>Blood</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Rue</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><surname>Harrington</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">M</forename><surname>Oken</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><forename type="middle">A</forename><surname>Kyle</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Blood</title>
+		<imprint>
+			<biblScope unit="volume">101</biblScope>
+			<biblScope unit="page" from="4569" to="4575" />
+			<date type="published" when="2003" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Genetic abnormalities and survival in multiple myeloma: the experience of the Intergroupe Francophone du Myélome</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><surname>Avet-Loiseau</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Attal</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><surname>Moreau</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><surname>Charbonnel</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">F</forename><surname>Garban</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><surname>Hulin</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Blood</title>
+		<imprint>
+			<biblScope unit="volume">109</biblScope>
+			<biblScope unit="page" from="3489" to="3495" />
+			<date type="published" when="2007" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">and -17p13 in myeloma patients treated with high-dose therapy</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">A</forename><surname>Gertz</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">Q</forename><surname>Lacy</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Dispenzieri</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><forename type="middle">R</forename><surname>Greipp</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">R</forename><surname>Litzow</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><forename type="middle">J</forename><surname>Henderson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Blood</title>
+		<imprint>
+			<biblScope unit="volume">106</biblScope>
+			<biblScope unit="page" from="2837" to="2840" />
+			<date type="published" when="2005" />
+		</imprint>
+	</monogr>
+	<note>Clinical implications of t(11;14)(q13;q32), t(4;14)(p16.3;q32),</note>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Chromosome abnormalities clustering and its implications for pathogenesis and prognosis in myeloma</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><forename type="middle">S</forename><surname>Debes-Marun</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">G</forename><forename type="middle">W</forename><surname>Dewald</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Bryant</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><surname>Picken</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><surname>Santana-Davila</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">N</forename><surname>Gonzalez-Paz</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Leukemia</title>
+		<imprint>
+			<biblScope unit="volume">17</biblScope>
+			<biblScope unit="page" from="427" to="436" />
+			<date type="published" when="2003" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">A randomized Southwest Oncology Group study comparing dexamethasone (D) to lenalidomide + dexamethasone (LD) as treatment of newly-diagnosed multiple myeloma (NDMM): impact of cytogenetic abnormalities on efficacy of LD, and updated overall study results</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">A</forename><surname>Zonder</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">J</forename><surname>Crowley</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">V</forename><surname>Bolejack</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">A</forename><surname>Hussein</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><forename type="middle">F</forename><surname>Moore</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">B</forename><forename type="middle">F</forename><surname>Whittenberger</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Clin Oncol</title>
+		<imprint>
+			<biblScope unit="volume">26</biblScope>
+			<date type="published" when="2008" />
+		</imprint>
+	</monogr>
+	<note>Abstract 8521</note>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Influence of cytogenetics in patients with relapsed or refractory multiple myeloma treated with lenalidomide plus dexamethasone: adverse effect of deletion 17p13</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><surname>Reece</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><forename type="middle">W</forename><surname>Song</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Fu</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">B</forename><surname>Roland</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><surname>Chang</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><forename type="middle">E</forename><surname>Horsman</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Blood</title>
+		<imprint>
+			<biblScope unit="volume">114</biblScope>
+			<biblScope unit="page" from="522" to="525" />
+			<date type="published" when="2009" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Impact of risk stratification on outcome among patients with multiple myeloma receiving initial therapy with lenalidomide and dexamethasone</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><surname>Kapoor</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Kumar</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><surname>Fonseca</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">Q</forename><surname>Lacy</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><forename type="middle">E</forename><surname>Witzig</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><forename type="middle">R</forename><surname>Hayman</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Blood</title>
+		<imprint>
+			<biblScope unit="volume">114</biblScope>
+			<biblScope unit="page" from="518" to="521" />
+			<date type="published" when="2009" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Criteria for evaluating disease response and progression in patients with multiple myeloma treated by high-dose therapy and haemopoietic stem cell transplantation. Myeloma Subcommittee of the EBMT. European Group for Blood and Marrow Transplant</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Bladé</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><surname>Samson</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><surname>Reece</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Apperley</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">B</forename><surname>Bjö Rkstrand</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">G</forename><surname>Gahrton</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Br J Haematol</title>
+		<imprint>
+			<biblScope unit="volume">102</biblScope>
+			<biblScope unit="page" from="1115" to="1123" />
+			<date type="published" when="1998" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Lenalidomide in combination with dexamethasone at first relapse in comparison with its use as later salvage therapy in relapsed or refractory multiple myeloma</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><forename type="middle">A</forename><surname>Stadtmauer</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><forename type="middle">M</forename><surname>Weber</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><surname>Niesvizky</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Belch</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">H</forename><surname>Prince</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">San</forename><surname>Miguel</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">F</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Eur J Haematol</title>
+		<imprint>
+			<biblScope unit="volume">82</biblScope>
+			<biblScope unit="page" from="426" to="432" />
+			<date type="published" when="2009" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Lenalidomide plus dexamethasone is more effective than dexamethasone alone in patients with relapsed or refractory multiple myeloma regardless of prior thalidomide exposure</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Wang</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">A</forename><surname>Dimopoulos</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><surname>Chen</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">T</forename><surname>Cibeira</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Attal</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Spencer</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Blood</title>
+		<imprint>
+			<biblScope unit="volume">112</biblScope>
+			<biblScope unit="page" from="4445" to="4451" />
+			<date type="published" when="2008" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">Adaptive modification and flexibility of the proteasome system in response to proteasome inhibition</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><surname>Naujokat</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><surname>Fuchs</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><surname>Berges</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Biochim Biophys Acta</title>
+		<imprint>
+			<biblScope unit="volume">1773</biblScope>
+			<biblScope unit="page" from="1389" to="1397" />
+			<date type="published" when="2007" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Increased expression and altered subunit composition of proteasomes induced by continuous proteasome inhibition establish apoptosis resistance and hyperproliferation of Burkitt lymphoma cells</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><surname>Fuchs</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><surname>Berges</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">G</forename><surname>Opelz</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">V</forename><surname>Daniel</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><surname>Naujokat</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Cell Biochem</title>
+		<imprint>
+			<biblScope unit="volume">103</biblScope>
+			<biblScope unit="page" from="270" to="283" />
+			<date type="published" when="2008" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Bortezomib in relapsed multiple myeloma: response rates and duration of response are independent of a chromosome 13q-deletion</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">V</forename><surname>Sagaster</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><surname>Ludwig</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><surname>Kaufmann</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">V</forename><surname>Odelga</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">N</forename><surname>Zojer</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Ackermann</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Leukemia</title>
+		<imprint>
+			<biblScope unit="volume">21</biblScope>
+			<biblScope unit="page" from="164" to="168" />
+			<date type="published" when="2007" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Bortezomib appears to overcome the poor prognosis conferred by chromosome 13 deletion in phase 2 and 3 trials</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Jagannath</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><forename type="middle">G</forename><surname>Richardson</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><surname>Sonneveld</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">W</forename><surname>Schuster</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><surname>Irwin</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><forename type="middle">A</forename><surname>Stadtmauer</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Leukemia</title>
+		<imprint>
+			<biblScope unit="volume">21</biblScope>
+			<biblScope unit="page" from="151" to="157" />
+			<date type="published" when="2007" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

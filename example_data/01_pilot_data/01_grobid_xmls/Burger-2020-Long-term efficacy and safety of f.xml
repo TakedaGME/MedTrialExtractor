@@ -1,0 +1,1414 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /data/rsg/nlp/juanmoo1/bin/grobid-0.6.1/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Long-term efficacy and safety of first-line ibrutinib treatment for patients with CLL/SLL: 5 years of follow-up from the phase 3 RESONATE-2 study</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+				<date type="published" when="2019-10-18">18 October 2019</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author role="corresp">
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Jan</forename><forename type="middle">A</forename><surname>Burger</surname></persName>
+							<email>jaburger@mdanderson.org</email>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Leukemia</orgName>
+								<orgName type="institution">University of Texas MD Anderson Cancer Center</orgName>
+								<address>
+									<settlement>Houston</settlement>
+									<region>TX</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Paul</forename><forename type="middle">M</forename><surname>Barr</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="department">Wilmot Cancer Institute</orgName>
+								<orgName type="institution">University of Rochester Medical Center</orgName>
+								<address>
+									<settlement>Rochester</settlement>
+									<region>NY</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">•</forename><forename type="middle">Tadeusz</forename><surname>Robak</surname></persName>
+							<affiliation key="aff2">
+								<orgName type="institution" key="instit1">Medical University of Lodz</orgName>
+								<orgName type="institution" key="instit2">Copernicus Memorial Hospital</orgName>
+								<address>
+									<settlement>Lodz</settlement>
+									<country key="PL">Poland</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Carolyn</forename><surname>Owen</surname></persName>
+							<affiliation key="aff3">
+								<orgName type="department">Tom Baker Cancer Centre</orgName>
+								<orgName type="institution">University of Calgary</orgName>
+								<address>
+									<settlement>Calgary</settlement>
+									<region>AB</region>
+									<country key="CA">Canada</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Paolo</forename><surname>Ghia</surname></persName>
+							<idno type="ORCID">0000-0003-3750-7342</idno>
+							<affiliation key="aff4">
+								<orgName type="institution" key="instit1">Università Vita-Salute San Raffaele</orgName>
+								<orgName type="institution" key="instit2">IRCCS Ospedale San Raffaele</orgName>
+								<address>
+									<settlement>Milan</settlement>
+									<country key="IT">Italy</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Alessandra</forename><surname>Tedeschi</surname></persName>
+							<affiliation key="aff5">
+								<orgName type="institution">ASST Grande Ospedale Metropolitano Niguarda</orgName>
+								<address>
+									<settlement>Milan</settlement>
+									<country key="IT">Italy</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">•</forename><surname>Osnat Bairey</surname></persName>
+							<affiliation key="aff6">
+								<orgName type="department" key="dep1">Rabin Medical Center</orgName>
+								<orgName type="department" key="dep2">Sackler Faculty of Medicine</orgName>
+								<orgName type="institution">Tel Aviv University</orgName>
+								<address>
+									<settlement>Petah Tikva, Tel Aviv</settlement>
+									<country>Israel, Israel</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Peter</forename><surname>Hillmen</surname></persName>
+							<affiliation key="aff7">
+								<orgName type="institution" key="instit1">The Leeds Teaching Hospitals</orgName>
+								<orgName type="institution" key="instit2">St. James Institute of Oncology</orgName>
+								<orgName type="institution" key="instit3">University of Leeds</orgName>
+								<address>
+									<settlement>Leeds</settlement>
+									<country key="GB">UK</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">•</forename><surname>Steven</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><surname>Coutre</surname></persName>
+							<affiliation key="aff8">
+								<orgName type="department">Stanford Cancer Center</orgName>
+								<orgName type="institution">Stanford University School of Medicine</orgName>
+								<address>
+									<settlement>Stanford</settlement>
+									<region>CA</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Stephen</forename><surname>Devereux</surname></persName>
+							<affiliation key="aff9">
+								<orgName type="institution" key="instit1">Kings College Hospital</orgName>
+								<orgName type="institution" key="instit2">NHS Foundation Trust</orgName>
+								<address>
+									<settlement>London</settlement>
+									<country key="GB">UK</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Sebastian</forename><surname>Grosicki</surname></persName>
+							<affiliation key="aff10">
+								<orgName type="department">Department of Hematology and Cancer Prevention</orgName>
+								<orgName type="institution">Silesiam Medical University</orgName>
+								<address>
+									<settlement>Katowice</settlement>
+									<country key="PL">Poland</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Helen</forename><surname>Mccarthy</surname></persName>
+							<affiliation key="aff11">
+								<orgName type="institution">Royal Bournemouth General Hospital</orgName>
+								<address>
+									<settlement>Bournemouth</settlement>
+									<country key="GB">UK</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">David</forename><surname>Simpson</surname></persName>
+							<affiliation key="aff12">
+								<orgName type="institution">North Shore Hospital</orgName>
+								<address>
+									<settlement>Auckland</settlement>
+									<country key="NZ">New Zealand</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">•</forename><surname>Fritz Offner</surname></persName>
+							<affiliation key="aff13">
+								<orgName type="institution">Universitair Ziekenhuis Gent</orgName>
+								<address>
+									<settlement>Gent</settlement>
+									<country key="BE">Belgium</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Carol</forename><surname>Moreno</surname></persName>
+							<affiliation key="aff14">
+								<orgName type="institution" key="instit1">Hospital de la Santa Creu i Sant Pau</orgName>
+								<orgName type="institution" key="instit2">Autonomous University of Barcelona</orgName>
+								<address>
+									<settlement>Barcelona</settlement>
+									<country key="ES">Spain</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Sandra</forename><surname>Dai</surname></persName>
+							<affiliation key="aff15">
+								<orgName type="institution">Pharmacyclics LLC, an AbbVie Company</orgName>
+								<address>
+									<settlement>Sunnyvale</settlement>
+									<region>CA</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Indu</forename><surname>Lal</surname></persName>
+							<affiliation key="aff15">
+								<orgName type="institution">Pharmacyclics LLC, an AbbVie Company</orgName>
+								<address>
+									<settlement>Sunnyvale</settlement>
+									<region>CA</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">•</forename><surname>James</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><surname>Dean</surname></persName>
+							<affiliation key="aff15">
+								<orgName type="institution">Pharmacyclics LLC, an AbbVie Company</orgName>
+								<address>
+									<settlement>Sunnyvale</settlement>
+									<region>CA</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">•</forename><surname>Thomas</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Kipps</surname></persName>
+							<affiliation key="aff16">
+								<orgName type="institution">UCSD Moores Cancer Center</orgName>
+								<address>
+									<settlement>San Diego</settlement>
+									<region>CA</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Long-term efficacy and safety of first-line ibrutinib treatment for patients with CLL/SLL: 5 years of follow-up from the phase 3 RESONATE-2 study</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date type="published" when="2019-10-18">18 October 2019</date>
+						</imprint>
+					</monogr>
+					<idno type="DOI">10.1038/s41375-019-0602-x</idno>
+					<note type="submission">Received: 11 April 2019 / Revised: 8 August 2019 / Accepted: 22 August 2019 /</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.6.1" ident="GROBID" when="2020-10-09T18:38+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<abstract>
+				<p>RESONATE-2 is a phase 3 study of first-line ibrutinib versus chlorambucil in chronic lymphocytic leukemia (CLL)/small lymphocytic lymphoma (SLL). Patients aged ≥65 years (n = 269) were randomized 1:1 to once-daily ibrutinib 420 mg continuously or chlorambucil 0.5-0.8 mg/kg for ≤12 cycles. With a median (range) follow-up of 60 months (0.1-66), progression-free survival (PFS) and overall survival (OS) benefits for ibrutinib versus chlorambucil were sustained (PFS estimates at 5 years: 70% vs 12%; HR [95% CI]: 0.146 [0.098-0.218]; OS estimates at 5 years: 83% vs 68%; HR [95% CI]: 0.450 [0.266-0.761]). Ibrutinib benefit was also consistent in patients with high prognostic risk (TP53 mutation, 11q deletion, and/or unmutated IGHV) (PFS: HR [95%</p>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Introduction</head><p>Chronic lymphocytic leukemia (CLL) predominantly affects older individuals who frequently have comorbidities that may preclude the use of intensive chemoimmunotherapy regimens, such as fludarabine, cyclophosphamide, and rituximab (FCR) <ref type="bibr" target="#b0">[1]</ref><ref type="bibr" target="#b1">[2]</ref><ref type="bibr" target="#b2">[3]</ref>. Before establishment of the chlorambucil-based CD20 combinations, single-agent chlorambucil was considered a standard of care in older patients with CLL <ref type="bibr" target="#b3">[4,</ref><ref type="bibr" target="#b4">5]</ref>.</p><p>Ibrutinib is a first-in-class, oral, once-daily inhibitor of Bruton's tyrosine kinase (BTK), which as a single agent has led to prolonged progression-free survival (PFS) and overall survival (OS) in patients with previously treated CLL <ref type="bibr" target="#b5">[6,</ref><ref type="bibr" target="#b6">7]</ref>. RESONATE-2 is an international phase 3 study evaluating the efficacy and safety of first-line ibrutinib compared with chlorambucil in older patients with CLL or small lymphocytic lymphoma (SLL) <ref type="bibr" target="#b7">[8]</ref>. The primary analysis (median follow-up of 18.4 months) demonstrated an 84% reduction in the risk of disease progression (PD) or death (as assessed by an independent review committee) and significant improvement in OS for ibrutinib compared with chlorambucil, supporting the initial approval of first-line ibrutinib for CLL/SLL in the United States and for CLL in the European Union, with ibrutinib now approved for CLL in over 90 countries <ref type="bibr" target="#b7">[8]</ref><ref type="bibr" target="#b8">[9]</ref><ref type="bibr" target="#b9">[10]</ref>. Data previously reported from this study after a median follow-up of 28.5 months demonstrated a sustained PFS benefit for ibrutinib and improved depth of response over time, with no new unexpected safety concerns <ref type="bibr" target="#b10">[11]</ref>. Continued long-term study follow-up is important to provide quantitative assessments of response durability, dimensions of patients' well-being, and safety with continuous single-agent ibrutinib treatment to inform clinical practice.</p><p>Herein, we present the efficacy and safety outcomes for first-line ibrutinib treatment after a median follow-up of 5 years from the RESONATE-2 study. This represents the longest follow-up to date from a phase 3 trial of BTKdirected therapy in the first-line setting for CLL.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Subjects and methods</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Study design and population</head><p>RESONATE-2 collectively includes the phase 3, openlabel, international, randomized study PCYC-1115 and extension study (PCYC-1116) comparing the efficacy and safety of ibrutinib versus chlorambucil in first-line CLL/ SLL. Detailed methods have been previously reported <ref type="bibr" target="#b7">[8]</ref>. Briefly, previously untreated patients without chromosome 17p deletion [del(17p)] aged ≥65 years with CLL/SLL requiring therapy per published criteria <ref type="bibr" target="#b11">[12]</ref> were randomized in a 1:1 ratio to oral ibrutinib (420 mg once daily) until PD or unacceptable toxicity, or 12 cycles of chlorambucil (0.5 mg/kg, increased up to 0.8 mg/kg as tolerated, on days 1 and 15 of each 28-day cycle). Following confirmation of PD, patients randomized to chlorambucil were eligible to cross over to second-line treatment with ibrutinib.</p><p>This study was conducted according to principles of the Declaration of Helsinki and the International Conference on Harmonisation Guidelines for Good Clinical Practice and was approved by the institutional review boards of participating institutions. All patients provided written informed consent. This study was registered with ClinicalTrials.gov, numbers NCT01722487 and NCT01724346.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Endpoints and assessments</head><p>Endpoints included PFS, OS, overall response rate (ORR), improvement in hematologic parameters, patient-reported outcomes, and safety. Long-term PD and response were assessed by the investigator per 2008 International Workshop on CLL (iwCLL) criteria <ref type="bibr" target="#b11">[12]</ref>. Long-term safety data are reported for patients who were initially randomized to ibrutinib. Nonhematologic adverse events (AEs) were graded using Common Terminology Criteria for Adverse Events, v4.03 <ref type="bibr" target="#b12">[13]</ref>. Hematologic AEs were graded using iwCLL criteria <ref type="bibr" target="#b11">[12]</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Statistical analysis</head><p>PFS and OS were analyzed according to the Kaplan-Meier method. To adjust for the impact of crossover on OS, sensitivity analyses were performed as previously described <ref type="bibr" target="#b13">[14]</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Data sharing statement</head><p>Requests for access to individual participant data from clinical studies conducted by Pharmacyclics LLC, an AbbVie Company, can be submitted through Yale Open Data Access Project site at http://yoda.yale.edu.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Results</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Patients</head><p>A total of 269 patients were randomized to ibrutinib (n = 136) or chlorambucil (n = 133; <ref type="figure">Supplementary Fig. 1</ref>). As previously reported, baseline characteristics were well balanced across treatment arms <ref type="table" target="#tab_1">(Table 1)</ref>  <ref type="bibr" target="#b7">[8]</ref>. Treatment with first-line ibrutinib was ongoing in 79 (58%) patients after a median follow-up of 60 months (range, 0.1-66 months), while 56 (41%) discontinued treatment ( <ref type="table" target="#tab_0">Table 2</ref>). Of 133 patients randomized to chlorambucil, 96 experienced PD (75 crossed over to ibrutinib and 21 did not cross over after PD), one crossed over to receive ibrutinib without documented PD, and 36 patients remained on the chlorambucil arm without PD. Of 21 patients who did not cross over after PD (cross over to ibrutinib was not mandatory), six died, six were still on study without crossing over, and six discontinued the study. Of the 36 patients remaining on the chlorambucil arm without PD, 16 were still on study, 11 discontinued the study, and nine died.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Progression-free survival and overall survival</head><p>Ibrutinib significantly prolonged PFS compared with chlorambucil (median not reached vs 15.0 months [95% confidence interval (CI): 10.2-19.4]), with an 85% reduction in the risk of PD or death (hazard ratio, 0.146 [95% CI: 0.098-0.218]; <ref type="figure">Fig. 1</ref>). At 5 years, 70% of patients treated with ibrutinib and 12% with chlorambucil were estimated to be progression-free and alive. Eight (6%) of 136 patients discontinued ibrutinib due to PD.</p><p>A PFS benefit for ibrutinib over chlorambucil was observed across all patient subgroups examined, including those with the high-risk prognostic features of TP53 mutation, chromosome 11q deletion (del[11q]), and/or unmutated immunoglobulin heavy chain variable region (IGHV) (PFS: HR 0.083 [95% CI: 0.047-0.145]) ( <ref type="figure">Fig. 2)</ref>. When examined individually, the presence of del(11q) and unmutated IGHV were each also associated with increased PFS in ibrutinib-treated patients compared with chlorambucil-treated patients. Ibrutinib dramatically reduced the risk of PD or death by 97% compared with chlorambucil in patients with del(11q) ( <ref type="figure">Fig. 3a)</ref>. Ibrutinib reduced the risk of PD or death by 90% and 85% compared with chlorambucil for patients with either unmutated and mutated IGHV, respectively <ref type="figure">(Fig. 3b</ref>). PFS was not significantly different for ibrutinib-treated patients with unmutated and mutated IGHV. In patients treated with ibrutinib, 79% of patients with del(11q) and 67% of patients with unmutated IGHV were estimated alive and progression-free at 5 years. Though patients with del(17p) CLL were excluded from the study, 12 ibrutinib-treated patients had TP53 mutation; median PFS was not reached for ibrutinib-treated patients with TP53 mutation or TP53 wild type (HR [95% CI: 0.866 [0.264-2.846]) and the 5-year estimates were 56% and 73%, respectively. Only three patients randomized to chlorambucil had TP53 mutation so no comparison could be made between treatments.</p><p>Median OS was not reached for either the ibrutinib or chlorambucil arms (HR [95% CI], 0.450 [0.266-0.761]). OS estimates at 5 years were 83% for ibrutinib and 68% for chlorambucil without censoring for crossover from chlorambucil to ibrutinib and were 80% for chlorambucil after censoring for crossover to ibrutinib treatment after PD (Supplementary <ref type="table" target="#tab_1">Table 1</ref>). In patients with high prognostic risk CLL (TP53 mutation, del[11q], and/or unmutated IGHV), OS at 5 years without censoring for crossover to ibrutinib was 84% for ibrutinib and 62% for chlorambucil (HR 0.376 [95% CI: 0.180-0.786]).  </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Overall response</head><p>With a median follow-up of 5 years (up to 66 months), the ORR including partial response with lymphocytosis was 92% for patients treated with ibrutinib compared with 37%</p><p>for patients treated with chlorambucil. The proportion of patients with a best response of CR or CR with incomplete marrow recovery (CRi) increased over time <ref type="figure">(Fig. 4</ref>). In the ibrutinib arm, investigator-assessed CR/CRi rates increased from 11% at the primary analysis (median follow-up, </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Sustained hematologic improvement</head><p>Among patients with baseline cytopenias treated with ibrutinib, the proportion of patients with sustained hematologic improvement increased over time. Significantly more ibrutinib-treated patients with baseline anemia (hemoglobin ≤11 g/dL) had sustained improvement in hemoglobin levels compared with chlorambucil (90% [46 of 51] vs 45% [25 of 55]; P &lt; 0.0001). Similarly, significantly more patients with baseline thrombocytopenia (platelets ≤100 × 10 9 /L) had sustained improvement in platelet counts after ibrutinib treatment compared with chlorambucil (89% <ref type="bibr">[31 of 35]</ref> vs 46% <ref type="bibr">[13 of 28]</ref>; P = 0.0007). For patients treated with ibrutinib, median hemoglobin level was 11.6 g/dL at treatment initiation, 13.2 g/dL at year 1, and 13.7 g/dL at year 5 ( <ref type="figure" target="#fig_0">Fig. 5</ref>). Median platelet counts for patients treated with ibrutinib were 143 × 10 9 /L at treatment initiation, 155 × 10 9 /L at year 1, and 147 × 10 9 /L at year 5 ( <ref type="figure" target="#fig_0">Fig. 5</ref>).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Patient-reported outcomes and disease-related symptoms</head><p>Patient-reported outcomes as assessed with the EQ-5D-5L and FACIT-F were improved with ibrutinib versus chlorambucil. Clinically meaningful improvement in the EQ-5D-5L UIS (≥0.084) <ref type="bibr" target="#b14">[15]</ref> and in EQ-5D-5L VAS were observed significantly more frequently with ibrutinib than with chlorambucil (60% vs 44% of patients, P = 0.0089; 65% vs 52%, P = 0.0329, respectively), though no significant difference between ibrutinib-and chlorambucil-treated patients was observed for the proportion of patients who had clinically meaningful improvement in FACIT-F (63% vs 53%). By repeated measure analysis, ibrutinib resulted in significantly greater score improvements over time in EQ-5D-5L UIS (P = 0.0079), EQ-5D-5L VAS (P = 0.0003), and FACIT-F (P = 0.0018) ( <ref type="figure">Supplementary Fig. 2</ref>). There were no differences in EQ-5D-5L UIS, EQ-5D-5L VAS, or FACIT-F after chlorambucil-treated patients crossed over to ibrutinib following PD compared with before chlorambuciltreated patients crossed over ( <ref type="figure">Supplementary Fig. 3</ref>). Consistent with patient-reported outcomes, when compared with chlorambucil, ibrutinib resulted in higher rates of improvements in disease-related symptoms of weight loss, fatigue, fever, night sweats, anorexia, and abdominal discomfort due to splenomegaly ( <ref type="figure">Supplementary Fig. 4</ref>).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Safety</head><p>At data cutoff, the median duration of ibrutinib treatment was 57 months (range, 0.7-66 months) ( <ref type="table" target="#tab_0">Table 2</ref>) and median relative dose intensity was 98%. The most frequent AEs of any grade with ibrutinib were diarrhea (50%), cough (36%), and fatigue (36%) ( <ref type="table" target="#tab_3">Table 3)</ref>, and the prevalence of many AEs decreased with time on treatment.</p><p>Among AEs of particular interest, including those identified during early ibrutinib clinical development, hypertension of any grade occurred in 35 (26%) patients, including 13%, 6%, 6%, 5%, and 7% of patients in years 0-1, 1-2, 2-3, 3-4, and 4-5, respectively ( <ref type="figure" target="#fig_0">Supplementary  Fig. 5</ref>). Grade 3 hypertension occurred in 12 (9%) patients, with no grade 4 or 5 events. Atrial fibrillation of any grade occurred at any time in 22 (16%) patients, including 6%, 1%, 6%, 3%, and 4% of patients in years 0-1, 1-2, 2-3, 3-4, and 4-5, respectively ( <ref type="figure" target="#fig_0">Supplementary Fig. 5</ref>). Grade 3 atrial fibrillation occurred in 7 (5%) patients, with no grade <ref type="figure">Fig. 4</ref> Overall response rate per investigator assessment with first-line ibrutinib. Cumulative best response over time in all patients. Percentages of patients in each category of response may not total the overall proportion with a response because of rounding. CR complete response, CRi complete response with incomplete marrow recovery, nPR nodular partial response, ORR overall response rate, PR partial response, PR-L partial response with lymphocytosis, SD stable disease 4 or 5 events. Major hemorrhage (grouped terms) events occurred in 15 (11%) patients, including 4%, 3%, 1%, 3%, and 2% of patients in years 0-1, 1-2, 2-3, 3-4, and 4-5, respectively ( <ref type="figure" target="#fig_0">Supplementary Fig. 5</ref>). Grade 3 major hemorrhage occurred in 8 (6%) patients, grade 4 in 1 (1%) patient, and no grade 5 events occurred. Of the patients who experienced grade ≥3 major hemorrhage, 6 (67%) were taking concomitant anticoagulation therapy.</p><p>Treatment discontinuations decreased over time on ibrutinib, with 7% of patients discontinuing because of AEs in years 0-1, 6% in years 1-2, 5% in years 2-3, 6% in years 3-4, and 1% in years 4-5 ( <ref type="figure">Supplementary Fig. 6</ref>). Thirtyeight patients experienced AEs leading to discontinuation of ibrutinib; those reported in ≥2 patients were atrial fibrillation (n = 4), and palpitations, pneumonia, and worsening CLL (n = 2 each), in addition to 2 deaths with unknown cause.</p><p>The rates of dose reductions due to AEs were similar over time ( <ref type="figure">Supplementary Fig. 6</ref>), with rates of 9% for patients in years 0-1, 8% in years 1-2, 6% in years 2-3, 5% in years 3-4, and 7% in years 4-5. Dose reductions due to any-grade AEs occurred in 27 patients; 25 (93%) had improvement or resolution of the AE following dose reduction. At the time of data cutoff, 12/27 remained on ibrutinib and 15/27 had discontinued ibrutinib at any time during follow-up after the dose reduction. Reasons for subsequent discontinuation at any time during follow-up were for any AE (n = 9; two patients had dose reduction and then discontinued because of the same AE), withdrawal from the study (n = 3), PD (n = 2), and physician decision (n = 1). AEs leading to dose reduction reported in &gt;1 patient were thrombocytopenia (n = 3), and anemia, arthralgia, diarrhea, fatigue, and palpitations (n = 2 each). After AE-related dose reductions, ibrutinib dose was successfully re-escalated back to previous dose for ≥2 treatment cycles in six (22%) patients, and re-escalated treatment lasted a median of 589 days (preceding dose reductions lasting a median of 103 days).</p><p>Ibrutinib dosing was held for ≥7 consecutive days because of any grade AEs in 70 patients and 60 patients had complete resolution of the AE following dose hold. At the time of data cutoff, 36/70 of these patients remained on ibrutinib and 34/70 had discontinued ibrutinib at any time during follow-up after the dose hold. Reasons for subsequent discontinuation at any time during follow-up included any further AE (n = 20), withdrawal from study (n = 6), PD (n = 5), death (n = 2), or physician decision (n = 1). Of note, only six patients discontinued due to the same AE after the dose hold (atrial fibrillation, cerebral hemorrhage, cognitive disorder, myelodysplastic syndrome, non-small cell lung cancer, and staphylococcal sepsis). For these 70 patients, the median duration between first dose hold of ibrutinib to study treatment discontinuation or last known date alive for those still on treatment was 48 months (maximum 64+ months). Following dose hold, ibrutinib was restarted at the same dose in 42 patients and at a reduced dose in 22 patients.</p><p>At the time of data cutoff, 23 patients randomized to ibrutinib died (8 while on treatment); 4 due to PD (all were aged ≥70 years). One AE of pneumonia was considered possibly related to ibrutinib. There were six patients for whom cause of death was unknown, and of the remaining, there were two infections, three second malignancies, and one each reported as multiorgan failure, heart attack, sudden death, heart failure, sepsis, pulmonary fibrosis, and septic shock ( <ref type="figure">Supplementary Fig. 7</ref>).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Outcomes following ibrutinib discontinuation</head><p>Outcomes following discontinuation of first-line ibrutinib treatment are shown in <ref type="table" target="#tab_0">Supplementary Table 2</ref>. Median OS following discontinuation was not reached (range, 0-64+ months) in patients who discontinued ibrutinib because of AEs (n = 29). Only eight patients discontinued ibrutinib because of PD (including two patients due to Richter's transformation); of these patients, 50% are still alive or had exited study with no known death at the data cut. The median OS following ibrutinib discontinuation due to PD was 20 months (range, 1+ to 28 months). Median PFS for patients who were in CR/CRi at ibrutinib discontinuation was 56 months (95% CI: 44, NE) compared with 33 months (95% CI: 26, 46) for patients who were not CR/CRi at ibrutinib discontinuation (HR [95% CI]: 0.390 [0.118, 1.285]).</p><p>Of patients with available follow-up data after ibrutinib discontinuation, 14 patients received subsequent therapy for CLL, including standard chemoimmunotherapy (FCR, BR, or GC) (n = 8), chemotherapy (n = 3), and novel agents (n = 3). Of nine patients with best overall response to subsequent therapy reported, seven responded, one had stable disease, and one had PD. Eleven of the 14 patients remained alive at last follow-up, two patients withdrew consent, and one patient died.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Discussion</head><p>With long-term follow-up of the RESONATE-2 study, single-agent ibrutinib continues to demonstrate significant  and durable clinical benefit in older patients, including those with high-risk prognostic features (TP53 mutation, del(11q), and/or unmutated IGHV). No new safety signals emerged over the extended treatment duration, and many events decreased over time. This is the longest follow-up report of patients receiving first-line treatment with a BTK inhibitor in a phase 3 study to date.</p><formula xml:id="formula_0">Anemia 8 (6) 1 (1) 1 (1) 0 0 (0) 10 (7) Hyponatremia 3 (2) 4 (3) 0 0 1 (1) 8 (6) Atrial fibrillation 2 (1) 0 4 (4) 1 (1) 0 (0) 7 (5) Cataract 1 (1) 1 (1) 1 (1) 1 (1) 3 (3) 7<label>(</label></formula><p>With up to 66 months of follow-up, the median investigator-assessed PFS per iwCLL criteria was not reached in the ibrutinib arm and was 15 months (95% CI <ref type="bibr" target="#b9">[10]</ref><ref type="bibr" target="#b10">[11]</ref><ref type="bibr" target="#b11">[12]</ref><ref type="bibr" target="#b12">[13]</ref><ref type="bibr" target="#b13">[14]</ref><ref type="bibr" target="#b14">[15]</ref><ref type="bibr" target="#b15">[16]</ref><ref type="bibr" target="#b16">[17]</ref><ref type="bibr" target="#b17">[18]</ref><ref type="bibr" target="#b18">[19]</ref>) in the chlorambucil arm. The rate of PD during ibrutinib treatment was low; only 8/136 (6%) patients progressed while receiving ibrutinib, implying a low rate of developing the BCR pathway mutations associated with PD. Improvement in PFS with first-line ibrutinib compared with chlorambucil remains durable, as evidenced by an 85% reduction in the risk of progression or death. Accordingly, when comparing similar timepoints between studies, the 3year PFS rate with ibrutinib (82%) was higher than that with chlorambucil (25%) and appears higher than rates previously reported for first-line chemoimmunotherapy with FCR (70%) or BR (55%) in an older patient population than in the CLL10 study, although the proportion of patients with unmutated IGHV was higher in CLL10 than in the current study <ref type="bibr" target="#b15">[16,</ref><ref type="bibr" target="#b16">17]</ref>. Three-year PFS rates for ibrutinib also appeared favorable compared with chlorambucil in combination with obinutuzumab (&lt;40%) in older, less fit patients in the CLL11 study <ref type="bibr" target="#b4">[5]</ref>.</p><p>In addition, ibrutinib substantially improved PFS in highrisk patients with del(11q) or unmutated IGHV compared with chlorambucil. Whereas the presence of del(11q) <ref type="bibr" target="#b17">[18]</ref> or unmutated IGHV <ref type="bibr" target="#b15">[16,</ref><ref type="bibr" target="#b18">19]</ref> confers poor outcomes in the chemoimmunotherapy setting, we observed prolonged PFS with ibrutinib compared with chlorambucil in patients with del(11q) or with unmutated IGHV. Patients with the composite high prognostic risk genomics of del(11q), unmutated IGHV, or TP53 mutation experienced markedly improved PFS with ibrutinib, with a 92% reduction in risk of PD or death versus chlorambucil. However, there were no meaningful differences in PFS for ibrutinib-treated patients when these high-risk factors were evaluated individually (del[11q], unmutated IGHV, or TP53 mutation). The exclusion of patients with del(17p) is an important limitation of this analysis given its prognostic significance and frequent overlap with TP53 mutations <ref type="bibr" target="#b19">[20]</ref>. Taken together, our results suggest that these high-risk prognostic features may not have meaningful prognostic value with ibrutinibmediated inhibition of the BCR pathway, unlike with chemoimmunotherapy.</p><p>Cross-study analyses suggest that the clinical benefit is highest when ibrutinib is used as initial therapy versus as a later line of therapy <ref type="bibr" target="#b6">[7]</ref>, and the present study demonstrates the durability of those outcomes in the first-line setting with more than 5 years follow-up. Real-world studies of patients receiving first-line treatment, including patients who would have been excluded from RESONATE-2 due to age &lt;65 years or the presence of del(17p), demonstrate similar response rates (71-82% vs 92%) and proportion of discontinuations due to AEs (51-63% vs 52% of patients who discontinued) as the present study <ref type="bibr" target="#b20">[21]</ref><ref type="bibr" target="#b21">[22]</ref><ref type="bibr" target="#b22">[23]</ref><ref type="bibr" target="#b23">[24]</ref>.</p><p>Additional randomized trials have found that adding rituximab to ibrutinib does not increase PFS compared with single-agent ibrutinib in the first-line setting <ref type="bibr" target="#b24">[25]</ref> and in relapsed/refractory patients or high-risk patients with del(17p) or TP53 mutations receiving first-line treatment <ref type="bibr" target="#b25">[26]</ref>. In the iLLUMINATE study of ibrutinib plus obinutuzumab, median PFS was also not reached for patients with del(11q) nor for patients with unmutated IGHV, similar to what we report here for single-agent ibrutinib <ref type="figure">(Fig. 3)</ref>. These results with del(11q) and IGHV mutational status are also consistent across two other phase 3 studies of ibrutinib in different patient populations and as a single agent or in combination regimens <ref type="bibr" target="#b5">[6,</ref><ref type="bibr" target="#b17">18,</ref><ref type="bibr" target="#b26">27]</ref>. A pooled analysis of three phase 3 randomized studies (RESONATE, RESO-NATE-2, and HELIOS) further showed that the prognostic risk factors of del(11q) and unmutated IGHV traditionally associated with worse outcomes in patients with CLL have less prognostic significance with ibrutinib therapy in patients without del(17p) <ref type="bibr" target="#b27">[28]</ref>.</p><p>Our results also demonstrate an improved depth of response over time with first-line ibrutinib. Investigatorassessed CR/CRi rates in ibrutinib-treated patients improved from 11% at the primary analysis (median followup 18.4 months) <ref type="bibr" target="#b7">[8]</ref> to 30% after a median of 5 years follow-up. In addition, we continue to observe sustained improvement in anemia and thrombocytopenia with ibrutinib, which are important and frequent reasons patients with CLL initiate treatment. These improvements may help alleviate the fatigue that is a major component of symptom burden and reduced quality of life in patients with CLL <ref type="bibr" target="#b28">[29]</ref>, especially those with advanced age and multiple comorbidities <ref type="bibr" target="#b28">[29]</ref>. Given that patients with CLL may remain on ibrutinib for many years, durable improvement in quality of life during treatment is an important goal. In this study, ibrutinib treatment improved patient-reported outcomes and disease-related symptoms that were sustained through extended follow-up, in contrast to the worsened quality of life outcomes reported by patients treated with chlorambucil, as PD occurred earlier and more frequently.</p><p>As the majority of patients with CLL (including those in this study) are elderly and may be less tolerant of toxicities, treatments with a tolerable safety profile in long-term use are essential. Late high-grade toxicities have been observed with other CLL therapies <ref type="bibr" target="#b29">[30]</ref>. In this study, no unexpected AEs were identified after extended follow-up of ibrutinibtreated patients. Patients continued to experience new AEs throughout extended treatment, with some AEs appearing as late events, such as cataracts, fall, and herpes zoster, although the impact of aging in this patient population with extended follow-up cannot be fully accounted for. In the primary analysis of RESONATE-2 (median follow-up, 18 months), the three most common AEs were diarrhea (42%), fatigue (30%), and cough (22%) <ref type="bibr" target="#b7">[8]</ref>, while in the current analysis at median of 5 years of follow-up (~3.3fold longer exposure to ibrutinib) these AEs continue to be the most common events in 50%, 36%, and 36% of patients, respectively. Compared with a younger enrolled patient population treated with ibrutinib plus rituximab for a shorter median follow-up of 33 months in the phase 3 ECOG1912 study, more ibrutinib-treated patients in RESONATE-2 (~1.8-fold longer exposure to ibrutinib) experienced grade ≥3 AEs (83% vs 58%) overall, although there was a lower frequency of grade ≥3 AEs in the ibrutinib plus rituximab cohort compared with the FCR cohort in ECOG1912 (58% vs 72%) <ref type="bibr" target="#b30">[31]</ref>. Compared with a similar patient population in the ALLIANCE study, fewer ibrutinib-treated patients in RESONATE-2 experienced grade ≥3 hypertension than ibrutinib-treated patients in the ALLIANCE study (8% vs 29%), despite the difference in follow-up (median: 60 months vs 38 months, respectively) <ref type="bibr" target="#b24">[25]</ref>.</p><p>Overall, many AEs decreased over time in this study, with some exceptions, such as hypertension (the prevalence of grade ≥3 hypertension remained stable over time). The incidence of major hemorrhage was generally highest in the first 2 years of treatment and decreased thereafter. Based on prior reports, the risk for bleeding with ibrutinib is most often observed within the first 12 months of treatment and then decreases over time <ref type="bibr" target="#b26">[27,</ref><ref type="bibr" target="#b31">32,</ref><ref type="bibr" target="#b32">33]</ref>. Similarly, atrial fibrillation typically occurs early after ibrutinib initiation and remains constant or declines over time <ref type="bibr" target="#b6">[7,</ref><ref type="bibr" target="#b33">[34]</ref><ref type="bibr" target="#b34">[35]</ref><ref type="bibr" target="#b35">[36]</ref>. In this study after a median follow-up of 5 years, the cumulative rate of major hemorrhage increased from 4% at the primary analysis to 11%, and for atrial fibrillation increased from 6% to 16%; however, few patients required dose reduction or discontinued because of these AEs. Overall, dose reductions and discontinuations due to AEs were infrequent and discontinuations due to AEs decreased over time with continued treatment, with 73% of patients receiving ibrutinib for &gt;3 years. The ongoing incidence of new AEs and increasing prevalence of hypertension highlights the importance of ongoing follow-up and monitoring during treatment to maximize optimal management of AEs with dose modifications (dose holds and reductions) and thus mitigate the impact of AEs and enable patients to continue to benefit from ongoing first-line ibrutinib.</p><p>As novel agents continue to be developed for CLL, longterm data are crucial to inform practice. Additional BTK inhibitors in development for CLL have shown encouraging efficacy, but results of randomized comparative studies are not yet available and these agents lack long-term safety and efficacy data <ref type="bibr" target="#b36">[37,</ref><ref type="bibr" target="#b37">38]</ref>. Here, we demonstrated that with a median of 5 years of follow-up, over half of patients with CLL/SLL were able to receive long-term continuous firstline treatment with single-agent ibrutinib and had sustained efficacy benefits (70% of ibrutinib-treated patients estimated progression-free), including-importantly-in patients with high-risk prognostic features, such as del(11q) or unmutated IGHV.</p><p>and travel expenses for Janssen and Gilead. HM reported honoraria and travel expenses from AbbVie, Janssen, Novartis, and Roche; and a consultancy/advisory role with Janssen. DS reported honoraria from Celgene, Roche, MSD, and Janssen; travel expenses from Celgene, Bristol-Myers Squibb, Janssen, and Novartis; and research funding from Amgen, MSD, Pharmacyclics LLC, an AbbVie Company, AbbVie, Sanofi, Roche, BeiGene, and Acerta. CM reported a consulting/advisory role with Pharmacyclics LLC, an AbbVie Company, Janssen, and AbbVie. SD reported employment with Pharmacyclics LLC, an AbbVie Company; and stock ownership with AbbVie, Celgene, Gilead, GSK, and Exelixis. IL reported employment with Pharmacyclics, an AbbVie Company, and spouse employment with The Permanente Medical Group; and stock ownership with AbbVie, Gilead Sciences, Clovis, Infinity, The Permanente Medical Group, and Reviva Pharmaceuticals. JPD reported employment with Pharmacyclics LLC, an AbbVie Company, and CTI BioPharma Corp; and stock ownership with AbbVie and CTI BioPharma Corp. TJK reported a consultancy/advisory role for AbbVie, Genentech-Roche, Gilead, Pharmacyclics LLC, an AbbVie Company, and Celgene; and research funding from AbbVie, Genentech-Roche, Pharmacyclics LLC, an AbbVie Company, and Oncternal. SG and FO reported no relevant financial disclosures.</p><p>Publisher's note Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.</p><p>Open Access This article is licensed under a Creative Commons Attribution 4.0 International License, which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons license, and indicate if changes were made. The images or other third party material in this article are included in the article's Creative Commons license, unless indicated otherwise in a credit line to the material. If material is not included in the article's Creative Commons license and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this license, visit http://creativecommons. org/licenses/by/4.0/.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>Fig. 5</head><label>5</label><figDesc>Hemoglobin levels and platelet counts over time in ibrutinib-treated patients. The horizontal line represents the lower limit of normal for platelet counts. CI confidence interval</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head>a</head><label></label><figDesc>One patient did not receive any doses of ibrutinib b Occurring in ≥20% of patients c Occurring in ≥4% of patients d Median 5 years follow-up e Includes 5-6 year data</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>Table 2</head><label>2</label><figDesc>Duration of treatment with first-line ibrutinib</figDesc><table><row><cell>Ibrutinib</cell></row><row><cell>n = 136</cell></row></table><note>a One patient did not receive any doses of ibrutinib</note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_1"><head>Table 1</head><label>1</label><figDesc>Progression-free survival with single-agent ibrutinib versus chlorambucil in first-line treatment for CLL/SLL.</figDesc><table><row><cell>Baseline characteristics</cell><cell></cell><cell></cell></row><row><cell></cell><cell>Ibrutinib</cell><cell>Chlorambucil</cell></row><row><cell></cell><cell>n = 136</cell><cell>n = 133</cell></row><row><cell>Median age (range), years</cell><cell cols="2">73 (65-89) 72 (65-90)</cell></row><row><cell>≥70 years, n (%)</cell><cell>96 (71)</cell><cell>93 (70)</cell></row><row><cell>Male, n (%)</cell><cell>88 (65)</cell><cell>81 (61)</cell></row><row><cell>ECOG performance status, n (%)</cell><cell></cell><cell></cell></row><row><cell>0</cell><cell>60 (44)</cell><cell>54 (41)</cell></row><row><cell>1-2</cell><cell>76 (56)</cell><cell>79 (59)</cell></row><row><cell>Rai stage III or IV, n (%)</cell><cell>60 (44)</cell><cell>62 (47)</cell></row><row><cell>CIRS score &gt;6, n (%)</cell><cell>42 (31)</cell><cell>44 (33)</cell></row><row><cell>Creatinine clearance &lt;60 mL/min,</cell><cell>60 (44)</cell><cell>67 (50)</cell></row><row><cell>n (%)</cell><cell></cell><cell></cell></row><row><cell>Bulky disease ≥5 cm, n (%)</cell><cell>54 (40)</cell><cell>40 (30)</cell></row><row><cell>β2-microglobulin &gt;3.5 mg/L, n (%)</cell><cell>85 (63)</cell><cell>89 (67)</cell></row><row><cell>Hemoglobin ≤11 g/dL, n (%)</cell><cell>51 (38)</cell><cell>55 (41)</cell></row><row><cell>Platelet count ≤100 × 10 9 /L, n (%)</cell><cell>35 (26)</cell><cell>28 (21)</cell></row><row><cell>del(11q), n/N (%)</cell><cell cols="2">29/130 (22) 25/121 (21)</cell></row><row><cell>Unmutated IGHV, n/N (%)</cell><cell cols="2">58/101 (57) 60/103 (58)</cell></row><row><cell>TP53 mutation n/N (%)</cell><cell cols="2">12/124 (10) 3/94 (3)</cell></row><row><cell>High prognostic risk features, a n (%)</cell><cell>74 (54)</cell><cell>69 (52)</cell></row></table><note>CIRS Cumulative Illness Rating Scale, ECOG Eastern Cooperative Oncology Group, IGHV immunoglobulin heavy chain variable regiona TP53 mutation, del(11q), and/or unmutated IGHV Fig. 1Fig. 2 Progression-free survival according to baseline factor subgroups of interest. CI confidence interval, del(11q) chromosome 11q deletion, ECOG Eastern Cooperative Oncology Group, HR hazard ratio, IGHV immunoglobulin heavy chain variable region</note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_3"><head>Table 3</head><label>3</label><figDesc>Most frequent adverse events over time in patients treated with first-line ibrutinib</figDesc><table><row><cell>Adverse events, n (%)</cell><cell>Ibrutinib</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell></cell><cell>n = 135 a</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell></cell><cell>0-1 year</cell><cell>1-2 years</cell><cell>2-3 years</cell><cell>3-4 years</cell><cell>4-5 years</cell><cell>Total d,e</cell></row><row><cell></cell><cell>n = 135</cell><cell>n = 123</cell><cell>n = 111</cell><cell>n = 100</cell><cell>n = 89</cell><cell>n = 135</cell></row><row><cell>Any grade b</cell><cell cols="4">133 (99) 118 (96) 104 (94) 97 (97)</cell><cell>87 (98)</cell><cell>135 (100)</cell></row><row><cell>Diarrhea</cell><cell>57 (42)</cell><cell>11 (9)</cell><cell>13 (12)</cell><cell>8 (8)</cell><cell>8 (9)</cell><cell>67 (50)</cell></row><row><cell>Fatigue</cell><cell>38 (28)</cell><cell>27 (22)</cell><cell cols="2">21 (19) 19 (19)</cell><cell>18 (20)</cell><cell>48 (36)</cell></row><row><cell>Cough</cell><cell>26 (19)</cell><cell>13 (11)</cell><cell cols="2">12 (11) 10 (10)</cell><cell>11 (12)</cell><cell>49 (36)</cell></row><row><cell>Peripheral edema</cell><cell>23 (17)</cell><cell>17 (14)</cell><cell cols="2">13 (12) 12 (12)</cell><cell>11 (12)</cell><cell>37 (27)</cell></row><row><cell>Anemia</cell><cell>22 (16)</cell><cell>12 (10)</cell><cell>9 (8)</cell><cell>9 (9)</cell><cell>6 (7)</cell><cell>35 (26)</cell></row><row><cell>Nausea</cell><cell>27 (20)</cell><cell>9 (7)</cell><cell>5 (5)</cell><cell>3 (3)</cell><cell>3 (3)</cell><cell>35 (26)</cell></row><row><cell>Pyrexia</cell><cell>20 (15)</cell><cell>8 (7)</cell><cell>7 (6)</cell><cell>6 (6)</cell><cell>6 (7)</cell><cell>36 (27)</cell></row><row><cell>Arthralgia</cell><cell>19 (14)</cell><cell>13 (11)</cell><cell>10 (9)</cell><cell>6 (6)</cell><cell>13 (15)</cell><cell>35 (26)</cell></row><row><cell>Upper respiratory tract infection</cell><cell>17 (13)</cell><cell>8 (7)</cell><cell>10 (9)</cell><cell>10 (10)</cell><cell>7 (8)</cell><cell>35 (26)</cell></row><row><cell>Hypertension</cell><cell>16 (12)</cell><cell>12 (10)</cell><cell cols="2">15 (14) 16 (16)</cell><cell>17 (19)</cell><cell>31 (23)</cell></row><row><cell>Constipation</cell><cell>16 (12)</cell><cell>14 (11)</cell><cell>11 (10)</cell><cell>6 (6)</cell><cell>7 (8)</cell><cell>28 (21)</cell></row><row><cell>Vomiting</cell><cell>16 (12)</cell><cell>5 (4)</cell><cell>7 (6)</cell><cell>3 (3)</cell><cell>1 (1)</cell><cell>27 (20)</cell></row><row><cell>Grade ≥3 c</cell><cell>78 (58)</cell><cell>48 (39)</cell><cell cols="2">30 (27) 39 (39)</cell><cell>32 (36)</cell><cell>112 (83)</cell></row><row><cell>Neutropenia</cell><cell>11 (8)</cell><cell>4 (3)</cell><cell>1 (1)</cell><cell>1 (1)</cell><cell>0 (0)</cell><cell>17 (13)</cell></row><row><cell>Pneumonia</cell><cell>7 (5)</cell><cell>3 (2)</cell><cell>3 (3)</cell><cell>4 (4)</cell><cell>2 (2)</cell><cell>16 (12)</cell></row><row><cell>Hypertension</cell><cell>6 (4)</cell><cell>2 (2)</cell><cell>0</cell><cell>3 (3)</cell><cell>4 (4)</cell><cell>11 (8)</cell></row></table><note></note></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot">Long-term efficacy and safety of first-line ibrutinib treatment for patients with CLL/SLL: 5 years of. . .</note>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Acknowledgments</head><p>We thank the patients who participated in the study and their supportive families, as well as the investigators and clinical research staff from the study centers. This study was sponsored by Pharmacyclics LLC, an AbbVie Company. Medical writing support was provided by Valerie Hilliard, PhD, and funded by Pharmacyclics LLC, an AbbVie Company.</p></div>
+			</div>
+
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Author contributions JAB, JPD, and TK designed the study or current analysis. JAB, PMB, TR, CO, PG, AT, OB, PH, SEC, SD, SG, HM, DS, FO, and CM contributed to collecting the data with the other RESONATE-2 investigators and their research teams. All authors had full access to the data, were involved in data interpretation, and vouch for the accuracy of the data. JAB, SD, IL, and JPD collaboratively wrote the first draft of the manuscript. All authors reviewed and revised the manuscript, provided final approval, and made the decision to submit the manuscript for publication. Medical writing support was provided by a professional medical writer and funded by the sponsor.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Compliance with ethical standards</head><p>Conflict of interest JAB reported honoraria and a consulting/advisory role with Janssen; speakers' bureau and travel expenses from Gilead, Janssen, Novartis, Pharmacyclics LLC, an AbbVie Company, and TG Therapeutics; and research funding from BeiGene, Gilead, Pharmacyclics LLC, an AbbVie Company, and TG Therapeutics. PMB reported a consultancy/advisory role for AbbVie and Pharmacyclics LLC, an AbbVie Company; and research funding from Pharmacyclics LLC, an AbbVie Company. TR reported research funding from Pharmacyclics LLC, an AbbVie company. CO reported honoraria from Gilead, Janssen, AbbVie, Roche, Merck, Teva, and AstraZeneca. PG reported honoraria from AbbVie, Acerta, BeiGene, Gilead, Roche, Sunesis, Celgene, and Janssen; a consultancy/advisory role from AbbVie, Acerta, BeiGene, Gilead, Janssen, Pharmacyclics LLC, an AbbVie Company, Celgene, and Sunesis; speakers' bureau for Gilead; and research funding from AbbVie, Gilead, Janssen, and Novartis. AT reported a consultancy/advisory role for Janssen spa, Gilead, Sunesis, and AbbVie; and speakers' bureau for Janssen. OB reported a consultancy/advisory role for AbbVie and research funding from Janssen. PH reported honoraria, a consultancy/advisory role, and research funding from Janssen, Pharmacyclics LLC, an AbbVie Company, and AbbVie; and travel expenses from Janssen and AbbVie. SEC reported honoraria from Pharmacyclics LLC, an AbbVie Company, and Janssen; a consultancy/advisory role for AbbVie, Astellas, AstraZeneca, Celgene, Genentech, Pharmacyclics LLC, an AbbVie Company, Novartis, and Janssen; travel, accommodations, expenses from Abb-Vie, BeiGene, Celgene, Genentech, Janssen, Pharmacyclics LLC, an AbbVie Company; expert testimony for Genentech; other relationship with BeiGene; and research funding from Celgene, Gilead, Janssen, Pharmacyclics LLC, an AbbVie Company, AbbVie, Takeda, and Acerta. SD reported a consultancy/advisory role for AbbVie, Janssen, GlaxoSmithKline, and Bristol-Myers Squibb; and speakers' bureau</p></div>			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<monogr>
+		<title level="m" type="main">Epidemiology, and End Results Program. SEER cancer statistics review</title>
+		<ptr target="https://seer.cancer.gov/archive/csr/1975_2015/.UpdatedSeptem-ber10" />
+		<imprint>
+			<date type="published" when="1975" />
+		</imprint>
+		<respStmt>
+			<orgName>National Cancer Institute. Surveillance</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">New treatment approaches in CLL: challenges and opportunities in the elderly</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">B</forename><surname>Eichhorst</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Hallek</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">V</forename><surname>Goede</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Geriatr Oncol</title>
+		<imprint>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="page" from="375" to="82" />
+			<date type="published" when="2016" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Evolution of CLL treatment -from chemoimmunotherapy to targeted and individualized therapy</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">A</forename><surname>Burger</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>O'brien</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nat Rev Clin Oncol</title>
+		<imprint>
+			<biblScope unit="volume">15</biblScope>
+			<biblScope unit="page" from="510" to="537" />
+			<date type="published" when="2018" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">First-line therapy with fludarabine compared with chlorambucil does not result in a major benefit for elderly patients with advanced chronic lymphocytic leukemia</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">B</forename><forename type="middle">F</forename><surname>Eichhorst</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><surname>Busch</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Stilgenbauer</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Stauch</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">A</forename><surname>Bergmann</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Ritgen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Blood</title>
+		<imprint>
+			<biblScope unit="volume">114</biblScope>
+			<biblScope unit="page" from="3382" to="91" />
+			<date type="published" when="2009" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Obinutuzumab plus chlorambucil in patients with CLL and coexisting conditions</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">V</forename><surname>Goede</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><surname>Fischer</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><surname>Busch</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Engelke</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">B</forename><surname>Eichhorst</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><forename type="middle">M</forename><surname>Wendtner</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">N Engl J Med</title>
+		<imprint>
+			<biblScope unit="volume">370</biblScope>
+			<biblScope unit="page" from="1101" to="1111" />
+			<date type="published" when="2014" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Ibrutinib versus ofatumumab in previously treated chronic lymphoid leukemia</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">C</forename><surname>Byrd</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">R</forename><surname>Brown</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">O</forename><surname>'brien</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Barrientos</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">C</forename><surname>Kay</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">N</forename><forename type="middle">E</forename><surname>Reddy</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">N</forename><forename type="middle">M</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">N Engl J Med</title>
+		<imprint>
+			<biblScope unit="volume">371</biblScope>
+			<biblScope unit="page" from="213" to="236" />
+			<date type="published" when="2014" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Single-agent ibrutinib in treatment-naive and relapsed/ refractory chronic lymphocytic leukemia: a 5-year experience</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>O'brien</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><forename type="middle">R</forename><surname>Furman</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Coutre</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">I</forename><forename type="middle">W</forename><surname>Flinn</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">A</forename><surname>Burger</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><surname>Blum</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Blood</title>
+		<imprint>
+			<biblScope unit="volume">131</biblScope>
+			<biblScope unit="page" from="1910" to="1919" />
+			<date type="published" when="2018" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Ibrutinib as initial therapy for patients with chronic lymphocytic leukemia</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">A</forename><surname>Burger</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Tedeschi</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><forename type="middle">M</forename><surname>Barr</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Robak</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><surname>Owen</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><surname>Ghia</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">N Engl J Med</title>
+		<imprint>
+			<biblScope unit="volume">373</biblScope>
+			<biblScope unit="page" from="2425" to="2462" />
+			<date type="published" when="2015" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<monogr>
+		<title level="m" type="main">IMBRUVICA (ibrutinib) prescribing information</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Llc</forename><surname>Pharmacyclics</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2019" />
+			<pubPlace>Sunnyvale, CA</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<monogr>
+		<title level="m" type="main">IMBRUVICA 140 mg hard capsules</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Agency</forename><surname>European Medicines</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2014" />
+			<publisher>European Medicines Agency</publisher>
+			<pubPlace>London, UK</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<monogr>
+		<title level="m" type="main">Sustained efficacy and detailed clinical follow-up of first-line ibrutinib treatment in older patients with chronic lymphocytic leukemia: extended phase 3 results from RESONATE-2. Haematologica</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><forename type="middle">M</forename><surname>Barr</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Robak</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><surname>Owen</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Tedeschi</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">O</forename><surname>Bairey</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">N</forename><forename type="middle">L</forename><surname>Bartlett</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2018" />
+			<biblScope unit="volume">103</biblScope>
+			<biblScope unit="page" from="1502" to="1512" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Guidelines for the diagnosis and treatment of chronic lymphocytic leukemia: a report from the International Workshop on Chronic lymphocytic leukemia updating the National Cancer Institute-Working Group 1996 guidelines</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Hallek</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">B</forename><forename type="middle">D</forename><surname>Cheson</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><surname>Catovsky</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">F</forename><surname>Caligaris-Cappio</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">G</forename><surname>Dighiero</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><surname>Dohner</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Blood</title>
+		<imprint>
+			<biblScope unit="volume">111</biblScope>
+			<biblScope unit="page" from="5446" to="56" />
+			<date type="published" when="2008" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Report No.: version 30. Bethesda, MD: National Cancer Insitute</title>
+	</analytic>
+	<monogr>
+		<title level="m">National Cancer Insitute. Common Terminology Criteria for Adverse Events (CTCAE)</title>
+		<imprint>
+			<date type="published" when="2009" />
+		</imprint>
+	</monogr>
+	<note>version 4.03</note>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Survival adjusting for crossover: phase 3 study of ibrutinib vs chlorambucil in older patients with untreated chronic lymphocytic leukemia/small lymphocytic lymphoma</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Coutre</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Tedeschi</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Robak</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><forename type="middle">M</forename><surname>Barr</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><surname>Owen</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">O</forename><surname>Bairey</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Haematologica</title>
+		<imprint>
+			<biblScope unit="volume">103</biblScope>
+			<biblScope unit="page" from="249" to="251" />
+			<date type="published" when="2018" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">Estimation of minimally important differences in EQ-5D utility and VAS scores in cancer</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><forename type="middle">S</forename><surname>Pickard</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">P</forename><surname>Neary</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><surname>Cella</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Health Qual Life Outcomes</title>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="page">70</biblScope>
+			<date type="published" when="2007" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">First-line chemoimmunotherapy with bendamustine and rituximab versus fludarabine, cyclophosphamide, and rituximab in patients with advanced chronic lymphocytic leukaemia (CLL10): an international, open-label, randomised, phase 3, non-inferiority trial</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">B</forename><surname>Eichhorst</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><forename type="middle">M</forename><surname>Fink</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Bahlo</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><surname>Busch</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">G</forename><surname>Kovacs</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><surname>Maurer</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Lancet Oncol</title>
+		<imprint>
+			<biblScope unit="volume">17</biblScope>
+			<biblScope unit="page" from="928" to="970" />
+			<date type="published" when="2016" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Single-agent ibrutinib versus chemoimmunotherapy regimens for treatment-naive patients with chronic lymphocytic leukemia: a cross-trial comparison of phase 3 studies</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Robak</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">A</forename><surname>Burger</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Tedeschi</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><forename type="middle">M</forename><surname>Barr</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><surname>Owen</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">O</forename><surname>Bairey</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Am J Hematol</title>
+		<imprint>
+			<biblScope unit="volume">93</biblScope>
+			<biblScope unit="page" from="1402" to="1412" />
+			<date type="published" when="2018" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Ibrutinib plus obinutuzumab versus chlorambucil plus obinutuzumab in first-line treatment of chronic lymphocytic leukaemia (iLLUMINATE): a multicentre, randomised, open-label</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><surname>Moreno</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><surname>Greil</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">F</forename><surname>Demirkan</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Tedeschi</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">B</forename><surname>Anz</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">L</forename><surname>Larratt</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Lancet Oncol</title>
+		<imprint>
+			<biblScope unit="volume">20</biblScope>
+			<biblScope unit="page" from="43" to="56" />
+			<date type="published" when="2019" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">Fludarabine, cyclophosphamide, and rituximab treatment achieves long-term disease-free survival in IGHVmutated chronic lymphocytic leukemia</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><forename type="middle">A</forename><surname>Thompson</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><forename type="middle">S</forename><surname>Tam</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><forename type="middle">M</forename><surname>O'brien</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">W</forename><forename type="middle">G</forename><surname>Wierda</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">F</forename><surname>Stingo</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">W</forename><surname>Plunkett</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Blood</title>
+		<imprint>
+			<biblScope unit="volume">127</biblScope>
+			<biblScope unit="page" from="303" to="312" />
+			<date type="published" when="2016" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">Prognostic and therapeutic stratification in CLL: focus on 17p deletion and p53 mutation</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">V</forename><surname>Buccheri</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">W</forename><forename type="middle">G</forename><surname>Barreto</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">L</forename><forename type="middle">M</forename><surname>Fogliatto</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Capra</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Marchiani</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">V</forename><surname>Rocha</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ann Hematol</title>
+		<imprint>
+			<biblScope unit="volume">97</biblScope>
+			<biblScope unit="page" from="2269" to="78" />
+			<date type="published" when="2018" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">Optimal sequencing of ibrutinib, idelalisib, and venetoclax in chronic lymphocytic leukemia: results from a multicenter study of 683 patients</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><forename type="middle">R</forename><surname>Mato</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">B</forename><forename type="middle">T</forename><surname>Hill</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">N</forename><surname>Lamanna</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><forename type="middle">M</forename><surname>Barr</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><forename type="middle">S</forename><surname>Ujjani</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><forename type="middle">M</forename><surname>Brander</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ann Oncol</title>
+		<imprint>
+			<biblScope unit="volume">28</biblScope>
+			<biblScope unit="page" from="1050" to="1056" />
+			<date type="published" when="2017" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">Outcomes of front-line ibrutinib treated CLL patients excluded from landmark clinical trial</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><forename type="middle">R</forename><surname>Mato</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">L</forename><forename type="middle">E</forename><surname>Roeker</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">N</forename><surname>Allan</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">M</forename><surname>Pagel</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><forename type="middle">M</forename><surname>Brander</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">B</forename><forename type="middle">T</forename><surname>Hill</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Am J Hematol</title>
+		<imprint>
+			<biblScope unit="volume">93</biblScope>
+			<biblScope unit="page" from="1394" to="401" />
+			<date type="published" when="2018" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">Long-term outcomes for patients with chronic lymphocytic leukemia who discontinue ibrutinib</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><surname>Jain</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><forename type="middle">A</forename><surname>Thompson</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Keating</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Z</forename><surname>Estrov</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Ferrajoli</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">N</forename><surname>Jain</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Cancer</title>
+		<imprint>
+			<biblScope unit="volume">123</biblScope>
+			<biblScope unit="page" from="2268" to="73" />
+			<date type="published" when="2017" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<monogr>
+		<title level="m" type="main">Toxicities and outcomes of 616 ibrutinib-treated patients in the United States: a real-world analysis. Haematologica</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><forename type="middle">R</forename><surname>Mato</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><surname>Nabhan</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">C</forename><surname>Thompson</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">N</forename><surname>Lamanna</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><forename type="middle">M</forename><surname>Brander</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">B</forename><surname>Hill</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2018" />
+			<biblScope unit="volume">103</biblScope>
+			<biblScope unit="page" from="874" to="883" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title level="a" type="main">Ibrutinib regimens versus chemoimmunotherapy in older patients with untreated CLL</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">A</forename><surname>Woyach</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><forename type="middle">S</forename><surname>Ruppert</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">N</forename><forename type="middle">A</forename><surname>Heerema</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">W</forename><surname>Zhao</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><forename type="middle">M</forename><surname>Booth</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">W</forename><surname>Ding</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">N Engl J Med</title>
+		<imprint>
+			<biblScope unit="volume">379</biblScope>
+			<biblScope unit="page" from="2517" to="2545" />
+			<date type="published" when="2018" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title level="a" type="main">Randomized trial of ibrutinib versus ibrutinib plus rituximab (Ib + R) in patients with chronic lymphocytic leukemia (CLL)</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">A</forename><surname>Burger</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Sivina</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Ferrajoli</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">N</forename><surname>Jain</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><surname>Kim</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Kadia</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Blood</title>
+		<imprint>
+			<biblScope unit="volume">130</biblScope>
+			<biblScope unit="page">427</biblScope>
+			<date type="published" when="2017" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title level="a" type="main">Updated results from the phase 3 HELIOS study of ibrutinib, bendamustine, and rituximab in relapsed chronic lymphocytic leukemia/small lymphocytic lymphoma</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">G</forename><surname>Fraser</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><surname>Cramer</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">F</forename><surname>Demirkan</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><forename type="middle">S</forename><surname>Silva</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Grosicki</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Pristupa</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Leukemia</title>
+		<imprint>
+			<biblScope unit="volume">33</biblScope>
+			<biblScope unit="page" from="969" to="80" />
+			<date type="published" when="2019" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+		<title level="a" type="main">11q deletion (del11q) is not a prognostic factor for adverse outcomes for patients with chronic lymphocytic leukemia/small lymphocytic lymphoma (CLL/SLL) treated with Ibrutinib: pooled data from 3 randomized phase 3 studies</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><forename type="middle">J</forename><surname>Kipps</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><surname>Hillmen</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">F</forename><surname>Demirkan</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Grosicki</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><forename type="middle">E</forename><surname>Coutre</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">C</forename><surname>Barrientos</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Blood</title>
+		<imprint>
+			<biblScope unit="volume">128</biblScope>
+			<biblScope unit="page">2042</biblScope>
+			<date type="published" when="2016" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<analytic>
+		<title level="a" type="main">Quality of life in chronic lymphocytic leukemia: an international survey of 1482 patients</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><forename type="middle">D</forename><surname>Shanafelt</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><surname>Bowen</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><surname>Venkat</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><forename type="middle">L</forename><surname>Slager</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><forename type="middle">S</forename><surname>Zent</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">N</forename><forename type="middle">E</forename><surname>Kay</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Br J Haematol</title>
+		<imprint>
+			<biblScope unit="volume">139</biblScope>
+			<biblScope unit="page" from="255" to="64" />
+			<date type="published" when="2007" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<analytic>
+		<title level="a" type="main">Management of adverse events associated with idelalisib treatment: expert panel opinion</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><forename type="middle">E</forename><surname>Coutre</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">C</forename><surname>Barrientos</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">R</forename><surname>Brown</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>De Vos</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><forename type="middle">R</forename><surname>Furman</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">J</forename><surname>Keating</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Leuk Lymphoma</title>
+		<imprint>
+			<biblScope unit="volume">56</biblScope>
+			<biblScope unit="page" from="2779" to="86" />
+			<date type="published" when="2015" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<analytic>
+		<title level="a" type="main">A randomized phase III study of ibrutinib (PCI-32765)-based therapy vs. standard fludarabine, cyclophosphamide, and rituximab (FCR) chemoimmunotherapy in untreated younger patients with chronic lymphocytic leukemia (CLL): a trial of the ECOG-ACRIN cancer research group</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><forename type="middle">D</forename><surname>Shanafelt</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">V</forename><surname>Wang</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">N</forename><forename type="middle">E</forename><surname>Kay</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><forename type="middle">A</forename><surname>Hanson</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><forename type="middle">M</forename><surname>O'brien</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">C</forename><surname>Barrientos</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Blood</title>
+		<imprint>
+			<biblScope unit="page">4</biblScope>
+			<date type="published" when="2018" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<analytic>
+		<title level="a" type="main">Long-term follow-up of MCL patients treated with single-agent ibrutinib: updated safety and efficacy results</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">L</forename><surname>Wang</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><forename type="middle">A</forename><surname>Blum</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><surname>Martin</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Goy</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><surname>Auer</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">B</forename><forename type="middle">S</forename><surname>Kahl</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Blood</title>
+		<imprint>
+			<biblScope unit="volume">126</biblScope>
+			<biblScope unit="page" from="739" to="784" />
+			<date type="published" when="2015" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<analytic>
+		<title level="a" type="main">Use of anticoagulants and antiplatelet in patients with chronic lymphocytic leukaemia treated with single-agent ibrutinib</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">A</forename><surname>Jones</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><surname>Hillmen</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Coutre</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><surname>Tam</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><forename type="middle">R</forename><surname>Furman</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><forename type="middle">M</forename><surname>Barr</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Br J Haematol</title>
+		<imprint>
+			<biblScope unit="volume">178</biblScope>
+			<biblScope unit="page" from="286" to="91" />
+			<date type="published" when="2017" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<analytic>
+		<title level="a" type="main">Three-year follow-up of treatment-naive and previously treated patients with CLL and SLL receiving single-agent ibrutinib</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">C</forename><surname>Byrd</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><forename type="middle">R</forename><surname>Furman</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><forename type="middle">E</forename><surname>Coutre</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">A</forename><surname>Burger</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><forename type="middle">A</forename><surname>Blum</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Coleman</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Blood</title>
+		<imprint>
+			<biblScope unit="volume">125</biblScope>
+			<biblScope unit="page" from="2497" to="506" />
+			<date type="published" when="2015" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<analytic>
+		<title level="a" type="main">Extended follow-up and impact of high-risk prognostic factors from the phase 3 RESONATE study in patients with previously treated CLL/SLL</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">R</forename><surname>Brown</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><surname>Hillmen</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>O'brien</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">C</forename><surname>Barrientos</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">N</forename><forename type="middle">M</forename><surname>Reddy</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><forename type="middle">E</forename><surname>Coutre</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Leukemia</title>
+		<imprint>
+			<biblScope unit="volume">32</biblScope>
+			<biblScope unit="page" from="83" to="91" />
+			<date type="published" when="2018" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b35">
+	<analytic>
+		<title level="a" type="main">Characterization of atrial fibrillation adverse events reported in ibrutinib randomized controlled registration trials</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">R</forename><surname>Brown</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Moslehi</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>O'brien</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><surname>Ghia</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><surname>Hillmen</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">F</forename><surname>Cymbalista</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Haematologica</title>
+		<imprint>
+			<biblScope unit="volume">102</biblScope>
+			<biblScope unit="page" from="1796" to="805" />
+			<date type="published" when="2017" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b36">
+	<analytic>
+		<title level="a" type="main">ACP-196) in relapsed chronic lymphocytic leukemia</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">C</forename><surname>Byrd</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">B</forename><surname>Harrington</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>O'brien</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">A</forename><surname>Jones</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Schuh</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Devereux</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">N Engl J Med</title>
+		<imprint>
+			<biblScope unit="volume">374</biblScope>
+			<biblScope unit="page" from="323" to="355" />
+			<date type="published" when="2016" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b37">
+	<analytic>
+		<title level="a" type="main">Long-term follow-up of patients with CLL treated with the selective Bruton&apos;s tyrosine kinase inhibitor ONO/GS-4059</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><forename type="middle">S</forename><surname>Walter</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Jayne</forename><forename type="middle">S</forename><surname>Rule</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><forename type="middle">A</forename><surname>Cartron</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">G</forename><surname>Morschhauser</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">F</forename><surname>Macip</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Blood</title>
+		<imprint>
+			<biblScope unit="volume">129</biblScope>
+			<biblScope unit="page" from="2808" to="2818" />
+			<date type="published" when="2017" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

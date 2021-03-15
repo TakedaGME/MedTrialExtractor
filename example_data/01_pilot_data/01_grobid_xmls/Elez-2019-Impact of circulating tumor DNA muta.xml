@@ -1,0 +1,1318 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /data/rsg/nlp/juanmoo1/bin/grobid-0.6.1/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Impact of circulating tumor DNA mutant allele fraction on prognosis in RAS-mutant metastatic colorectal cancer</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Elena</forename><surname>Elez</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Chiara</forename><surname>Chianese</surname></persName>
+							<idno type="ORCID">0000-0002-8952-0584</idno>
+							<affiliation key="aff2">
+								<orgName type="department">Cancer Genomics Group</orgName>
+								<orgName type="institution">Vall d&apos;Hebron Institute of Oncology</orgName>
+								<address>
+									<settlement>Barcelona</settlement>
+									<country key="ES">Spain</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Enrique</forename><surname>Sanz-Garc Ia</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Medical Oncology</orgName>
+								<orgName type="institution">Vall d&apos;Hebron Institute of Oncology</orgName>
+								<address>
+									<settlement>Barcelona</settlement>
+									<country key="ES">Spain</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="department">Department of Medical Oncology</orgName>
+								<orgName type="institution" key="instit1">Vall d&apos; Hebron University Hospital</orgName>
+								<orgName type="institution" key="instit2">Universitat Aut onoma de Barcelona</orgName>
+								<address>
+									<country key="ES">Spain</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Erica</forename><surname>Martinelli</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Medical Oncology</orgName>
+								<orgName type="institution">Vall d&apos;Hebron Institute of Oncology</orgName>
+								<address>
+									<settlement>Barcelona</settlement>
+									<country key="ES">Spain</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="department">Department of Medical Oncology</orgName>
+								<orgName type="institution" key="instit1">Vall d&apos; Hebron University Hospital</orgName>
+								<orgName type="institution" key="instit2">Universitat Aut onoma de Barcelona</orgName>
+								<address>
+									<country key="ES">Spain</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff3">
+								<orgName type="department" key="dep1">Medical Oncology</orgName>
+								<orgName type="department" key="dep2">Department of Clinical and Experimental Medicine &apos;F. Magrassi&apos;</orgName>
+								<orgName type="institution">Universit a della Campania &apos;L. Vanvitelli&apos;</orgName>
+								<address>
+									<settlement>Napoli</settlement>
+									<country key="IT">Italy</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Alba</forename><surname>Noguerido</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Medical Oncology</orgName>
+								<orgName type="institution">Vall d&apos;Hebron Institute of Oncology</orgName>
+								<address>
+									<settlement>Barcelona</settlement>
+									<country key="ES">Spain</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="department">Department of Medical Oncology</orgName>
+								<orgName type="institution" key="instit1">Vall d&apos; Hebron University Hospital</orgName>
+								<orgName type="institution" key="instit2">Universitat Aut onoma de Barcelona</orgName>
+								<address>
+									<country key="ES">Spain</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Francesco</forename><forename type="middle">Mattia</forename><surname>Mancuso</surname></persName>
+							<affiliation key="aff2">
+								<orgName type="department">Cancer Genomics Group</orgName>
+								<orgName type="institution">Vall d&apos;Hebron Institute of Oncology</orgName>
+								<address>
+									<settlement>Barcelona</settlement>
+									<country key="ES">Spain</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Ginevra</forename><surname>Carat</surname></persName>
+							<affiliation key="aff2">
+								<orgName type="department">Cancer Genomics Group</orgName>
+								<orgName type="institution">Vall d&apos;Hebron Institute of Oncology</orgName>
+								<address>
+									<settlement>Barcelona</settlement>
+									<country key="ES">Spain</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Judit</forename><surname>Matito</surname></persName>
+							<affiliation key="aff2">
+								<orgName type="department">Cancer Genomics Group</orgName>
+								<orgName type="institution">Vall d&apos;Hebron Institute of Oncology</orgName>
+								<address>
+									<settlement>Barcelona</settlement>
+									<country key="ES">Spain</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Julieta</forename><surname>Grasselli</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Medical Oncology</orgName>
+								<orgName type="institution">Vall d&apos;Hebron Institute of Oncology</orgName>
+								<address>
+									<settlement>Barcelona</settlement>
+									<country key="ES">Spain</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff4">
+								<orgName type="department">Department of Medical Oncology</orgName>
+								<orgName type="laboratory">L´Hospitalet</orgName>
+								<orgName type="institution" key="instit1">Catalan Institute of Oncology</orgName>
+								<orgName type="institution" key="instit2">Universitat de Barcelona</orgName>
+								<address>
+									<country key="ES">Spain</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Claudia</forename><surname>Cardone</surname></persName>
+							<affiliation key="aff3">
+								<orgName type="department" key="dep1">Medical Oncology</orgName>
+								<orgName type="department" key="dep2">Department of Clinical and Experimental Medicine &apos;F. Magrassi&apos;</orgName>
+								<orgName type="institution">Universit a della Campania &apos;L. Vanvitelli&apos;</orgName>
+								<address>
+									<settlement>Napoli</settlement>
+									<country key="IT">Italy</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Riziero</forename><surname>Esposito Abate</surname></persName>
+							<affiliation key="aff5">
+								<orgName type="laboratory">Cell Biology and Biotherapy Unit</orgName>
+								<orgName type="institution">Istituto Nazionale Tumori &apos;Fondazione Giovanni Pascale&apos; IRCCS</orgName>
+								<address>
+									<settlement>Napoli</settlement>
+									<country key="IT">Italy</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Giulia</forename><surname>Martini</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Medical Oncology</orgName>
+								<orgName type="institution">Vall d&apos;Hebron Institute of Oncology</orgName>
+								<address>
+									<settlement>Barcelona</settlement>
+									<country key="ES">Spain</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="department">Department of Medical Oncology</orgName>
+								<orgName type="institution" key="instit1">Vall d&apos; Hebron University Hospital</orgName>
+								<orgName type="institution" key="instit2">Universitat Aut onoma de Barcelona</orgName>
+								<address>
+									<country key="ES">Spain</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Cristina</forename><surname>Santos</surname></persName>
+							<affiliation key="aff4">
+								<orgName type="department">Department of Medical Oncology</orgName>
+								<orgName type="laboratory">L´Hospitalet</orgName>
+								<orgName type="institution" key="instit1">Catalan Institute of Oncology</orgName>
+								<orgName type="institution" key="instit2">Universitat de Barcelona</orgName>
+								<address>
+									<country key="ES">Spain</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Teresa</forename><surname>Macarulla</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Medical Oncology</orgName>
+								<orgName type="institution">Vall d&apos;Hebron Institute of Oncology</orgName>
+								<address>
+									<settlement>Barcelona</settlement>
+									<country key="ES">Spain</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="department">Department of Medical Oncology</orgName>
+								<orgName type="institution" key="instit1">Vall d&apos; Hebron University Hospital</orgName>
+								<orgName type="institution" key="instit2">Universitat Aut onoma de Barcelona</orgName>
+								<address>
+									<country key="ES">Spain</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Guillem</forename><surname>Argil Es</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Medical Oncology</orgName>
+								<orgName type="institution">Vall d&apos;Hebron Institute of Oncology</orgName>
+								<address>
+									<settlement>Barcelona</settlement>
+									<country key="ES">Spain</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="department">Department of Medical Oncology</orgName>
+								<orgName type="institution" key="instit1">Vall d&apos; Hebron University Hospital</orgName>
+								<orgName type="institution" key="instit2">Universitat Aut onoma de Barcelona</orgName>
+								<address>
+									<country key="ES">Spain</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Jaume</forename><surname>Capdevila</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Medical Oncology</orgName>
+								<orgName type="institution">Vall d&apos;Hebron Institute of Oncology</orgName>
+								<address>
+									<settlement>Barcelona</settlement>
+									<country key="ES">Spain</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="department">Department of Medical Oncology</orgName>
+								<orgName type="institution" key="instit1">Vall d&apos; Hebron University Hospital</orgName>
+								<orgName type="institution" key="instit2">Universitat Aut onoma de Barcelona</orgName>
+								<address>
+									<country key="ES">Spain</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Ariadna</forename><surname>Garcia</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Medical Oncology</orgName>
+								<orgName type="institution">Vall d&apos;Hebron Institute of Oncology</orgName>
+								<address>
+									<settlement>Barcelona</settlement>
+									<country key="ES">Spain</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="department">Department of Medical Oncology</orgName>
+								<orgName type="institution" key="instit1">Vall d&apos; Hebron University Hospital</orgName>
+								<orgName type="institution" key="instit2">Universitat Aut onoma de Barcelona</orgName>
+								<address>
+									<country key="ES">Spain</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Nuria</forename><surname>Mulet</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Medical Oncology</orgName>
+								<orgName type="institution">Vall d&apos;Hebron Institute of Oncology</orgName>
+								<address>
+									<settlement>Barcelona</settlement>
+									<country key="ES">Spain</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="department">Department of Medical Oncology</orgName>
+								<orgName type="institution" key="instit1">Vall d&apos; Hebron University Hospital</orgName>
+								<orgName type="institution" key="instit2">Universitat Aut onoma de Barcelona</orgName>
+								<address>
+									<country key="ES">Spain</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff4">
+								<orgName type="department">Department of Medical Oncology</orgName>
+								<orgName type="laboratory">L´Hospitalet</orgName>
+								<orgName type="institution" key="instit1">Catalan Institute of Oncology</orgName>
+								<orgName type="institution" key="instit2">Universitat de Barcelona</orgName>
+								<address>
+									<country key="ES">Spain</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Evaristo</forename><surname>Maiello</surname></persName>
+							<affiliation key="aff6">
+								<orgName type="department">Medical Oncology</orgName>
+								<orgName type="institution" key="instit1">IRCCS Casa Sollievo della Sofferenza</orgName>
+								<orgName type="institution" key="instit2">San Giovanni Rotondo (Foggia)</orgName>
+								<address>
+									<country key="IT">Italy</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Nicola</forename><surname>Normanno</surname></persName>
+							<affiliation key="aff5">
+								<orgName type="laboratory">Cell Biology and Biotherapy Unit</orgName>
+								<orgName type="institution">Istituto Nazionale Tumori &apos;Fondazione Giovanni Pascale&apos; IRCCS</orgName>
+								<address>
+									<settlement>Napoli</settlement>
+									<country key="IT">Italy</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Frederick</forename><surname>Jones</surname></persName>
+							<affiliation key="aff7">
+								<orgName type="department">Sysmex Inostics</orgName>
+								<address>
+									<settlement>Mundelein</settlement>
+									<region>IL</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Josep</forename><surname>Tabernero</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Medical Oncology</orgName>
+								<orgName type="institution">Vall d&apos;Hebron Institute of Oncology</orgName>
+								<address>
+									<settlement>Barcelona</settlement>
+									<country key="ES">Spain</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="department">Department of Medical Oncology</orgName>
+								<orgName type="institution" key="instit1">Vall d&apos; Hebron University Hospital</orgName>
+								<orgName type="institution" key="instit2">Universitat Aut onoma de Barcelona</orgName>
+								<address>
+									<country key="ES">Spain</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Fortunato</forename><surname>Ciardello</surname></persName>
+							<affiliation key="aff3">
+								<orgName type="department" key="dep1">Medical Oncology</orgName>
+								<orgName type="department" key="dep2">Department of Clinical and Experimental Medicine &apos;F. Magrassi&apos;</orgName>
+								<orgName type="institution">Universit a della Campania &apos;L. Vanvitelli&apos;</orgName>
+								<address>
+									<settlement>Napoli</settlement>
+									<country key="IT">Italy</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Ramon</forename><surname>Salazar</surname></persName>
+							<affiliation key="aff4">
+								<orgName type="department">Department of Medical Oncology</orgName>
+								<orgName type="laboratory">L´Hospitalet</orgName>
+								<orgName type="institution" key="instit1">Catalan Institute of Oncology</orgName>
+								<orgName type="institution" key="instit2">Universitat de Barcelona</orgName>
+								<address>
+									<country key="ES">Spain</country>
+								</address>
+							</affiliation>
+						</author>
+						<author role="corresp">
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Ana</forename><surname>Vivancos</surname></persName>
+							<email>avivancos@vhio.net</email>
+							<affiliation key="aff2">
+								<orgName type="department">Cancer Genomics Group</orgName>
+								<orgName type="institution">Vall d&apos;Hebron Institute of Oncology</orgName>
+								<address>
+									<settlement>Barcelona</settlement>
+									<country key="ES">Spain</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff8">
+								<orgName type="laboratory">Cancer Genomics Group, Vall d&apos;Hebron Institute of Oncology (VHIO)</orgName>
+								<address>
+									<addrLine>Cellex Building, C/ Natzaret 115-117</addrLine>
+									<postCode>08035</postCode>
+									<settlement>Barcelona</settlement>
+									<country key="ES">Spain</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Impact of circulating tumor DNA mutant allele fraction on prognosis in RAS-mutant metastatic colorectal cancer</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<idno type="DOI">10.1002/1878-0261.12547</idno>
+					<note type="submission">Received 21 October 2018, revised 11 May 2019, accepted 15 July 2019, available online 31 July 2019</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.6.1" ident="GROBID" when="2020-10-09T18:38+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>circulating tumor DNA</term>
+					<term>MAF</term>
+					<term>metastatic colorectal cancer</term>
+					<term>prognostic biomarker</term>
+					<term>RAS analysis Abbreviations CEA, carcinoembryonic antigen</term>
+					<term>cfDNA, circulating free DNA</term>
+					<term>ctDNA, circulating tumor DNA</term>
+					<term>HR, hazard ratio</term>
+					<term>MAF, mutant allele fraction</term>
+					<term>mCRC, metastatic colorectal cancer</term>
+					<term>OS, overall survival</term>
+					<term>PFS, progression-free survival</term>
+				</keywords>
+			</textClass>
+			<abstract>
+				<p>are cosenior authorship.</p>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="1.">Introduction</head><p>The past two decades have witnessed significant progress in the treatment of metastatic colorectal cancer (mCRC) partly due to a better selection of therapy based on the tumor RAS mutation status. Nonetheless, the 5-year survival rate in mCRC patients remains poor <ref type="bibr" target="#b14">(Siegel et al., 2017)</ref>. The large variability in survival shows that current routine prognostic evaluation of mCRC is insufficient and needs to be improved, for both resectable and nonresectable metastases. The development of reliable prognostic biomarkers is an increasingly pertinent tool in this setting.</p><p>In mCRC, the detection of circulating tumor DNA (ctDNA) is an emerging alternative to detect mutations, thus avoiding biopsies from primary or metastatic sites. We and others previously reported~90% concordance of RAS-mutant status in paired plasma and tissue samples, as well as its predictive value in plasma for anti-EGFR therapy response <ref type="bibr" target="#b2">(Bettegowda et al., 2014;</ref><ref type="bibr" target="#b6">Grasselli et al., 2017;</ref><ref type="bibr" target="#b16">Siravegna et al., 2015)</ref>. Mutant allele fractions (MAFs) are a measure of the percentage of mutant alleles within the totality of alleles in any given sample. MAF estimations of driver genes have shown important clinical implications in various settings. In a retrospective analysis of the CRYSTAL trial <ref type="bibr" target="#b17">(Van Cutsem et al., 2011)</ref>, mCRC patients with tumor RAS MAFs between 0.1% and &lt; 5% were more likely to benefit from the addition of cetuximab to FOLFIRI. Likewise, resistance to anti-EGFR therapies in mCRC with KRAS MAFs &lt; 1% <ref type="bibr" target="#b1">(Azuara et al., 2016;</ref><ref type="bibr" target="#b7">Laurent-Puig et al., 2015)</ref> and longer benefit with tyrosine kinase inhibitor therapy were associated with higher MAFs in EGFR-mutated lung cancer patients <ref type="bibr" target="#b10">(Ono et al., 2014;</ref><ref type="bibr" target="#b20">Zhou et al., 2011)</ref>.</p><p>The potential prognostic value of plasma MAFs in mCRC has not been well established yet. Interestingly, we and others have observed that RAS MAF showed a trend to lower overall survival (OS) when plasma levels were above a cutoff of 10% and 1%, respectively, although the population was heterogeneous in terms of treatment and time of analysis <ref type="bibr" target="#b5">(El Messaoudi et al., 2016;</ref><ref type="bibr" target="#b15">Siravegna et al., 2017;</ref><ref type="bibr" target="#b18">Vidal et al., 2017)</ref>. Of note, plasma was obtained at different disease stages and timing on treatment.</p><p>To better define the predictive nature of RAS MAF levels, we performed a study in a homogeneous group of patients with plasma samples collected systematically prior to the first or second treatment line, to correlate RAS-mutant MAFs with clinical parameters and to determine the impact of RAS-mutant MAF on OS and progression-free survival (PFS) in these disease settings. We also included an independent cohort from the CAPRI-GOIM trial that was assessed for clinical outcome based on plasma baseline MAF <ref type="bibr" target="#b3">(Ciardiello et al., 2014;</ref><ref type="bibr" target="#b9">Normanno et al., 2017)</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.">Materials and methods</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.1.">Study design</head><p>This multicentric study included both retrospective and prospective patients: Retrospective patients were recruited from two Spanish hospitals (Vall d'Hebron University Hospital and Catalan Institute of Oncology, Duran I Reynals); prospective patients were recruited from the Vall d'Hebron University Hospital only. Additionally, an independent cohort of first-line patients derived from the CAPRI-GOIM trial (registration number: 2009-014041-81) were also included. The study was approved by the ethics committee of all hospitals, and all patients signed written informed consent. This study was conducted in accordance with the Declaration of Helsinki and Good Clinical Practice guidelines.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.2.">Patient characteristics</head><p>Patients from the TTD ULTRA clinical trial (NCT01704703) were included. Of 110 mCRC plasma samples screened, 62 (56%) were identified as RASmutated by BEAMing in plasma. To obtain a homogeneous study population, we excluded patients with liver-limited resected metastases, leaving 41 plasma samples (37%) from 37 RAS-mutated patients with nonresectable metastases for analysis <ref type="figure" target="#fig_0">(Fig. S1)</ref>; of them, 29 samples were prior to first-line therapy and 12 prior to second-line treatment <ref type="table" target="#tab_0">(Table S1</ref>). Baseline characteristics, number and location of metastasis, and number and description of previous lines of therapy are summarized in <ref type="table" target="#tab_0">Table 1</ref>.</p><p>The CAPRI-GOIM trial, a nonprofit academic, open-label, multicenter study, enrolled 340 mCRC patients, KRAS exon-2 wild-type, according to local pathology assessment, treated with FOLFOX plus cetuximab vs FOLFOX at progression to first-line FOLFIRI plus cetuximab (Eudract number: 2009-014041-81) <ref type="bibr" target="#b9">(Normanno et al., 2017)</ref>. Of these, 33 patients were found mutated according to their plasma sample and thus used in this study as an independent validation set <ref type="table" target="#tab_0">(Table S1)</ref>  <ref type="bibr" target="#b9">(Normanno et al., 2017)</ref>. One patient was excluded for analysis due to lack of follow-up data.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.3.">Sample collection</head><p>Blood samples (4 mL) were collected in CellSaveÒ Preservative Tubes (Menarini-Silicon Biosystems, Bologna, Italy), and plasma was isolated within 48 h. For nontrial patients, 10 mL of blood was collected in EDTA tubes and plasma was isolated within 1 h. A two-step centrifugation was performed with blood initially centrifuged for 10 min at 1600 g at room temperature. Supernatant was collected, avoiding the buffy coat, and then centrifuged again for 10 min at room temperature at 3000 g to remove remaining cells. Plasma supernatant was transferred into a 1.5-mL tube and stored at À80°C until use.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.4.">DNA purification</head><p>Circulating free DNA (cfDNA) was performed with the QIAamp Circulating Nucleic Acid Kit (QIAGEN, Venlo, Netherlands) according to the manufacturer's instructions. DNA quality and concentration were measured with a NanoDrop 1000 Spectrophotometer (Thermo Scientific, Waltham, MA, USA).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.5.">Mutation detection by BEAMing technology in ctDNA</head><p>RAS status was determined in plasma using BEAMing (Sysmex Corporation, Kobe, Japan). The commercially available, and previously validated <ref type="bibr" target="#b6">(Grasselli et al., 2017)</ref>, CE-IVD BEAMing RAS plasma panel of mutations was evaluated <ref type="table" target="#tab_1">(Table S2</ref>). Plasma was processed as previously described <ref type="bibr" target="#b6">(Grasselli et al., 2017)</ref>. Samples were considered mutant according to a mutation rate threshold (0.02-0.04%) based on the CE-IVD BEAMing RAS panel assay, as per the manufacturer's algorithm.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.6.">Statistics</head><p>Statistical analyses were performed using R 3.4.1, R studio (v. 1.0.153, https://www.r-project.org/), and the CRAN R survival package. Data are summarized by frequency for categorical variables and by median and range for continuous variables. PFS was defined as the time from treatment start to disease progression or death. OS was defined as the time from mCRC diagnosis to death from any cause or the last follow-up visit. Response rate was assessed according to RECIST 1.1 (https://recist.eortc.org/).</p><p>Mutant allele fractions were calculated as the number of mutant beads divided by the total number of beads analyzed, and all samples were analyzed blinded to the study endpoints. Pearson's correlation coefficients between MAF levels and selected clinical variables were determined. Clinical variables analyzed included treatment line, primary site, number and location of metastatic sites, best response, carcinoembryonic antigen (CEA) and CA 19-9 levels, number of metastatic hepatic lesions, and hepatic lesion volume (sum of the largest diameter of all hepatic lesions [maximum 10], according to RECIST v1.1). Significance was determined with nonparametric Kruskal-Wallis tests; P-values &lt; 0.05 were considered significant.</p><p>Hazard ratios (HR) and 95% confidence intervals (CI) were calculated. Survival curves were estimated using the Kaplan-Meier method. Log-rank tests, including univariate and multivariate Cox proportional hazards models, were performed for key endpoints.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.7.">MAF cutoff</head><p>The optimal MAF cutoff of 5.8% used in our cohort was calculated based on our dataset using the R function CUTP in the SURVMISC package <ref type="bibr" target="#b4">(Contal and O'Quigley, 1999;</ref><ref type="bibr" target="#b8">Mandrekar et al., 2003)</ref>. This function determines the optimal cut point for a continuous variable in a coxph or survfit model under the null hypothesis that the chosen cutoff does not predict survival. a First-line: 5-fluorouracil (5-FU) and capecitabine; Second-line: irinotecan.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.">Results</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.1.">Correlation of MAF with clinical parameters</head><p>A total of 41 samples from 37 patients were analyzed, 29 prior to first-line and 12 prior to secondline treatment. A wide range of plasma RAS MAFs was seen for both the first-and second-line treatment groups. Median MAF was 9.9% in the first-line group (range: 0.014-51.5%) and 1.8% (range: 0.03-52.4%) in the second-line group <ref type="figure" target="#fig_0">(Fig. 1A)</ref>, although not statistically significant. MAF distribution did not correlate with tumor right/left sidedness or the number of metastatic sites <ref type="figure" target="#fig_0">(Fig. 1B,C)</ref> but, in contrast, varied significantly according to the site of metastasis. MAF median values were calculated according to metastatic spread involving the liver, lung, lymph nodes, or peritoneum (most patients had more than one metastatic site). Median MAF was significantly lower in patients with metastases in the peritoneum compared to those with metastases in the liver (P = 0.0003), lung (P = 0.044), or lymph nodes (P = 0.025; <ref type="figure" target="#fig_0">Fig. 1D</ref>), although this observation is limited by sample size. A multivariate Cox analysis showed that MAFs did not significantly correlate with CA19-9 or CEA levels, though a slight tendency to higher levels of CA19-9 was observed in samples with higher MAFs. CEA levels were overall higher than reference values; however, no association was observed with MAFs ( <ref type="figure" target="#fig_1">Fig. S2, Table S3</ref>). Similarly, MAFs did not correlate with the number of metastatic hepatic lesions or hepatic volume <ref type="figure" target="#fig_1">(Fig. S2)</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.2.">Correlation of MAF with clinical outcomes</head><p>Overall, higher MAF values correlated with shorter PFS (cor = À0.476; P = 0.009) and OS (cor = À0.506; P = 0.005; <ref type="figure" target="#fig_2">Fig. S3E</ref>). We decided to set a cutoff MAF value that split patients with better vs worse prognosis in our cohort. This was done with the Cutpoint function (cutp) for a continuous variable in a Coxph or Survfit model.</p><p>In the first-line setting, using an optimized MAF cutoff of 5.8%, PFS was not significantly better in samples with MAF &lt; 5.8% <ref type="figure" target="#fig_1">(Fig. 2A)</ref>; however, a trend toward lower PFS was observed in samples with a higher MAF. The difference in median PFS between patients with RAS-mutant samples with MAF &lt; 5.8% (N = 10) and those with MAF ≥ 5.8% was 10.7 months vs 7.0 months with an HR of 2.2 (95% CI: 0.94-7.20; P = 0.06).</p><p>Using the same optimized cutoff of 5.8%, samples with MAF &lt; 5.8% showed significantly better OS <ref type="figure" target="#fig_1">(Fig. 2B)</ref>. The difference in median OS between patients with RAS-mutant samples having MAF &lt; 5.8% (N = 10) and those with MAF ≥ 5.8% was 26.7 months vs 11.4 months (HR: 3.5; 95% CI: 2.08-43.1; P = 0.0006). RAS MAF was still an independent variable for OS with a 1% cutoff, but at 10% cutoff, HR was no longer significant ( <ref type="figure" target="#fig_2">Fig. S3A-D)</ref>.</p><p>In the second-line setting, the analyses show clearly that patients with MAF &lt; 5.8% have both longer PFS and OS, with an HR of 6.6 and P = 0.00018 for both variables, compared to those with MAF &gt; 5.8% <ref type="figure">(Fig. S4A,B)</ref>. RAS MAF remained an independent variable with cutoffs of 1% or 10% <ref type="figure">(Fig. S4C,F)</ref>.</p><p>Mutant allele fractions were significantly higher in patients whose outcome was progression disease (PD), compared to those with partial response (PR; Fisher's test P = 0.002) or stable disease (SD; Fisher's test P = 0.014; <ref type="figure" target="#fig_1">Fig. 2C</ref>). One-way ANOVA test draws identical conclusions (P = 0.007).</p><p>Univariate analyses in the first-line cohort including different clinical factors such as tumor location, number of metastatic sites, gender, and CEA levels showed plasma MAF was the only statistically significant prognostic factor for OS. Multivariate Cox analysis considering the previous biomarkers showed that plasma RAS MAF was the strongest prognostic factor for both PFS (HR: 3.74; 95% CI 1.01-13.92; P = 0.049) and OS (HR: 2.73; 95% CI 2.35-182.53; P = 0.006; <ref type="table" target="#tab_1">Table 2</ref>).</p><p>Consistent with our results, in an independent cohort at first-line treatment from the CAPRI-GOIM trial, samples with MAF &lt; 5.8% showed significantly better OS (HR: 3.84; 95% CI 1.5-9.6; P = 0.004) and longer PFS (HR: 2.5; 95% CI: 1.07-5.62; P = 0.033; <ref type="figure" target="#fig_2">Fig. 3</ref>). Similar results were obtained when using a cutoff of 10% <ref type="figure">(Fig. S5)</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="4.">Discussion</head><p>This is the first clinical study that aims at specifically assessing the prognostic potential of measuring RAS MAFs in cfDNA in a homogenous group of mCRC patients. Previously, we and others observed that patients with lower OS tend to have a plasma RAS MAF above 10% <ref type="bibr" target="#b5">(El Messaoudi et al., 2016;</ref><ref type="bibr" target="#b6">Grasselli et al., 2017;</ref><ref type="bibr" target="#b18">Vidal et al., 2017)</ref>. The present study aimed to accurately define the impact of RAS MAF in a homogenous cohort of mutated mCRC patients, thereby excluding potential confounding factors, in the context of specific clinical parameters and survival outcomes. We correlated RAS MAF with several clinical characteristics including previously proposed prognostic biomarkers, such as laterality, CEA, CA19.9, hepatic tumor volume, number of metastatic sites, and previous lines of therapy, to gain a better understanding of the biological basis of plasma MAFs in mCRC patients. However, no linear correlations were found with any of these parameters -an outcome which warrants further research with expanded cohorts.</p><p>To date, there is plausible evidence that the primary tumor side might have prognostic value in mCRC <ref type="bibr" target="#b0">(Arnold et al., 2017;</ref><ref type="bibr" target="#b11">Petrelli et al., 2017)</ref>. Our multivariate analysis revealed that tumor sidedness was not a prognostic factor in our cohort. This apparent discordance with previous publications might be accounted for by a bias concerning the study populations; our cohort is relatively small and included only RAS-mutated mCRC samples, whereas other studies were based on patients with RAS wild-type mCRC <ref type="bibr" target="#b0">(Arnold et al., 2017)</ref> or did not take RAS mutational status into account <ref type="bibr" target="#b11">(Petrelli et al., 2017)</ref>.</p><p>While MAF distribution was independent of hepatic tumor volume and the number of metastatic hepatic lesions, the presence of metastases in the liver, lung, or lymph nodes was significantly associated with higher MAFs. Although there is currently no clear explanation for this phenomenon, our results are in line with previous studies reporting that the site of metastatic spread rather than the number of lesions has prognostic value in mCRC <ref type="bibr" target="#b13">(Riihim€ aki et al., 2016;</ref><ref type="bibr" target="#b18">Vidal et al., 2017;</ref><ref type="bibr" target="#b19">Yaeger et al., 2015)</ref>. Evaluation of best response to treatment showed that patients with higher MAFs had PD or SD rather than PR. Our study also indicates that patients with  higher RAS MAFs do present with more resistant tumors to conventional therapies. New or experimental approaches should be considered for them.</p><p>In our multivariate statistical model, RAS MAF did not correlate with either CEA or CA19-9, unlike recent observation that elevated CA19-9 levels represented a strong prognostic marker <ref type="bibr" target="#b12">(Rahbari et al., 2017)</ref>. However, we did observe that patients with higher MAFs also tended to have higher levels of both CA19-9 and CEA, though not reaching statistical significance.</p><p>The most striking finding of our analysis is that the estimation of RAS MAF in liquid biopsies correlates with predicting life expectancy in this mCRC population. Our data provide evidence that baseline patients with higher RAS MAFs in cfDNA tend to progress after a shorter time and have significantly shorter OS. An independent cohort from the CAPRI-GOIM trial was analyzed, and plasma MAF at baseline resulted statistically significant for prognosis in both OS and PFS. An improved prognostic value in PFS was observed in this first-line setting. A MAF cutoff was selected, using the cutp algorithm, based on the ability to better segregate outcomes in terms of PFS and OS (5.8% MAF). Additional cutoffs of 1% and 10% MAF used in previous publications <ref type="bibr" target="#b5">(El Messaoudi et al., 2016;</ref><ref type="bibr" target="#b15">Siravegna et al., 2017;</ref><ref type="bibr" target="#b18">Vidal et al., 2017)</ref> were also evaluated, being 5.8% the one that overall provided better prognostic value in our patient cohorts. The sample size is indeed relatively small and larger prospective studies to confirm our analyses and further evaluate clinical parameters will be valuable.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="5.">Conclusion</head><p>Our data strongly support that RAS MAFs have independent prognostic value for CRC survival and that, along with tumor and patient characteristics, could provide a useful noninvasive decision-making tool in the first-line setting. After demonstrating the feasibility for implementing liquid biopsies in routine care (Grasselli et al., 2017), we propose RAS MAFs as a novel independent prognostic biomarker for mCRC. AIRC (Associazione Italiana per la Ricerca sul cancro). This research project was supported by ESMO <ref type="bibr">[Translational Research Fellowship]</ref> with the aid of a grant from Amgen. Any views, opinions, findings, conclusions, or recommendations expressed in this material are those solely of the author(s) and do not necessarily reflect those of ESMO or Amgen. This work was supported partially by the Instituto de Salud Carlos III (Ministerio de Econom ıa y Competitividad) and 'Fondo Europeo de Desarrollo Regional (FEDER), una manera de hacer Europa' grants [FIS PI12-01589 to RS] and RETICC Cancer. The funders had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Conflict of interest</head><p>JT has served in a consulting or advisory role for Amgen, Boehringer Ingelheim, Celgene, Chugai, ImClone, Lilly, Merck, S.L., Madrid, Merck Serono, Millennium Pharmaceuticals, Inc., Novartis, Roche, Sanofi, and Taiho. RS has served in a consulting or advisory role for Amgen, Merck, S.L., Madrid, and Roche Dx and obtained research funding from Roche Dx. AV has served in a consulting or advisory role for Merck, S.L., Madrid, Merck Serono, and Sysmex. All remaining authors have declared no conflicts of interest.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Supporting information</head><p>Additional supporting information may be found online in the Supporting Information section at the end of the article. <ref type="figure" target="#fig_0">Fig. S1</ref>. Sample selection. Flowchart of selection steps for the analysis population. <ref type="figure" target="#fig_1">Fig. S2</ref>. Correlation analysis. Dot plots depicting the correlation between MAF (%) and the following parameters: CA19.9, CEA, hepatic volume and number of metastatic sites. Pearson correlation coefficient (cor) and P-values are reported. <ref type="figure" target="#fig_2">Fig. S3</ref>. PFS and OS analyses at different MAF cutoffs in first-line treatment. Survival curves are shown for samples with MAF &lt; 1% (black line) and MAF &gt; 1% (red line) in terms of PFS (A) and OS (B), as well as for samples with MAF &lt; 10% (black line) and MAF &gt; 10% (red line) in terms of PFS (C) and OS (D). HR and P-values are shown. Correlation between PFS/OS and MAF is reported (E). Pearson correlation coefficient (cor) and the P-value are reported. <ref type="figure">Fig. S4</ref>. PFS and OS analyses in second-line treatment. Survival curves are shown for samples with: (a) MAF &lt; 5.8% (black line) and MAF &gt; 5.8% (red line) in terms of PFS (A) and OS (B); (b) MAF &lt; 1% (black line) and MAF &gt; 1% (red line) in terms of PFS (C) and OS (D); (c) MAF &lt; 10% (black line) and MAF &gt; 10% (red line) in terms of PFS (E) and OS (F). HR and P-values are shown. <ref type="figure">Fig. S5</ref>. PFS and OS analyses at different MAF cutoffs in the validation cohort (CAPRI-GOIM trial). Survival curves are shown for samples with MAF &lt; 1% (black line) and MAF &gt; 1% (red line) in terms of PFS (A) and OS (B), as well as for samples with MAF &lt; 10% (black line) and MAF &gt; 10% (red line) in terms of PFS (C) and OS (D). HR and P-values are shown. <ref type="table" target="#tab_0">Table S1</ref>. Description of patients used in the study. <ref type="table" target="#tab_1">Table S2</ref>. RAS panel of mutations for BEAMing analysis. <ref type="table">Table S3</ref>. MAF tendency according to CA 19-9 and CEA levels.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>Fig. 1 .</head><label>1</label><figDesc>MAF distribution. Representation of MAF (%) distributions according to: (A) the two lines of treatment; (B) tumor laterality; (C) number of metastatic lesions; and (D) metastatic site. Box plots show the interquartile range (IQR) with median, 25th and 75th percentile, outliers, and P-values. Continued lines (in graph D) indicate the comparison between two variables. Statistically significant P-values are marked with a (*). Samples are represented by light blue dots. 1831 Molecular Oncology 13 (2019) 1827-1835 ª 2019 The Authors. Published by FEBS Press and John Wiley &amp; Sons Ltd.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head>Fig. 2 .</head><label>2</label><figDesc>PFS and OS analyses in first-line treatment. Survival curves are shown for samples with MAF &lt; 5.8% (black line) and MAF&gt; 5.8% (red line) in terms of PFS (A) and OS (B) in the 1st line. HR and P-values are shown. (C) MAF distribution according to best response to treatment.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_2"><head>Fig. 3 .</head><label>3</label><figDesc>PFS and OS analyses in the validation cohort (CAPRI-GOIM trial). Survival curves are shown for samples with MAF &lt; 5.8% (black line) and MAF &gt; 5.8% (red line) in terms of PFS (A) and OS (B). HR and P-values are shown. 1833 Molecular Oncology 13 (2019) 1827-1835 ª 2019 The Authors. Published by FEBS Press and John Wiley &amp; Sons Ltd.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>Table 1 .</head><label>1</label><figDesc>Patient characteristics.</figDesc><table><row><cell></cell><cell>First-line</cell><cell>Second-line</cell><cell>CAPRI-GOIM</cell></row><row><cell></cell><cell>(N = 29; (%)</cell><cell>(N = 12; %)</cell><cell>(N = 33; %)</cell></row><row><cell>Gender</cell><cell></cell><cell></cell><cell></cell></row><row><cell>Male</cell><cell>19 (65)</cell><cell>7 (58)</cell><cell>16 (48)</cell></row><row><cell>Female</cell><cell>20 (35)</cell><cell>5 (42)</cell><cell>17 (52)</cell></row><row><cell>RAS-mutated</cell><cell></cell><cell></cell><cell></cell></row><row><cell>KRAS 12</cell><cell>16 (55)</cell><cell>7 (58)</cell><cell>19 (58)</cell></row><row><cell>KRAS 13</cell><cell>6 (21)</cell><cell>3 (25)</cell><cell>2 (6)</cell></row><row><cell>KRAS (others)</cell><cell>3 (10)</cell><cell>1 (8)</cell><cell>7 (21)</cell></row><row><cell>NRAS 12</cell><cell>1 (4)</cell><cell>0</cell><cell>2 (6)</cell></row><row><cell>NRAS 13</cell><cell>0</cell><cell>0</cell><cell>0</cell></row><row><cell>NRAS (others)</cell><cell>3 (10)</cell><cell>1 (8)</cell><cell>3 (9)</cell></row><row><cell cols="2">M1 metastatic sites</cell><cell></cell><cell></cell></row><row><cell>1</cell><cell>10 (35)</cell><cell>1 (8)</cell><cell>17 (52)</cell></row><row><cell>2</cell><cell>16 (55)</cell><cell>7 (58)</cell><cell>14 (42)</cell></row><row><cell>3+</cell><cell>3 (10)</cell><cell>4 (33)</cell><cell>2 (6)</cell></row><row><cell>Primary site</cell><cell></cell><cell></cell><cell></cell></row><row><cell>Right</cell><cell>9 (31)</cell><cell>5 (42)</cell><cell>7 (21)</cell></row><row><cell>Left</cell><cell>12 (41)</cell><cell>0</cell><cell>16 (48)</cell></row><row><cell>Rectum</cell><cell>8 (28)</cell><cell>7 (58)</cell><cell>10 (31)</cell></row><row><cell>Treatment</cell><cell></cell><cell></cell><cell></cell></row><row><cell>FOLFOX</cell><cell>26 (89)</cell><cell>3 (25)</cell><cell></cell></row><row><cell>FOLFIRI</cell><cell>1 (4)</cell><cell>7 (58)</cell><cell></cell></row><row><cell>Antiangiogenics</cell><cell>9 (31)</cell><cell>5 (42)</cell><cell></cell></row><row><cell>Others a</cell><cell>3 (10)</cell><cell>2 (17)</cell><cell></cell></row></table><note></note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_1"><head>Table 2 .</head><label>2</label><figDesc>Multivariate analysis for first-line PFS and OS.</figDesc><table><row><cell></cell><cell>PFS</cell><cell></cell><cell></cell><cell>OS</cell><cell></cell><cell></cell></row><row><cell>Risk factor</cell><cell>HR</cell><cell>95% CI</cell><cell>P-value</cell><cell>HR</cell><cell>95% CI</cell><cell>P-value</cell></row><row><cell>Gender</cell><cell>2.37</cell><cell>0.77-7.38</cell><cell>0.135</cell><cell>1.20</cell><cell>0.33-4.38</cell><cell>0.778</cell></row><row><cell>Laterality</cell><cell>0.54</cell><cell>0.17-1.74</cell><cell>0.303</cell><cell>0.32</cell><cell>0.08-1.19</cell><cell>0.088</cell></row><row><cell>CEA</cell><cell>0.99</cell><cell>0.99-1.00</cell><cell>0.656</cell><cell>0.99</cell><cell>0.99-1.00</cell><cell>0.711</cell></row><row><cell>No. of hepatic lesions</cell><cell>1.04</cell><cell>0.32-3.37</cell><cell>0.947</cell><cell>1.05</cell><cell>0.30-3.70</cell><cell>0.935</cell></row><row><cell>Plasma MAF</cell><cell>3.74</cell><cell>1.01-13.92</cell><cell>0.049</cell><cell>2.73</cell><cell>2.35-182.53</cell><cell>0.006</cell></row><row><cell>1832</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row></table><note>Molecular Oncology 13 (2019) 1827-1835 ª 2019 The Authors. Published by FEBS Press and John Wiley &amp; Sons Ltd.</note></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot">Molecular Oncology 13 (2019) 1827-1835 ª 2019 The Authors. Published by FEBS Press and John Wiley &amp; Sons Ltd.</note>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Acknowledgements</head><p>The authors acknowledge the medical editing assistance of Sarah MacKenzie (PhD). FC acknowledges AIRC (Associazione Italiana per la Ricerca sul Cancro) for funding: IG-2016-ID:14800. NN acknowledges</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Author contributions</head><p>AV and EE conceived of the presented idea. AV, EE, TT, and FC developed the study design. ES, EM, AN, JG, GC, RE, GM, CS, TM, GA, JC, and NM contributed to sample acquisition. GC and JM performed the experiments. FM, AG, and AV performed the quality control of data and algorithms. FM, EE, AV, and RS contributed to data analyses and the interpretation of the results. FM, EM, and NN performed the statistical analysis. FM prepared the figures. CC wrote and edited the manuscript with support from EE and AV. All authors provided critical feedback and helped shape the research, analysis, and manuscript.</p></div>
+			</div>
+
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Prognostic and predictive value of primary tumour side in patients with RAS wild-type metastatic colorectal cancer treated with chemotherapy and EGFR directed antibodies in six randomized trials</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><surname>Arnold</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">B</forename><surname>Lueza</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">Y</forename><surname>Douillard</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Peeters</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><forename type="middle">J</forename><surname>Lenz</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Venook</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">V</forename><surname>Heinemann</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><surname>Van Cutsem</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">P</forename><surname>Pignon</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Tabernero</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ann Oncol</title>
+		<imprint>
+			<biblScope unit="volume">28</biblScope>
+			<biblScope unit="page" from="1713" to="1729" />
+			<date type="published" when="2017" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Nanofluidic digital PCR and extended genotyping of RAS and BRAF for improved selection of metastatic colorectal cancer patients for Anti-EGFR therapies</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><surname>Azuara</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><surname>Santos</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Lopez-Doriga</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Grasselli</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Nadal</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">X</forename><surname>Sanjuan</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">F</forename><surname>Marin</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Vidal</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><surname>Montal</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">V</forename><surname>Moreno</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Mol Cancer Ther</title>
+		<imprint>
+			<biblScope unit="volume">15</biblScope>
+			<biblScope unit="page" from="1106" to="1112" />
+			<date type="published" when="2016" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Detection of circulating tumor DNA in early-and late-stage human malignancies</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><surname>Bettegowda</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Sausen</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><forename type="middle">J</forename><surname>Leary</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">I</forename><surname>Kinde</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Y</forename><surname>Wang</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">N</forename><surname>Agrawal</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">B</forename><forename type="middle">R</forename><surname>Bartlett</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><surname>Wang</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">B</forename><surname>Luber</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><forename type="middle">M</forename><surname>Alani</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Sci Transl Med</title>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="page" from="224" to="248" />
+			<date type="published" when="2014" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Clinical activity of FOLFIRI plus cetuximab according to extended gene mutation status by next-generation sequencing: findings from the CAPRI-GOIM trial</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">F</forename><surname>Ciardiello</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">N</forename><surname>Normanno</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><surname>Maiello</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><surname>Martinelli</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Troiani</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Pisconti</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">F</forename><surname>Giuliani</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><surname>Barone</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">G</forename><surname>Carten I</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><forename type="middle">M</forename><surname>Rachiglio</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ann Oncol</title>
+		<imprint>
+			<biblScope unit="volume">25</biblScope>
+			<biblScope unit="page" from="1756" to="1761" />
+			<date type="published" when="2014" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">An application of changepoint methods in studying the effect of age on survival in breast cancer</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><surname>Contal</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">O</forename><surname>Quigley</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Comput Stat Data Anal</title>
+		<imprint>
+			<biblScope unit="volume">30</biblScope>
+			<biblScope unit="page" from="253" to="270" />
+			<date type="published" when="1999" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Circulating DNA as a strong multimarker prognostic tool for metastatic colorectal cancer patient management care</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>El Messaoudi</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">F</forename><surname>Mouliere</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Du</forename><surname>Manoir</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Bascoul-Mollevi</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><surname>Gillet</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">B</forename><surname>Nouaille</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Fiess</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><surname>Crapez</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><surname>Bibeau</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">F</forename><surname>Theillet</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Clin Cancer Res</title>
+		<imprint>
+			<biblScope unit="volume">22</biblScope>
+			<biblScope unit="page" from="3067" to="3077" />
+			<date type="published" when="2016" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Concordance of blood-and tumor-based detection of RAS mutations to guide anti-EGFR therapy in metastatic colorectal cancer</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Grasselli</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><surname>Elez</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Carat U G</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Matito</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><surname>Santos</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Macarulla</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Vidal</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Garcia</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">M</forename><surname>Vi Eitez</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Pa</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ann Oncol</title>
+		<imprint>
+			<biblScope unit="volume">28</biblScope>
+			<biblScope unit="page" from="1294" to="1301" />
+			<date type="published" when="2017" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Clinical relevance of KRAS-mutated subclones detected with picodroplet digital PCR in advanced colorectal cancer treated with anti-EGFR therapy</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><surname>Laurent-Puig</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><surname>Pekin</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><surname>Normand</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><forename type="middle">K</forename><surname>Kotsopoulos</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><surname>Nizard</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><surname>Perez-Toralla</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><surname>Rowell</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Olson</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><surname>Srinivasan</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Le</forename><surname>Corre</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Clin Cancer Res</title>
+		<imprint>
+			<biblScope unit="volume">21</biblScope>
+			<biblScope unit="page" from="1087" to="1097" />
+			<date type="published" when="2015" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<monogr>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Mandrekar</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Mandrekar</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Cha</surname></persName>
+		</author>
+		<title level="m">Cutpoint Determination Methods in Survival Analysis using SAS Proc 28th SAS Users Gr Int. Conf (SUGI)</title>
+		<imprint>
+			<date type="published" when="2003" />
+			<biblScope unit="page" from="261" to="228" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">RAS testing of liquid biopsy correlates with the outcome of metastatic colorectal cancer patients treated with first-line FOLFIRI plus cetuximab in the CAPRI-GOIM trial</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">N</forename><surname>Normanno</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><surname>Esposito Abate</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Lambiase</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">L</forename><surname>Forgione</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><surname>Cardone</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Iannaccone</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Sacco</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><forename type="middle">M</forename><surname>Rachiglio</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><surname>Martinelli</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><surname>Rizzi</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ann Oncol</title>
+		<imprint>
+			<biblScope unit="volume">29</biblScope>
+			<biblScope unit="page" from="112" to="118" />
+			<date type="published" when="2017" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Mutant allele frequency predicts the efficacy of EGFR-TKIs in lung adenocarcinoma harboring the L858R mutation</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Ono</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><surname>Kenmotsu</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Watanabe</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Serizawa</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><surname>Mori</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><surname>Imai</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Taira</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Naito</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><surname>Murakami</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Nakajima</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ann Oncol</title>
+		<imprint>
+			<biblScope unit="volume">25</biblScope>
+			<biblScope unit="page" from="1948" to="1953" />
+			<date type="published" when="2014" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Prognostic survival associated with left-sided vs right-sided colon cancer</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">F</forename><surname>Petrelli</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">G</forename><surname>Tomasello</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><surname>Borgonovo</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Ghidini</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">L</forename><surname>Turati</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><surname>Dallera</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><surname>Passalacqua</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">G</forename><surname>Sgroi</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Barni</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">JAMA Oncol</title>
+		<imprint>
+			<biblScope unit="volume">3</biblScope>
+			<biblScope unit="page">211</biblScope>
+			<date type="published" when="2017" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Prognostic value of circulating endothelial cells in metastatic colorectal cancer</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">N</forename><forename type="middle">N</forename><surname>Rahbari</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Sch€ Olch</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">U</forename><surname>Bork</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><surname>Kahlert</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Schneider</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Rahbari</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">W</forename><surname>B€ Uchler</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Weitz</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><surname>Reissfelder</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Oncotarget</title>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="page" from="37491" to="37501" />
+			<date type="published" when="2017" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Patterns of metastasis in colon and rectal cancer</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Riihim€ Aki</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Hemminki</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Sundquist</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><surname>Hemminki</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Sci Rep</title>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="page">29765</biblScope>
+			<date type="published" when="2016" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title/>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><surname>Siegel</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><forename type="middle">D</forename><surname>Miller</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><forename type="middle">A</forename><surname>Fedewa</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><forename type="middle">J</forename><surname>Ahnen</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Rgs</forename><surname>Meester</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Barzi</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Colorectal cancer statistics</title>
+		<imprint>
+			<biblScope unit="volume">67</biblScope>
+			<biblScope unit="page" from="177" to="193" />
+			<date type="published" when="2017" />
+		</imprint>
+	</monogr>
+	<note>CA Cancer J Clin</note>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Integrating liquid biopsies into the management of cancer</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">G</forename><surname>Siravegna</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Marsoni</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Siena</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Bardelli</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nat Rev Clin Oncol</title>
+		<imprint>
+			<biblScope unit="volume">14</biblScope>
+			<biblScope unit="page" from="531" to="548" />
+			<date type="published" when="2017" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Clonal evolution and resistance to EGFR blockade in the blood of colorectal cancer patients</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">G</forename><surname>Siravegna</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">B</forename><surname>Mussolin</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Buscarino</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">G</forename><surname>Corti</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Cassingena</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">G</forename><surname>Crisafulli</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Ponzetti</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><surname>Cremolini</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Amatu</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><surname>Lauricella</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nat Med</title>
+		<imprint>
+			<biblScope unit="volume">21</biblScope>
+			<biblScope unit="page" from="795" to="801" />
+			<date type="published" when="2015" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Cetuximab plus irinotecan, fluorouracil, and leucovorin as first-line treatment for metastatic colorectal cancer: updated analysis of overall survival according to tumor KRAS and BRAF mutation status</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><surname>Van Cutsem</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><forename type="middle">H</forename><surname>K€ Ohne</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">G</forename><surname>Folprecht</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">P</forename><surname>Nowacki</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Cascinu</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">I</forename><surname>Shchepotin</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Maurel</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><surname>Cunningham</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Tejpar</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Clin Oncol</title>
+		<imprint>
+			<biblScope unit="volume">29</biblScope>
+			<biblScope unit="page" from="2011" to="2019" />
+			<date type="published" when="2011" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">Plasma ctDNA RAS mutation analysis for the diagnosis and treatment monitoring of metastatic colorectal cancer patients</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Vidal</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">L</forename><surname>Muinelo</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Dalmases</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">F</forename><surname>Jones</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><surname>Edelstein</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Iglesias</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Orrillo</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Abalo</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><surname>Rodr Iguez</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><surname>Brozos</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ann Oncol</title>
+		<imprint>
+			<biblScope unit="volume">28</biblScope>
+			<biblScope unit="page" from="1325" to="1332" />
+			<date type="published" when="2017" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">RAS mutations affect pattern of metastatic spread and increase propensity for brain metastasis in colorectal cancer</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><surname>Yaeger</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><surname>Cowell</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">F</forename><surname>Chou</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><forename type="middle">N</forename><surname>Gewirtz</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">L</forename><surname>Borsu</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><surname>Vakiani</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><forename type="middle">B</forename><surname>Solit</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">N</forename><surname>Rosen</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Capanu</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Ladanyi</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Cancer</title>
+		<imprint>
+			<biblScope unit="volume">121</biblScope>
+			<biblScope unit="page" from="1195" to="1203" />
+			<date type="published" when="2015" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">Relative abundance of EGFR mutations predicts benefit from gefitinib treatment for advanced nonsmall-cell lung cancer</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Q</forename><surname>Zhou</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">X</forename><forename type="middle">C</forename><surname>Zhang</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Z</forename><forename type="middle">H</forename><surname>Chen</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">X</forename><forename type="middle">L</forename><surname>Yin</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">J</forename><surname>Yang</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><forename type="middle">R</forename><surname>Xu</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><forename type="middle">H</forename><surname>Yan</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><forename type="middle">J</forename><surname>Chen</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Su</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">W</forename><forename type="middle">Z</forename><surname>Zhong</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Clin Oncol</title>
+		<imprint>
+			<biblScope unit="volume">29</biblScope>
+			<biblScope unit="page" from="3316" to="3321" />
+			<date type="published" when="2011" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

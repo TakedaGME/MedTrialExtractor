@@ -1,0 +1,781 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /data/rsg/nlp/juanmoo1/bin/grobid-0.6.1/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Phase II study of nedaplatin and amrubicin as first-line treatment for advanced squamous cell lung cancer</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author role="corresp">
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Hirokazu</forename><surname>Taniguchi</surname></persName>
+							<email>hirokazu_pc@nagasaki-u.ac.jp</email>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Respiratory Medicine</orgName>
+								<orgName type="institution">Nagasaki University Graduate School of Biomedical Sciences</orgName>
+								<address>
+									<settlement>Nagasaki</settlement>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Hiroyuki</forename><surname>Yamaguchi</surname></persName>
+							<idno type="ORCID">0000-0003-2414-8344</idno>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Respiratory Medicine</orgName>
+								<orgName type="institution">Nagasaki University Graduate School of Biomedical Sciences</orgName>
+								<address>
+									<settlement>Nagasaki</settlement>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Yosuke</forename><surname>Dotsu</surname></persName>
+							<idno type="ORCID">0000-0002-9182-5694</idno>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Respiratory Medicine</orgName>
+								<orgName type="institution">Nagasaki University Graduate School of Biomedical Sciences</orgName>
+								<address>
+									<settlement>Nagasaki</settlement>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Midori</forename><surname>Shimada</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Respiratory Medicine</orgName>
+								<orgName type="institution">Nagasaki University Graduate School of Biomedical Sciences</orgName>
+								<address>
+									<settlement>Nagasaki</settlement>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Hiroshi</forename><surname>Gyotoku</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Respiratory Medicine</orgName>
+								<orgName type="institution">Nagasaki University Graduate School of Biomedical Sciences</orgName>
+								<address>
+									<settlement>Nagasaki</settlement>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Hiroaki</forename><surname>Senju</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Respiratory Medicine</orgName>
+								<orgName type="institution">Nagasaki University Graduate School of Biomedical Sciences</orgName>
+								<address>
+									<settlement>Nagasaki</settlement>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Shinnosuke</forename><surname>Takemoto</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Respiratory Medicine</orgName>
+								<orgName type="institution">Nagasaki University Graduate School of Biomedical Sciences</orgName>
+								<address>
+									<settlement>Nagasaki</settlement>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Takeshi</forename><surname>Kitazaki</surname></persName>
+							<idno type="ORCID">0000-0003-0373-0618</idno>
+							<affiliation key="aff1">
+								<orgName type="department">Department of Respiratory Medicine</orgName>
+								<orgName type="institution">The Japanese Red Cross Nagasaki Genbaku Hospital</orgName>
+								<address>
+									<settlement>Nagasaki</settlement>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Masaaki</forename><surname>Fukuda</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="department">Department of Respiratory Medicine</orgName>
+								<orgName type="institution">The Japanese Red Cross Nagasaki Genbaku Hospital</orgName>
+								<address>
+									<settlement>Nagasaki</settlement>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Daiki</forename><surname>Ogawara</surname></persName>
+							<affiliation key="aff2">
+								<orgName type="department">Department of Respiratory Medicine</orgName>
+								<orgName type="institution">Sasebo City General Hospital</orgName>
+								<address>
+									<settlement>Sasebo</settlement>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Hiroshi</forename><surname>Soda</surname></persName>
+							<affiliation key="aff2">
+								<orgName type="department">Department of Respiratory Medicine</orgName>
+								<orgName type="institution">Sasebo City General Hospital</orgName>
+								<address>
+									<settlement>Sasebo</settlement>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Katsumi</forename><surname>Nakatomi</surname></persName>
+							<idno type="ORCID">0000-0003-4993-1837</idno>
+							<affiliation key="aff3">
+								<orgName type="department">Department of Respiratory Medicine</orgName>
+								<orgName type="institution">Ureshino Medical Center</orgName>
+								<address>
+									<settlement>Ureshino</settlement>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Nanae</forename><surname>Sugasaki</surname></persName>
+							<affiliation key="aff4">
+								<orgName type="department">Department of Respiratory Medicine</orgName>
+								<orgName type="institution">Nagasaki Prefecture Shimabara Hospital</orgName>
+								<address>
+									<settlement>Shimabara</settlement>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Akitoshi</forename><surname>Kinoshita</surname></persName>
+							<affiliation key="aff4">
+								<orgName type="department">Department of Respiratory Medicine</orgName>
+								<orgName type="institution">Nagasaki Prefecture Shimabara Hospital</orgName>
+								<address>
+									<settlement>Shimabara</settlement>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Seiji</forename><surname>Nagashima</surname></persName>
+							<affiliation key="aff5">
+								<orgName type="department">Department of Respiratory Medicine</orgName>
+								<orgName type="institution">National Hospital Organization Nagasaki Medical Center</orgName>
+								<address>
+									<settlement>Nagasaki</settlement>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Takaya</forename><surname>Ikeda</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Respiratory Medicine</orgName>
+								<orgName type="institution">Nagasaki University Graduate School of Biomedical Sciences</orgName>
+								<address>
+									<settlement>Nagasaki</settlement>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff6">
+								<orgName type="department">Department of Thoracic Oncology</orgName>
+								<orgName type="institution">National Cancer Center Hospital East</orgName>
+								<address>
+									<settlement>Kashiwa</settlement>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Yoichi</forename><surname>Nakamura</surname></persName>
+							<idno type="ORCID">0000-0001-9585-1753</idno>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Respiratory Medicine</orgName>
+								<orgName type="institution">Nagasaki University Graduate School of Biomedical Sciences</orgName>
+								<address>
+									<settlement>Nagasaki</settlement>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff7">
+								<orgName type="department">Division of Thoracic Oncology</orgName>
+								<orgName type="institution">Tochigi Cancer Center</orgName>
+								<address>
+									<settlement>Utsunomiya</settlement>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Noriho</forename><surname>Sakamoto</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Respiratory Medicine</orgName>
+								<orgName type="institution">Nagasaki University Graduate School of Biomedical Sciences</orgName>
+								<address>
+									<settlement>Nagasaki</settlement>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Yasushi</forename><surname>Obase</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Respiratory Medicine</orgName>
+								<orgName type="institution">Nagasaki University Graduate School of Biomedical Sciences</orgName>
+								<address>
+									<settlement>Nagasaki</settlement>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Minoru</forename><surname>Fukuda</surname></persName>
+							<affiliation key="aff8">
+								<orgName type="department">Clinical Oncology Center</orgName>
+								<orgName type="institution">Nagasaki University Hospital</orgName>
+								<address>
+									<settlement>Nagasaki</settlement>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Hiroshi</forename><surname>Mukae</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Respiratory Medicine</orgName>
+								<orgName type="institution">Nagasaki University Graduate School of Biomedical Sciences</orgName>
+								<address>
+									<settlement>Nagasaki</settlement>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff9">
+								<orgName type="department" key="dep1">Department of Respiratory Medicine</orgName>
+								<orgName type="department" key="dep2">Graduate School of Biomedical Sciences</orgName>
+								<orgName type="institution">Nagasaki University</orgName>
+								<address>
+									<addrLine>1-7-1, Sakamoto</addrLine>
+									<settlement>Nagasaki</settlement>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Phase II study of nedaplatin and amrubicin as first-line treatment for advanced squamous cell lung cancer</title>
+					</analytic>
+					<monogr>
+						<idno type="ISSN">1759-7706</idno>
+					</monogr>
+					<idno type="DOI">10.1111/1759-7714.13134</idno>
+					<note type="submission">Received: 24 May 2019; Accepted: 15 June 2019.</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.6.1" ident="GROBID" when="2020-10-09T18:38+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>Amrubicin</term>
+					<term>clinical trial</term>
+					<term>nedaplatin</term>
+					<term>squamous cell lung cancer</term>
+				</keywords>
+			</textClass>
+			<abstract>
+				<p>Background: The first-line treatment for squamous cell lung cancer (SCC) has not necessarily been established; however, our previous exploratory study suggested that the combination of nedaplatin and amrubicin would be a promising treatment approach for patients with SCC. Therefore, a phase II study of this chemotherapeutic combination was designed to evaluate its efficacy and safety for treatment-naïve patients with advanced SCC. Methods: A total of 21 treatment-naïve patients with stage IIIB/IV or postoperative recurrent SCC were enrolled from six institutions. Nedaplatin (100 mg/m 2) on day 1 and amrubicin (25 mg/m 2) on days 1-3 were administered intravenously every 4 weeks. The primary endpoint was overall response rate (ORR), while the secondary endpoints included overall survival (OS), progression-free survival (PFS), and drug toxicities. Results: Partial response was observed in seven of 21 cases (ORR, 33.3%; 95% confidence interval [CI], 14.5-52.2). Disease control rate, which includes stable disease, was 71.4%. Median OS and PFS was 14.6 and 4.1 months, respectively. This regimen did not cause any treatment-related deaths. Grade 3/4 neutropenia developed in 8 of 21 cases (38.1%); however, febrile neutropenia developed in only 9.5% of the cases. Grade 3/4 gastrointestinal or neuromuscular toxicities were not observed. Conclusion: The efficacy of the combination of nedaplatin and amrubicin was comparable to that of other conventional chemotherapeutic regimens for treatment-naïve patients with advanced SCC, and no severe gastrointestinal or neuromuscular toxicities were observed. This combination therapy may be an alternative treatment approach, particularly in patients who cannot tolerate gastrointestinal or neuromuscular toxicities.</p>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Introduction</head><p>Squamous cell lung cancer (SCC) accounts for approximately 20%-30% of all lung cancers. However, in contrast to the notable advances in the treatment of metastatic non-SCC due to genetic alterations, the first-line treatment of SCC has not necessarily been established. Although the efficacy of immune checkpoint inhibitors has been previously demonstrated, platinum-based cytotoxic therapy is still considered a cornerstone of the treatment of SCC. <ref type="bibr" target="#b0">1</ref> In clinical practice, the conventional regimens for SCC include a combination of cisplatin or carboplatin with taxanes, gemcitabine, and S-1 based chemotherapy. However, the median overall survival remains approximately 12-17 months, regardless of the occurrence of severe adverse events. <ref type="bibr" target="#b1">[2]</ref><ref type="bibr" target="#b2">[3]</ref><ref type="bibr" target="#b3">[4]</ref><ref type="bibr" target="#b4">[5]</ref><ref type="bibr" target="#b5">[6]</ref><ref type="bibr" target="#b6">[7]</ref> Therefore, a novel combination of anticancer agents leading to fewer severe adverse events is required for the treatment of SCC patients.</p><p>Nedaplatin, a second-generation platinum compound, has been developed to decrease the nephrotoxicity and gastrointestinal toxic effects induced by cisplatin, without affecting its anti-tumor property. <ref type="bibr" target="#b7">[8]</ref><ref type="bibr" target="#b8">[9]</ref><ref type="bibr" target="#b9">[10]</ref> A randomized phase III study involving SCC patients showed that overall survival was longer with a combination of nedaplatin and docetaxel than with a combination of cisplatin and docetaxel. <ref type="bibr" target="#b10">11</ref> Amrubicin is a novel DNA topoisomerase II inhibitor; our previous phase I/II study revealed that a chemotherapeutic combination of amrubicin and nedaplatin was well tolerated, and that the overall response rate (ORR) was 48.6% (17 of 35 cases) for advanced nonsmall cell lung cancer. <ref type="bibr" target="#b11">12</ref> The subset analysis (unpublished data) also suggested that the combination of nedaplatin and amrubicin was more effective in treating SCC (ORR, 70.0%; 7 of 10 cases) compared to non-SCC (ORR, 40.0%; 10 of 25 cases). However, the number of SCC patients in that study was too small to evaluate the efficacy of nedaplatin and amrubicin for SCC. Thus, the present study was designed to clarify the efficacy and safety of a combination therapy with nedaplatin and amrubicin for SCC.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Methods</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Patients and eligibility criteria</head><p>The eligibility criteria for this study were as follows: histologically confirmed stage IIIB/IV or postoperative recurrent SCC not amenable to curative radiotherapy (according to the 7th edition of the General Rule for Clinical and Pathological Record of Lung Cancer); no prior chemotherapy or recurrence more than 6 months after a previous adjuvant chemotherapy; no radiation therapy for a primary tumor; Eastern Cooperative Oncology Group (ECOG) performance status (PS) of 0 or 1; having measurable lesions according to the response evaluation criteria in solid tumors (RECIST) 1.1; age between 20 and 75 years; life expectancy of 12 weeks or more; adequate major organ function; white blood cell count ≥4 × 10 3 cells/μL; absolute neutrophil count ≥2 × 10 3 cells/μL; hemoglobin concentrations ≥9 g/dL; platelet count ≥100 × 10 3 cells/μL; total bilirubin concentration ≤1.5 mg/dL; aspartate aminotransferase and alanine aminotransferase concentration ≥2 times the upper limit of the normal range; creatinine concentration ≤ the upper limit of the normal range; and arterial oxygen saturation at room air using pulse oxymetry ≥ 95%.</p><p>The major exclusion criteria were as follows: pulmonary fibrosis with an obvious shadow on chest radiography; uncontrollable fever; serious comorbidities including uncontrollable hypertension, diabetes mellitus or cardiovascular disease, active infection, mental disorder; uncontrollable pericardial effusion, pleural effusion, or ascites; second malignancy; pregnancy; lactation; history or presence of hemoptysis or bloody sputum; tumor invading or abutting major blood vessels; history of radiation therapy for lung field; or coexistence or history of interstitial lung diseases.</p><p>This study was conducted in accordance with the Declaration of Helsinki. The study protocol was reviewed and approved by the institutional review boards of the participating institutions, and a written informed consent was obtained from all patients. This trial was registered with University Hospital Medical Information Network (UMIN000003282).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Treatment and assessment</head><p>All patients received nedaplatin (100 mg/m 2 ) intravenously on day 1 and amrubicin (25 mg/m 2 ) on days 1-3 every 4 weeks. Each patient received a minimum of three cycles until the onset of a progressive disease or unacceptable toxicity. The maximal number of chemotherapy cycles was six; however, the patients underwent more cycles, if necessary.</p><p>Before treatment, all patients underwent a complete medical history and physical examination, chest radiography, chest and abdominal computed tomography (CT), a radionuclide bone scan or positron emission tomography CT, brain CT or magnetic resonance imaging (MRI), and electrocardiography. Complete blood cell counts and blood chemistry studies were also conducted and repeated at least twice a week until treatment discontinuation. Scans or radiographs were obtained every 4-6 weeks to assess the overall response.</p><p>The response was investigator-determined according to RECIST version 1.1. All adverse events were recorded and classified by grade according to the Common Terminology Criteria for Adverse Events (CTCAE) version 4.0.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Statistical analysis</head><p>The primary endpoint was ORR. A Simon optimal two-stage design was chosen for the determination of the total number of patients required for this study. Assuming an ORR of 20% for standard therapy, a target response rate of 40% was established. With alpha = 0.05 and beta = 0.20, the estimated number of patients required was 33. Considering unfitness, drop-out, and discontinuation, the sample size of this study was determined to be 35. The secondary endpoints included overall survival (OS), progression-free survival (PFS), and toxicities. OS was defined as the time from treatment start to death from any cause. PFS was defined as the time from treatment start to either progressive disease or death, whichever came first. All patients were followed-up to May 2018, with a median follow-up time being 14.5 months (95% confidence interval [CI], 6.2-27.9 months). The survival curves were plotted using the Kaplan-Meier method with GraphPad Prism 7 (GraphPad Software Inc., La Jolla, CA, USA).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Results</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Patient characteristics</head><p>A total of 21 patients from six institutions were enrolled between January 2012 and March 2016 ( <ref type="table" target="#tab_0">Table 1)</ref>. The study population mainly comprised men with a current or previous history of smoking. The median age was 66 years, ranging from 55 to 75 years.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Response and survival</head><p>No patient showed a complete response, and seven patients showed partial responses ( <ref type="table" target="#tab_1">Table 2</ref>). The ORR was 33.3% (95% CI, 14.5-52.2%). Disease control rate, which includes stable disease, was 71.4% (95% CI, 53.1-89.8%). <ref type="figure" target="#fig_0">Figure 1</ref> shows a waterfall plot of the most favorable tumor changes from baseline. According to the Kaplan-Meier method, the median PFS was 4.1 months (95% CI, 2.1-5.0 months; <ref type="figure" target="#fig_1">Fig 2a)</ref> and the median OS was 14.6 months (95% CI, 6.3-27.9 months; <ref type="figure" target="#fig_1">Fig 2b)</ref>. The median number of courses given per patient was four (range, 1-6). The second line therapy comprised docetaxel in nine cases, S-1 based chemotherapy in four cases, nivolumab in two cases, nabpaclitaxel in one case and local therapy to pleural effusion in the other.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Adverse events</head><p>Hematological toxicities were more frequent than nonhematological toxicities <ref type="table">(Table 3)</ref>. Neutropenia appeared as a major severe hematological adverse event in eight of 21 cases (38.1%), although febrile neutropenia occurred only in 9.5%. The other grade 3/4 hematological toxicities included thrombocytopenia and anemia (9.5% each). They were successfully managed via supportive therapies. We also observed grade 3/4 nonhematological toxicities comprising hypernatremia and pneumonitis (4.8% each).   Severe gastrointestinal and neuromuscular toxicities were not observed, and treatment-related deaths did not occur.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Discussion</head><p>This study revealed the following important findings. The efficacy of the combination therapy including nedaplatin and amrubicin was comparable to that of other conventional chemotherapeutic regimens for treatment-naïve patients with advanced SCC. The adverse events of this combination therapy were relatively few, with severe gastrointestinal and neuromuscular toxicities not being observed.</p><p>The current phase II study showed an ORR of 33.3% and 14.6 months of median OS. The subset analysis in SCC patients from a phase III study showed an ORR of 27.3% and median OS of 14.0 months in the carboplatin and S-1 group, compared with an ORR of 33.9% and median OS of 10.6 months in the carboplatin and paclitaxel group. <ref type="bibr" target="#b12">13</ref> Subset analysis in SCC patients from another phase III study indicated that an ORR of 41% and median OS of 10.7 months were achieved in the carboplatin and nab-paclitaxel group, whereas an ORR of 24% and median OS of 9.5 months were noted in the carboplatin plus paclitaxel group. <ref type="bibr" target="#b5">6</ref> Contrary to cisplatin-or carboplatin-based regimens, the combination of nedaplatin and amrubicin could potentially benefit SCC patients. First, a meta-analysis on nedaplatin-based regimens revealed that ORR was 55.6% (95% CI, 52.5-58.7%) in SCC and 34.4% (95% CI, 32.3-36.5%) in non-SCC, suggesting a higher efficacy of nedaplatin in SCC patients. 14 Second, SCC patients could receive docetaxel or S-1 as a second-line treatment, if either is not employed as first-line treatment. Docetaxel or S-1 is considered effective in patients with refractory non-small cell lung cancer after platinum-based chemotherapy. <ref type="bibr" target="#b14">[15]</ref><ref type="bibr" target="#b15">[16]</ref><ref type="bibr" target="#b16">[17]</ref> Last, nedaplatin and amrubicin combination therapy caused lesser gastrointestinal or neuromuscular toxicities than did cisplatin-or taxane-based regimens. <ref type="bibr" target="#b4">5,</ref><ref type="bibr" target="#b10">11</ref> The current standard first-line treatment for advanced SCC includes the combination of immune-checkpoint inhibitors: pembrolizumab with carboplatin along with either paclitaxel or nab-paclitaxel. <ref type="bibr" target="#b17">18</ref> However, all patients cannot undergo the above treatment due to adverse events or the presence of underlying diseases. Nedaplatin and amrubicin together would be useful in those unable to tolerate gastrointestinal or neuromuscular toxicities.</p><p>The present study has some limitations. First, we had to terminate the study prematurely due to the expected introduction of immune checkpoint inhibitors in clinical practice or clinical trials, because of which we failed to achieve the sample size of this study. The main reason was that the patients declined the proposal for this clinical trial. Therefore, the present findings are potentially subject to selection bias, and should be interpreted with caution. Second, the late line therapy of immune-checkpoint inhibitors may affect overall survival time; however, only two patients received immune-checkpoint inhibitors following this trial.</p><p>In conclusion, this is the first prospective study to demonstrate the clinical impact of a combination therapy of nedaplatin and amrubicin in SCC patients. Its efficacy was comparable to that of the other conventional regimens for SCC, and no severe gastrointestinal or neuromuscular toxicities were observed. These findings may pave the way for future treatment using the combination of nedaplatin and amrubicin with a novel anti-cancer agent in some patients with SCC.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>Figure 1</head><label>1</label><figDesc>Waterfall plot of most favorable tumor changes from baseline. Each bar represents a patient. PD, progressive disease; PR, partial response; SD, stable disease.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head>Figure 2 (</head><label>2</label><figDesc>a) Kaplan-Meier estimates of progression-free survival. (b) Kaplan-Meier estimates of overall survival. The vertical bars indicate censored cases. CI, confidence interval Table 3 Toxicities occurring in all treatment courses Number of patients (phosphatase; ALT, alanine aminotransferase; AST, aspartate aminotransferase; GERD, gastroesophageal reflux disease; γ-GTP, γ-glutamyl transpeptidase; LDH, lactate dehydrogenase.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>Table 1</head><label>1</label><figDesc>Patient characteristics</figDesc><table><row><cell></cell><cell>Number of patients (n = 21)</cell><cell>%</cell></row><row><cell>Age</cell><cell></cell><cell></cell></row><row><cell>Median</cell><cell>66</cell><cell></cell></row><row><cell>Range</cell><cell>55-75</cell><cell></cell></row><row><cell>Sex</cell><cell></cell><cell></cell></row><row><cell>Men</cell><cell>19</cell><cell>90.5</cell></row><row><cell>Women</cell><cell>2</cell><cell>9.5</cell></row><row><cell>ECOG PS</cell><cell></cell><cell></cell></row><row><cell>0</cell><cell>6</cell><cell>28.6</cell></row><row><cell>1</cell><cell>15</cell><cell>71.4</cell></row><row><cell>Stage</cell><cell></cell><cell></cell></row><row><cell>III</cell><cell>8</cell><cell>38.1</cell></row><row><cell>IV</cell><cell>12</cell><cell>57.1</cell></row><row><cell>Recurrence</cell><cell>1</cell><cell>4.8</cell></row><row><cell>Smoking status</cell><cell></cell><cell></cell></row><row><cell>Current or former</cell><cell>21</cell><cell>100.0</cell></row><row><cell>Never</cell><cell>0</cell><cell>0.0</cell></row></table><note>ECOG, Eastern Cooperative Oncology Group; PS, performance status.</note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_1"><head>Table 2</head><label>2</label><figDesc>Response to the treatment</figDesc><table><row><cell>Best response</cell><cell>Number of patients</cell><cell>% (95% CI)</cell></row><row><cell>Complete response</cell><cell>0</cell><cell>0 (0-10.5)</cell></row><row><cell>Partial response</cell><cell>7</cell><cell>33.3 (14.5-52.2)</cell></row><row><cell>Stable disease</cell><cell>8</cell><cell>38.1 (18.8-57.4)</cell></row><row><cell>Progressive disease</cell><cell>6</cell><cell>28.6 (10.2-46.9)</cell></row><row><cell>CI, confidence interval.</cell><cell></cell><cell></cell></row></table><note></note></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot">Thoracic Cancer 10 (2019) 1764-1769 © 2019 The Authors. Thoracic Cancer published by China Lung Oncology Group and John Wiley &amp; Sons Australia, Ltd</note>
+		</body>
+		<back>
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Disclosure</head><p>The authors have no conflicts of interest to declare for this study.</p></div>			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Pembrolizumab for the treatment of non-small-cell lung cancer</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><forename type="middle">B</forename><surname>Garon</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">N</forename><forename type="middle">A</forename><surname>Rizvi</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><surname>Hui</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">N Engl J Med</title>
+		<imprint>
+			<biblScope unit="volume">372</biblScope>
+			<biblScope unit="issue">21</biblScope>
+			<biblScope unit="page" from="2018" to="2046" />
+			<date type="published" when="2015" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Randomized phase III study of cisplatin plus irinotecan versus carboplatin plus paclitaxel, cisplatin plus gemcitabine, and cisplatin plus vinorelbine for advanced non-small-cell lung cancer: Fourarm cooperative study in Japan</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Y</forename><surname>Ohe</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Y</forename><surname>Ohashi</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><surname>Kubota</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ann Oncol</title>
+		<imprint>
+			<biblScope unit="volume">18</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="317" to="340" />
+			<date type="published" when="2007" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Phase III study comparing cisplatin plus gemcitabine with cisplatin plus pemetrexed in chemotherapy-naive patients with advancedstage non-small-cell lung cancer</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">G</forename><forename type="middle">V</forename><surname>Scagliotti</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><surname>Parikh</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Von Pawel</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Clin Oncol</title>
+		<imprint>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="issue">21</biblScope>
+			<biblScope unit="page" from="3543" to="51" />
+			<date type="published" when="2008" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Phase III trial comparing oral S-1 plus carboplatin with paclitaxel plus carboplatin in chemotherapy-naive patients with advanced non-small-cell lung cancer: Results of a west Japan oncology group study</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">I</forename><surname>Okamoto</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><surname>Yoshioka</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Morita</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Clin Oncol</title>
+		<imprint>
+			<biblScope unit="volume">28</biblScope>
+			<biblScope unit="issue">36</biblScope>
+			<biblScope unit="page" from="5240" to="5246" />
+			<date type="published" when="2010" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">A randomized phase III trial of oral S-1 plus cisplatin versus docetaxel plus cisplatin in Japanese patients with advanced non-small-cell lung cancer: TCOG0701 CATS trial</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><surname>Kubota</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><surname>Sakai</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">N</forename><surname>Katakami</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ann Oncol</title>
+		<imprint>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="issue">7</biblScope>
+			<biblScope unit="page" from="1401" to="1409" />
+			<date type="published" when="2015" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Weekly nab-paclitaxel in combination with carboplatin versus solvent-based paclitaxel plus carboplatin as first-line therapy in patients with advanced non-small-cell lung cancer: Final results of a phase III trial</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">A</forename><surname>Socinski</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">I</forename><surname>Bondarenko</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">N</forename><forename type="middle">A</forename><surname>Karaseva</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Clin Oncol</title>
+		<imprint>
+			<biblScope unit="volume">30</biblScope>
+			<biblScope unit="issue">17</biblScope>
+			<biblScope unit="page" from="2055" to="62" />
+			<date type="published" when="2012" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Comparison of four chemotherapy regimens for advanced non-small-cell lung cancer</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">H</forename><surname>Schiller</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><surname>Harrington</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><forename type="middle">P</forename><surname>Belani</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">N Engl J Med</title>
+		<imprint>
+			<biblScope unit="volume">346</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="92" to="100" />
+			<date type="published" when="2002" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Prediction of the antitumor activity of new platinum analogs based on their ex vivo pharmacodynamics as determined by bioassay</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Y</forename><surname>Sasaki</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Shinkai</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><surname>Eguchi</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Cancer Chemother Pharmacol</title>
+		<imprint>
+			<biblScope unit="volume">27</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="263" to="70" />
+			<date type="published" when="1991" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Relationship between cisplatin or nedaplatin-induced nephrotoxicity and renal accumulation</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Y</forename><surname>Kawai</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Taniuchi</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Okahara</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Biol Pharm Bull</title>
+		<imprint>
+			<biblScope unit="volume">28</biblScope>
+			<biblScope unit="issue">8</biblScope>
+			<biblScope unit="page" from="1385" to="1393" />
+			<date type="published" when="2005" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">In vitro phase II comparison of the cytotoxicity of a novel platinum analog, nedaplatin (254-S), with that of cisplatin and carboplatin against fresh, human ovarian cancers</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><forename type="middle">S</forename><surname>Alberts</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><forename type="middle">T</forename><surname>Fanta</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><forename type="middle">L</forename><surname>Running</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Cancer Chemother Pharmacol</title>
+		<imprint>
+			<biblScope unit="volume">39</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page" from="493" to="500" />
+			<date type="published" when="1997" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Nedaplatin plus docetaxel versus cisplatin plus docetaxel for advanced or relapsed squamous cell carcinoma of the lung (WJOG5208L): A randomised, open-label, phase 3 trial</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Shukuya</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Yamanaka</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Seto</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Lancet Oncol</title>
+		<imprint>
+			<biblScope unit="volume">16</biblScope>
+			<biblScope unit="issue">16</biblScope>
+			<biblScope unit="page" from="1630" to="1638" />
+			<date type="published" when="2015" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Phase I/II study of amrubicin and nedaplatin in patients with untreated, advanced, non-small cell lung cancer</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><surname>Ogawara</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Y</forename><surname>Nakamura</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Fukuda</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Chemotherapy</title>
+		<imprint>
+			<biblScope unit="volume">60</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="180" to="184" />
+			<date type="published" when="2014" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Efficacy and safety analysis according to histology for S-1 in combination with carboplatin as first-line chemotherapy in patients with advanced non-small-cell lung cancer: Updated results of the West Japan oncology group LETS study</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><surname>Yoshioka</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">I</forename><surname>Okamoto</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Morita</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ann Oncol</title>
+		<imprint>
+			<biblScope unit="volume">24</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page" from="1326" to="1357" />
+			<date type="published" when="2013" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Meta-analysis comparing the efficacy of nedaplatin-based regimens between squamous cell and non-squamous cell lung cancers</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Y</forename><surname>Tian</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Q</forename><surname>Liu</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><surname>Wu</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Q</forename><surname>Chu</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Y</forename><surname>Chen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Oncotarget</title>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="issue">37</biblScope>
+			<biblScope unit="page" from="62330" to="62338" />
+			<date type="published" when="2017" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">Randomized phase III trial of docetaxel versus vinorelbine or ifosfamide in patients with advanced non-small-cell lung cancer previously treated with platinum-containing chemotherapy regimens. The TAX 320 non-small cell lung cancer study group</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">F</forename><forename type="middle">V</forename><surname>Fossella</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><surname>Devore</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><forename type="middle">N</forename><surname>Kerr</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Clin Oncol</title>
+		<imprint>
+			<biblScope unit="volume">18</biblScope>
+			<biblScope unit="issue">12</biblScope>
+			<biblScope unit="page" from="2354" to="62" />
+			<date type="published" when="2000" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Ramucirumab plus docetaxel versus placebo plus docetaxel for second-line treatment of stage IV non-small-cell lung cancer after disease progression on platinum-based therapy (REVEL): A multicentre, double-blind, randomised phase 3 trial</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><forename type="middle">B</forename><surname>Garon</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><forename type="middle">E</forename><surname>Ciuleanu</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">O</forename><surname>Arrieta</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Lancet</title>
+		<imprint>
+			<biblScope unit="volume">384</biblScope>
+			<biblScope unit="issue">9944</biblScope>
+			<biblScope unit="page" from="665" to="73" />
+			<date type="published" when="2014" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Randomized controlled trial of S-1 versus docetaxel in patients with non-small-cell lung cancer previously treated with platinum-based chemotherapy (East Asia S-1 trial in lung cancer)</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><surname>Nokihara</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Lu</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Tsk</forename><surname>Mok</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ann Oncol</title>
+		<imprint>
+			<biblScope unit="volume">28</biblScope>
+			<biblScope unit="issue">11</biblScope>
+			<biblScope unit="page" from="2698" to="706" />
+			<date type="published" when="2017" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Pembrolizumab plus chemotherapy for squamous non-small-cell lung cancer</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">L</forename><surname>Paz-Ares</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Luft</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><surname>Vicente</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">N Engl J Med</title>
+		<imprint>
+			<biblScope unit="volume">379</biblScope>
+			<biblScope unit="issue">21</biblScope>
+			<biblScope unit="page" from="2040" to="51" />
+			<date type="published" when="2018" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

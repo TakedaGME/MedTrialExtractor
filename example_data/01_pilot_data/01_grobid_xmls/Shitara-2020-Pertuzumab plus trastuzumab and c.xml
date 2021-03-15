@@ -1,0 +1,569 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /data/rsg/nlp/juanmoo1/bin/grobid-0.6.1/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Pertuzumab plus trastuzumab and chemotherapy for Japanese patients with HER2-positive metastatic gastric or gastroesophageal junction cancer: a subgroup analysis of the JACOB trial</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+				<date type="published" when="2019-10-16">16 October 2019</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Kohei</forename><surname>Shitara</surname></persName>
+							<email>kshitara@east.ncc.go.jp</email>
+							<idno type="ORCID">0000-0001-5196-3630</idno>
+							<affiliation key="aff0">
+								<orgName type="department">Gastroenterology and Gastrointestinal Oncology</orgName>
+								<orgName type="institution">National Cancer Center Hospital East</orgName>
+								<address>
+									<addrLine>6-5-1 Kashiwanoha</addrLine>
+									<postCode>277-8577</postCode>
+									<settlement>Kashiwa</settlement>
+									<region>Chiba</region>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">•</forename><forename type="middle">Hiroki</forename><surname>Hara</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="department">Department of Gastroenterology</orgName>
+								<orgName type="institution">Saitama Cancer Center</orgName>
+								<address>
+									<addrLine>780 Komuro</addrLine>
+									<postCode>362-0806</postCode>
+									<settlement>Ina</settlement>
+									<region>Saitama</region>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">•</forename><forename type="middle">Takaki</forename><surname>Yoshikawa</surname></persName>
+							<affiliation key="aff2">
+								<orgName type="department">Department of Gastrointestinal Surgery</orgName>
+								<orgName type="institution">Kanagawa Cancer Center</orgName>
+								<address>
+									<addrLine>2-3-2 Nakano, Asahi-ku</addrLine>
+									<postCode>241-8515</postCode>
+									<settlement>Yokohama</settlement>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Kazumasa</forename><surname>Fujitani</surname></persName>
+							<affiliation key="aff4">
+								<orgName type="department">Department of Surgery, Osaka General Medical Center</orgName>
+								<address>
+									<addrLine>3-1-56 Bandaihigashi Sumiyoshi-ku</addrLine>
+									<postCode>558-8558</postCode>
+									<settlement>Osaka</settlement>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Tomohiro</forename><surname>Nishina</surname></persName>
+							<affiliation key="aff5">
+								<orgName type="department">Department of Gastrointestinal Medical Oncology</orgName>
+								<orgName type="institution">National Hospital</orgName>
+								<address>
+									<addrLine>Organization Shikoku Cancer Center, Kou-160, Minamiumemoto-machi</addrLine>
+									<settlement>Matsuyama, Ehime</settlement>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Ayumu</forename><surname>Hosokawa</surname></persName>
+							<email>ayhosoka@med.miyazaki-u.ac.jp</email>
+							<affiliation key="aff6">
+								<orgName type="department" key="dep1">Department of Gastroenterology and Hematology</orgName>
+								<orgName type="department" key="dep2">Faculty of Medicine</orgName>
+								<orgName type="institution">University of Toyama</orgName>
+								<address>
+									<postCode>2630, 930-0194</postCode>
+									<settlement>Sugitani, Toyama</settlement>
+									<region>Toyama</region>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff7">
+								<orgName type="department">Department of Clinical Oncology</orgName>
+								<orgName type="institution">University of Miyazaki Hospital</orgName>
+								<address>
+									<addrLine>5200 Kiyotakecho Kihara, Miyazaki</addrLine>
+									<postCode>889-1692</postCode>
+									<region>Miyazaki</region>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Takashi</forename><surname>Asakawa</surname></persName>
+							<email>asakawatks@chugai-pharm.co.jp</email>
+							<affiliation key="aff8">
+								<orgName type="department">Clinical Information and Intelligence Department</orgName>
+								<address>
+									<addrLine>Chugai Pharmaceutical Co., Ltd, 2-1-1, Nihonbashi-Muromachi, Chuo-ku</addrLine>
+									<settlement>Tokyo</settlement>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Satoe</forename><surname>Kawakami</surname></persName>
+							<email>kawakamiste@chugai-pharm.co.jp</email>
+							<affiliation key="aff9">
+								<orgName type="department">Clinical Science &amp; Strategy Department, Chugai Pharmaceutical Co</orgName>
+								<address>
+									<addrLine>Ltd, 2-1-1, Nihonbashi-Muromachi Chuo-ku</addrLine>
+									<settlement>Tokyo</settlement>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Kei</forename><surname>Muro</surname></persName>
+							<email>kmuro@aichi-cc.jp</email>
+							<affiliation key="aff10">
+								<orgName type="department">Department of Clinical Oncology, Aichi Cancer Center Hospital</orgName>
+								<address>
+									<addrLine>1-1 Kanokoden, Chikusa-ku</addrLine>
+									<settlement>Nagoya</settlement>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff3">
+								<orgName type="department">Department of Gastric Surgery, National Cancer Center Hospital</orgName>
+								<address>
+									<addrLine>5-1-1 Tsukiji, Chuo-ku</addrLine>
+									<postCode>104-0045</postCode>
+									<settlement>Tokyo</settlement>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Pertuzumab plus trastuzumab and chemotherapy for Japanese patients with HER2-positive metastatic gastric or gastroesophageal junction cancer: a subgroup analysis of the JACOB trial</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date type="published" when="2019-10-16">16 October 2019</date>
+						</imprint>
+					</monogr>
+					<idno type="DOI">10.1007/s10147-019-01558-z</idno>
+					<note type="submission">Received: 13 August 2019 / Accepted: 29 September 2019 /</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.6.1" ident="GROBID" when="2020-10-09T18:38+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>Pertuzumab</term>
+					<term>Trastuzumab</term>
+					<term>Metastatic gastric cancer</term>
+					<term>Metastatic gastroesophageal junction cancer</term>
+					<term>Japanese subgroup analysis</term>
+					<term>Phase III</term>
+				</keywords>
+			</textClass>
+			<abstract>
+				<p>Background The phase III JACOB trial (NCT01774786) compared the efficacy and safety of pertuzumab and trastuzumab plus chemotherapy with placebo and trastuzumab plus chemotherapy in patients with previously untreated human epidermal growth factor receptor 2 (HER2)-positive metastatic gastric or gastroesophageal junction cancer. We conducted a subgroup analysis in Japanese patients. Methods Patients were randomized 1:1 to pertuzumab 840 mg or placebo, plus trastuzumab (loading dose, 8 mg/kg; maintenance dose, 6 mg/kg) and chemotherapy (cisplatin 80 mg/m 2 , and capecitabine 1000 mg/m 2 twice daily for 28 doses or 5-fluorouracil 800 mg/m 2 every 24 h for 120 h), every 3 weeks. Continuation of chemotherapy after 6 cycles was at the discretion of the patient and the treating physician. Results A total of 40 Japanese patients were included in each arm. Median overall survival was 22.0 months (95% confidence interval [CI] 13.8-not evaluable) and 15.6 months (95% CI 9.7-19.2) in the pertuzumab and placebo arms, respectively (hazard ratio [HR] 0.64 [95% CI 0.37-1.10]). Median progression-free survival was 12.4 months (95% CI 6.1-14.1) in the pertuzumab arm and 6.3 months (95% CI 4.3-8.1) in the placebo arm (HR 0.50 [95% CI 0.30-0.82]). Grade ≥ 3 adverse events and serious adverse events were more frequent in the pertuzumab arm than the placebo arm. Conclusions Results from this subgroup analysis of the JACOB trial suggest similar efficacy of pertuzumab in Japanese patients and patients in the overall population, encouraging continued investigation of new agents for gastric cancer in Japanese patients.</p>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Introduction</head><p>The Trastuzumab for Gastric Cancer (ToGA) trial (Clinical-Trials.gov identifier, NCT01041404) demonstrated improvements in overall survival (OS) when trastuzumab was added to chemotherapy, compared with chemotherapy alone, in previously untreated patients with human epidermal growth factor receptor 2 (HER2)-positive advanced or metastatic gastric or gastroesophageal junction cancer <ref type="bibr" target="#b0">[1]</ref>. Based on these results, trastuzumab-containing regimens are now standard of care for first-line treatment of this disease <ref type="bibr" target="#b1">[2]</ref><ref type="bibr" target="#b2">[3]</ref><ref type="bibr" target="#b3">[4]</ref>.</p><p>Like trastuzumab, pertuzumab is a humanized monoclonal antibody that targets the HER2 receptor, but that binds to a different epitope. Dual HER2 blockade with pertuzumab and trastuzumab, plus chemotherapy, has been shown to improve survival outcomes in patients with HER2-positive early and metastatic breast cancer <ref type="bibr" target="#b4">[5]</ref><ref type="bibr" target="#b5">[6]</ref><ref type="bibr" target="#b6">[7]</ref>.</p><p>The phase III JACOB trial (ClinicalTrials.gov identifier, NCT01774786) was designed to compare the efficacy and safety of pertuzumab and trastuzumab plus chemotherapy with placebo and trastuzumab plus chemotherapy in patients with previously untreated HER2-positive metastatic gastric or gastroesophageal junction cancer <ref type="bibr" target="#b7">[8]</ref>. The earlier phase IIa JOSHUA trial (ClinicalTrials.gov identifier, NCT01461057) had demonstrated that a pertuzumab dose of 840 mg every 3 weeks led to higher serum trough concentrations versus the currently approved dose for use in HER2-positive metastatic breast cancer (840 mg loading dose/420 mg maintenance dose), thus allowing patients with HER2-positive gastric cancer to achieve pertuzumab serum trough concentrations similar to those observed in patients with HER2positive metastatic breast cancer, with a safety profile similar to the 840 mg loading dose/420 mg maintenance dose regimen <ref type="bibr" target="#b8">[9,</ref><ref type="bibr" target="#b9">10]</ref>. Therefore, the dose of 840 mg of pertuzumab every 3 weeks was selected for investigation in the JACOB trial.</p><p>Results from the JACOB trial showed no statistically significant improvements in OS between the pertuzumab and placebo arms (median 17.5 months [95% confidence interval (CI) 16.2-19.3] and 14.2 months [95% CI 12.9-15.5], respectively; hazard ratio [HR] 0.84 [95% CI 0.71-1.00]; p = 0.057) <ref type="bibr" target="#b7">[8]</ref>, although the magnitude of the treatment effect on OS appeared to be clinically relevant. A trend toward clinically relevant improvements in progression-free survival (PFS) and objective response rate (ORR) in the pertuzumab arm versus the placebo arm was also observed, and safety was comparable between the treatment arms, with no increased cardiac toxicity observed from the increased maintenance dose compared with the approved breast cancer regimen <ref type="bibr" target="#b7">[8]</ref>.</p><p>In Japan, gastric cancer is the most common malignancy and third leading cause of cancer death, with 128,881 new cases reported in 2015 and 45,226 related deaths in 2017 <ref type="bibr" target="#b10">[11,</ref><ref type="bibr" target="#b11">12]</ref>. Some studies have suggested that outcomes for Japanese patients with advanced or metastatic gastric cancer may differ from those in the global population. For example, the ToGA trial demonstrated longer OS in patients from Japan compared with the overall population <ref type="bibr" target="#b12">[13]</ref>. In addition, the phase III AVAGAST study (ClinicalTrials.gov identifier, NCT00548548) of bevacizumab plus chemotherapy in advanced gastric cancer reported longer OS in the control arm (placebo plus chemotherapy) and lowered improvement of OS in the bevacizumab arm in patients from Asia compared with those from Eastern Europe/South America and the USA/ Western Europe <ref type="bibr" target="#b13">[14,</ref><ref type="bibr" target="#b14">15]</ref>. These differences in survival outcomes may be due to differences in patient baseline characteristics, healthcare, and post-progression treatment across the different regions <ref type="bibr" target="#b13">[14]</ref>, and highlight the importance of subgroup analyses according to regions. Here, we report results from a subgroup analysis of the JACOB trial to evaluate the efficacy and safety of pertuzumab in combination with trastuzumab and chemotherapy in Japanese patients.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Patients and methods</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Study design and patients</head><p>JACOB was a double-blind, placebo-controlled, randomized phase III trial. Details of the study design have been published previously <ref type="bibr" target="#b7">[8]</ref>. Briefly, eligible patients were randomized 1:1 using a stratified permuted block randomization scheme with an interactive voice or web response system (IxRS) to receive pertuzumab 840 mg intravenously or placebo, in combination with intravenous trastuzumab (loading dose, 8 mg/kg; maintenance dose, 6 mg/kg) and chemotherapy (cisplatin 80 mg/m 2 intravenously plus capecitabine 1000 mg/m 2 taken orally twice a day for 28 doses or 5-fluorouracil 800 mg/m 2 every 24 h intravenously by continuous infusion for 120 h), every 3 weeks. Chemotherapy was continued for 6 cycles, except in the event of progressive disease or unacceptable toxicity, and was continued after 6 cycles at the discretion of the patient and the treating physician. The study was performed in accordance with the Declaration of Helsinki and the International Conference on Harmonisation E6 Good Clinical Practice (ICH-GCP-E6) guidelines, or the laws and regulations of the country in which the research was performed, whichever provided the greater protection for the patients. Approval for the study protocol, any protocol amendments, and all material provided to the patients was obtained from the relevant institutional review board or ethics committee at each site, and all patients provided written informed consent.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Objectives</head><p>The primary objective of the JACOB trial was to compare OS in patients treated with pertuzumab plus trastuzumab and chemotherapy with those treated with placebo plus trastuzumab and chemotherapy. Key secondary objectives included comparison of PFS, ORR, duration of response, patient-reported outcomes (PROs), and safety between the two arms.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Statistical analysis</head><p>OS and PFS were assessed in the intention-to-treat (ITT) population (all patients randomly assigned to a treatment group, regardless of whether they received a study drug). ORR was assessed in patients in the ITT population who had measurable disease at baseline, and patient-reported outcomes in patients in the ITT population who had assessments at baseline and at least one assessment after baseline. Safety was assessed in all randomly assigned patients who had received at least one dose of study treatment.</p><p>The Kaplan-Meier method was used to estimate the distributions of OS, PFS, and duration of response, including estimates of the medians, with 95% CIs calculated using the Brookmeyer and Crowley method. Cox proportional hazards regression models were used to estimate the HR for OS and PFS with 95% CIs between treatment arms. For ORR and clinical benefit rate, the proportion of patients achieving an overall response per the Response Evaluation Criteria In Solid Tumors (RECIST) version 1.1 was summarized and 95% CIs were calculated using the Clopper-Pearson method. Adverse events (AEs) were graded per the National Cancer Institute -Common Terminology Criteria for Adverse Events (NCI-CTCAE), version 4.03. PRO assessments included health-related quality of life and time to deterioration (TTD) in gastric cancer-related symptoms, which were assessed using the European Organisation for Research and Treatment of Cancer (EORTC) Quality of Life Questionnaire of cancer patients (QLQ-C30 v3.0), gastric cancer module (QLQ-STO22), and EuroQol five-dimensional questionnaire (EQ-5D-3L). TTD assessments included the time from baseline to ≥ 10-point increase in abdominal pain, eating restriction, appetite loss, and fatigue (TTD1), and the TTD from initiation of therapy with pertuzumab/placebo plus trastuzumab alone following cessation of chemotherapy (TTD2). The distribution of TTD, including an estimate of the median, was assessed using the Kaplan-Meier method.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Results</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Patients and treatment</head><p>In total, 80 patients were randomized across 15 centers in Japan between 10 June 2013 and 12 Jan 2016; 40 to each arm. Patient dispositions are shown in <ref type="figure" target="#fig_0">Fig. 1</ref>. All patients were included in the ITT population and were also evaluated for safety. Baseline patient demographics and disease characteristics are shown in <ref type="table" target="#tab_0">Table 1</ref>. Due to the stratified randomization of patients, no major imbalance was observed between arms. Numerically more patients in the pertuzumab arm were male, had non-measurable evaluable disease only, had more than two metastatic sites, had gastroesophageal junction cancer, and had an Eastern Cooperative Oncology Group performance status of 0, compared with the placebo arm. In the majority of patients in both arms, the histologic subtype was intestinal and the primary site was the stomach. Nearly two-thirds of patients in each arm had a HER2 immunohistochemistry status of 3 +.</p><p>At the clinical cutoff date (December 9, 2016), the median duration of follow-up was 33.2 months (95% CI 31.3-35.5) in the pertuzumab arm and 34.0 months (95% CI 31.5-36.3) in the placebo arm. Study treatment exposure is shown in <ref type="table" target="#tab_1">Table 2</ref>. The median number of pertuzumab/placebo and trastuzumab treatment cycles per patient was higher in the pertuzumab arm compared with the placebo arm (14 [range: 1-45] vs 8 [range: 1-51] cycles). The median relative dose intensity for pertuzumab/placebo and trastuzumab was comparable in the two treatment arms. For capecitabine, the median number of treatment cycles was comparable between treatment arms and the median relative dose intensity was slightly lower in the pertuzumab arm compared with the placebo arm. The median number of cisplatin treatment cycles and  </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Safety</head><p>All patients included in the study experienced AEs. AEs were decreased ejection fraction and muscle weakness (n = 1 each) in the pertuzumab arm and decreased ejection fraction, multiple organ dysfunction syndrome, gastrointestinal anastomotic leak, and renal dysfunction (n = 1 each) in the placebo arm. The total number of deaths was 24 (60.0%) in the pertuzumab arm and 30 (75.0%) in the placebo arm, of which one in each arm was AE-related. Fatal AEs were myocardial infarction (n = 1) in the pertuzumab arm and multiple organ dysfunction syndrome (n = 1) in the placebo arm. A summary of cardiac AEs is provided in <ref type="table" target="#tab_4">Table 4</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>PROs</head><p>Overall health-related quality of life was similar between arms for the greater part of the study, with no clinically meaningful differences detected <ref type="figure" target="#fig_2">(Fig. 5)</ref>. The TTD1 and TTD2 for abdominal pain, appetite loss, eating restrictions, and fatigue are summarized in <ref type="table" target="#tab_5">Table 5</ref>. A consistent trend of improved TTD was observed for each symptom in the pertuzumab arm compared with the placebo arm.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Discussion</head><p>In this subgroup analysis of Japanese patients in the phase III JACOB trial, efficacy results were in line with those observed for the overall population <ref type="bibr" target="#b7">[8]</ref>.  <ref type="bibr" target="#b7">[8]</ref>. This is consistent with results from the ToGA trial and from the placebo arm of the AVAGAST trial, which showed improved OS in Japanese patients compared with the overall population, and in <ref type="figure">Fig. 4</ref> Progression-free survival in the ITT population. CI confidence interval, HR hazard ratio <ref type="table" target="#tab_2">Table 3</ref> AEs occurring in ≥ 20% of patients at any grade in either arm, by grade Asian patients compared with patients from other regions, respectively <ref type="bibr" target="#b12">[13,</ref><ref type="bibr" target="#b13">14]</ref>.</p><p>The relatively longer OS observed in Japanese patients compared with the overall population in JACOB could be explained by the following. First, there was a higher proportion of patients with an Eastern Cooperative Oncology Group performance status of 0 (pertuzumab arm: 77.5% in the Japanese subgroup vs 42% in the overall population; placebo arm: 62.5% in the Japanese subgroup vs 41% in the overall population). Second, there was a higher proportion of patients who received post-treatment cancer therapy (pertuzumab arm: 70.0% in the Japanese subgroup vs 42.5% in the overall population; placebo arm: 77.5% in the Japanese subgroup vs 42.1% in the overall population) in the Japanese subgroup compared with the overall population in JACOB. Despite this, our results suggest similar treatment effects of pertuzumab in both the Japanese subgroup and the overall population, encouraging the continuing development of new agents for gastric cancer in Japanese patients.</p><p>With regards to safety, the most common any-grade AE and grade ≥ 3 AE in Japanese patients was decreased appetite; in the overall JACOB population, the most common any-grade AE and grade ≥ 3 AE were diarrhea and neutropenia, respectively. The Japanese subgroup experienced a higher frequency of grade ≥ 3 AEs (95.0% vs 80%) and serious AEs (67.5% vs 45%) in the pertuzumab arm compared with the overall population <ref type="bibr" target="#b7">[8]</ref>. This was true for each of the most common grade ≥ 3 AEs in the pertuzumab arm in the Japanese subgroup: decreased appetite (47.5% vs 10% in the overall population), neutropenia (50.0% vs 31% in the overall population), and diarrhea (22.5% vs 14% in the overall population) <ref type="bibr" target="#b7">[8]</ref>. Similarly increased frequencies of any-grade decreased appetite, neutropenia, and diarrhea in the Asian population compared with the overall population have also been observed in patients with metastatic breast cancer who were treated with pertuzumab plus trastuzumab and chemotherapy in the phase III, randomized, placebocontrolled CLEOPATRA trial <ref type="bibr" target="#b15">[16]</ref>. No symptomatic left ventricular systolic dysfunction was reported in Japanese patients, and more patients in the placebo arm experienced left ventricular ejection fraction decreases from baseline of ≥ 10% and to &lt; 50% (although the number of patients was small, and therefore, firm conclusions cannot be drawn).</p><p>Limitations of the JACOB trial have been discussed previously <ref type="bibr" target="#b7">[8]</ref>. Additional limitations associated with this subgroup analysis include the exploratory nature of the analyses and the small number of patients included in the Japanese subgroup.</p><p>In conclusion, the results from this subgroup analysis of the JACOB trial suggest similar efficacy of pertuzumab in Japanese patients and patients in the overall population,  Author contributions Kohei Shitara, Hiroki Hara, Takashi Asakawa, and Satoe Kawakami made substantial contributions to the conception and design of the work. All authors were involved in the acquisition, analysis, or interpretation of data for the work, contributed to drafting of the work or revising it critically for important intellectual content, have read and approved the final version of the manuscript to be published, and agree to be accountable for all aspects of the work in ensuring that questions related to the accuracy or integrity of any part of the work are appropriately investigated and resolved.</p><p>Data availability Qualified researchers may request access to individual patient level data through the clinical study data request platform (www.clini calst udyda tareq uest.com). For further details on Chugai's Data Sharing Policy and how to request access to related clinical study documents, see here (www.chuga i-pharm .co.jp/engli sh/profi le/rd/ ctds_reque st.html). </p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>Fig. 1</head><label>1</label><figDesc>Trial profile (CONSORT diagram)</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head></head><label></label><figDesc>by preferred term, multiple occurrences of the same AE in an individual are counted only once AEs by preferred term, a n</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_2"><head>LVEFFig. 5</head><label>5</label><figDesc>left ventricular ejection fraction, LVSD left ventricular systolic dysfunction, NYHA New York Heart Association Pertuzumab (n = 40) Placebo (n = 40) Patients with symptomatic LVSD, n (%) NYHA class III or IV 0 0 Median baseline LVEF (range) 66.0 (55-79) 66.5 (60-78) Worst post-baseline LVEF and change from baseline, n (%) n = 39 n = 36 Patients with decrease from baseline of ≥ 10% and to &lt; 50% 2 Patient-reported outcomes, mean change from baseline in Global Health Status scale (EORTC QLQ-C30). Error bars represent standard deviations. Higher scores represent higher levels of functioning. C cycle, P post-treatment assessment encouraging continued investigation of new agents for the treatment of gastric cancer in Japanese patients.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>Table 1</head><label>1</label><figDesc>Baseline demographics and disease characteristics (ITT population, Japanese subgroup) ECOG Eastern Cooperative Oncology Group, HER2 human epidermal growth factor receptor 2, IHC immunohistochemistry, ISH in situ hybridization, ITT intention-to-treat a Histologic subtypes are based on Lauren classification criteria</figDesc><table><row><cell>Pertuzumab (n = 40)</cell><cell>Placebo (n = 40)</cell></row></table><note></note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_1"><head>Table 2</head><label>2</label><figDesc>Study treatment exposure (safety population) SD standard deviation a Relative dose intensity is defined as the percentage of the actual delivered dose intensity divided by the standard dose intensity</figDesc><table><row><cell></cell><cell cols="2">Relative dose intensity a (%)</cell><cell></cell><cell></cell><cell cols="2">Number of cycles per patient</cell><cell></cell><cell></cell></row><row><cell></cell><cell cols="2">Pertuzumab (n = 40)</cell><cell>Placebo (n = 40)</cell><cell></cell><cell cols="2">Pertuzumab (n = 40)</cell><cell>Placebo (n = 40)</cell><cell></cell></row><row><cell></cell><cell cols="6">Median (range) Mean (SD) Median (range) Mean (SD) Median (range) Mean (SD)</cell><cell cols="2">Median (range) Mean (SD)</cell></row><row><cell cols="6">Pertuzumab/placebo 87.9 (75-100) 88.0 (7.3) 88.7 (62-100) 88.6 (9.4) 14 (1-45)</cell><cell cols="2">16.13 (12.24) 8 (1-51)</cell><cell>9.65 (9.99)</cell></row><row><cell>Trastuzumab</cell><cell cols="5">85.1 (63-110) 85.4 (10.4) 88.1 (68-104) 87.8 (9.3) 14 (1-45)</cell><cell cols="2">16.13 (12.24) 8 (1-51)</cell><cell>9.65 (9.99)</cell></row><row><cell>Capecitabine</cell><cell>54.4 (22-99)</cell><cell cols="4">57.6 (17.9) 69.4 (38-100) 68.2 (16.5) 7 (1-42)</cell><cell cols="2">11.10 (9.71) 6 (1-51)</cell><cell>8.38 (9.84)</cell></row><row><cell>5-fluorouracil</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell></row><row><cell>Cisplatin</cell><cell cols="5">73.0 (41-101) 72.5 (18.9) 75.5 (50-101) 76.8 (17.0) 5 (1-10)</cell><cell>4.68 (2.21)</cell><cell>6 (1-6)</cell><cell>4.45 (2.02)</cell></row></table><note>the median relative dose intensity for cisplatin were both comparable between treatment arms. No patients in the Japanese subgroup received 5-fluorouracil. The number of patients who received at least one post-treatment cancer therapy during the study was 28 (70.0%) and 31 (77.5%) in the pertuzumab and placebo arms, respectively (Table S1).Efficacy A total of 24 (60.0%) patients in the pertuzumab arm and 30 (75.0%) patients in the placebo arm had died on-study at the time of data cutoff. Median OS was 22.0 months (95% CI 13.8-not evaluable) in the pertuzumab arm and 15.6 months (95% CI 9.7-19.2) in the placebo arm (HR 0.64 [95% CI Fig. 2 Overall survival in the ITT population. CI confidence interval, HR hazard ratio Fig. 3 Subgroup analysis of overall survival. CI confidence interval, ECOG Eastern Cooperative Oncology Group HR, hazard ratio, NE not evaluable 0.37-1.10]) (Fig. 2). Similar results were observed for OS in the majority of the subgroup analyses (Fig. 3). Median PFS was 12.4 months (95% CI 6.1-14.1) in the pertuzumab arm and 6.3 months (95% CI 4.3-8.1) in the placebo arm (Fig. 4). A trend toward an improvement in PFS was observed in the pertuzumab arm compared with the placebo arm (HR 0.50 [95% CI 0.30-0.82]). There was also a trend toward higher ORR in the pertuzumab arm (61.8% [95% CI 43.56-77.83]) than in the placebo arm (40.5% [95% CI 24.75-57.90]). No patients achieved a complete response.</note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_2"><head>Table 3</head><label>3</label><figDesc></figDesc><table><row><cell>shows AEs occurring in ≥ 20% of patients at any grade in</cell></row><row><cell>either arm, by grade. The most common AEs of any grade</cell></row><row><cell>were decreased appetite (n = 35 [87.5%]), diarrhea (n = 34</cell></row><row><cell>[85.0%]), nausea (n = 29 [72.5%]), palmar-plantar erythro-</cell></row><row><cell>dysesthesia (n = 29 [72.5%]), neutropenia (n = 27 [67.5%]),</cell></row><row><cell>and fatigue (n = 25 [62.5%]) in the pertuzumab arm, and</cell></row><row><cell>decreased appetite (n = 33 [82.5%]), palmar-plantar eryth-</cell></row><row><cell>rodysesthesia (n = 25 [62.5%]), and nausea (n = 24 [60.0%])</cell></row><row><cell>in the placebo arm. The majority of the most common any-</cell></row><row><cell>grade AEs occurred more frequently in the pertuzumab</cell></row><row><cell>arm compared with the placebo arm. Grade ≥ 3 AEs were</cell></row><row><cell>reported in 38 (95.0%) patients in the pertuzumab arm and</cell></row><row><cell>30 (75.0%) patients in the placebo arm. The most common</cell></row><row><cell>grade ≥ 3 AEs were decreased appetite (n = 19 [47.5%]), neu-</cell></row><row><cell>tropenia (n = 20 [50.0%]), and diarrhea (n = 9 [22.5%]) in the</cell></row><row><cell>pertuzumab arm, and decreased appetite (n = 11 [27.5%]),</cell></row><row><cell>neutropenia (n = 12 [30.0%]), and hyponatremia (n = 8</cell></row><row><cell>[20.0%]) in the placebo arm. Serious AEs occurred in 27</cell></row></table><note>(67.5%) patients and 13 (32.5%) patients in the pertuzumab and placebo arms, respectively. Two (5.0%) patients in the pertuzumab arm and four (10.0%) patients in the placebo arm had AEs that led to treatment discontinuation; these</note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_4"><head>Table 4</head><label>4</label><figDesc>Cardiac safety</figDesc><table /><note></note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_5"><head>Table 5</head><label>5</label><figDesc>Patient-reported outcomes: times to deterioration Deterioration is defined as score increase of ≥ 10 points for at least two consecutive cycles or an initial score increase of ≥ 10 points followed by death within 3 weeks CI confidence interval, EORTC QLQ-C30 European Organisation for Research and Treatment of Cancer Quality of Life Questionnaire of cancer patients, EORTC QLQ-STO22 European Organisation for Research and Treatment of Cancer Quality of Life Questionnaire gastric cancer module, HR hazard ratio, NE not evaluable, TTD1 time from baseline to ≥ 10-point increase in abdominal pain, eating restriction, appetite loss, and fatigue, TTD2 time to deterioration from initiation of therapy with pertuzumab/placebo plus trastuzumab alone following cessation of chemotherapy a Abdominal pain and eating restrictions assessed using the EORTC QLQ-STO22 questionnaire b Appetite loss and fatigue symptoms assessed using the EORTC QLQ-C30 questionnaire</figDesc><table><row><cell>TTD1</cell><cell>Pertuzumab</cell><cell>Placebo</cell><cell>Stratified HR (95% CI)</cell></row><row><cell></cell><cell>n = 40</cell><cell>n = 40</cell><cell></cell></row><row><cell>Abdominal pain a</cell><cell></cell><cell></cell><cell>0.38 (0.14-1.05)</cell></row><row><cell>Patient with events, n (%)</cell><cell>6 (15.0)</cell><cell>11 (27.5)</cell><cell></cell></row><row><cell>Median TTD1, months (95% CI)</cell><cell>NE (NE-NE)</cell><cell>NE (7.294-NE)</cell><cell></cell></row><row><cell>Appetite loss symptom scale b</cell><cell></cell><cell></cell><cell>0.89 (0.45-1.78)</cell></row><row><cell>Patient with events, n (%)</cell><cell>18 (45.0)</cell><cell>16 (40.0)</cell><cell></cell></row><row><cell>Median TTD1, months (95% CI)</cell><cell>NE (2.891-NE)</cell><cell>10.842 (1.971-NE)</cell><cell></cell></row><row><cell>Eating restrictions a</cell><cell></cell><cell></cell><cell>0.85 (0.43-1.69)</cell></row><row><cell>Patient with events, n (%)</cell><cell>17 (42.5)</cell><cell>16 (40.0)</cell><cell></cell></row><row><cell>Median TTD1, months (95% CI)</cell><cell>NE (4.107-NE)</cell><cell>9.265 (2.924-NE)</cell><cell></cell></row><row><cell>Fatigue symptom scale b</cell><cell></cell><cell></cell><cell>0.58 (0.32-1.02)</cell></row><row><cell>Patient with events, n (%)</cell><cell>24 (60.0)</cell><cell>27 (67.5)</cell><cell></cell></row><row><cell>Median TTD1, months (95% CI)</cell><cell>4.961 (1.840-NE)</cell><cell>1.873 (1.380-3.220)</cell><cell></cell></row><row><cell>TTD2</cell><cell>n = 19</cell><cell>n = 11</cell><cell></cell></row><row><cell>Abdominal pain a</cell><cell></cell><cell></cell><cell>0.79 (0.13-4.86)</cell></row><row><cell>Patient with events, n (%)</cell><cell>3 (15.8)</cell><cell>2 (18.2)</cell><cell></cell></row><row><cell>Median TTD2, months (95% CI)</cell><cell>NE (7.984-NE)</cell><cell>NE (1.873-NE)</cell><cell></cell></row><row><cell>Appetite loss symptom scale b</cell><cell></cell><cell></cell><cell>0.31 (0.05-1.99)</cell></row><row><cell>Patient with events, n (%)</cell><cell>3 (15.8)</cell><cell>3 (27.3)</cell><cell></cell></row><row><cell>Median TTD2, months (95% CI)</cell><cell>NE (7.622-NE)</cell><cell>NE (0.789-NE)</cell><cell></cell></row><row><cell>Eating restrictions a</cell><cell></cell><cell></cell><cell>0.48 (0.06-3.71)</cell></row><row><cell>Patient with events, n (%)</cell><cell>3 (15.8)</cell><cell>2 (18.2)</cell><cell></cell></row><row><cell>Median TTD2, months (95% CI)</cell><cell>NE (NE-NE)</cell><cell>NE (2.563-NE)</cell><cell></cell></row><row><cell>Fatigue symptom scale b</cell><cell></cell><cell></cell><cell>0.76 (0.19-3.05)</cell></row><row><cell>Patient with events, n (%)</cell><cell>9 (47.4)</cell><cell>4 (36.4)</cell><cell></cell></row><row><cell>Median TTD2, months (95% CI)</cell><cell>6.932 (0.821-NE)</cell><cell>5.585 (0.789-NE)</cell><cell></cell></row></table><note></note></figure>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Acknowledgements</head><p>We would like to thank all the patients, investigators, clinicians, and research staff who participated in this trial. This study was funded by F. Hoffmann-La Roche Ltd (Basel, Switzerland). Support for third-party writing assistance for this manuscript, furnished by Katie Wilson, PhD, of Health Interactions, was provided by Chugai Pharmaceutical Co., Ltd.</p></div>
+			</div>
+
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Compliance with ethical standards</head></div>			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Trastuzumab in combination with chemotherapy versus chemotherapy alone for treatment of HER2-positive advanced gastric or gastro-oesophageal junction cancer (ToGA): a phase 3, open-label, randomised controlled trial</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Y</forename><forename type="middle">J</forename><surname>Bang</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><surname>Van Cutsem</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Feyereislova</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Lancet</title>
+		<imprint>
+			<biblScope unit="volume">376</biblScope>
+			<biblScope unit="page" from="687" to="697" />
+			<date type="published" when="2010" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Gastric cancer: ESMO clinical practice guidelines for diagnosis, treatment and follow-up</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><forename type="middle">C</forename><surname>Smyth</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Verheij</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">W</forename><surname>Allum</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ann Oncol</title>
+		<imprint>
+			<biblScope unit="volume">27</biblScope>
+			<biblScope unit="page" from="38" to="49" />
+			<date type="published" when="2016" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<monogr>
+		<title level="m" type="main">NCCN Clinical Practice Guidelines in Oncology (NCCN Guidelines ® ): Gastric Cancer. Version 2.2019. www.nccn.org</title>
+		<imprint>
+			<date type="published" when="2017-07" />
+			<biblScope unit="volume">1</biblScope>
+		</imprint>
+		<respStmt>
+			<orgName>National Comprehensive Cancer Network (NCCN</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Japanese gastric cancer treatment guidelines 2014 (ver. 4)</title>
+	</analytic>
+	<monogr>
+		<title level="j">Japanese Gastric Cancer Association</title>
+		<imprint>
+			<biblScope unit="volume">20</biblScope>
+			<biblScope unit="page" from="1" to="19" />
+			<date type="published" when="2017" />
+		</imprint>
+	</monogr>
+	<note>Gastric Cancer</note>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Adjuvant pertuzumab and trastuzumab in early HER2-positive breast cancer</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">G</forename><surname>Von Minckwitz</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Procter</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><surname>De Azambuja</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">N Engl J Med</title>
+		<imprint>
+			<biblScope unit="volume">377</biblScope>
+			<biblScope unit="page" from="122" to="131" />
+			<date type="published" when="2017" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Pertuzumab plus trastuzumab plus docetaxel for metastatic breast cancer</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Baselga</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Cortés</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><forename type="middle">B</forename><surname>Kim</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">N Engl J Med</title>
+		<imprint>
+			<biblScope unit="volume">366</biblScope>
+			<biblScope unit="page" from="109" to="119" />
+			<date type="published" when="2012" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Pertuzumab, trastuzumab, and docetaxel in HER2-positive metastatic breast cancer</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><forename type="middle">M</forename><surname>Swain</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Baselga</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><forename type="middle">B</forename><surname>Kim</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">N Engl J Med</title>
+		<imprint>
+			<biblScope unit="volume">372</biblScope>
+			<biblScope unit="page" from="724" to="734" />
+			<date type="published" when="2015" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Pertuzumab plus trastuzumab and chemotherapy for HER2-positive metastatic gastric or gastro-oesophageal junction cancer (JACOB): final analysis of a double-blind, randomised, placebo-controlled phase 3 study</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Tabernero</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><forename type="middle">M</forename><surname>Hoff</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">L</forename><surname>Shen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Lancet Oncol</title>
+		<imprint>
+			<biblScope unit="volume">19</biblScope>
+			<biblScope unit="page" from="1372" to="1384" />
+			<date type="published" when="2018" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">A phase IIa dose-finding and safety study of first-line pertuzumab in combination with trastuzumab, capecitabine and cisplatin in patients with HER2-positive advanced gastric cancer</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Y</forename><forename type="middle">K</forename><surname>Kang</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><forename type="middle">Y</forename><surname>Rha</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><surname>Tassone</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Br J Cancer</title>
+		<imprint>
+			<biblScope unit="volume">111</biblScope>
+			<biblScope unit="page" from="660" to="666" />
+			<date type="published" when="2014" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Absence of pharmacokinetic drug-drug interaction of pertuzumab with trastuzumab and docetaxel</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Cortés</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><forename type="middle">M</forename><surname>Swain</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">I</forename><surname>Kudaba</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Anticancer Drugs</title>
+		<imprint>
+			<biblScope unit="volume">24</biblScope>
+			<biblScope unit="page" from="1084" to="1092" />
+			<date type="published" when="2013" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Cancer prevalence data based on local cancer registration national estimates 1975-2015</title>
+		<ptr target="https://ganjoho.jp/reg_stat/statistics/dl/index.html" />
+	</analytic>
+	<monogr>
+		<title level="j">Cancer Information Service</title>
+		<imprint>
+			<date type="published" when="2019-05" />
+		</imprint>
+		<respStmt>
+			<orgName>Cancer Registry and Statistics</orgName>
+		</respStmt>
+	</monogr>
+	<note>National Cancer Center. Published</note>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Cancer mortality data based on demographic statistics</title>
+		<ptr target="https://ganjoho.jp/reg_stat/statistics/dl/index.html" />
+	</analytic>
+	<monogr>
+		<title level="j">Cancer Information Service</title>
+		<imprint>
+			<biblScope unit="volume">2</biblScope>
+			<date type="published" when="1958" />
+		</imprint>
+		<respStmt>
+			<orgName>Cancer Registry and Statistics</orgName>
+		</respStmt>
+	</monogr>
+	<note>National Cancer Center</note>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Efficacy of trastuzumab in Japanese patients with HER2-positive advanced gastric or gastroesophageal junction cancer: a subgroup analysis of the Trastuzumab for Gastric Cancer (ToGA) study</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Sawaki</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Y</forename><surname>Ohashi</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Y</forename><surname>Omuro</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Gastric Cancer</title>
+		<imprint>
+			<biblScope unit="volume">15</biblScope>
+			<biblScope unit="page" from="313" to="322" />
+			<date type="published" when="2012" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Regional differences in advanced gastric cancer: exploratory analyses of the AVAGAST placebo arm</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Sawaki</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Y</forename><surname>Yamada</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><surname>Yamaguchi</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Gastric Cancer</title>
+		<imprint>
+			<biblScope unit="volume">21</biblScope>
+			<biblScope unit="page" from="429" to="438" />
+			<date type="published" when="2017" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">Bevacizumab in combination with chemotherapy as first-line therapy in advanced gastric cancer: a randomized, double-blind, placebo-controlled phase III study</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Ohtsu</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">A</forename><surname>Shah</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><surname>Van Cutsem</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Clin Oncol</title>
+		<imprint>
+			<biblScope unit="volume">29</biblScope>
+			<biblScope unit="page" from="3968" to="3976" />
+			<date type="published" when="2011" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Safety profile of pertuzumab with trastuzumab and docetaxel in patients from Asia with human epidermal growth factor receptor 2-positive metastatic breast cancer: results from the phase III trial CLEOPATRA</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><forename type="middle">M</forename><surname>Swain</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Y</forename><forename type="middle">H</forename><surname>Im</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><forename type="middle">A</forename><surname>Im</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Oncologist</title>
+		<imprint>
+			<biblScope unit="volume">19</biblScope>
+			<biblScope unit="page" from="693" to="701" />
+			<date type="published" when="2014" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

@@ -1,0 +1,817 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /data/rsg/nlp/juanmoo1/bin/grobid-0.6.1/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Phase II Trial of Cediranib in Combination With Cisplatin and Pemetrexed in Chemotherapy-Naïve Patients With Unresectable Malignant Pleural Mesothelioma (SWOG S0905)</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author role="corresp">
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><roleName>MD</roleName><forename type="first">Anne</forename><forename type="middle">S</forename><surname>Tsao</surname></persName>
+							<email>astsao@mdanderson.org.</email>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><roleName>MD</roleName><forename type="first">Jieling</forename><surname>Miao</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><roleName>MD</roleName><forename type="first">Ignacio</forename><forename type="middle">I</forename><surname>Wistuba</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><roleName>MD</roleName><forename type="first">Nicholas</forename><forename type="middle">J</forename><surname>Vogelzang</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><roleName>MD, PhD</roleName><forename type="first">John</forename><forename type="middle">V</forename><surname>Heymach</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><roleName>MD</roleName><forename type="first">Frank</forename><forename type="middle">V</forename><surname>Fossella</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><roleName>MD</roleName><forename type="first">Charles</forename><surname>Lu</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><roleName>MD</roleName><forename type="first">Mario</forename><forename type="middle">R</forename><surname>Velasco</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><roleName>MD</roleName><forename type="first">Brandy</forename><surname>Box-Noriega</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><roleName>MD</roleName><forename type="first">James</forename><forename type="middle">G</forename><surname>Hueftle</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><roleName>MD</roleName><forename type="first">Shirish</forename><surname>Gadgeel</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><roleName>PhD</roleName><forename type="first">Mary</forename><forename type="middle">W</forename><surname>Redman</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><roleName>MD</roleName><forename type="first">David</forename><forename type="middle">R</forename><surname>Gandara</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><roleName>MD</roleName><forename type="first">Karen</forename><surname>Kelly</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><roleName>Amgen</roleName><forename type="first">Johnson</forename><forename type="middle">&amp;</forename><surname>Johnson</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><roleName>Pfizer, Merck</roleName><forename type="first">Bristol- Myers</forename><surname>Squibb</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Eli</forename><surname>Lilly</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Celgene</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Astrazeneca</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Eli</forename><surname>Genentech</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Lilly</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Honoraria</forename><forename type="middle">:</forename><surname>Merck</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><roleName>AbbVie, Janssen, EMD Serono, Merck, Pfizer</roleName><forename type="first">Astrazeneca</forename><surname>Regeneron</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><roleName>Genentech, Merck, Regeneron</roleName><forename type="first">Eli</forename><surname>Astrazeneca</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><roleName>AbbVie</roleName><forename type="first">Emd</forename><surname>Lilly</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><roleName>Merck</roleName><surname>Serono</surname></persName>
+						</author>
+						<author>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Thoracic and Head and Neck Medical Oncology</orgName>
+								<orgName type="institution">The University of Texas MD Anderson Cancer Center</orgName>
+								<address>
+									<addrLine>Unit 432, 1515 Holcombe Blvd</addrLine>
+									<postCode>77030</postCode>
+									<settlement>Houston</settlement>
+									<region>TX</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff1">
+								<orgName type="laboratory">Guardant Health, CellMax Life, Pfizer Research Funding: Genentech (Inst), AstraZeneca (Inst)</orgName>
+								<address>
+									<settlement>MedImmune (Inst)</settlement>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Phase II Trial of Cediranib in Combination With Cisplatin and Pemetrexed in Chemotherapy-Naïve Patients With Unresectable Malignant Pleural Mesothelioma (SWOG S0905)</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<idno type="DOI">10.1200/JCO.19</idno>
+					<note type="submission">Accepted on July 9, 2019 and published at jco.org on August 6, 2019:</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.6.1" ident="GROBID" when="2020-10-09T18:38+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>Consulting or Advisory Role: Pfizer</term>
+					<term>Bayer</term>
+					<term>Genentech</term>
+					<term>Heron</term>
+					<term>AstraZeneca</term>
+					<term>Caris Life Sciences</term>
+					<term>Fujifilm</term>
+					<term>Tolero Pharmaceuticals</term>
+					<term>Merck</term>
+					<term>Astellas Pharma</term>
+					<term>Boehringer Ingelheim Speakers&apos; Bureau: Bayer</term>
+					<term>Sanofi</term>
+					<term>Genentech</term>
+					<term>Bristol-Myers Squibb</term>
+					<term>Exelixis</term>
+					<term>AstraZeneca</term>
+					<term>MedImmune Research Funding: US Oncology (Inst)</term>
+					<term>Endocyte (Inst)</term>
+					<term>Merck (Inst)</term>
+					<term>Suzhou Kintor Pharmaceuticals (Inst) Expert Testimony: Novartis Travel</term>
+					<term>Accommodations</term>
+					<term>Expenses: Genentech</term>
+					<term>US Oncology</term>
+					<term>Pfizer</term>
+					<term>Bayer</term>
+					<term>Onyx Pharmaceuticals</term>
+					<term>Exelixis</term>
+					<term>AstraZeneca</term>
+					<term>MedImmune</term>
+					<term>Sanofi NovoCure</term>
+					<term>Takeda Science Foundation</term>
+					<term>EMD Serono Consulting or Advisory Role: EMD Serono</term>
+					<term>Takeda</term>
+					<term>Novocure Travel</term>
+					<term>Accommodations</term>
+					<term>Expenses: EMD Serono</term>
+					<term>Takeda</term>
+					<term>Novocure Genentech</term>
+					<term>AstraZeneca Consulting or Advisory Role: Pfizer</term>
+					<term>Genentech</term>
+					<term>AstraZeneca</term>
+					<term>Bristol-Myers Squibb</term>
+					<term>AbbVie</term>
+					<term>Takeda</term>
+					<term>Xcovery</term>
+					<term>Boehringer Ingelheim Research Funding: Pfizer (Inst)</term>
+					<term>Merck</term>
+					<term>Genentech (Inst)</term>
+					<term>Merck (Inst)</term>
+					<term>Blueprint Medicines (Inst)</term>
+					<term>Ariad Pharmaceuticals (Inst)</term>
+					<term>Takeda (Inst)</term>
+					<term>Aeglea Biotherapeutics (Inst)</term>
+					<term>Astellas Pharma (Inst)</term>
+					<term>G1 Therapeutics (Inst)</term>
+					<term>Lycera (Inst)</term>
+					<term>Daiichi Sankyo (Inst) Travel</term>
+					<term>Accommodations</term>
+					<term>Expenses: Genentech</term>
+					<term>AstraZeneca Other Relationship: AstraZeneca EMD Serono (Inst)</term>
+					<term>Genentech (Inst)</term>
+					<term>AbbVie (Inst)</term>
+					<term>Five Prime Therapeutics (Inst)</term>
+					<term>Regeneron (Inst) Patents</term>
+					<term>Royalties</term>
+					<term>Other Intellectual Property: Author royalties for UpToDate</term>
+					<term>an evidence-based</term>
+					<term>peer-reviewed information resource</term>
+					<term>available via the Web</term>
+					<term>desktop</term>
+					<term>and PDA Travel</term>
+					<term>Accommodations</term>
+					<term>Expenses:</term>
+				</keywords>
+			</textClass>
+			<abstract>
+				<p>PURPOSE Antiangiogenic agents combined with chemotherapy have efficacy in the treatment of unresectable malignant pleural mesothelioma (MPM). Cediranib (AstraZeneca, Cheshire, United Kingdom), a vascular endothelial growth factor receptor and platelet-derived growth factor receptor inhibitor, demonstrated therapeutic potential in a prior phase I trial. We evaluated a phase II trial for efficacy. PATIENTS AND METHODS SWOG S0905 (ClinicalTrials.gov identifier: NCT01064648) randomly assigned cediranib or placebo with platinum-pemetrexed for six cycles followed by maintenance cediranib or placebo in unresectable chemotherapy-naïve patients with MPM of any histologic subtype. Primary end point was Response Evaluation Criteria in Solid Tumors (RECIST) version 1.1 progression-free survival (PFS). Secondary end points included overall survival, PFS by modified RECIST v1.1, response (modified RECIST and RECIST v1.1), disease control, and safety/toxicity. The trial was designed to detect a difference in RECIST v1.1 PFS at the onesided 0.1 level using a stratified log-rank test. RESULTS Ninety-two eligible patients were enrolled (75% epithelioid and 25% biphasic or sarcomatoid). The cediranib arm had more grade 3 and 4 diarrhea, dehydration, hypertension, and weight loss. Cediranib improved PFS by RECIST v1.1 (hazard ratio, 0.71; 80% CI, 0.54 to 0.95; P = .062; 7.2 months v 5.6 months) and increased modified RECIST v1.1 response (50% v 20%; P = .006). By modified RECIST v1.1, cediranib numerically increased PFS (hazard ratio, 0.77; 80% CI, 0.59 to 1.02; P = .12; median, 6.9 months v 5.6 months). No significant difference in overall survival was observed. CONCLUSION The addition of cediranib to platinum-pemetrexed improved PFS by RECIST v1.1 and response rate by modified RECIST in patients with unresectable MPM. Whereas adding antiangiogenics to chemotherapy has been a successful strategy for some patients, the cediranib toxicity profile and small incremental survival benefit precludes additional development in MPM.</p>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>INTRODUCTION</head><p>Malignant pleural mesothelioma (MPM) is a rare disease with few treatment options and poor survival outcomes. <ref type="bibr" target="#b1">1</ref> Identifying targets for therapy is challenging. Mesothelioma secretes high levels of vascular endothelial growth factor (VEGF) and utilizes the platelet-derived growth factor and receptor (PDGF/ PDGFR) pathway for autocrine growth stimulation. <ref type="bibr" target="#b2">[2]</ref><ref type="bibr" target="#b3">[3]</ref><ref type="bibr" target="#b4">[4]</ref> PDGFR inhibition increases chemotherapy uptake into tumor cells via pericyte manipulation and decreased interstitial fluid pressure. <ref type="bibr" target="#b5">5,</ref><ref type="bibr" target="#b6">6</ref> These factors suggest that the angiogenic pathway is clinically relevant and that targeting both VEGF and PDGF with systemic chemotherapy may be beneficial.</p><p>In 2003, cisplatin-pemetrexed received regulatory approval for use in the front-line setting <ref type="bibr" target="#b1">1</ref> and, to date, remains a standard of care worldwide. However, in 2016, the phase II and III Mesothelioma Avastin Cisplatin Pemetrexed Study (MAPS; ClinicalTrials. gov identifier: NCT00651456) <ref type="bibr" target="#b7">7</ref> demonstrated that bevacizumab combined with cisplatin-pemetrexed increased survival outcomes. <ref type="bibr" target="#b7">7</ref> In addition, in 2017, the phase II LUME-Meso trial (ClinicalTrials.gov identifier: NCT01907100) demonstrated a progressionfree survival (PFS) benefit with the addition of nintedanib, a VEGF receptor (VEGFR) inhibitor, to cisplatin-pemetrexed. <ref type="bibr" target="#b8">8</ref> However, in September 2018, the subsequent phase III LUME-Meso trial was negative for a PFS benefit. <ref type="bibr" target="#b9">9</ref> Antiangiogenics have not received agency approval yet, but bevacizumab is commonly administered in addition to platinum-pemetrexed in the frontline setting.</p><p>Cediranib (AstraZeneca, Cheshire, United Kingdom), an oral tyrosine kinase inhibitor of VEGFR 1,2,3 and PDGFR has been evaluated in mesothelioma as monotherapy and in combination with chemotherapy. Southwest Oncology Group trial SWOG 0509 reported a 9% response rate and 34% disease stabilization with cediranib in patients with previously treated mesothelioma. <ref type="bibr" target="#b10">10</ref> We theorized that targeting VEGFR and PDGFR would enhance chemotherapy efficacy and potentially bypass resistance mechanisms of high VEGF ligand secretion. <ref type="bibr" target="#b11">11</ref> SWOG 0905 was thus designed as a phase I and II front-line trial. The phase I trial established the maximum tolerated dose of cediranib at 20 mg per day when combined with cisplatin-pemetrexed. <ref type="bibr" target="#b12">12</ref> Median RECIST v1.1 PFS was 12.8 months, median modified RECIST (mRECIST) PFS was 8.6 months, and median overall survival (OS) was 16.2 months. <ref type="bibr" target="#b12">12</ref> Here, we report the results of the randomized phase II SWOG 0905 trial.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>PATIENTS AND METHODS</head><p>Key inclusion criteria included any histology MPM, measurable or nonmeasurable disease, Zubrod performance status (PS) equal or less than 2, and adequate organ function. Prior surgery or prior radiation therapy was allowed. No prior systemic therapy (chemotherapy or biologic) was allowed, unless it was neoadjuvant chemotherapy as part of definitive treatment ($ 6 months before enrollment). Patients were noted as having a prior surgery if the procedure was for definitive intent (ie, pleurectomy/ decortication or extrapleural pneumonectomy). Exclusion criteria included severe systemic comorbid disease, significant cardiac history, uncontrolled hypertension, significant proteinuria, prolonged QTc interval, history of hemoptysis, bleeding diathesis, or an inability to take oral medication.</p><p>The protocol and informed consent document were approved by the National Cancer Institute and the SWOG member sites' institutional review boards. This study was monitored by the SWOG Data and Safety Monitoring Committee.</p><p>Radiographic imaging was performed after every two treatment cycles, and tumor measurements were determined by both RECIST v1.1 and mRECIST. <ref type="bibr" target="#b13">13,</ref><ref type="bibr" target="#b14">14</ref> mRECIST measurements rely on measuring tumor thickness perpendicular to the chest wall or mediastinum in two positions at three separate levels on computed tomography scans. These six measurements are summed into a pleural unidimensional measure. Any lymph nodes or bidimensionally measurable lesions are measured unidimensionally by RECIST. All measurements are added to obtain the total tumor measurement. Cisplatin (75 mg/m 2 ) plus pemetrexed (500 mg/m 2 ) was administered intravenously every 3 weeks with dose modifications conducted by standard guidelines. Carboplatin substitution was allowed if the patient developed toxicity to cisplatin. Cediranib 20 mg per day or placebo was administered concomitantly on day 1 and continued daily.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Random Assignment</head><p>Patients were randomly assigned with equal probability (1:1) between cisplatin-pemetrexed with cediranib versus placebo. Randomization was stratified by PS (0 to 1 v 2)  and histology (epithelioid v biphasic or sarcomatoid) using a dynamic balancing algorithm. <ref type="bibr" target="#b15">15</ref> Patients were enrolled via a Web-based application and simultaneous randomization was performed by a computer program. Patients and investigators were blinded to the treatment arm.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Statistics</head><p>The primary objective was comparing PFS by RECIST v1. Time Since Registration (months) Progression−Free Survival (%) Time Since Registration (months) Overall Survival (%) Time Since Registration (months) Progression−Free Survival (%) and OS within subgroups defined by sex, prior chemotherapy, prior radiation therapy, prior surgery, performance, histology, and age were performed in separate models, including a first order and interaction term between the subgroup and treatment using Cox proportional hazards regression model. Adjustments for multiple comparisons were not performed. A 24-week landmark analysis postrandomization assessed the association between grade 3 and 4 hypertension or any grade 3 and 4 toxicity using Cox regression. HR and associated CIs were estimated using Cox proportional hazards regression model.</p><formula xml:id="formula_0">45 (0) 27 (0) 12 (0) 5 (0) 2 (1) 1 (2) 0 (2) 47 (0) 21 (0) 5 (0) 3 (0) 2 (0) 0 (1) 0 (1)</formula><formula xml:id="formula_1">45 (0) 34 (0) 18 (0) 14 (0) 9 (1) 5 (2) 4 (2) 1 (5) 0 (6) 47 (0) 34 (0) 21 (0) 13 (0) 8 (1) 5 (3) 2 (5) 0 (6) 0<label>(6</label></formula><formula xml:id="formula_2">45 (0) 24 (0) 10 (0) 5 (0) 2 (1) 1 (2) 0 (2) 47 (0) 20 (0) 6 (0) 3 (0) 2 (0) 0 (1) 0 (1)</formula></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>RESULTS</head><p>Between October 2011 and February 2016, 97 patients were enrolled, of whom 92 were found to be eligible. Reasons for ineligibility include two cases of inadequate renal function, one case of inadequate hematologic function, one case for which baseline scans were not performed within the protocol-specified timeframe, and one case where a second primary carcinoid tumor was found <ref type="figure">(Fig 1)</ref>. Among eligible patients, median age was 72 years, with 85% of patients being men, 75% with epithelioid histology, and 25% with biphasic or sarcomatoid histology ( <ref type="table" target="#tab_1">Table 1)</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Clinical Outcomes</head><p>Median follow-up time was 31 months among patients who were still alive. Thirty-nine and 41 deaths have been reported in the cediranib and placebo arms, respectively. Two measurement systems-RECIST v1.1 and mRECIST-were performed on eligible patients for radiographic assessments by investigators. At baseline, 75 patients were measurable by RECIST v1.1 and 66 by mRECIST.</p><p>The trial met its primary objective with an improved RECIST PFS in the cediranib arm compared with the placebo arm (HR, 0.71; 80% CI, 0.54 to 0.95; P = .062; median PFS, 7.2 months v 5.6 months; <ref type="figure" target="#fig_0">Fig 2A</ref> and <ref type="table" target="#tab_5">Table 2</ref>). By mRECIST measurements, PFS was also improved in the cediranib arm but was not statistically significant (HR, 0.77; 80% CI, 0.59 to 1.02; P = .12; median, 6.9 months v 5.6 months). There was no significant difference in OS. Median OS was 10 months compared with 8.5 months in the placebo arm (HR, 0.88; 80% CI, 0.65 to 1.17; P = .28).</p><p>The cediranib arm had a statistically significantly higher mRECIST response rate compared with the placebo arm (50% v 20%; P = .006). Duration of response numerically favored the cediranib arm (HR, 0.77; 80% CI, 0.41 to 1.45; 4.1 months v 3.7 months; P = .30). By RECIST v1.1, the cediranib arm numerically improved the response rate (26% v 15%; P = .15) and duration of response (HR, 0.67; 80% CI, 0.31 to 1.43; 6 months v 1.7 months; P = .25) over that of the placebo. <ref type="figure">Figure 3</ref> depicts the waterfall plots by RECIST v1.1 and mRECIST.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Subgroup Analysis</head><p>The following subgroup analyses were exploratory. <ref type="figure" target="#fig_2">Figure 4</ref> describes the subgroup analysis by forest plot. Patients with epithelioid histology (n = 69) had better survival outcomes (  There is evidence to suggest that prior chemotherapy-that is, neoadjuvant treatment before MPM recurrence-is a poor prognostic factor. There were six patients in each arm who received prior chemotherapy. Median OS was 6.7 months in previously treated patients compared with 10.4 months in those with no prior chemotherapy (HR, 1.8; 80%, 1.18 to 2.74; P = .038). Patients with prior chemotherapy exposure had worse response rates by RECIST v1.1. (0% v 23%; P = .091) and mRECIST (11% v 40%; P = .089).</p><p>Although the subgroup analysis has small numbers, these analyses suggest possible differential effects within subgroups to the chemotherapy-cediranib combination. In the RECIST v1.1 PFS subgroup analysis <ref type="figure" target="#fig_0">(Fig 2A)</ref>, male patients (HR, 0.63; P = .03), patients with prior radiation therapy (HR, 0.32; P = .03), any prior surgical procedure (HR, 0.55; P = .04), and age 65 years or older (HR, 0.5; P , .01) seemed to benefit from the addition of cediranib. The same subgroups seemed to benefit in the mRECIST PFS subgroup analyses <ref type="figure" target="#fig_0">(Fig 2B)</ref>. It should be noted that the older patients (age $ 65 years) had less prior chemotherapy as part of definitive treatment (9% v 25%; P = .04). Likely because of small sample sizes and number of events, there were no clear subgroup associations for comparison of OS between arms <ref type="figure" target="#fig_0">(Fig 2C)</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Compliance and Toxicity</head><p>Patients in the cediranib arm received fewer cycles of chemotherapy (median, four v six; P = .41) and fewer days of cediranib/placebo use (median, 80 days v 124 days; P = .31; Appendix <ref type="table" target="#tab_1">Table A1,</ref>    The addition of cediranib to chemotherapy led to a higher rate of treatment-related adverse events compared with placebo (100% v 91%; P = .06). Toxicities (any grade; <ref type="table" target="#tab_9">Table 3</ref>) that were higher in the cediranib arm were anorexia ( <ref type="figure" target="#fig_0">21%)</ref>, and myelosuppression (44% v 30%). There were two cases of sinus bradycardia and one of supraventricular tachycardia in the cediranib arm compared with none in the placebo arm. The cediranib arm was associated with 69% grade 3 and 4 toxicities compared with 57% in the placebo arm (P = .13). Four deaths occurred: two in the cediranib and one in the placebo arm from respiratory failure, and one sudden death in the placebo arm.</p><formula xml:id="formula_3">51% v 38%), diarrhea (46.7% v 17%), epistaxis (13% v 0%), muscle weakness (16% v 9%), hypertension (44% v 15%), nausea (76% v 66%), peripheral neuropathy (20% v 11%), weight loss (36% v</formula><p>Grade 3 and 4 hypertension was not associated with worse prognosis. This was evaluated using a landmark analysis that evaluated the incidence of grade 3 and 4 hypertension within the six cycles of treatment and survival among patients who were alive at week 24 after random assignment. In this landmark analysis, there were 34 patients and 35 patients included from the cediranib and placebo arms, respectively. We similarly evaluated the association between any grade 3 and 4 toxicity and prognosis and showed no association (P = .32; HR, 0.77).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>DISCUSSION</head><p>Addition of cediranib to platinum-pemetrexed improved response rates (by mRECIST) and PFS (by RECIST v1.1) in patients with MPM. Although the sample size of the current study is small and patients were highly selected, there was a small clinical benefit with the addition of cediranib to cisplatin-pemetrexed. Numerically, the addition of cediranib led to a 1.3-month to 1.6-month improvement in median PFS and 1.5-month median OS over chemotherapy alone. It should be noted that the phase II SWOG S0905 underperformed in both arms for OS (median OS was 10 and 8.5 months in the cediranib and placebo arms, respectively) as the historical control for cisplatin-pemetrexed from the trial by Vogelzang et al 1 had a median OS of 12.1 months and the MAPS trial 7 bevacizumab arm had a median OS of 18.8 months and 16.1 months in the control arm. Why the phase II SWOG 0905 trial underperformed in both arms remains unclear, although patients with arguably poorer prognoses were enrolled (25% were biphasic/sarcomatoid, 20% had prior definitive surgery, and 13% had prior neoadjuvant chemotherapy). Neither the trial by Vogelzang et al, <ref type="bibr" target="#b1">1</ref> nor the MAPS trial <ref type="bibr" target="#b7">7</ref> included patients with prior exposure to neoadjuvant chemotherapy or extrapleural pneumonectomy. Thus, patients in SWOG S0905 may not be a comparative population given the higher proportion of patients with prior histories of aggressive therapy.</p><p>With the recent LUME-Meso phase III data, <ref type="bibr" target="#b9">9</ref> there is now consensus that multitargeted antiangiogenic tyrosine kinase inhibitors should not be administered with chemotherapy in unselected front-line MPM. The LUME-Meso phase II trial 8 originally reported much higher median OS results (20.6 months in nintedanib arm v 15.2 months in the chemotherapy alone arm), but the recent LUME-Meso phase III trial (epithelioid only) was a negative study (median PFS: 6.8 months nintedanib v 7.0 months placebo). <ref type="bibr" target="#b9">9</ref> At a median follow up of 9.2 months (nintedanib) and 9.7 months (placebo), median OS for the nintedanib arm was 14.4 months and 16.1 months in the placebo arm (HR, 1.12; P = .538). It remains unknown why the LUME-Meso phase II trial had a dramatic benefit that failed to translate to the phase III. It is therefore essential to identify whether there are specific populations of patients with MPM who can achieve a survival benefit with antiangiogenic therapies.</p><p>In SWOG 0905, the clinical benefit to cediranib was more pronounced in patients who typically have a worse prognosis, which includes men, patients with prior radiation therapy exposure, those with any prior surgical procedure, PS of 2, and those older than age 65 years. It is unusual that women had worse outcomes compared with men. This directly contradicts known mesothelioma data that indicate that women have improved OS compared with men and respond better to chemotherapy; in the MAPS trial, <ref type="bibr" target="#b7">7</ref> women had an HR of 0.70 that favored the bevacizumab arm. Our findings may be consistent with the E4599 non-small-cell lung cancer data that show that women achieve less benefit with antiangiogenic therapy. <ref type="bibr" target="#b16">16</ref> One can hypothesize that radiation therapy and surgery may induce proangiogenic factors and that targeting VEGFR/PDGFR after may improve the antitumor effect. The benefit to older patients and patients with a PS of 2 is less clear; however, this may be a result, in part, of the confounding factor that younger patients had more prior chemotherapy use. It is also possible that patients with a PS of 2 had a poor PS because of their disease and that a greater debulking effect may have improved survival.</p><p>The triplet regimen with cediranib was associated with GI, hypertension, weight loss, epistaxis, and rarely with cardiac toxicities. Compared with placebo, patients receiving cediranib were not able to complete as many cycles of the triplet regimen, 29% discontinued cediranib as a result of Anemia 24 (53) 1 (2) 0 (0) 0 (0) 21 (45) 6 (13) 1 (2) 0 (0) toxicity, and 13% required dose reductions. More grade 3 and higher toxicities occurred with cediranib (69%) compared with placebo (57%). Compared with the MAPS trial, 2 the toxicity of the cisplatin-pemetrexed-cediranib regimen was similar to that of the cisplatin-pemetrexed-bevacizumab regimen, which reported a 71% grade 3 and 4 adverse event rate.</p><p>Although our phase I SWOG S0905 trial <ref type="bibr" target="#b12">12</ref> reported a low grade 3 hypertension incidence, this phase II study demonstrated a 20% grade 3 hypertension rate with cediranib, which is comparable to that of the MAPS trial (23%). Similar to the MAPS trial in which a 6% grade 3 thromboembolic rate was observed, cisplatin-pemetrexed-cediranib had a 7% grade 3 rate. There was one report of grade 3 intracranial hemorrhage and six cases of epistaxis (five grade 1 cases) in the cediranib arm (16%), whereas MAPS reported a 37.4% rate of hemorrhage (primarily grade 1 and 2 epistaxis). There was no correlation of survival benefit in patients who experienced hypertension or any other adverse event.</p><p>On the basis of the minor survival improvement and toxicity profile, cediranib will not be developed further for mesothelioma. To date, the French Cooperative Thoracic Intergroup MAPS trial 7 with bevacizumab remains the only positive phase III trial with an antiangiogenic in a large number of patients with MPM. This triplet regimen is included in the National Comprehensive Cancer Network guidelines as an option for front-line therapy in patients with MPM. Overall, antiangiogenics seem to provide clinical benefit for a subgroup of patients with MPM. It is essential that future studies include translational correlates for predictive biomarkers that can identify this population of patients. There is clear evidence that the addition of cediranib increased response rates and reduced tumor burden; however, this did not translate into a significant OS improvement. Future therapeutic strategies should consider improving on maintenance therapy strategies to prolong the duration of response and ideally be defined by predictive biomarkers. A major limitation of our trial was the lack of biomarker analysis.</p><p>There is scientific rationale to combine immunotherapies with antiangiogenics. Preclinical studies in other solid tumors have shown interactions between T-cell activation and angiogenesis and suggest that dual inhibition can be synergistic. <ref type="bibr" target="#b17">17,</ref><ref type="bibr" target="#b18">18</ref> Lucchi et al <ref type="bibr" target="#b19">19</ref> determined that in interleukin-2-treated patients with mesothelioma, cytotoxic CD8 + lymphocytes and tryptase mast cells increased and microvessel number and tumor angiogenesis decreased. In front-line non-small-cell lung cancer, the IMPower150 (ClinicalTrials.gov identifier: NCT02366143) trial <ref type="bibr" target="#b20">20</ref> improved OS with the quadruplet carboplatin-paclitaxelbevacizumab-atezolizumab compared with carboplatinpaclitaxel-bevacizumab (19.2 months v 14.7 months; HR for death, 0.78; 95% CI, 0.64 to 0.96; P = .02). Two studies are ongoing in salvage mesothelioma, evaluating the combinations of bevacizumab and atezolizumab (ClinicalTrials.gov identifier: NCT03074513) and pembrolizumab and nintedanib (ClinicalTrials.gov identifier: NCT02856425).</p><p>In conclusion, addition of cediranib to platinumpemetrexed improves response rates (mRECIST) and PFS (RECIST v1.1) in patients with MPM. However, in light of the toxicity profile, the incremental survival benefit is not sufficient to justify additional development of cediranib in mesothelioma. Future strategies should focus on identifying predictive biomarkers and consider combining antiangiogenics with immunotherapies to enhance the magnitude and duration of response. </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>AFFILIATIONS</head></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>FIG 2 .</head><label>2</label><figDesc>No. at risk (No. censored): Progression-free survival outcomes by (A) RECIST v1.1 and (B) modified RECIST 1.1. (C) Overall survival curves. HR, hazard ratio.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head></head><label></label><figDesc>online only). More patients in the B</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_2"><head>FIG 4 .</head><label>4</label><figDesc>Forest plot subgroup analysis. (A)Progression-free survival (PFS) by RECIST 1.1, (B) PFS by modified RECIST, and (C) OS. CPC, carboplatin-pemetrexed-cediranib; CPP, carboplatin-pemetrexed-placebo; HR, hazard ratio; PS, performance status; RT, radiation therapy.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_1"><head>TABLE 1 .</head><label>1</label><figDesc>Patient Demographics</figDesc><table><row><cell></cell><cell>Total</cell><cell>Platinum + Pemetrexed</cell><cell>Platinum + Pemetrexed</cell></row><row><cell>Patient Demographic</cell><cell>(N = 92)</cell><cell>+ Cediranib (n = 45)</cell><cell>+ Placebo (n = 47)</cell></row><row><cell>Age, years</cell><cell></cell><cell></cell><cell></cell></row><row><cell>Median</cell><cell>72</cell><cell>72</cell><cell>72</cell></row><row><cell>Range</cell><cell>(46-85)</cell><cell>(46-82)</cell><cell>(51-85)</cell></row><row><cell>Sex</cell><cell></cell><cell></cell><cell></cell></row><row><cell>Male</cell><cell>78 (85)</cell><cell>38 (84)</cell><cell>40 (85)</cell></row><row><cell>Female</cell><cell>14 (15)</cell><cell>7 (16)</cell><cell>7 (15)</cell></row><row><cell>Ethnicity</cell><cell></cell><cell></cell><cell></cell></row><row><cell>White</cell><cell>85 (93)</cell><cell>43 (96)</cell><cell>42 (89)</cell></row><row><cell>African American</cell><cell>4 (4)</cell><cell>1 (2)</cell><cell>3 (6)</cell></row><row><cell>Unknown</cell><cell>3 (3)</cell><cell>1 (2)</cell><cell>2 (4)</cell></row><row><cell>Hispanic</cell><cell></cell><cell></cell><cell></cell></row><row><cell>Yes</cell><cell>5 (5)</cell><cell>3 (7)</cell><cell>2 (4)</cell></row><row><cell>No</cell><cell>85 (92)</cell><cell>41 (91)</cell><cell>44 (94)</cell></row><row><cell>Unknown</cell><cell>2 (2)</cell><cell>1 (2)</cell><cell>1 (2)</cell></row><row><cell>Zubrod PS</cell><cell></cell><cell></cell><cell></cell></row><row><cell>0-1</cell><cell>86 (93)</cell><cell>42 (93)</cell><cell>44 (94)</cell></row><row><cell>2</cell><cell>6 (7)</cell><cell>3 (7)</cell><cell>3 (6)</cell></row><row><cell>Histology</cell><cell></cell><cell></cell><cell></cell></row><row><cell>Epithelioid</cell><cell>69 (75)</cell><cell>34 (76)</cell><cell>35 (74)</cell></row><row><cell>Biphasic or sarcomatoid</cell><cell>23 (25)</cell><cell>11 (24)</cell><cell>12 (26)</cell></row><row><cell>Definitive surgery</cell><cell></cell><cell></cell><cell></cell></row><row><cell>Yes</cell><cell>18 (20)</cell><cell>12 (27)</cell><cell>6 (13)</cell></row><row><cell>Right partial P/D</cell><cell>3 (17)</cell><cell>2 (17)</cell><cell>1 (17)</cell></row><row><cell>Right P/D</cell><cell>4 (22)</cell><cell>2 (17)</cell><cell>2 (33)</cell></row><row><cell>Left partial P/D</cell><cell>2 (11)</cell><cell>2 (17)</cell><cell>0 (0)</cell></row><row><cell>Left P/D</cell><cell>3 (17)</cell><cell>3 (25)</cell><cell>0 (0)</cell></row><row><cell>Right EPP</cell><cell>3 (17)</cell><cell>1 (8)</cell><cell>2 (33)</cell></row><row><cell>Left EPP</cell><cell>3 (17)</cell><cell>2 (17)</cell><cell>1 (17)</cell></row><row><cell>No surgery</cell><cell>74 (80)</cell><cell>33 (73)</cell><cell>41 (87)</cell></row><row><cell>Prior history of palliative RT</cell><cell></cell><cell></cell><cell></cell></row><row><cell>Yes</cell><cell>17 (18)</cell><cell>8 (18)</cell><cell>9 (19)</cell></row><row><cell>No</cell><cell>75 (82)</cell><cell>37 (82)</cell><cell>38 (81)</cell></row><row><cell>Prior history of chemotherapy as neoadjuvant/adjuvant</cell><cell></cell><cell></cell><cell></cell></row><row><cell>Yes</cell><cell>12 (13)</cell><cell>6 (13)</cell><cell>6 (13)</cell></row><row><cell>No</cell><cell>80 (87)</cell><cell>39 (87)</cell><cell>41 (87)</cell></row><row><cell>Baseline RECIST v1.1</cell><cell></cell><cell></cell><cell></cell></row><row><cell>Measurable</cell><cell>75 (82)</cell><cell>35 (78)</cell><cell>40 (85)</cell></row><row><cell>Nonmeasurable</cell><cell>17 (18)</cell><cell>10 (22)</cell><cell>7 (15)</cell></row><row><cell>Baseline modified RECIST v1.1</cell><cell></cell><cell></cell><cell></cell></row><row><cell>Measurable</cell><cell>66 (72)</cell><cell>36 (80)</cell><cell>30 (64)</cell></row><row><cell>Nonmeasurable</cell><cell>26 (28)</cell><cell>9 (20)</cell><cell>17 (36)</cell></row><row><cell>NOTE. Data are given as No. (%), unless otherwise noted.</cell><cell></cell><cell></cell><cell></cell></row><row><cell cols="4">Abbreviations: EPP, extrapleural pneumonectomy; P/D, pleurectomy decortication; PS, performance status; RT, radiation therapy.</cell></row></table><note></note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_2"><head></head><label></label><figDesc>Pemetrexed + cisplatin + cediranib: median, 7.2 months (95% CI, 5.5 to 8.5 months)Pemetrexed + cisplatin + placebo: median, 5.6 months (95% CI, 4.6 to 6.2 months) HR, 0.71; 80% CI, 0.54 to 0.95; one-sided P = .06</figDesc><table><row><cell>A</cell></row><row><cell>100</cell></row><row><cell>75</cell></row><row><cell>50</cell></row><row><cell>1. The trial was designed with 83% power to rule out no difference in PFS by RECIST v1.1 (hazard ratio [HR] = 1) at the one-sided 10% level if the true HR were 0.60. The design required 78 PFS events and tested the null using a stratified log-rank test with statistical significance des-0 ignated as a 25 0 6 12 18 24 30 36</cell></row></table><note>P value , .10. It was estimated that 96 eligible patients were needed to achieve the number of PFS events. An interim futility analysis was performed after 50% of the expected events in the control arm occurred. This futility analysis was based on testing the alternative hypothesis (HR, 1.66) at the one-sided 0.005 level using a modified log-rank test to account for testing non-null HRs. PFS, disease control rate, and duration of response were ana- lyzed by RECIST v1.1 and by mRECIST. Duration of re- sponse was defined as the date of partial/complete response until the date of disease progression or death, with patients censored at the date of last contact if last known to be alive and progression free. We used the Kaplan-Meier method to estimate OS, PFS, and duration of response, whereas confidence intervals for median survival were estimated using the Brookmeyer-Crowley method. A stratified log-rank test compared survival distributions and a stratified x 2 test compared binary end points at the 10% level. Consistent with the design on the basis of the one-sided 10% level, two-sided 80% CIs are reported. Ex- ploratory evaluations for PFS (RECIST v1.1 and mRECIST)</note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_4"><head></head><label></label><figDesc>Pemetrexed + cisplatin + cediranib: median, 6.9 months (95% CI, 5.3 to 8.4 months)Pemetrexed + cisplatin + placebo: median, 5.6 months (95% CI, 4.6 to 6.1 months)</figDesc><table><row><cell>B</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>100</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>75</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>50</cell><cell></cell><cell cols="5">HR, 0.77; 80% CI, 0.59 to 1.02; one-sided P = .12</cell></row><row><cell>25</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>0</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>0</cell><cell>6</cell><cell>12</cell><cell>18</cell><cell>24</cell><cell>30</cell><cell>36</cell></row></table><note>) No. at risk (No. censored): C</note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_5"><head>Table 2</head><label>2</label><figDesc>) than did patients with biphasic and sarcomatoid histology (n = 23). This prognostic association was observed for OS favoring epithelioid patients (HR, 0.61; 80% CI, 0.44 to 0.84; P = .024; median, 10.9 months v 6.4 months). Median RECIST v1.1 PFS (HR, 0.62; 80% CI, 0.45 to 0.85; P = .026; median, 7.1 months v 3.4 months) and mRECIST PFS (HR, 0.58; 80% CI, 0.42 to 0.80; P = .</figDesc><table /><note>014; median, 6.2 months v 3.4 months) were improved in patients with epithelioid histology compared with those with biphasic or sarcomatoid histology. However, there was no difference in treatment effect by histologic subtype (HR, 0.74; 80% CI, 0.54 to 1.02 for epithelioid compared with</note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_6"><head>TABLE 2 .</head><label>2</label><figDesc>Efficacy Analysis</figDesc><table><row><cell></cell><cell>Median Platinum +</cell><cell>Median Platinum +</cell><cell></cell><cell></cell></row><row><cell></cell><cell>Pemetrexed Cediranib,</cell><cell>Pemetrexed Placebo,</cell><cell></cell><cell></cell></row><row><cell>Survival Outcome</cell><cell>n= 45 (months)</cell><cell>n = 47 (months)</cell><cell>HR (80% CI)</cell><cell>P*</cell></row><row><cell>PFS (RECIST) †</cell><cell>7.2</cell><cell>5.6</cell><cell>0.71 (0.54 to 0.95)</cell><cell>.062</cell></row><row><cell>PFS † (modified RECIST)</cell><cell>6.9</cell><cell>5.6</cell><cell>0.77 (0.59 to 1.02)</cell><cell>.12</cell></row><row><cell>Median OS</cell><cell>10</cell><cell>8.5</cell><cell>0.88 (0.65 to 1.17)</cell><cell>.28</cell></row><row><cell>Epithelioid PFS (RECIST v1.1; n = 69)</cell><cell>7.4</cell><cell>6.1</cell><cell>0.74 (0.54 to 1.02)</cell><cell>.12</cell></row><row><cell>Biphasic or sarcomatoid, PFS (RECIST v1.1; n = 23)</cell><cell>3.4</cell><cell>3</cell><cell>0.71 (0.40 to 1.26)</cell><cell>.22</cell></row><row><cell>Epithelioid PFS (modified RECIST; n = 69)</cell><cell>7.2</cell><cell>6.0</cell><cell>0.80 (0.58 to 1.09)</cell><cell>.18</cell></row><row><cell>Biphasic or sarcomatoid, PFS (modified RECIST; n = 23)</cell><cell>3.4</cell><cell>3.0</cell><cell>0.79 (0.46 to 1.38)</cell><cell>.30</cell></row><row><cell>Epithelioid OS (n = 69)</cell><cell>10.7</cell><cell>11.7</cell><cell>0.87 (0.62 to 1.23)</cell><cell>.30</cell></row><row><cell>Biphasic or sarcomatoid, OS (n = 23)</cell><cell>6.5</cell><cell>6.3</cell><cell>1.03 (0.59 to 1.79)</cell><cell>.47</cell></row><row><cell cols="2">Abbreviations: HR, hazard ratio; OS, overall survival; PFS, progression-free survival.</cell><cell></cell><cell></cell><cell></cell></row></table><note>*One-sided P value with 80% CI. †Evaluable patients only.HR, 0.71; 80% CI, 0.40 to 1.26 for biphasic or sarcomatoid histologies).</note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_9"><head>TABLE 3 .</head><label>3</label><figDesc>Adverse Events</figDesc><table><row><cell></cell><cell cols="4">Platinum + Pemetrexed + Cediranib (n = 45)</cell><cell cols="4">Platinum + Pemetrexed + Placebo (n = 47)</cell></row><row><cell></cell><cell></cell><cell>Grade</cell><cell></cell><cell></cell><cell></cell><cell>Grade</cell><cell></cell><cell></cell></row><row><cell>Adverse Event</cell><cell>1-2</cell><cell>3</cell><cell>4</cell><cell>5</cell><cell>1-2</cell><cell>3</cell><cell>4</cell><cell>5</cell></row></table><note></note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_10"><head></head><label></label><figDesc>The University of Texas MD Anderson Cancer Center, Houston, TX 2 SWOG Statistical Center, Seattle, WA 3 US Oncology Comprehensive Cancer Centers of Nevada, Las Vegas, NV 4 Cancer Care Specialists of Illinois, Decatur, IL 5 Kaiser Permanente, Fresno, CA 6 Montana Cancer Consortium, Billings, MT 7 University of Michigan, Ann Arbor, MI</figDesc><table /><note>18 University of California Davis Cancer Center, Sacramento, CA</note></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot">Cisplatin-Pemetrexed With and Without Cediranib in Front-Line MPM</note>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div xmlns="http://www.tei-c.org/ns/1.0" />
+			</div>
+
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Anorexia</head><p>16 (36) 7 <ref type="bibr" target="#b16">(16)</ref> 0 (0) 0 (0) 14 (30) 4 (9) 0 (0) 0 (0)</p><p>Atrial fibrillation/atrial flutter 1 (2) 3 (7) 0 (0) 0 (0) 0 (0) 1 (2) 0 (0) 0 (0)</p><p>Creatinine increased 12 (27) 0 (0) 0 (0) 0 (0) 12 (26) 1 (2) 0 (0) 0 (0) Dehydration 6 (13) 4 (9) 0 (0) 0 (0) 10 (21) 2 (4) 0 (0) 0 (0)</p><p>Fatigue 24 (53) 6 (13) 0 (0) 0 (0) 27 (57) 6 (13) 0 (0) 0 (0)</p><p>Heart failure 0 (0) 1 (2) 0 (0) 0 (0) 0 (0) 0 (0) 0 (0) 0 (0)</p><p>Weight loss 12 (27) 4 (9) 0 (0) 0 (0) 10 (21) 0 (0) 0 (0) 0 (0) NOTE. Data presented as No. (%). </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Journal of Clinical Oncology</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Journal of Clinical Oncology</head></div>			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Gandara Administrative support: Anne S. Tsao Provision of study materials or patients</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Anne</forename><forename type="middle">S</forename><surname>Tsao</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Nicholas</forename><forename type="middle">J</forename><surname>Vogelzang</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Frank</forename><forename type="middle">V</forename><surname>Fossella</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Mary</forename><forename type="middle">W</forename><surname>Redman</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>David R ; Anne</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">John</forename><forename type="middle">V</forename><surname>Tsao</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Frank</forename><forename type="middle">V</forename><surname>Heymach</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Charles</forename><surname>Fossella</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Mario</forename><forename type="middle">R</forename><surname>Lu</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Brandy</forename><surname>Velasco</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">James</forename><forename type="middle">G</forename><surname>Box-Noriega</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Shirish</forename><surname>Hueftle</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Gadgeel</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>David R ; Anne</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Ignacio</forename><forename type="middle">I</forename><surname>Tsao</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Nicholas</forename><forename type="middle">J</forename><surname>Wistuba</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Frank</forename><forename type="middle">V</forename><surname>Vogelzang</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Mario</forename><forename type="middle">R</forename><surname>Fossella</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Brandy</forename><surname>Velasco</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">James</forename><forename type="middle">G</forename><surname>Box-Noriega</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Hueftle ; Anne</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Jieling</forename><surname>Tsao</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Nicholas</forename><forename type="middle">J</forename><surname>Miao</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">John</forename><forename type="middle">V</forename><surname>Vogelzang</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Frank</forename><forename type="middle">V</forename><surname>Heymach</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Charles</forename><surname>Fossella</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Shirish</forename><surname>Lu</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Mary</forename><forename type="middle">W</forename><surname>Gadgeel</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">David</forename><forename type="middle">R</forename><surname>Redman</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Karen</forename><surname>Gandara</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Kelly</surname></persName>
+		</author>
+		<idno type="DOI">http://ascopubs.org/doi/full/10.1200/JCO.19.00269</idno>
+		<ptr target="https://doi.org/10.1200/JCO.19.00269" />
+	</analytic>
+	<monogr>
+		<title level="m">by National Cancer Institute Grants No. CA180888, CA180819, CA180858, CA180801, CA189830, CA189821, CA189872, CA180830 CA180835, CA189858, CA189971, CA189972, and CA180846. AUTHORS&apos; DISCLOSURES OF POTENTIAL CONFLICTS OF INTEREST AND DATA AVAILABILITY STATEMENT Disclosures provided by the authors and data availability statement</title>
+		<imprint/>
+	</monogr>
+	<note>Shirish Gadgeel, Mary W. Redman Data analysis and interpretation. Manuscript writing: All authors Final approval of manuscript: All authors Accountable for all aspects of the work: All authors</note>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Phase III study of pemetrexed in combination with cisplatin versus cisplatin alone in patients with malignant pleural mesothelioma</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">N</forename><forename type="middle">J</forename><surname>Vogelzang</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">J</forename><surname>Rusthoven</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Symanowski</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Clin Oncol</title>
+		<imprint>
+			<biblScope unit="volume">21</biblScope>
+			<biblScope unit="page" from="2636" to="2644" />
+			<date type="published" when="2003" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Vascular endothelial growth factor levels and induction of permeability in malignant pleural effusions</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">B</forename><forename type="middle">K</forename><surname>Zebrowski</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Yano</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">W</forename><surname>Liu</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Clin Cancer Res</title>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="page" from="3364" to="3368" />
+			<date type="published" when="1999" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Vascular endothelial growth factor is an autocrine growth factor in human malignant mesothelioma</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">L</forename><surname>Strizzi</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Catalano</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">G</forename><surname>Vianale</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Pathol</title>
+		<imprint>
+			<biblScope unit="volume">193</biblScope>
+			<biblScope unit="page" from="468" to="475" />
+			<date type="published" when="2001" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">VEGF and VEGF type C play an important role in angiogenesis and lymphangiogenesis in human malignant mesothelioma tumours</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Y</forename><surname>Ohta</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">V</forename><surname>Shridhar</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><forename type="middle">K</forename><surname>Bright</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Br J Cancer</title>
+		<imprint>
+			<biblScope unit="volume">81</biblScope>
+			<biblScope unit="page" from="54" to="61" />
+			<date type="published" when="1999" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Effects of blocking platelet-derived growth factor-receptor signaling in a mouse model of experimental prostate cancer bone metastases</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><surname>Uehara</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><forename type="middle">J</forename><surname>Kim</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Karashima</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Natl Cancer Inst</title>
+		<imprint>
+			<biblScope unit="volume">95</biblScope>
+			<biblScope unit="page" from="458" to="470" />
+			<date type="published" when="2003" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Inhibition of platelet-derived growth factor receptors reduces interstitial hypertension and increases transcapillary transport in tumors</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><surname>Pietras</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Ostman</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Sjöquist</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Cancer Res</title>
+		<imprint>
+			<biblScope unit="volume">61</biblScope>
+			<biblScope unit="page" from="2929" to="2934" />
+			<date type="published" when="2001" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Bevacizumab for newly diagnosed pleural mesothelioma in the Mesothelioma Avastin Cisplatin Pemetrexed Study (MAPS): A randomised, controlled, open-label, phase 3 trial</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">G</forename><surname>Zalcman</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Mazieres</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Margery</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Lancet</title>
+		<imprint>
+			<biblScope unit="volume">387</biblScope>
+			<biblScope unit="page" from="1405" to="1414" />
+			<date type="published" when="2016" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Nintedanib plus pemetrexed/cisplatin in patients with malignant pleural mesothelioma: Phase II results from the randomized, placebo-controlled LUME-Meso trial</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">F</forename><surname>Grosso</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">N</forename><surname>Steele</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Novello</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Clin Oncol</title>
+		<imprint>
+			<biblScope unit="volume">35</biblScope>
+			<biblScope unit="page" from="3591" to="3600" />
+			<date type="published" when="2017" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<monogr>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">G</forename><surname>Scagliotti</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><surname>Gaafar</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Nowak</surname></persName>
+		</author>
+		<title level="m">Nintedanib + Pemetrexed/Cisplatin in Patients With Unresectable MPM: Phase III Results From the LUME-Meso Trial</title>
+		<meeting><address><addrLine>Toronto, ON, Canada</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2018" />
+		</imprint>
+	</monogr>
+	<note>International Association for the Study of Lung Cancer</note>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Phase II study of cediranib in patients with malignant pleural mesothelioma: SWOG S0509</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">L</forename><forename type="middle">L</forename><surname>Garland</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><surname>Chansky</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><forename type="middle">J</forename><surname>Wozniak</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Thorac Oncol</title>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<date type="published" when="1938" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Combined inhibition of VEGF and PDGF signaling enforces tumor vessel regression by interfering with pericyte-mediated endothelial cell survival mechanisms</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><surname>Erber</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Thurnher</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><forename type="middle">D</forename><surname>Katsen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">FASEB J</title>
+		<imprint>
+			<biblScope unit="volume">18</biblScope>
+			<biblScope unit="page" from="338" to="340" />
+			<date type="published" when="2004" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Phase I trial of cediranib in combination with cisplatin and pemetrexed in chemonaive patients with unresectable malignant pleural mesothelioma (SWOG S0905)</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><forename type="middle">S</forename><surname>Tsao</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Moon</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">I</forename><forename type="middle">I</forename><surname>Wistuba</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Thorac Oncol</title>
+		<imprint>
+			<biblScope unit="volume">12</biblScope>
+			<biblScope unit="page" from="1299" to="1308" />
+			<date type="published" when="2017" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Modified RECIST criteria for assessment of response in malignant pleural mesothelioma</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">J</forename><surname>Byrne</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><forename type="middle">K</forename><surname>Nowak</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ann Oncol</title>
+		<imprint>
+			<biblScope unit="volume">15</biblScope>
+			<biblScope unit="page" from="257" to="260" />
+			<date type="published" when="2004" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">A practical guide of the Southwest Oncology Group to measure malignant pleural mesothelioma tumors by RECIST and modified RECIST criteria</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><forename type="middle">S</forename><surname>Tsao</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">L</forename><surname>Garland</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Redman</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Thorac Oncol</title>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="page" from="598" to="601" />
+			<date type="published" when="2011" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Sequential treatment assignment with balancing for prognostic factors in the controlled clinical trial</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><forename type="middle">J</forename><surname>Pocock</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><surname>Simon</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Biometrics</title>
+		<imprint>
+			<biblScope unit="volume">31</biblScope>
+			<biblScope unit="page" from="103" to="115" />
+			<date type="published" when="1975" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Sex differences in outcome with bevacizumab therapy: Analysis of patients with advanced-stage non-small cell lung cancer treated with or without bevacizumab in combination with paclitaxel and carboplatin in the Eastern Cooperative Oncology Group Trial 4599</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">R</forename><surname>Brahmer</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><forename type="middle">E</forename><surname>Dahlberg</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><forename type="middle">J</forename><surname>Gray</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Thorac Oncol</title>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="page" from="103" to="108" />
+			<date type="published" when="2011" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">CD47 signaling regulates the immunosuppressive activity of VEGF in T cells</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Kaur</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Chang</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><forename type="middle">P</forename><surname>Singh</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Immunol</title>
+		<imprint>
+			<biblScope unit="volume">193</biblScope>
+			<biblScope unit="page" from="3914" to="3924" />
+			<date type="published" when="2014" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">Nintedanib improves anti-tumor efficacy in combination with anti PD-1 in syngeneic tumor models sensitive and refractory to IO inhibition</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">F</forename><surname>Hilberg</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Reschke</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Hofmann</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Thorac Oncol</title>
+		<imprint>
+			<biblScope unit="volume">12</biblScope>
+			<biblScope unit="page" from="813" to="2017" />
+		</imprint>
+	</monogr>
+	<note>suppl</note>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">Multimodality treatment of malignant pleural mesothelioma with or without immunotherapy: Does it change anything?</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Lucchi</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Picchi</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">G</forename><surname>Alí</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Interact Cardiovasc Thorac Surg</title>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="page" from="572" to="576" />
+			<date type="published" when="2010" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">Atezolizumab for first-line treatment of metastatic nonsquamous NSCLC</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">A</forename><surname>Socinski</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><forename type="middle">M</forename><surname>Jotte</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">F</forename><surname>Cappuzzo</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">N Engl J Med</title>
+		<imprint>
+			<biblScope unit="volume">378</biblScope>
+			<biblScope unit="page" from="2288" to="2301" />
+			<date type="published" when="2018" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

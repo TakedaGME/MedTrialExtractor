@@ -1,0 +1,1840 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /data/rsg/nlp/juanmoo1/bin/grobid-0.6.1/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">A multicenter, open-label, phase 2 study of lenalidomide plus low-dose dexamethasone in Chinese patients with relapsed/refractory multiple myeloma: the MM-021 trial</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+				<date type="published" when="2013-06-19">19 June 2013</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author role="corresp">
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Jian</forename><surname>Hou</surname></persName>
+							<email>houjian@medmail.com.cn</email>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Hematology</orgName>
+								<orgName type="institution">Shanghai Changzheng Hospital</orgName>
+								<address>
+									<postCode>200003</postCode>
+									<settlement>Shanghai</settlement>
+									<country key="CN">China</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="department">Department of Hematology, Shanghai Changzheng Hospital</orgName>
+								<address>
+									<postCode>200003</postCode>
+									<settlement>Shanghai</settlement>
+									<country key="CN">China</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Xin</forename><surname>Du</surname></persName>
+							<affiliation key="aff2">
+								<orgName type="institution">Guangdong General Hospital</orgName>
+								<address>
+									<settlement>Guangzhou</settlement>
+									<country key="CN">China</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Jie</forename><surname>Jin</surname></persName>
+							<affiliation key="aff3">
+								<orgName type="department">The 1st Hospital</orgName>
+								<orgName type="institution">Zhejiang University</orgName>
+								<address>
+									<settlement>Hangzhou</settlement>
+									<country key="CN">China</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Zhen</forename><surname>Cai</surname></persName>
+							<affiliation key="aff3">
+								<orgName type="department">The 1st Hospital</orgName>
+								<orgName type="institution">Zhejiang University</orgName>
+								<address>
+									<settlement>Hangzhou</settlement>
+									<country key="CN">China</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Fangping</forename><surname>Chen</surname></persName>
+							<affiliation key="aff4">
+								<orgName type="institution">Xiangya Hospital of Central South University</orgName>
+								<address>
+									<settlement>Changsha</settlement>
+									<country key="CN">China</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Dao-Bin</forename><surname>Zhou</surname></persName>
+							<affiliation key="aff5">
+								<orgName type="department">Peking Union Medical College Hospital</orgName>
+								<address>
+									<settlement>Beijing</settlement>
+									<country key="CN">China</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Yu</forename><surname>Li</surname></persName>
+							<affiliation key="aff6">
+								<orgName type="department">The 301 Hospital-Chinese</orgName>
+								<orgName type="institution">PLA General Hospital</orgName>
+								<address>
+									<settlement>Beijing</settlement>
+									<country key="CN">China</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Xiaoyan</forename><surname>Ke</surname></persName>
+							<affiliation key="aff7">
+								<orgName type="institution">Peking University Third Hospital</orgName>
+								<address>
+									<settlement>Beijing</settlement>
+									<country key="CN">China</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Xiao</forename><surname>Li</surname></persName>
+							<affiliation key="aff8">
+								<orgName type="department">Shanghai 6th Hospital</orgName>
+								<address>
+									<settlement>Shanghai</settlement>
+									<country key="CN">China</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Depei</forename><surname>Wu</surname></persName>
+							<affiliation key="aff9">
+								<orgName type="department">The 1st Affiliated Hospital of Soochow University</orgName>
+								<address>
+									<settlement>Suzhou</settlement>
+									<country key="CN">China</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Fanyi</forename><surname>Meng</surname></persName>
+							<affiliation key="aff10">
+								<orgName type="department">Nanfang Hospital of Southern Medicine University in Guangzhou</orgName>
+								<address>
+									<addrLine>China. 11 The 307 PLA Hospital</addrLine>
+									<settlement>Guangzhou, Beijing</settlement>
+									<country key="CN">China</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Huisheng</forename><surname>Ai</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Jingshan</forename><surname>Zhang</surname></persName>
+							<affiliation key="aff11">
+								<orgName type="institution">Celgene Corporation</orgName>
+								<address>
+									<settlement>Summit</settlement>
+									<region>NJ</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Honeylet</forename><surname>Wortman-Vayn</surname></persName>
+							<affiliation key="aff11">
+								<orgName type="institution">Celgene Corporation</orgName>
+								<address>
+									<settlement>Summit</settlement>
+									<region>NJ</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Nianhang</forename><surname>Chen</surname></persName>
+							<affiliation key="aff11">
+								<orgName type="institution">Celgene Corporation</orgName>
+								<address>
+									<settlement>Summit</settlement>
+									<region>NJ</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Jay</forename><surname>Mei</surname></persName>
+							<affiliation key="aff11">
+								<orgName type="institution">Celgene Corporation</orgName>
+								<address>
+									<settlement>Summit</settlement>
+									<region>NJ</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Jianmin</forename><surname>Wang</surname></persName>
+							<affiliation key="aff12">
+								<orgName type="institution">Changhai Hospital</orgName>
+								<address>
+									<settlement>Shanghai</settlement>
+									<country key="CN">China</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">A multicenter, open-label, phase 2 study of lenalidomide plus low-dose dexamethasone in Chinese patients with relapsed/refractory multiple myeloma: the MM-021 trial</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date type="published" when="2013-06-19">19 June 2013</date>
+						</imprint>
+					</monogr>
+					<note type="submission">Received: 23 April 2013 Accepted: 13 June 2013</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.6.1" ident="GROBID" when="2021-01-01T18:48+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>Relapsed/Refractory Multiple Myeloma</term>
+					<term>Chinese Patients</term>
+					<term>Lenalidomide</term>
+					<term>Low-dose Dexamethasone</term>
+				</keywords>
+			</textClass>
+			<abstract>
+				<p>Background: There is an unmet need for treatment options in Chinese patients with relapsed or refractory multiple myeloma (RRMM). Lenalidomide plus low-dose dexamethasone is effective and generally well tolerated in Caucasian RRMM patients, but no previous study has evaluated this regimen in Chinese RRMM patients. Methods: MM-021 is a phase 2, multicenter, single-arm open-label registration trial conducted to assess the efficacy, safety, and pharmacokinetics of lenalidomide plus low-dose dexamethasone in Chinese patients with RRMM. Patients with ≥1 prior antimyeloma therapy received lenalidomide plus low-dose dexamethasone until disease progression or discontinuation. Follow-up of surviving patients continued for ≥1 year after enrollment. The lenalidomide dose was 25 mg/day, and was adjusted according to baseline renal function. Most patients had advanced disease (85.6% had Durie-Salmon stage III) and were heavily pretreated (56.7% had received ≥4 prior regimens; 69.5% prior thalidomide and 63.1% prior bortezomib); 5.3% had immunoglobulin D (IgD) disease. Results: The safety population comprised 199 eligible patients. In the efficacy population (n = 187), the disease control rate (at least stable disease) was 94.7%, and the overall response rate (at least partial response) was 47.6%. High response rates were also achieved in patients who had renal impairment and in those with IgD disease. After a median study follow-up of 15.2 months, the median response duration was 8.8 months (range, 0.4-18.8 months) and median progression-free survival was 8.3 months (95% CI 6.5-9.8). The most common grade 3-4 adverse events (AEs) were anemia (26.1%), neutropenia (25.1%), thrombocytopenia (14.6%), pneumonia (13.1%), leukopenia (9.5%), and decreased neutrophil count (8.5%). AEs led to lenalidomide dose reduction and/or interruption in 40.2% of patients, and treatment discontinuation in about 9% of patients. The pharmacokinetic profile of lenalidomide was similar to that reported in Caucasian and Japanese patients. Conclusions: Lenalidomide plus low-dose dexamethasone was associated with a high response rate and acceptable safety profile in heavily pretreated Chinese patients with RRMM, including those with renal impairment and IgD subtype. These findings highlight the clinical potential of this regimen in Chinese RRMM patients who have exhausted current treatment options.</p>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Introduction</head><p>In China, the annual incidence of hematological malignancies, including multiple myeloma (MM), is estimated to be approximately 2 per 100,000 people <ref type="bibr" target="#b0">[1]</ref><ref type="bibr" target="#b2">[2]</ref><ref type="bibr" target="#b3">[3]</ref>. The introduction of innovative therapies, such as proteasome inhibitors and immunomodulatory drugs, has improved the prognosis for MM patients worldwide <ref type="bibr" target="#b4">[4]</ref>. The Chinese Multiple Myeloma Working Group treatment guidelines currently recommend bortezomib-and thalidomidecontaining regimens for newly diagnosed MM <ref type="bibr" target="#b5">[5]</ref>, although only bortezomib has been approved for the treatment of MM in China. As MM patients will eventually relapse or become refractory to current treatments, there is a need for new therapeutic agents to offer more options when this occurs.</p><p>Lenalidomide in combination with dexamethasone has recently been approved by the Chinese authorities as a treatment for patients with relapsed or refractory MM (RRMM) who have received ≥1 prior therapy. In this setting, lenalidomide plus high-dose dexamethasone has been shown to be superior to high-dose dexamethasone alone in phase 3 studies <ref type="bibr" target="#b6">[6,</ref><ref type="bibr" target="#b7">7]</ref>. The combination regimen has been shown to be safe and effective in various RRMM patient populations, including those in North America, Australia, Europe, Israel, and Japan <ref type="bibr" target="#b6">[6]</ref><ref type="bibr" target="#b7">[7]</ref><ref type="bibr" target="#b8">[8]</ref>. The pharmacokinetic (PK) profile of lenalidomide does not appear to be sensitive to ethnic factors and has been reported as similar in Japanese MM patients, healthy Caucasian volunteers <ref type="bibr" target="#b8">[8]</ref>, and MM patients <ref type="bibr" target="#b9">[9]</ref> over the clinical dose range of 5-25 mg/day. In a study conducted by the Eastern Cooperative Oncology Group (ECOG) in patients with newly diagnosed MM, 1-year survival was superior with lenalidomide plus low-dose dexamethasone compared with lenalidomide plus highdose dexamethasone <ref type="bibr" target="#b10">[10]</ref>. However, the lenalidomide plus low-dose dexamethasone regimen has not been studied in patients with RRMM. The MM-021 China Registration study was conducted to assess the efficacy, safety, and PK profile of lenalidomide plus low-dose dexamethasone in Chinese patients with RRMM. The study is registered at ClinicalTrials.gov (NCT01593410) and with the China State Food and Drug Administration (SFDA) (CTA reference numbers: 209 L10808; 209 L10809; 209 L10810; and 209 L10811).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Methods</head><p>MM-021 was designed and monitored in accordance with the ethical principles of good clinical practice and the Declaration of Helsinki, and was approved by an Independent Ethics Committee. Patients provided written informed consent prior to enrollment. The primary objective was to determine the efficacy of lenalidomide plus low-dose dexamethasone in Chinese patients with RRMM. The secondary objectives were to determine the safety of lenalidomide plus low-dose dexamethasone and the PK of lenalidomide when administered alone or with low-dose dexamethasone in this population. The coauthors analyzed and interpreted data; all authors had access to the primary clinical trial data.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Study design</head><p>MM-021 is phase 2, open-label, multicenter, single-arm trial that enrolled RRMM patients between September 12, 2010 and June 3, 2011. The data cutoff date for the final analysis was September 26, 2012. For the PK assessment, a target sample size of 10 patients was required to obtain reasonable estimates of systemic exposure to lenalidomide in patients with adequate renal function. The first 11 enrolled patients aged ≤75 years who had a baseline creatinine clearance (CL Cr ) of ≥60 ml/min were included in the PK assessment cohort. Subsequent patients were enrolled in the treatment cohort without PK assessments. Lenalidomide plus low-dose dexamethasone therapy was given in both cohorts until disease progression or treatment discontinuation. All patients (including those who discontinued treatment for any reason) were followed up for survival and subsequent antimyeloma treatments every 4 months (±7 days) for ≥1 year after enrollment.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Inclusion and exclusion criteria</head><p>Eligible patients were aged ≥18 years, had Durie-Salmon MM stage II or III, and had disease progression after ≥2 cycles of antimyeloma treatment or relapsed with progressive disease after therapy. Other inclusion criteria were: measurable levels of M-protein in serum (≥0.5 g/dl) or urine (≥0.2 g/24 hours); an ECOG Performance Status score of ≤2; an absolute neutrophil count (ANC) of ≥1000 cells/mm 3 (≥1.0 × 10 9 /l); a platelet count of ≥50,000/mm 3 (≥50 × 10 9 /l); a serum transaminase level of ≤3.0 × the upper limit of normal; and a serum total bilirubin level of ≤2.0 mg/dl (≤34 μmol/l). Females of childbearing potential were eligible if they agreed to use ≥2 forms of reliable contraception, have two medically supervised pregnancy tests, and not breastfeed during the study. Males were also required to use contraception throughout study drug therapy, during any dose interruption, and for ≥28 days following study drug discontinuation.</p><p>Patients were excluded if they had non-secretory MM; renal failure requiring dialysis; significant active cardiac disease within the past 6 months (including angina requiring medical intervention, uncontrolled hypertension, myocardial infarction, New York Heart Association class II-IV congestive heart failure, or unstable angina); history of deep-vein thrombosis (DVT) or pulmonary embolism (PE) within the past 12 months; prior malignancy; hypersensitivity to thalidomide or dexamethasone; or prior use of lenalidomide.</p><p>Patients at high risk of venous thromboembolism (VTE) received anticoagulation therapy with a lowmolecular-weight heparin or full-dose warfarin for at least the first 4 months, followed by low-dose aspirin (70-100 mg/day) or continued anticoagulation at the discretion of the treating physician. All other patients received, at the discretion of the treating physician, either oral low-dose aspirin or another prophylactic antithrombotic treatment during their participation in the study. Patients unable or unwilling to undergo antithrombotic prophylactic treatment were not eligible to participate in this study.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Treatment</head><p>Commercial formulations of lenalidomide and dexamethasone were supplied by Celgene Corporation. Lenalidomide was packaged in 11-and 21-count blister cards for the 5, 10, 15, and 25 mg capsules. Dexamethasone was supplied as 4 mg tablets. Lenalidomide dosing followed the approved product labels <ref type="bibr" target="#b11">[11,</ref><ref type="bibr" target="#b12">12]</ref>. The dose of dexamethasone was based on data from a previous randomized study which reported that a lower dose of dexamethasone combined with lenalidomide was effective in the treatment of MM, and was associated with better tolerability compared with lenalidomide and highdose dexamethasone <ref type="bibr" target="#b10">[10]</ref>.</p><p>Lenalidomide was given orally once daily on days 1-21 of each 28-day cycle; the starting dose was 25 mg/day for patients with normal renal function (CL Cr ≥60 ml/min), 10 mg/day for those with mild-to-moderate renal insufficiency (CL Cr ≥30 to &lt;60 ml/min), and 15 mg every other day for those with severe renal insufficiency (CL Cr &lt;30 ml/min) <ref type="bibr" target="#b13">[13,</ref><ref type="bibr" target="#b14">14]</ref>. The dose was modified in patients who experienced grade 4 neutropenia or thrombocytopenia, febrile neutropenia, or any grade ≥3 lenalidomiderelated adverse event (AE). When symptoms resolved to grade ≤2, lenalidomide was decreased by one dose level (dose levels decrements of 5 mg) at the start of the next cycle; for neutropenia, granulocyte colony-stimulating factor could be initiated and the dose maintained. Lenalidomide was discontinued for grade <ref type="bibr" target="#b4">4</ref>  </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Outcomes and endpoints</head><p>The primary endpoint was best overall response rate (ORR), assessed using European Group for Blood and Marrow Transplantation (EBMT) criteria <ref type="bibr" target="#b15">[15]</ref>, and responses were also assessed by an Independent Response Adjudication Committee (IRAC). Very good partial response (VGPR) was added as a subcategory of partial response (PR), under the International Myeloma Working Group criteria <ref type="bibr" target="#b16">[16]</ref>. Secondary endpoints included progression-free survival (PFS), response duration, safety, and PK parameters of lenalidomide. AEs were coded according to the Medical Dictionary of Regulatory Activities version 14.0, and severity was graded according to the National Cancer Institute Common Terminology Criteria for Adverse Events version 4.0. PFS was calculated as the time between study enrollment and first documented progressive disease or death, whichever occurred first, based on EBMT criteria. Patients who withdrew from the study were censored on the date of their last response assessment. Response duration was calculated as the time from the first response (PR or better) to the first documented progressive disease or death, whichever occurred first. Time to progression (TTP) was defined as time from enrollment to first documented progressive disease. Time to response was defined as the time from enrollment to the first documented response (PR or better). Concentrations of lenalidomide in plasma were determined by a validated liquid chromatographytandem mass spectrometry method <ref type="bibr" target="#b17">[17]</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Statistical analyses and sample size</head><p>Target accrual was 194 patients, including 184 patients in the treatment cohort and 10 patients in the PK cohort. For the PK cohort, the target sample size was 10 patients, to obtain reasonable estimates of systemic exposure to lenalidomide in patients with adequate renal function.</p><p>For this analysis, the primary population (n = 187) included the first 176 patients enrolled in the treatment cohort and the 11 patients enrolled in the PK cohort. The efficacy-evaluable population (n = 187) included all patients who took ≥1 dose of the study drug, had measurable disease at baseline, and had ≥1 post-baseline response assessment. To provide the most complete safety information, the safety population (N = 199) included all patients who had enrolled and received ≥1 dose of study drug before data cutoff (September 26, 2012).</p><p>The Kaplan-Meier method was used to estimate the survival distribution function for PFS, response duration, and overall survival. The effect of dexamethasone on lenalidomide exposure at steady state was evaluated by comparing area under the plasma concentration-time curve (AUC), AUC from time 0 to infinity (AUC ∞ ), and maximum observed plasma concentration (C max ) between Day 7 (lenalidomide alone) and Day 8 (lenalidomide plus low-dose dexamethasone), using an analysis of variance model (ANOVA) with treatment as a fixed effect and patient as a random effect on the natural log-transformed parameters.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Results</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Patient disposition</head><p>A total of 199 patients were enrolled in the study and were evaluable for safety <ref type="figure" target="#fig_0">(Figure 1</ref>). At the time of the final analysis, 42 patients continued to receive study treatment, 156 had discontinued, and 1 patient had completed treatment. Treatment discontinuations were due to progressive disease (n = 110), consent withdrawal (n = 22), death (n = 13), AEs (n = 10), or protocol violation (n = 1). The final efficacy analysis was based on the primary efficacy population of 187 patients (176 in the treatment cohort and 11 in the PK cohort). The median treatment duration was 8.3 months (range 0.9-22.9 months) and the median number of cycles was 9 (range 1-25). The median durations of lenalidomide and dexamethasone treatment were 7.8 months (range 0.1-22.9 months) and 7.6 months (range 0.0-22.8 months), respectively. The median relative dose intensity (actual dose intensity/planned dose intensity) was 1.0 for both lenalidomide (range 0.3-2.3) and dexamethasone (range 0.4-7.0), suggesting that most patients received their dose of study medication as planned over the course of the study. The proportion of patients receiving the 25, 20, 15, and 10 mg doses of lenalidomide over 12 progressive treatment cycles is shown in <ref type="figure" target="#fig_1">Figure 2</ref>. The majority of patients per treatment cycle remained on the 25 mg/day starting dose.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Baseline demographics</head><p>Patient characteristics at baseline are shown in <ref type="table" target="#tab_1">Table 1</ref>. The median age of patients in the primary efficacy population was 60.0 years (range 35.0-81.0 years), 71.1% were aged ≤65 years, and 62.0% were male. Most patients in the primary population had advanced disease (85.6% had Durie-Salmon MM stage III) and were heavily pretreated; 56.7% had received ≥4 prior regimens and most had received prior thalidomide (69.5%), bortezomib (63.1%), or both (44.9%). In addition, 5.4% of patients had the immunoglobulin D (IgD) subtype of MM. Most patients (66.8%) had normal renal function (CL Cr ≥60 ml/min), 26.7% had mild-to-moderate impairment (CL Cr ≥30 to &lt;60 ml/min), and 6.4% had severe impairment (CL Cr &lt;30 ml/min). Baseline patient characteristics (including renal function) were comparable between the primary and the safety populations.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Efficacy</head><p>The primary efficacy endpoint of best ORR (defined as PR or better by IRAC assessment using EBMT criteria) in the efficacy-evaluable population (n = 187) was 47.6%, including 23 patients (12.3%) with a VGPR and 7 patients (3.7%) who had a complete response (CR) ( <ref type="table" target="#tab_2">Table 2</ref>). An additional 88 patients (47.1%) achieved stable disease (SD), resulting in a disease control rate (SD or better) of 94.7%. The median time to response was 1.9 months (range 0.9-10.2 months).</p><p>Secondary efficacy endpoints included PFS and response duration in the efficacy-evaluable population (n = 187). With a median PFS follow-up of 6.5 months (range 0.6-20.3 months), the median PFS was 8.3 months (95% CI 6.5-9.8) ( <ref type="figure" target="#fig_2">Figure 3</ref>). The majority of patients (60.6%) were progression-free at 6 months, and approximately half the patients (46.4%) remained progression-free at 9 months. The median duration of response was 8.8 months (range 0.4-18.8 months).</p><p>Additional endpoints included response rates in various subgroups based on baseline characteristics. The response rate was 58.0% in patients who had earlier treatment (≤2 prior therapies; n = 50) and 43.8% in those who had received later treatment (&gt;2 prior therapies; n = 137). Regarding the type of prior therapy, the response rate was 46.2% in those who had previously received thalidomide (n = 130), 47.5% in those who had previously received bortezomib (n = 118), 45.2% in those who had received both thalidomide and bortezomib (n = 84), and 47.8% in those who had received neither prior thalidomide nor bortezomib (n = 23). The response rate was comparable across patient subgroups with different degrees of renal impairment. Based on renal function, the ORR was 50.4% in patients with normal renal function (n = 125), 42% for those with mild-tomoderate renal impairment (n = 50), and 41.7% in those with severe renal impairment (n = 12). Patients with IgD MM (n = 10), had a higher response rate than the overall efficacy population (response rate 70.0%, including 10% CR and 50% VGPR). However, the median duration of response was shorter in patients with IgD MM compared with the overall efficacy population, with a median duration of response of 6.6 months (range, 4.6-10.1 months) vs. 8.8 months (range 0.4-18.8 months) in the efficacy-evaluable population.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Safety</head><p>The most common treatment-emergent AEs (all grades) were anemia (60.3%), decreased neutrophil and white blood cell counts (41.2% and 32.7%, respectively), neutropenia (35.7%), thrombocytopenia (21.6%), fatigue (19.6%), upper respiratory tract infection (19.6%), and pneumonia (18.6%). Grade 3-4 AEs were reported in 139 of 199 patients (69.8%). The most common treatmentemergent grade 3-4 AEs were anemia (26.1%), neutropenia (25.1%), thrombocytopenia (14.6%), pneumonia (13.1%), leukopenia (9.5%), and decreased neutrophil count (8.5%) ( <ref type="table" target="#tab_3">Table 3)</ref>. One patient developed grade 3 febrile neutropenia. No grade 3-4 peripheral neuropathy was reported. Serious AEs were reported in 58 patients in the safety population (29.1%). The most common serious AEs were pneumonia (11.6%), followed by thrombocytopenia (3.5%), cardiac failure (2.0%), anemia (2.0%), and renal failure (1.5%).</p><p>AEs of special interest included VTE, tumor lysis syndrome, and second primary malignancy (SPM). Only 1 patient (0.5%) experienced DVT, which was a serious event that led to a dose interruption and lenalidomide dose reduction; the patient subsequently recovered. One other patient (0.5%) experienced tumor lysis syndrome with a fatal outcome. Another patient developed an SPM (solid duodenal tumor) that was not considered to be related to either lenalidomide or dexamethasone.</p><p>Treatment-emergent AEs resulted in discontinuation of lenalidomide treatment in 18 patients (9%). Cardiac failure, thrombocytopenia, pneumonia, and constipation led to discontinuation of lenalidomide in 2 patients each. No other treatment-emergent AE resulted in the discontinuation of lenalidomide in &gt;1 patient. AEs resulted in dose reduction or interruption of lenalidomide in 80 patients (40.2%) and of dexamethasone in 87 patients (43.7%). The most common reasons for dose reduction or interruption of lenalidomide or dexamethasone were neutropenia (16.6% and 11.6%, respectively), thrombocytopenia (7.5% and 5.0%), decreased neutrophil count (7.5% and 6.0%), pneumonia (7.0% and 8.5%), decreased platelet count (4.0% each), pyrexia (4.0% each), and fatigue (3.5% and 2.0%). In total, 20 patients (10.1%) in the safety population received blood transfusions and 5 patients (2.5%) were treated for anemia with growth factors.</p><p>As of the date of the final analysis, 77 patients in the safety population had died either during treatment or during the follow-up phase of the study. Twenty-five of these patients died within 30 days of the final dose of study medication. The most common cause of death was MM/disease progression (17 patients); multi-organ failure (6 patients), cardiac failure and lung infection (4 patients each in safety population); intracranial hemorrhage, renal failure, and respiratory failure (3 patients each); and cardiopulmonary failure, pneumonia, septic shock, and cerebral hemorrhage (2 patients each).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Pharmacokinetics</head><p>The first 11 patients enrolled in the study who were aged ≤75 years and had a baseline CL Cr of ≥60 ml/min were enrolled in the PK cohort. When administered to Chinese patients with RRMM under fasting conditions, lenalidomide was absorbed and eliminated rapidly with a median time to peak concentration of approximately  Median time to response, months (range) 1.9 (0.9-10.2)</p><p>Abbreviations: CR Complete response, PR Partial response, VGPR Very good partial response.</p><p>1 hour and median half-life of approximately 3 hours after both single and multiple doses <ref type="table">(Table 4</ref>). There were no considerable differences in any of the PK parameters between a single dose (Day 1) and multiple doses (Day 7) of lenalidomide administration. The accumulation ratio between Days 1 and 7 was 0.8 and 0.9 for C max and AUC, respectively, demonstrating that lenalidomide did not accumulate in plasma with multiple doses. There were also no apparent differences in any of the multiple-dose PK parameters for lenalidomide alone (Day 7) or lenalidomide plus low-dose dexamethasone (Day 8) ( <ref type="figure" target="#fig_4">Figure 4</ref>). Lenalidomide undergoes limited metabolism and has a primarily renal route of elimination; the lenalidomide PK parameters observed in this study were similar to those previously reported in Caucasian and Japanese patients with RRMM and normal renal function <ref type="table" target="#tab_5">(Table 5)</ref> [8,9, Celgene data on file]. The addition of dexamethasone had no effect on the plasma exposure to lenalidomide, as indicated by the comparison of AUC and C max on Day 7 (lenalidomide alone) and Day 8 (lenalidomide plus dexamethasone). The 90% CIs for the ratio of geometric means between the two treatments were within the conventionally accepted equivalence limits of 80% and 125% for both AUC and C max .</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Discussion</head><p>In the previous pivotal, global phase 3 trials (MM-009 and MM-010), the combination of lenalidomide and high-dose dexamethasone demonstrated significantly greater efficacy over dexamethasone alone and was generally well tolerated in treating &gt;700 patients with RRMM <ref type="bibr" target="#b6">[6,</ref><ref type="bibr" target="#b7">7,</ref><ref type="bibr" target="#b18">18]</ref>. As the Chinese registration study bridging to the pivotal global trials, the MM-021 phase 2 trial confirmed the efficacy and safety of lenalidomide in   The results of the MM-021 trial are largely consistent with the MM-009 and MM-010 studies, despite having been carried out in a smaller, homogeneous patient population that was more severely ill (&gt;80% had Durie-Salmon MM stage III disease) and more heavily pretreated (91.5% had received ≥2 prior antimyeloma therapies and 57% had received ≥4 prior antimyeloma therapies vs. 62.3% who had received ≥2 prior therapies in MM-009 and MM-010) <ref type="bibr" target="#b19">[19]</ref>. The best ORR with lenalidomide plus low-dose dexamethasone in the MM-021 analysis was slightly lower than the best ORR in the MM-009 and MM-010 studies (47.6% vs. 60.6%, respectively) <ref type="bibr" target="#b6">[6,</ref><ref type="bibr" target="#b7">7,</ref><ref type="bibr" target="#b18">18]</ref>, perhaps explained by dexamethasone dosing and disease severity differences. In the pivotal studies, dexamethasone was given at an intense dose and schedule for the first 4 cycles (40 mg on days 1-4, 9-12, and 17-20; 480 mg per cycle), compared with the low-dose dexamethasone given in the MM-021 study (40 mg on days 1, 8, 15, and 22; 160 mg per cycle). The rationale for using low-dose dexamethasone in the MM-021 trial was based on providing better tolerability while still achieving the synergistic activity of lenalidomide and dexamethasone as shown by Rajkumar et al. <ref type="bibr" target="#b10">[10]</ref> in patients with newly diagnosed MM.</p><p>Notably, MM-021 patients who had received ≤2 treatments prior to lenalidomide and low-dose dexamethasone had a higher ORR (58%) than the overall efficacy population-closer to the rate reported in the MM-009 and MM-010 studies. These findings suggest that treatment outcomes may be better if lenalidomide and <ref type="table">Table 4</ref> Plasma lenalidomide pharmacokinetic (PK) parameters when administered alone or in combination with dexamethasone (PK cohort, n = 11) Geometric mean (geometric coefficient of variation %) data are presented for all parameters except T max for which median (range) data are presented. Abbreviations: AUC Area under the plasma concentration-time curve, AUC ∞ AUC from time 0 to infinity, CL/F Apparent total plasma clearance, C max Maximum observed plasma concentration, NA Not applicable, RAC (AUC τ ) Accumulation ratio between Days 1 and 7 based on AUC, RAC (C max ) Accumulation ratio between Days 1 and 7 based on C max , t 1/2 Terminal phase half-life, T max Time to C max. dexamethasone treatment is initiated early (after an initial relapse) rather than after several previous therapies. This observation is consistent with a similar analysis based on the pivotal studies <ref type="bibr" target="#b19">[19]</ref>.</p><p>Importantly, in MM-021 the overall disease control rate (i.e. attainment of SD or better) was 94.7%, which is clinically meaningful considering the high percentage of patients who had a large tumor burden, poor prognosis, and rapidly progressing MM. The analysis for PFS at the data cutoff is limited to a median PFS follow-up of 6.5 months; however, median duration of response in this patient population was 8.8 months, median PFS was 8.3 months, and over half of the patients (60.6%) were progression-free at 6 months. This represents a clinically significant delay in disease progression in a patient population with advanced disease who had relapsed after &gt;2 prior therapies. Moreover, the median PFS in MM-021 is consistent with observations of TTP observed in the MM-009 and MM-010 studies, in which the median TTP was 11.1 and 11.3 months, respectively <ref type="bibr" target="#b6">[6,</ref><ref type="bibr" target="#b7">7]</ref>.</p><p>The MM-021 analysis also included some special patient populations, including those with renal impairment and IgD disease. Lenalidomide undergoes limited metabolism and has a predominantly renal route of excretion; in patients with renal impairment the plasma concentration and half-life of the drug are significantly higher <ref type="bibr" target="#b20">[20]</ref>. Therefore, it is important to use lower lenalidomide starting doses in this population. A subanalysis of patients from the MM-009 and MM-010 studies based on renal function status indicated that, even with dose reductions and interruptions, there were no differences in response rates in patients with renal impairment or failure as compared with patients with normal renal function <ref type="bibr" target="#b14">[14]</ref>. A prospective study of 50 patients with renal impairment or renal failure has supported these results <ref type="bibr" target="#b13">[13]</ref>. In the MM-021 analysis of Chinese MM patients with renal impairment (including 12 patients with severe renal impairment) a high ORR (41.7%) was achieved. These findings, together with previous reports, indicate that with careful monitoring of creatinine levels and AEs, as well as appropriate dose adjustments, lenalidomide plus low-dose dexamethasone is an effective and well-tolerated treatment option for patients with MM who have renal impairment.</p><p>The IgD subtype of MM is associated with severe disease, and ORRs in these patients are reportedly lower than rates in patients with other subtypes of MM <ref type="bibr" target="#b21">[21]</ref>. Although the IgD subtype typically occurs in &lt;2% of Caucasian MM patients, 5.0% of the patients enrolled in this study had IgD subtype disease. Also, an ORR of 70% was achieved in patients with IgD MM. Although this was a small subgroup (n = 10), the data suggest a trend toward high efficacy of the lenalidomide plus low-dose dexamethasone regimen in patients with IgD MM and a poor prognosis.</p><p>The safety data in this study were consistent with the known safety profile of lenalidomide in the RRMM setting. Overall, the main AEs in MM-021 were hematologic and were manageable by dose adjustment of lenalidomide. The most frequently reported grade 3-4 AEs were cytopenias and pneumonia, and consistent with safety findings from the global pivotal phase 3 studies. The incidence of grade 3-4 anemia was higher in this study than in the phase 3 studies, which may be a result of the already high baseline incidence of anemia (87% in MM-021), partly related to underlying disease characteristics. Importantly, lenalidomide was not associated with peripheral neuropathy in this study. As expected, the most common cause of death in MM-021 was MM or complications due to disease progression. The mortality rate and the primary causes of death were consistent with those expected for a population of patients with RRMM. The incidence of grade 3 VTE was lower than previously observed in phase 3 studies (11.4-14.7%) <ref type="bibr" target="#b6">[6,</ref><ref type="bibr" target="#b7">7]</ref>. Only 1 patient in this study experienced a VTE event. This may be due to the requirement for all patients to take antithrombotic prophylactic treatment  and/or the overall shorter time on study for patients in this trial. Some evidence also suggests that the risk of VTE may be generally lower in Asian populations compared with Caucasian populations <ref type="bibr" target="#b22">[22,</ref><ref type="bibr" target="#b23">23]</ref>, including among patients with cancer <ref type="bibr" target="#b24">[24]</ref>.</p><p>The PK profile of lenalidomide in Chinese patients was similar to that historically reported in North American MM patients <ref type="bibr" target="#b9">[9]</ref>. Lenalidomide was rapidly absorbed and eliminated, with no accumulation in plasma following single or multiple dosing. Furthermore, the mean plasma lenalidomide exposure levels observed in Chinese MM patients who received the 25 mg lenalidomide dose alone were comparable to those historically observed in Caucasian MM patients <ref type="bibr" target="#b20">[20]</ref>. Administration of 40 mg of dexamethasone had no effect on the multiple-dose PK profile of lenalidomide, as evidenced by the almost identical plasma concentration-time curves and similar values of the PK parameters for lenalidomide alone and lenalidomide plus low-dose dexamethasone. The PK data are also consistent with previous observations in Japanese <ref type="bibr" target="#b8">[8]</ref> and Caucasian patients with RRMM [9, Celgene data on file]. In RRMM patients with normal renal function, lenalidomide is rapidly absorbed and eliminated, with no evidence of accumulation after multiple doses. Furthermore, plasma exposure to lenalidomide (as evidenced by the AUC ∞ ,) was similar in the different MM populations <ref type="bibr">[8,9,</ref> Celgene data on file]. The consistency of the PK profile with previous studies suggests that the 25 mg/day starting dose of lenalidomide should also be the same in Chinese patients as in other populations. With progressing treatment cycles, the daily dose of lenalidomide was remarkably stable, remaining at 25 mg/day in around 70% of patients; the 20 mg and 15 mg dose levels were infrequently used. Approximately 20% of patients with renal impairment/renal failure started at a dose of 10 mg/day (cycle 1). In addition to the PK results consistent with previous studies, the efficacy results achieved in this Chinese MM patient population largely maintained on stable doses, which supports lenalidomide 25 mg as the appropriate starting dose for patients without renal impairment. The data also support the same dosing guidelines for Chinese patients with renal impairment as for Caucasian patients with renal impairment.</p><p>In the US and in western regions of the world, treatment options for patients with RRMM are evolving, although there is no standard recommended regimen. In this setting, the novel agents thalidomide, lenalidomide, and bortezomib are widely used, often in combination with dexamethasone <ref type="bibr" target="#b4">[4,</ref><ref type="bibr" target="#b6">6,</ref><ref type="bibr" target="#b7">7,</ref><ref type="bibr" target="#b25">[25]</ref><ref type="bibr" target="#b26">[26]</ref><ref type="bibr" target="#b27">[27]</ref>. Patients treated with these novel agents have been shown to have significantly improved response rates, PFS, and overall survival compared with a median survival of &lt;2 years at first relapse prior to their introduction <ref type="bibr" target="#b4">[4,</ref><ref type="bibr" target="#b6">6,</ref><ref type="bibr" target="#b7">7,</ref><ref type="bibr" target="#b25">[25]</ref><ref type="bibr" target="#b26">[26]</ref><ref type="bibr" target="#b27">[27]</ref>.</p><p>New immunomodulatory agents, such as pomalidomide <ref type="bibr" target="#b29">[28,</ref><ref type="bibr" target="#b30">29]</ref> and the second-generation proteasome inhibitor carfilzomib <ref type="bibr" target="#b31">[30]</ref> are now being introduced in the US and Europe. Until now, lenalidomide was not available for the treatment of patients with RRMM in China, with available treatments limited to standard chemotherapy, and thalidomide-or bortezomib-based regimens <ref type="bibr" target="#b32">[31,</ref><ref type="bibr" target="#b33">32]</ref>. The approval of lenalidomide in China therefore expands the treatment armamentarium for Chinese patients with RRMM.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Conclusions</head><p>The findings from this large phase 2 registration bridging study show that lenalidomide plus low-dose dexamethasone led to high ORRs and was generally well tolerated in a Chinese MM patient population, most of whom were heavily pretreated and had advanced RRMM. The ORR was higher in patients who were treated in earlier lines than in more severely ill patients. Patients with renal impairment and the IgD disease subtype also had clinically meaningful response rates. Dosing remained relatively stable over cycles, with AEs generally well-managed by dosing adjustments.</p><p>Many patients with advanced RRMM in China have already failed on thalidomide and/or bortezomib treatments and are in need of additional effective regimens to prevent further disease progression. This report suggests that the lenalidomide plus low-dose dexamethasone regimen has the potential to fulfill an unmet medical need for the RRMM population in China.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>Figure 1</head><label>1</label><figDesc>Patient disposition.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head>Figure 2</head><label>2</label><figDesc>Dose of lenalidomide (LEN) over 12 treatment cycles.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_2"><head>Figure 3</head><label>3</label><figDesc>Kaplan-Meier curve of progression-free survival (PFS) for the primary efficacy population (n = 187).</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_3"><head>5 )</head><label>5</label><figDesc>Platelet count decreased 14 (7.0) White blood cell count decreased 14 (7.0) Discontinuation due to AEs, n (%) 18 (9.0) combination with lower dose of dexamethasone in Chinese patients with RRMM.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_4"><head>Figure 4</head><label>4</label><figDesc>Mean (± standard deviation) plasma lenalidomide (LEN) concentrations in the absence (Day 7) and presence (Day 8) of low-dose dexamethasone (LoDEX).</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_5"><head>a</head><label></label><figDesc>Geometric mean (geometric coefficient of variation%) data are presented for all parameters except when stated as median (range).b Only includes patients with normal renal function (creatinine clearance ≥60 mL/min). c See references [8,9] and [Celgene data on file]. Abbreviations: AUC Area under the plasma concentration-time curve, AUC ∞ AUC from time 0 to infinity, CL/F Apparent total plasma clearance, C max Maximum observed plasma concentration, CrCL Creatinine clearance, t 1/2Terminal phase half-life, T max Time to C max , Vz/F Apparent volume of distribution during terminal phase after non-intravenous administration.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_1"><head>Table 1</head><label>1</label><figDesc>Baseline patient characteristics</figDesc><table><row><cell cols="2">Primary efficacy</cell><cell>Safety</cell></row><row><cell></cell><cell>population</cell><cell>population</cell></row><row><cell></cell><cell>(n = 187)</cell><cell>(N = 199)</cell></row><row><cell>Median age, years (range)</cell><cell>60 (35-81)</cell><cell>59 (35-81)</cell></row><row><cell>Age distribution, n (%)</cell><cell></cell><cell></cell></row><row><cell>≤65 years</cell><cell>133 (71.1)</cell><cell>142 (71.4)</cell></row><row><cell>&gt;65 years</cell><cell>54 (28.9)</cell><cell>57 (28.6)</cell></row><row><cell>Male, n (%)</cell><cell>116 (62.0)</cell><cell>125 (62.8)</cell></row><row><cell>Durie-Salmon baseline MM stage, n (%)</cell><cell></cell><cell></cell></row><row><cell>I</cell><cell>9 (4.8)</cell><cell>9 (4.5)</cell></row><row><cell>II</cell><cell>18 (9.6)</cell><cell>19 (9.6)</cell></row><row><cell>III</cell><cell>160 (85.6)</cell><cell>171 (85.9)</cell></row><row><cell>ECOG Performance Status score, n (%)</cell><cell></cell><cell></cell></row><row><cell>0</cell><cell>69 (36.9)</cell><cell>73 (36.7)</cell></row><row><cell>1</cell><cell>92 (49.2)</cell><cell>99 (49.7)</cell></row><row><cell>2</cell><cell>26 (13.9)</cell><cell>27 (13.6)</cell></row><row><cell>Renal function (creatinine clearance), n (%)</cell><cell></cell><cell></cell></row><row><cell>Normal (≥60 ml/min)</cell><cell>125 (66.8)</cell><cell>131 (65.8)</cell></row><row><cell>Mild-to-moderate impairment</cell><cell>50 (26.7)</cell><cell>54 (27.1)</cell></row><row><cell>(≥30 to &lt;60 ml/min)</cell><cell></cell><cell></cell></row><row><cell>Severe impairment (&lt;30 ml/min)</cell><cell>12 (6.4)</cell><cell>14 (7.0)</cell></row><row><cell>Median number of prior antimyeloma</cell><cell>4 (1-15)</cell><cell>4 (1-15)</cell></row><row><cell>therapies, n (range)</cell><cell></cell><cell></cell></row><row><cell cols="2">Number of prior antimyeloma therapies, n (%)</cell><cell></cell></row><row><cell>1-3</cell><cell>81 (43.3)</cell><cell>86 (43.2)</cell></row><row><cell>4-6</cell><cell>64 (34.2)</cell><cell>68 (34.2)</cell></row><row><cell>7-9</cell><cell>29 (15.5)</cell><cell>32 (16.1)</cell></row><row><cell>10-15</cell><cell>13 (7.0)</cell><cell>13 (6.5)</cell></row><row><cell cols="2">Prior use of thalidomide or bortezomib, n (%)</cell><cell></cell></row><row><cell>Thalidomide</cell><cell>130 (69.5)</cell><cell>137 (68.8)</cell></row><row><cell>Bortezomib</cell><cell>118 (63.1)</cell><cell>127 (63.8)</cell></row><row><cell>Thalidomide and bortezomib</cell><cell>84 (44.9)</cell><cell>90 (45.2)</cell></row><row><cell>Type of MM, n (%)</cell><cell></cell><cell></cell></row><row><cell>IgA</cell><cell>50 (26.7)</cell><cell>55 (27.6)</cell></row><row><cell>IgD</cell><cell>10 (5.4)</cell><cell>10 (5.0)</cell></row><row><cell>IgG</cell><cell>107 (57.2)</cell><cell>112 (56.3)</cell></row><row><cell>IgM</cell><cell>1 (0.5)</cell><cell>1 (0.5)</cell></row><row><cell>Missing</cell><cell>19 (10.2)</cell><cell>21 (10.6)</cell></row></table><note>Abbreviations: ECOG Eastern Cooperative Oncology Group, Ig immunoglobulin, MM multiple myeloma.</note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_2"><head>Table 2</head><label>2</label><figDesc>Best response as assessed by the Independent Response Adjudication Committee (IRAC)</figDesc><table><row><cell>Efficacy-evaluable</cell></row><row><cell>population (n = 187)</cell></row></table><note></note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_3"><head>Table 3</head><label>3</label><figDesc>Grade 3-4 treatment-emergent adverse events (AEs) reported in ≥2% of patients</figDesc><table /><note></note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_5"><head>Table 5</head><label>5</label><figDesc>Comparison of plasma lenalidomide pharmacokinetic parameters (administered with dexamethasone) in different populations of patients with relapsed myeloma and normal renal function (creatinine clearance ≥60 mL/min)</figDesc><table><row><cell>PK parameter a</cell><cell>Caucasian MM</cell><cell>Japanese MM</cell><cell>Chinese MM</cell></row><row><cell></cell><cell>patients</cell><cell>patients</cell><cell>patients</cell></row><row><cell></cell><cell>n = 34</cell><cell>n = 12</cell><cell>n = 9</cell></row><row><cell></cell><cell>(MM-001 and</cell><cell>(MM-017) c</cell><cell>(MM-021) b</cell></row><row><cell></cell><cell>MM-002) c</cell><cell></cell><cell></cell></row><row><cell>Median age,</cell><cell>59 (40-69)</cell><cell>63 (43-66)</cell><cell>55 (44-68)</cell></row><row><cell>years (range)</cell><cell></cell><cell></cell><cell></cell></row><row><cell>Median body</cell><cell>82 (50-118)</cell><cell>59 (48-75)</cell><cell>65 (54-84)</cell></row><row><cell>weight, kg (range)</cell><cell></cell><cell></cell><cell></cell></row><row><cell>Median CrCl, ml/min</cell><cell>101 (65-155)</cell><cell>91 (63-135)</cell><cell>95 (63-154)</cell></row><row><cell>(range)</cell><cell></cell><cell></cell><cell></cell></row><row><cell>AUC ∞ (h•ng/ml)</cell><cell>2124 (28.6)</cell><cell>2305 (23.7)</cell><cell>2202 (30.6)</cell></row><row><cell>C max (ng/ml)</cell><cell>487 (35.0)</cell><cell>572 (33.2)</cell><cell>596 (30.2)</cell></row><row><cell>T max (h)</cell><cell>1.0 (0.4-4.0)</cell><cell>1.0 (0.4-2.0)</cell><cell>0.93 (0.5-1.0)</cell></row><row><cell>CL/F (ml/min)</cell><cell>196 (28.7)</cell><cell>181 (23.7)</cell><cell>184 (30.7)</cell></row><row><cell>t 1/2 (h)</cell><cell>3.18 (20.7)</cell><cell>2.70 (19.3)</cell><cell>3.18 (39.0)</cell></row><row><cell>Vz/F (litres)</cell><cell>54.0 (29.5)</cell><cell>41.8 (14.3)</cell><cell>50.7 (28.4)</cell></row></table><note></note></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot">http://www.jhoonline.org/content/6/1/41</note>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Acknowledgments</head><p>The authors would like to thank Dena DeMarco, BSN, and Ye Hua, MD from Celgene Corporation; Heike Niederbroeker, PhD, from Celgene International; Tigermed; and site staff for their support. The authors received editorial support from Adriana Stan, PhD, and Shanthi Jayawardena, PhD, from Excerpta Medica in the preparation of this manuscript funded by Celgene Corporation. The authors were fully responsible for all content and editorial decisions for this manuscript.</p></div>
+			</div>
+
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Abbreviations AE: Adverse events; AUC: Area under the plasma concentration-time curve; CL Cr : Creatinine clearance; C max : Maximum observed plasma concentration; CR: Complete response; DVT: Deep-vein thrombosis; EBMT: European Group for Blood and Marrow Transplantation; ECOG: Eastern Cooperative Oncology Group; Ig: Immunoglobulin; IRAC: Independent Response Adjudication Committee; MM: Multiple myeloma; ORR: Overall response rate; PE: Pulmonary embolism; PFS: Progression-free survival; PK: Pharmacokinetics; PR: Partial response; RRMM: Relapsed or refractory MM; SD: Stable disease; SPM: Second primary malignancy; TTP: Time to progression; VGPR: Very good PR; VTE: Venous thromboembolism.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Competing interests</head><p>Celgene Corporation sponsored this clinical study and was responsible for clinical oversight of the trial. Tigermed was responsible for medical and site monitoring. JH has served as a consultant for and has received honoraria from Novartis, Johnson &amp; Johnson China, MSD, and Celgene; received research funding from Novartis and Johnson &amp; Johnson China; and was a steering committee member of a study sponsored by Novartis. JZ, HWV, NC, and JM are employees and shareholders of Celgene Corporation. The remaining authors declare no competing financial interests.</p><p>Authors' contributions JH, ZC, DW, NC, and JM designed the study; JH, XD, ZC, FC, DZ, LY, XK, XL, DW, HA, JM, and JW enrolled patients; JH, ZC, XL, DW, and JM collected data; JH, ZC, DW, JZ, HWV, NC, and JM analyzed and interpreted data; and all authors critically reviewed the manuscript for important intellectual content and approved the final draft. </p></div>			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<monogr>
+		<title level="m" type="main">Chinese tumor annual registry of 2004 (edited by the National office of cancer prevention and treatment, National center for cancer registry, Bureau of disease control and prevention of the ministry of health)</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">N</forename><surname>Chen</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><surname>Lau</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">L</forename><surname>Kong</surname></persName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title/>
+	</analytic>
+	<monogr>
+		<title level="j">Chinese Union Medical College</title>
+		<imprint>
+			<biblScope unit="page">60</biblScope>
+			<date type="published" when="2004" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<monogr>
+		<title level="m" type="main">Analysis of the trend of incidence of malignant tumors in Shanghai region (from years 1972-1999). Tumor</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><surname>Liu</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Y</forename><surname>Xiang</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Jin</forename><forename type="middle">F</forename><surname>Zhou</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Sun</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">L</forename><surname>Fang</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><surname>Yuan</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Z</forename><surname>Gao</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">L</forename><surname>Gao</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Y</forename></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2004" />
+			<biblScope unit="volume">24</biblScope>
+			<biblScope unit="page" from="11" to="15" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">The treatment of multiple myeloma: current status and progress</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">L</forename><surname>Qiu</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Chin J Pract Intern Med</title>
+		<imprint>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="page" from="886" to="888" />
+			<date type="published" when="2006" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Improved survival in multiple myeloma and the impact of novel therapies</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><forename type="middle">K</forename><surname>Kumar</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><forename type="middle">V</forename><surname>Rajkumar</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Dispenzieri</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">Q</forename><surname>Lacy</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><forename type="middle">R</forename><surname>Hayman</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">F</forename><forename type="middle">K</forename><surname>Buadi</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><forename type="middle">R</forename><surname>Zeldenrust</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><surname>Dingli</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><forename type="middle">J</forename><surname>Russell</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">A</forename><surname>Lust</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><forename type="middle">R</forename><surname>Greipp</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><forename type="middle">A</forename><surname>Kyle</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">A</forename><surname>Gertz</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Blood</title>
+		<imprint>
+			<biblScope unit="volume">111</biblScope>
+			<biblScope unit="page" from="2516" to="2520" />
+			<date type="published" when="2008" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Chinese Multiple Myeloma Working Group: China treatment guideline for multiple myeloma</title>
+	</analytic>
+	<monogr>
+		<title level="j">Chin J Intern Med</title>
+		<imprint>
+			<biblScope unit="volume">47</biblScope>
+			<biblScope unit="page" from="869" to="872" />
+			<date type="published" when="2008" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Multiple Myeloma (010) Study Investigators: Lenalidomide plus dexamethasone for relapsed or refractory multiple myeloma</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Dimopoulos</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Spencer</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Attal</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><forename type="middle">M</forename><surname>Prince</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">L</forename><surname>Harousseau</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Dmoszynska</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">San</forename><surname>Miguel</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Hellmann</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Facon</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Foà</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><surname>Corso</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Masliak</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Z</forename><surname>Olesnyckyj</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Yu</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Z</forename><surname>Patin</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Zeldis</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">B</forename><surname>Knight</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><forename type="middle">D</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">N Engl J Med</title>
+		<imprint>
+			<biblScope unit="volume">357</biblScope>
+			<biblScope unit="page" from="2123" to="2132" />
+			<date type="published" when="2007" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Multiple Myeloma (009) Study Investigators: Lenalidomide plus dexamethasone for relapsed multiple myeloma in North America</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><forename type="middle">M</forename><surname>Weber</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><surname>Chen</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><surname>Niesvizky</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Wang</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Belch</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><forename type="middle">A</forename><surname>Stadtmauer</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><surname>Siegel</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">I</forename><surname>Borrello</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><forename type="middle">V</forename><surname>Rajkumar</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><forename type="middle">A</forename><surname>Chanan-Khan</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Lonial</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Z</forename><surname>Yu</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Patin</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Olesnyckyj</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">B</forename><surname>Zeldis</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><forename type="middle">D</forename><surname>Knight</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">N Engl J Med</title>
+		<imprint>
+			<biblScope unit="volume">357</biblScope>
+			<biblScope unit="page" from="2133" to="2142" />
+			<date type="published" when="2007" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Lenalidomide plus dexamethasone treatment in Japanese patients with relapsed/refractory multiple myeloma</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Iida</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Chou</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Okamoto</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><surname>Nagai</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><surname>Hatake</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><surname>Murakami</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Takagi</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><surname>Shimizu</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><surname>Lau</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><surname>Takeshita</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Takatoku</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Hotta</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Int J Hematol</title>
+		<imprint>
+			<biblScope unit="volume">92</biblScope>
+			<biblScope unit="page" from="118" to="126" />
+			<date type="published" when="2010" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Immunomodulatory drug CC-5013 overcomes drug resistance and is well tolerated in patients with relapsed multiple myeloma</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><forename type="middle">G</forename><surname>Richardson</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><forename type="middle">L</forename><surname>Schlossman</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><surname>Weller</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Hideshima</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><surname>Mitsiades</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">F</forename><surname>Davies</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><surname>Leblanc</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">L</forename><forename type="middle">P</forename><surname>Catley</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><surname>Doss</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><surname>Kelly</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Mckenney</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Mechlowicz</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Freeman</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><surname>Deocampo</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><surname>Rich</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">J</forename><surname>Ryoo</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><surname>Chauhan</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><surname>Balinski</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Zeldis</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><forename type="middle">C</forename><surname>Anderson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Blood</title>
+		<imprint>
+			<biblScope unit="volume">100</biblScope>
+			<biblScope unit="page" from="3063" to="3067" />
+			<date type="published" when="2002" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Eastern Cooperative Oncology Group: Lenalidomide plus high-dose dexamethasone versus lenalidomide plus low-dose dexamethasone as initial therapy for newly diagnosed multiple myeloma: an open-label randomised controlled trial</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><forename type="middle">V</forename><surname>Rajkumar</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Jacobus</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">N</forename><forename type="middle">S</forename><surname>Callander</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><surname>Fonseca</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><forename type="middle">H</forename><surname>Vesole</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">E</forename><surname>Williams</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><surname>Abonour</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><forename type="middle">S</forename><surname>Siegel</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Katz</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><forename type="middle">R</forename><surname>Greipp</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Lancet Oncol</title>
+		<imprint>
+			<biblScope unit="volume">11</biblScope>
+			<biblScope unit="page" from="29" to="37" />
+			<date type="published" when="2010" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<monogr>
+		<title level="m" type="main">Revlimid (lenalidomide) prescribing information</title>
+		<ptr target="http://www.revlimid.com/docs/Revlimid-Full-PI.pdfAccessed24" />
+		<imprint>
+			<date type="published" when="2009-05" />
+			<publisher>Celgene Corporation</publisher>
+			<pubPlace>Summit, NJ, USA</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<monogr>
+		<title level="m" type="main">Summary of product characteristics</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Revlimid</surname></persName>
+		</author>
+		<ptr target="http://www.medicines.org.uk/emc/medicine/19841/SPC/Revlimid/Accessed" />
+		<imprint>
+			<date type="published" when="2012-05-24" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Lenalidomide and dexamethasone for the treatment of refractory/relapsed multiple myeloma: dosing of lenalidomide according to renal function and effect on renal impairment</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">A</forename><surname>Dimopoulos</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><surname>Christoulas</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Roussou</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><surname>Kastritis</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Migkou</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Gavriatopoulou</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><surname>Matsouka</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><surname>Mparmparoussi</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><surname>Psimenou</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">I</forename><surname>Grapsa</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><surname>Efstathiou</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><surname>Terpos</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Eur J Haematol</title>
+		<imprint>
+			<biblScope unit="volume">85</biblScope>
+			<biblScope unit="page" from="1" to="5" />
+			<date type="published" when="2010" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">The efficacy and safety of lenalidomide plus dexamethasone in relapsed and/or refractory multiple myeloma patients with impaired renal function</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Dimopoulos</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Alegre</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><forename type="middle">A</forename><surname>Stadtmauer</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><surname>Goldschmidt</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">A</forename><surname>Zonder</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><forename type="middle">M</forename><surname>De Castro</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Z</forename><surname>Masliak</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><surname>Reece</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Olesnyckyj</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Z</forename><surname>Yu</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><forename type="middle">M</forename><surname>Weber</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Cancer</title>
+		<imprint>
+			<biblScope unit="volume">116</biblScope>
+			<biblScope unit="page" from="3807" to="3814" />
+			<date type="published" when="2010" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Criteria for evaluating disease response and progression in patients with multiple myeloma treated by highdose therapy and haemopoietic stem cell transplantation. Myeloma Subcommittee of the EBMT. European Group for Blood and Marrow Transplant</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Bladé</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><surname>Samson</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><surname>Reece</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Apperley</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">B</forename><surname>Björkstrand</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">G</forename><surname>Gahrton</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Gertz</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Giralt</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Jagannath</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><surname>Vesole</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Br J Haematol</title>
+		<imprint>
+			<biblScope unit="volume">102</biblScope>
+			<biblScope unit="page" from="1115" to="1123" />
+			<date type="published" when="1998" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">International Myeloma Working Group: International uniform response criteria for multiple myeloma</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">B</forename><forename type="middle">G</forename><surname>Durie</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">L</forename><surname>Harousseau</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">S</forename><surname>Miguel</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Bladé</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">B</forename><surname>Barlogie</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><surname>Anderson</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Gertz</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Dimopoulos</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Westin</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><surname>Sonneveld</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><surname>Ludwig</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">G</forename><surname>Gahrton</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Beksac</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Crowley</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Belch</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Boccadaro</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Cavo</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">I</forename><surname>Turesson</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Joshua</forename><forename type="middle">D</forename><surname>Vesole</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><surname>Kyle</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><surname>Alexanian</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><surname>Tricot</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">G</forename><surname>Attal</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Merlini</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">G</forename><surname>Powles</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><surname>Richardson</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><surname>Shimizu</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><surname>Tosi</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><surname>Morgan</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">G</forename><surname>Rajkumar</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><forename type="middle">V</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Leukemia</title>
+		<imprint>
+			<biblScope unit="volume">20</biblScope>
+			<biblScope unit="page" from="1467" to="1473" />
+			<date type="published" when="2006" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Development and validation of a highly sensitive liquid chromatography/mass spectrometry method for simultaneous quantification of lenalidomide and flavopiridol in human plasma</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Q</forename><surname>Liu</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><forename type="middle">L</forename><surname>Farley</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><forename type="middle">J</forename><surname>Johnson</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">N</forename><surname>Muthusamy</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><forename type="middle">C</forename><surname>Hofmeister</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><forename type="middle">A</forename><surname>Blum</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">L</forename><forename type="middle">J</forename><surname>Schaaf</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">R</forename><surname>Grever</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">C</forename><surname>Byrd</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">T</forename><surname>Dalton</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">A</forename><surname>Phelps</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ther Drug Monit</title>
+		<imprint>
+			<biblScope unit="volume">30</biblScope>
+			<biblScope unit="page" from="620" to="627" />
+			<date type="published" when="2008" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">Longterm follow-up on overall survival from the MM-009 and MM-010 phase III trials of lenalidomide plus dexamethasone in patients with relapsed or refractory multiple myeloma</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">A</forename><surname>Dimopoulos</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><surname>Chen</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Spencer</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><surname>Niesvizky</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Attal</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><forename type="middle">A</forename><surname>Stadtmauer</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">T</forename><surname>Petrucci</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Z</forename><surname>Yu</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Olesnyckyj</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">B</forename><surname>Zeldis</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><forename type="middle">D</forename><surname>Knight</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><forename type="middle">M</forename><surname>Weber</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Leukemia</title>
+		<imprint>
+			<biblScope unit="volume">23</biblScope>
+			<biblScope unit="page" from="2147" to="2152" />
+			<date type="published" when="2009" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">Lenalidomide in combination with dexamethasone at first relapse in comparison with its use as later salvage therapy in relapsed or refractory multiple myeloma</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><forename type="middle">A</forename><surname>Stadtmauer</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><forename type="middle">M</forename><surname>Weber</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><surname>Niesvizky</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Belch</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">H</forename><surname>Prince</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">San</forename><surname>Miguel</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">F</forename><surname>Facon</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Olesnyckyj</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Yu</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Z</forename><surname>Zeldis</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">B</forename><surname>Knight</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><forename type="middle">D</forename><surname>Dimopoulos</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">A</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Eur J Haematol</title>
+		<imprint>
+			<biblScope unit="volume">82</biblScope>
+			<biblScope unit="page" from="426" to="432" />
+			<date type="published" when="2009" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">Pharmacokinetics of lenalidomide in subjects with various degrees of renal impairment and in subjects on hemodialysis</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">N</forename><surname>Chen</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><surname>Lau</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">L</forename><surname>Kong</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">G</forename><surname>Kumar</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">B</forename><surname>Zeldis</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><surname>Knight</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">O</forename><forename type="middle">L</forename><surname>Laskin</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Clin Pharmacol</title>
+		<imprint>
+			<biblScope unit="volume">47</biblScope>
+			<biblScope unit="page" from="1466" to="1475" />
+			<date type="published" when="2007" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">High-dose chemotherapy followed by autologous stem cell transplantation changes prognosis of IgD multiple myeloma</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">V</forename><surname>Maisnar</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><surname>Hájek</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">V</forename><surname>Scudla</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><surname>Gregora</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Büchler</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Tichý</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><surname>Kotoucek</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Kafková</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">L</forename><surname>Forraiová</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Minarík</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Radocha</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">V</forename><surname>Bláha</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Malý</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Bone Marrow Transplant</title>
+		<imprint>
+			<biblScope unit="volume">41</biblScope>
+			<biblScope unit="page" from="51" to="54" />
+			<date type="published" when="2008" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">Risk of pulmonary embolism and/or deep venous thrombosis in Asian-Americans</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><forename type="middle">L</forename><surname>Klatsky</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">A</forename><surname>Armstrong</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Poggi</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Am J Cardiol</title>
+		<imprint>
+			<biblScope unit="volume">85</biblScope>
+			<biblScope unit="page" from="1334" to="1337" />
+			<date type="published" when="2000" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title level="a" type="main">Incidence of idiopathic deep venous thrombosis and secondary thromboembolism among ethnic groups in California</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><forename type="middle">H</forename><surname>White</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><surname>Zhou</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><forename type="middle">S</forename><surname>Romano</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ann Intern Med</title>
+		<imprint>
+			<biblScope unit="volume">128</biblScope>
+			<biblScope unit="page" from="737" to="740" />
+			<date type="published" when="1998" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title level="a" type="main">Incidence of venous thromboembolism and its effect on survival among patients with common cancers</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><forename type="middle">K</forename><surname>Chew</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Wun</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><surname>Harvey</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><surname>Zhou</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><forename type="middle">H</forename><surname>White</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Arch Intern Med</title>
+		<imprint>
+			<biblScope unit="volume">166</biblScope>
+			<biblScope unit="page" from="458" to="464" />
+			<date type="published" when="2006" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title level="a" type="main">Assessment of Proteasome Inhibition for Extending Remissions (APEX) Investigators: Bortezomib or high-dose dexamethasone for relapsed multiple myeloma</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><forename type="middle">G</forename><surname>Richardson</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><surname>Sonneveld</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">W</forename><surname>Schuster</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><surname>Irwin</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><forename type="middle">A</forename><surname>Stadtmauer</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Facon</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">L</forename><surname>Harousseau</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><surname>Ben-Yehuda</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Lonial</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><surname>Goldschmidt</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><surname>Reece</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">F</forename><surname>San-Miguel</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Bladé</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Boccadoro</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Cavenagh</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">W</forename><forename type="middle">S</forename><surname>Dalton</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><forename type="middle">L</forename><surname>Boral</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><forename type="middle">L</forename><surname>Esseltine</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">B</forename><surname>Porter</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><surname>Schenkein</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><forename type="middle">C</forename><surname>Anderson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">N Engl J Med</title>
+		<imprint>
+			<biblScope unit="volume">352</biblScope>
+			<biblScope unit="page" from="2487" to="2498" />
+			<date type="published" when="2005" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title level="a" type="main">Low-dose thalidomide plus dexamethasone is an effective therapy for advanced myeloma</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Palumbo</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">L</forename><surname>Giaccone</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Bertola</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><surname>Pregno</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Bringhen</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><surname>Rus</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Triolo</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><surname>Gallo</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Pileri</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Boccadoro</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Haematologica</title>
+		<imprint>
+			<biblScope unit="volume">86</biblScope>
+			<biblScope unit="page" from="399" to="403" />
+			<date type="published" when="2001" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<monogr>
+		<title/>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">A</forename><surname>Dimopoulos</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><surname>Zervas</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">G</forename><surname>Kouvatseas</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><surname>Galani</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">V</forename><surname>Grigoraki</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><surname>Kiamouris</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><surname>Vervessou</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><surname>Samantas</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><surname>Papadimitriou</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">O</forename><surname>Economou</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><surname>Gika</surname></persName>
+		</author>
+		<ptr target="http://" />
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<analytic>
+		<title level="a" type="main">Thalidomide and dexamethasone combination or refractory multiple myeloma</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><surname>Panayiotidis</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">I</forename><surname>Christakis</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">N</forename><surname>Anagnostopoulos</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ann Oncol</title>
+		<imprint>
+			<biblScope unit="volume">12</biblScope>
+			<biblScope unit="page" from="991" to="995" />
+			<date type="published" when="2001" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<analytic>
+		<title level="a" type="main">Phase 1 study of pomalidomide MTD, safety, and efficacy in patients with refractory multiple myeloma who have received lenalidomide and bortezomib</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><forename type="middle">G</forename><surname>Richardson</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><surname>Siegel</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><surname>Baz</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><forename type="middle">L</forename><surname>Kelley</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">N</forename><forename type="middle">C</forename><surname>Munshi</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Laubach</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><surname>Sullivan</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Alsina</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><surname>Schlossman</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">I</forename><forename type="middle">M</forename><surname>Ghobrial</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><surname>Doss</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">N</forename><surname>Loughney</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">L</forename><surname>Mcbride</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><surname>Bilotti</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><surname>Anand</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">L</forename><surname>Nardelli</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Wear</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">G</forename><surname>Larkins</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Chen</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">H</forename><surname>Zaki</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><surname>Jacques</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><forename type="middle">C</forename><surname>Anderson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Blood</title>
+		<imprint>
+			<biblScope unit="volume">121</biblScope>
+			<biblScope unit="page" from="1961" to="1967" />
+			<date type="published" when="2013" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<monogr>
+		<title level="m" type="main">Intergroupe Francophone du Myélome: Pomalidomide plus low-dose dexamethasone is active and well tolerated in bortezomib and lenalidomide-refractory multiple myeloma</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">X</forename><surname>Leleu</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Attal</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">B</forename><surname>Arnulf</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><surname>Moreau</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><surname>Traulle</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">G</forename><surname>Marit</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><surname>Mathiot</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">O</forename><surname>Petillon</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Macro</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Roussel</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">B</forename><surname>Pegourie</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">B</forename><surname>Kolb</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><forename type="middle">M</forename><surname>Stoppa</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">B</forename><surname>Hennache</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Bréchignac</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">N</forename><surname>Meuleman</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">B</forename><surname>Thielemans</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">L</forename><surname>Garderet</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">B</forename><surname>Royer</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><surname>Hulin</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">L</forename><surname>Benboubker</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">O</forename><surname>Decaux</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Escoffre-Barbe</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Michallet</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><surname>Caillot</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">P</forename><surname>Fermand</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><surname>Avet-Loiseau</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Facon</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2013" />
+			<biblScope unit="volume">121</biblScope>
+			<biblScope unit="page" from="1968" to="1975" />
+		</imprint>
+	</monogr>
+	<note>Intergroupe Francophone du Myélome 2009-02. Blood</note>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<analytic>
+		<title level="a" type="main">A phase 2 study of single-agent carfilzomib (PX-171-003-A1) in patients with relapsed and refractory multiple myeloma</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><forename type="middle">S</forename><surname>Siegel</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Martin</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Wang</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><surname>Vij</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><forename type="middle">J</forename><surname>Jakubowiak</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Lonial</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Trudel</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">V</forename><surname>Kukreti</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">N</forename><surname>Bahlis</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Alsina</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Chanan-Khan</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">F</forename><surname>Buadi</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">F</forename><forename type="middle">J</forename><surname>Reu</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">G</forename><surname>Somlo</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Zonder</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><surname>Song</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><forename type="middle">K</forename><surname>Stewart</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><surname>Stadtmauer</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">L</forename><surname>Kunkel</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Wear</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><forename type="middle">F</forename><surname>Wong</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><forename type="middle">Z</forename><surname>Orlowski</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Jagannath</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Blood</title>
+		<imprint>
+			<biblScope unit="volume">120</biblScope>
+			<biblScope unit="page" from="2817" to="2825" />
+			<date type="published" when="2012" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<analytic>
+		<title level="a" type="main">Bortezomib, dexamethasone plus thalidomide for treatment of newly diagnosed multiple myeloma patients with or without renal impairment</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">G</forename><surname>Yang</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">W</forename><surname>Chen</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Y</forename><surname>Wu</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Chin J Cancer Res</title>
+		<imprint>
+			<biblScope unit="volume">25</biblScope>
+			<biblScope unit="page" from="155" to="160" />
+			<date type="published" when="2013" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<analytic>
+		<title level="a" type="main">Bortezomib in combination with dexamethasone and subsequent thalidomide for newly-diagnosed multiple myeloma: a Chinese experience</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">W</forename><surname>Zheng</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">G</forename><surname>Wei</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">X</forename><surname>Ye</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>He</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">L</forename><surname>Li</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">W</forename><surname>Wu</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Shi</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Zhang</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">W</forename><surname>Huang</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">W</forename><surname>Xie</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Y</forename><surname>Luo</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">X</forename><surname>Xue</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Lin</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><surname>Huang</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Z</forename><surname>Cai</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Leuk Res</title>
+		<imprint>
+			<biblScope unit="volume">33</biblScope>
+			<biblScope unit="page" from="1615" to="1618" />
+			<date type="published" when="2009" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

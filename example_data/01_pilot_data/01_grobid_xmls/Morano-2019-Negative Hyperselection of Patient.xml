@@ -1,0 +1,1085 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /data/rsg/nlp/juanmoo1/bin/grobid-0.6.1/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Negative Hyperselection of Patients With RAS and BRAF Wild-Type Metastatic Colorectal Cancer Who Received Panitumumab-Based Maintenance Therapy</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+				<date type="published" when="2019-09-20">September 20, 2019</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><roleName>MD</roleName><forename type="first">Federica</forename><surname>Morano</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="institution">Fondazione Instituto di Ricovero e Cura Carattere Scientifico (IRCCS) Istituto Nazionale dei Tumori</orgName>
+								<address>
+									<settlement>Milan</settlement>
+									<country key="IT">Italy</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><roleName>MD</roleName><forename type="first">Salvatore</forename><surname>Corallo</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="institution">Fondazione Instituto di Ricovero e Cura Carattere Scientifico (IRCCS) Istituto Nazionale dei Tumori</orgName>
+								<address>
+									<settlement>Milan</settlement>
+									<country key="IT">Italy</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><roleName>MD</roleName><forename type="first">Sara</forename><surname>Lonardi</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="institution" key="instit1">Istituto Oncologico Veneto</orgName>
+								<orgName type="institution" key="instit2">IRCCS</orgName>
+								<address>
+									<region>Padua</region>
+									<country key="IT">Italy</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><roleName>MD</roleName><forename type="first">Alessandra</forename><surname>Raimondi</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="institution">Fondazione Instituto di Ricovero e Cura Carattere Scientifico (IRCCS) Istituto Nazionale dei Tumori</orgName>
+								<address>
+									<settlement>Milan</settlement>
+									<country key="IT">Italy</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><roleName>MD, PhD</roleName><forename type="first">Chiara</forename><surname>Cremolini</surname></persName>
+							<affiliation key="aff2">
+								<orgName type="institution">University of Pisa</orgName>
+								<address>
+									<settlement>Pisa</settlement>
+									<country key="IT">Italy</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><roleName>MD</roleName><forename type="first">Lorenza</forename><surname>Rimassa</surname></persName>
+							<affiliation key="aff3">
+								<orgName type="institution" key="instit1">Humanitas Cancer Center</orgName>
+								<orgName type="institution" key="instit2">IRCCS</orgName>
+								<address>
+									<settlement>Rozzano</settlement>
+									<country key="IT">Italy</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><roleName>MD</roleName><forename type="first">Roberto</forename><surname>Murialdo</surname></persName>
+							<affiliation key="aff4">
+								<orgName type="institution" key="instit1">University of Genoa</orgName>
+								<orgName type="institution" key="instit2">IRCCS Azienda Ospedaliera Universitaria (AOU) San Martino-IST</orgName>
+								<address>
+									<settlement>Genoa</settlement>
+									<country key="IT">Italy</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><roleName>MD</roleName><forename type="first">Alberto</forename><surname>Zaniboni</surname></persName>
+							<affiliation key="aff5">
+								<orgName type="institution">Fondazione Poliambulanza</orgName>
+								<address>
+									<settlement>Brescia</settlement>
+									<country key="IT">Italy</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><roleName>MD</roleName><forename type="first">Andrea</forename><surname>Sartore-Bianchi</surname></persName>
+							<affiliation key="aff6">
+								<orgName type="institution">Niguarda Cancer Center</orgName>
+								<address>
+									<settlement>Milan</settlement>
+									<country key="IT">Italy</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff7">
+								<orgName type="institution">University of Milan</orgName>
+								<address>
+									<settlement>Milan</settlement>
+									<country key="IT">Italy</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><roleName>MD</roleName><forename type="first">Gianluca</forename><surname>Tomasello</surname></persName>
+							<affiliation key="aff8">
+								<orgName type="institution">Azienda Socio-Sanitaria Territoriale Ospedale di Cremona</orgName>
+								<address>
+									<settlement>Cremona</settlement>
+									<country key="IT">Italy</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><roleName>MD</roleName><forename type="first">Patrizia</forename><surname>Racca</surname></persName>
+							<affiliation key="aff9">
+								<orgName type="institution">AOU Città della Salute e della Scienza di Torino</orgName>
+								<address>
+									<settlement>Torino</settlement>
+									<country key="IT">Italy</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><roleName>MD</roleName><forename type="first">Matteo</forename><surname>Clavarezza</surname></persName>
+							<affiliation key="aff10">
+								<orgName type="institution">Ente Ospedaliero Ospedali Galliera</orgName>
+								<address>
+									<settlement>Genoa</settlement>
+									<country key="IT">Italy</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><roleName>MD</roleName><forename type="first">Vincenzo</forename><surname>Adamo</surname></persName>
+							<affiliation key="aff11">
+								<orgName type="institution">University of Messina</orgName>
+								<address>
+									<settlement>Messina</settlement>
+									<country key="IT">Italy</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><roleName>PhD</roleName><forename type="first">Federica</forename><surname>Perrone</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="institution">Fondazione Instituto di Ricovero e Cura Carattere Scientifico (IRCCS) Istituto Nazionale dei Tumori</orgName>
+								<address>
+									<settlement>Milan</settlement>
+									<country key="IT">Italy</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><roleName>PhD</roleName><forename type="first">Annunziata</forename><surname>Gloghini</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="institution">Fondazione Instituto di Ricovero e Cura Carattere Scientifico (IRCCS) Istituto Nazionale dei Tumori</orgName>
+								<address>
+									<settlement>Milan</settlement>
+									<country key="IT">Italy</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><roleName>PhD</roleName><forename type="first">Elena</forename><surname>Tamborini</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="institution">Fondazione Instituto di Ricovero e Cura Carattere Scientifico (IRCCS) Istituto Nazionale dei Tumori</orgName>
+								<address>
+									<settlement>Milan</settlement>
+									<country key="IT">Italy</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><roleName>MD</roleName><forename type="first">Adele</forename><surname>Busico</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="institution">Fondazione Instituto di Ricovero e Cura Carattere Scientifico (IRCCS) Istituto Nazionale dei Tumori</orgName>
+								<address>
+									<settlement>Milan</settlement>
+									<country key="IT">Italy</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><roleName>MDSc</roleName><forename type="first">Antonia</forename><surname>Martinetti</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="institution">Fondazione Instituto di Ricovero e Cura Carattere Scientifico (IRCCS) Istituto Nazionale dei Tumori</orgName>
+								<address>
+									<settlement>Milan</settlement>
+									<country key="IT">Italy</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><roleName>MDSc</roleName><forename type="first">Federica</forename><surname>Palermo</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="institution">Fondazione Instituto di Ricovero e Cura Carattere Scientifico (IRCCS) Istituto Nazionale dei Tumori</orgName>
+								<address>
+									<settlement>Milan</settlement>
+									<country key="IT">Italy</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><roleName>MD, PhD</roleName><forename type="first">Fotios</forename><surname>Loupakis</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="institution" key="instit1">Istituto Oncologico Veneto</orgName>
+								<orgName type="institution" key="instit2">IRCCS</orgName>
+								<address>
+									<region>Padua</region>
+									<country key="IT">Italy</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><roleName>MD, PhD</roleName><forename type="first">Massimo</forename><surname>Milione</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="institution" key="instit1">Istituto Oncologico Veneto</orgName>
+								<orgName type="institution" key="instit2">IRCCS</orgName>
+								<address>
+									<region>Padua</region>
+									<country key="IT">Italy</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff2">
+								<orgName type="institution">University of Pisa</orgName>
+								<address>
+									<settlement>Pisa</settlement>
+									<country key="IT">Italy</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><roleName>PhD</roleName><forename type="first">Giovanni</forename><surname>Fucà</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="institution">Fondazione Instituto di Ricovero e Cura Carattere Scientifico (IRCCS) Istituto Nazionale dei Tumori</orgName>
+								<address>
+									<settlement>Milan</settlement>
+									<country key="IT">Italy</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><roleName>MD</roleName><forename type="first">Maria</forename><forename type="middle">Di</forename><surname>Bartolomeo</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="institution">Fondazione Instituto di Ricovero e Cura Carattere Scientifico (IRCCS) Istituto Nazionale dei Tumori</orgName>
+								<address>
+									<settlement>Milan</settlement>
+									<country key="IT">Italy</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><roleName>MD</roleName><forename type="first">;</forename><surname>Filippo De Braud</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="institution">Fondazione Instituto di Ricovero e Cura Carattere Scientifico (IRCCS) Istituto Nazionale dei Tumori</orgName>
+								<address>
+									<settlement>Milan</settlement>
+									<country key="IT">Italy</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff7">
+								<orgName type="institution">University of Milan</orgName>
+								<address>
+									<settlement>Milan</settlement>
+									<country key="IT">Italy</country>
+								</address>
+							</affiliation>
+						</author>
+						<author role="corresp">
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><roleName>MD</roleName><forename type="first">Filippo</forename><surname>Pietrantonio</surname></persName>
+							<email>filippo.pietrantonio@istitutotumori.mi.it.3108</email>
+							<affiliation key="aff0">
+								<orgName type="institution">Fondazione Instituto di Ricovero e Cura Carattere Scientifico (IRCCS) Istituto Nazionale dei Tumori</orgName>
+								<address>
+									<settlement>Milan</settlement>
+									<country key="IT">Italy</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff7">
+								<orgName type="institution">University of Milan</orgName>
+								<address>
+									<settlement>Milan</settlement>
+									<country key="IT">Italy</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Filippo</forename><surname>De Braud</surname></persName>
+						</author>
+						<author>
+							<affiliation key="aff12">
+								<orgName type="department" key="dep1">Filippo Pietrantonio, MD, Oncology and Hemato-oncology Department</orgName>
+								<orgName type="department" key="dep2">Department of Medical Oncology, Fondazione IRCCS Istituto Nazionale dei Tumori</orgName>
+								<orgName type="institution">University of Milan</orgName>
+								<address>
+									<addrLine>via Festa del Perdono 7, via Giacomo Venezian 1</addrLine>
+									<postCode>20122, 20133</postCode>
+									<settlement>Milan, Italy, Milan</settlement>
+									<country key="IT">Italy</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Negative Hyperselection of Patients With RAS and BRAF Wild-Type Metastatic Colorectal Cancer Who Received Panitumumab-Based Maintenance Therapy</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date type="published" when="2019-09-20">September 20, 2019</date>
+						</imprint>
+					</monogr>
+					<note type="submission">Licensed under the Creative Commons Attribution 4.0 License Accepted on July 11, 2019 and</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.6.1" ident="GROBID" when="2020-10-09T18:38+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<abstract>
+				<p>PURPOSE We assessed the prognostic/predictive role of primary tumor sidedness and uncommon alterations of anti-epidermal growth factor receptor (EGFR) primary resistance (primary resistance in RAS and BRAF wildtype metastatic colorectal cancer patients treated with anti-EGFR monoclonal antibodies [PRESSING] panel) in patients with RAS/BRAF wild-type (wt) metastatic colorectal cancer (mCRC) who were randomly assigned to panitumumab plus fluorouracil, leucovorin, and oxaliplatin (FOLFOX-4) induction followed by maintenance with panitumumab with or without fluorouracil (FU) plus leucovorin (LV); Valentino trial (ClinicalTrials.gov identifier: NCT02476045). PATIENTS AND METHODS This prespecified retrospective analysis included 199 evaluable patients with RAS/ BRAF wt. The PRESSING panel included the following: immunohistochemistry (IHC) and in situ hybridization for HER2/MET amplification, IHC with or without RNA sequencing for ALK/ROS1/NTRKs/RET fusions, nextgeneration sequencing for HER2/PIK3CAex.20/PTEN/AKT1 and RAS mutations with low mutant allele fraction, and multiplex polymerase chain reaction for microsatellite instability. PRESSING status (any positive biomarker v all negative) and sidedness were correlated with overall response rate (ORR), progression-free survival (PFS), and overall survival (OS) in the study population and by treatment arm. RESULTS Overall, left-and right-sided tumors were 85.4% and 14.6%, respectively, and PRESSING-negative and-positive tumors were 75.4% and 24.6%, respectively. At a median follow-up of 26 months, inferior outcomes were consistently observed in right-versus left-sided tumors for ORR (55.2% v 74.1%; P = .037), PFS (8.4 v 11.5 months; P = .026), and OS (2-year rate: 50.2% v 65.1%; P = .062). Similar results were observed in the PRESSING-positive versus PRESSING-negative subgroup for ORR (59.2% v 75.3%; P = .030), PFS (7.7 v 12.1 months; P , .001), and OS (2-year rate: 48.1% v 68.1%; P = .021). The PFS benefit of FU plus LV added to panitumumab maintenance, reported in the study, was independent from sidedness and PRESSING status (interaction for PFS P = .293 and .127, respectively). However, outcomes were extremely poor in patients who received single-agent panitumumab and had right-sided tumors (median PFS, 7.7 months; 2-year OS, 38.5%) or PRESSING-positive tumors (median PFS, 7.4 months; 2-year OS, 47.0%). CONCLUSION The combined assessment of sidedness and molecular alterations of anti-EGFR primary resistance identified a consistent proportion of patients with RAS/BRAF-wt mCRC who had inferior benefit from initial anti-EGFR-based regimens, particularly after maintenance with single-agent anti-EGFRs.</p>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>INTRODUCTION</head><p>The decision-making algorithm of the treatment of patients with metastatic colorectal cancer (mCRC) has deeply changed in the recent years, and it should now take into account both clinical and tumor molecular features. Since the introduction of anti-epidermal growth factor (EGFR) monoclonal antibodies, the progressive refinement of the negative selection paradigm has led to notable improvements of patients' outcomes. <ref type="bibr" target="#b0">1</ref> All current guidelines recommend consideration of an anti-EGFR-based first-line therapy after the evaluation of RAS and BRAF mutational status in addition to assessment of primary tumor sidedness. <ref type="bibr" target="#b1">2,</ref><ref type="bibr">3</ref> Because of the negative predictive role of RAS and BRAF mutations and right sidedness, patients with left-sided, RAS and BRAF wild-type mCRC currently are regarded as optimal candidates for anti-EGFR agents alone or in combination with chemotherapy. <ref type="bibr" target="#b3">[4]</ref><ref type="bibr" target="#b4">[5]</ref><ref type="bibr" target="#b5">[6]</ref><ref type="bibr" target="#b6">[7]</ref><ref type="bibr" target="#b7">[8]</ref><ref type="bibr" target="#b8">[9]</ref> However, several gaps in knowledge about primary resistance to EGFR inhibition exist, and more negative predictive biomarkers would be clinically useful in both left-and right-sided primary tumors.</p><p>In a recent case-control study in patients with RAS and BRAF wild-type mCRC treated with single-agent anti-EGFR therapy, <ref type="bibr" target="#b9">10</ref> we demonstrated the promising negative predictive impact of a panel of uncommon molecular alterations linked to primary resistance to EGFR inhibition. This panel, the Primary resistance in RAS and BRAF wildtype metastatic colorectal cancer patients treated with anti-EGFR monoclonal antibodies (PRESSING) panel, includes HER2 amplification/activating mutations; MET amplification; NTRK/ROS1/ALK/RET rearrangements; PIK3CA exon 20, and PTEN and AKT1 mutations.</p><p>Here, we present the results of a prespecified exploratory analysis of the Valentino study (ClinicalTrials.gov identifier: NCT02476045) to investigate the prognostic role of tumor sidedness and PRESSING panel in patients with RAS and BRAF wild-type mCRC who were randomly assigned to maintenance with either single-agent panitumumab or panitumumab plus fluorouracil and leucovorin (FU + LV) after a 4-month induction with panitumumab plus fluorouracil, leucovorin, and oxaliplatin (FOLFOX-4).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>PATIENTS AND METHODS</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Study Population</head><p>The Valentino study was a multicenter, randomized, openlabel, phase II trial that investigated the progression-free survival (PFS) noninferiority of maintenance with single-agent panitumumab (arm B) versus panitumumab plus FU plus LV (arm A) after an induction treatment with panitumumab plus FOLFOX-4 in patients with RAS wild-type mCRC. <ref type="bibr" target="#b10">11</ref> The trial enrolled 229 patients (arm A, n = 117; arm B, n =112) and showed that maintenance with single-agent panitumumab is inferior to panitumumab plus FU/LV in terms of PFS.</p><p>The main inclusion criteria were as follows: histologically confirmed CRC with RAS (exons 2, 3, and 4 of both KRAS and NRAS) wild-type status confirmed by approved methods; an Eastern Cooperative Oncology Group performance score (ECOG PS) of 0 to 1; no previous treatment of metastatic disease, unresectable metastases, measurable, or just-evaluable disease according to RECIST version 1.1; and availability of baseline tumor samples centrally collected at the coordinating center (Fondazione IRCCS Istituto Nazionale dei Tumori). Patients were excluded if they had experienced relapse during adjuvant oxaliplatin-based chemotherapy or within 12 months from its completion (or within 6 months for adjuvant fluoropyrimidine monotherapy) or in case of notable comorbidities.</p><p>For this exploratory analysis, we selected all those patients enrolled in the trial with at least one radiologic disease assessment and with tumor tissue specimens obtained before enrollment and available for a complete molecular analysis, including PRESSING panel and RAS/BRAF mutational status centrally determined at the coordinating center via next-generation sequencing (NGS). Institutional review board and ethics committee approvals were obtained from all participating centers. All of the patients provided written informed consent before any study-related procedures occurred.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Molecular Analyses</head><p>The PRESSING panel analysis included the following genomic alterations, as previously reported: HER2 amplification/activating mutations; MET amplification; NTRK/ROS1/ALK/RET rearrangements; PIK3CA exon 20 mutations, PTEN inactivating mutations, and AKT1 mutations. <ref type="bibr" target="#b9">10</ref> Briefly, immunohistochemistry (IHC) for HER2/ MET and dual-color silver in situ hybridization for both genes were performed. IHC analyses for ALK/ROS1/ panTRK/RET were performed as the screening method for actionable gene fusions; in all samples with evidence of IHC staining of any intensity/extension, whole-transcriptome shotgun sequencing (RNA-seq) was performed to confirm the presence of specific rearrangements. Oncogenic mutations in the hotspot regions of 50 cancer-related genes (Cancer Hotspot Panel v2; ThermoFisher Scientific, Waltham, MA), including HER2 and PIK3CA/PTEN/AKT1, were assessed by means of targeted NGS through the Ion Torrent Personal Genome platform (ThermoFisher Scientific). In addition, by means of targeted NGS, RAS and BRAF mutational status was centrally reassessed with deeper coverage, and the fractional abundance of BRAF and RAS mutant allele fractions (MAFs) was reported after correction for tumor cellularity. <ref type="bibr" target="#b11">12</ref> On the basis of recent data on microsatellite instability (MSI) as a poor predictive factor in patients who received anti-EGFR-based first-line therapy, 13 multiplex polymerasechain reaction (PCR) was performed to evaluate MSI status. For additional details, see the Appendix (online only).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Statistical Analysis</head><p>PFS was defined as the interval from random assignment to first objective documentation of progressive disease (PD) or death as a result of any cause, whichever occurred first (censored at last follow-up for patients alive and without PD). Overall survival (OS) was the interval from random assignment to death as a result of any cause (censored at last follow-up for patients alive). Overall response rate (ORR) was defined as the proportion of patients who achieved a complete (CR) or partial response (PR). Binomial two-sided 95% CIs were calculated for ORR. Survival analyses were performed using the Kaplan-Meier method and the Cox proportional-hazards model. Variables with a P value of , .1 at univariable analysis were entered into the multivariable models. An interaction term was included in the statistical models when subgroup analyses were performed. Median follow-up was calculated by the reverse Kaplan-Meier approach. The x 2 test, the Fisher exact test, or the Mann-Whitney U test was used, as appropriate, to evaluate the association between patient baseline characteristics and tumor sidedness or PRESSING panel status. The x 2 test or Fisher exact test was used, as appropriate, to assess the association between sidedness and/or PRESSING panel status with ORR. All tests were two sided at a of 5%. The analyses were carried out using R (version 3.5.0) and R Studio (version 1.1.447) and the survival, survminer, and epitools packages.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>RESULTS</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Baseline Characteristics</head><p>A total of 199 (87%) of the 229 enrolled in the Valentino study were eligible for this prespecified exploratory analysis. The CONSORT diagram of the study is illustrated in Appendix <ref type="figure">Figure A1</ref> (online only).</p><p>Baseline patients and disease characteristics are listed in <ref type="table" target="#tab_0">Table 1</ref>. Overall, 52.3% and 47.7% patients were treated in arms A and B, respectively. Left-and right-sided tumors accounted for 170 (85.4%) and 29 (14.6%) patient cases, and the PRESSING panel was negative in 150 (75.4%) patients and positive in 49 (24.6%) patients.</p><p>The incidence of the singular molecular alterations included in the PRESSING panel is illustrated in <ref type="figure">Figure 1</ref> and listed in Appendix <ref type="table" target="#tab_0">Table A1 (online only)</ref>. Notably, amplifications of HER2 and MET genes were present in nine patients (4.5%) and three patients (1.5%), respectively. Gene fusions were reported in five patients (2.5%); specifically, three were rearrangements of RET, one was of ALK, and one was of NTRK. Mutations of PI3KCA exon 20 were found in 10 patients (5.0%); of PTEN, in six (3.0%); and of AKT1, in two (1%). RAS mutations with low MAF (, 5%) occurred in 15 patients (7.5%). Overall, MSI-high status was detected in five patients (2.5%), of whom two (40%) had disease associated with specific PRESSING alterations and only one (20%) had right sidedness.</p><p>Regarding the associations between baseline characteristics and tumor sidedness or PRESSING panel, no significant associations were observed except for older age in right-sided tumors (P = .02). A borderline correlation was observed between primary tumor sidedness and PRESSING panel, with a higher rate of PRESSING positivity in rightsided tumors (37.9%) versus left-sided ones (22.3%; P = .07; <ref type="table" target="#tab_0">Table 1</ref>).</p><p>At the time of this analysis (cutoff on March 30, 2019), the median follow-up was 26 months (95% CI, 24.6 to 29 months). A total of 167 disease progressions and 85 deaths occurred. Appendix Figures A2A and A2B (online only) depict, respectively, the PFS (median, 11.1 months) and OS (median, 30.7 months; 2-year OS rate, 63%) curves in the whole-study population.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Response Analyses According to Sidedness and PRESSING Panel</head><p>The ORR in the study population was 75.5% (95% CI, 68.4% to 81.5%). According to sidedness, the ORR was 74.1% (95% CI, 66.9% to 80.5%) and 55.2% (95% CI, 35.7% to 73.6%) in left-and right-sided tumors, respectively (odds ratio [OR], 0.43; 95% CI, 0.19 to 0.99; P = .037; Appendix <ref type="figure" target="#fig_1">Fig A3A, online only)</ref>. In PRESSING panel-negative and -positive tumors, the ORR was 75.3% (95% CI, 67.6% to 82.0%) and 59.2% (95% CI, 44.2% to 73.0%), respectively (OR, 0.48; 95% CI, 0.24 to 0.95; P = .030; Appendix <ref type="figure" target="#fig_1">Fig A3B)</ref>. The ORR for patients with PRESSING-positive versus -negative tumors was 77.3% versus 63.2% (OR, 0.51; 95% CI, 0.23 to 1.12; P = .080) in the left-sided subgroup and was 45.6% versus 61.1% (OR, 0.55; 95% CI, 0.11 to 2.57; P = .466) in the rightsided subgroup (Appendix <ref type="figure" target="#fig_1">Fig A3C)</ref>. Appendix <ref type="table" target="#tab_2">Table A2</ref> (online only) provides information on sidedness, specific PRESSING panel alterations, and RECIST response at individual patient level. Appendix <ref type="table" target="#tab_3">Table A3</ref> (online only) and Appendix <ref type="figure">Figure A4</ref> (online only) summarize the results in terms of depth of response and duration of response, respectively, according to sidedness, PRESSING panel status, or both.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Prognostic Analyses According to Sidedness and PRESSING Panel</head><p>The PFS was lower in the right-sided versus left-sided subgroup (median PFS, 8.4 v 11.5 months; hazard ratio [HR], 1.60; 95% CI, 1.06 to 2.42; P = .026; <ref type="figure">Fig 2A)</ref>, as was OS (2-year OS, 50.2% v 65.1%; HR, 1.71; 95% CI, 0.97 to 2.99; P = .062; <ref type="figure">Fig 2B)</ref>. In parallel, PFS was lower in the PRESSING-positive versus PRESSING-negative subgroup (median PFS, 7.7 v 12.1 months; HR, 1.90; 95% CI, 1.35 to 2.67; P , .001; <ref type="figure">Fig 2C)</ref> as well as OS (2-year OS, 48.1% v 68.1%; HR, 1.71, 95% CI, 1.09 to 2.69; P = .021; <ref type="figure">Fig 2D)</ref>. The median PFS of patients with PRESSING-positive versus PRESSING-negative tumors was 7.8 versus 13.2 months (HR, 2.01; 95% CI, 1.37 to 2.94; P , .001) in the left-sided subgroup, and it was 7.7 versus 8.6 months (HR, 1.40; 95% CI, 0.64 to 3.06; P = .399) in the right-sided subgroup <ref type="figure">(Fig 2E)</ref>. Consistent results were observed in terms of OS: the 2-year OS of patients with PRESSING-positive versus -negative tumors was 49.9% versus 69.7% (HR, 1.78; 95% CI, 1.08 to 2.95; P = .025) in the left-sided subgroup and was 40.9% versus 55.6% (HR, 1.16; 95% CI, 0.41 to 3.25; P = .786) in the rightsided subgroup <ref type="figure">(Fig 2F)</ref>. Finally, PFS was lower in the MSI-high versus microsatellite-stable subgroup (median PFS, 4.1 v 11.1 months; HR, 3.03; 95% CI, 1.24 to 7.42; P = .015; Appendix <ref type="figure">Fig A5A, online only)</ref>, whereas OS was similar in the two subgroups (2-year OS, 60.0% v 62.9%; HR, 1.23; 95% CI, 0.38 to 3.92; P = .732; Appendix <ref type="figure">Fig A5B, online only)</ref>.</p><p>In the univariable analysis for PFS, ECOG PS, number of metastatic sites (one v more than one), MSI status, primary tumor sidedness, and PRESSING panel were significantly associated with PFS; however, only ECOG PS (0 v 1), number of metastatic sites (one v more than one), and PRESSING panel confirmed their prognostic value in the multivariable model, whereas sidedness lost its significance. Similarly, in the univariable analysis for OS, ECOG PS, prior adjuvant treatment, number of metastatic sites, and PRESSING panel were significantly associated with OS; ECOG PS, prior adjuvant treatment, and PRESSING panel were confirmed in the multivariable model. In particular, the strongest association with poor PFS and OS was reported in the multivariable models for PRESSING-positive tumors (P , .001 and P = .007, respectively; <ref type="table" target="#tab_2">Table 2</ref>). </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Predictive Analyses According to Sidedness and PRESSING Panel</head><p>Results about the predictive role of sidedness, PRESSING panel status, or both according to the two treatment arms are summarized in <ref type="table" target="#tab_3">Table 3</ref>. Primary tumor sidedness was not significantly associated with differential effect of the two maintenance arms in terms of PFS and OS (P for interaction = .293 and .068, respectively), although the PFS and OS benefits from maintenance treatment with panitumumab plus FU plus LV were higher among patients with rightthan with left-sided tumors (Figs 3A and 3B). Similar results were observed with regard to the predictive effect of the PRESSING panel for both PFS and OS (P for interaction = .127 and .450, respectively), although the PFS benefit from addition of FU plus LV to panitumumab in the maintenance setting was clearly superior in PRESSING-positive tumors (Figs 3C and 3D). Consistent results were found when the predictive role of the PRESSING panel was analyzed with regard to maintenance treatment arm in the subgroup of patients with left-sided tumors (Appendix <ref type="table" target="#tab_16">Table A4</ref>, online only; Appendix <ref type="figure" target="#fig_3">Fig A6, online only)</ref>, whereas the sample size was too limited to perform such analyses in the subgroup of patients with right-sided tumors.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>DISCUSSION</head><p>In a previous prospective, case-control study, we showed the potential negative predictive role of the PRESSING panel, including several genomic alterations selected on the basis of the most robust and biologically sound biomarkers of primary resistance to anti-EGFRs beyond RAS and BRAF mutational status and primary tumor sidedness. <ref type="bibr" target="#b9">10</ref> In this prespecified exploratory analysis of the Valentino study, we investigated the potential prognostic and predictive role of primary tumor sidedness and PRESSING panel in patients with RAS and BRAF wild-type mCRC who were randomly assigned to panitumumab plus FOLFOX-4 followed by maintenance with either singleagent panitumumab or panitumumab plus FU plus LV. We reported that a negative hyperselection beyond RAS and BRAF, obtained through the accurate analysis of multiple and less frequent genomic alterations included in the PRESSING panel, combined with the evaluation of tumor sidedness, allowed better prediction of the outcomes in this study population. In particular, patients with leftsided and PRESSING-negative tumors achieved clearly better outcomes in terms of both PFS and OS, and FU plus LV-based maintenance treatment had a positive PFS impact also in this patient subgroup.</p><p>Of note, no significant associations between baseline characteristics and tumor sidedness or PRESSING panel were observed (except for older age in right-sided tumors). As expected, the association between sidedness and PRESSING panel positivity was due to the enrichment of resistance alterations (except HER2 amplification) in rightsided tumors. <ref type="bibr" target="#b9">10,</ref><ref type="bibr" target="#b13">[14]</ref><ref type="bibr" target="#b14">[15]</ref><ref type="bibr" target="#b15">[16]</ref> This correlation may have failed to achieve statistical significance because of the low number of right-sided tumors in the study population. However, even if primary tumor sidedness may be a surrogate marker for the heterogeneous molecular profile of mCRC, primary resistance to anti-EGFRs displayed by right-sided cancers is not fully explained by the well-known and biologically validated genomic alterations included in the PRESSING panel and may be linked to specific gene expression profiles or miRNAs, such as miR-31-3p. <ref type="bibr" target="#b16">17,</ref><ref type="bibr" target="#b17">18</ref> The results of this study were internally consistent, because ORR, PFS, and OS were all decreased in right-sided tumors compared with left-sided ones and in PRESSING-positive with respect to -negative ones. In the multivariable model, the PRESSING panel was the strongest prognostic factor not only in terms of PFS but also with regard to OS.   Conversely, sidedness was no longer significant, again possibly because of the low number of right-sided tumors. Consistent with the literature, <ref type="bibr" target="#b12">13,</ref><ref type="bibr" target="#b18">19</ref> MSI-high status was associated with poor PFS outcome at the univariable analysis, although the number of MSI-high occurrences in this data set was quite small (only five patients) and did not allow us to properly assess its independent prognostic role. The type of maintenance treatment retained its value in terms of PFS but not OS; this result has been already reported <ref type="bibr" target="#b10">11</ref> and may be due to the low number of OS events at the time of data cutoff and to the underpowered sample size.</p><p>Interestingly, we observed that ORR and depth of response were numerically increased in patients with right-sided/ PRESSING-negative versus right-sided/PRESSING-positive tumors. A similar role of the PRESSING panel was observed in the left-sided subgroup. However, in the specific subgroup of patients with right-sided tumors, the increase of response rate achieved thanks to negative hyperselection failed to translate into a benefit in terms of duration of response, PFS, or OS. This is in line with post hoc analyses of pivotal trials and meta-analyses that investigated the impact of sidedness on ORR versus survival end points in patients with RAS wild-type mCRC who received anti-EGFR-based treatment. <ref type="bibr" target="#b7">8,</ref><ref type="bibr" target="#b19">20,</ref><ref type="bibr" target="#b20">21</ref> On the basis of such results, an anti-EGFR-based first-line treatment rarely may be offered on an individual basis to patients with right-sided RAS wild-type mCRC, at least whenever tumor response is  the primary goal of treatment and particularly when antiangiogenics and/or triplet chemotherapy are contraindicated. Given the higher prevalence of PRESSING panel alterations in right-sided tumors, the role of negative molecular hyperselection may be crucial for some patients with RAS and BRAF wild-type/right-sided tumors.</p><p>Furthermore, the PFS benefit of FU plus LV added to panitumumab in the maintenance setting was independent from sidedness and PRESSING panel status, which thus confirmed the crucial role of fluoropyrimidine continuation in the maintenance setting. However, PFS was extremely poor in patients with right-sided or PRESSING-positive disease treated with single-agent panitumumab, with an abrupt decrease of the curves after 4 months (which corresponded to the end of the induction phase). This result highlights that single-agent anti-EGFRs should not be regarded as an effective maintenance treatment strategy in disease subgroups with a lack of clinically or molecularly defined EGFR dependency. In these subgroups, de-escalation to a fully chemotherapy-free maintenance strategy was associated with a significant loss of efficacy, and, in patients with right-sided mCRC (which is itself associated with poorer outcomes <ref type="bibr" target="#b21">22</ref> ), a detrimental effect was observed even in terms of OS.</p><p>This study has some clear limitations. First of all, because both maintenance treatment arms contained panitumumab, we could not investigate the predictive role of tumor sidedness and PRESSING panel status with regard to anti-EGFR therapy. However, because FU plus LV was administered only in arm A, we could identify a subgroup of patients (ie, right-sided and/or PRESSING-positive disease) who derived a limited benefit from single-agent panitumumab, which confirmed the fundamental role of chemotherapy for maintenance treatment and suggested the limited clinical benefit from anti-EGFR treatment itself in these subsets. Most important, the results of this study should be interpreted with caution, because the role of anti-EGFR therapy added to FU/LV in the maintenance setting is still not established by level I evidence. This is particularly relevant in light of the current lack of comparison with other evidence-based maintenance options that have better long-term tolerability, such as FU plus LV with or without bevacizumab. Ongoing studies, such as Panama (ClinicalTrials.gov identifier: NCT01991873) and FIRE-4 (ClinicalTrials.gov identifier: NCT02934529), we hope will address the still-unanswered questions with their adequate randomized settings.</p><p>Also, we acknowledge that, although tumor sidedness is a simple, clearly definable and homogeneous variable, the PRESSING panel is a composite biomarker that includes several genomic alterations. Therefore, each genomic alteration may constitute a single marker, endowed with a potential differential prognostic and/or predictive effect, and our results do not distinguish the relative contribution of individual variables because of the extremely low prevalence of each. The complex molecular interactions of these candidate genomic alterations in the neoplastic signaling pathways and their low prevalences limit their formal validation in prospective clinical studies or in post hoc analyses of randomized clinical trials as negative predictive markers for response to EGFR-targeted therapies, and this limitation may impair their implementation in the tumor profiling work-up, even if many of them are validated therapeutic targets. <ref type="bibr" target="#b9">10,</ref><ref type="bibr" target="#b13">[14]</ref><ref type="bibr" target="#b14">[15]</ref><ref type="bibr" target="#b15">[16]</ref><ref type="bibr" target="#b22">[23]</ref><ref type="bibr" target="#b23">[24]</ref><ref type="bibr" target="#b24">[25]</ref><ref type="bibr" target="#b25">[26]</ref><ref type="bibr" target="#b26">[27]</ref><ref type="bibr" target="#b27">[28]</ref><ref type="bibr" target="#b28">[29]</ref> Regarding RAS mutations with an MAF less than the 5% cutoff, which was validated for negative selection of patients for anti-EGFRs, it is still unclear whether mutations with low fractional abundance simply mirror tumor heterogeneity that may be overcome by novel techniques, such as liquid biopsy, <ref type="bibr" target="#b29">30</ref> or may be associated with the rapid onset of acquired resistance and limited long-term PFS benefit under the selective pressure of anti-EGFR agents continued until disease progression develops. <ref type="bibr" target="#b30">31</ref> In conclusion, even if patients with left-sided, RAS and BRAF wild-type tumors currently are considered the optimal candidates for EGFR inhibitors, 3 a consistent proportion of them achieve a significantly inferior clinical benefit from upfront anti-EGFR-based regimens, particularly after de-escalation to maintenance treatment with single-agent anti-EGFRs. A negative molecular hyperselection with our PRESSING panel, added to the initial assessment of sidedness and RAS/BRAF mutational status, may help identify a subgroup of patients who will exceptionally benefit from anti-EGFR-based initial therapy. FIG A2. Survival analysis in the overall study population: (A) progression-free survival (PFS) and (B) overall survival (OS). NA, not assessable.       KRAS exon 2 mutation: G12V 4% 003-001 P WT WT 003-002 P WT WT 003-003 P WT WT 003-004 P WT WT 003-005 P WT WT 003-006 P HER2 amplification WT 003-007 P WT WT 003-008 P WT WT 004-001 P WT WT 004-002 P WT WT 004-004 P WT WT 004-005 M WT WT 004-007 P WT WT 004-008 P WT WT 004-009 P NTRK rearrangement (EML4-NTRK3) WT 004-010 P WT WT 004-012 P WT WT 004-013 P PIK3CA exon 20 mutation: H1047L (80) WT 004-014 P WT WT 004-015 P WT WT 004-016 P WT WT 004-017 P WT WT 004-018 P WT WT 004-019 P WT WT 004-020 P WT WT 004-021 P WT WT 004-022 P PTEN exon 7 mutation: C250V-fsTer 5 (39) WT 004-024 P WT WT 004-025 P PIK3CA exon 20 mutation -H1047L (38) WT 004-026 P WT WT 004-027 P WT WT 004-028 P WT WT 004-029 P WT WT 004-030 P WT WT 004-031 P WT WT 004-033 P WT WT 005-001 P WT WT 005-002 P MET amplification (53) WT (continued on following page) RAS Adjusted MAF 005-004 P WT WT 005-006 P MET amplification (83) WT HER2 amplification 005-009 P WT WT 006-001 P WT WT 006-003 P WT WT 006-004 P KRAS exon 2 mutation: G12S 1% 007-001 P WT WT 007-002 P WT WT 007-005 M WT WT 007-006 P WT WT 007-007 P WT WT 007-008 P MSI WT 007-009 P WT WT 007-010 P PTEN exon 5 mutation: R130G (15) WT 007-011 P WT WT 007-012 P WT WT 007-013 P WT WT 007-014 P HER2 amplification WT 007-015 P HER2 amplification WT 008-001 P WT WT 008-002 P WT WT 008-003 P WT WT 008-004 M NRAS exon 2 mutation: G13S 3% 008-005 M WT WT 008-006 P WT WT 008-007 P KRAS exon 2 mutation: G12D 1% 008-008 P PIK3CA exon 20 mutation: H1047R (5) WT 008-009 P PIK3CA exon 20 mutation: H1047R (70) WT 008-010 P WT WT 008-011 P WT WT 008-012 B WT WT 008-013 M WT WT 008-014 P WT WT 008-015 P WT WT 008-016 P PIK3CA exon 20 mutation: H1047L <ref type="formula">(</ref>   RAS Adjusted MAF 020-003 P WT WT 020-005 P WT WT 020-006 P WT WT 020-007 P WT WT 020-008 P WT WT 020-009 M WT WT 021-001 M WT WT 021-002 P ALK rearrangement (50) WT 021-003 B WT WT 023-001 P WT WT 024-001 M PIK3CA exon 20 mutation: H1047R (32) 4% KRAS exon 2 mutation: G12D 024-002 P WT WT 024-003 P AKT1 exon 2 mutation: D46E (58) WT 025-001 P MSI WT 025-002 P KRAS exon 3 mutation: Q61H 2% 025-003 P WT WT 025-004 P WT WT 025-005 M WT WT 025-006 M WT WT 025-007 M WT WT 026-001 P WT WT 026-002 P KRAS exon 2 mutation: G12V 3% 026-003 P WT WT 026-004 M WT WT 027-002 P WT WT 027-003 M WT WT 027-005 P WT WT 028-002 P WT WT 029-002 P WT WT 030-001 P WT WT 030-002 P WT WT Abbreviations: B, both metastasis and primary tumor; M, metastasis; MAF, mutant allele fraction; MSI, microsatellite instability; NA, not assessable; P, primary tumor; PRESSING, primary resistance in RAS and BRAF wild-type metastatic colorectal cancer patients treated with anti-EGFR monoclonal antibodies; WT, wild-type.   </p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head>FIG A3 .</head><label>A3</label><figDesc>Activity analysis according to tumor sidedness and primary resistance in RAS and BRAF wild-type metastatic colorectal cancer patients treated with anti-EGFR monoclonal antibodies (PRESSING) panel status: overall response (OR) rate in patients stratified according to (A) sidedness, (B) PRESSING panel status, and (C) combined analysis. Neg, negative; Pos, positive.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_3"><head>FIG A6 .</head><label>A6</label><figDesc>Predictive analysis according to combined tumor sidedness and primary resistance in RAS and BRAF wild-type metastatic colorectal cancer patients treated with anti-EGFR monoclonal antibodies (PRESSING) panel status in left-sided tumors. Kaplan-Meier curves for (A) progression-free survival (PFS) and (B) overall survival (OS) in the patient subgroup with left-sided/ PRESSING-negative tumors stratified according to the two different maintenance treatment arms or the patient subgroup with left-sided/PRESSING-positive tumors stratified according to the two different maintenance treatment arms. FU + LV, fluorouracil plus leucovorin; neg, negative; pan, panitumumab; pos, positive.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>TABLE 1 .</head><label>1</label><figDesc>Baseline Characteristics in the Overall Population and According to Sidedness PRESSING Panel Status PRESSING, primary resistance in RAS and BRAF wild-type metastatic colorectal cancer patients treated with anti-EGFR monoclonal antibodies.</figDesc><table><row><cell></cell><cell></cell><cell cols="2">Data by Sidedness</cell><cell></cell><cell cols="2">Data by PRESSING Status</cell><cell></cell></row><row><cell></cell><cell>Data for All Patients</cell><cell>Left</cell><cell>Right</cell><cell></cell><cell>Negative</cell><cell>Positive</cell><cell></cell></row><row><cell>Characteristic</cell><cell>(N = 199)</cell><cell>(n = 170)</cell><cell>(n = 29)</cell><cell>P</cell><cell>(n = 150)</cell><cell>(n = 49)</cell><cell>P</cell></row><row><cell>Median age, years (IQR)</cell><cell>62 (54-69)</cell><cell>62 (54-68)</cell><cell>68 (61-71)</cell><cell>.021</cell><cell>(55-69)</cell><cell>61 (52-69)</cell><cell>.389</cell></row><row><cell>Sex</cell><cell></cell><cell></cell><cell></cell><cell>.342</cell><cell></cell><cell></cell><cell>.602</cell></row><row><cell>Female</cell><cell>67 (33.7)</cell><cell>55 (32.3)</cell><cell>12 (41.4)</cell><cell></cell><cell>(34.7)</cell><cell>15 (30.6)</cell><cell></cell></row><row><cell>Male</cell><cell>132 (66.3)</cell><cell>115 (67.7)</cell><cell>17 (58.6)</cell><cell></cell><cell>(65.3)</cell><cell>34 (69.4)</cell><cell></cell></row><row><cell>ECOG PS</cell><cell></cell><cell></cell><cell></cell><cell>.300</cell><cell></cell><cell></cell><cell>.468</cell></row><row><cell>0</cell><cell>146 (73.4)</cell><cell>127 (74.7)</cell><cell>19 (65.5)</cell><cell></cell><cell>(74.7)</cell><cell>34 (69.4)</cell><cell></cell></row><row><cell>1</cell><cell>53 (26.6)</cell><cell>43 (25.3)</cell><cell>10 (34.5)</cell><cell></cell><cell>(25.3)</cell><cell>15 (30.6)</cell><cell></cell></row><row><cell>Prior adjuvant treatment</cell><cell></cell><cell></cell><cell></cell><cell>.138</cell><cell></cell><cell></cell><cell>.107</cell></row><row><cell>Yes</cell><cell>27 (13.6)</cell><cell>26 (15.3)</cell><cell>1 (3.4)</cell><cell></cell><cell>(11.3)</cell><cell>10 (20.4)</cell><cell></cell></row><row><cell>No</cell><cell>172 (86.4)</cell><cell>144 (84.7)</cell><cell>28 (96.6)</cell><cell></cell><cell>(88.7)</cell><cell>39 (79.6)</cell><cell></cell></row><row><cell>Primary tumor resected</cell><cell></cell><cell></cell><cell></cell><cell>.495</cell><cell></cell><cell></cell><cell>.993</cell></row><row><cell>Yes</cell><cell>126 (63.3)</cell><cell>106 (62.4)</cell><cell>20 (69.0)</cell><cell></cell><cell>(63.3)</cell><cell>31 (63.3)</cell><cell></cell></row><row><cell>No</cell><cell>73 (36.7)</cell><cell>64 (37.6)</cell><cell>9 (31.0)</cell><cell></cell><cell>(36.7)</cell><cell>18 (36.7)</cell><cell></cell></row><row><cell>Liver-limited disease</cell><cell></cell><cell></cell><cell></cell><cell>.07</cell><cell></cell><cell></cell><cell>.394</cell></row><row><cell>Yes</cell><cell>71 (35.7)</cell><cell>65 (38.2)</cell><cell>6 (20.7)</cell><cell></cell><cell>(37.3)</cell><cell>15 (30.6)</cell><cell></cell></row><row><cell>No</cell><cell>128 (64.3)</cell><cell>105 (61.8)</cell><cell>23 (79.3)</cell><cell></cell><cell>(62.7)</cell><cell>34 (69.4)</cell><cell></cell></row><row><cell>Synchronous metastases</cell><cell></cell><cell></cell><cell></cell><cell>.124</cell><cell></cell><cell></cell><cell>.060</cell></row><row><cell>Yes</cell><cell>157 (78.9)</cell><cell>131 (77.1)</cell><cell>26 (89.7)</cell><cell></cell><cell>(82.0)</cell><cell>34 (69.4)</cell><cell></cell></row><row><cell>No</cell><cell>42 (21.1)</cell><cell>39 (22.9)</cell><cell>3 (10.3)</cell><cell></cell><cell>(18.0)</cell><cell>15 (30.6)</cell><cell></cell></row><row><cell>No. of metastatic sites</cell><cell></cell><cell></cell><cell></cell><cell>.634</cell><cell></cell><cell></cell><cell>.270</cell></row><row><cell>1</cell><cell>111 (55.8)</cell><cell>96 (56.5)</cell><cell>15 (51.7)</cell><cell></cell><cell>(58.0)</cell><cell>24 (49.0)</cell><cell></cell></row><row><cell>. 1</cell><cell>88 (44.2)</cell><cell>74 (43.5)</cell><cell>14 (48.3)</cell><cell></cell><cell>(42.0)</cell><cell>25 (51.0)</cell><cell></cell></row><row><cell>Treatment arm</cell><cell></cell><cell></cell><cell></cell><cell>.734</cell><cell></cell><cell></cell><cell>.841</cell></row><row><cell>Panitumumab</cell><cell>95 (47.7)</cell><cell>82 (48.2)</cell><cell>13 (44.8)</cell><cell></cell><cell>(47.3)</cell><cell>24 (49.0)</cell><cell></cell></row><row><cell>Panitumumab plus FU + LV</cell><cell>104 (52.3)</cell><cell>88 (51.8)</cell><cell>16 (55.2)</cell><cell></cell><cell>(52.7)</cell><cell>25 (51.0)</cell><cell></cell></row><row><cell>Primary tumor sidedness</cell><cell></cell><cell></cell><cell></cell><cell>-</cell><cell></cell><cell></cell><cell>.072</cell></row><row><cell>Left</cell><cell>170 (85.4)</cell><cell>-</cell><cell>-</cell><cell></cell><cell>(88.0)</cell><cell>38 (77.6)</cell><cell></cell></row><row><cell>Right</cell><cell>29 (14.6)</cell><cell>-</cell><cell>-</cell><cell></cell><cell>(12.0)</cell><cell>11 (22.4)</cell><cell></cell></row><row><cell>PRESSING panel</cell><cell></cell><cell></cell><cell></cell><cell>.072</cell><cell></cell><cell></cell><cell>-</cell></row><row><cell>Negative</cell><cell>150 (75.4)</cell><cell>132 (77.7)</cell><cell>18 (62.1)</cell><cell></cell><cell>-</cell><cell>-</cell><cell></cell></row><row><cell>Positive</cell><cell>49 (24.6)</cell><cell>38 (22.3)</cell><cell>11 (37.9)</cell><cell></cell><cell>-</cell><cell>-</cell><cell></cell></row></table><note>NOTE. Data presented as No. (%) unless otherwise indicated. Abbreviations: ECOG PS, Eastern Cooperative Oncology Group performance status; FU + LV, fluorouracil plus leucovorin; IQR, interquartile range;</note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_1"><head>147 Left sided Right sided Median PFS (95% CI) 11Left sided and PRESSING neg Left sided and PRESSING pos Right sided and PRESSING neg Right sided and PRESSING pos Median PFS (95% CI)Left sided and PRESSING neg Left sided and PRESSING pos Right sided and PRESSING neg Right sided and PRESSING pos 2-year OS rate (95% CI)</head><label></label><figDesc>Heatmap detailing the incidence of the genomic alterations included in the primary resistance in RAS and BRAF wild-type metastatic colorectal cancer patients treated with anti-EGFR monoclonal antibodies (PRESSING) panel study population. Green indicates amplifications, violet, gene fusions, and red, mutations. Blue indicates patients with high microsatellite instability (MSI) status; gray indicates patients with right-sided tumors. (*) Targeted screening for ALK, ROS1, NTRKs, RET fusions; ( †) mutant allele fraction , 5%. .5 (10.6 to 13.6) 8.4 (7.0 to 13.1) 1.60 (1.06 to 2.42) ref</figDesc><table><row><cell>A</cell><cell cols="2">001-003 1.00</cell><cell>001-006</cell><cell>001-011</cell><cell>001-016</cell><cell>001-024</cell><cell>001-028</cell><cell>001-031</cell><cell>001-036</cell><cell>001-040</cell><cell>001-044</cell><cell>002-002</cell><cell>003-006</cell><cell>004-009</cell><cell cols="2">004-013</cell><cell>004-022</cell><cell>004-025 HR (95% CI) 005-002 005-006</cell><cell>006-004 .026 P</cell><cell>007-008</cell><cell>007-010</cell><cell>007-014</cell><cell>007-015</cell><cell cols="2">008-004</cell><cell>008-007</cell><cell>008-008</cell><cell>008-009</cell><cell>008-016</cell><cell>009-001 1.00 010-005</cell><cell>011-002</cell><cell>011-007</cell><cell>012-002</cell><cell cols="2">012-005</cell><cell>012-006</cell><cell>013-004</cell><cell>015-003</cell><cell>015-006</cell><cell>015-008</cell><cell>017-001</cell><cell>017-005</cell><cell>018-001</cell><cell>018-004</cell><cell>021-002</cell><cell>024-001</cell><cell>024-003</cell><cell>025-001</cell><cell>025-002</cell><cell>026-002</cell></row><row><cell cols="2">HER2 MET PTEN AKT MSI Sidedness PI3KCA exon 20 Gene fusions* Low % RAS † FIG 1. 0.25 0.50 0.75 PFS (proportion)</cell><cell cols="4">3 No. at risk: 0</cell><cell></cell><cell>6</cell><cell></cell><cell cols="7">9 Time (months) 1 2 15</cell><cell cols="2">18</cell><cell>21</cell><cell>24</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>OS (proportion)</cell><cell>0.25 0.50 0.75</cell><cell cols="4">Left sided Right sided 3 No. at risk: 0</cell><cell cols="10">65.1 (57.9 to 73.2) 50.2 (34.4 to 73.2) 1.71 (0.97 to 2.99) ref 6 9 1 2 Time (months) .062 15 2-year OS rate (95% CI) HR (95% CI) P</cell><cell>18</cell><cell></cell><cell>21</cell><cell>24</cell></row><row><cell></cell><cell></cell><cell cols="2">170</cell><cell cols="2">161</cell><cell></cell><cell></cell><cell></cell><cell>116</cell><cell></cell><cell>82</cell><cell></cell><cell cols="2">60</cell><cell></cell><cell cols="2">39</cell><cell>29</cell><cell>14</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>170</cell><cell></cell><cell cols="2">179</cell><cell></cell><cell cols="2">164</cell><cell cols="2">161</cell><cell cols="2">152</cell><cell></cell><cell>143</cell><cell></cell><cell cols="2">115</cell><cell>90</cell><cell>70</cell></row><row><cell></cell><cell></cell><cell cols="2">29</cell><cell cols="2">24</cell><cell></cell><cell>22</cell><cell></cell><cell>12</cell><cell></cell><cell>9</cell><cell></cell><cell>7</cell><cell></cell><cell></cell><cell cols="2">5</cell><cell>3</cell><cell>1</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>29</cell><cell></cell><cell>29</cell><cell></cell><cell></cell><cell cols="2">26</cell><cell cols="2">22</cell><cell></cell><cell>19</cell><cell></cell><cell>18</cell><cell></cell><cell>16</cell><cell></cell><cell>13</cell><cell>9</cell></row><row><cell>C</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>D</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell></cell><cell>1.00</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell cols="7">Median PFS (95% CI)</cell><cell>HR (95% CI)</cell><cell>P</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>1.00</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell cols="4">PRESSING neg</cell><cell cols="5">12.1 (10.8 to 14.6)</cell><cell></cell><cell>ref</cell><cell cols="2">&lt; .001</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>PFS (proportion)</cell><cell>0.25 0.50 0.75</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell cols="4">PRESSING pos</cell><cell cols="8">7.7 (7.0 to 10.9) 1.90 (1.35 to 2.67)</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>OS (proportion)</cell><cell>0.25 0.50 0.75</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell cols="2">P</cell><cell></cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell cols="6">PRESSING neg</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell cols="2">.021</cell><cell></cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell cols="6">PRESSING pos</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell></cell><cell></cell><cell>0</cell><cell></cell><cell></cell><cell>3</cell><cell></cell><cell>6</cell><cell></cell><cell>9</cell><cell></cell><cell cols="2">12</cell><cell cols="2">15</cell><cell></cell><cell cols="2">18</cell><cell>21</cell><cell>24</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>0</cell><cell></cell><cell>3</cell><cell></cell><cell></cell><cell>6</cell><cell></cell><cell cols="2">9</cell><cell></cell><cell>12</cell><cell></cell><cell>15</cell><cell></cell><cell>18</cell><cell></cell><cell>21</cell><cell>24</cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell cols="7">Time (months)</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell cols="7">Time (months)</cell><cell></cell><cell></cell></row><row><cell></cell><cell></cell><cell cols="4">No. at risk:</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell cols="4">No. at risk:</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell></cell><cell></cell><cell cols="2">150</cell><cell cols="2">143</cell><cell cols="2">134</cell><cell></cell><cell>109</cell><cell></cell><cell>75</cell><cell></cell><cell cols="2">59</cell><cell></cell><cell cols="2">38</cell><cell>27</cell><cell>14</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>150</cell><cell></cell><cell cols="2">150</cell><cell></cell><cell cols="2">144</cell><cell cols="2">139</cell><cell cols="2">132</cell><cell></cell><cell>125</cell><cell></cell><cell cols="2">102</cell><cell>80</cell><cell>63</cell></row><row><cell></cell><cell></cell><cell cols="2">49</cell><cell cols="2">42</cell><cell></cell><cell>35</cell><cell></cell><cell>19</cell><cell></cell><cell>16</cell><cell></cell><cell>8</cell><cell></cell><cell></cell><cell cols="2">6</cell><cell>5</cell><cell>1</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>49</cell><cell></cell><cell>49</cell><cell></cell><cell></cell><cell cols="2">46</cell><cell cols="2">44</cell><cell></cell><cell>39</cell><cell></cell><cell>36</cell><cell></cell><cell>29</cell><cell></cell><cell>23</cell><cell>16</cell></row><row><cell>E</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell cols="2">F</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell></cell><cell cols="2">1.00</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell cols="3">13.2 (11.1 to 15.4)</cell><cell cols="3">ref HR (95% CI)</cell><cell cols="3">&lt; .001 P</cell><cell></cell><cell></cell><cell></cell><cell>1.00</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell cols="3">7.8 (7.0 to 12.9)</cell><cell cols="4">2.01 (1.37 to 2.94)</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>PFS (proportion)</cell><cell cols="2">0.25 0.50 0.75</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell cols="3">8.6 (7.0 to 18.7) 7.7 (2.1 to NA)</cell><cell cols="4">1.40 (0.64 to 3.06) ref</cell><cell cols="2">.399</cell><cell></cell><cell cols="2">OS (proportion)</cell><cell>0.25 0.50 0.75</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell cols="4">69.7 (61.9 to 78.6) 49.9 (35.6 to 69.8)</cell><cell cols="4">1.78 (1.08 to 2.95) ref HR (95% CI)</cell><cell>.0251 P</cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell cols="4">55.6 (36.8 to 84.0)</cell><cell></cell><cell></cell><cell>ref</cell><cell>.786</cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell cols="4">40.9 (18.7 to 89.4)</cell><cell cols="4">1.16 (0.41 to 3.25)</cell></row><row><cell></cell><cell></cell><cell cols="2">0</cell><cell></cell><cell>3</cell><cell></cell><cell>6</cell><cell></cell><cell>9</cell><cell></cell><cell cols="2">1 2</cell><cell cols="2">15</cell><cell></cell><cell cols="2">18</cell><cell>21</cell><cell>24</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>0</cell><cell></cell><cell>3</cell><cell></cell><cell></cell><cell>6</cell><cell></cell><cell>9</cell><cell></cell><cell cols="2">12</cell><cell></cell><cell>15</cell><cell></cell><cell>18</cell><cell></cell><cell>21</cell><cell>24</cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell cols="7">Time (months)</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell cols="7">Time (months)</cell><cell></cell><cell></cell></row><row><cell></cell><cell></cell><cell cols="4">No. at risk:</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell cols="5">No. at risk:</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell></cell><cell></cell><cell cols="2">132</cell><cell cols="2">126</cell><cell cols="2">119</cell><cell></cell><cell>102</cell><cell></cell><cell cols="2">70</cell><cell cols="2">55</cell><cell></cell><cell cols="2">35</cell><cell>25</cell><cell>13</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell cols="2">132</cell><cell></cell><cell>132</cell><cell></cell><cell></cell><cell cols="2">127</cell><cell cols="2">126</cell><cell cols="2">120</cell><cell cols="2">114</cell><cell></cell><cell>92</cell><cell></cell><cell>72</cell><cell>57</cell></row><row><cell></cell><cell></cell><cell cols="2">3 8</cell><cell cols="2">35</cell><cell></cell><cell>2 8</cell><cell></cell><cell>1 4</cell><cell></cell><cell cols="2">1 2</cell><cell>5</cell><cell></cell><cell></cell><cell></cell><cell>4</cell><cell>4</cell><cell>1</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>38</cell><cell></cell><cell>38</cell><cell></cell><cell></cell><cell>37</cell><cell></cell><cell cols="2">35</cell><cell cols="2">32</cell><cell></cell><cell>29</cell><cell></cell><cell>23</cell><cell></cell><cell>18</cell><cell>13</cell></row><row><cell></cell><cell></cell><cell cols="2">1 8</cell><cell cols="2">17</cell><cell></cell><cell>1 5</cell><cell></cell><cell>7</cell><cell></cell><cell>5</cell><cell></cell><cell>4</cell><cell></cell><cell></cell><cell></cell><cell>3</cell><cell>2</cell><cell>1</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>18</cell><cell></cell><cell>18</cell><cell></cell><cell></cell><cell>17</cell><cell></cell><cell cols="2">13</cell><cell cols="2">12</cell><cell></cell><cell>11</cell><cell></cell><cell>10</cell><cell></cell><cell>8</cell><cell>6</cell></row><row><cell></cell><cell></cell><cell cols="2">1 1</cell><cell></cell><cell>7</cell><cell></cell><cell>7</cell><cell></cell><cell>5</cell><cell></cell><cell>4</cell><cell></cell><cell>3</cell><cell></cell><cell></cell><cell></cell><cell>2</cell><cell>1</cell><cell>0</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>1 1</cell><cell></cell><cell>11</cell><cell></cell><cell></cell><cell>9</cell><cell></cell><cell>9</cell><cell></cell><cell></cell><cell>7</cell><cell></cell><cell>7</cell><cell></cell><cell>6</cell><cell></cell><cell>5</cell><cell>3</cell></row></table><note>2-year OS rate (95% CI) 68.1 (60.6 to 76.4) 48.1 (35.4 to 65.5) 1.71 (1.09 to 2.69) ref HR (95% CI)B FIG 2. Prognostic analysis according to tumor sidedness and primary resistance in RAS and BRAF wild-type metastatic colorectal cancer patients treated with anti-EGFR monoclonal antibodies (PRESSING) panel status: Kaplan-Meier curves for (A) progression-free survival (PFS) and (B) overall survival (OS) in patients stratified according to tumor sidedness; (C) PFS and (D) OS according to PRESSING panel status; and (E) PFS and (F) OS according to the combined analysis. HR, hazard ratio; NA, not assessable; ref, reference.</note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_2"><head>TABLE 2 .</head><label>2</label><figDesc>Univariable and Multivariable Cox Proportional Hazard Regression Models for PFS and OS Eastern Cooperative Oncology Group performance status; FU + LV, fluorouracil plus leucovorin; HR, hazard ratio; IQR, interquartile range; MSI, microsatellite instability; MSS, microsatellite stable; OS, overall survival; PFS, progression-free survival; PRESSING, primary resistance in RAS and BRAF wild-type metastatic colorectal cancer patients treated with anti-EGFR monoclonal antibodies.</figDesc><table><row><cell>PFS</cell></row><row><cell>Variable</cell></row></table><note></note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_3"><head>TABLE 3 .</head><label>3</label><figDesc>Predictive Analyses According to Sidedness and PRESSING Panel Status</figDesc><table><row><cell>Interaction</cell><cell>Test</cell><cell>P</cell><cell>.293</cell><cell>.068</cell><cell></cell><cell>.127</cell><cell>.450</cell></row><row><cell>Left-Sided Tumors Right-Sided Tumors</cell><cell>HR HR</cell><cell>Arm A Arm B (95% CI) P Arm A Arm B (95% CI)</cell><cell>7) 7.7 (6.4 to NA) 1.89 (0.82 to 4.37) .135</cell><cell>65.5 (56.0 to 76.7) 64.5 (54.0 to 77.1) 0.84 (0.52 to 1.35) .463 60.2 (39.5 to 91.7) 38.5 (19.3 to 76.5) 2.02 (0.73 to 5.60) .178</cell><cell>PRESSING Negative PRESSING Positive</cell><cell>13.2 (10.6 to 17.8) 11.6 (10.6 to 13.9) 1.24 (0.86 to 1.77) .253 12.9 (7.3 to 14.6) 7.4 (6.4 to 8.8) 1.85 (1.01 to 3.40) .047</cell><cell>70.1 (60.5 to 81.2) 65.5 (54.4 to 79.0) 0.86 (0.51 to 1.46) .588 50.6 (34.0 to 75.4) 47.0 (30.0 to 73.8) 1.26 (0.60 to 2.66) .543</cell></row><row><cell></cell><cell>Survival Data by Sidedness and</cell><cell>PRESSING Panel Status</cell><cell></cell><cell>2-year OS rate, %</cell><cell>PRESSING</cell><cell>Median PFS, months (95% CI)</cell><cell>2-year OS rate, %</cell></row></table><note>P Sidedness Median PFS, months (95% CI) 13.0 (10.8 to 15.4) 10.8 (10.0 to 13.2) 1.30 (0.93 to 1.81) .128 9.9 (6.4 to 22.Abbreviations: HR, hazard ratio; NA, not assessable; OS, overall survival; PFS, progression-free survival; PRESSING, primary resistance in RAS and BRAF wild-type metastatic colorectal cancer patients treated with anti-EGFR monoclonal antibodies.</note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_6"><head></head><label></label><figDesc>Duration of response analysis according to (A) sidedness: right sided and left sided in red and blue, respectively; (B) primary resistance in RAS and BRAF wild-type metastatic colorectal cancer patients treated with anti-EGFR monoclonal antibodies (PRESSING) panel status and (C) combined analysis. IQR, interquartile range; PRESSING, primary resistance in RAS and BRAF wild-type metastatic colorectal cancer patients treated with anti-EGFRmonoclonal antibodies.</figDesc><table><row><cell>Duration A</cell><cell>0.25 0.50 1.00 0.75 0.25 0.50 PFS (proportion) of Response (proportion) 0.75 1.00 A</cell><cell></cell><cell></cell><cell cols="2">MSI high MSS</cell><cell cols="4">Left sided Right sided 4.1 (4.0 to NA) 3.03 (1.24 to 7.42) Median Duration of Response (IQR) 10.7 (6.5-17.8) 6.4 (5.0-12.0) .015 11.1 (10.4 to 13.2) ref Median PFS (95% Cl) HR P</cell><cell>Duration OS (proportion) B B</cell><cell>0.25 0.50 0.75 0.25 0.50 0.75 of Response (proportion) 1.00 1.00</cell><cell>MSS MSI high</cell><cell>11.3 (7.4-18.0) 5.9 (3.2-12.3) P .732 Median Duration of 1.23 (0.38 to 3.92) PRESSING negative PRESSING positive 2-year OS rate (95% Cl) 62.9 (56.0 to 70.6) 60.0 (29.3 to 100) HR ref Response (IQR)</cell></row><row><cell cols="10">Time (months) 15 76 56 39 6 4 3 Left sided and PRESSING negative 18 21 24 13 2 1 Median Duration of 24 9 0 Response (IQR) 11.5 (7.9-18.1) 6.1 (3.2-12.8) 6.7 (5.1-12.6) 5.9 (4.2-11.3) Left sided and PRESSING positive Right sided and PRESSING negative Right sided and PRESSING positive 9 1 2 Time (months) 15 18 21 24 67 49 34 20 12 8 9 7 5 4 1 1 4 3 2 1 1 0 2 1 1 1 0 0 9 1 2 1 5 18 21 24 127 90 66 43 32 15 1 1 1 1 0 0 Time (months) FIG A5. Prognostic analysis according to microsatellite instability (MSI) status: Kaplan-Meier curves for (A) progression-free 126 No. at risk: 118 99 16 16 9 0 3 6 9 1 2 Time (months) 15 18 21 24 113 No. at risk: 110 94 71 52 36 21 13 8 29 24 14 11 8 6 5 1 1 0 3 6 102 No. at risk: 99 87 24 19 12 11 11 7 5 5 2 0.25 0.50 of Response (proportion) 1.00 0.75 No. at risk: 3 6 194 181 168 5 4 1 0 No. at risk: 3 6 9 12 15 18 21 24 194 194 185 180 168 158 128 100 76 5 5 5 3 3 3 3 3 3 Time (months) survival (PFS) and (B) overall survival (OS) in patients stratified according to MSI status. HR, hazard ratio; MSS, microsatellite FIG A4. 0 Duration C stable; NA, not assessable; ref, reference.</cell></row><row><cell></cell><cell>0</cell><cell>3</cell><cell>6</cell><cell>9</cell><cell cols="2">12</cell><cell>15</cell><cell>18</cell><cell>21</cell><cell>24</cell></row><row><cell></cell><cell cols="2">No. at risk:</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell></cell><cell>70</cell><cell>67</cell><cell>66</cell><cell>55</cell><cell cols="2">38</cell><cell>32</cell><cell>22</cell><cell>18</cell><cell>9</cell></row><row><cell></cell><cell>62</cell><cell>59</cell><cell>53</cell><cell>47</cell><cell cols="2">32</cell><cell>23</cell><cell>13</cell><cell>7</cell><cell>4</cell></row><row><cell></cell><cell>1 8</cell><cell>1 6</cell><cell>1 4</cell><cell>9</cell><cell></cell><cell>9</cell><cell>3</cell><cell>3</cell><cell>3</cell><cell>1</cell></row><row><cell></cell><cell>20</cell><cell>19</cell><cell>14</cell><cell>5</cell><cell></cell><cell>3</cell><cell>2</cell><cell></cell></row></table><note></note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_8"><head>TABLE A1 .</head><label>A1</label><figDesc>Incidence of the Singular Molecular Alterations Included in the PRESSING Panel</figDesc><table><row><cell></cell><cell></cell><cell></cell><cell></cell><cell>RAS Adjusted</cell></row><row><cell>No.</cell><cell>Patient ID</cell><cell>Site of the Sample</cell><cell>PRESSING Panel Alterations (% of tumor cells)</cell><cell>MAF</cell></row><row><cell></cell><cell>001-001</cell><cell>M</cell><cell>WT</cell><cell>WT</cell></row><row><cell></cell><cell>001-002</cell><cell>M</cell><cell>WT</cell><cell>WT</cell></row><row><cell></cell><cell>001-003</cell><cell>P</cell><cell>PIK3CA exon 20 mutation: A1035V (32), MSI</cell><cell>WT</cell></row><row><cell></cell><cell>001-004</cell><cell>M</cell><cell>WT</cell><cell>WT</cell></row><row><cell></cell><cell>001-005</cell><cell>P</cell><cell>WT</cell><cell>WT</cell></row><row><cell></cell><cell>001-006</cell><cell>P</cell><cell>MET amplification (100)</cell><cell>WT</cell></row><row><cell></cell><cell>001-007</cell><cell>P</cell><cell>WT</cell><cell>WT</cell></row><row><cell></cell><cell>001-008</cell><cell>P</cell><cell>WT</cell><cell>WT</cell></row><row><cell></cell><cell>001-009</cell><cell>P</cell><cell>WT</cell><cell>WT</cell></row><row><cell></cell><cell>001-011</cell><cell>M</cell><cell>MSI</cell><cell>WT</cell></row><row><cell></cell><cell>001-012</cell><cell>M</cell><cell>WT</cell><cell>WT</cell></row><row><cell></cell><cell>001-013</cell><cell>M</cell><cell>WT</cell><cell>WT</cell></row><row><cell></cell><cell>001-014</cell><cell>M</cell><cell>WT</cell><cell>WT</cell></row><row><cell></cell><cell>001-016</cell><cell>M</cell><cell>AKT1 exon 2 mutation: A50T (16)</cell><cell>WT</cell></row><row><cell></cell><cell>001-017</cell><cell>P</cell><cell>WT</cell><cell>WT</cell></row><row><cell></cell><cell>001-018</cell><cell>P</cell><cell>WT</cell><cell>WT</cell></row><row><cell></cell><cell>001-019</cell><cell>M</cell><cell>WT</cell><cell>WT</cell></row><row><cell></cell><cell>001-020</cell><cell>P</cell><cell>WT</cell><cell>WT</cell></row><row><cell></cell><cell>001-021</cell><cell>P</cell><cell>WT</cell><cell>WT</cell></row><row><cell></cell><cell>001-022</cell><cell>P</cell><cell>WT</cell><cell>WT</cell></row><row><cell></cell><cell>001-023</cell><cell>P</cell><cell>WT</cell><cell>WT</cell></row><row><cell></cell><cell>001-024</cell><cell>P</cell><cell>RET rearrangement (20)</cell><cell>1%</cell></row><row><cell></cell><cell></cell><cell></cell><cell>KRAS exon 2 mutation: G12D</cell><cell></cell></row><row><cell></cell><cell>001-025</cell><cell>P</cell><cell>WT</cell><cell>WT</cell></row><row><cell></cell><cell>001-026</cell><cell>P</cell><cell>WT</cell><cell>WT</cell></row><row><cell></cell><cell>001-028</cell><cell>P</cell><cell>KRAS exon 2 mutation: G12V</cell><cell>10%</cell></row><row><cell></cell><cell>001-029</cell><cell>P</cell><cell>WT</cell><cell>WT</cell></row><row><cell></cell><cell>001-030</cell><cell>M</cell><cell>WT</cell><cell>WT</cell></row><row><cell></cell><cell>001-031</cell><cell>B</cell><cell>KRAS exon 2 mutation: G12D</cell><cell>7%</cell></row><row><cell></cell><cell>001-032</cell><cell>M</cell><cell>WT</cell><cell>WT</cell></row><row><cell></cell><cell>001-033</cell><cell>P</cell><cell>WT</cell><cell>WT</cell></row><row><cell></cell><cell>001-034</cell><cell>M</cell><cell>WT</cell><cell>WT</cell></row><row><cell></cell><cell>001-036</cell><cell>P</cell><cell>PTEN mutation: delP248 exon 7 (25); delT321 exon 8 (29)</cell><cell>WT</cell></row><row><cell></cell><cell></cell><cell></cell><cell>MSI</cell><cell></cell></row><row><cell></cell><cell>001-037</cell><cell>P</cell><cell>WT</cell><cell>WT</cell></row><row><cell></cell><cell>001-038</cell><cell>P</cell><cell>WT</cell><cell>WT</cell></row><row><cell></cell><cell>001-039</cell><cell>P</cell><cell>WT</cell><cell>WT</cell></row><row><cell></cell><cell>001-040</cell><cell>P</cell><cell>PTEN exon 5 mutation: K128N (36)</cell><cell>WT</cell></row><row><cell></cell><cell>001-041</cell><cell>M</cell><cell>WT</cell><cell>WT</cell></row><row><cell></cell><cell>001-043</cell><cell>P</cell><cell>WT</cell><cell>WT</cell></row><row><cell></cell><cell>001-044</cell><cell>M</cell><cell>HER2 amplification</cell><cell>WT</cell></row><row><cell></cell><cell>001-045</cell><cell>P</cell><cell>WT</cell><cell>WT</cell></row><row><cell></cell><cell>001-046</cell><cell>P</cell><cell>WT</cell><cell>WT</cell></row><row><cell></cell><cell></cell><cell></cell><cell>(continued on following page)</cell><cell></cell></row></table><note></note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_9"><head>TABLE A1 .</head><label>A1</label><figDesc>Incidence of the Singular Molecular Alterations Included in the PRESSING Panel (continued)</figDesc><table><row><cell></cell><cell></cell><cell></cell><cell></cell><cell>RAS Adjusted</cell></row><row><cell>No.</cell><cell>Patient ID</cell><cell>Site of the Sample</cell><cell>PRESSING Panel Alterations (% of tumor cells)</cell><cell>MAF</cell></row><row><cell></cell><cell>001-047</cell><cell>P</cell><cell>WT</cell><cell>WT</cell></row><row><cell></cell><cell>001-048</cell><cell>P</cell><cell>WT</cell><cell>WT</cell></row><row><cell></cell><cell>002-001</cell><cell>M</cell><cell>WT</cell><cell>WT</cell></row><row><cell></cell><cell>002-002</cell><cell>B</cell><cell>NRAS exon 3 mutation: Q61R</cell><cell>1%</cell></row></table><note></note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_10"><head>TABLE A1 .</head><label>A1</label><figDesc>Incidence of the Singular Molecular Alterations Included in the PRESSING Panel (continued)</figDesc><table><row><cell>No.</cell><cell>Patient ID</cell><cell>Site of the Sample</cell><cell>PRESSING Panel Alterations (% of tumor cells)</cell></row></table><note></note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_12"><head>TABLE A1 .</head><label>A1</label><figDesc>Incidence of the Singular Molecular Alterations Included in the PRESSING Panel (continued)</figDesc><table><row><cell></cell><cell></cell><cell></cell><cell></cell><cell>RAS Adjusted</cell></row><row><cell>No.</cell><cell>Patient ID</cell><cell>Site of the Sample</cell><cell>PRESSING Panel Alterations (% of tumor cells)</cell><cell>MAF</cell></row><row><cell></cell><cell>011-001</cell><cell>P</cell><cell>WT</cell><cell>WT</cell></row><row><cell></cell><cell>011-002</cell><cell>P</cell><cell>RET rearrangement (50)</cell><cell>WT</cell></row><row><cell></cell><cell>011-003</cell><cell>M</cell><cell>WT</cell><cell>WT</cell></row><row><cell></cell><cell>011-004</cell><cell>P</cell><cell>WT</cell><cell>WT</cell></row><row><cell></cell><cell>011-005</cell><cell>P</cell><cell>WT</cell><cell>WT</cell></row><row><cell></cell><cell>011-006</cell><cell>P</cell><cell>WT</cell><cell>WT</cell></row><row><cell></cell><cell>011-007</cell><cell>P</cell><cell>KRAS exon 2 mutation: G12D</cell><cell>1%</cell></row><row><cell></cell><cell>012-001</cell><cell>P</cell><cell>WT</cell><cell>WT</cell></row><row><cell></cell><cell>012-002</cell><cell>P</cell><cell>RET rearrangement</cell><cell>WT</cell></row><row><cell></cell><cell>012-003</cell><cell>P</cell><cell>WT</cell><cell>WT</cell></row><row><cell></cell><cell>012-004</cell><cell>P</cell><cell>WT</cell><cell>WT</cell></row><row><cell></cell><cell>012-005</cell><cell>P</cell><cell>HER2 amplification</cell><cell>WT</cell></row><row><cell></cell><cell>012-006</cell><cell>P</cell><cell>NRAS exon 2 mutation: G12C</cell><cell>3%</cell></row><row><cell></cell><cell>012-007</cell><cell>P</cell><cell>WT</cell><cell>WT</cell></row><row><cell></cell><cell>012-008</cell><cell>P</cell><cell>WT</cell><cell>WT</cell></row><row><cell></cell><cell>013-001</cell><cell>P</cell><cell>WT</cell><cell>WT</cell></row><row><cell></cell><cell>013-002</cell><cell>M</cell><cell>WT</cell><cell>WT</cell></row><row><cell></cell><cell>013-003</cell><cell>M</cell><cell>WT</cell><cell>WT</cell></row><row><cell></cell><cell>013-004</cell><cell>P</cell><cell>PTEN exon 5 mutation: H118L (30)</cell><cell>WT</cell></row><row><cell></cell><cell>013-005</cell><cell>P</cell><cell>WT</cell><cell>WT</cell></row><row><cell></cell><cell>013-006</cell><cell>P</cell><cell>WT</cell><cell>WT</cell></row><row><cell></cell><cell>013-007</cell><cell>P</cell><cell>WT</cell><cell>WT</cell></row><row><cell></cell><cell>015-002</cell><cell>P</cell><cell>WT</cell><cell>WT</cell></row><row><cell></cell><cell>015-003</cell><cell>P</cell><cell>KRAS exon 2 mutation: G12D</cell><cell>1%</cell></row><row><cell></cell><cell>015-004</cell><cell>M</cell><cell>WT</cell><cell>WT</cell></row><row><cell></cell><cell>015-005</cell><cell>M</cell><cell>WT</cell><cell>WT</cell></row><row><cell></cell><cell>015-006</cell><cell>P</cell><cell>KRAS exon 2 mutation: G13S</cell><cell>1%</cell></row><row><cell></cell><cell>015-007</cell><cell>M</cell><cell>WT</cell><cell>WT</cell></row><row><cell></cell><cell>015-008</cell><cell>P</cell><cell>PIK3CA exon 20 mutation: D1045V (9); H1047R (8)</cell><cell>WT</cell></row><row><cell></cell><cell>016-001</cell><cell>P</cell><cell>WT</cell><cell>WT</cell></row><row><cell></cell><cell>016-002</cell><cell>P</cell><cell>WT</cell><cell>WT</cell></row><row><cell></cell><cell>017-001</cell><cell>P</cell><cell>PTEN mutation: c.635-1G.C atypical RAS mutation L19F</cell><cell>NA</cell></row><row><cell></cell><cell>017-003</cell><cell>P</cell><cell>WT</cell><cell>WT</cell></row><row><cell></cell><cell>017-004</cell><cell>B</cell><cell>WT</cell><cell>WT</cell></row><row><cell></cell><cell>017-005</cell><cell>P</cell><cell>HER2 amplification</cell><cell>WT</cell></row><row><cell></cell><cell>018-001</cell><cell>P</cell><cell>PIK3CA exon 20 mutation: H1047R (21)</cell><cell>WT</cell></row><row><cell></cell><cell>018-003</cell><cell>M</cell><cell>WT</cell><cell>WT</cell></row><row><cell></cell><cell>018-004</cell><cell>P</cell><cell>PIK3CA exon 20 mutation: Q546K (19)</cell><cell>WT</cell></row><row><cell></cell><cell>018-006</cell><cell>P</cell><cell>WT</cell><cell>WT</cell></row><row><cell></cell><cell>019-002</cell><cell>P</cell><cell>WT</cell><cell>WT</cell></row><row><cell></cell><cell>019-003</cell><cell>M</cell><cell>WT</cell><cell>WT</cell></row><row><cell></cell><cell>020-001</cell><cell>P</cell><cell>WT</cell><cell>WT</cell></row><row><cell></cell><cell>020-002</cell><cell>P</cell><cell>WT</cell><cell>WT</cell></row><row><cell></cell><cell></cell><cell></cell><cell>(continued on following page)</cell><cell></cell></row></table><note></note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_13"><head>TABLE A1 .</head><label>A1</label><figDesc>Incidence of the Singular Molecular Alterations Included in the PRESSING Panel (continued)</figDesc><table><row><cell>No.</cell><cell>Patient ID</cell><cell>Site of the Sample</cell><cell>PRESSING Panel Alterations (% of tumor cells)</cell></row></table><note></note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_14"><head>TABLE A2 .</head><label>A2</label><figDesc>Individual Molecular Alterations, Primary Tumor Sidedness and Best RECIST Response to Induction Treatment in the Patients With PRESSING Panel-Positive or Right-Sided Primary Tumors No.</figDesc><table><row><cell>Patient ID</cell><cell>PRESSING Panel Alteration (%)</cell><cell>Primary Tumor Sidedness</cell><cell>Best Response</cell></row><row><cell>001-003</cell><cell>PIK3CA exon 20 mutation: A1035V (32) MSI</cell><cell>Left</cell><cell>SD</cell></row><row><cell>001-004</cell><cell>WT</cell><cell>Right</cell><cell>SD</cell></row><row><cell>001-006</cell><cell>MET amplification (100)</cell><cell>Left</cell><cell>PR</cell></row><row><cell>001-009</cell><cell>WT</cell><cell>Right</cell><cell>SD</cell></row><row><cell>001-011</cell><cell>MSI</cell><cell>Left</cell><cell>SD</cell></row><row><cell>001-016</cell><cell>AKT1 exon 2 mutation: A50T (16)</cell><cell>Right</cell><cell>PR</cell></row><row><cell>001-020</cell><cell>WT</cell><cell>Right</cell><cell>NE</cell></row><row><cell>001-024</cell><cell>RET rearrangement (20%)</cell><cell>Left</cell><cell>PR</cell></row><row><cell></cell><cell>KRAS exon 2 mutation: G12D (1)</cell><cell></cell><cell></cell></row><row><cell>001-028</cell><cell>KRAS exon 2 mutation: G12V (10)</cell><cell>Left</cell><cell>SD</cell></row><row><cell>001-031</cell><cell>KRAS exon 2 mutation: G12D (7)</cell><cell>Left</cell><cell>PR</cell></row><row><cell>001-036</cell><cell>PTEN mutation: delP248 exon 7 (25)</cell><cell>Left</cell><cell>PD</cell></row><row><cell></cell><cell>delT321 exon 8 (29%); MSI</cell><cell></cell><cell></cell></row><row><cell>001-037</cell><cell>WT</cell><cell>Right</cell><cell>CR</cell></row><row><cell>001-040</cell><cell>PTEN exon 5 mutation: K128N (36)</cell><cell>Right</cell><cell>SD</cell></row><row><cell>001-044</cell><cell>HER2 amplification</cell><cell>Left</cell><cell>PR</cell></row><row><cell>002-002</cell><cell>NRAS exon 3 mutation: Q61R (1)</cell><cell>Right</cell><cell>PD</cell></row><row><cell></cell><cell>KRAS exon 2 mutation: G12V (4)</cell><cell></cell><cell></cell></row><row><cell>003-006</cell><cell>HER2 amplification</cell><cell>Left</cell><cell>PR</cell></row><row><cell>004-009</cell><cell>NTRK rearrangement (EML4-NTRK3)</cell><cell>Right</cell><cell>SD</cell></row><row><cell>004-013</cell><cell>PIK3CA exon 20 mutation: H1047L (80)</cell><cell>Left</cell><cell>SD</cell></row><row><cell>004-022</cell><cell>PTEN exon 7 mutation: C250V-fsTer 5 (39)</cell><cell>Left</cell><cell>CR</cell></row><row><cell>004-025</cell><cell>PIK3CA exon 20 mutation: H1047L (38)</cell><cell>Left</cell><cell>PR</cell></row><row><cell>004-027</cell><cell>WT</cell><cell>Right</cell><cell>PR</cell></row><row><cell>005-002</cell><cell>MET amplification (53)</cell><cell>Left</cell><cell>PR</cell></row><row><cell>005-006</cell><cell>MET amplification (83); HER2 amplification</cell><cell>Left</cell><cell>PR</cell></row><row><cell>006-004</cell><cell>KRAS exon 2 mutation: G12S (1)</cell><cell>Left</cell><cell>NE</cell></row><row><cell>007-005</cell><cell>WT</cell><cell>Right</cell><cell>NE</cell></row><row><cell>007-008</cell><cell>MSI</cell><cell>Left</cell><cell>PR</cell></row><row><cell>007-010</cell><cell>PTEN exon 5 mutation: R130G (15)</cell><cell>Left</cell><cell>PR</cell></row><row><cell>007-011</cell><cell>WT</cell><cell>Right</cell><cell>PR</cell></row><row><cell>007-014</cell><cell>HER2 amplification</cell><cell>Left</cell><cell>PR</cell></row><row><cell>007-015</cell><cell>HER2 amplification</cell><cell>Left</cell><cell>PR</cell></row><row><cell>008-002</cell><cell>WT</cell><cell>Right</cell><cell>PD</cell></row><row><cell>008-004</cell><cell>NRAS exon 2 mutation: G13S (3)</cell><cell>Left</cell><cell>SD</cell></row><row><cell>008-006</cell><cell>WT</cell><cell>Right</cell><cell>NE</cell></row><row><cell>008-007</cell><cell>KRAS exon 2 mutation: G12D (1)</cell><cell>Left</cell><cell>PR</cell></row><row><cell>008-008</cell><cell>PIK3CA exon 20 mutation: H1047R (5)</cell><cell>Left</cell><cell>PR</cell></row><row><cell>008-009</cell><cell>PIK3CA exon 20 mutation: H1047R (70)</cell><cell>Left</cell><cell>PR</cell></row><row><cell>008-016</cell><cell>PIK3CA exon 20 mutation: H1047L (30)</cell><cell>Left</cell><cell>SD</cell></row><row><cell>009-001</cell><cell>HER2 amplification</cell><cell>Left</cell><cell>SD</cell></row><row><cell>010-005</cell><cell>HER2 amplification</cell><cell>Left</cell><cell>PR</cell></row><row><cell>011-002</cell><cell>RET rearrangement (50)</cell><cell>Left</cell><cell>SD</cell></row><row><cell></cell><cell>(continued on following page)</cell><cell></cell><cell></cell></row></table><note></note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_15"><head>TABLE A2 .</head><label>A2</label><figDesc>Individual Molecular Alterations, Primary Tumor Sidedness and Best RECIST Response to Induction Treatment in the Patients With PRESSING Panel-Positive or Right-Sided Primary Tumors (continued)</figDesc><table><row><cell>No.</cell><cell>Patient ID</cell><cell>PRESSING Panel Alteration (%)</cell><cell>Primary Tumor Sidedness</cell><cell>Best Response</cell></row><row><cell></cell><cell>011-007</cell><cell>KRAS exon 2 mutation: G12D (1)</cell><cell>Left</cell><cell>PR</cell></row><row><cell></cell><cell>012-001</cell><cell>WT</cell><cell>Right</cell><cell>PR</cell></row><row><cell></cell><cell>012-002</cell><cell>RET rearrangement</cell><cell>Right</cell><cell>PD</cell></row><row><cell></cell><cell>012-005</cell><cell>HER2 amplification</cell><cell>Left</cell><cell>PR</cell></row><row><cell></cell><cell>012-006</cell><cell>NRAS exon 2 mutation: G12C (3)</cell><cell>Left</cell><cell>SD</cell></row><row><cell></cell><cell>013-002</cell><cell>WT</cell><cell>Right</cell><cell>PR</cell></row><row><cell></cell><cell>013-004</cell><cell>PTEN exon 5 mutation: H118L (30)</cell><cell>Right</cell><cell>PR</cell></row><row><cell></cell><cell>0015-003</cell><cell>KRAS exon 2 mutation: G12D (1)</cell><cell>Left</cell><cell>CR</cell></row><row><cell></cell><cell>0015-004</cell><cell>WT</cell><cell>Right</cell><cell>NE</cell></row><row><cell></cell><cell>0015-006</cell><cell>KRAS exon 2 mutation: G13S (1)</cell><cell>Left</cell><cell>SD</cell></row><row><cell></cell><cell>0015-008</cell><cell>PIK3CA exon 20 mutation: D1045V (9)</cell><cell>Left</cell><cell>CR</cell></row><row><cell></cell><cell></cell><cell>H1047R (8)</cell><cell></cell><cell></cell></row><row><cell></cell><cell>0017-001</cell><cell>PTEN mutation: c.635-1G.C</cell><cell>Left</cell><cell>PR</cell></row><row><cell></cell><cell></cell><cell>atypical RAS mutation L19F</cell><cell></cell><cell></cell></row><row><cell></cell><cell>0017-005</cell><cell>HER2 amplification</cell><cell>Right</cell><cell>PR</cell></row><row><cell></cell><cell>0018-001</cell><cell>PIK3CA exon 20 mutation: H1047R (21)</cell><cell>Left</cell><cell>PR</cell></row><row><cell></cell><cell>0018-004</cell><cell>PIK3CA exon 20 mutation: Q546K (19)</cell><cell>Left</cell><cell>PR</cell></row><row><cell></cell><cell>0019-003</cell><cell>WT</cell><cell>Right</cell><cell>PR</cell></row><row><cell></cell><cell>0020-002</cell><cell>WT</cell><cell>Right</cell><cell>PR</cell></row><row><cell></cell><cell>0020-003</cell><cell>WT</cell><cell>Right</cell><cell>PR</cell></row><row><cell></cell><cell>0020-007</cell><cell>WT</cell><cell>Right</cell><cell>PR</cell></row><row><cell></cell><cell>0021-002</cell><cell>ALK rearrangement (50)</cell><cell>Right</cell><cell>PR</cell></row><row><cell></cell><cell>0021-003</cell><cell>WT</cell><cell>Right</cell><cell>PR</cell></row><row><cell></cell><cell>0024-001</cell><cell>PIK3CA exon 20 mutation: H1047R (32)</cell><cell>Left</cell><cell>PD</cell></row></table><note></note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_16"><head>TABLE A4 .</head><label>A4</label><figDesc>Predictive Analyses According to PRESSING Panel Status in Left-Sided Subgroup HR, hazard ratio; OS, overall survival; PFS, progression-free survival; PRESSING, primary resistance in RAS and BRAF wild-type metastatic colorectal cancer patients treated with anti-EGFR monoclonal antibodies.</figDesc><table><row><cell>Interaction</cell><cell>Test P</cell><cell>.281</cell><cell>.682</cell><cell></cell></row><row><cell>Left-Sided Tumors and PRESSING Positive Left-Sided Tumors and PRESSING Negative</cell><cell>Analysis HR P HR P Arm A Arm B Arm A Arm B</cell><cell>1.53 (0.77 to 3.05) .224 1.20 (0.82 to 1.77) .350 10.8 (6.9 to 14.6) 7.5 (6.5 to 10.3) Median PFS, months (95% CI) 14.1 (11.1 to 18.7) 12.5 (10.8 to 15.4)</cell><cell>0.96 (0.42 to 2.23) .929 0.77 (0.43 to 1.37) .367 48.6 (29.8 to 79.3) 51.9 (33.2 to 81.1) 70.5 (60.3 to 82.3) 68.7 (56.9 to 83.0) 2-year OS rate %, (95% CI)</cell><cell>Abbreviations:</cell></row></table><note></note></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot">Prespecified Exploratory Analysis of the Valentino Study Downloaded from ascopubs.org by 93.144.129.194 on January 11, 2020 from 093.144.129.194 Copyright © 2020 American Society of Clinical Oncology. All rights reserved.</note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot">Prespecified Exploratory Analysis of the Valentino Study Downloaded from ascopubs.org by 93.144.129.194 on January 11, 2020 from 093.144.129.194 Copyright © 2020 American Society of Clinical Oncology. All rights reserved.</note>
+		</body>
+		<back>
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>PRIOR PRESENTATION AUTHORS' DISCLOSURES OF POTENTIAL CONFLICTS OF INTEREST</head><p>Negative Hyperselection of Patients With RAS and BRAF Wild-Type Metastatic Colorectal Cancer Who Received Panitumumab-Based Maintenance Therapy</p><p>The following represents disclosure information provided by authors of this manuscript. All relationships are considered compensated. Relationships are self-held unless noted. I = Immediate Family Member, Inst = My Institution. Relationships may not relate to the subject matter of this manuscript. For more information about ASCO's conflict of interest policy, please refer to www.asco.org/rwc or ascopubs.org/jco/site/ifc.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>APPENDIX</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Supplementary Methods</head><p>The primary resistance in RAS and BRAF wild-type metastatic colorectal cancer patients treated with anti-EGFR monoclonal antibodies (PRESSING) panel analysis was performed as previously described. <ref type="bibr" target="#b9">10</ref> Specifically, immunohistochemistry (IHC) for HER2/MET and dualcolor silver in situ hybridization (SISH) for both genes were carried out and scored as described previously <ref type="bibr">(Pietrantonio F</ref> <ref type="table">, et al: Clin Cancer  Res 23: 2412-2422, 2017; Valtorta E, et al: Mod Pathol 28:1481-1491,  2015)</ref>. In detail, IHC was performed on 3-mm formalin-fixed paraffinembedded (FFPE) tissue sections or on WiDr cytoclots. MET protein expression was detected by a rabbit monoclonal anti-MET antibody (dilution 1:200; clone SP44; Spring Bioscience, Pleasanton, CA) directed against the synthetic peptide derived from the C terminus of human MET that displayed membranous and/or cytoplasmic epitope. HER2 expression analysis was performed using the HercepTest antibody (Agilent; Santa Clara, CA) and automatically on the automated Benchmark Ultrasystem (Ventana Medical Systems, Tucson, AZ) using the Ventana 4B5 antibody according to the manufacturers' instructions. Bright-field dual-color SISH analysis was performed on 3mm FFPE tissue sections using the MET DNP Probe (Ventana Medical Systems) along with the Chromosome 7 DIG Probe (Ventana Medical Systems) on a BenchMark Ultra Platform (Ventana Medical Systems) according to the manufacturer's protocol. HER2 amplification analysis by SISH with a Ventana Medical Systems 4B5 Inform HER2 dual color on the BenchMark Ultra system (Inform HER2 DNA dual-color assay; Roche Tissue Diagnostics, Ventana Medical Systems). The scoring and evaluation for in situ hybridization was performed by counting HER2 and CEN17 signals from 100 nuclei per case. Nontumor tissue (normal colon mucosa) was used as an internal negative control. HER2 gene amplification was defined as positive when the HER2/CEP17 ratio was two or greater or the average number of HER2 signals per tumor cell nucleus was more than 6, whereas MET amplification was defined as positive when the MET/CEP7 ratio was two or greater or average number of MET signals per tumor cell nucleus was more than 6.</p><p>IHC for ALK/ROS1/panTRK/RET was carried out as screening method using standard protocols for pan-Trk (including TrkA, TrkB, TrkC; Cell Signaling, Danvers, MA; clone C17F1, 1:25 dilution), ROS1 (Cell Signaling; clone D4D6, 1:500 dilution), ALK (Cell Signaling, Danvers, MA; clone D5F3, 1:500 dilution) and RET (Abcam, Cambridge, United Kingdom; clone EPR2871). In all samples with evidence of IHC staining of any intensity/extension, whole-transcriptome shotgun sequencing (RNA-seq) was performed to confirm the presence of specific rearrangements and to identify the specific fusion partner. <ref type="bibr" target="#b13">14</ref> Mutational analysis was performed on FFPE specimens for each case; these were sliced in 5-mm sections and manually microdissected to isolate the tumor area that carried the highest percentage of neoplastic cells-identified by a pathologist on hematoxylin and eosin. A minimal tumor percentage of 10% was required; the average tumor percentage was 70% (range, 10% to 90%), and no difference of percentages was observed between sensitive and resistant samples. Samples were treated with xylene and 100% ethanol to remove paraffin, and then DNA was isolated using the GeneRead DNA FFPE kit (catalog No. 180134; Qiagen, Hilden, Germany; ). DNA amount and quality were identified using Nano Drop platform and Qbit dsDNA BR kit (Ther-moFisher Scientific, Waltham, MA) according to the manufacturer's instructions. Oncogenic mutations in the hotspot regions of 50 oncogenes and tumor suppressor genes commonly mutated in human cancers (Cancer Hotspot Panel v2, ThermoFisher Scientific: ABL1, AKT1, ALK, APC, ATM, BRAF, CDH1, CDKN2A, CSF1R, CTNNB1, EGFR, ERBB2, ERBB4, EZH2, FBXW7, FGFR1, FGFR2, FGFR3, The BRAF and RAS mutational status was centrally reassessed through targeted next-generation sequencing with deeper coverage to detect low-percentage and atypical RAS mutations. The fractional abundances of BRAF and RAS mutations, called mutant allele fractions (MAFs) were reported. Average sequencing depth was 1,0003, and mutations were defined with a minimum MAF of 3%. MAF was corrected for tumor cellularity, defined as the percentage of tissue sample occupied by tumor cells on the total amount of cells, including stromal microenvironment and inflammatory infiltrate. <ref type="bibr" target="#b11">12</ref> Microsatellite instability status (MSI) analysis was performed after DNA was extracted from each tumor block and amplified via polymerase chain reaction. The MSI status was identified using five quasimonomorphic mononucleotide markers able to provide highly accurate determinations of the tumor MSI status from DNA: BAT-25, BAT-26, NR-21, NR-24, and MONO-27 (MSI Analysis System, version 1.2; Promega, Madison, WI). According to previous evidence, cases with instability at two or more of the five markers were classified as MSI high, whereas samples with instability at one marker and without instability were categorized as MSI low and microsatellite stable, respectively (Smyth EC, et al: JAMA Oncol 3:1197-1203, 2017).  </p></div>			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Fluorouracil, leucovorin, and irinotecan plus cetuximab treatment and RAS mutations in colorectal cancer</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><surname>Van Cutsem</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><forename type="middle">J</forename><surname>Lenz</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><forename type="middle">H</forename><surname>Köhne</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Clin Oncol</title>
+		<imprint>
+			<biblScope unit="volume">33</biblScope>
+			<biblScope unit="page" from="692" to="700" />
+			<date type="published" when="2015" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">ESMO consensus guidelines for the management of patients with metastatic colorectal cancer</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><surname>Van Cutsem</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Cervantes</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><surname>Adam</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ann Oncol</title>
+		<imprint>
+			<biblScope unit="volume">27</biblScope>
+			<biblScope unit="page" from="1386" to="1422" />
+			<date type="published" when="2016" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<monogr>
+		<title level="m" type="main">National Comprehensive Cancer Network: Colon cancer (version 1</title>
+		<ptr target="https://www.nccn.org/professionals/physician_gls/pdf/colon.pdf" />
+		<imprint>
+			<date type="published" when="2019" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Cetuximab plus irinotecan, fluorouracil, and leucovorin as first-line treatment for metastatic colorectal cancer: Updated analysis of overall survival according to tumor KRAS and BRAF mutation status</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><surname>Van Cutsem</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><forename type="middle">H</forename><surname>Köhne</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">I</forename><surname>Láng</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Clin Oncol</title>
+		<imprint>
+			<biblScope unit="volume">29</biblScope>
+			<date type="published" when="2011" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Effect of first-line chemotherapy combined with cetuximab or bevacizumab on overall survival in patients with KRAS wild-type advanced or metastatic colorectal cancer: A randomized clinical trial</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><forename type="middle">P</forename><surname>Venook</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><surname>Niedzwiecki</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><forename type="middle">J</forename><surname>Lenz</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">JAMA</title>
+		<imprint>
+			<biblScope unit="volume">317</biblScope>
+			<biblScope unit="page" from="2392" to="2401" />
+			<date type="published" when="2017" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">FOLFIRI plus cetuximab versus FOLFIRI plus bevacizumab as first-line treatment for patients with metastatic colorectal cancer (FIRE-3): A randomised, open-label, phase 3 trial</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">V</forename><surname>Heinemann</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">L</forename><forename type="middle">F</forename><surname>Von Weikersthal</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Decker</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Lancet Oncol</title>
+		<imprint>
+			<biblScope unit="volume">15</biblScope>
+			<biblScope unit="page" from="1065" to="1075" />
+			<date type="published" when="2014" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Panitumumab-FOLFOX4 treatment and RAS mutations in colorectal cancer</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">Y</forename><surname>Douillard</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><forename type="middle">S</forename><surname>Oliner</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Siena</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">N Engl J Med</title>
+		<imprint>
+			<biblScope unit="volume">369</biblScope>
+			<biblScope unit="page" from="1023" to="1034" />
+			<date type="published" when="2013" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Prognostic and predictive value of primary tumour side in patients with RAS wild-type metastatic colorectal cancer treated with chemotherapy and EGFR directed antibodies in six randomized trials</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><surname>Arnold</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">B</forename><surname>Lueza</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">Y</forename><surname>Douillard</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ann Oncol</title>
+		<imprint>
+			<biblScope unit="volume">28</biblScope>
+			<biblScope unit="page" from="1713" to="1729" />
+			<date type="published" when="2017" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">The relevance of primary tumour location in patients with metastatic colorectal cancer: A meta-analysis of first-line clinical trials</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">W</forename><surname>Holch</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Ricard</forename><forename type="middle">I</forename><surname>Stintzing</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Eur J Cancer</title>
+		<imprint>
+			<biblScope unit="volume">70</biblScope>
+			<biblScope unit="page" from="87" to="98" />
+			<date type="published" when="2017" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Negative hyper-selection of metastatic colorectal cancer patients for anti-EGFR monoclonal antibodies: The PRESSING case-control study</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><surname>Cremolini</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">F</forename><surname>Morano</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><surname>Moretto</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ann Oncol</title>
+		<imprint>
+			<biblScope unit="volume">28</biblScope>
+			<biblScope unit="page" from="3009" to="3014" />
+			<date type="published" when="2017" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Maintenance therapy with panitumumab alone vs panitumumab plus fluorouracil-leucovorin in patients with RAS wildtype metastatic colorectal cancer: A phase 2 randomized clinical trial</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">F</forename><surname>Pietrantonio</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">F</forename><surname>Morano</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Corallo</surname></persName>
+		</author>
+		<idno type="DOI">10.1001/jamaoncol.2019.1467</idno>
+	</analytic>
+	<monogr>
+		<title level="j">JAMA Oncol</title>
+		<imprint>
+			<date type="published" when="2019-07-03" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Analysis of mutant allele fractions in driver genes in colorectal cancer: Biological and clinical insights</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><surname>Dienstmann</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><surname>Elez</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">G</forename><surname>Argiles</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Mol Oncol</title>
+		<imprint>
+			<biblScope unit="volume">11</biblScope>
+			<biblScope unit="page" from="1263" to="1272" />
+			<date type="published" when="2017" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Mutational analysis of patients with colorectal cancer in CALGB/SWOG 80405 identifies new roles of microsatellite instability and tumor mutational burden for patient outcome</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">F</forename><surname>Innocenti</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">F</forename><forename type="middle">S</forename><surname>Ou</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">X</forename><surname>Qu</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Clin Oncol</title>
+		<imprint>
+			<biblScope unit="volume">37</biblScope>
+			<biblScope unit="page" from="1217" to="1227" />
+			<date type="published" when="2019" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">ALK, ROS1, and NTRK rearrangements in metastatic colorectal cancer</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">F</forename><surname>Pietrantonio</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Di</forename><surname>Nicolantonio</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">F</forename><surname>Schrock</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><forename type="middle">B</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Natl Cancer Inst</title>
+		<imprint>
+			<biblScope unit="volume">109</biblScope>
+			<biblScope unit="page">89</biblScope>
+			<date type="published" when="2017" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">RET fusions in a small subset of advanced colorectal cancers at risk of being neglected</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">F</forename><surname>Pietrantonio</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Di</forename><surname>Nicolantonio</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">F</forename><surname>Schrock</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><forename type="middle">B</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ann Oncol</title>
+		<imprint>
+			<biblScope unit="volume">29</biblScope>
+			<biblScope unit="page" from="1394" to="1401" />
+			<date type="published" when="2018" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Dual-targeted therapy with trastuzumab and lapatinib in treatment-refractory, KRAS codon 12/13 wild-type, HER2-positive metastatic colorectal cancer (HERACLES): A proof-of-concept, multicentre, open-label, phase 2 trial</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Sartore-Bianchi</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">L</forename><surname>Trusolino</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><surname>Martino</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Lancet Oncol</title>
+		<imprint>
+			<biblScope unit="volume">17</biblScope>
+			<biblScope unit="page" from="738" to="746" />
+			<date type="published" when="2016" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">The consensus molecular subtypes of colorectal cancer</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Guinney</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><surname>Dienstmann</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">X</forename><surname>Wang</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nat Med</title>
+		<imprint>
+			<biblScope unit="volume">21</biblScope>
+			<biblScope unit="page" from="1350" to="1356" />
+			<date type="published" when="2015" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Validation of miR-31-3p expression to predict cetuximab efficacy when used as first-line treatment in RAS wildtype metastatic colorectal cancer</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><surname>Laurent-Puig</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">L</forename><surname>Grisoni</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">V</forename><surname>Heinemann</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Clin Cancer Res</title>
+		<imprint>
+			<biblScope unit="volume">25</biblScope>
+			<biblScope unit="page" from="134" to="141" />
+			<date type="published" when="2019" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">Impact of consensus molecular subtype on survival in patients with metastatic colorectal cancer: Results from CALGB/ SWOG 80405 (alliance)</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H-J</forename><surname>Lenz</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">F-S</forename><surname>Ou</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><forename type="middle">P</forename><surname>Venook</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Clin Oncol</title>
+		<imprint>
+			<biblScope unit="volume">37</biblScope>
+			<biblScope unit="page" from="1876" to="1885" />
+			<date type="published" when="2019" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">Prognostic and predictive relevance of primary tumor location in patients with RAS wild-type metastatic colorectal cancer: Retrospective analyses of the CRYSTAL and FIRE-3 trials</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Tejpar</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Stintzing</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">F</forename><surname>Ciardiello</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">JAMA Oncol</title>
+		<imprint>
+			<biblScope unit="volume">3</biblScope>
+			<biblScope unit="page" from="194" to="201" />
+			<date type="published" when="2017" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">Efficacy and tolerability of first-line cetuximab plus leucovorin, fluorouracil, and oxaliplatin (FOLFOX-4) versus FOLFOX-4 in patients with RAS wild-type metastatic colorectal cancer: The open-label, randomized, phase III TAILOR trial</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Qin</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Li</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">L</forename><surname>Wang</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Clin Oncol</title>
+		<imprint>
+			<biblScope unit="volume">36</biblScope>
+			<biblScope unit="page" from="3031" to="3039" />
+			<date type="published" when="2018" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">Prognostic survival associated with left-sided vs right-sided colon cancer: A systematic review and meta-analysis</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">F</forename><surname>Petrelli</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">G</forename><surname>Tomasello</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><surname>Borgonovo</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">JAMA Oncol</title>
+		<imprint>
+			<biblScope unit="volume">3</biblScope>
+			<biblScope unit="page" from="211" to="219" />
+			<date type="published" when="2017" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">Effects of KRAS, BRAF, NRAS, and PIK3CA mutations on the efficacy of cetuximab plus chemotherapy in chemotherapy-refractory metastatic colorectal cancer: A retrospective consortium analysis</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">W</forename><surname>De Roock</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">B</forename><surname>Claes</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><surname>Bernasconi</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Lancet Oncol</title>
+		<imprint>
+			<biblScope unit="volume">11</biblScope>
+			<biblScope unit="page" from="753" to="762" />
+			<date type="published" when="2010" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title level="a" type="main">Activation of ERBB2 signaling causes resistance to the EGFR-directed therapeutic antibody cetuximab</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><surname>Yonesaka</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><surname>Zejnullahu</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">I</forename><surname>Okamoto</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Sci Transl Med</title>
+		<imprint>
+			<biblScope unit="volume">3</biblScope>
+			<biblScope unit="page" from="99" to="86" />
+			<date type="published" when="2011" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title level="a" type="main">Amplification of the MET receptor drives resistance to anti-EGFR therapies in colorectal cancer</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Bardelli</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Corso</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Bertotti</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Cancer Discov</title>
+		<imprint>
+			<biblScope unit="volume">3</biblScope>
+			<biblScope unit="page" from="658" to="673" />
+			<date type="published" when="2013" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title level="a" type="main">PI3KCA/PTEN deregulation contributes to impaired responses to cetuximab in metastatic colorectal cancer patients</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">F</forename><surname>Perrone</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Lampis</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Orsenigo</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ann Oncol</title>
+		<imprint>
+			<biblScope unit="volume">20</biblScope>
+			<biblScope unit="page" from="84" to="90" />
+			<date type="published" when="2009" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title level="a" type="main">Loss of PTEN expression predicts resistance to EGFR-targeted monoclonal antibodies in patients with metastatic colorectal cancer</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><surname>Mao</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><forename type="middle">Y</forename><surname>Liao</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Q</forename><surname>Chen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Br J Cancer</title>
+		<imprint>
+			<biblScope unit="volume">102</biblScope>
+			<date type="published" when="2010" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+		<title level="a" type="main">Nivolumab in patients with metastatic DNA mismatch repair-deficient or microsatellite instability-high colorectal cancer (CheckMate 142): An open-label, multicentre, phase 2 study</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">J</forename><surname>Overman</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><surname>Mcdermott</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">L</forename><surname>Leach</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Lancet Oncol</title>
+		<imprint>
+			<biblScope unit="volume">18</biblScope>
+			<biblScope unit="page" from="1182" to="1191" />
+			<date type="published" when="2017" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<analytic>
+		<title level="a" type="main">Durable clinical benefit with nivolumab plus ipilimumab in DNA mismatch repair-deficient/microsatellite instabilityhigh metastatic colorectal cancer</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">J</forename><surname>Overman</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Lonardi</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Kym</forename><surname>Wong</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Clin Oncol</title>
+		<imprint>
+			<biblScope unit="volume">36</biblScope>
+			<biblScope unit="page" from="773" to="779" />
+			<date type="published" when="2018" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<monogr>
+		<title level="m" type="main">Circulating tumor DNA analysis in colorectal cancer: From dream to reality</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><surname>Antoniotti</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">F</forename><surname>Pietrantonio</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Corallo</surname></persName>
+		</author>
+		<idno type="DOI">http://ascopubs.org/doi/full/10.1200/PO.18.00397</idno>
+		<imprint/>
+	</monogr>
+	<note type="report_type">JCO Precis Oncol</note>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<analytic>
+		<title level="a" type="main">Acquired RAS or EGFR mutations and duration of response to EGFR blockade in colorectal cancer</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">B</forename><forename type="middle">O</forename><surname>Van Emburgh</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Arena</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">G</forename><surname>Siravegna</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nat Commun</title>
+		<imprint>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="page">13665</biblScope>
+			<date type="published" when="2016" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

@@ -1,0 +1,650 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /data/rsg/nlp/juanmoo1/bin/grobid-0.6.1/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Survival Analysis in Patients with Metastatic Merkel Cell Carcinoma Treated with Avelumab</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+				<date type="published" when="2019-07-26">July 26, 2019</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author role="corresp">
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Tereza</forename><forename type="middle">Irina</forename><surname>Lanitis</surname></persName>
+							<email>tereza.lanitis@evidera.com</email>
+							<idno type="ORCID">0000-0002-8209-8843</idno>
+							<affiliation key="aff0">
+								<orgName type="institution">ICON plc company</orgName>
+								<address>
+									<settlement>Munich</settlement>
+									<country key="DE">Germany</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Proskorovsky</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="institution">ICON plc company</orgName>
+								<address>
+									<settlement>Munich</settlement>
+									<country key="DE">Germany</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Ambavane</forename><surname>Apoorva</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="institution">ICON plc company</orgName>
+								<address>
+									<settlement>Munich</settlement>
+									<country key="DE">Germany</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Hunger</forename><surname>Matthias</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="institution">ICON plc company</orgName>
+								<address>
+									<settlement>Munich</settlement>
+									<country key="DE">Germany</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Zheng</forename><surname>Ying</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="institution">ICON plc company</orgName>
+								<address>
+									<settlement>Munich</settlement>
+									<country key="DE">Germany</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Bharmal</forename><forename type="middle">Hemant</forename><surname>Murtuza</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="institution">ICON plc company</orgName>
+								<address>
+									<settlement>Munich</settlement>
+									<country key="DE">Germany</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Phatak</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="institution">ICON plc company</orgName>
+								<address>
+									<settlement>Munich</settlement>
+									<country key="DE">Germany</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">I</forename><forename type="middle">Proskorovsky</forename><surname>Evidera</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="institution">EMD Serono Inc</orgName>
+								<address>
+									<settlement>Rockland</settlement>
+									<region>MA</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><roleName>QC</roleName><forename type="first">Canada</forename><forename type="middle">M</forename><surname>Montreal</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="institution">EMD Serono Inc</orgName>
+								<address>
+									<settlement>Rockland</settlement>
+									<region>MA</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Hunger Mapi</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="institution">EMD Serono Inc</orgName>
+								<address>
+									<settlement>Rockland</settlement>
+									<region>MA</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Y</forename><surname>Zheng</surname></persName>
+							<affiliation key="aff2">
+								<orgName type="institution">EMD Serono Inc</orgName>
+								<address>
+									<settlement>Rockland</settlement>
+									<region>MA</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Á</forename><forename type="middle">H</forename><surname>Phatak</surname></persName>
+							<affiliation key="aff2">
+								<orgName type="institution">EMD Serono Inc</orgName>
+								<address>
+									<settlement>Rockland</settlement>
+									<region>MA</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Bharmal</surname></persName>
+							<affiliation key="aff3">
+								<orgName type="institution">Merck KGaA</orgName>
+								<address>
+									<settlement>Darmstadt</settlement>
+									<country key="DE">Germany</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Merck</forename><surname>Kgaa</surname></persName>
+							<affiliation key="aff3">
+								<orgName type="institution">Merck KGaA</orgName>
+								<address>
+									<settlement>Darmstadt</settlement>
+									<country key="DE">Germany</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Darmstadt</surname></persName>
+							<affiliation key="aff3">
+								<orgName type="institution">Merck KGaA</orgName>
+								<address>
+									<settlement>Darmstadt</settlement>
+									<country key="DE">Germany</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Germany</surname></persName>
+							<affiliation key="aff3">
+								<orgName type="institution">Merck KGaA</orgName>
+								<address>
+									<settlement>Darmstadt</settlement>
+									<country key="DE">Germany</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Survival Analysis in Patients with Metastatic Merkel Cell Carcinoma Treated with Avelumab</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date type="published" when="2019-07-26">July 26, 2019</date>
+						</imprint>
+					</monogr>
+					<idno type="DOI">10.1007/s12325-019-01034-0</idno>
+					<note type="submission">Received: May 20, 2019</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.6.1" ident="GROBID" when="2020-10-09T18:38+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>Avelumab</term>
+					<term>Extrapolation</term>
+					<term>Immunooncology</term>
+					<term>Landmark analyses</term>
+					<term>Merkel cell carcinoma</term>
+					<term>Overall survival</term>
+					<term>Post-progression survival</term>
+					<term>Standard parametric analysis</term>
+				</keywords>
+			</textClass>
+			<abstract>
+				<p>Introduction: Complex underlying risk functions associated with immuno-oncology treatments have led to exploration of different methods (parametric survival, spline, landmark, and cure-fraction models) to estimate long-term survival outcomes. The objective of this study was to examine differences in estimated shortand long-term survival in previously treated metastatic Merkel cell carcinoma (mMCC) patients receiving avelumab, when using alternative extrapolation approaches. Methods: Efficacy data from the phase 2 JAVELIN Merkel 200 trial (part A) with at least 12 months of follow-up were analyzed. Standard parametric survival analyses and analyses of overall survival (OS) as a function of surrogate outcomes comprised of response (landmark analyses) and progression-free survival plus post-progression survival (PFS ? PPS) were used to project OS. Overall survival throughout lifetime was projected and compared with the observed OS data with at least 24 months of follow-up. Results: Estimated OS from all three approaches provided a good fit to the observed OS curve from at least 12 months of follow-up. However, performance compared with OS data from at least 24 months showed that the landmark approach followed by PFS ? PPS provided a better fit to the data as compared to standard parametric analysis. Mean life expectancy estimated with avelumab was 2.48 years with bestfitting parametric function (a log-normal distribution), 3.15 years with the landmark approach, and 3.54 years with PFS ? PPS. Conclusion: Although standard parametric survival analysis may provide a good fit to short-term survival, it appears to underestimate the long-term survival benefits associated with avelumab in mMCC. Extrapolations based on surrogate outcomes of response or progression predict OS outcomes from longer follow-up better and appear to provide more clinically plausible projections.</p>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>INTRODUCTION</head><p>Determining the long-term survival associated with a new intervention is an essential component of the health economic evaluation of oncology treatments to understand whether material differences in costs and health outcomes may be produced by new treatments and determine cost-effectiveness <ref type="bibr" target="#b0">[1]</ref><ref type="bibr" target="#b1">[2]</ref><ref type="bibr" target="#b2">[3]</ref>. Data on long-term survival are typically absent when marketing authorization or reimbursement is sought, as the outcome of interest is rarely observed for all individuals in clinical trials as a result of censoring <ref type="bibr" target="#b3">[4,</ref><ref type="bibr" target="#b4">5]</ref>. This challenge becomes even more prominent when a new therapy is investigated for use in rare tumors where small patient populations that limit the speed and sample of clinical trial enrollment <ref type="bibr" target="#b5">[6]</ref> can lead to even more limited data on survival.</p><p>Survival analysis and extrapolation of survival curves (progression-free survival [PFS] and overall survival [OS]) using parametric models has been the dominant approach used to project long-term survival outcomes of oncology treatments. A systematic review of technology appraisals (TAs) submitted to the National Institute for Health and Care Excellence (NICE), completed by December 2009, reported that 71% of TAs for advanced or metastatic cancer used standard parametric models to obtain estimates of long-term survival <ref type="bibr" target="#b3">[4]</ref>.</p><p>In recent years this trend appears to be shifting <ref type="bibr" target="#b6">[7]</ref><ref type="bibr" target="#b7">[8]</ref><ref type="bibr" target="#b8">[9]</ref>, likely because of an increasing number of oncology therapies with novel mechanisms of action receiving regulatory approvals based on short-term data and/or surrogate endpoints <ref type="bibr" target="#b9">[10,</ref><ref type="bibr" target="#b10">11]</ref>. Specifically, the novel patterns of response observed with immunooncology (IO) treatments, including durable response for a fraction of patients and a plateau in survival curves <ref type="bibr" target="#b11">[12]</ref><ref type="bibr" target="#b12">[13]</ref><ref type="bibr" target="#b13">[14]</ref>, have led to ''unconventional'' survival curves, inadequately captured with standard parametric approaches <ref type="bibr" target="#b6">[7]</ref><ref type="bibr" target="#b7">[8]</ref><ref type="bibr" target="#b8">[9]</ref><ref type="bibr" target="#b14">[15]</ref><ref type="bibr" target="#b15">[16]</ref><ref type="bibr" target="#b16">[17]</ref><ref type="bibr" target="#b19">[18]</ref>.</p><p>This has led researchers to explore the use of more flexible approaches to ensure accurate estimation of clinical value to inform reimbursement decisions and consequently timely patient access to treatment <ref type="bibr" target="#b14">[15]</ref><ref type="bibr" target="#b15">[16]</ref><ref type="bibr" target="#b16">[17]</ref><ref type="bibr" target="#b19">[18]</ref><ref type="bibr" target="#b20">[19]</ref><ref type="bibr">[20]</ref>. More flexible statistical techniques such as piecewise fits have been proposed to enhance fit by separating the time-axis into different time intervals <ref type="bibr" target="#b14">[15]</ref><ref type="bibr" target="#b15">[16]</ref><ref type="bibr" target="#b16">[17]</ref><ref type="bibr" target="#b19">[18]</ref>. Such approaches allow model parameters to change in different periods, which can aid in fitting the observed pattern more closely. However, the shape of the long-term projection may remain implausible <ref type="bibr" target="#b20">[19,</ref><ref type="bibr">20]</ref>.</p><p>Alternative modeling methods rely on capturing the heterogeneity between patients by using response (landmark analysis) and progression as surrogate outcomes (PFS ? postprogression survival [PPS] approach) or modeling cured vs. non-cured patients (cure fraction models) <ref type="bibr" target="#b14">[15]</ref><ref type="bibr" target="#b15">[16]</ref><ref type="bibr" target="#b16">[17]</ref><ref type="bibr" target="#b19">[18]</ref><ref type="bibr" target="#b20">[19]</ref><ref type="bibr">[20]</ref>. In landmark analyses, the population is stratified by response status at an appropriate time point (i.e., the landmark) following initiation of treatment. Survival is then modeled separately for responders and non-responders. The OS curve is reconstructed by combining aggregated estimates of survival beyond the landmark, with survival estimates prior to the landmark <ref type="bibr" target="#b19">[18]</ref><ref type="bibr" target="#b20">[19]</ref><ref type="bibr">[20]</ref>. Though this approach may provide an improved fit by capturing alternative survival patterns in the landmark groups, fitting survival in these groups may be challenging. This is particularly true when a small subset of patients respond/do not respond or where sustained remission is observed for responders <ref type="bibr" target="#b20">[19,</ref><ref type="bibr">20]</ref>. One alternative involves modeling OS as the sum of PFS and PPS, under the assumption that patients who progress may be at a greater risk of death, thus making PPS easier to fit. To reconstruct the OS curves, projections are required for PFS and PPS. The OS curve is then estimated by applying PPS to progressed patients with PFS informing survival among non-progressed patients. Whilst this approach may improve fit by capturing alternative survival patterns by progression status, PFS may be difficult to project, particularly among patients receiving IO therapy, where long-term remission may manifest as a plateau in the curve <ref type="bibr" target="#b20">[19,</ref><ref type="bibr">20]</ref>. In this instance assumptions would be necessary to inform long-term survival among patients who do not progress.</p><p>Despite the methodological discussions of alternative OS extrapolation approaches for IO therapies, there are a limited number of studies that have systematically evaluated the shortterm and long-term performance of these methods, especially in rare tumor types. The aims of this study were therefore to contribute to the evidence base by evaluating various survival analysis approaches for estimation of longterm OS in patients with a rare immunogenic tumor treated with an IO therapy.</p><p>The case of avelumab, a human monoclonal antibody approved for treatment of metastatic Merkel cell carcinoma (mMCC) <ref type="bibr">[21,</ref><ref type="bibr">22]</ref>, represents a suitable case study to highlight the challenges associated with extrapolating outcomes with IO treatments. The initial approval for avelumab was based on a clinically meaningful and durable overall response rate (ORR) at a minimum of 12-month follow-up <ref type="bibr">[21]</ref>. In addition, clinical trial data suggests heterogeneity in patient outcomes similarly to patterns observed with IOs in other indications <ref type="bibr" target="#b6">[7]</ref><ref type="bibr" target="#b7">[8]</ref><ref type="bibr" target="#b8">[9]</ref>; 33% of patients showed durable antitumor response and changing hazards over time for PFS <ref type="bibr">[22,</ref><ref type="bibr">23]</ref>, whilst OS data were immature to observe any plateaus. The requirement for accurate estimation of survival outcomes for avelumab in mMCC is heightened by lack of treatment options in this rare and aggressive cancer [24] and highly encouraging clinical trial results for avelumab <ref type="bibr">[22,</ref><ref type="bibr">23]</ref>, necessitating timely patient access based on an assessment of long-term survival potential. Until March 2017, there were no US Food and Drug Administration (FDA)-approved treatments for patients with MCC with treatment primarily limited to cytotoxic chemotherapy or investigational therapies associated with short-lived response with a median OS of 10.2 months after first-line treatment and 4.4 months after second-line treatment or later <ref type="bibr">[24]</ref>.</p><p>As such, the objectives of this study were to evaluate the predictive ability and clinical plausibility of various survival modeling approaches for estimation of both the short-term and long-term OS in previously treated patients with mMCC who were receiving avelumab treatment.  <ref type="bibr" target="#b19">[18,</ref><ref type="bibr">20,</ref><ref type="bibr">25,</ref><ref type="bibr">26</ref>], this was not considered because OS data were not sufficiently mature to apply this method. Similarly, as the study focused on exploring alternatives to standard parametric analysis based on surrogate outcomes, piecewise fits and spline-based OS projections were not examined.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>METHODS</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Standard Parametric Survival Analysis</head><p>Standard parametric survival analyses consisted of fitting exponential, Weibull, log-normal, loglogistic, generalized gamma, and Gompertz to the observed OS data. The best-fitting distribution was then selected using visual assessment of fit, goodness-of-fit statistics (i.e., Akaike information criterion [AIC]/Bayesian information criterion [BIC]), diagnostic plots (i.e., log cumulative hazard and parametric plots), and clinical plausibility of long-term OS projections <ref type="bibr" target="#b4">[5,</ref><ref type="bibr">27]</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Response-Based Landmark Approach</head><p>As the first step, a time point that would maximize the number of patients who achieve response while minimizing the number of patients who died or were censored prior to the landmark time point was selected. Median time to response was 42.7 days (range 42-252 days), with 75.9% of responses observed by 42 days <ref type="bibr">[22]</ref>. Using a landmark point of 47 days, which would maximize follow-up for responders and non-responders, identified 20 patients with objective response, whilst using a landmark point of 89 days identified 27 (out of 29) patients achieving objective response. The remaining two patients who responded to treatment achieved this at 127 and 253 days <ref type="bibr">[22]</ref>. Therefore, to maximize the number of patients who achieved response, whilst maximizing follow-up, the landmark time point of 89 days was chosen. After the landmark time point was selected, patients were stratified by objective response (i.e., patients with objective response vs. patients with no objective response). At the landmark point, 27 patients had achieved response with avelumab and 48 patients had not achieved response.</p><p>For patients who did not achieve response by the landmark time point, parametric survival analyses were used to project OS from landmark, similarly to the approach outlined above. However, there were very limited OS data available for patients with objective response to extrapolate survival using parametric fits (i.e., only 3 out of 27 patients with response died after the landmark point of 89 days, following disease progression). As the feasibility of parametric survival analysis is driven by the number of events, the observed data were considered too limited to reliably attempt distribution fitting. To aid in the decision-making process, observed Kaplan-Meier (KM) estimates with at least 18 months of follow-up [28, 29] which became available during the study were consulted. The data indicated a flattening of the OS curve among responders, which could not be adequately captured using parametric survival analysis. Therefore, the OS patterns in patients who respond to treatment were assumed to follow mortality patterns in the US general population [30] (assuming an average age at enrollment of 70 years [31] and that 74% [23] of patients were male). Use of general population mortality estimates without adjustment would have resulted in higher survival estimates as compared to the observed estimates. Thus, a hazard ratio (HR) was applied to general population mortality rates, calibrated to a value of 4.5 to match the observed KM OS curves for patients with response, based on a graphical assessment of the fit.</p><p>Estimates of OS beyond the landmark for responders and non-responders were combined using the proportion of patients with/without response at the landmark point. The full OS curve was reconstructed using mortality estimates prior to the landmark. Combined OS estimates beyond the landmark were multiplied by the proportion of patients alive at the landmark.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>PFS 1 PPS Approach</head><p>A third approach used progression as a surrogate endpoint for OS <ref type="bibr" target="#b20">[19,</ref><ref type="bibr">20]</ref>. Spline models and parametric distributions were fitted to project the time to progression (TTP) and PFS whilst standard parametric survival analysis was used to project PPS. OS was then estimated as a function of incident progression, PFS, and PPS. Incident progression was determined by applying risks of progression (derived from the TTP curves) to the proportion of patients that were alive and progression-free (i.e., PFS). The OS curve was reconstructed by applying PPS to progressed patients with PFS informing survival among non-progressed patients.</p><p>Nonetheless, as the PFS curve was characterized by a ''plateau'', use of PFS projections to determine the proportion of patients who were alive and progression-free in the long-term was considered inappropriate. From the events informing the PFS curve, eight were deaths observed in the first 4 months of follow-up, adjudicated to be attributed to progression, with the remaining being progression events. After 4 months of trial follow-up, the PFS and TTP curves converged, as both curves were informed by progression events. Consequently, use of projected PFS curves would have resulted in higher life expectancy estimates versus the general population. To correct for this, the risk of pre-progression death beyond the first 4 months of the follow-up was assumed to be equivalent to the risk of death in the general population in the United <ref type="bibr">States [30]</ref>. This assumption incorporated risk of mortality in the patient population that was not projected to experience disease progression based on the plateau observed in the TTP curve.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Model Validation and Clinical Plausibility</head><p>The predicted OS from each method was used to calculate average life expectancy (assuming a time horizon of 30 years given that the average age of the population at trial enrollment was 70 years) [31] and the proportion of patients alive at 2, 3, 5, and 10 years. Both deterministic and probabilistic estimates, considering parameter uncertainty were computed (see ''Probabilistic analysis'' in the Electronic Supplementary Material, ESM). Best modeling practices for transparency and validation were utilized to determine goodness of fit for OS and clinical plausibility <ref type="bibr">[32]</ref>. Technical validity was assessed by a graphical assessment of fits of predicted OS vs. data with a minimum followup of 12 months. Diagnostic plots and diagnostic statistics (AIC and BIC) were evaluated for each fit. For each method, predictive validity was assessed by comparing estimated OS vs. observed OS data with a minimum follow-up of 24 months <ref type="bibr">[33]</ref>, which became available after the analyses had been completed. Clinical plausibility (or face validity) of long-term projections was assessed by a practicing MCC oncologist, prior to data with at least 24 months follow-up becoming available. Data with at least 18 months of follow-up were available during the assessment of clinical plausibility.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>RESULTS</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Standard Parametric Survival Analysis</head><p>Among candidate parametric distributions, based on fit statistics (i.e., AIC/BIC), diagnostic plots, and clinical plausibility of long-term projection, the log-normal distribution provided the best fit to the observed trial data (see <ref type="figure">Fig. 1</ref>, ESM <ref type="table" target="#tab_1">Table 1</ref>). Visual comparison of observed and predicted OS from at least 12 months of follow-up data suggested that the log-normal model provided a good fit to the data over the observed trial follow-up <ref type="figure">(Fig. 1)</ref>.</p><p>The estimated mean OS from log-normal model was 2.48 years.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Response-Based Landmark Approach</head><p>Patients Who Did Not Achieve Response The log-normal distribution was selected as the best-fitting distribution on the basis of the fit statistics (AIC/BIC), graphical assessment of fit, and plausibility of the long-term projections.</p><p>The estimated mean OS (beyond the landmark point) from the log-normal model for patients who did not achieve response was 1.2 years ( <ref type="figure">Fig. 2a</ref>) (see ESM <ref type="table">Table 2</ref>).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Patients Who Achieved Response</head><p>As a result of limited OS data available for patients who achieved response with avelumab, estimation of OS had to be based on assumptions, with an HR of 4.5 calibrated and applied to US general population mortality estimates <ref type="figure">(Fig. 2b)</ref>. Under this scenario, the mean estimated OS in patients who achieved response (after the landmark point) was 7.53 years.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Combined Estimates</head><p>The observed OS data prior to landmark and estimated OS from landmark for patients who achieved response and patients who did not achieve response were combined. The predicted OS was slightly underestimated between 6 and 15 months; however, the observed tail of OS was captured well <ref type="figure">(Fig. 2c)</ref>. The projected mean OS with this approach was 3.15 years.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>PFS 1 PPS Approach</head><p>The observed PFS and TTP outcomes exhibited standard behavior observed with IO treatments across many tumor types (i.e., a sharp decline in the first few months but then stabilization and plateau over the long-term follow-up) <ref type="bibr" target="#b13">[14,</ref><ref type="bibr" target="#b14">15]</ref>. None of the parametric functions provided a good fit to the observed PFS and TTP curves (see ESM <ref type="figure">Figs. 1 and 2</ref>, <ref type="table">Tables 4 and 5)</ref>. Spline-based models with four knots were selected and provided a good fit to the observed PFS and TTP <ref type="figure">(Fig. 3a)</ref>. The TTP and PFS curves converged after approximately 4 months and the risk of progression declined with eventual plateau of the curves, which implies that approximately 11% of patients do not progress. Using the risk of progression based on TTP and pre-progression mortality based on US life tables, we estimated the mean PFS to be 2.9 years.</p><p>Results from parametric fitting of PPS suggested that the log-normal distribution provided the best fit <ref type="figure">(Fig. 3b</ref>) (see ESM <ref type="table">Table 3</ref>). The mean PPS was estimated to be 0.78 years (9.3 months). The estimated OS from the PFS ? PPS approach replicated observed OS from 12 or more months of follow-up data very closely <ref type="figure">(Fig. 3c)</ref>. The mean OS using this approach was estimated to be 3.54 years.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Comparison of Approaches</head><p>The projected OS rates at different time points are shown in <ref type="table" target="#tab_1">Table 1</ref>. The 3-year OS rate was 22% for the standard parametric survival approach, 30% for the response-based approach, and 26% for the PFS ? PPS approach.</p><p>The 10-year OS rate was 5% for the standard parametric survival approach and 11% for both the response-based and PFS ? PPS approaches. Average life expectancy estimated with avelumab and 95% percentiles from the probabilistic analysis was 2.48 (1.58-3.75) years with a lognormal distribution, 3.15 (2.34-4.17) years with the landmark approach, and 3.54 (2.43-5.16) years with the PFS ? PPS approach (see ESM <ref type="figure">Figs. 3-5</ref>). Mean estimates from the probabilistic analyses were similar to deterministic estimates; however, the credible intervals between the approaches overlapped because of the parameter uncertainty associated with projections based on a limited sample. <ref type="figure">Figure 4</ref> displays the projected OS curves for avelumab among previously treated mMCC patients using a standard parametric approach, a response-based approach, and a PFS ? PPS approach compared with observed data from a minimum follow-up of 24 months. Over the observed at least 12 months of follow-up of the trial used to estimate OS, all three approaches provided a good fit to the observed OS <ref type="figure">(Figs. 1,  2c, 3c</ref>). Standard parametric analysis and PFS ? PPS provided a better fit between 6 and 15 months, with the landmark approach slightly underestimating OS in the same interval. However, compared with the observed data <ref type="figure">Fig. 1</ref> Projected OS using standard parametric survival analysis with at least 24 months of follow-up, the landmark approach appeared to capture the tail of the OS curve better compared to the standard parametric and PFS ? PPS approaches. Longterm projections varied substantially, and the log-normal model that was applied directly to the observed OS data provided the most conservative estimates. At the time of the analysis, these results were reviewed by a practicing oncologist who suggested that the PFS ? PPS method represented the more plausible clinical approach to estimating OS.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>DISCUSSION</head><p>Several modeling methods have been suggested to extrapolate short-term clinical outcomes associated with IO therapies; however, there is no specific consensus on the appropriate choice of method <ref type="bibr" target="#b14">[15]</ref><ref type="bibr" target="#b15">[16]</ref><ref type="bibr" target="#b16">[17]</ref><ref type="bibr" target="#b19">[18]</ref><ref type="bibr" target="#b20">[19]</ref>. In the current analysis, three methods were applied to understand the differences in short-term and long-term OS associated with avelumab. There was noticeable variation in long-term OS projections between the three methods used in these analyses.</p><p>The use of standard parametric analyses directly applied to OS and PFS, which is commonly used in oncology indications to estimate long-term outcomes, was evaluated <ref type="bibr" target="#b3">[4,</ref><ref type="bibr" target="#b4">5]</ref>. When using the best-fitting curves (log-normal distribution for OS and spline-based model for PFS) in this analysis, the projected OS and PFS curves intersected, indicating that approximately 25% of patients die without progressing. Clinical opinion suggested that estimates of OS calculated using standard parametric analysis were below those expected with avelumab. This is consistent with findings for IOs in other indications, which noted that single parametric curves were insufficient to model the changes in hazards over time <ref type="bibr" target="#b6">[7]</ref><ref type="bibr" target="#b7">[8]</ref><ref type="bibr" target="#b8">[9]</ref>. Therefore, use of standard parametric survival analysis to project long-term OS was deemed to underestimate the survival benefit associated with avelumab.</p><p>To address the underlying heterogeneity in patient responses to treatment, alternative modeling methods were considered. Using a response-based landmark analysis, projected survival estimates in patients who did not achieve response were found to be as expected by a practicing MCC oncologist. However, the estimated OS for patients who achieved response (assuming an excess HR of 4.5 vs. the general population) was higher than expected. Projections implied that 91% and 79% of patients who achieve response are alive at 1.5 and 3 years, which was deemed to be an overestimate of the potential benefits associated with avelumab at that specific time point, given that data with a minimum follow-up of 18 months indicated that overall survival was approximately 85% among responders at 1.5 years <ref type="bibr">[28,</ref><ref type="bibr">29]</ref>. However, further follow-up will provide insight into whether the assumptions adopted were appropriate. Similarly, the plausibility of approximately 20% of patients not progressing, based on the projected OS and PFS curves intersecting after 74 months, requires further evaluation. The application of this approach was limited by sparse OS data available for patients who achieved response. If more events were observed in patients who achieved response or if longer follow-up data were used to estimate OS, it is possible that parametric survival distributions could be fitted, and more reasonable long-term projections could be obtained for patients who respond to avelumab. As the landmark point was chosen to maximize follow-up, two patients who achieved response beyond the landmark point were considered as non-responders in our analyses, which may partially explain the poorer fit using this approach between 6 and 15 months. Though modeling time to response and survival as a function of time-dependent predictors of response [34] may overcome these misclassifications imposed by the choice of a specific landmark point, such analyses remain an area for future research.</p><p>A third approach was based on estimation of the OS as a function of TTP, PFS, and PPS. This was the only approach where projected OS and PFS curves did not intersect, as the curves were not independently estimated. To some extent, use of progression as a surrogate endpoint considered improved survival patterns in patients who achieved response, since the majority of patients who did not progress in the JAVELIN Merkel 200 trial had achieved response (approximately 76%) <ref type="bibr">[22]</ref>. This may be a plausible scenario in highly immunogenic tumors where response achieved with IO therapies is deemed durable <ref type="bibr">[35]</ref>. The implicit assumption that was adopted when using this approach was that patients with response or stable disease follow mortality patterns observed in the general population unless they progress. The PFS ? PPS approach implied that 85% and 66% of patients who achieved response would be alive at 1.5 and 3 years, lower than estimates of the response-based approach but more aligned with clinical expectations. As a result, at the time the analysis was conducted, on the basis of the data available, the PFS ? PPS approach was considered most plausible from a clinical perspective. Interestingly, this approach resulted in almost identical projections to a published analysis that fitted spline models directly to OS on the data cut of the JAVELIN Merkel 200 trial with at least 18 months of follow-up (see ESM <ref type="figure">Fig. 6</ref>), indicating that the assumptions adopted in our analysis were aligned with the changes in hazard of OS over time <ref type="bibr">[36]</ref>. These spline-based estimates, used within the recent assessment of avelumab by NICE [37], were considered to be appropriate and subsequently accepted by the committee. Nonetheless, longer-term estimates were noted to be highly uncertain.</p><p>Despite the PFS ? PPS approach being considered most clinically plausible at the time the analyses were conducted, and closely resembling the projections using alternative methods receiving acceptance by NICE [37], comparison with OS curves with minimum follow-up of 24 months [33] indicated a poorer fit at the tail of the curve. This may be explained by the relationship between time of progression and PPS, which was not captured in our analysis. For example, patients experiencing progression earlier or experiencing hyper-progression may have alternative PPS as compared to patients who progress at a later point in time. We considered this to be an area of further research, as further data cuts and follow-up become available to aid in informing PPS among patients who progress at later time points.</p><p>The response-based landmark approach, which made assumptions regarding the longterm mortality associated with patients with response, appeared to capture the tail of the curve better compared to the PFS ? PPS approach. Although the landmark approach predicted higher survival in the first 8 years, the PFS ? PPS approach resulted in the highest estimates of mean OS due to higher projected survival beyond 8 years, driven by the reduction in the risk of progression over time. This resulted in a declining excess mortality vs. the general population over time in contrast to the response-based approach, which assumed that excess mortality vs. the general population was constant. Although the landmark approach appears to fit the tail of the curve better, it remains unclear if increased mortality vs. the general population would apply over a patient's lifetime or whether a decline would be observed because of the plateau in PFS. After a minimum follow-up of 2 years in the JAVELIN Merkel 200 study, patients with mMCC continue to respond to treatment with avelumab and have meaningful survival outcomes <ref type="bibr">[33]</ref>. However, additional longer-term follow-up data or realworld evidence are required to validate these long-term projections and determine which approach results in the most accurate estimates.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Limitations</head><p>Results from our analyses need to be evaluated while taking into consideration limitations associated with a modeling exercise based on single-arm trial data. Our analyses focused on projecting OS for avelumab based on a singlearm phase II study. Therefore, in absence of head-to-head data, the incremental value of avelumab versus standard of care and how this may differ when utilizing alternative approaches to project OS were not examined. As reimbursement decisions are formed on the basis of incremental value, further studies are required to ascertain how the use of alternative b <ref type="figure">Fig. 2</ref> Projected OS in patients a without response and b with response using landmark/response-based approach. c Projected OS using landmark/response-based approach projection methods may alter estimates of incremental value. Though the primary analyses were conducted on the largest trial in MCC patients to date, analyses were based on a relatively small cohort of 88 patients resulting in considerable uncertainty in model parameters and projections. Though predictive validation was conducted, this was limited to a comparison versus the same data set used to derive projections, albeit with longer follow-up. To fully ascertain the accuracy of projections, validation versus an independent cohort would have been preferable; however, such data from the real-world or another single-arm trial were not available at the time of this study.</p><p>To alleviate uncertainties associated with long-term projections, expert opinion was solicited to comment on the plausibility of the projections. Within such a rare condition, there are a limited number of physicians who see enough patients to be able to provide validation on long-term projections. Therefore, projections were evaluated with one practicing oncologist, which may not be sufficient. In the absence of longer-term data, physicians' perceptions on the long-term survival potential of treatments are inevitably formed on the basis of experiences within their practices/centers, thus the distributional choices informed on the basis of clinical opinion in our analyses would be limited by potential subjective judgements. However, clinical opinion alongside visual assessment of fit and goodness-of-fit statistics was utilized to select the distributions; where these were similar, there was limited evidence to preferentially select one approach over the other.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Future Directions</head><p>The application of alternative approaches to project OS in this case study is important in the context of innovative oncology drugs coming to market earlier, often based on short-term data and/or surrogate endpoints (sometimes from single-arm clinical trials) <ref type="bibr">[38]</ref>. At the same time, insights or estimation of long-term b <ref type="figure">Fig. 3</ref> a Projected PFS and TTP using a spline-based model. b Projected PPS using standard parametric survival analysis. c Projected OS using the PFS ? PPS approach OS overall survival, PFS progression-free survival, PPS post-progression survival a Extrapolated for overall population using a log-normal distribution b Extrapolated for responders using general population mortality and an HR of 4.5, and non-responders using a log-normal distribution c Reflects life expectancy beyond landmark point of 89 days d Time to progression and progression free-survival extrapolated for overall population using spline-based models. Postprogression survival extrapolated using log-normal distribution survival benefits are important for those making population healthcare decisions. As demonstrated in this case study the inadequacy of traditional parametric survival approaches can underestimate survival, which can result in negative consequences including misinformed reimbursement decisions or a delay in patient access to treatment. Therefore, it is important to explore alternative methods and follow the International Society for Pharmacoeconomic and Outcomes Research guidelines to identify the most appropriate approach based on the best information available at the time [32]. On the basis of this case study, analysis based on surrogate outcomes (i.e., response and progression) appeared to provide more plausible long-term extrapolations as compared to standard parametric analysis. An additional advantage of these approaches is in interpretation and understanding of the results. For example, the choice of a log-normal distribution to project OS directly may be more challenging to justify and interpret from a clinical perspective. Extrapolations using surrogate outcomes provide a rationale on survival projections. In our case study, survival patterns were considerably different among patients who responded to treatment and among patients who had not progressed, thus enhancing our understanding of results and supporting regulatory and early access decisions based on surrogate endpoints. Nonetheless, there is substantial uncertainty regarding whether the results are generalizable to other indications and treatments. Further research and applications of these approaches across other indications and treatments are required to determine the generalizability of our findings.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>CONCLUSIONS</head><p>Three different approaches to predicting OS in patients with mMCC treated with avelumab demonstrated good short-term predictive accuracy. However, estimates for long-term survival varied considerably. Therefore, attempting various extrapolation approaches can aid in understanding survival patterns and sensitivity of conclusions from economic analyses. Results from such analyses can help early decisionmaking based on immature data. The extrapolation results need to be interpreted on the basis of the advantages, limitations, and <ref type="figure">Fig. 4</ref> Projected OS using alternative approaches appropriateness of alternative methods, as well as the disease and treatment context. In the context of an immunotherapy for a rare disease, where sample size and maturity will be inevitably low, an analysis based on surrogate outcomes may provide a good alternative, pending further evidence generation to ascertain generalizability across indications and treatments.</p><p>Open Access. This article is distributed under the terms of the Creative Commons Attribution-NonCommercial 4.0 International License (http://creativecommons.org/licenses/ by-nc/4.0/), which permits any noncommercial use, distribution, and reproduction in any medium, provided you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons license, and indicate if changes were made.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_1"><head>Table 1</head><label>1</label><figDesc>Projected OS rates over 10 years with avelumab</figDesc><table><row><cell>Approaches to OS</cell><cell cols="4">Alive at different time points (%)</cell><cell>Average life</cell><cell>Probabilistic</cell><cell>95%</cell></row><row><cell>projection</cell><cell>2 years</cell><cell>3 years</cell><cell>5 years</cell><cell>10 years</cell><cell>expectancy, years</cell><cell>mean</cell><cell>percentiles</cell></row><row><cell>Standard parametric</cell><cell>32%</cell><cell>22%</cell><cell>12%</cell><cell>5%</cell><cell>2.48</cell><cell>2.53</cell><cell>1.58-3.75</cell></row><row><cell>survival analysis a</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Response-based landmark b</cell><cell>36%</cell><cell>30%</cell><cell>23%</cell><cell>11%</cell><cell>3.15</cell><cell>3.17</cell><cell>2.34-4.17</cell></row><row><cell>Patients with response</cell><cell>87%</cell><cell>79%</cell><cell>64%</cell><cell>32%</cell><cell>7.53 c</cell><cell>7.60</cell><cell>6.46-9.04</cell></row><row><cell>Patients without response</cell><cell>17%</cell><cell>10%</cell><cell>5%</cell><cell>2%</cell><cell>1.22 c</cell><cell>1.26</cell><cell>0.70-2.10</cell></row><row><cell>PFS ? PPS d</cell><cell>33%</cell><cell>26%</cell><cell>19%</cell><cell>11%</cell><cell>3.54</cell><cell>3.64</cell><cell>2.43-5.16</cell></row></table><note></note></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot">Adv Ther (2019) 36:2327-2341</note>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>ACKNOWLEDGEMENTS</head><p>The authors would like to thank the participants of the study. The authors would also like to thank Dr. Sandra D'Angelos, Department of Medicine, Memorial Sloan Kettering Cancer Center, for providing clinical input on modelbased projections.</p></div>
+			</div>
+
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Funding. Funding for this study and the journal's rapid service fee and open access charge was provided by EMD Serono Inc, Rockland, MA, a business of Merck KGaA, Darmstadt, Germany. All authors had full access to all of the data in this study and take complete responsibility for the integrity of the data and accuracy of the data analysis.</p><p>Medical Writing and Editorial Assistance. The authors would like to thank Kim Poinsett-Holmes, PharmD (Evidera, Raleigh, NC) and Melanie Jardim, PhD (Evidera, Raleigh, NC) for medical writing/editorial assistance. This assistance was funded by EMD Serono Inc, Rockland, MA, a business of Merck KGaA, Darmstadt, Germany.</p><p>Authorship. All named authors meet the International Committee of Medical Journal Editors (ICMJE) criteria for authorship for this article, take responsibility for the integrity of the work as a whole, and have given their approval for this version to be published.  Disclosures. Tereza Lanitis is an employee of Evidera, which received funding from EMD Serono in connection with this study. Irina Proskorovsky is an employee of Evidera, which received funding from EMD Serono in connection with this study. Apoorva Ambavane is an employee of Evidera, which received funding from EMD Serono in connection with this study. Matthias Hunger is an employee of Mapi, which received funding from Merck KGaA in connection with this study. Ying Zheng is an employee of EMD Serono Inc, a business of Merck KGaA, Darmstadt, Germany, the manufacturer of avelumab. Murtuza Bharmal is an employee of Merck KgaA, Darmstadt, Germany. Merck KgaA, the manufacturer of avelumab. Hemant Phatak is an employee of EMD Serono Inc, a business of Merck KGaA, Darmstadt, Germany, the manufacturer of avelumab.</p><p>Compliance with Ethics Guidelines. The analyses conducted in this article were based on a previously conducted study and utilized data collected in the JAVELIN Merkel 200 (NCT02155647) trial which was performed in accordance with the Helsinki declaration, had IRB approval, and informed consent was received.</p><p>Data Availability. All input data of the model are presented in the manuscript or the supplementary file. </p></div>			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Extrapolation of survival data in cost-effectiveness analyses: the need for causal clarity</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">N</forename><surname>Hawkins</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><surname>Grieve</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Med Decis Making</title>
+		<imprint>
+			<biblScope unit="volume">37</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="337" to="346" />
+			<date type="published" when="2017" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">AMCP Format for Formulary Submissions, Version 40</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Pannier</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">D</forename><surname>Dunn</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Manag Care Spec Pharm</title>
+		<imprint>
+			<biblScope unit="volume">22</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page">448</biblScope>
+			<date type="published" when="2016" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<monogr>
+		<title level="m" type="main">National Institute for Health and Care Excellence (NICE)</title>
+		<ptr target="https://www.nice.org.uk/process/pmg9/chapter/introduction.Accessed29" />
+		<imprint>
+			<date type="published" when="2013-10" />
+		</imprint>
+	</monogr>
+	<note>Guide to the methods of technology appraisal</note>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Survival analysis for economic evaluations alongside clinical trials-extrapolation with patient-level data: inconsistencies, limitations, and a practical guide</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">N</forename><surname>Latimer</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Med Decis Making</title>
+		<imprint>
+			<biblScope unit="volume">33</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page" from="743" to="54" />
+			<date type="published" when="2013" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Overview of parametric survival analysis for health-economic applications</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><forename type="middle">J</forename><surname>Ishak</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">N</forename><surname>Kreif</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Benedict</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">N</forename><surname>Muszbek</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Pharmacoeconomics</title>
+		<imprint>
+			<biblScope unit="volume">31</biblScope>
+			<biblScope unit="issue">8</biblScope>
+			<biblScope unit="page" from="663" to="75" />
+			<date type="published" when="2013" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Characteristics of clinical trials in rare vs common diseases: a registerbased Latvian study</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><surname>Logviss</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><surname>Krievins</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Purvina</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">PLoS One</title>
+		<imprint>
+			<biblScope unit="volume">13</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page">194494</biblScope>
+			<date type="published" when="2018" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<monogr>
+		<title level="m" type="main">Nivolumab for treating advanced (unresectable or metastatic) melanoma. NICE technology appraisal guidance TA384</title>
+		<ptr target="https://www.nice.org.uk/guidance/ta384" />
+		<imprint>
+			<date type="published" when="2016-08" />
+		</imprint>
+	</monogr>
+	<note>National Institute for Health and Care Excellence (NICE)</note>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<monogr>
+		<title level="m" type="main">Pembrolizumab for advanced melanoma not previously treated with ipilimumab. NICE technology appraisal guidance TA366</title>
+		<ptr target="https://www.nice.org.uk/guidance/ta366" />
+		<imprint>
+			<date type="published" when="2015-08" />
+		</imprint>
+	</monogr>
+	<note>National Institute for Health and Care Excellence (NICE)</note>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<monogr>
+		<title level="m" type="main">Pembrolizumab for treating advanced melanoma after disease progression with ipilimumab. NICE technology appraisal guidance TA357</title>
+		<ptr target="https://www.nice.org.uk/guidance/ta357" />
+		<imprint>
+			<date type="published" when="2015-08" />
+		</imprint>
+	</monogr>
+	<note>National Institute for Health and Care Excellence (NICE)</note>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">FDA&apos;s expedited approval mechanisms for new drug products</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><surname>Kepplinger</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Biotechnol Law Rep</title>
+		<imprint>
+			<biblScope unit="volume">34</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="15" to="37" />
+			<date type="published" when="2015" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<monogr>
+		<title level="m" type="main">Center for drug evaluation and Research. Advancing health through innovation-2017 new drug therapy approvals</title>
+		<ptr target="https://www.fda.gov/downloads/AboutFDA/CentersOffices/OfficeofMedicalProductsandTobacco/CDER/ReportsBudgets/UCM591976.pdf" />
+		<editor>U.S. Food and Drug Administration</editor>
+		<imprint>
+			<date type="published" when="2017-01" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">WHO, RECIST, and immunerelated response criteria: is it time to revisit pembrolizumab results?</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">F</forename><surname>Ades</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">N</forename><surname>Yamaguchi</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ecancermedicalscience</title>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="page">604</biblScope>
+			<date type="published" when="2015" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Guidelines for the evaluation of immune therapy activity in solid tumors: immune-related response criteria</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">D</forename><surname>Wolchok</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Hoos</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>O'day</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Clin Cancer Res</title>
+		<imprint>
+			<biblScope unit="volume">15</biblScope>
+			<biblScope unit="issue">23</biblScope>
+			<biblScope unit="page" from="7412" to="7432" />
+			<date type="published" when="2009" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Statistical issues and challenges in immunooncology</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><forename type="middle">T</forename><surname>Chen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Immunother Cancer</title>
+		<imprint>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="page">18</biblScope>
+			<date type="published" when="2013" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<monogr>
+		<title level="m" type="main">Modelling the survival outcomes of immuno-oncology drugs in economic evaluations: a systematic approach to data analysis and extrapolation. Pharmacoeconomics</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><surname>Gibson</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">I</forename><surname>Koblbauer</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">N</forename><surname>Begum</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2017" />
+			<biblScope unit="volume">35</biblScope>
+			<biblScope unit="page" from="1257" to="70" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Developing cost-effectiveness models to assess value of immuno-oncology therapies: challenges and approaches</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Briggs</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><surname>Haddad</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Muszbek</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Y</forename><surname>Zhang</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">International Society for Pharmacoeconomics and Outcomes Research, 22nd Annual International Meeting</title>
+		<meeting><address><addrLine>Boston, MA</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2017" />
+			<biblScope unit="page">3</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Determining the value of long term outcomes associated with immuno-oncology therapies-challenges and approaches for OS extrapolations</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Y</forename><surname>Zhang</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><surname>Mukhopadhyay</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Briggs</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">N</forename><surname>Latimer</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Huang</forename><surname>Min</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">International Society for Pharmacoeconomics and Outcomes Research 20th</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<monogr>
+		<title/>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Annual European Congress</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2017" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<monogr>
+		<title/>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Scotland</forename><surname>Glasgow</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">11</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">Estimating lifetime benefits associated with immuno-oncology therapies: challenges and approaches for overall survival extrapolations</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Ouwens</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><surname>Mukhopadhyay</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Y</forename><surname>Zhang</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Huang</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">N</forename><surname>Latimer</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Briggs</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/s40273-019-00806-4</idno>
+		<ptr target="https://doi.org/10.1007/s40273-019-00806-4" />
+	</analytic>
+	<monogr>
+		<title level="j">PharmacoEconomics</title>
+		<imprint>
+			<date type="published" when="2019" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<monogr>
+		<title level="m" type="main">Projecting survival with immuno-oncology</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><forename type="middle">J</forename><surname>Ishak</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">N</forename><surname>Muszbek</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">I</forename><surname>Proskorovsky</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Y</forename><surname>Zhang</surname></persName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

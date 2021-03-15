@@ -1,0 +1,1936 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /data/rsg/nlp/juanmoo1/bin/grobid-0.6.1/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Stereotactic ablative radiotherapy for the comprehensive treatment of 4-10 oligometastatic tumors (SABR-COMET-10): study protocol for a randomized phase III trial</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author role="corresp">
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">David</forename><forename type="middle">A</forename><surname>Palma</surname></persName>
+							<email>david.palma@lhsc.on.ca</email>
+							<idno type="ORCID">0000-0002-9542-0627</idno>
+							<affiliation key="aff0">
+								<orgName type="department" key="dep1">Department of Oncology</orgName>
+								<orgName type="department" key="dep2">Health Sciences Centre</orgName>
+								<orgName type="institution">Western University</orgName>
+								<address>
+									<addrLine>790 Commissioners Rd. E</addrLine>
+									<postCode>N6A4L6</postCode>
+									<settlement>London, London</settlement>
+									<region>Ontario</region>
+									<country key="CA">Canada</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="department" key="dep1">Department of Oncology Western University</orgName>
+								<orgName type="department" key="dep2">Health Sciences Centre</orgName>
+								<address>
+									<addrLine>790 Commissioners Rd. E</addrLine>
+									<postCode>N6A4L6</postCode>
+									<settlement>London, London</settlement>
+									<region>Ontario</region>
+									<country key="CA">Canada</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Robert</forename><surname>Olson</surname></persName>
+							<idno type="ORCID">0000-0002-9542-0627</idno>
+							<affiliation key="aff2">
+								<orgName type="department">Department of Radiation Oncology, British Columbia Cancer, Centre for the North</orgName>
+								<address>
+									<settlement>Prince George</settlement>
+									<region>BC</region>
+									<country key="CA">Canada</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Stephen</forename><surname>Harrow</surname></persName>
+							<affiliation key="aff3">
+								<orgName type="department">Beatson West of Scotland Cancer Centre</orgName>
+								<address>
+									<region>Glasgow, UK</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Rohann</forename><forename type="middle">J M</forename><surname>Correa</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department" key="dep1">Department of Oncology</orgName>
+								<orgName type="department" key="dep2">Health Sciences Centre</orgName>
+								<orgName type="institution">Western University</orgName>
+								<address>
+									<addrLine>790 Commissioners Rd. E</addrLine>
+									<postCode>N6A4L6</postCode>
+									<settlement>London, London</settlement>
+									<region>Ontario</region>
+									<country key="CA">Canada</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="department" key="dep1">Department of Oncology Western University</orgName>
+								<orgName type="department" key="dep2">Health Sciences Centre</orgName>
+								<address>
+									<addrLine>790 Commissioners Rd. E</addrLine>
+									<postCode>N6A4L6</postCode>
+									<settlement>London, London</settlement>
+									<region>Ontario</region>
+									<country key="CA">Canada</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Famke</forename><surname>Schneiders</surname></persName>
+							<affiliation key="aff4">
+								<orgName type="department">Department of Radiation Oncology</orgName>
+								<orgName type="laboratory">UMC Vrije Universiteit Amsterdam Radiation Oncology</orgName>
+								<address>
+									<addrLine>Cancer Center Amsterdam</addrLine>
+									<settlement>Amsterdam, Amsterdam</settlement>
+									<country key="NL">The Netherlands</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">A</forename><surname>Cornelis</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Haasbeek</surname></persName>
+							<affiliation key="aff4">
+								<orgName type="department">Department of Radiation Oncology</orgName>
+								<orgName type="laboratory">UMC Vrije Universiteit Amsterdam Radiation Oncology</orgName>
+								<address>
+									<addrLine>Cancer Center Amsterdam</addrLine>
+									<settlement>Amsterdam, Amsterdam</settlement>
+									<country key="NL">The Netherlands</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">George</forename><forename type="middle">B</forename><surname>Rodrigues</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department" key="dep1">Department of Oncology</orgName>
+								<orgName type="department" key="dep2">Health Sciences Centre</orgName>
+								<orgName type="institution">Western University</orgName>
+								<address>
+									<addrLine>790 Commissioners Rd. E</addrLine>
+									<postCode>N6A4L6</postCode>
+									<settlement>London, London</settlement>
+									<region>Ontario</region>
+									<country key="CA">Canada</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="department" key="dep1">Department of Oncology Western University</orgName>
+								<orgName type="department" key="dep2">Health Sciences Centre</orgName>
+								<address>
+									<addrLine>790 Commissioners Rd. E</addrLine>
+									<postCode>N6A4L6</postCode>
+									<settlement>London, London</settlement>
+									<region>Ontario</region>
+									<country key="CA">Canada</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Michael</forename><surname>Lock</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department" key="dep1">Department of Oncology</orgName>
+								<orgName type="department" key="dep2">Health Sciences Centre</orgName>
+								<orgName type="institution">Western University</orgName>
+								<address>
+									<addrLine>790 Commissioners Rd. E</addrLine>
+									<postCode>N6A4L6</postCode>
+									<settlement>London, London</settlement>
+									<region>Ontario</region>
+									<country key="CA">Canada</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="department" key="dep1">Department of Oncology Western University</orgName>
+								<orgName type="department" key="dep2">Health Sciences Centre</orgName>
+								<address>
+									<addrLine>790 Commissioners Rd. E</addrLine>
+									<postCode>N6A4L6</postCode>
+									<settlement>London, London</settlement>
+									<region>Ontario</region>
+									<country key="CA">Canada</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Brian</forename><forename type="middle">P</forename><surname>Yaremko</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department" key="dep1">Department of Oncology</orgName>
+								<orgName type="department" key="dep2">Health Sciences Centre</orgName>
+								<orgName type="institution">Western University</orgName>
+								<address>
+									<addrLine>790 Commissioners Rd. E</addrLine>
+									<postCode>N6A4L6</postCode>
+									<settlement>London, London</settlement>
+									<region>Ontario</region>
+									<country key="CA">Canada</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="department" key="dep1">Department of Oncology Western University</orgName>
+								<orgName type="department" key="dep2">Health Sciences Centre</orgName>
+								<address>
+									<addrLine>790 Commissioners Rd. E</addrLine>
+									<postCode>N6A4L6</postCode>
+									<settlement>London, London</settlement>
+									<region>Ontario</region>
+									<country key="CA">Canada</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Glenn</forename><forename type="middle">S</forename><surname>Bauman</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department" key="dep1">Department of Oncology</orgName>
+								<orgName type="department" key="dep2">Health Sciences Centre</orgName>
+								<orgName type="institution">Western University</orgName>
+								<address>
+									<addrLine>790 Commissioners Rd. E</addrLine>
+									<postCode>N6A4L6</postCode>
+									<settlement>London, London</settlement>
+									<region>Ontario</region>
+									<country key="CA">Canada</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="department" key="dep1">Department of Oncology Western University</orgName>
+								<orgName type="department" key="dep2">Health Sciences Centre</orgName>
+								<address>
+									<addrLine>790 Commissioners Rd. E</addrLine>
+									<postCode>N6A4L6</postCode>
+									<settlement>London, London</settlement>
+									<region>Ontario</region>
+									<country key="CA">Canada</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Belal</forename><surname>Ahmad</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department" key="dep1">Department of Oncology</orgName>
+								<orgName type="department" key="dep2">Health Sciences Centre</orgName>
+								<orgName type="institution">Western University</orgName>
+								<address>
+									<addrLine>790 Commissioners Rd. E</addrLine>
+									<postCode>N6A4L6</postCode>
+									<settlement>London, London</settlement>
+									<region>Ontario</region>
+									<country key="CA">Canada</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="department" key="dep1">Department of Oncology Western University</orgName>
+								<orgName type="department" key="dep2">Health Sciences Centre</orgName>
+								<address>
+									<addrLine>790 Commissioners Rd. E</addrLine>
+									<postCode>N6A4L6</postCode>
+									<settlement>London, London</settlement>
+									<region>Ontario</region>
+									<country key="CA">Canada</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Devin</forename><surname>Schellenberg</surname></persName>
+							<affiliation key="aff2">
+								<orgName type="department">Department of Radiation Oncology, British Columbia Cancer, Centre for the North</orgName>
+								<address>
+									<settlement>Prince George</settlement>
+									<region>BC</region>
+									<country key="CA">Canada</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Mitchell</forename><surname>Liu</surname></persName>
+							<affiliation key="aff2">
+								<orgName type="department">Department of Radiation Oncology, British Columbia Cancer, Centre for the North</orgName>
+								<address>
+									<settlement>Prince George</settlement>
+									<region>BC</region>
+									<country key="CA">Canada</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Stewart</forename><surname>Gaede</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department" key="dep1">Department of Oncology</orgName>
+								<orgName type="department" key="dep2">Health Sciences Centre</orgName>
+								<orgName type="institution">Western University</orgName>
+								<address>
+									<addrLine>790 Commissioners Rd. E</addrLine>
+									<postCode>N6A4L6</postCode>
+									<settlement>London, London</settlement>
+									<region>Ontario</region>
+									<country key="CA">Canada</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="department" key="dep1">Department of Oncology Western University</orgName>
+								<orgName type="department" key="dep2">Health Sciences Centre</orgName>
+								<address>
+									<addrLine>790 Commissioners Rd. E</addrLine>
+									<postCode>N6A4L6</postCode>
+									<settlement>London, London</settlement>
+									<region>Ontario</region>
+									<country key="CA">Canada</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Joanna</forename><surname>Laba</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department" key="dep1">Department of Oncology</orgName>
+								<orgName type="department" key="dep2">Health Sciences Centre</orgName>
+								<orgName type="institution">Western University</orgName>
+								<address>
+									<addrLine>790 Commissioners Rd. E</addrLine>
+									<postCode>N6A4L6</postCode>
+									<settlement>London, London</settlement>
+									<region>Ontario</region>
+									<country key="CA">Canada</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="department" key="dep1">Department of Oncology Western University</orgName>
+								<orgName type="department" key="dep2">Health Sciences Centre</orgName>
+								<address>
+									<addrLine>790 Commissioners Rd. E</addrLine>
+									<postCode>N6A4L6</postCode>
+									<settlement>London, London</settlement>
+									<region>Ontario</region>
+									<country key="CA">Canada</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Liam</forename><surname>Mulroy</surname></persName>
+							<affiliation key="aff5">
+								<orgName type="department">Nova Scotia Cancer Centre</orgName>
+								<address>
+									<settlement>Halifax</settlement>
+									<region>NS</region>
+									<country key="CA">Canada</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Sashendra</forename><surname>Senthi</surname></persName>
+							<affiliation key="aff6">
+								<orgName type="laboratory">Alfred Health Radiation Oncology</orgName>
+								<address>
+									<settlement>Melbourne</settlement>
+									<country key="AU">Australia</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Alexander</forename><forename type="middle">V</forename><surname>Louie</surname></persName>
+							<affiliation key="aff7">
+								<orgName type="department">Department of Radiation Oncology, Sunnybrook Cancer Centre</orgName>
+								<address>
+									<settlement>Toronto</settlement>
+									<country key="CA">Canada</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Anand</forename><surname>Swaminath</surname></persName>
+							<affiliation key="aff8">
+								<orgName type="department">Juravinski Cancer Centre</orgName>
+								<address>
+									<settlement>Hamilton</settlement>
+									<region>ON</region>
+									<country key="CA">Canada</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Anthony</forename><surname>Chalmers</surname></persName>
+							<affiliation key="aff9">
+								<orgName type="department">Institute of Cancer Sciences</orgName>
+								<orgName type="institution">University of Glasgow</orgName>
+								<address>
+									<region>Glasgow, UK</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Andrew</forename><surname>Warner</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department" key="dep1">Department of Oncology</orgName>
+								<orgName type="department" key="dep2">Health Sciences Centre</orgName>
+								<orgName type="institution">Western University</orgName>
+								<address>
+									<addrLine>790 Commissioners Rd. E</addrLine>
+									<postCode>N6A4L6</postCode>
+									<settlement>London, London</settlement>
+									<region>Ontario</region>
+									<country key="CA">Canada</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="department" key="dep1">Department of Oncology Western University</orgName>
+								<orgName type="department" key="dep2">Health Sciences Centre</orgName>
+								<address>
+									<addrLine>790 Commissioners Rd. E</addrLine>
+									<postCode>N6A4L6</postCode>
+									<settlement>London, London</settlement>
+									<region>Ontario</region>
+									<country key="CA">Canada</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Ben</forename><forename type="middle">J</forename><surname>Slotman</surname></persName>
+							<affiliation key="aff4">
+								<orgName type="department">Department of Radiation Oncology</orgName>
+								<orgName type="laboratory">UMC Vrije Universiteit Amsterdam Radiation Oncology</orgName>
+								<address>
+									<addrLine>Cancer Center Amsterdam</addrLine>
+									<settlement>Amsterdam, Amsterdam</settlement>
+									<country key="NL">The Netherlands</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Tanja</forename><forename type="middle">D</forename><surname>De Gruijl</surname></persName>
+							<affiliation key="aff4">
+								<orgName type="department">Department of Radiation Oncology</orgName>
+								<orgName type="laboratory">UMC Vrije Universiteit Amsterdam Radiation Oncology</orgName>
+								<address>
+									<addrLine>Cancer Center Amsterdam</addrLine>
+									<settlement>Amsterdam, Amsterdam</settlement>
+									<country key="NL">The Netherlands</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Alison</forename><surname>Allan</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department" key="dep1">Department of Oncology</orgName>
+								<orgName type="department" key="dep2">Health Sciences Centre</orgName>
+								<orgName type="institution">Western University</orgName>
+								<address>
+									<addrLine>790 Commissioners Rd. E</addrLine>
+									<postCode>N6A4L6</postCode>
+									<settlement>London, London</settlement>
+									<region>Ontario</region>
+									<country key="CA">Canada</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="department" key="dep1">Department of Oncology Western University</orgName>
+								<orgName type="department" key="dep2">Health Sciences Centre</orgName>
+								<address>
+									<addrLine>790 Commissioners Rd. E</addrLine>
+									<postCode>N6A4L6</postCode>
+									<settlement>London, London</settlement>
+									<region>Ontario</region>
+									<country key="CA">Canada</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Suresh</forename><surname>Senan</surname></persName>
+							<affiliation key="aff4">
+								<orgName type="department">Department of Radiation Oncology</orgName>
+								<orgName type="laboratory">UMC Vrije Universiteit Amsterdam Radiation Oncology</orgName>
+								<address>
+									<addrLine>Cancer Center Amsterdam</addrLine>
+									<settlement>Amsterdam, Amsterdam</settlement>
+									<country key="NL">The Netherlands</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Stereotactic ablative radiotherapy for the comprehensive treatment of 4-10 oligometastatic tumors (SABR-COMET-10): study protocol for a randomized phase III trial</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<idno type="DOI">10.1186/s12885-019-5977-6</idno>
+					<note type="submission">Received: 2 February 2019 Accepted: 24 July 2019</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.6.1" ident="GROBID" when="2020-10-09T18:38+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>Oligometastases</term>
+					<term>Stereotactic radiotherapy</term>
+					<term>Quality of life</term>
+					<term>Cancer</term>
+					<term>Survival</term>
+				</keywords>
+			</textClass>
+			<abstract>
+				<p>Background: Stereotactic ablative radiotherapy (SABR) has emerged as a new treatment option for patients with oligometastatic disease. SABR delivers precise, high-dose, hypofractionated radiotherapy, and achieves excellent rates of local control for primary tumors or metastases. A recent randomized phase II trial evaluated SABR in a group of patients with a small burden of oligometastatic disease (mostly with 1-3 metastatic lesions), and found that SABR was associated with benefits in progression-free survival and overall survival. The goal of this phase III trial is to assess the impact of SABR in patients with 4-10 metastatic cancer lesions. Methods: One hundred and fifty-nine patients will be randomized in a 1:2 ratio between the control arm (consisting of standard of care palliative-intent treatments), and the SABR arm (consisting of standard of care treatment + SABR to all sites of known disease). Randomization will be stratified by two factors: histology (Group 1: prostate, breast, or renal; Group 2: all others), and type of pre-specified systemic therapy (Group 1: immunotherapy/targeted; Group 2: cytotoxic; Group 3: observation). SABR is to be completed within 2 weeks, allowing for rapid initiation of systemic therapy. Recommended SABR doses are 20 Gy in 1 fraction, 30 Gy in 3 fractions, or 35 Gy in 5 fractions, chosen to minimize risks of toxicity. The primary endpoint is overall survival, and secondary endpoints include progression-free survival, time to development of new metastatic lesions, quality of life, and toxicity. Translational endpoints include assessment of circulating tumor cells, cell-free DNA, and tumor tissue as prognostic and predictive markers, including assessment of immunological predictors of response and long-term survival. Discussion: This study will provide an assessment of the impact of SABR on clinical outcomes and quality of life, to determine if long-term survival can be achieved for selected patients with 4-10 oligometastatic lesions.</p>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Background</head><p>The oligometastatic state refers to a stage of disease where a cancer has spread beyond the site of the primary tumor, but is not yet widely metastatic <ref type="bibr" target="#b0">[1]</ref>. In patients with a limited oligometastatic burden, emerging evidence suggests that treatment of all sites of disease with ablative therapies (such as surgery or stereotactic radiation) can improve patient outcomes, including overall-and progression-free survival.</p><p>Historically, evidence to support the oligometastatic state has consisted of single-arm, non-randomized studies without controls. One classic study reported on over 5000 patients with lung metastases from a variety of primary tumors. In patients who achieved a complete resection of their lung metastases, 5-year overall survival (OS) was 36%, better than might be expected for a cohort of patients with metastatic disease <ref type="bibr" target="#b1">[2]</ref>. Similarly, after radiation, a recent pooled analysis of 361 patients with oligometastatic lesions treated with radiation demonstrated a 3-year OS of 56% <ref type="bibr" target="#b2">[3]</ref>.</p><p>It has been suggested the long-term survivals achieved in patients with oligometastases after ablative therapies is merely due to the selection of very fit patients with slow growing tumors, since randomized evidence to support the oligometastatic paradigm has been lacking <ref type="bibr" target="#b3">[4,</ref><ref type="bibr" target="#b4">5]</ref>. However, at least four recent randomized phase II trials now provide some supporting evidence of an oligometastatic state.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Randomized evidence supporting the oligometastatic state</head><p>Two of these four randomized trials were done in the setting of oligometastatic non-small cell lung cancer (NSCLC). In both, patients presented with a primary lung tumor and a limited number of metastatic lesions (1-3 in one trial, 1-5 in the other), and after initial systemic therapy, patients were randomly assigned to standard palliative treatments vs. consolidative ablative treatments to all sites of disease. Both trials were stopped early due to evidence of efficacy, with the ablative treatments achieving a~3fold improvement in progression-free survival (PFS) <ref type="bibr" target="#b5">[6,</ref><ref type="bibr" target="#b6">7]</ref>. Based on these results, the phase III NRG LU-002 trial is assessing the impact of consolidative ablative therapies on OS.</p><p>A third trial, EORTC 40004, examined the impact of an ablative therapy (radiofrequency ablation <ref type="bibr">[RFA]</ref>) in patients with colorectal cancer metastatic to the liver. In this trial, patients with a controlled primary tumor and fewer than 10 hepatic metastases not amenable to resection, and with no extra-hepatic disease, were randomized to systemic therapy +/− RFA to all sites of disease <ref type="bibr" target="#b7">[8]</ref>. When initially reported <ref type="bibr" target="#b8">[9]</ref>, the trial showed no difference in OS between arms, but with long-term follow-up (median 9.7 years), a significant difference in OS emerged, with an 8-year OS of 36% in the RFA arm and only 9% in the systemic therapy arm <ref type="bibr" target="#b7">[8]</ref>.</p><p>The fourth trial, Stereotactic Ablative Radiotherapy for the Comprehensive Treatment of Oligometastatic Disease (SABR-COMET) enrolled 99 patients who had controlled primary solid tumors and up to 5 metastatic lesions <ref type="bibr" target="#b9">[10]</ref><ref type="bibr" target="#b10">[11]</ref><ref type="bibr" target="#b11">[12]</ref>. Patients were randomized in a 1:2 ratio between standard of care (SOC) palliative treatments (Arm 1) vs. SOC + SABR to all sites of disease (Arm 2). The primary endpoint was OS, and the trial employed a randomized phase II screening design, with an alpha of 0.20, in order to provide an initial comparison between arms. More than 90% of patients enrolled had 1-3 metastases. OS was 28 months in Arm 1 and 41 months in Arm 2 (p = 0.09), meeting the primary endpoint of the trial. PFS was doubled: 6 months in Arm 1 and 12 months in Arm 2 (p = 0.001). SABR was generally well tolerated, with a 29% rate of grade 2 or higher toxicity, although the rate of treatment-related grade 5 toxicity was 4.5%.</p><p>Despite this new evidence, many uncertainties remain regarding the oligometastatic state.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Defining the oligometastatic state</head><p>A major unanswered clinical question is the precise definition of the oligometastatic state, namely, how many metastatic lesions are amenable to ablative therapies that may benefit the patient.</p><p>Many studies have defined 'oligometastatic' as 1-3, or 1-5, metastatic lesions, although some have used broader definitions, including the EORTC 40004 trial described above that allowed up to 9. For example, one single-arm phase II trial in patients with NSCLC enrolled 24 patients with up to 6 active sites of extracranial disease, and treated patients with SABR to all active sites along with erlotinib. The treatment was well-tolerated, with only two grade 3 toxicities. Median OS was 20.4 months, and median PFS was 14.7 months. A second study included NSCLC patients with up to 8 lesions, as long as all could be treated within established dose constraints <ref type="bibr" target="#b12">[13]</ref>.</p><p>In the setting of brain metastases, recent nonrandomized evidence suggests that patients may benefit from stereotactic radiotherapy to 4-10 metastatic lesions. The prospective JLGK0901 trial treated 1194 patients who had 1-10 metastatic lesions, with a total cumulative volume of ≤15 mL, and treated all with stereotactic radiosurgery. The study used a non-inferiority design with a primary endpoint was OS, comparing patients with 5-10 lesions vs. those with 2-4. Median OS in both groups was 10.8 months, meeting the primary endpoint of noninferiority (p &lt; 0.0001). Treatment was well-tolerated, with only 9% of patients in either group experiencing adverse events of any grade. A separate retrospective study examined stereotactic radiation in patients with more than 10 brain metastases (where 64% had received prior brain radiotherapy), and concluded that it could be delivered safely, with no episodes of symptomatic necrosis and a 13% rate of radiographic necrosis <ref type="bibr" target="#b13">[14]</ref>.</p><p>The toxicity of SABR may not depend on the overall number of lesions, but moreso the doses delivered to organs at risk. For serial organs, such as the spinal cord, bronchi, and great vessels, reduction of the maximum dose of radiation is expected to reduce the risk of toxicity. For parallel organs, such as the lung, liver and renal cortex, the risk of toxicity may be mitigated by ensuring that a critical volume of the organ is spared from substantial doses of radiation <ref type="bibr" target="#b14">[15]</ref>. The typical critical volume to be spared is about 1/3 of the volume of the organ. Therefore, this trial will employ dose constraints for serial structures that ensure minimization of high-dose volumes, constraints for parallel structures that ensure critical volume sparing, and constraints for dose spillage, to ensure that all SABR plans are highly conformal.</p><p>The application of ablative therapies for patients with 4-10 metastatic deposits appears promising, based on the encouraging results from randomized trials mostly enrolling patients with 1-3 lesions and the single-arm studies evaluating ablative therapies patients with a larger burden of disease. However, it is likely that as the number of metastases increases, the risk of further distant failure (i.e. development of additional metastases after SABR) will increase, and the risk of toxicity from SABR will likely increase. As a result, the use of SABR in such patients might be best in a scenario where the doses of SABR are lowered to reduce the risk of toxicity, preplanning of SABR is required before enrollment, and SABR is given immediately prior to systemic therapy that will help to address the risk of occult micrometastases.</p><p>In summary, it is unclear if all patients with &gt; 3 oligometastatic lesions benefit from SABR, in terms of improved OS, PFS, or quality of life. The purpose of this randomized trial is to assess the impact of SABR on outcomes in patients with 4-10 oligometastatic lesions.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Methods/design</head><p>The objective of this trial is to assess the impact of SABR, compared to standard of care treatment, on overall survival, oncologic outcomes, and quality of life in patients with a controlled primary tumor and 4-10 metastatic lesions.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Primary endpoint</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Overall Survival</head><p>Defined as time from randomization to death from any cause</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Secondary endpoints</head><p>Progression-free survival Defined as time from randomization to disease progression at any site or death Time to development of new metastatic lesions Quality of life Assessed with the Functional Assessment of Cancer Therapy: General (FACT-G) and the EuroQol -5 Dimension -5 Level (EQ-5D-5L) Toxicity</p><p>Assessed by the National Cancer Institute Common Toxicity Criteria (NCI-CTC) version 4 for each organ treated (e.g. liver, lung, bone)</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Translational endpoints</head><p>Assessment of circulating tumor cells, cell-free DNA, and tumor DNA as prognostic and predictive markers of survival, and for early detection of progression Assessment of immunological predictors of response and long-term survival</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Study design</head><p>This study is a phase III multicentre randomized trial. Participating centres will be tertiary, academic hospitals or radiotherapy treatment centres in Canada, the United Kingdom, the Netherlands, and Australia (updated country list available on ClinialTrials.gov entry NCT03721341). Patients will be randomized with parallel assignment in a 1:2 ratio between current standard of care treatment (Arm 1) vs. standard of care treatment + SABR (Arm 2) to sites of known disease <ref type="figure" target="#fig_0">(Fig. 1</ref>).</p><p>Patients will be stratified by two of the strongest prognostic factors, based on a large multi-institutional analysis <ref type="bibr" target="#b2">[3]</ref>: histology (Group 1: prostate, breast, or renal; Group 2: all others), and type of pre-specified systemic therapy (Group 1: immunotherapy/targeted; Group 2: cytotoxic; Group 3: observation). </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Inclusion criteria</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Exclusion criteria</head><p>Serious medical comorbidities precluding radiotherapy. These include interstitial lung disease in patients requiring thoracic radiation, Crohn's disease in patients where the gastrointestinal (GI) tract will receive radiotherapy, and connective tissue disorders such as lupus or scleroderma. For patients with liver metastases, moderate/severe liver dysfunction (Child Pugh B or C) Substantial overlap with a previously treated radiation volume. Prior radiotherapy in general is allowed, as long as the composite plan meets dose constraints herein. For patients treated with radiation previously, biological effective dose calculations should be used to equate previous doses to the tolerance doses listed below. All such cases must be discussed with one of the study PIs.  to the number of metastases in each individual organ, as long as dose constraints can be met in the pre-plan. For parallel organs such as the liver and lung, patients with several lesions may not meet the pre-plan criteria and therefore will not be randomized.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Malignant pleural effusion</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Previously treated metastases</head><p>Patients with prior metastases that have been treated with ablative therapies (e.g. SABR, surgery, radiofrequency ablation) are eligible, as long as those metastases are controlled on imaging. In that case, the previously treated lesions are counted toward the total of 10 (e.g. a patient with 3 previous brain metastases treated is allowed to have up to 7 other metastases for enrollment).</p><p>If a patient has received systemic therapy and the number of metastases has been reduced, they are eligible for enrollment as long as the total number of metastases prior to systemic therapy was 10 or fewer.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Small or indeterminate lesions</head><p>When patients have small indeterminate nodules (e.g. a 3 mm lung nodule) it can be difficult to determine whether these are benign or whether they represent metastasis. Any such indeterminate lesion is automatically considered to be a metastasis unless there are &gt; 2 months of documented stability. The presence or absence of such indeterminate lesions will be noted on the study enrollment form.</p><p>If a lesion is too small to treat due to targeting issues (e.g. a 3 mm lung lesion not likely to be visible on cone beam CT [CBCT]), the following approach is to be taken: if randomized to Arm 1, no intervention is needed, since such a lesion would not require palliative radiation. If randomized to Arm 2, the lesion is followed, and upon progression to a size that is treatable, it should be treated with SABR. This would not be counted as progression.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Brain metastases at presentation</head><p>If a patient presents with 1-3 brain metastases and ablation of those metastases (with surgery or radiation) is judged to be clinically required regardless of the treatment of extracranial metastases, it is permitted. Those treated metastases count within the total number of 10 lesions. The patient would then be randomized to treatment of the extracranial disease or not.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Patients already receiving systemic therapy</head><p>If a patient is already receiving systemic therapy, they are still eligible for enrollment. For example, if a patient with 5 metastases has been on pemetrexed for a year and is planning to continue, they can still be randomized, and if allocated to the standard arm would continue to receive pemetrexed; on the experimental arm SABR would be delivered between cycles, possibly requiring a break in systemic therapy to comply with the timing of systemic therapy described in the Systemic therapy section.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Interventions</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Standard arm (arm 1)</head><p>Radiotherapy for patients in the standard arm should follow the principles of palliative radiotherapy, for the purpose of alleviating symptoms or preventing imminent complications. Recommended dose fractionations in this arm will include 8 Gy in 1 fractions, 20 Gy in 5 fractions, and 30 Gy in 10 fractions. Patients in Arm 1 should not receive stereotactic doses or radiotherapy boosts, unless there is a clearly known clinical benefit (e.g. stereotactic radiation to new brain metastases when all disease is controlled on systemic therapy).</p><p>Systemic therapy will be pre-specified based on the standard of care approach for that patient, and it may include systemic therapy (cytotoxic, targeted, hormonal, or immunotherapy) or observation. See Brain metastases at presentation section for the timing of systemic therapy.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Experimental arm (arm 2)</head><p>Stereotactic radiation in Arm 2 will be delivered with three major guiding principles:</p><p>Minimization of Toxicity: The SABR doses used herein are lower than those used for radical treatments, and normal tissue tolerance doses will never be exceeded. Concurrent chemotherapy or targeted therapy at the time of radiotherapy is not allowed. Minimization of Treatment Time. To avoid delays in proceeding to systemic therapy, all SABR will be delivered over the course of 2 weeks. Pre-planning required before enrollment: To ensure safety, all patients require a pre-plan of their SABR treatments before enrollment. If a patient undergoes pre-planning but cannot be randomized due to failure to generate an acceptable plan, the centre will receive modest compensation to cover pre-planning costs. The baseline information of such patients will be captured (i.e. the Eligibility Checklist and Baseline Form), but they will not be followed for outcomes.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Dose/fractionation</head><p>Each lesion may be treated with 1, 3, or 5 fractions, depending on the local practice of the enrolling institution and treating physician. All doses are prescribed to the periphery of the planning target volume (PTV).</p><p>Acceptable fractionations are listed in <ref type="table" target="#tab_2">Table 1</ref>. Threefraction regimens will deliver a fraction every second day, and five-fraction regimens are delivered daily. All treatments must be completed within 2 weeks (10 working days) in order to avoid delays in starting systemic therapy.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Immobilization</head><p>Immobilization will be as in the original SABR-COMET trial protocol <ref type="bibr" target="#b10">[11,</ref><ref type="bibr" target="#b11">12]</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Imaging/localization/registration</head><p>Patients will undergo planning CT simulation with axial CT images obtained throughout the region of interest. For centres using stereotactic radiosurgery platforms, real-time tumor tracking and orthogonal imaging systems are permitted.</p><p>Patients treated at the VUmc in Amsterdam may be treated with MRI-guided delivery if deemed appropriate by the treating oncologist, using daily plan adaption as has been described previously <ref type="bibr" target="#b15">[16]</ref><ref type="bibr" target="#b16">[17]</ref><ref type="bibr" target="#b17">[18]</ref><ref type="bibr" target="#b18">[19]</ref>. The "4D-CT procedures" section will not apply to these patients.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>4D-CT procedures</head><p>4-dimensional CT will be used for tumors in the lungs, liver, or adrenals. 4D-CT quality assurance procedures are as per the previous SABR-COMET trial <ref type="bibr" target="#b10">[11,</ref><ref type="bibr" target="#b11">12]</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Volume definitions (arm 2)</head><p>For all lesions, the gross tumor volume (GTV) will be defined as the visible tumor on CT and/or MRI imaging +/− PET. No additional margin will be added for microscopic spread of disease (i.e. Clinical Target Volume [CTV] = GTV). For vertebral body lesions, although some centres consider the entire vertebral body as the CTV, that is not preferred in this trial due to the risk of large cumulative amounts of bone marrow being irradiated. It is strongly preferred that vertebral PTV volumes consist of the GTV (as defined on CT and MRI) with a small margin for motion, and NOT include the whole uninvolved vertebral body. A Planning Target Volume (PTV) margin of 2-5 mm will be added depending on site of disease, immobilization, and institutional set-up accuracy: 2 mm margins should be used for spinal stereotactic treatments, 0-2 mm for brain tumors, and 5 mm for other sites.</p><p>Targets should be named based on the organ involved, and numbered cranially to caudally for each organ. For example, in a patient with 1 brain and 3 lung lesions, nomenclature would be: GTV_brain_1, GTV_lung_1, GTV_lung_2, and GTV_lung_3, and corresponding PTV_brain_1, PTV_lung_1, PTV_lung_2_, and PTV_ lung_3, representing the lesions from superior to inferior.</p><p>For spinal lesions, a pre-treatment MRI is required to assess the extent of disease and position of the cord. This must be fused with the planning CT scan. A Planning Organ at Risk Volume (PRV) expansion of 2 mm will be added to the spinal cord, and dose constraints for the spinal cord apply to this PRV. Alternatively, the thecal sac may be used as the PRV. For radiosurgery platforms, a PRV margin of 1 mm is permitted for the spinal cord.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Organ at risk (OAR) doses</head><p>OAR doses are listed in Additional file 1. OAR doses may not be exceeded. In cases where the PTV coverage cannot be achieved without exceeding OAR doses, the PTV coverage is to be compromised. All OARs within 5 cm of the PTV must be contoured. This should be tested for each PTV by creating a 5 cm expansion to examine which OARs lie within that expansion.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Treatment planning</head><p>Treatment can be delivered using static beams (either 3D-conformal radiotherapy or intensity-modulated) or rotational therapy (volumetric modulated arc therapy, or tomotherapy). Priority will be placed on generating clinically acceptable plans while minimizing complexity, planning time, and treatment time.</p><p>Dose constraints may not be exceeded If a dose constraint cannot be achieved due to overlap of the target with an organ at risk, the dose can be reduced, the number of fractions can be increased, or the target coverage compromised in order to meet the constraint. The decision as to whether to reduce the dose to the whole target, or part of the target (i.e. by compromising the PTV coverage), is left to the discretion of the treating physician. In cases where the target coverage must be reduced, the priority for dose coverage is the GTV (e.g. attempt to cover as much of the GTV as possible with the prescription dose). For vertebral tumors, note that the spinal cord constraints apply to the PRV (see the "Volume definitions (arm 2)" section).</p><p>For all targets, doses should be prescribed to 60-90% isodose line surrounding the PTV, and all hotspots should fall within the GTV. 95% of the PTV should be covered by the prescription dose, and 99% of the PTV should be covered by 90% of the prescription dose. Doses must be corrected for tissue inhomogeneities. Several non-overlapping 6/10 MV beams (on the order of 7-11 beams) or 1-2 VMAT arcs combined possibly with a few non-coplanar beams should be utilized. Noncoplanar beams can be used to reduce 50% isodose volume.</p><p>The number of isocentres is at the discretion of the treating physician, physicists, and dosimetrists. Generally, metastases can be treated with separate isocenters if they are well-separated.</p><p>The scheduling and sequence of treating each metastasis is at the discretion of individual physicians, but in general should begin with the brain, due to risks associated with progression. All SABR must be completed within 2 weeks.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Quality assurance (arm 2)</head><p>In order to ensure patient safety and effective treatment delivery, a robust quality assurance protocol is incorporated. The following requirements must be completed for each patient:</p><p>Prior to treatment, plans for each patient must be peer-reviewed, either by discussion at quality assurance (QA) rounds or by another individual radiation oncologist. All radiotherapy plans must meet target dose levels for organs at risk (Additional file 1). Prior to plan approval, the dose to each organ at risk must be verified by the physicist or treating physician. All dose delivery for intensity-modulated plans (including arc-based treatments) will be confirmed before treatment by physics staff.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Systemic therapy</head><p>Patients treated with prior systemic therapy are eligible for this study, however, systemic therapy agents that are cytotoxic, immunotherapeutic, or molecularly targeted agents are NOT allowed within the period of time commencing 2 weeks prior to radiation lasting until 1 week after the last fraction. Hormone therapy is exempted from this and is allowed during treatment. Use of chemotherapy schemes containing potent enhancers of radiation damage (e.g. gemcitabine, doxorubicin) are discouraged within the first month after radiation.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Concurrent steroid treatment for brain metastases</head><p>Patients who require systemic steroids as treatment for brain metastases or related edema should be tapered as quickly and as safely possible. Prolonged use of steroids should be avoided, and steroid use will be recorded.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Further radiotherapy for progressive disease at new metastatic sites</head><p>Patients in Arm 1 who develop new, untreated metastatic deposits should be treated with standard-of-care approaches. SABR to those sites is not permitted, except for unique scenarios where it would be considered standard of care (e.g. all disease controlled on systemic therapy with a newly developed brain metastasis).</p><p>Patients in Arm 2 who develop new, untreated metastatic deposits should be considered for SABR at those sites, as appropriate, if such deposits can be treated safely with SABR, and if the treating institution offers SABR for that body site. If SABR is not possible, then palliative RT can be delivered if indicated. Patients in Arm 2 who develop progression at lesion previously treated with SABR may be considered for palliative radiation or repeat SABR if safe and dose constraints can be met.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Quality assurance for centres joining study</head><p>Prior to opening the study, each participating research centre will be required to send to one of the Principal Investigators a mock treatment plan for the anatomic sites that will be treated (e.g. lung, brain, liver, adrenal), to ensure that the treatment plans are designed in compliance with the protocol. The principal investigators will provide pertinent CT datasets. Alternatively, a preplan for a patient enrolled on this trial may be used for credentialing. Each participating research centre can choose which tumor sites will be treated at their individual centre (i.e. some centres may only choose to treat a subset of the eligible metastatic sites). Sites that have prior accreditation for SABR through a clinical trial (e.g. SABR-COMET, or organ-specific SABR trials) are exempt from this requirement for the organ sites that have been accredited in those trials.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Subject discontinuation / withdrawal</head><p>Subjects may voluntarily discontinue participation in the study at any time. If a subject is removed from the study, the clinical and laboratory evaluations that would have been performed at the end of the study should be obtained. If a subject is removed because of an adverse event, they should remain under medical observation as long as deemed appropriate by the treating physician.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Follow-up evaluation and assessment of efficacy</head><p>Follow-up Prior to Progression</p><p>Patients will be seen every 3 months post-randomization for the first 2 years, and every 6 months until 5 years after treatment <ref type="table" target="#tab_3">(Table 2)</ref>. At each visit, a history and physical examination will be conducted by the oncologist, and CTC-AE toxicities recorded. The FACT-G and EQ-5D-5 L quality of life questionnaire is to be completed at each visit.</p><p>CT head (or MR head), CT chest, abdomen and pelvis, and bone scans will be repeated every 3 months for the first 2 years, then every 6 months until 5 years have elapsed. Head imaging can be omitted for histologies without a propensity for brain metastases (e.g. prostate), and bone scans may be omitted in patients without bone metastases at presentation. PET scanning may be used in follow-up for patients who were staged with a PET scan for trial entry. In such cases, the PET replaces the CTs of the chest, abdomen, pelvis and the bone scan; brain imaging would still be required for histologies with a propensity for brain metastases.</p><p>Since many patients will be receiving systemic therapy and separately-timed imaging may be required to assess response to systemic therapy, attempts should be made to avoid duplication of scans. The imaging requirements herein may be adjusted by ±4 weeks in order to align with scans used to assess response to systemic therapy.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Follow-up after progression</head><p>After progression, patients randomized to Arm 2 will be considered for salvage SABR if new sites of disease develop, as long as it can be delivered safely, and to a maximum of 10 lesions total (including lesions treated at baseline).</p><p>After progression, for patients in either arm, additional visits, imaging or laboratory investigations should be carried out at the discretion of the oncologist. Additional treatment (e.g. further systemic therapy) is at the discretion of the treating oncologists. However, additional treatments, toxicities of study treatment, vital status and quality of life should still be collected, along with any further anti-cancer treatment delivered (e.g. further palliative radiation or systemic therapy), and this may be ascertained remotely (e.g. by phone or mail) to minimize visit burden for patients.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Assessment of efficacy</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Overall Survival</head><p>Defined as time from randomization to death from any cause Progression-free survival Defined as time from randomization to disease progression at any site or death.</p><p>Progression is defined as per the Response Evaluation Criteria in Solid Tumors (RECIST) 1.1 guidelines (http://recist.eortc.org/recist-1-1-2/). It can be difficult to distinguish recurrence from fibrosis/pseudoprogression after stereotactic radiation in some locations, such as the lung or brain. In such cases, if the RECIST 1.1 criteria for progression are met, the situation should be counted as progression unless there is imaging follow-up with stability of the imaging findings for at least 6 months.</p><p>As per RECIST 1.1, when findings of progression are equivocal (e.g. small new lesions of uncertain etiology), the patient should still be followed. If progression is confirmed at the next assessment, the date of progression assigned is the earlier date when progression was first suspected.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Time to development of new metastatic lesions</head><p>Defined as the time from randomization to the development of new lesions that were not detectable at the time of randomization. In a situation where indeterminate lesions were present at randomization, progression at one of those lesions does not count as a new metastatic lesion.</p><p>As noted above, as per RECIST 1.1, when findings of new metastases are equivocal (e.g. small new lesions of uncertain etiology), the patient should still be followed. If progression is confirmed at the next assessment, the date of progression assigned is the earlier date when progression was first suspected.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Quality of life</head><p>Assessed with the Functional Assessment of Cancer Therapy: General (FACT-G) and the EQ-5D-5 L Toxicity</p><p>Assessed by the National Cancer Institute Common Toxicity Criteria (NCI-CTC) version 4 for each organ treated (e.g. liver, lung, bone)]</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Statistical considerations</head><p>Randomization The study will employ a 1:2 randomization between Arm 1: Arm 2, based on the stratification factors described in Methods/design section. Patients will be randomized in permuted blocks, with the size of the blocks known only to the statistician. The randomization sequence is known only to the statistician and uploaded into a restricted-access database (REDCap) housed on secure hospital servers at LHSC. Upon enrollment of a patient, the database will be accessed by the trial coordinator to obtain the next intervention in the random sequence, for the pertinent stratum, which will then be assigned to the patient.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Sample size calculation</head><p>The sample size calculation is based on the OS results in the SABR-COMET trial. Overall, in that trial, median OS was 28 months in the standard arm and 41 months in the SABR arm. In the patients with 4-5 metastases, median OS in that trial was 7 months in the standard arm and 14 months in the SABR arm. These latter numbers are not reliable, since the number of patients with 4-5 metastases was very small, but they are useful to illustrate that the expected OS will decrease as the number of lesions increases.</p><p>In this current trial, we hypothesize that the median OS will be 10 months in Arm 1 and 17 months in Arm 2. In order to detect this difference, with an alpha of 0.05, 80% power, and a 5% dropout rate, 159 patients will be required. The study projects accrual over 60 months with 12 months of additional follow-up. Analysis will take place at least 12 months after the last patient is accrued, once 122 total OS events have occurred.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Analysis plan</head><p>Patients will be analyzed in the groups to which they are assigned (intention-to-treat). De-identified data (except for study number and initials, see confidentiality below) will be transmitted from participating centres via RED-Cap to be collected centrally where it will be stored on secure hospital servers at LHSC. Source documents will also be uploaded. Research coordinators (clinical trials staff) will perform data checks throughout the trial period and will call participating centres or visit as necessary. PFS and OS will be calculated using the Kaplan-Meier method with differences compared using the stratified log-rank test. Pre-planned subgroup analyses will occur based on the stratification factors. A Cox multivariable regression analysis will be used to determine baseline factors predictive of survival endpoints. For the endpoint of time to new metastases, a Fine and Gray competing risk analysis will be used to account for competing risk of death. Quality of life at 6 months will be measured using FACT-G and EQ-5D-5 L scores, with differences between groups tested using the Student's ttest. Differences in rates of grade 2 or higher toxicity between groups will be tested using the Fisher's Exact Test or Chi-Squared test, as appropriate.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Data safety monitoring committee</head><p>The DSMC membership will be independent of the study sponsor and free of competing interests. The DSMC will meet annually after study initiation to review toxicity outcomes. If any grade 3-5 toxicity is reported, the DSMC will review the case notes to determine if such toxicity is related to treatment. If the DSMC deems that toxicity rates are excessive (&gt; 40% grade 3 toxicity, or &gt; 8% grade 5 toxicity), then the DSMC can, at its discretion, recommend cessation of the trial, dose adjustment, or exclusion of certain treatment sites and/or delivery techniques that are deemed as high-risk for complications.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Interim analysis</head><p>The DSMC will conduct one interim analysis once the 75th patient is accrued and followed for 6 months. For this interim analysis, the DSMC will be blinded to the identity of each treatment arm, but median OS data will be presented for each arm. The DSMC will recommend stopping the trial if there is an OS difference that is statistically significant with a threshold of p &lt; 0.001 using the stratified log-rank test.</p><p>It is deemed worthwhile to stop for futility if both the OS and PFS analyses are likely to be negative. Therefore, at this interim analysis, if the hazard ratios for OS and PFS in Arm 2 vs Arm 1 are BOTH &gt; 1.0 (i.e. a higher hazard rate for OS in the experimental arm, and a higher hazard rate for PFS in the experimental arm) using univariable Cox regression, then the trial will be stopped for futility.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Future pooled analysis with SABR-COMET-3</head><p>A separate but similar phase III trial, but for patients 1-3 metastases, called SABR-COMET-3, is being proposed and drafted at the same time as this current trial. Once both trials are complete, a separate pooled analysis, using individual patient data from both trials, will be conducted, with the primary endpoint of OS, and any of the secondary endpoints from either trial where data has been collected in both trials.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Biomarker studies</head><p>The mandatory translational component of this trial has been designed to minimize the impact on patients while addressing important research questions around the oligometastatic state. Specifically, the increased requirements, beyond standard of care testing, consist of drawing 3 tubes of blood at 3 time periods <ref type="figure" target="#fig_1">(Fig. 2</ref>) for all patients: at randomization, 3-months post-randomization, and at progression.</p><p>Patients in Arm 2 only also require a blood draw 1-3 days after their first fraction of SABR and then 1-4 weeks after completion of SABR, prior to systemic therapy. In patients who do not progress, the final sample will be drawn at study completion (5-years post randomization).</p><p>Blood sample collection must take place on Monday, Tuesday, Wednesday or Thursday such that biospecimens requiring immediate overnight shipping (CTCs) can be received and processed quickly, without samples sitting unprocessed over a weekend.</p><p>Specimens 1A and 1B are required only for patients in Arm 2 and consist of 2 tubes of blood for ctDNA (plasma) and peripheral blood mononuclear cells (PBMCs). The timing of these blood draws can be chosen to minimize visits for the patient, but must occur within 1-3 days after the 1st fraction of SABR and 1-4 weeks post-SABR (prior to systemic therapy), respectively. For example, since many patients will likely be receiving multiple single-fraction treatments over &gt; 1 day or will be receiving 3-or 5-fraction SABR, the 1A blood draw can be completed upon a patient's return for the second SABR treatment. This blood draw is preferred to occur on the day after the first fraction. Similarly, since many patients will be proceeding to systemic therapy within a few weeks of SABR, completing the 1B blood draw on the first day of systemic therapy, but prior to the delivery of the systemic therapy, would be reasonable.</p><p>In addition to blood samples, the study will collect tissue samples from previous biopsies or resections of the primary tumor and metastases, where available. No additional biopsies will be needed for the purposes of the biomarker component of this trial beyond those collected as part of routine clinical care. If formalin-fixed paraffin-embedded (FFPE) tissue blocks are not available to be sent at the discretion of the local pathologist (e.g. insufficient tissue, or a need to keep all tissue for future purposes), the FFPE tissue blocks are not required and centres can proceed by sending peripheral blood only.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Laboratory support and shipping</head><p>Each participating institution will require an on-site laboratory for peripheral blood sample processing. This laboratory must also have freezer storage (− 80°C and liquid nitrogen). The protocols for collection and processing of peripheral blood, including required equipment and reagents, are provided in the Laboratory Manual. All shipping costs will be covered via the provision of pre-paid shipping labels, and an additional small stipend will be provided to cover laboratory time. A 'biomarker studies kit' containing collection tubes and pre-paid shipping labels will be sent to each participating institution to be retained by the personnel responsible for biospecimen collection.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Translational studies: Background &amp; Rationale</head><p>At the present time, there are no biomarkers that define the oligometastatic state. The closest to a defining biological feature is tumor histology, of which breast, kidney, and prostate are associated with improved OS in patients with clinical oligometastatic disease <ref type="bibr" target="#b2">[3]</ref>. Key clinical characteristics -colloquially termed 'The Four Aces' <ref type="bibr" target="#b19">[20]</ref> -help to identify a patient sub-population with metastatic cancer that is most likely to benefit from ablation of all sites of disease.</p><p>Even within this group, however, outcome can be variable: while some patients exhibit long disease-free intervals and better-than-expected overall survival following ablation of metastases, others progress rapidly and extensively with poor survival outcomes <ref type="bibr" target="#b20">[21]</ref>. Elucidating the biological mediators underlying a more indolent, sequential pattern of progression (i.e., oligometastasis) versus rapid, "poly-metastatic" progression will allow for more accurate selection of patients whose intrinsic natural history of disease make them more likely to benefit from ablation.</p><p>Specific biological characteristics of oligometastatic disease could provide important predictive biomarkers in this setting, but have thus far remained elusive. Studies up to this point have focused on micro-RNA profiling, but unfortunately these studies have not identified an miRNA expression signature that consistently defines patients with few metastases <ref type="bibr" target="#b21">[22]</ref><ref type="bibr" target="#b22">[23]</ref><ref type="bibr" target="#b23">[24]</ref>. No other studies to our knowledge have sought to identify specific biomarkers of oligometastasis. While a wide array of preclinical analyses have identified genetic and epigenetic alterations associated with metastasis in general <ref type="bibr" target="#b24">[25]</ref>, it remains to be determined which of these features represent useful biomarkers in differentiating rapid and widely metastatic cancer from an oligometastatic natural history.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Translational studies: purpose</head><p>To assess the correlation between candidate biomarkers of oligometastatic disease (blood-or tissue-derived) and oncologic outcomes including response to SABR, disease progression, and overall survival.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Methodology: the liquid biopsy</head><p>To evaluate potential biomarkers in a clinical setting, the use of a "liquid biopsy" is less invasive and more practical alternative to repeat biopsies. A liquid biopsy refers to sampling of peripheral blood to isolate and characterize circulating tumor DNA (ctDNA), circulating tumor cells (CTCs), and/or circulating host immune cells, among others <ref type="bibr" target="#b25">[26]</ref>. Liquid biopsy is an ideal sampling technique in this clinical trial because biopsy of metastatic lesions is not always possible, and unlike metastectomy, SABR does not inherently yield tissue. Moreover, there is evidence that post-SABR anti-tumor immune activation can be detected in the peripheral blood <ref type="bibr" target="#b26">[27]</ref> and that tumor necrosis (the immunogenic cell death mechanism associated with SABR) is associated with greater ctDNA concentrations <ref type="bibr" target="#b27">[28]</ref>, thus making liquid biopsy a rational means by which to assess potential biomarkers longitudinally.</p><p>Despite its many potential advantages, liquid biopsy does have some drawbacks, including the fact that discordance has been observed between genotyping via ctDNA versus tumor tissue; however, this may merely reflect clonal or temporal heterogeneity <ref type="bibr" target="#b28">[29]</ref>. Thus, for genetic analysis, we propose a combined approach that capitalizes on published findings of large-scale wholegenome sequencing efforts (including multi-region sequencing studies) <ref type="bibr" target="#b24">[25,</ref><ref type="bibr" target="#b27">28,</ref><ref type="bibr" target="#b29">30,</ref><ref type="bibr" target="#b30">31]</ref> to inform: (a) targeted panel-based evaluation of FFPE tumor tissue (primary tumor and/or metastasis biopsy) to assess genetic loci that are most frequently altered in metastatic disease (mutation or copy-number variation), followed by; (b) downstream analysis of peripheral blood that is tailored to detect tumor genetic alterations previously detected in (a) or more broadly assessed for copy number alteration and mutation (panel-based approach).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Circulating tumor cell analysis</head><p>Circulating tumor cells have repeatedly demonstrated their utility as a clinical prognostic metric. Prospective clinical studies have provided evidence that CTCs are prognostic in metastatic breast, prostate, and colorectal cancer, whereby increasing concentration correlates with oncologic outcomes such as treatment response and survival <ref type="bibr" target="#b25">[26]</ref>. Recently, the largest pooled CTC analysis to date revealed that CTC enumeration identifies an indolent subgroup of metastatic breast cancer patients (Stage IV indolent ) with improved survival, independent of treatment or molecular subtype <ref type="bibr" target="#b31">[32]</ref>. The role of CTCs in oligometastatic disease has not been studied, yet the sub-population with slowly-progressing natural history may overlap with the clinical definition of oligometastasis. Thus, CTCs may represent a useful prognostic and/ or predictive biomarker and their evaluation in this setting is warranted.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Analysis</head><p>A peripheral blood sample will be collected at each participating institution into provided CellSave blood collection tubes (Menarini Silicon Biosystems; preferred) or Cell-Free DNA BCT® blood collection tubes (Streck) which stabilize CTCs for 96 h at room temperature. Samples will then be prepared for CTC analysis using the CellSearch system (Veridex, Inc.) in the laboratory of Dr. Alison Allan. Participating institutions will ship samples within 24 h to LHSC for processing and CellSearch analysis.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Host immune cell analysis</head><p>The role of the host immune system in establishing a prohibitive or permissive microenvironment for metastatic colonization is increasingly well-established: while activation of cytotoxic T-lymphocytes is thought to inhibit metastases, regulatory T-lymphocytes can conversely exhaust/de-activate anti-tumor immunity, thus having the opposite effect <ref type="bibr" target="#b32">[33]</ref>. Additionally, recent evidence suggests that natural killer cells contribute to non-specific immune surveillance to create an inhospitable milieu for the establishment of metastatic colonies <ref type="bibr" target="#b33">[34]</ref>. Furthermore, as evidenced by the successful application of immunecheckpoint inhibition in treating metastatic cancer, the modulation of the host immune system can dramatically impact the extent of metastasis. Finally, both pre-clinical and clinical data demonstrate that immune cell activity can also be modulated by SABR <ref type="bibr" target="#b34">[35]</ref>, an effect that can be monitored in peripheral blood via analysis of circulating immune cells following radiotherapy <ref type="bibr" target="#b26">[27]</ref>. SABR may also effect a so-called abscopal (out-of-field) response, thereby improving control of metastatic disease <ref type="bibr" target="#b35">[36]</ref>. Given the important role of immune surveillance for metastasis, its therapeutic modulation in the setting of metastatic disease, and its interplay with SABR, evaluating the importance of host immunity in the context of oligometastasis ablation is warranted to explore useful predictive and/ or prognostic biomarkers.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Analysis</head><p>We aim to analyze peripherally circulating immune cells for expression of surface antigens that are reflective of immune activation or exhaustion/suppression. The analysis itself will be conducted by the Amsterdam UMC. Samples will be collected and stored at each participating institution as per the Laboratory Manual and stored at − 80°C will subsequently be shipped, on an annual basis, on dry ice to VU Amsterdam for further processing and FACS analysis.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Tumor DNA analysis</head><p>Recent studies utilizing contemporary genomic analysis techniques have identified individual gene-level alterations (e.g., mutations and copy-number variations) as well as genome-scale metrics (e.g., tumor mutational burden and percent genomic copy-number alteration) that correlate with metastatic disease and poor outcomes <ref type="bibr" target="#b24">[25,</ref><ref type="bibr" target="#b27">28,</ref><ref type="bibr" target="#b29">30,</ref><ref type="bibr" target="#b30">31]</ref>. Perhaps most informatively, multiregion sequencing of primary tumors and paired metastases has permitted phylogenetic analysis of metastasis evolution, shedding light on genetic alterations that correlate with patterns of metastatic dissemination; specifically, select genetic alterations in the setting of renal cancer effectively differentiate a rapid, multi-site "polymetastatic" progression from an attenuated, indolent metastatic disease course reminiscent of an oligometastatic natural history <ref type="bibr" target="#b29">[30]</ref>. These large-scale studies have performed whole-genome sequencing in each patient, an approach that is not currently practical or cost-effective in the clinical setting. However, curating the findings of these large-scale analyses to develop a targeted approach using a panel-based subset of frequently-altered genetic loci will permit a more focused yet rationally-based evaluation of oligometastatic tumor DNA, akin to the approach taken by Abbosh et al. <ref type="bibr" target="#b27">[28]</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Analysis</head><p>The plasma fraction containing circulating tumor DNA (ctDNA) will be isolated from peripheral blood collected at the above-mentioned timepoints as per the protocol detailed in the Laboratory Manual. Once extracted, plasma samples will be frozen at -80 C. Participating institutions will batch-ship frozen samples on dry ice to LHSC where all samples will be stored.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Confidentiality</head><p>The names and personal information of study participants will be held in strict confidence. All study records (case report forms, safety reports, correspondence, etc.) will only identify the subject by initials and the assigned study identification number. The investigator will maintain a confidential subject identification list (Master List) during the course of the study. Access to confidential information (i.e., source documents and patient records) is only permitted for direct subject management and for those involved in monitoring the conduct of the study (i.e., Sponsors, CRO's, representatives of the IRB/REB, and regulatory agencies). The subject's name will not be used in any public report of the study.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Data sharing statement</head><p>Deidentified participant data from this trial will not be shared publicly, however, the full protocol will be published along with the primary analysis of the outcomes.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Protocol ammendments and trial publication</head><p>Any modifications to the trial protocol must be approved and enacted by the principal investigator (Current version: 1.0 on January 31, 2018). Protocol amendments will communicated to all participating centres, investigators, IRBs, and trial registries by the principal investigator. Any communication or publication of trial results will be led by the principal investigator, and is expected to occur within 1 year of the primary analysis. Trial results will remain embargoed until conference presentation of an abstract or until information release is authorized. Authorship of the trial abstract and ultimately the full manuscript will be decided by the principal investigator at the time of submission. Professional writers will not be used for either abstract or manuscript preparation.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Discussion</head><p>The oligometastatic paradigm posits the existence of an intermediate state between localized and widelydisseminated metastatic cancer <ref type="bibr" target="#b0">[1]</ref>. In this setting, resection or ablative therapy to metastases is associated with betterthan-expected survival <ref type="bibr" target="#b1">[2,</ref><ref type="bibr" target="#b2">3]</ref>. Recent randomized data have helped to confirm the existence of the oligometastatic state and demonstrate that ablative therapy -including stereotactic ablative radiotherapy (SABR) -improves progressionfree and overall survival <ref type="bibr" target="#b5">[6,</ref><ref type="bibr" target="#b6">7]</ref>. These studies are based mostly on patients with 3 or fewer metastases; while SABR is generally safe, the risk of treatment-related toxicity is expected to rise with the number of metastases treated. Therefore, considerable equipoise remains as to whether patients with a greater number of metastases would similarly benefit from SABR to all sites. It is incumbent upon physicians to determine how many lesions are amenable to safe, minimally-toxic ablative therapy that benefits the oligometastatic patient. Furthermore, a practical definition of oligometastatic disease will be aided by a deeper understanding of its biological underpinnings, which thus far have remained elusive <ref type="bibr" target="#b21">[22]</ref><ref type="bibr" target="#b22">[23]</ref><ref type="bibr" target="#b23">[24]</ref>. Identifying biomarkers associated with a relatively indolent, sequential pattern of progression (i.e., oligometastasis) will thus facilitate greater accuracy in selecting which oligometastatic patients are most likely to benefit from SABR.</p><p>The SABR-COMET-10 trial is a multicenter, international phase III trial that aims to accrue 159 patients with 4-10 metastases, randomized to standard of care versus standard of care plus SABR to all metastatic lesions. The delivery of SABR in this trial will be guided by key principles including pre-planning prior to enrolment to ensure safety, SABR dose reduction and strict adherence to OAR tolerances to minimize toxicity, and treatment completion within 2 weeks to prevent delay in systemic therapy initiation/resumption. The primary endpoint of SABR-COMET-10 is OS with secondary endpoints of PFS and QoL. Translational endpoints will also be assessed using peripheral blood samples collected at multiple timepoints to evaluate circulating tumour DNA, circulating tumour cells, and host immune cell activation. Thus, SABR-COMET-10 aims to determine both whether SABR improves outcomes in patients with &gt; 3 metastases as well as to identify biomarkers of oligometastasis that can help select those patients who are most likely to benefit. This trial has several important limitations. Inclusion of all histologies allows for more rapid accrual and reduces the risk of failure due to poor enrollment, but will not allow us to elucidate differences in outcomes by histologic subtype. In addition, our estimate of a 10-month survival in the control arm is based on the results of the original SABR-COMET trial, wherein patients with 4-5 metastases in the control arm had a median survival of only 7 months. We inflated this estimate to 10 months, to increase our power to detect a difference if outcomes have improved based on improvements in standard of care systemic therapy since the original trial. If the true survival in the standard arm is substantially longer, then statistical power might be reduced. As in the original SABR-COMET trial, in SABR-COMET-10 there is no specified limit to the number of lesions that can be treated with palliative local treatments (such as external beam radiation) on the standard arm. Ablative treatments are not expected to be provided in Arm 1, unless considered standard of care (e.g. stereotactic radiation for brain metastases), and all such treatments delivered will be documented. We are optimistic that the pragmatic components of this trial, the large number of participating centres, and the presence of physician equipoise on this question will help to reduce the risk of poor accrual.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>Fig. 1</head><label>1</label><figDesc>Study Schema</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head>Fig. 2</head><label>2</label><figDesc>Peripheral Blood Collection Timeline. Study completion is defined as 5 years of follow-up. Sample 1A &amp; 1B will include 2 vials of blood for ctDNA and peripheral blood mononuclear cell isolation</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_2"><head>Table 1</head><label>1</label><figDesc>Allowable doses and fractionations* Note that centres should use doses that standard at their institutions based on the specific clinical situation, within these guidelines. For example, if the standard dose for a 2.5 cm brain metastasis is 24 Gy in 3 fractions, which is an 'acceptable dose', that should be used instead of the 'preferred dose'</figDesc><table><row><cell>Number of</cell><cell>Preferred</cell><cell>Acceptable</cell><cell>Major Deviation</cell></row><row><cell>Fractions</cell><cell>Dose</cell><cell>Doses</cell><cell></cell></row><row><cell>1</cell><cell>2 0 G y</cell><cell>1 6 -24 Gy</cell><cell>&lt; 16 Gy or &gt; 24</cell></row><row><cell></cell><cell></cell><cell></cell><cell>Gy</cell></row><row><cell>3</cell><cell>3 0 G y</cell><cell>2 4 -33 Gy</cell><cell>&lt; 24 Gy or &gt; 33</cell></row><row><cell></cell><cell></cell><cell></cell><cell>Gy</cell></row><row><cell>5</cell><cell>3 5 G y</cell><cell>2 5 -40 Gy</cell><cell>&lt; 25 Gy or &gt; 40</cell></row><row><cell></cell><cell></cell><cell></cell><cell>Gy</cell></row></table><note>*</note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_3"><head>Table 2</head><label>2</label><figDesc>Follow-up Evaluations</figDesc><table><row><cell>Test and Procedures</cell><cell>1-4 weeks</cell><cell>3 Months post</cell><cell>Years 1-2</cell><cell>Years 3-5</cell><cell>First</cell></row><row><cell></cell><cell>post SABR treatment</cell><cell>Randomization</cell><cell>Every 3 months</cell><cell>Every 6 months</cell><cell>progression or study</cell></row><row><cell></cell><cell>and prior</cell><cell></cell><cell></cell><cell></cell><cell>completion (at</cell></row><row><cell></cell><cell>to</cell><cell></cell><cell></cell><cell></cell><cell>5 years post-</cell></row><row><cell></cell><cell>systemic</cell><cell></cell><cell></cell><cell></cell><cell>randomization)</cell></row><row><cell></cell><cell>therapy</cell><cell></cell><cell></cell><cell></cell><cell>whichever is</cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>first</cell></row><row><cell>History and Physical including assessment of side affects</cell><cell></cell><cell></cell><cell>X</cell><cell>X</cell><cell></cell></row><row><cell>CT or MR head, CT chest, abdomen, pelvis</cell><cell></cell><cell></cell><cell>X</cell><cell>X</cell><cell></cell></row><row><cell>Bone Scan</cell><cell></cell><cell></cell><cell>X</cell><cell>X</cell><cell></cell></row><row><cell>Completion of questionnaires (FACT-G and EQ-5D-5 L)</cell><cell></cell><cell></cell><cell>X</cell><cell>X</cell><cell></cell></row><row><cell>Blood Samples for Correlative Studies (i.e studies that</cell><cell>X (Arm 2)</cell><cell>X (Arm 1 &amp; 2)</cell><cell></cell><cell></cell><cell>X (Arm 1 &amp; 2)</cell></row><row><cell>are associated with the main study)</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row></table><note></note></figure>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Acknowledgements</head><p>None.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Clinical trial registration</head><p>Clinicaltrials.gov identifier: NCT03721341. Date of registration: October 26, 2018; registration fields are provided in Additional file 2.</p></div>
+			</div>
+
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Additional files</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Funding</head><p>Funded through philanthropic donations to the London Health Sciences Foundation designated by donors to specifically fund SABR-COMET10, and through grand funding awarded to DAP from the Ontario Institute for Cancer Research. The funding bodies have no role in study design, collection, analysis, interpretation of data or writing the manuscript.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Availability of data and materials</head><p>Not applicable.</p><p>Ethics approval and consent to participate Ethics approval has been obtained from the Ontario Cancer Research Ethics Board (#1697). Written consent to participate will be obtained from individual study participants and will include consent to undergo study interventions as well as biomarker assessment. Sample consent form is in Additional file 3. Consent will be obtained at individual participating institutions by study investigators or clinical trials staff members.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Consent for publication Not applicable</head><p>Competing interests RO has received grant funding from Varian Medical Systems, unrelated to this research project. DS has received grant funding from Varian Medical Systems Inc, and honoraria from AstraZeneca, Bayer, and Merck, unrelated to this research project. AVL has received honoraria from Varian Medical Systems and AstraZeneca, unrelated to this research project. SSenan has received grant funding from ViewRay and Varian Medical Systems, and honoraria from AstraZeneca, Celgene, and MSD, unrelated to this research project. The other authors declare that they have no competing interests.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Publisher's Note</head><p>Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.</p></div>			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title/>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Hellman</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><surname>Weichselbaum</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Oligometastases</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Clin Oncol</title>
+		<imprint>
+			<biblScope unit="volume">13</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="8" to="10" />
+			<date type="published" when="1995" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Jr on behalf of the International Registry of Lung Metastases. Long-term results of lung metastasectomy: prognostic analyses based on 5206 cases. The International Registry of Lung Metastases</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">U</forename><surname>Pastorino</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Buyse</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">G</forename><surname>Friedel</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><forename type="middle">J</forename><surname>Ginsberg</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><surname>Girard</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><surname>Goldstraw</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Johnston</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><surname>Mccormack</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><surname>Pass</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">B</forename><surname>Putnam</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Thorac Cardiovasc Surg</title>
+		<imprint>
+			<biblScope unit="volume">113</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="37" to="49" />
+			<date type="published" when="1997" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Classification for long-term survival in oligometastatic patients treated with ablative radiotherapy: a multi-institutional pooled analysis</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">C</forename><surname>Hong</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><forename type="middle">N</forename><surname>Ayala-Peacock</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Lee</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><forename type="middle">W</forename><surname>Blackstock</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><surname>Okunieff</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">W</forename><surname>Sung</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><forename type="middle">R</forename><surname>Weichselbaum</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Kao</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">J</forename><surname>Urbanic</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">T</forename><surname>Milano</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">PLoS One</title>
+		<imprint>
+			<biblScope unit="volume">13</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page">195149</biblScope>
+			<date type="published" when="2018" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Lung metastasectomy in colorectal cancer: is this surgery effective in prolonging life?</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Primrose</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Treasure</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">F</forename><surname>Fiorentino</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Respirology</title>
+		<imprint>
+			<biblScope unit="volume">15</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page" from="742" to="748" />
+			<date type="published" when="2010" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">The oligometastatic state -separating truth from wishful thinking</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><surname>Palma</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Salama</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Lo</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Senan</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Treasure</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><surname>Govinden</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><surname>Weichselbaum</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nat Rev Clin Oncol</title>
+		<imprint>
+			<date type="published" when="2014" />
+		</imprint>
+	</monogr>
+	<note>Accepted in press</note>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Consolidative radiotherapy for limited metastatic non-small-cell lung Cancer: a phase 2 randomized clinical trial</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><surname>Iyengar</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Z</forename><surname>Wardak</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><forename type="middle">E</forename><surname>Gerber</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">V</forename><surname>Tumati</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><surname>Ahn</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><forename type="middle">S</forename><surname>Hughes</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">E</forename><surname>Dowell</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">N</forename><surname>Cheedella</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">L</forename><surname>Nedzi</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><forename type="middle">D</forename><surname>Westover</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">JAMA Oncol</title>
+		<imprint>
+			<biblScope unit="volume">4</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page">173501</biblScope>
+			<date type="published" when="2018" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Local consolidative therapy versus maintenance therapy or observation for patients with oligometastatic non-small-cell lung cancer without progression after firstline systemic therapy: a multicentre, randomised, controlled, phase 2 study</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><forename type="middle">R</forename><surname>Gomez</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">G</forename><forename type="middle">R</forename><surname>Blumenschein</surname><genName>Jr</genName></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">J</forename><surname>Lee</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Hernandez</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><surname>Ye</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><forename type="middle">R</forename><surname>Camidge</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><forename type="middle">C</forename><surname>Doebele</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">F</forename><surname>Skoulidis</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">L</forename><forename type="middle">E</forename><surname>Gaspar</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><forename type="middle">L</forename><surname>Gibbons</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Lancet Oncol</title>
+		<imprint>
+			<biblScope unit="volume">17</biblScope>
+			<biblScope unit="issue">12</biblScope>
+			<biblScope unit="page" from="1672" to="82" />
+			<date type="published" when="2016" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Local Treatment of Unresectable Colorectal Liver Metastases: Results of a Randomized Phase II Trial</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Ruers</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">F</forename><surname>Van Coevorden</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><forename type="middle">J</forename><surname>Punt</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">E</forename><surname>Pierie</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">I</forename><surname>Borel-Rinkes</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">A</forename><surname>Ledermann</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">G</forename><surname>Poston</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">W</forename><surname>Bechstein</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">A</forename><surname>Lentz</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Mauer</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Natl Cancer Inst</title>
+		<imprint>
+			<biblScope unit="volume">109</biblScope>
+			<biblScope unit="issue">9</biblScope>
+			<biblScope unit="page" from="1" to="10" />
+			<date type="published" when="2017" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Radiofrequency ablation combined with systemic treatment versus systemic treatment alone in patients with non-resectable colorectal liver metastases: a randomized EORTC intergroup phase II study (EORTC 40004)</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Ruers</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><surname>Punt</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">F</forename><surname>Van Coevorden</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Jpen</forename><surname>Pierie</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">I</forename><surname>Borel-Rinkes</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">A</forename><surname>Ledermann</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">G</forename><surname>Poston</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">W</forename><surname>Bechstein</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">A</forename><surname>Lentz</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Mauer</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ann Oncol</title>
+		<imprint>
+			<biblScope unit="volume">23</biblScope>
+			<biblScope unit="issue">10</biblScope>
+			<biblScope unit="page" from="2619" to="2645" />
+			<date type="published" when="2012" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Stereotactic Ablative Radiation Therapy for the Comprehensive Treatment of Oligometastatic Tumors (SABR-COMET): Results of a Randomized Trial</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><forename type="middle">A</forename><surname>Palma</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><forename type="middle">A</forename><surname>Olson</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Harrow</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Gaede</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><forename type="middle">V</forename><surname>Louie</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><surname>Haasbeek</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">L</forename><forename type="middle">A</forename><surname>Mulroy</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">I</forename><surname>Lock</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">G</forename><surname>Rodrigues</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">B</forename><forename type="middle">P</forename><surname>Yaremko</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Int J Radiat Oncol Biol Physics</title>
+		<imprint>
+			<biblScope unit="volume">102</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="3" to="4" />
+			<date type="published" when="2018" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Stereotactic ablative radiotherapy for comprehensive treatment of oligometastatic tumors (SABR-COMET): study protocol for a randomized phase II trial</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><forename type="middle">A</forename><surname>Palma</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><forename type="middle">J</forename><surname>Haasbeek</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">G</forename><forename type="middle">B</forename><surname>Rodrigues</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Dahele</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Lock</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">B</forename><surname>Yaremko</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><surname>Olson</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Liu</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Panarotto</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">G</forename><forename type="middle">H</forename><surname>Griffioen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">BMC Cancer</title>
+		<imprint>
+			<biblScope unit="volume">12</biblScope>
+			<biblScope unit="page">305</biblScope>
+			<date type="published" when="2012" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Stereotactic ablative radiotherapy versus standard-of-care palliative treatment in patients with oligometastatic cancers (SABR-COMET): a randomized, phase II, open-label trial</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><forename type="middle">A</forename><surname>Palma</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><forename type="middle">A</forename><surname>Olson</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Harrow</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Gaede</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><forename type="middle">V</forename><surname>Louie</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><surname>Haasbeek</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">L</forename><forename type="middle">A</forename><surname>Mulroy</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">I</forename><surname>Lock</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">G</forename><surname>Rodrigues</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">B</forename><forename type="middle">P</forename><surname>Yaremko</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Lancet</title>
+		<imprint>
+			<biblScope unit="volume">393</biblScope>
+			<biblScope unit="page" from="2051" to="2059" />
+			<date type="published" when="2019" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Comparison of outcomes in patients with stage III versus limited stage IV non-small cell lung cancer</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><surname>Cheruvu</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><forename type="middle">K</forename><surname>Metcalfe</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Metcalfe</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Y</forename><surname>Chen</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><surname>Okunieff</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">T</forename><surname>Milano</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Radiat Oncol</title>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="page">80</biblScope>
+			<date type="published" when="2011" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Survival among patients with 10 or more brain metastases treated with stereotactic radiosurgery</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><surname>Rava</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><surname>Leonard</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Sioshansi</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">B</forename><surname>Curran</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><forename type="middle">E</forename><surname>Wazer</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">G</forename><forename type="middle">R</forename><surname>Cosgrove</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">G</forename><surname>Noren</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">T</forename><surname>Hepel</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Neurosurg</title>
+		<imprint>
+			<biblScope unit="volume">119</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="457" to="62" />
+			<date type="published" when="2013" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">Application of Critical Volume-Dose Constraints for Stereotactic Body Radiation Therapy in NRG Radiation Therapy Trials</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><forename type="middle">A</forename><surname>Ritter</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Matuszak</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">I</forename><forename type="middle">J</forename><surname>Chetty</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><forename type="middle">S</forename><surname>Mayo</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Wu</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><surname>Iyengar</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Weldon</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><surname>Robinson</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Y</forename><surname>Xiao</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><forename type="middle">D</forename><surname>Timmerman</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Int J Radiat Oncol Biol Physics</title>
+		<imprint>
+			<biblScope unit="volume">98</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="34" to="40" />
+			<date type="published" when="2017" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Fast and robust online adaptive planning in stereotactic MRguided adaptive radiation therapy (SMART) for pancreatic cancer</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">O</forename><surname>Bohoudi</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Ame</forename><surname>Bruynzeel</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Senan</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">P</forename><surname>Cuijpers</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">B</forename><forename type="middle">J</forename><surname>Slotman</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">F</forename><forename type="middle">J</forename><surname>Lagerwaard</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">A</forename><surname>Palacios</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Radiother Oncol</title>
+		<imprint>
+			<biblScope unit="volume">125</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="439" to="483" />
+			<date type="published" when="2017" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Role of daily plan adaptation in MR-guided stereotactic ablative radiotherapy for adrenal metastases</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">A</forename><surname>Palacios</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">O</forename><surname>Bohoudi</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Ame</forename><surname>Bruynzeel</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">R</forename><surname>Van Sornsen-De Koste</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><surname>Cobussen</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">B</forename><forename type="middle">J</forename><surname>Slotman</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">F</forename><forename type="middle">J</forename><surname>Lagerwaard</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Senan</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Int J Radiat Oncol Biol Phys</title>
+		<imprint>
+			<biblScope unit="volume">102</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="426" to="459" />
+			<date type="published" when="2018" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">MR-guided Gated Stereotactic Radiation Therapy Delivery for Lung, Adrenal, and Pancreatic Tumors: A Geometric Analysis</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">R</forename><surname>Van Sörnsen De Koste</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">A</forename><surname>Palacios</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Ame</forename><surname>Bruynzeel</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">B</forename><forename type="middle">J</forename><surname>Slotman</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Senan</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">F</forename><forename type="middle">J</forename><surname>Lagerwaard</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Int J Radiat Oncol Biol Physics</title>
+		<imprint>
+			<biblScope unit="volume">102</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="858" to="66" />
+			<date type="published" when="2018" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><surname>Tekatli</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Fob</forename><surname>Spoelstra</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Palacios</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Van Sornsen De Koste</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">B</forename><forename type="middle">J</forename><surname>Slotman</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Senan</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Stereotactic ablative radiotherapy (SABR) for early-stage central lung tumors: new insights and approaches</title>
+		<imprint>
+			<date type="published" when="2018" />
+			<biblScope unit="volume">123</biblScope>
+			<biblScope unit="page" from="142" to="150" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">New strategies in stereotactic radiotherapy for Oligometastases</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><forename type="middle">A</forename><surname>Palma</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><forename type="middle">V</forename><surname>Louie</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">G</forename><forename type="middle">B</forename><surname>Rodrigues</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Clin Cancer Res</title>
+		<imprint>
+			<biblScope unit="volume">21</biblScope>
+			<biblScope unit="issue">23</biblScope>
+			<biblScope unit="page" from="5198" to="204" />
+			<date type="published" when="2015" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">Stereotactic body radiotherapy for Oligometastasis: opportunities for biology to guide clinical management</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><forename type="middle">J</forename><surname>Correa</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">K</forename><surname>Salama</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">T</forename><surname>Milano</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><forename type="middle">A</forename><surname>Palma</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Cancer J</title>
+		<imprint>
+			<biblScope unit="volume">22</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="247" to="56" />
+			<date type="published" when="2016" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">Oligo-and polymetastatic progression in lung metastasis (es) patients is associated with specific microRNAs</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Y</forename><forename type="middle">A</forename><surname>Lussier</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">N</forename><forename type="middle">N</forename><surname>Khodarev</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><surname>Regan</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><surname>Corbin</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><surname>Li</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Ganai</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><forename type="middle">A</forename><surname>Khan</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">L</forename><surname>Gnerlich</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><forename type="middle">E</forename><surname>Darga</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><surname>Fan</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">PLoS One</title>
+		<imprint>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="issue">12</biblScope>
+			<biblScope unit="page">50141</biblScope>
+			<date type="published" when="2012" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">MicroRNA expression characterizes oligometastasis (es)</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Y</forename><forename type="middle">A</forename><surname>Lussier</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><forename type="middle">R</forename><surname>Xing</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">K</forename><surname>Salama</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">N</forename><forename type="middle">N</forename><surname>Khodarev</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Y</forename><surname>Huang</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Q</forename><surname>Zhang</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><forename type="middle">A</forename><surname>Khan</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">X</forename><surname>Yang</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">D</forename><surname>Hasselle</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><forename type="middle">E</forename><surname>Darga</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">PLoS One</title>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="issue">12</biblScope>
+			<biblScope unit="page">28650</biblScope>
+			<date type="published" when="2011" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title level="a" type="main">14q32-encoded microRNAs mediate an oligometastatic phenotype</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Uppal</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><forename type="middle">C</forename><surname>Wightman</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Mallon</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">G</forename><surname>Oshima</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><forename type="middle">P</forename><surname>Pitroda</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Q</forename><surname>Zhang</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">X</forename><surname>Huang</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><forename type="middle">E</forename><surname>Darga</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">L</forename><surname>Huang</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Andrade</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Oncotarget</title>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page" from="3540" to="52" />
+			<date type="published" when="2015" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title level="a" type="main">Emerging biological principles of metastasis</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><forename type="middle">W</forename><surname>Lambert</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><forename type="middle">R</forename><surname>Pattabiraman</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><forename type="middle">A</forename><surname>Weinberg</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Cell</title>
+		<imprint>
+			<biblScope unit="volume">168</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="670" to="91" />
+			<date type="published" when="2017" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title level="a" type="main">Clinical applications of circulating tumor cells and circulating tumor DNA as liquid biopsy</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Alix-Panabieres</forename></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><surname>Pantel</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Cancer Discov</title>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page" from="479" to="91" />
+			<date type="published" when="2016" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title level="a" type="main">Stereotactic ablative radiotherapy induces peripheral T-cell activation in patients with early-stage lung Cancer</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><forename type="middle">L</forename><surname>De Goeje</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><forename type="middle">F</forename><surname>Smit</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><surname>Waasdorp</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Mtb</forename><surname>Schram</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Meh</forename><surname>Kaijen-Lambers</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><surname>Bezemer</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>De Mol</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><forename type="middle">J</forename><surname>Hartemink</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Nuyttens</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Maat</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Am J Respir Crit Care Med</title>
+		<imprint>
+			<biblScope unit="volume">196</biblScope>
+			<biblScope unit="issue">9</biblScope>
+			<biblScope unit="page" from="1224" to="1231" />
+			<date type="published" when="2017" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+		<title level="a" type="main">Phylogenetic ctDNA analysis depicts early-stage lung cancer evolution</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><surname>Abbosh</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">N</forename><forename type="middle">J</forename><surname>Birkbak</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">G</forename><forename type="middle">A</forename><surname>Wilson</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Jamal-Hanjani</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Constantin</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><surname>Salari</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Le</forename><surname>Quesne</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Moore</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><forename type="middle">A</forename><surname>Veeriah</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Rosenthal</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nature</title>
+		<imprint>
+			<biblScope unit="volume">545</biblScope>
+			<biblScope unit="issue">7655</biblScope>
+			<biblScope unit="page" from="446" to="51" />
+			<date type="published" when="2017" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<analytic>
+		<title level="a" type="main">Circulating tumor DNA analysis in patients with Cancer</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">D</forename><surname>Merker</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">G</forename><forename type="middle">R</forename><surname>Oxnard</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><surname>Compton</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Diehn</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><surname>Hurley</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><forename type="middle">J</forename><surname>Lazar</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">N</forename><surname>Lindeman</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><forename type="middle">M</forename><surname>Lockwood</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><forename type="middle">J</forename><surname>Rai</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><forename type="middle">L</forename><surname>Schilsky</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Clinical Oncology and College of American Pathologists Joint Review</title>
+		<imprint>
+			<biblScope unit="volume">36</biblScope>
+			<biblScope unit="issue">16</biblScope>
+			<biblScope unit="page" from="1631" to="1672" />
+			<date type="published" when="2018" />
+			<publisher>American Society</publisher>
+		</imprint>
+	</monogr>
+	<note>J Clin Oncol</note>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<analytic>
+		<title level="a" type="main">Tracking Cancer evolution reveals constrained routes to metastases: TRACERx renal</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Turajlic</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><surname>Xu</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><surname>Litchfield</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Rowan</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Chambers</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">I</forename><surname>Lopez</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><surname>Nicol</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>O'brien</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Larkin</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Horswell</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Cell</title>
+		<imprint>
+			<biblScope unit="volume">173</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="581" to="94" />
+			<date type="published" when="2018" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<analytic>
+		<title level="a" type="main">Tracking the evolution of non-small-cell lung Cancer</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Jamal-Hanjani</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">G</forename><forename type="middle">A</forename><surname>Wilson</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">N</forename><surname>Mcgranahan</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">N</forename><forename type="middle">J</forename><surname>Birkbak</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Tbk</forename><surname>Watkins</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Veeriah</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Shafi</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><forename type="middle">H</forename><surname>Johnson</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><surname>Mitter</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><surname>Rosenthal</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">N Engl J Med</title>
+		<imprint>
+			<biblScope unit="volume">376</biblScope>
+			<biblScope unit="issue">22</biblScope>
+			<biblScope unit="page" from="2109" to="2130" />
+			<date type="published" when="2017" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<analytic>
+		<title level="a" type="main">The impact of circulating tumor cells (CTCs) detection in metastatic breast cancer (MBC): Implications of &quot;indolent&quot; stage IV disease (Stage IVindolent)</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Davis</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Clin Oncol</title>
+		<imprint>
+			<biblScope unit="volume">36</biblScope>
+			<biblScope unit="page">1019</biblScope>
+			<date type="published" when="2018" />
+		</imprint>
+	</monogr>
+	<note>suppl</note>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<analytic>
+		<title level="a" type="main">Control of metastasis by NK cells</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Lopez-Soto</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Gonzalez</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">J</forename><surname>Smyth</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">L</forename><surname>Galluzzi</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Cancer Cell</title>
+		<imprint>
+			<biblScope unit="volume">32</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="135" to="54" />
+			<date type="published" when="2017" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<analytic>
+		<title level="a" type="main">Genome-wide in vivo screen identifies novel host regulators of metastatic colonization</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">L</forename><surname>Van Der Weyden</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">J</forename><surname>Arends</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><forename type="middle">D</forename><surname>Campbell</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Bald</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><surname>Wardle-Jones</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">N</forename><surname>Griggs</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">D</forename><surname>Velasco-Herrera</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Tuting</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">O</forename><forename type="middle">J</forename><surname>Sansom</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">N</forename><forename type="middle">A</forename><surname>Karp</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nature</title>
+		<imprint>
+			<biblScope unit="volume">541</biblScope>
+			<biblScope unit="issue">7636</biblScope>
+			<biblScope unit="page" from="233" to="239" />
+			<date type="published" when="2017" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<analytic>
+		<title level="a" type="main">Radiotherapy: changing the game in immunotherapy</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Demaria</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><forename type="middle">N</forename><surname>Coleman</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><forename type="middle">C</forename><surname>Formenti</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Trends Cancer</title>
+		<imprint>
+			<biblScope unit="volume">2</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page" from="286" to="94" />
+			<date type="published" when="2016" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b35">
+	<analytic>
+		<title level="a" type="main">Using immunotherapy to boost the abscopal effect</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">W</forename><surname>Ngwa</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">O</forename><forename type="middle">C</forename><surname>Irabor</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">D</forename><surname>Schoenfeld</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Hesser</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Demaria</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><forename type="middle">C</forename><surname>Formenti</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nat Rev Cancer</title>
+		<imprint>
+			<biblScope unit="volume">18</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page" from="313" to="335" />
+			<date type="published" when="2018" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

@@ -1,0 +1,1293 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /data/rsg/nlp/juanmoo1/bin/grobid-0.6.1/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">receptor activity-low, stemness program associated with enzalutamide resistance</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Joshi</forename><forename type="middle">J</forename><surname>Alumkal</surname></persName>
+							<email>jalumkal@med.umich.edu</email>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Duanchen</forename><surname>Sun</surname></persName>
+							<idno type="ORCID">0000-0002-2802-6347</idno>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Eric</forename><surname>Lu</surname></persName>
+							<idno type="ORCID">0000-0002-2802-6347</idno>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Tomasz</forename><forename type="middle">M</forename><surname>Beer</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">George</forename><forename type="middle">V</forename><surname>Thomas</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Emile</forename><surname>Latour</surname></persName>
+							<idno type="ORCID">0000-0002-7749-7217</idno>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Rahul</forename><surname>Aggarwal</surname></persName>
+							<idno type="ORCID">0000-0002-7749-7217</idno>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Jeremy</forename><surname>Cetnar</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Charles</forename><forename type="middle">J</forename><surname>Ryan</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Shaadi</forename><surname>Tabatabaei</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Shawna</forename><surname>Bailey</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Claire</forename><forename type="middle">B</forename><surname>Turina</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">David</forename><forename type="middle">A</forename><surname>Quigley</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Xiangnan</forename><surname>Guan</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Adam</forename><surname>Foye</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Jack</forename><forename type="middle">F</forename><surname>Youngren</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Joshua</forename><surname>Urrutia</surname></persName>
+							<idno type="ORCID">0000-0003-2171-0936</idno>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Jiaoti</forename><surname>Huang</surname></persName>
+							<idno type="ORCID">0000-0003-2171-0936</idno>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Alana</forename><forename type="middle">S</forename><surname>Weinstein</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Verena</forename><surname>Friedl</surname></persName>
+							<idno type="ORCID">0000-0002-7247-6038</idno>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Matthew</forename><surname>Rettig</surname></persName>
+							<idno type="ORCID">0000-0002-7247-6038</idno>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Robert</forename><forename type="middle">E</forename><surname>Reiter</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Daniel</forename><forename type="middle">E</forename><surname>Spratt</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Martin</forename><surname>Gleave</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Christopher</forename><forename type="middle">P</forename><surname>Evans</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Joshua</forename><forename type="middle">M</forename><surname>Stuart</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Yiyi</forename><surname>Chen</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Felix</forename><forename type="middle">Y</forename><surname>Feng</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Eric</forename><forename type="middle">J</forename><surname>Small</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Owen</forename><forename type="middle">N</forename><surname>Witte</surname></persName>
+							<email>owenwitte@mednet.ucla.edu.2</email>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Zheng</forename><surname>Xia</surname></persName>
+							<idno type="ORCID">0000-0003-3364-8324</idno>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Sidney</forename><surname>Kimmel</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Johns</forename><surname>Hopkins</surname></persName>
+						</author>
+						<author>
+							<affiliation>
+								<orgName>a Knight Cancer Institute, Oregon Health &amp; Science University, </orgName>
+								<address><addrLine>Portland, OR 97239</addrLine></address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation>
+								<orgName> b Computational Biology Program, Oregon Health &amp; Science University, </orgName>
+								<address><addrLine> Portland, OR 97239</addrLine></address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation>
+								<orgName> c Molecular Microbiology and Immunology Department, Oregon Health &amp; Science University, </orgName>
+								<address><addrLine> Portland, OR 97239</addrLine></address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation>
+								<orgName> d Biostatistics Shared Resource, Knight Cancer Institute, Oregon Health &amp; Science University, </orgName>
+								<address><addrLine> Portland, OR 97239</addrLine></address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation>
+								<orgName> e Helen Diller Family Comprehensive Cancer Center, University of California, </orgName>
+								<address><addrLine> San Francisco, CA 94158</addrLine></address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation>
+								<orgName> f Department of Medicine, University of California, </orgName>
+								<address><addrLine> San Francisco, CA 94143</addrLine></address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation>
+								<orgName> g Division of Hematology, Oncology and Transplantation, University of Minnesota Masonic Cancer Center, </orgName>
+								<address><addrLine> Minneapolis, MN 55455</addrLine></address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation>
+								<orgName> h Department of Epidemiology &amp; Biostatistics, University of California, </orgName>
+								<address><addrLine> San Francisco, CA 94158</addrLine></address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation>
+								<orgName> i Department of Pathology, Duke University, </orgName>
+								<address><addrLine> Durham, NC 27710</addrLine></address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation>
+								<orgName> j University of California Santa Cruz Genomics Institute, University of California, </orgName>
+								<address><addrLine> Santa Cruz, CA 95064</addrLine></address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation>
+								<orgName> k Department of Biomolecular Engineering, University of California, </orgName>
+								<address><addrLine> Santa Cruz, CA 95064</addrLine></address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation>
+								<orgName> l University of California, </orgName>
+								<address><addrLine> Los Angeles, CA 90095</addrLine></address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation>
+								<orgName> m Division of Hematology/Oncology, VA Greater Los Angeles Healthcare System, </orgName>
+								<address><addrLine> Los Angeles, CA 90073</addrLine></address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation>
+								<orgName> n Department of Radiation Oncology, Rogel Cancer Center, University of Michigan, </orgName>
+								<address><addrLine> Ann Arbor, MI 48109</addrLine></address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation>
+								<orgName> o Department of Urologic Sciences, University of British Columbia, </orgName>
+								<address><addrLine> Vancouver, Canada BC V6T 1Z3</addrLine></address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation>
+								<orgName> p Department of Urologic Surgery, University of California, </orgName>
+								<address><addrLine> Davis, CA 95817</addrLine></address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation>
+								<orgName> q Department of Radiation Oncology, University of California, </orgName>
+								<address><addrLine> San Francisco, CA 94158</addrLine></address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation>
+								<orgName> r Department of Urology, University of California, </orgName>
+								<address><addrLine> San Francisco, CA 94158</addrLine></address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation>
+								<orgName> s Department of Microbiology, Immunology, and Molecular Genetics at the David Geffen School of Medicine, University of California, </orgName>
+								<address><addrLine> Los Angeles, CA 90095 Ann Arbor, MI 48109. Los Angeles, CA 90095.</addrLine></address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation>
+								<orgName> Weill-Cornell Medical College</orgName>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation>
+								<orgName> and R.P., Indiana University Simon Comprehensive Cancer Center. </orgName>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation>
+								<orgName> Division of Hematology and Oncology, Department of Internal Medicine, Rogel Cancer Center, University of Michigan, </orgName>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation>
+								<orgName> Division of Hematology and Oncology, Department of Internal Medicine, University of California, Los Angeles Jonsson Comprehensive Cancer Center,</orgName>
+							</affiliation>
+						</author>
+						<title level="a" type="main">receptor activity-low, stemness program associated with enzalutamide resistance</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<idno type="DOI">10.1073/pnas.1922207117/-/DCSupplemental.www.pnas.org/cgi/doi/10.1073/pnas.1922207117</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.6.1" ident="GROBID" when="2020-10-09T18:38+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<abstract/>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>The androgen receptor (AR) antagonist enzalutamide is one of the principal treatments for men with castration-resistant prostate cancer (CRPC). However, not all patients respond, and resistance mechanisms are largely unknown. We hypothesized that genomic and transcriptional features from metastatic CRPC biopsies prior to treatment would be predictive of de novo treatment resistance. To this end, we conducted a phase II trial of enzalutamide treatment (160 mg/d) in 36 men with metastatic CRPC. Thirty-four patients were evaluable for the primary end point of a prostate-specific antigen (PSA)50 response (PSA decline ≥50% at 12 wk vs. baseline). Nine patients were classified as nonresponders (PSA decline &lt;50%), and 25 patients were classified as responders (PSA decline ≥50%). Failure to achieve a PSA50 was associated with shorter progression-free survival, time on treatment, and overall survival, demonstrating PSA50's utility. Targeted DNAsequencing was performed on 26 of 36 biopsies, and RNAsequencing was performed on 25 of 36 biopsies that contained sufficient material. Using computational methods, we measured AR transcriptional function and performed gene set enrichment analysis (GSEA) to identify pathways whose activity state correlated with de novo resistance. TP53 gene alterations were more common in nonresponders, although this did not reach statistical significance (P = 0.055). AR gene alterations and AR expression were similar between groups. Importantly, however, transcriptional measurements demonstrated that specific gene setsincluding those linked to low AR transcriptional activity and a stemness program-were activated in nonresponders. Our results suggest that patients whose tumors harbor this program should be considered for clinical trials testing rational agents to overcome de novo enzalutamide resistance.</p><p>enzalutamide | resistance | androgen receptor | stemness W e now know that persistent intratumoral androgens that activate the androgen receptor (AR) are commonly found in castration-resistant prostate cancer (CRPC) tumors despite androgen deprivation therapy (ADT). The main sites of androgen production in men with CRPC include the adrenal glands and tumor cells themselves. Because of this knowledge, new and more potent inhibitors of androgen activation of the AR have been developed in recent years <ref type="bibr" target="#b0">(1)</ref><ref type="bibr" target="#b1">(2)</ref><ref type="bibr" target="#b2">(3)</ref><ref type="bibr" target="#b3">(4)</ref>. Importantly, treatment with the androgen synthesis inhibitor abiraterone acetate or the AR antagonist enzalutamide improves progression-free survival (PFS) and overall survival (OS) in patients with metastatic CRPC <ref type="bibr" target="#b4">(5)</ref><ref type="bibr" target="#b5">(6)</ref><ref type="bibr" target="#b6">(7)</ref><ref type="bibr" target="#b7">(8)</ref>. Furthermore, enzalutamide, apalutamide, and the newer AR antagonist darolutamide all improve metastasis-free survival in men with nonmetastatic CRPC <ref type="bibr" target="#b8">(9)</ref><ref type="bibr" target="#b9">(10)</ref><ref type="bibr" target="#b10">(11)</ref>.</p><p>Enzalutamide is commonly used in the first-line treatment of men with CRPC. While the majority of patients with metastatic CRPC benefit from enzalutamide treatment, nearly one-quarter to one-half do not <ref type="bibr" target="#b4">(5,</ref><ref type="bibr" target="#b5">6)</ref>. A few studies to date have prospectively examined samples from men with enzalutamide-naïve CRPC to identify determinants of response or resistance. However, these studies have largely been restricted to mutational profiling, were small in size, or focused on acquired-rather than de novoresistance <ref type="bibr" target="#b11">(12)</ref><ref type="bibr" target="#b12">(13)</ref><ref type="bibr" target="#b13">(14)</ref>. Thus, predictors and determinants of de novo enzalutamide resistance in CRPC remain largely unknown.</p><p>We hypothesized that a more detailed characterization of the genomic landscape of baseline CRPC samples in patients beginning enzalutamide treatment would clarify determinants of de novo resistance. To test this hypothesis, we initiated a multiinstitutional, prospective enzalutamide clinical trial in men with metastatic CRPC who had a metastatic lesion amenable to a pretreatment biopsy. In this report, we describe baseline genomic and transcriptional features that differed between those patients whose tumors either responded or failed to respond to enzalutamide treatment.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Results</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Patient Characteristics. The clinical trial Genetic and Molecular Mechanisms in Assessing Response in Patients with Prostate</head><p>Cancer Receiving Enzalutamide Therapy enrolled 36 patients with metastatic CRPC who had not previously received enzalutamide. Patients with prior use of docetaxel or abiraterone were ineligible for this study. Study enrollment, follow-up, and analyses are depicted in SI Appendix, <ref type="figure">Fig. S1</ref>. The demographic characteristics for all 36 patients enrolled on the study are shown in SI Appendix, <ref type="table" target="#tab_1">Table S1</ref>. Thirty-four patients were evaluable for the primary end point of ≥50% PSA decline at 12 wk, and their demographic features are shown in <ref type="table" target="#tab_1">Table 1</ref>. There were 9 nonresponders (&lt;50% PSA decline at 12 wk) and 25 responders (≥50% PSA decline at 12 wk) ( <ref type="figure">Fig. 1</ref>).</p><p>Clinical Outcomes. We next examined clinical outcomes for the entirety of the trial participants and for the nonresponders vs. responders. Thirty-eight percent (13 of 34) of evaluable patients had radiographic responses by response evaluation criteria in solid tumors (RECIST), and all radiographic responses were seen in those with a PSA50 response. Overall median time on treatment (TOT) was 14.4 mo. Overall median PFS was 11.03 mo, and OS was 25.11 mo. Compared with responders, nonresponders had a statistically significant shorter median TOT (3.4 vs. 24.2 mo, P &lt; 0.001, hazard ratio (HR) = 4.90 <ref type="bibr">[2.03 to 11.82</ref>  <ref type="figure">(Fig. 2)</ref>. Thus, PSA50 response was a strong predictor of clinical benefit.</p><p>Targeted DNA-Sequencing. For 26 of 36 patients, there was sufficient DNA to perform targeted DNA-sequencing (DNA-seq). Five of these patients were nonresponders, and 21 were responders. We focused on TP53, RB1, and PTEN as those genes have been linked previously to poor outcomes for men with CRPC or resistance to AR-targeting therapies in preclinical or clinical studies <ref type="bibr" target="#b11">(12,</ref><ref type="bibr" target="#b14">(15)</ref><ref type="bibr" target="#b15">(16)</ref><ref type="bibr" target="#b16">(17)</ref><ref type="bibr" target="#b17">(18)</ref>. No statistically significant differences were detected between the two groups for these genes <ref type="figure">(Fig. 3)</ref> or other genes examined (SI Appendix, <ref type="figure">Fig. S2</ref>). However, there was a strong trend toward greater likelihood of TP53 alterations in nonresponders (Fisher's exact test P = 0.055).</p><p>Assessments of AR Genomic Aberrations and Expression. Since AR is the target of enzalutamide, we next determined if there were genomic differences in the AR between groups using AR DNAseq. Of the 22 unique patients who had AR DNA-seq data, there were 3 nonresponders and 19 responders. No statistically significant differences in AR genomic alterations were found between these two groups <ref type="figure">(Fig. 4A</ref>). We next quantified AR mRNA expression in the 25 patients whose tumors underwent RNAsequencing (RNA-seq): 7 nonresponders and 18 responders. AR messenger ribonuleic acid (mRNA) expression was similar between both groups <ref type="figure">(Fig. 4B</ref>). Furthermore, expression levels of the transcript variant AR-V7 were low and were similar between both groups <ref type="figure">(Fig. 4C</ref>). AR immunohistochemistry was available in 22 patients. Strong, nuclear AR staining was present in tumors from all 6 nonresponder samples and in all 15 responder samples that were tested (SI Appendix, <ref type="table">Table S2</ref>). Representative examples are shown in <ref type="figure">Fig. 4D</ref>. Thus, neither alterations in the AR gene nor AR expression correlated with de novo enzalutamide resistance.</p><p>Pathway Analysis. Next, we sought to determine if there were differentially activated pathways in nonresponders vs. responders in the RNA-seq data. To identify these pathways, we performed gene set enrichment analysis (GSEA) using all candidate gene sets within the Hallmark database. This analysis determined that baseline tumors from nonresponders vs. responders had enrichment of 18 statistically significant pathways using a false discovery rate (FDR) q-value cutoff of 0.05 ( <ref type="figure" target="#fig_2">Fig. 5A</ref> and SI Appendix, <ref type="figure">Fig. S3</ref>). Epithelial mesenchymal transition (EMT) was the top gene set activated in nonresponders, and other pathways linked to EMT, including IL-6/Jak/Stat3 signaling, TGF-β signaling, and TNFα signaling via NFΚB, were also activated. Furthermore, immune hallmark pathways were also activated in nonresponders, including IFN-α, IFN-γ, allograft rejection, inflammatory response, and complement. AR Activity Measurements. AR signaling was not one of the top gene sets differentially activated between nonresponders and responders. However, there were many gene sets activated in enzalutamide nonresponders in our trial-including those linked to EMT, stemness, and immune hallmarks-that were also activated in subsets of localized, hormone-naïve prostate cancer that had low AR activity in a recent report from our group <ref type="bibr" target="#b18">(19)</ref>. Importantly, low AR activity in that prior report was associated with shorter metastasis-free survival or time to biochemical recurrence, demonstrating the clinical significance of AR activitylow prostate cancers and the utility of this signature (the Spratt signature) <ref type="bibr" target="#b18">(19)</ref>. Therefore, we next measured AR function in RNA-seq data from our enzalutamide trial specimens using the Spratt signature. There was a strong trend toward reduced AR</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Significance</head><p>The androgen receptor (AR) antagonist enzalutamide is one of the principal treatments for men with metastatic castrationresistant prostate cancer. However, not all patients respond, and de novo resistance mechanisms are largely unknown. To clarify mechanisms that contribute to enzalutamide resistance, we conducted a single-arm enzalutamide clinical trial. Metastatic tissue biopsies were required prior to study entry so we could attempt to identify molecular features associated with de novo resistance. Transcriptional profiling identified specific gene sets-including those linked to reduced AR transcriptional activity and a stemness program-that were activated in nonresponders. Our results suggest that patients whose tumors harbor this program should be considered for clinical trials testing rational agents to overcome de novo enzalutamide resistance. activity in nonresponders vs. responders using this signature (Wilcoxon rank sum test P = 0.06) (SI Appendix, <ref type="figure">Fig. S4</ref>). We also quantified AR activity using the Virtual Inference of Protein activity by Enriched Regulon analysis (VIPER) algorithm <ref type="bibr" target="#b19">(20)</ref>. VIPER analysis also demonstrated that enzalutamide nonresponders had lower AR activity ( <ref type="figure" target="#fig_2">Fig. 5B</ref>). Overall, these results suggest that low AR transcriptional activity-rather than AR genomic changes or altered AR expression-may contribute to de novo enzalutamide resistance.</p><p>Stemness and Lineage Signature Measurements. Low AR activity has been linked to stemness and lineage plasticity, or change in differentiation state, that are now recognized as a common cause of acquired resistance to AR-targeting therapies <ref type="bibr" target="#b20">(21)</ref><ref type="bibr" target="#b21">(22)</ref><ref type="bibr" target="#b22">(23)</ref><ref type="bibr" target="#b23">(24)</ref><ref type="bibr" target="#b24">(25)</ref>. Importantly, all of the baseline tumors from our study were adenocarcinomas, and most prostate adenocarcinoma tumors express a luminal lineage program <ref type="bibr" target="#b21">(22)</ref>. However, a basal lineage, neurogenic/stemness program is present in a subset of patients and is linked with prostate cancer aggressiveness <ref type="bibr" target="#b25">(26,</ref><ref type="bibr" target="#b26">27)</ref>. Indeed, prior work demonstrated that localized prostate tumors with a basal lineage program are much less likely to respond to ADT vs. patients whose tumors harbor a luminal lineage program <ref type="bibr" target="#b21">(22)</ref>. Therefore, we next sought to measure signatures of these lineages <ref type="bibr" target="#b25">(26)</ref> and determine if they were differentially activated between nonresponders and responders. Our analysis demonstrates that a basal lineage, neurogenic/stemness program is activated in nonresponders to enzalutamide treatment, while a luminal lineage program is more activated in responders ( <ref type="figure" target="#fig_2">Fig. 5C</ref>), corroborating the prior work in prostate cancer examining the effect of basal lineage on promoting resistance to ADT <ref type="bibr" target="#b21">(22)</ref>.</p><p>To more fully examine the role of neurogenic gene expression, we determined if a set of genes used previously to distinguish neuroendocrine prostate cancer (NEPC) vs. adenocarcinoma patient tumors (28) was differentially expressed in nonresponders vs. responders. Importantly, genes up-regulated in NEPC patient tumors from that prior report were activated in nonresponders vs. responders; genes down-regulated in NEPC patient tumors from that prior report-many linked to AR activity-were deactivated in nonresponders from our trial ( <ref type="figure" target="#fig_2">Fig. 5D</ref>). These results further suggest that nonresponder tumors have features of stemness and corroborate our findings suggesting that AR activity is lower in nonresponders. In summary, results from this clinical trial suggest that an AR activitylow, stemness program may contribute to de novo enzalutamide resistance.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Discussion</head><p>Two large, randomized, phase III trials demonstrate that enzalutamide treatment improves PFS and OS for men with metastatic CRPC <ref type="bibr" target="#b4">(5,</ref><ref type="bibr" target="#b5">6)</ref>. Enzalutamide also improves PFS for men with nonmetastatic CRPC and OS and/or PFS for men with hormone-naïve metastatic prostate cancer in two additional clinical trials <ref type="bibr" target="#b9">(10,</ref><ref type="bibr" target="#b28">29,</ref><ref type="bibr" target="#b29">30)</ref>. However, approximately one-third of patients do not respond to enzalutamide treatment, and very little is known about determinants of de novo enzalutamide resistance in metastatic CRPC <ref type="bibr" target="#b4">(5,</ref><ref type="bibr" target="#b5">6)</ref>. The Genetic and Molecular Mechanisms in Assessing Response in Patients with Prostate Cancer  Receiving Enzalutamide Therapy clinical trial was designed to address this deficit. To identify molecular predictors of enzalutamide response, we performed both targeted DNA-seq and RNA-seq of tumors from prospectively collected pretreatment metastatic biopsies. Correlating the molecular features from these assays with the primary end point of ≥50% PSA decline 12 wk after starting enzalutamide treatment-that we confirmed to be a strong predictor of patient outcome <ref type="figure">(Fig. 2)</ref>-enabled us to identify factors associated with de novo resistance.</p><p>It is noteworthy that the patients enrolled on our trial had a lower PSA response rate, TOT, PFS, and OS than patients with metastatic CRPC enrolled on the PREVAIL trial who had not previously received enzalutamide, abiraterone, or docetaxel <ref type="bibr" target="#b4">(5)</ref>. There are several key differences between our trial and PREVAIL that may help explain these results. First, our trial-unlike PREVAIL-allowed enrollment of patients with symptomatic metastases. Second, our trial mandated that all eligible patients have a metastatic lesion that was amenable to biopsy. Thus, it is quite likely that the patients enrolled on our trial had more aggressive or advanced disease than those enrolled on PREVAIL, thus explaining the differences in outcomes.</p><p>Our institutional targeted DNA-seq panel did not detect any statistically significant differences in mutations found between nonresponders and responders. However, we did observe a strong trend toward statistical significance for TP53 mutations that were more common in nonresponders (4 of 5 vs. 6 of 21, Fisher's exact test P = 0.055) <ref type="figure">(Fig. 3)</ref>. This is consistent with previous findings by Annala et al. <ref type="formula">12</ref>  that alterations in TP53 were associated with poor outcomes. Furthermore, loss of TP53 has been linked to increased cellular reprogramming efficiency <ref type="bibr" target="#b30">(31)</ref> or stemness/lineage plasticity <ref type="bibr" target="#b15">(16,</ref><ref type="bibr" target="#b16">17)</ref>-programs that we find to be enriched in nonresponders ( <ref type="figure" target="#fig_2">Fig. 5 C and D)</ref>. This suggest that TP53 alterations may contribute to the gene expression changes we observed in nonresponders vs. responders.</p><p>Because AR is the target of enzalutamide, we also examined alterations in the AR gene itself as well as measurements of AR transcriptional function. We did not observe statistically significant differences in AR gene alterations between the two groups <ref type="figure">(Fig. 4A</ref>), although this may be due to sample size limitations and the fact that not every patient had AR DNA-seq data available. Importantly, we did measure AR mRNA and protein expression. Levels of AR mRNA and protein expression were also similar between nonresponders and responders ( <ref type="figure">Fig. 4B</ref> and SI Appendix, <ref type="table">Table S2</ref>), suggesting that AR genomic changes or AR expression changes are not good predictors of enzalutamide response. Furthermore, expression levels of AR-V7 were low in both nonresponders and responders <ref type="figure">(Fig. 4C</ref>), which may be attributable to the fact that none of the patients had been treated previously with novel, potent AR inhibitors like enzalutamide or abiraterone. Conversely, we determined that lower AR transcriptional activity was associated with enzalutamide resistance using two independent measurements of AR function <ref type="figure" target="#fig_2">(Fig. 5B</ref> and SI Appendix, <ref type="figure">Fig. S4</ref>). Because AR is the target of enzalutamide, intuitively, this makes sense and strongly suggests that tumors with lower AR function are less AR signaling dependent and thus, less likely to respond to enzalutamide treatment. Understanding factors that lead to reduced AR activity despite persistent AR expression-inactivation of essential cofactors or chromatin conformation not conducive to AR activity-will be important to develop strategies to resensitize these tumors to drugs like enzalutamide.</p><p>Low AR activity has been linked to lineage plasticity, EMT, or stemness <ref type="bibr" target="#b18">(19,</ref><ref type="bibr" target="#b22">(23)</ref><ref type="bibr" target="#b23">(24)</ref><ref type="bibr" target="#b24">(25)</ref><ref type="bibr" target="#b25">(26)</ref>. Importantly, GSEA of differentially expressed genes identified 18 pathways (P &lt; 0.05) that were activated in tumors from patients with de novo enzalutamide resistance-most notably pathways that are often linked to stemness, lineage plasticity, or EMT <ref type="bibr" target="#b31">(32)</ref>. None of the histologic sections from our biopsies demonstrated a mesenchymal morphology or phenotype, so we believe that the GSEA results may indicate a partial EMT, stem-like state that has been previously linked to self-renewal and treatment resistance <ref type="bibr" target="#b32">(33,</ref><ref type="bibr" target="#b33">34)</ref>. This interpretation is in keeping with the enrichment of a stemness signature <ref type="bibr" target="#b25">(26)</ref> in nonresponder patients ( <ref type="figure" target="#fig_2">Fig. 5 C and D)</ref>. Indeed, a previously described basal lineage, neurogenic, stemness signature <ref type="bibr" target="#b25">(26)</ref> was activated in nonresponders from our trial <ref type="figure" target="#fig_2">(Fig. 5C</ref>). Furthermore, we found that a gene set used previously to distinguish NEPC vs. adenocarcinoma patient tumors linked to lower AR activity <ref type="bibr" target="#b25">(26)</ref> was differentially expressed in nonresponders vs. responders <ref type="figure" target="#fig_2">(Fig. 5D</ref>). The sum of these results suggests that reduced AR activity may promote a stemness program or that activation of this stemness program leads to reduced AR activity. While it is uncertain which event occurs first, it is clear that the presence of low AR activity and a stemness program are linked to de novo enzalutamide resistance.</p><p>Considerable prior work has shown that stemness-associated pathways are associated with acquired resistance to AR pathway inhibition <ref type="bibr" target="#b31">(32)</ref>. Indeed, previous work demonstrates that the IL-6-JAK-STAT3 signaling pathway is activated in tumors resistant to AR pathway inhibition and that IL-6-JAK-STAT3 promotes stem-like properties, EMT, and lineage plasticity <ref type="bibr" target="#b34">(35)</ref>. GSEA also implicated activation of the TGF-β signaling pathway that is upstream of SMAD3 in nonresponders. SMAD3 up-regulation was previously shown by Pal et al. <ref type="bibr" target="#b13">(14)</ref> to mediate TGF-β as well as cyclin D1 signaling in circulating tumor cell samples from patients with acquired resistance to enzalutamide. However, our work demonstrates enrichment of IL-6-JAK-STAT3 and TGF-β pathways in CRPC patient tumors even prior to enzalutamide treatment and suggests that activation of these pathways may contribute to de novo enzalutamide resistance. Finally, that there are drugs to block key members of these pathways [e.g., IL-6 inhibitor siltuximab <ref type="bibr" target="#b35">(36)</ref>, JAK inhibitor ruxolitinib (37), STAT3 degraders <ref type="bibr" target="#b37">(38)</ref>, TGF-β receptor inhibitor galunisertib <ref type="bibr" target="#b38">(39)</ref>, and CDK4/6 inhibitors <ref type="bibr" target="#b39">(40)</ref>] that target cyclin D1 suggests that it may be possible in the near term to determine if these drugs may overcome de novo enzalutamide resistance. One way to enrich these trials with appropriate subjects most likely to have de novo enzalutamide resistance is by using RNA-seq like in our trial. Importantly, Clinical Laboratory Improvement Amendments (CLIA) RNA-seq is now available commercially and at centers such as ours (University of Michigan), and results are often available within a 4-wk timeframe.</p><p>Low AR activity has also been linked to immune pathways <ref type="bibr" target="#b18">(19)</ref>. Indeed, IFN-γ, IFN-α, allograft rejection, and inflammatory response were also among the top gene sets activated in nonresponders ( <ref type="figure" target="#fig_2">Fig. 5A</ref>). This suggests that differences in immune activation may contribute to enzalutamide response. Our samples underwent laser-capture microdissection to enrich for tumor cells prior to RNA-seq. Thus, it is not possible to reliably measure transcriptional signatures linked to nonepithelial cell types and deconvolute the tumor microenvironment. However, despite the approval of the autologous DNA vaccine sipuleucel-T (41) in 2011, phase III trials of anti-CTLA4 checkpoint inhibition have been disappointing in CRPC <ref type="bibr" target="#b41">(42,</ref><ref type="bibr" target="#b42">43)</ref>, and anti-PD1 trials in men with metastatic CRPC have not demonstrated high response rates or durability of tumor control <ref type="bibr" target="#b43">(44)</ref>. In the future, it will be important to determine if immunotherapeutic agents may be useful for overcoming de novo enzalutamide resistance and to determine if differences in the microenvironmental components of tumors contribute to resistance to immunotherapy and drugs such as enzalutamide.</p><p>Despite the importance of our findings, there are several limitations of our study. First, fewer patients than anticipated had sufficient material for all of the molecular analyses. This is not unique to this study and is attributable to the fact that many of our patients underwent biopsies of metastatic bone lesions from which it can be challenging to obtain high-quality material for sequencing. Nonetheless, our study is the largest prospective clinical trial examining molecular predictors of enzalutamide response from metastatic tumor biopsies, and we look forward to the results of other studies with novel AR-targeting agents that may help to validate our results. Second, another limitation of our study is that mutational profiling primarily consisted of targeted DNA-seq rather than whole-exome-sequencing or wholegenome-sequencing (whole-genome-seq), limiting the number of genes examined across all patients. However, our panel did include key genes previously linked to enzalutamide resistance or EMT/lineage plasticity [TP53, RB1, and PTEN <ref type="bibr" target="#b11">(12,</ref><ref type="bibr" target="#b14">(15)</ref><ref type="bibr" target="#b15">(16)</ref><ref type="bibr" target="#b16">(17)</ref><ref type="bibr" target="#b17">(18)</ref>], and significant differences were not found. We cannot rule out that loss of function of these genes or others through epigenetic or posttranscriptional mechanisms could have also contributed to de novo enzalutamide resistance.</p><p>A further limitation of our study is that only a single metastatic site was biopsied prior to treatment, although it remains challenging to collect biopsies from multiple sites at the same time point. However, despite only obtaining a biopsy from a single site, we did determine that the site sampled had molecular features that strongly correlated with de novo enzalutamide resistance. This suggests that a single-site biopsy-if it contains adequate material for sequencing-may be sufficient to identify markers of enzalutamide response using the approach we describe herein. Indeed, our comprehensive transcriptome-based analysis with GSEA identified pathways and lineage signatures not previously linked to de novo clinical enzalutamide resistance.</p><p>In summary, this is the largest prospective enzalutamide clinical trial to perform mutational and transcriptional profiling of enzalutamide-naïve, metastatic CRPC biopsy samples. Importantly, using transcriptional profiling and GSEA, we identified several targetable pathways that may contribute to an AR activity-low, stemness program linked to de novo enzalutamide resistance. In the future, it will be important to determine whether mechanisms identified herein are also relevant to men who present with ADT-and enzalutamide-naïve prostate cancer because of the recent approval of enzalutamide in that setting, along with abiraterone and apalutamide. Moreover, it will be important to determine which specific factors that regulate the phenotype described herein are most critical for de novo enzalutamide resistance. Such experiments may provide the rationale to target these factors alone or in combination with enzalutamide in patients like those identified herein who are least likely to respond to enzalutamide monotherapy.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Materials and Methods</head><p>Study Design and Patients. The clinical trial Genetic and Molecular Mechanisms in Assessing Response in Patients with Prostate Cancer Receiving Enzalutamide Therapy (principal investigator: J.J.A.) was registered on clinicaltrials.gov (NCT02099864). This was a multicenter, single-arm, phase II study evaluating baseline predictors of response to enzalutamide therapy in men with metastatic CRPC who had not received prior enzalutamide, abiraterone, or docetaxel. Institutional review board (IRB) approval was obtained at the participating centers (Oregon Health &amp; Science University and the University of California, San Francisco) prior to enrollment of the first patient at each center. Written informed consent was obtained from all patients prior to participation in the study.</p><p>All eligible patients had a metastatic lesion amenable to image-guided biopsy. Prior to initiation of enzalutamide treatment, subjects underwent an image-guided biopsy of a metastatic lesion to obtain tumor tissue for baseline genomic analyses. Subjects received enzalutamide for the duration of the study and were assessed for clinical or radiographic progression every 12 wk. Study treatment was continued until withdrawal of consent, unacceptable toxicity, disease progression, or death.</p><p>Traditional power calculations cannot be used to determine the number of samples (i.e., patients) required because the assumptions of independence and normality do not hold <ref type="bibr" target="#b44">(45)</ref>. An alternative approach is to model this problem as a learning curve in which the classification error is characterized as an inverse power law <ref type="bibr" target="#b45">(46)</ref>: error = an −α + b, where error is the expected error rate given n training samples, a is the learning rate, α is the decay rate, and b is the Bayes error, or minimum error achievable. This approach has been applied to several cancer classification problems, and estimates for the variables can be found in the literature <ref type="bibr" target="#b45">(46)</ref>. For our purposes, we used the average values from seven cancer datasets to estimate a, α, and b. With a = 0.736, α = 0.65, and b = 0.001, we can estimate the error for various sample sizes. Prior literature demonstrates an ∼70% PSA response rate with enzalutamide in a similar patient population <ref type="bibr" target="#b4">(5)</ref>. Therefore, we estimated that we would need to enroll 36 patients, allowing for a 20% biopsy failure rate, to yield 30 patients with evaluable tumors (20 responders and 10 nonresponders) and that 30 patients would achieve an error rate of ∼0.08.</p><p>Per the Prostate Cancer Clinical Trials Working Group-2 criteria, disease progression was defined as radiographic progression (based on RECIST 1.1 criteria for soft tissue disease measured by computerized tomography (CT) scan or the appearance of two or more unequivocal bone lesions on bone scan) or clinical progression; PSA progression alone did not meet criteria for discontinuation of study treatment <ref type="bibr" target="#b46">(47)</ref>. Patients who discontinued treatment despite not meeting study-defined progression continued to be followed until they met progression criteria. Following discontinuation of study treatment, all subjects were followed for OS.</p><p>For the primary analysis, we assessed correlations between baseline molecular features and PSA50 response defined as a PSA decline of ≥50% at 12 wk compared with baseline. Secondary clinical end points included TOT, PFS, and OS, all measured from the date of enzalutamide initiation.</p><p>Thirty-six men with enzalutamide-, abiraterone-, and docetaxel-naïve metastatic CRPC progressing on ADT and who were eligible to receive treatment with enzalutamide were enrolled (SI Appendix, <ref type="figure">Fig. S1</ref>). Two subjects were not evaluable for analysis of the primary end point (≥50% PSA decline at 12 wk). One subject was excluded because of incomplete PSA data. The second patient was excluded because his PSA fell on treatment in the setting of rapid progression of disease, concerning for conversion to neuroendocrine prostate cancer; thus, it was determined that this subject's PSA decline was not consistent with response. Therefore, a total of 34 patients were evaluable for analysis of the primary end point. Their clinical trial identification numbers are shown. SI Appendix, <ref type="figure">Fig. S1</ref> includes information on the number of patients who underwent each molecular assay.</p><p>Statistical Analysis. Descriptive statistics (median and interquartile range for continuous variables; frequencies and percentages for categorical variables) were used to summarize the demographic and clinical data by response group. Time-to-event analysis was performed using Kaplan-Meier curves and log-rank tests to evaluate the association between response group and TOT, PFS, and OS. Cox regression models were used to calculate hazard ratios by response group with 95% CIs. All statistical analyses were performed using R: A Language and Environment for Statistical Computing. P &lt; 0.05 was considered statistically significant.</p><p>Analysis of Baseline Biopsy Samples and DNA-Seq. At the time of consenting for the Genetic and Molecular Mechanisms in Assessing Response in Patients with Prostate Cancer Receiving Enzalutamide Therapy trial, patients also consented to the IRB-approved West Coast Prostate Cancer Dream Team tissue collection protocol through which their tumor samples were sequenced. Results in <ref type="figure">Fig. 3</ref> and SI Appendix, <ref type="figure">Fig. S2</ref> are based on a 37-gene targeted DNA-seq panel described previously <ref type="bibr" target="#b47">(48)</ref>. AR DNA-seq results in <ref type="figure">Fig. 4A</ref> are based on an alternate targeted DNA-seq panel that included the AR or whole-genome-seq that has been described previously <ref type="bibr" target="#b20">(21,</ref><ref type="bibr" target="#b48">49)</ref>.</p><p>Characterization of AR Protein Expression. AR protein expression was analyzed using immunohistochemical analysis. The AR [C6F11] XP rabbit monoclonal antibody was used as previously described, and AR nuclear staining was quantified as described previously: 0 (absent), 1+ (low), 2+ (intermediate), and 3+ (strong) <ref type="bibr" target="#b20">(21)</ref>.</p><p>Transcriptional Profiling. Tumor cores were frozen in optimized cutting temperature (OCT) medium and underwent laser capture microdissection using methods described previously <ref type="bibr" target="#b48">(49)</ref>. The raw read counts and transcripts per kilobase million (TPM) of the gene expression measurements were derived by RSEM (50) based on the GRCh37 GENCODE version 19 (Ensembl 74) gene annotation. To filter out low-expressed genes, we required that the genes have TPM greater than one in at least three samples for further analysis. The TPM gene expression data quantified by RSEM from the RNAseq may be found in Dataset S1; sample identifications highlighted in blue indicate responders, while those highlighted in red indicate nonresponders.</p><p>GSEA Pathway Analysis. GSEA version 3.0 (51) was used to identify gene sets that were significantly activated in enzalutamide nonresponders compared with responders from the Hallmark database <ref type="bibr" target="#b51">(52)</ref>. The expression data normalized by variance stabilizing transformation in DESeq2 <ref type="bibr" target="#b52">(53)</ref> were used as the input of GSEA, and the default metric Signal2Noise in GSEA was applied to calculate the differential expression with respect to the responders and nonresponders. The gene sets were considered to be activated if their FDR q value was less than 0.05.</p><p>AR Activity Analysis. The Spratt AR activity scores were calculated based on nine genes described previously <ref type="bibr" target="#b18">(19)</ref>. To measure AR activity, we also used the VIPER R package <ref type="bibr" target="#b19">(20)</ref>. The input for VIPER is the log 2 transformed TPM gene expression matrix of all samples. The regulon used for the AR activity used in VIPER analysis was curated from four databases as previously described <ref type="bibr" target="#b53">(54)</ref>.</p><p>Basal and Luminal Lineage Signature Analysis. The Zhang Basal and Luminal gene signatures have been described previously <ref type="bibr" target="#b25">(26)</ref>. First, GSEA was used to determine whether the two signatures showed significant, concordant differences between the nonresponder and responder groups. Second, to quantify the activities of the two signatures in each sample, we used the single-sample gene set enrichment analysis (ssGSEA) (55) implemented in the GSVA (56) R package. ssGSEA is a rank-based comparison to access the expression levels of genes in the gene set against all other genes based on the expression profile of one sample. FDR q values were used to determine statistical significance. NEPC Signature Analysis. We used the previously described Beltran NEPC gene signature <ref type="bibr" target="#b27">(28)</ref> to build gene sets. Specifically, 29 genes up-regulated in NEPC vs. adenocarcinoma patient tumors or 41 genes down-regulated in NEPC vs. adenocarcinoma patient tumors were used to develop two gene sets. We then used GSEA to determine whether each gene set showed enrichment differences between nonresponders and responders.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>Fig. 1 .Fig. 2 .</head><label>12</label><figDesc>PSA waterfall plot. PSA change from baseline for patients by response group (9 nonresponders and 25 responders). Each bar represents one patient with patient identification indicated along zero axis. PSA response was determined based on change at 12 wk vs. the baseline value.Alumkal et al.PNAS Latest Articles | 3 of 9 Kaplan-Meier curves stratified by PSA response. Tick marks indicate censoring events. P values were determined using the log-rank test to compare outcome measures between nonresponders and responders. (A) TOT. Probability that patients remain on treatment during follow-up in months. (B) PFS. Probability that patients are alive and without evidence of disease progression during follow-up in months. One subject was excluded due to missing progression information. (C) OS. Probability that patients are still alive during follow-up in months.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head>Fig. 3 .Fig. 4 .</head><label>34</label><figDesc>DNA-seq results for TP53, PTEN, and RB1. An OncoPrint reflecting the copy number alteration and mutation status for the indicated genes in responders and nonresponders is shown. AR DNA-seq results and expression status. (A) An OncoPrint reflecting the copy number alteration and mutation status of the AR in responders and nonresponders is shown. (B and C) Boxplots of the mRNA expression of the AR (B) and AR-V7 (C) in nonresponders and responders are shown. Wilcoxon rank sum test was used to test the difference between the two groups. (D) Representative AR immunohistochemistry staining is shown for two patients.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_2"><head>Fig. 5 .</head><label>5</label><figDesc>Transcriptional measurements implicate an AR activity-low, stemness program in nonresponders. (A) Results from the GSEA pathway analysis using the Broad Hallmark pathways are shown. The 18 hallmark pathways activated in the nonresponders with FDR q value &lt; 0.05 are shown. *FDR q value &lt; 0.05; **FDR q value &lt; 1e-3; ***FDR q value &lt; 1e-6. (B) Boxplot indicates the AR activity differences between nonresponders and responders. Significance of the difference between nonresponders and responders was calculated using the Wilcoxon rank sum test. (C) Basal and luminal signature enrichment plots for nonresponders and responders with FDR q values are shown. (D) Beltran NEPC up-regulated and down-regulated gene set enrichment plots for nonresponders and responders with FDR q values are shown.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head></head><label></label><figDesc>]), PFS (3.67 vs. 24 mo, P &lt; 0.001, HR = 5.51 [2.2 to 13.81]), and OS (15.97 vs. 36.6 mo, P &lt; 0.001, HR = 4.41 [1.71 to 11.44])</figDesc><table /><note></note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_1"><head>Table 1 .</head><label>1</label><figDesc>Baseline patient characteristics Patient demographics for evaluable patients. Demographic information for the 34 evaluable patients is shown. ECOG, Eastern Cooperative Oncology Group. *Ischioanal fossa mass.</figDesc><table><row><cell></cell><cell>All evaluable</cell></row><row><cell>Characteristic</cell><cell>patients (n = 34)</cell></row><row><cell>Age (y)</cell><cell></cell></row><row><cell>Median</cell><cell>72.3</cell></row><row><cell>Range</cell><cell>56.6-88.7</cell></row><row><cell>Total Gleason score, n (%)</cell><cell></cell></row><row><cell>6</cell><cell>2 (5.9)</cell></row><row><cell>7</cell><cell>13 (38.2)</cell></row><row><cell>8</cell><cell>3 (8.8)</cell></row><row><cell>9</cell><cell>10 (29.4)</cell></row><row><cell>Unavailable</cell><cell>6 (17.6)</cell></row><row><cell>Metastatic sites at time of biopsy, n (%)</cell><cell></cell></row><row><cell>Bone</cell><cell>25 (73.5)</cell></row><row><cell>Lung</cell><cell>2 (5.9)</cell></row><row><cell>Liver</cell><cell>0 (0.0)</cell></row><row><cell>Visceral (other than lung and liver)*</cell><cell>1 (2.9)</cell></row><row><cell>Lymph nodes</cell><cell>6 (17.6)</cell></row><row><cell>ECOG performance status score, n (%)</cell><cell></cell></row><row><cell>0</cell><cell>20 (58.8)</cell></row><row><cell>1</cell><cell>14 (41.2)</cell></row><row><cell>2-4</cell><cell>0 (0.0)</cell></row><row><cell>PSA</cell><cell></cell></row><row><cell>Median</cell><cell>36.6</cell></row><row><cell>Range</cell><cell>2.3-2,137.3</cell></row></table><note></note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_2"><head></head><label></label><figDesc>who used cell-free DNAseq of enzalutamide-or abiraterone-naïve patients and determined</figDesc><table><row><cell>221</cell><cell>206</cell><cell>240</cell><cell>252</cell><cell>229</cell><cell>246</cell><cell>231</cell><cell>248</cell><cell>207</cell><cell>230</cell><cell>215</cell><cell>235</cell><cell>223</cell><cell>204</cell><cell>208</cell><cell>214</cell><cell>219</cell><cell>227</cell><cell>250</cell><cell>237</cell><cell>216</cell><cell>253</cell><cell>249</cell><cell>245</cell><cell>232</cell><cell>210</cell></row><row><cell>Gene</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>TP53</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>PTEN</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>RB1</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell cols="2">Alterations</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell cols="3">Response</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell></cell><cell></cell><cell></cell><cell cols="9">Frameshift or stop gain mutation</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell cols="4">Responders</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell></cell><cell></cell><cell></cell><cell cols="5">Missense mutation</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell cols="5">Nonresponders</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell></cell><cell></cell><cell></cell><cell cols="5">Copy number loss</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell></cell><cell></cell><cell></cell><cell cols="4">No abnormality</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row></table><note></note></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="2">of 9 | www.pnas.org/cgi/doi/10.1073/pnas.1922207117 Alumkal et al.</note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="4">of 9 | www.pnas.org/cgi/doi/10.1073/pnas.1922207117 Alumkal et al.</note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="6">of 9 | www.pnas.org/cgi/doi/10.1073/pnas.1922207117 Alumkal et al.</note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="8">of 9 | www.pnas.org/cgi/doi/10.1073/pnas.1922207117 Alumkal et al.</note>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Competing interest statement: J.J.A. has received consulting income from Janssen Biotech and Merck, and honoraria for speaker's fees from Astellas. T.M.B. has received research funding from Alliance Foundation Trials, Boehringer Ingelheim, Corcept Therapeutics, Endocyte Inc., Janssen Research &amp; Development, Medivation, Inc./Astellas, OncoGenex, Sotio, and Theraclone Sciences/OncoResponse; consulting fees from AbbVie, AstraZeneca, Astellas Pharma, Bayer, Boehringer Ingelheim, Clovis Oncology, GlaxoSmithKline, Janssen Biotech, Janssen Japan, Merck, Novartis, and Pfizer; and stock ownership in Salarius Pharmaceuticals, and Arvinas Inc. J.H. serves as a consultant for Morehealth, OptraScan, Genetron, Gencode, York Biotechnology, Kingmed Diagnostics, and Gem Flower Healthcare and is a founder of Sisu Pharma. M.R. received research funding from Novartis, Johnson &amp; Johnson, Merck, Astellas, and Medivation; is a member of a speakers' bureau for Johnson &amp; Johnson and Bayer; and served as a consultant for Constellation Pharmaceuticals. F.Y.F. has received consulting income from Astellas, Bayer, Celgene, Janssen, Sanofi, Genentech, and EMD Serono and has ownership interest (including patents) in PFS Genomics and Nutcracker Therapeutics. E.J.S. has received honoraria for speaker's fees from Janssen; consulting income from Janssen, Fortis Therapeutics, Beigene, and Tolero; and stock ownership in Fortis Therapeutics and Harpoon Therapeutics. O.N.W. currently has consulting, equity, and/or board relationships with Trethera Corporation, Kronos Biosciences, Sofie Biosciences, Breakthrough Properties, and Allogene Therapeutics.  </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>ACKNOWLEDGMENTS. Support includes Stand</head></div>
+			</div>
+
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Phase I clinical trial of a selective inhibitor of CYP17, abiraterone acetate, confirms that castration-resistant prostate cancer commonly remains hormone driven</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">G</forename><surname>Attard</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Clin. Oncol</title>
+		<imprint>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="page" from="4563" to="4571" />
+			<date type="published" when="2008" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">ARN-509: A novel antiandrogen for prostate cancer treatment</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">N</forename><forename type="middle">J</forename><surname>Clegg</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Cancer Res</title>
+		<imprint>
+			<biblScope unit="volume">72</biblScope>
+			<biblScope unit="page" from="1494" to="1503" />
+			<date type="published" when="2012" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Prostate Cancer Foundation/Department of Defense Prostate Cancer Clinical Trials Consortium, Antitumour activity of MDV3100 in castration-resistant prostate cancer: A phase 1-2 study</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><forename type="middle">I</forename><surname>Scher</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Lancet</title>
+		<imprint>
+			<biblScope unit="volume">375</biblScope>
+			<biblScope unit="page" from="1437" to="1446" />
+			<date type="published" when="2010" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Development of a second-generation antiandrogen for treatment of advanced prostate cancer</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><surname>Tran</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Science</title>
+		<imprint>
+			<biblScope unit="volume">324</biblScope>
+			<biblScope unit="page" from="787" to="790" />
+			<date type="published" when="2009" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Enzalutamide in metastatic prostate cancer before chemotherapy</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><forename type="middle">M</forename><surname>Beer</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">PREVAIL Investigators</title>
+		<imprint>
+			<date type="published" when="2014" />
+			<biblScope unit="volume">371</biblScope>
+			<biblScope unit="page" from="424" to="433" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Increased survival with enzalutamide in prostate cancer after chemotherapy</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><forename type="middle">I</forename><surname>Scher</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">AFFIRM Investigators</title>
+		<imprint>
+			<date type="published" when="2012" />
+			<biblScope unit="volume">367</biblScope>
+			<biblScope unit="page" from="1187" to="1197" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">COU-AA-301 Investigators, Abiraterone and increased survival in metastatic prostate cancer</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">S</forename><surname>Bono</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">N. Engl. J. Med</title>
+		<imprint>
+			<biblScope unit="volume">364</biblScope>
+			<date type="published" when="1995" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">COU-AA-302 Investigators, Abiraterone in metastatic prostate cancer without previous chemotherapy</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><forename type="middle">J</forename><surname>Ryan</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">N. Engl. J. Med</title>
+		<imprint>
+			<biblScope unit="volume">368</biblScope>
+			<biblScope unit="page" from="138" to="148" />
+			<date type="published" when="2013" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Darolutamide in nonmetastatic, castrationresistant prostate cancer</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><surname>Fizazi</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">ARAMIS Investigators</title>
+		<imprint>
+			<date type="published" when="2019" />
+			<biblScope unit="volume">380</biblScope>
+			<biblScope unit="page" from="1235" to="1246" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Enzalutamide in men with nonmetastatic, castration-resistant prostate cancer</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Hussain</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">N. Engl. J. Med</title>
+		<imprint>
+			<biblScope unit="volume">378</biblScope>
+			<biblScope unit="page" from="2465" to="2474" />
+			<date type="published" when="2018" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Apalutamide treatment and metastasisfree survival in prostate cancer</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">R</forename><surname>Smith</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">SPARTAN Investigators</title>
+		<imprint>
+			<date type="published" when="2018" />
+			<biblScope unit="volume">378</biblScope>
+			<biblScope unit="page" from="1408" to="1418" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Circulating tumor DNA genomics correlate with resistance to abiraterone and enzalutamide in prostate cancer</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Annala</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Cancer Discov</title>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="page" from="444" to="457" />
+			<date type="published" when="2018" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">RNA-Seq of single prostate CTCs implicates noncanonical Wnt signaling in antiandrogen resistance</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><forename type="middle">T</forename><surname>Miyamoto</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Science</title>
+		<imprint>
+			<biblScope unit="volume">349</biblScope>
+			<biblScope unit="page" from="1351" to="1356" />
+			<date type="published" when="2015" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Identification of mechanisms of resistance to treatment with abiraterone acetate or enzalutamide in patients with castration-resistant prostate cancer (CRPC)</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><forename type="middle">K</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Cancer</title>
+		<imprint>
+			<biblScope unit="volume">124</biblScope>
+			<biblScope unit="page" from="1216" to="1224" />
+			<date type="published" when="2018" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">West Coast Prostate Cancer Dream Team, Genomic drivers of poor prognosis and enzalutamide resistance in metastatic castration-resistant prostate cancer</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">W</forename><forename type="middle">S</forename><surname>Chen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Eur. Urol</title>
+		<imprint>
+			<biblScope unit="volume">76</biblScope>
+			<biblScope unit="page" from="562" to="571" />
+			<date type="published" when="2019" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Rb1 and Trp53 cooperate to suppress prostate cancer lineage plasticity, metastasis, and antiandrogen resistance</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><forename type="middle">Y</forename><surname>Ku</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Science</title>
+		<imprint>
+			<biblScope unit="volume">355</biblScope>
+			<biblScope unit="page" from="78" to="83" />
+			<date type="published" when="2017" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">SOX2 promotes lineage plasticity and antiandrogen resistance in TP53-and RB1-deficient prostate cancer</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><surname>Mu</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Science</title>
+		<imprint>
+			<biblScope unit="volume">355</biblScope>
+			<biblScope unit="page" from="84" to="88" />
+			<date type="published" when="2017" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Genomic correlates of clinical outcome in advanced prostate cancer</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">W</forename><surname>Abida</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Proc. Natl. Acad. Sci. U.S.A</title>
+		<imprint>
+			<biblScope unit="volume">116</biblScope>
+			<biblScope unit="page" from="11428" to="11436" />
+			<date type="published" when="2019" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">Transcriptomic heterogeneity of androgen receptor activity defines a de novo low AR-active subclass in treatment naïve primary prostate cancer</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><forename type="middle">E</forename><surname>Spratt</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Clin. Cancer Res</title>
+		<imprint>
+			<biblScope unit="volume">25</biblScope>
+			<biblScope unit="page" from="6721" to="6730" />
+			<date type="published" when="2019" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">Functional characterization of somatic mutations in cancer using network-based inference of protein activity</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">J</forename><surname>Alvarez</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nat. Genet</title>
+		<imprint>
+			<biblScope unit="volume">48</biblScope>
+			<biblScope unit="page" from="838" to="847" />
+			<date type="published" when="2016" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">Clinical and genomic characterization of treatment-emergent small-cell neuroendocrine prostate cancer: A multi-institutional prospective study</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Clin. Oncol</title>
+		<imprint>
+			<biblScope unit="volume">36</biblScope>
+			<biblScope unit="page" from="2492" to="2503" />
+			<date type="published" when="2018" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">Associations of luminal and basal subtyping of prostate cancer with prognosis and response to androgen deprivation therapy</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><forename type="middle">G</forename><surname>Zhao</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">JAMA Oncol</title>
+		<imprint>
+			<biblScope unit="volume">3</biblScope>
+			<biblScope unit="page" from="1663" to="1672" />
+			<date type="published" when="2017" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">The role of lineage plasticity in prostate cancer therapy resistance</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><surname>Beltran</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Clin. Cancer Res</title>
+		<imprint>
+			<biblScope unit="volume">25</biblScope>
+			<biblScope unit="page" from="6916" to="6924" />
+			<date type="published" when="2019" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title level="a" type="main">The master neural transcription factor BRN2 is an androgen receptor-suppressed driver of neuroendocrine differentiation in prostate cancer</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">L</forename><surname>Bishop</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Cancer Discov</title>
+		<imprint>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="page" from="54" to="71" />
+			<date type="published" when="2017" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title level="a" type="main">Drivers of AR indifferent anti-androgen resistance in prostate cancer cells</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">F</forename><surname>Handle</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Sci. Rep</title>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="page">13786</biblScope>
+			<date type="published" when="2019" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title level="a" type="main">Stem cell and neurogenic gene-expression profiles link prostate basal cells to aggressive prostate cancer</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><surname>Zhang</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nat. Commun</title>
+		<imprint>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="page">10798</biblScope>
+			<date type="published" when="2016" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title level="a" type="main">A basal stem cell signature identifies aggressive prostate cancer phenotypes</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">B</forename><forename type="middle">A</forename><surname>Smith</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Proc. Natl. Acad. Sci. U.S.A</title>
+		<imprint>
+			<biblScope unit="volume">112</biblScope>
+			<biblScope unit="page" from="6544" to="6552" />
+			<date type="published" when="2015" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+		<title level="a" type="main">Divergent clonal evolution of castration-resistant neuroendocrine prostate cancer</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><surname>Beltran</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nat. Med</title>
+		<imprint>
+			<biblScope unit="volume">22</biblScope>
+			<biblScope unit="page" from="298" to="305" />
+			<date type="published" when="2016" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<analytic>
+		<title level="a" type="main">ARCHES: A randomized, phase III study of androgen deprivation therapy with enzalutamide or placebo in men with metastatic hormone-sensitive prostate cancer</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><forename type="middle">J</forename><surname>Armstrong</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Clin. Oncol</title>
+		<imprint>
+			<biblScope unit="volume">37</biblScope>
+			<biblScope unit="page" from="2974" to="2986" />
+			<date type="published" when="2019" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<analytic>
+		<title level="a" type="main">ENZAMET Trial Investigators and the Australian and New Zealand Urogenital and Prostate Cancer Trials Group, Enzalutamide with standard first-line therapy in metastatic prostate cancer</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">I</forename><forename type="middle">D</forename><surname>Davis</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">N. Engl. J. Med</title>
+		<imprint>
+			<biblScope unit="volume">381</biblScope>
+			<biblScope unit="page" from="121" to="131" />
+			<date type="published" when="2019" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<analytic>
+		<title level="a" type="main">Linking the p53 tumour suppressor pathway to somatic cell reprogramming</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Kawamura</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nature</title>
+		<imprint>
+			<biblScope unit="volume">460</biblScope>
+			<biblScope unit="page" from="1140" to="1144" />
+			<date type="published" when="2009" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<analytic>
+		<title level="a" type="main">Cellular plasticity and the neuroendocrine phenotype in prostate cancer</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><forename type="middle">H</forename><surname>Davies</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><surname>Beltran</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Zoubeidi</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nat. Rev. Urol</title>
+		<imprint>
+			<biblScope unit="volume">15</biblScope>
+			<biblScope unit="page" from="271" to="286" />
+			<date type="published" when="2018" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<analytic>
+		<title level="a" type="main">Expression of pluripotent stem cell reprogramming factors by prostate tumor initiating cells</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><forename type="middle">M</forename><surname>Bae</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Urol</title>
+		<imprint>
+			<biblScope unit="volume">183</biblScope>
+			<biblScope unit="page" from="2045" to="2053" />
+			<date type="published" when="2010" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<analytic>
+		<title level="a" type="main">Epithelial-mesenchymal transition can suppress major attributes of human epithelial tumor-initiating cells</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Celià-Terrassa</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Clin. Invest</title>
+		<imprint>
+			<biblScope unit="volume">122</biblScope>
+			<biblScope unit="page" from="1849" to="1868" />
+			<date type="published" when="2012" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<analytic>
+		<title level="a" type="main">Loss of androgen receptor expression promotes a stem-like cell phenotype in prostate cancer through STAT3 signaling</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Schroeder</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Cancer Res</title>
+		<imprint>
+			<biblScope unit="volume">74</biblScope>
+			<biblScope unit="page" from="1227" to="1237" />
+			<date type="published" when="2014" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b35">
+	<analytic>
+		<title level="a" type="main">A phase 1 study of a chimeric monoclonal antibody against interleukin-6, siltuximab, combined with docetaxel in patients with metastatic castration-resistant prostate cancer</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">G</forename><surname>Hudes</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Invest. New Drugs</title>
+		<imprint>
+			<biblScope unit="volume">31</biblScope>
+			<biblScope unit="page" from="669" to="676" />
+			<date type="published" when="2013" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b36">
+	<analytic>
+		<title level="a" type="main">JAK inhibition with ruxolitinib versus best available therapy for myelofibrosis</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><surname>Harrison</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">N. Engl. J. Med</title>
+		<imprint>
+			<biblScope unit="volume">366</biblScope>
+			<biblScope unit="page" from="787" to="798" />
+			<date type="published" when="2012" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b37">
+	<analytic>
+		<title level="a" type="main">A potent and selective small-molecule degrader of STAT3 achieves complete tumor regression in vivo</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">L</forename><surname>Bai</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Cancer Cell</title>
+		<imprint>
+			<biblScope unit="volume">36</biblScope>
+			<biblScope unit="page" from="498" to="511" />
+			<date type="published" when="2019" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b38">
+	<analytic>
+		<title level="a" type="main">TGF-β receptor I inhibitor enhances response to enzalutamide in a preclinical model of advanced prostate cancer</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><surname>Paller</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Prostate</title>
+		<imprint>
+			<biblScope unit="volume">79</biblScope>
+			<biblScope unit="page" from="31" to="43" />
+			<date type="published" when="2019" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b39">
+	<analytic>
+		<title level="a" type="main">PALOMA3 Study Group, Palbociclib in hormone-receptor-positive advanced breast cancer</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">N</forename><forename type="middle">C</forename><surname>Turner</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">N. Engl. J. Med</title>
+		<imprint>
+			<biblScope unit="volume">373</biblScope>
+			<biblScope unit="page" from="209" to="219" />
+			<date type="published" when="2015" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b40">
+	<analytic>
+		<title level="a" type="main">Sipuleucel-T immunotherapy for castration-resistant prostate cancer</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><forename type="middle">W</forename><surname>Kantoff</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">IMPACT Study Investigators</title>
+		<imprint>
+			<date type="published" when="2010" />
+			<biblScope unit="volume">363</biblScope>
+			<biblScope unit="page" from="411" to="422" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b41">
+	<analytic>
+		<title level="a" type="main">Randomized, double-blind, phase III trial of ipilimumab versus placebo in asymptomatic or minimally symptomatic patients with metastatic chemotherapy-naive castration-resistant prostate cancer</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><forename type="middle">M</forename><surname>Beer</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Clin. Oncol</title>
+		<imprint>
+			<biblScope unit="volume">35</biblScope>
+			<biblScope unit="page" from="40" to="47" />
+			<date type="published" when="2017" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b42">
+	<analytic>
+		<title level="a" type="main">Ipilimumab versus placebo after radiotherapy in patients with metastatic castration-resistant prostate cancer that had progressed after docetaxel chemotherapy (CA184-043): A multicentre, randomised, double-blind</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><forename type="middle">D</forename><surname>Kwon</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">CA184-043 Investigators</title>
+		<imprint>
+			<date type="published" when="2014" />
+			<biblScope unit="volume">15</biblScope>
+			<biblScope unit="page" from="700" to="712" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b43">
+	<analytic>
+		<title level="a" type="main">Pembrolizumab for treatment-refractory metastatic castration-resistant prostate cancer: Multicohort, open-label phase II KEYNOTE-199 study</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><forename type="middle">S</forename><surname>Antonarakis</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Clin. Oncol</title>
+		<imprint>
+			<biblScope unit="volume">38</biblScope>
+			<biblScope unit="page" from="395" to="405" />
+			<date type="published" when="2019" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b44">
+	<analytic>
+		<title level="a" type="main">Clinical trial design for microarray predictive marker discovery and assessment</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">L</forename><surname>Pusztai</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><forename type="middle">R</forename><surname>Hess</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ann. Oncol</title>
+		<imprint>
+			<biblScope unit="volume">15</biblScope>
+			<biblScope unit="page" from="1731" to="1737" />
+			<date type="published" when="2004" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b45">
+	<analytic>
+		<title level="a" type="main">Estimating dataset size requirements for classifying DNA microarray data</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Mukherjee</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Comput. Biol</title>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="page" from="119" to="142" />
+			<date type="published" when="2003" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b46">
+	<analytic>
+		<title level="a" type="main">Prostate Cancer Clinical Trials Working Group, Design and end points of clinical trials for patients with progressive prostate cancer and castrate levels of testosterone: Recommendations of the prostate cancer clinical trials working group</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><forename type="middle">I</forename><surname>Scher</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Clin. Oncol</title>
+		<imprint>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="page" from="1148" to="1159" />
+			<date type="published" when="2008" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b47">
+	<analytic>
+		<title level="a" type="main">Molecular testing in patients with castration-resistant prostate cancer and its Impact on clinical decision making</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><forename type="middle">L</forename><surname>Tao</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">JCO Precis. Oncol</title>
+		<imprint>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="page" from="1" to="11" />
+			<date type="published" when="2017" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b48">
+	<analytic>
+		<title level="a" type="main">Genomic hallmarks and structural variation in metastatic prostate cancer</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><forename type="middle">A</forename><surname>Quigley</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Cell</title>
+		<imprint>
+			<biblScope unit="volume">175</biblScope>
+			<biblScope unit="page">889</biblScope>
+			<date type="published" when="2018" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b49">
+	<analytic>
+		<title level="a" type="main">RSEM: Accurate transcript quantification from RNA-seq data with or without a reference genome</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">B</forename><surname>Li</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><forename type="middle">N</forename><surname>Dewey</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">BMC Bioinformatics</title>
+		<imprint>
+			<biblScope unit="volume">12</biblScope>
+			<biblScope unit="page">323</biblScope>
+			<date type="published" when="2011" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b50">
+	<analytic>
+		<title level="a" type="main">Gene set enrichment analysis: A knowledge-based approach for interpreting genome-wide expression profiles</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Subramanian</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Proc. Natl. Acad. Sci. U.S.A</title>
+		<imprint>
+			<biblScope unit="volume">102</biblScope>
+			<biblScope unit="page" from="15545" to="15550" />
+			<date type="published" when="2005" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b51">
+	<analytic>
+		<title level="a" type="main">The molecular signatures database (MSigDB) hallmark gene set collection</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Liberzon</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Cell Syst</title>
+		<imprint>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="page" from="417" to="425" />
+			<date type="published" when="2015" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b52">
+	<analytic>
+		<title level="a" type="main">Moderated estimation of fold change and dispersion for RNA-seq data with DESeq2</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">I</forename><surname>Love</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">W</forename><surname>Huber</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Anders</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Genome Biol</title>
+		<imprint>
+			<biblScope unit="volume">15</biblScope>
+			<biblScope unit="page">550</biblScope>
+			<date type="published" when="2014" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b53">
+	<analytic>
+		<title level="a" type="main">Integrative analysis identifies four molecular and clinical subsets in uveal melanoma</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><forename type="middle">G</forename><surname>Robertson</surname></persName>
+		</author>
+		<idno>204-220.e15</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Cancer Cell</title>
+		<imprint>
+			<biblScope unit="volume">32</biblScope>
+			<date type="published" when="2017" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b54">
+	<analytic>
+		<title level="a" type="main">Systematic RNA interference reveals that oncogenic KRAS-driven cancers require TBK1</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><forename type="middle">A</forename><surname>Barbie</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nature</title>
+		<imprint>
+			<biblScope unit="volume">462</biblScope>
+			<biblScope unit="page" from="108" to="112" />
+			<date type="published" when="2009" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b55">
+	<analytic>
+		<title level="a" type="main">GSVA: Gene set variation analysis for microarray and RNA-seq data</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Hänzelmann</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><surname>Castelo</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Guinney</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">BMC Bioinformatics</title>
+		<imprint>
+			<biblScope unit="volume">14</biblScope>
+			<biblScope unit="page">7</biblScope>
+			<date type="published" when="2013" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

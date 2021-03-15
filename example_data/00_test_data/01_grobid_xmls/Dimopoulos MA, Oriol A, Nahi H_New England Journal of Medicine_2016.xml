@@ -1,0 +1,1356 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /data/rsg/nlp/juanmoo1/bin/grobid-0.6.1/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Daratumumab, Lenalidomide, and Dexamethasone for Multiple Myeloma</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+				<date type="published" when="2016-10-06">October 6, 2016</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">A</forename><surname>Dimopoulos</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">School of Medicine</orgName>
+								<orgName type="institution" key="instit1">Kapodistrian University of Athens</orgName>
+								<orgName type="institution" key="instit2">Alexandra Hospital</orgName>
+								<address>
+									<addrLine>80 Vas. Sofias</addrLine>
+									<postCode>11528</postCode>
+									<settlement>Athens</settlement>
+									<country key="GR">Greece</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Oriol</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">School of Medicine</orgName>
+								<orgName type="institution" key="instit1">Kapodistrian University of Athens</orgName>
+								<orgName type="institution" key="instit2">Alexandra Hospital</orgName>
+								<address>
+									<addrLine>80 Vas. Sofias</addrLine>
+									<postCode>11528</postCode>
+									<settlement>Athens</settlement>
+									<country key="GR">Greece</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><surname>Nahi</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">School of Medicine</orgName>
+								<orgName type="institution" key="instit1">Kapodistrian University of Athens</orgName>
+								<orgName type="institution" key="instit2">Alexandra Hospital</orgName>
+								<address>
+									<addrLine>80 Vas. Sofias</addrLine>
+									<postCode>11528</postCode>
+									<settlement>Athens</settlement>
+									<country key="GR">Greece</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>San-Miguel</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">School of Medicine</orgName>
+								<orgName type="institution" key="instit1">Kapodistrian University of Athens</orgName>
+								<orgName type="institution" key="instit2">Alexandra Hospital</orgName>
+								<address>
+									<addrLine>80 Vas. Sofias</addrLine>
+									<postCode>11528</postCode>
+									<settlement>Athens</settlement>
+									<country key="GR">Greece</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">N</forename><forename type="middle">J</forename><surname>Bahlis</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">School of Medicine</orgName>
+								<orgName type="institution" key="instit1">Kapodistrian University of Athens</orgName>
+								<orgName type="institution" key="instit2">Alexandra Hospital</orgName>
+								<address>
+									<addrLine>80 Vas. Sofias</addrLine>
+									<postCode>11528</postCode>
+									<settlement>Athens</settlement>
+									<country key="GR">Greece</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><forename type="middle">Z</forename><surname>Usmani</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">School of Medicine</orgName>
+								<orgName type="institution" key="instit1">Kapodistrian University of Athens</orgName>
+								<orgName type="institution" key="instit2">Alexandra Hospital</orgName>
+								<address>
+									<addrLine>80 Vas. Sofias</addrLine>
+									<postCode>11528</postCode>
+									<settlement>Athens</settlement>
+									<country key="GR">Greece</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">N</forename><surname>Rabin</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">School of Medicine</orgName>
+								<orgName type="institution" key="instit1">Kapodistrian University of Athens</orgName>
+								<orgName type="institution" key="instit2">Alexandra Hospital</orgName>
+								<address>
+									<addrLine>80 Vas. Sofias</addrLine>
+									<postCode>11528</postCode>
+									<settlement>Athens</settlement>
+									<country key="GR">Greece</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><forename type="middle">Z</forename><surname>Orlowski</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">School of Medicine</orgName>
+								<orgName type="institution" key="instit1">Kapodistrian University of Athens</orgName>
+								<orgName type="institution" key="instit2">Alexandra Hospital</orgName>
+								<address>
+									<addrLine>80 Vas. Sofias</addrLine>
+									<postCode>11528</postCode>
+									<settlement>Athens</settlement>
+									<country key="GR">Greece</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Komarnicki</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">School of Medicine</orgName>
+								<orgName type="institution" key="instit1">Kapodistrian University of Athens</orgName>
+								<orgName type="institution" key="instit2">Alexandra Hospital</orgName>
+								<address>
+									<addrLine>80 Vas. Sofias</addrLine>
+									<postCode>11528</postCode>
+									<settlement>Athens</settlement>
+									<country key="GR">Greece</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><surname>Suzuki</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">School of Medicine</orgName>
+								<orgName type="institution" key="instit1">Kapodistrian University of Athens</orgName>
+								<orgName type="institution" key="instit2">Alexandra Hospital</orgName>
+								<address>
+									<addrLine>80 Vas. Sofias</addrLine>
+									<postCode>11528</postCode>
+									<settlement>Athens</settlement>
+									<country key="GR">Greece</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Plesner</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">School of Medicine</orgName>
+								<orgName type="institution" key="instit1">Kapodistrian University of Athens</orgName>
+								<orgName type="institution" key="instit2">Alexandra Hospital</orgName>
+								<address>
+									<addrLine>80 Vas. Sofias</addrLine>
+									<postCode>11528</postCode>
+									<settlement>Athens</settlement>
+									<country key="GR">Greece</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S.-S</forename><surname>Yoon</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">School of Medicine</orgName>
+								<orgName type="institution" key="instit1">Kapodistrian University of Athens</orgName>
+								<orgName type="institution" key="instit2">Alexandra Hospital</orgName>
+								<address>
+									<addrLine>80 Vas. Sofias</addrLine>
+									<postCode>11528</postCode>
+									<settlement>Athens</settlement>
+									<country key="GR">Greece</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><forename type="middle">Ben</forename><surname>Yehuda</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">School of Medicine</orgName>
+								<orgName type="institution" key="instit1">Kapodistrian University of Athens</orgName>
+								<orgName type="institution" key="instit2">Alexandra Hospital</orgName>
+								<address>
+									<addrLine>80 Vas. Sofias</addrLine>
+									<postCode>11528</postCode>
+									<settlement>Athens</settlement>
+									<country key="GR">Greece</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><forename type="middle">G</forename><surname>Richardson</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">School of Medicine</orgName>
+								<orgName type="institution" key="instit1">Kapodistrian University of Athens</orgName>
+								<orgName type="institution" key="instit2">Alexandra Hospital</orgName>
+								<address>
+									<addrLine>80 Vas. Sofias</addrLine>
+									<postCode>11528</postCode>
+									<settlement>Athens</settlement>
+									<country key="GR">Greece</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><surname>Goldschmidt</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">School of Medicine</orgName>
+								<orgName type="institution" key="instit1">Kapodistrian University of Athens</orgName>
+								<orgName type="institution" key="instit2">Alexandra Hospital</orgName>
+								<address>
+									<addrLine>80 Vas. Sofias</addrLine>
+									<postCode>11528</postCode>
+									<settlement>Athens</settlement>
+									<country key="GR">Greece</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><surname>Reece</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">School of Medicine</orgName>
+								<orgName type="institution" key="instit1">Kapodistrian University of Athens</orgName>
+								<orgName type="institution" key="instit2">Alexandra Hospital</orgName>
+								<address>
+									<addrLine>80 Vas. Sofias</addrLine>
+									<postCode>11528</postCode>
+									<settlement>Athens</settlement>
+									<country key="GR">Greece</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Lisby</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">School of Medicine</orgName>
+								<orgName type="institution" key="instit1">Kapodistrian University of Athens</orgName>
+								<orgName type="institution" key="instit2">Alexandra Hospital</orgName>
+								<address>
+									<addrLine>80 Vas. Sofias</addrLine>
+									<postCode>11528</postCode>
+									<settlement>Athens</settlement>
+									<country key="GR">Greece</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">N</forename><forename type="middle">Z</forename><surname>Khokhar</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">School of Medicine</orgName>
+								<orgName type="institution" key="instit1">Kapodistrian University of Athens</orgName>
+								<orgName type="institution" key="instit2">Alexandra Hospital</orgName>
+								<address>
+									<addrLine>80 Vas. Sofias</addrLine>
+									<postCode>11528</postCode>
+									<settlement>Athens</settlement>
+									<country key="GR">Greece</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">L</forename><surname>O'rourke</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">School of Medicine</orgName>
+								<orgName type="institution" key="instit1">Kapodistrian University of Athens</orgName>
+								<orgName type="institution" key="instit2">Alexandra Hospital</orgName>
+								<address>
+									<addrLine>80 Vas. Sofias</addrLine>
+									<postCode>11528</postCode>
+									<settlement>Athens</settlement>
+									<country key="GR">Greece</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><surname>Chiu</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">School of Medicine</orgName>
+								<orgName type="institution" key="instit1">Kapodistrian University of Athens</orgName>
+								<orgName type="institution" key="instit2">Alexandra Hospital</orgName>
+								<address>
+									<addrLine>80 Vas. Sofias</addrLine>
+									<postCode>11528</postCode>
+									<settlement>Athens</settlement>
+									<country key="GR">Greece</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">X</forename><surname>Qin</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">School of Medicine</orgName>
+								<orgName type="institution" key="instit1">Kapodistrian University of Athens</orgName>
+								<orgName type="institution" key="instit2">Alexandra Hospital</orgName>
+								<address>
+									<addrLine>80 Vas. Sofias</addrLine>
+									<postCode>11528</postCode>
+									<settlement>Athens</settlement>
+									<country key="GR">Greece</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Guckert</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">School of Medicine</orgName>
+								<orgName type="institution" key="instit1">Kapodistrian University of Athens</orgName>
+								<orgName type="institution" key="instit2">Alexandra Hospital</orgName>
+								<address>
+									<addrLine>80 Vas. Sofias</addrLine>
+									<postCode>11528</postCode>
+									<settlement>Athens</settlement>
+									<country key="GR">Greece</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Ahmadi</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">School of Medicine</orgName>
+								<orgName type="institution" key="instit1">Kapodistrian University of Athens</orgName>
+								<orgName type="institution" key="instit2">Alexandra Hospital</orgName>
+								<address>
+									<addrLine>80 Vas. Sofias</addrLine>
+									<postCode>11528</postCode>
+									<settlement>Athens</settlement>
+									<country key="GR">Greece</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><surname>Moreau</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">School of Medicine</orgName>
+								<orgName type="institution" key="instit1">Kapodistrian University of Athens</orgName>
+								<orgName type="institution" key="instit2">Alexandra Hospital</orgName>
+								<address>
+									<addrLine>80 Vas. Sofias</addrLine>
+									<postCode>11528</postCode>
+									<settlement>Athens</settlement>
+									<country key="GR">Greece</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Daratumumab, Lenalidomide, and Dexamethasone for Multiple Myeloma</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date type="published" when="2016-10-06">October 6, 2016</date>
+						</imprint>
+					</monogr>
+					<idno type="DOI">10.1056/NEJMoa1607751</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.6.1" ident="GROBID" when="2021-01-01T18:48+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<abstract>
+				<p>BACKGROUND Daratumumab showed promising efficacy alone and with lenalidomide and dexamethasone in a phase 1-2 study involving patients with relapsed or refractory multiple myeloma. METHODS In this phase 3 trial, we randomly assigned 569 patients with multiple myeloma who had received one or more previous lines of therapy to receive lenalidomide and dexamethasone either alone (control group) or in combination with daratumumab (daratumumab group). The primary end point was progression-free survival. RESULTS At a median follow-up of 13.5 months in a protocol-specified interim analysis, 169 events of disease progression or death were observed (in 53 of 286 patients [18.5%] in the daratumumab group vs. 116 of 283 [41.0%] in the control group; hazard ratio, 0.37; 95% confidence interval [CI], 0.27 to 0.52; P&lt;0.001 by stratified log-rank test). The Kaplan-Meier rate of progression-free survival at 12 months was 83.2% (95% CI, 78.3 to 87.2) in the daratumumab group, as compared with 60.1% (95% CI, 54.0 to 65.7) in the control group. A significantly higher rate of overall response was observed in the daratumumab group than in the control group (92.9% vs. 76.4%, P&lt;0.001), as was a higher rate of complete response or better (43.1% vs. 19.2%, P&lt;0.001). In the daratumumab group, 22.4% of the patients had results below the threshold for minimal residual disease (1 tumor cell per 10 5 white cells), as compared with 4.6% of those in the control group (P&lt;0.001); results below the threshold for minimal residual disease were associated with improved outcomes. The most common adverse events of grade 3 or 4 during treatment were neutropenia (in 51.9% of the patients in the daratumumab group vs. 37.0% of those in the control group), thrombocytopenia (in 12.7% vs. 13.5%), and anemia (in 12.4% vs. 19.6%). Daratumumab-associated infusion-related reactions occurred in 47.7% of the patients and were mostly of grade 1 or 2. CONCLUSIONS The addition of daratumumab to lenalidomide and dexamethasone significantly lengthened progression-free survival among patients with relapsed or refractory multiple myeloma. Daratumumab was associated with infusion-related reactions and a higher rate of neutropenia than the control therapy. (Funded by Janssen Research and Development; POLLUX ClinicalTrials.gov number, NCT02076009.</p>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>n engl j med 375;14 nejm.org October 6, 2016</p><p>T h e ne w e ngl a nd jou r na l o f m e dicine T he incorporation of proteasome inhibitors and immunomodulatory drugs into the standard of care has improved outcomes in patients with multiple myeloma over the past 10 years, <ref type="bibr" target="#b9">[1]</ref><ref type="bibr" target="#b10">[2]</ref><ref type="bibr" target="#b11">[3]</ref> but most patients still eventually have a relapse. <ref type="bibr" target="#b12">4</ref> Relapse can occur even after standard complete remission in the context of first-line therapy, and studies are therefore evaluating deeper responses in a category termed "minimal residual disease-negative" (i.e., results below the threshold for minimal residual disease) that is prognostic with regard to a rate of disease progression in a time-toevent analysis and overall survival. <ref type="bibr" target="#b13">5,</ref><ref type="bibr" target="#b14">6</ref> However, this category of minimal residual disease status has not been examined to date in patients with relapsed or refractory multiple myeloma, in part because of limited availability of data showing a correlation between depth of response and survival outcomes in patients at this stage of the disease. <ref type="bibr" target="#b15">7</ref> Daratumumab, a human IgGκ monoclonal antibody that targets CD38, <ref type="bibr" target="#b16">8</ref> has shown substantial single-agent efficacy and a manageable safety profile in phase 1-2 studies involving patients with heavily pretreated relapsed or refractory multiple myeloma, with reported overall response rates of 29% and 36%. <ref type="bibr" target="#b17">9,</ref><ref type="bibr" target="#b18">10</ref> On the basis of these findings, daratumumab monotherapy (at a dose of 16 mg per kilogram of body weight) was approved by the Food and Drug Administration and the European Medicines Agency for these patients. <ref type="bibr" target="#b19">11,</ref><ref type="bibr" target="#b20">12</ref> The mechanisms of action of daratumumab comprise immune-mediated effects, including complement-dependent and antibody-dependent cell-mediated cytotoxic effects, antibody-dependent cellular phagocytosis, and apoptosis by means of cross-linking. <ref type="bibr" target="#b16">8,</ref><ref type="bibr" target="#b21">[13]</ref><ref type="bibr" target="#b22">[14]</ref><ref type="bibr" target="#b23">[15]</ref><ref type="bibr" target="#b24">[16]</ref> Moreover, daratumumab may have a role in immunomodulation by means of depletion of CD38-positive regulator immune suppressor cells, which leads to a greater clonal expansion of T cells in patients who have a response than in those who do not. <ref type="bibr" target="#b25">17</ref> Daratumumab has shown efficacy in combination with standard-of-care therapies. A phase 3 trial of bortezomib and dexamethasone, with or without daratumumab, met its primary end point at the interim analysis and showed a significantly higher rate of progression-free survival, with a 61% lower risk of progression or death in the daratumumab group than in the control group. <ref type="bibr" target="#b26">18</ref> A phase 1-2 study of daratumumab, lena-lidomide, and dexamethasone in patients with relapsed or refractory multiple myeloma showed that this combination provided therapeutic benefits, no dose-limiting toxic effects, and an 81% rate of overall response, including a 25% rate of stringent complete response (a definition of this term is provided in the Supplementary Appendix, available with the full text of this article at NEJM.org). <ref type="bibr" target="#b27">19</ref> At 18 months, the rate of progression-free survival was 72%, and the rate of overall survival was 90%. <ref type="bibr" target="#b27">19</ref> Here we report the results of a prespecified interim analysis of a phase 3 trial of daratumumab, lenalidomide, and dexamethasone in patients with relapsed or refractory multiple myeloma.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Me thods</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Trial Design</head><p>In this randomized, open-label, multicenter, phase 3 trial, we assigned patients who had relapsed or refractory multiple myeloma and had received one or more lines of previous therapy to receive either daratumumab, lenalidomide, and dexamethasone (daratumumab group) or lenalidomide and dexamethasone (control group). Patients underwent randomization between June 16, 2014, and July 14, 2015, at 135 sites in 18 countries across North America, Europe, and the Asia Pacific region. The trial was approved by the independent ethics committee or institutional review board at each site before the initiation of the trial. Patients provided written informed consent, and the trial was conducted in accordance with the principles of the Declaration of Helsinki and current International Conference on Harmonisation Good Clinical Practice guidelines.</p><p>lidomide treatment owing to adverse events, a neutrophil count of 1.0×10 <ref type="bibr" target="#b17">9</ref> or less per liter, a hemoglobin level of 7.5 g or less per deciliter, a platelet count of less than 75×10 9 per liter, an alanine aminotransferase or aspartate aminotransferase level of 2.5 or more times the upper limit of the normal range, an alkaline phosphatase level of 2.5 or more times the upper limit of the normal range, a bilirubin level of 1.5 or more times the upper limit of the normal range, and a creatinine clearance of less than 30 ml per minute.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Treatments</head><p>Randomization (in a 1:1 ratio) was conducted by means of a central schedule and was balanced with the use of randomly permuted blocks and stratified according to the number of lines of previous therapy (1 vs. 2 or 3 vs. &gt;3), International Staging System disease stage (I vs. II vs. III, with higher stages indicating more advanced disease; see the Supplementary Appendix) at screening, and previous receipt of lenalidomide (no vs. yes). Treatment cycles of 28 days continued until disease progression, an unacceptable level of toxic events, withdrawal of consent, or death.</p><p>For patients who were assigned to the daratumumab group, daratumumab at a dose of 16 mg per kilogram was intravenously administered weekly (on days 1, 8, 15, and 22) for 8 weeks during cycles 1 and 2, every 2 weeks (on days 1 and 15) for 16 weeks (cycles 3 through 6), and every 4 weeks thereafter ( <ref type="figure" target="#fig_0">Fig. S1</ref> in the Supplementary Appendix). Both groups received lenalidomide at a dose of 25 mg orally on days 1 to 21 of each cycle if the creatinine clearance was more than 60 ml per minute (or a dose of 10 mg daily if the creatinine clearance was 30 to 60 ml per minute) and dexamethasone at a dose of 40 mg weekly. For the daratumumab group, the dose of dexamethasone was split: dexamethasone was administered at a dose of 20 mg before infusion as prophylaxis for infusion-related reactions and 20 mg was administered the next day. Patients in either group who were older than 75 years of age or whose body-mass index (the weight in kilograms divided by the square of the height in meters) was less than 18.5 received dexamethasone at a dose of 20 mg weekly at the discretion of their physician. The use of medications before and after infusion is summarized in the Supplementary Appendix.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>End Points and Assessments</head><p>The primary end point was progression-free survival, with progression determined with the use of a validated computer algorithm that combined laboratory results (e.g., M-protein level) and applicable imaging and generated the outcome according to IMWG criteria (see the Supplementary Appendix). <ref type="bibr" target="#b28">20,</ref><ref type="bibr" target="#b29">21</ref> This algorithm previously showed very strong concordance with independent reviews in a phase 2 study. <ref type="bibr" target="#b17">9</ref> Secondary end points included the time to disease progression in a time-to-event analysis, overall response rate, rate of very good partial response or better (comprising very good partial, complete, and stringent complete responses), rate of complete response or better (comprising complete and stringent complete responses), percentages of patients with results below the threshold for minimal residual disease, time to response, duration of response, and overall survival. Disease assessments (blood and 24-hour urinary values) were performed every 28 days (within a 3-day window before and after) by a central laboratory for 18 months and every other cycle thereafter until progression.</p><p>Therapeutic monoclonal antibodies may interfere with assessment of complete responses because a criterion requires negative immunofixation for monoclonal protein in the serum and urine. <ref type="bibr" target="#b30">22</ref> For patients with this suspected interference from the treating antibody, a daratumumabspecific immunofixation electrophoresis reflex assay was performed at the time of suspected complete response. <ref type="bibr" target="#b31">23</ref> Minimal residual disease status was evaluated by means of a next-generation sequencing assay of bone marrow obtained from patients who had a suspected complete response (see the Supplementary Appendix).</p><p>Safety assessments included evaluation of adverse events, clinical laboratory tests, electrocardiograms, vital signs, and physical examinations. Follow-up was continued for patients who discontinued treatment. An independent data and safety monitoring committee was established to periodically review unblinded safety data.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Trial Oversight</head><p>The investigators and the sponsor (Janssen Research and Development) were responsible for the trial design and statistical analysis. Data were collected by the investigators and associated research teams and were compiled and maintained by the sponsor. All the investigators had access to the data on request and were not restricted by confidentiality agreements. Professional medical writers prepared the manuscript and were funded by the sponsor. All the authors reviewed, revised, and approved the manuscript for submission. All the authors vouch for the accuracy and completeness of the data and for the adherence of the trial to the protocol (available, with the statistical analysis plan, at NEJM.org). Here we report results for the primary outcome and selected secondary outcomes. Other secondary outcomes are listed in the trial protocol. The results for those outcomes are compatible with the results presented here or have not yet been met.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Statistical Analysis</head><p>The group-sequential design had one planned interim analysis to evaluate the primary end point. We calculated that approximately 560 patients with 295 events (disease progression or death) would be needed to provide the trial with 85% power to detect a 30% lower risk of disease progression or death (hazard ratio, 0.70), using a log-rank test, with an overall two-sided significance level of 0.05. This interim analysis was to be conducted when approximately 177 events were observed (60% of the total expected events). For the primary end point, the O'Brien-Fleming stopping boundary at the interim analysis was calculated with the use of the Lan-DeMets alphaspending function on the basis of the numbers of observed events at the clinical cutoff date. <ref type="bibr" target="#b32">24,</ref><ref type="bibr" target="#b33">25</ref> If the primary end point was significant at the interim analysis, the major efficacy secondary end points of time to disease progression, rate of very good partial response, rate of results below the threshold for minimal residual disease, overall response rate, and overall survival, as ordered here, were sequentially tested, each with an overall two-sided alpha of 0.05. The population of patients whose response could be evaluated included patients who had measurable disease at baseline or the screening visit, had received at least one study treatment, and had undergone at least one disease assessment after the baseline visit; all the other efficacy analyses were based on the intention-to-treat population (patients who had undergone randomization). The safety population included all the patients who received at least one dose of trial treatment.</p><p>Progression-free survival was compared be-tween groups on the basis of a stratified logrank test. The Kaplan-Meier method was used to estimate the distributions and 12-month rates of progression-free survival. Hazard ratios and 95% confidence intervals were estimated with the use of a Cox regression model, with treatment as the sole explanatory variable. Stratified Cochran-Mantel-Haenszel tests were used to compare overall response rates, rates of very good partial response or better, and other binary end points. Duration of response was assessed by means of the Kaplan-Meier method.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>R esult s</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Patients and Treatment</head><p>Of 569 patients enrolled, 286 were assigned to the daratumumab group and 283 to the control group. The demographic and clinical characteristics of the patients were well balanced at baseline ( <ref type="table" target="#tab_2">Table 1</ref>, and <ref type="table" target="#tab_2">Table S1</ref> in the Supplementary Appendix). The median age of the patients was 65 years (range, 34 to 89), and the median time since the initial diagnosis of multiple myeloma was 3.6 years.</p><p>Patients had received a median of 1 (range, 1 to 11) previous line of therapy, and 19.2% of the patients had received 3 or more previous lines. Previous therapies included proteasome inhibitors (in 85.6% of patients) and immunomodulatory drugs (in 55.2%), including lenalidomide (in 17.6%), and 43.9% of the patients had received a proteasome inhibitor and immunomodulatory drug. A total of 63.3% of the patients had received an autologous stem-cell transplant. A total of 27.4% of the patients had disease that was refractory to the last line of therapy.</p><p>At the clinical cutoff date on March 7, 2016, a total of 66 patients (23.3%) in the daratumumab group and 132 (47.0%) in the control group had discontinued treatment. The most common reasons for the discontinuation of treatment were progressive disease (in 14.1% of the patients in the daratumumab group vs. 34.2% of those in the control group) and adverse events (in 6.7% vs. 8.2%) ( <ref type="figure" target="#fig_1">Fig. S2</ref> in the Supplementary Appendix). The median relative dose intensity of lenalidomide (the ratio of administered doses to planned doses) was 85.2% in the daratumumab group and 95.8% in the control group. The mean dose intensity of lenalidomide in patients who received trial treatment for at least 6 months was To immunomodulatory drug only 10 (3.5) (3.9)</p><p>To proteasome inhibitor and immunomodulatory drug 7 (2.4) (4.9) * There were no significant differences between the two groups in the characteristics evaluated at baseline. The intentionto-treat population was defined as all patients who underwent randomization. † Race was determined by the investigator. ‡ Eastern Cooperative Oncology Group (ECOG) performance status is scored on a scale from 0 to 5, with indicating no symptoms and higher scores indicating increasing disability. § The International Staging System (ISS) disease stage is derived on the basis of the combination of serum β 2microglobulin and albumin levels. Higher stages indicate more advanced disease. ¶ Complete cytogenetic data were not available at the clinical cutoff date, and a prospective, centralized analysis of cytogenetic data is ongoing. T h e ne w e ngl a nd jou r na l o f m e dicine 378 mg per cycle in the daratumumab group and 429 mg per cycle in the control group.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Efficacy</head><p>At a median follow-up of 13.5 months, a total of 169 events of disease progression or death (in 53 patients <ref type="bibr">[18.5%]</ref> in the daratumumab group vs. 116 [41.0%] in the control group) were reported. The hazard ratio for disease progression or death in the daratumumab group versus the control group was 0.37 (95% confidence interval [CI], 0.27 to 0.52; P&lt;0.001 by stratified log-rank test), which crossed the prespecified stopping boundary <ref type="figure" target="#fig_0">(Fig. 1)</ref>. The Kaplan-Meier rate of progression-free survival at 12 months was 83.2% (95% CI, 78.3 to 87.2) in the daratumumab group and 60.1% (95% CI, 54.0 to 65.7) in the control group. The median progression-free survival was not reached (95% CI, could not be estimated) in the daratumumab group, as compared with 18.4 months (95% CI, 13.9 to could not be estimated) in the control group. Similarly, in the time-toevent analysis of disease progression, a total of 148 events (in 44 patients <ref type="bibr">[15.4%]</ref> in the daratumumab group vs. 104 [36.7%] in the control group) were observed (hazard ratio, 0.34; 95% CI, 0.23 to 0.48; P&lt;0.001). The rate of progression-free survival at 12 months was 85.7% (95% CI, 80.9 to 89.4) in the daratumumab group, as compared with 63.2% (95% CI, 57.1 to 68.8) in the control group.</p><p>All the prespecified subgroup analyses of Shown are the results of the Kaplan-Meier analysis of progression-free survival among patients in the intention-totreat population, which included all patients who underwent randomization. The P value is based on a stratified log-rank test. The daratumumab group received daratumumab, lenalidomide, and dexamethasone, and the control group received lenalidomide and dexamethasone. NE denotes could not be estimated. progression-free survival confirmed the benefit of daratumumab <ref type="figure" target="#fig_1">(Fig. 2)</ref>. Progression-free survival was significantly prolonged with the addition of daratumumab regardless of the number of previous lines of therapy (1 vs. a subgroup of 1, 2, or 3) ( <ref type="table" target="#tab_6">Table S2</ref> in the Supplementary Appendix). Progression-free survival was similarly prolonged in the daratumumab group among patients who had previous exposure to lenalidomide and those who had no previous exposure, as compared with the control group <ref type="figure">(Fig. S3</ref> in the Supplementary Appendix).</p><p>The overall response rate in the population of patients who had a response that could be evaluated was 92.9% in the daratumumab group versus 76.4% in the control group (P&lt;0.001) ( <ref type="table" target="#tab_6">Table 2)</ref>. Similar results were observed in the intentionto-treat population <ref type="table" target="#tab_8">(Table S3</ref> in the Supplementary Appendix). The rate of very good partial response or better was significantly higher in Shown are the results of a prespecified subgroup analysis of progression-free survival among patients with measurable disease in serum in the intention-to-treat population. The daratumumab group received daratumumab, lenalidomide, and dexamethasone, and the control group received lenalidomide and dexamethasone. The International Staging System (ISS) disease stage is derived on the basis of the combination of serum β 2 -microglobulin and albumin levels; higher stage indicates more advanced disease. The analysis of the subgroup of patients with disease that was refractory to a proteasome inhibitor was based on the subgroup of patients who received previous proteasome inhibitor therapy. A total of 47 patients in the daratumumab group and 41 in the control group had a type of multiple myeloma not listed here.  The New England Journal of Medicine Downloaded from nejm.org at TAKEDA PHARMACEUTICALS GLOBAL on August 24, 2020. For personal use only. No other uses without permission.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Control Better Daratumumab Better</head><p>Copyright © 2016 Massachusetts Medical Society. All rights reserved.</p><p>n engl j med 375;14 nejm.org October 6, 2016 the daratumumab group than in the control group (75.8% vs. 44.2%, P&lt;0.001), as was the rate of complete response or better (43.1% vs. 19.2%, P&lt;0.001). Consistent with the higher rates of deeper responses in the daratumumab group, the rate of results below the threshold for minimal residual disease was significantly higher in the daratumumab group than in the control group (by 3 to 5 times) at all evaluated thresholds (1 tumor cell per 10 4 , 10 5 , and 10 6 white cells) <ref type="figure">(Fig. S4 in the Supplementary Appendix)</ref>. At a threshold of 1 tumor cell per 10 5 white cells, 22.4% of patients in the daratumumab group had results below the threshold for minimal residual disease, as compared with 4.6% in the control group (P&lt;0.001).</p><p>Several months of continuous therapy were required for complete response <ref type="figure">(Fig. S5</ref> in the Supplementary Appendix). The median duration of response was not reached (95% CI, could not be estimated) in the daratumumab group, as compared with 17.4 months (95% CI, 17.4 to could not be estimated) in the control group.</p><p>Deeper responses resulted in longer progression-free survival. Among patients with a partial response or better, the rate of progression-free survival at 12 months was 87.8% (95% CI, 83.1 to 91.3) in the daratumumab group versus 73.6% (95% CI, 67.0 to 79.1) in the control group. Among patients with very good partial response or better, the rate of progression-free survival was 91.7% (95% CI, 87.1 to 94.8) in the daratumumab group versus 85.8% (95% CI, 78.1 to 90.9) in the control group. Results below the threshold for minimal residual disease were associated with longer progression-free survival than results above the threshold <ref type="figure">(Fig. S6</ref> in the <ref type="figure">Supplementary Appendix)</ref>.</p><p>At the interim analysis, a total of 75 deaths had been observed (30 patients in the daratumumab group and 45 in the control group) (  <ref type="bibr" target="#b28">20,</ref><ref type="bibr" target="#b29">21</ref> The analysis included patients who had a confirmed diagnosis of multiple myeloma and measurable disease at baseline or screening. In addition, patients had to have received at least one administration of trial treatment and must have had at least one disease assessment after the baseline visit. † P values were calculated with the use of the Cochran-Mantel-Haenszel chi-square test. ‡ The category of clinical benefit includes all patients with a minimal response, partial response, very good partial response, complete response, and stringent complete response. § Criteria for a stringent complete response include the criteria for a complete response plus a normal free light-chain ratio and the absence of clonal plasma cells as assessed by immunohistochemical or immunofluorescence analysis or by two-color-to-four-color flow cytometry.  <ref type="figure">(Fig. S7</ref> in the Supplementary Appendix). Follow-up for long-term survival is ongoing.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Safety</head><p>The most common adverse events of any grade during treatment (in &gt;15% of the patients in either group) and adverse events of grade 3 or 4 (in &gt;5% of the patients in either group) for the safety population are summarized in <ref type="table" target="#tab_8">Table 3</ref>. Adverse events that occurred at a frequency of 10% or more in the daratumumab group versus the control group were neutropenia, diarrhea, upper respiratory tract infection, and cough, most of which resulted from longer exposure to treatment in the daratumumab group. Deep-vein thrombosis was reported in 1.8% of the patients in the daratumumab group and in 3.9% of those in the control group. In the daratumumab group, 51.9% of patients had neutropenia of grade 3 or 4, as compared with 37.0% of those in the control group; thrombocytopenia of grade 3 or 4 occurred in 12.7% and 13.5% of the patients, respectively. With regard to nonhematologic adverse events, * The safety population included all patients who received at least one dose of trial treatment. Adverse events of any grade that are listed are those that occurred in more than 15% of the patients in either group. Adverse events of grade 3 or 4 that are listed are those that occurred in more than 5% of the patients in either group. incidences of grade 3 or 4 diarrhea, fatigue, nausea, and dyspnea were slightly higher in the daratumumab group than in the control group. The rate of infection of grade 3 or 4 was also slightly higher in the daratumumab group than in the control group (28.3% and 22.8%, respectively); the most common infection of grade 3 or 4 was pneumonia, which occurred at similar rates in the two groups. Serious adverse events were reported in 48.8% of the patients in the daratumumab group and in 42.0% of those in the control group, among which pneumonia was the most common (in 8.1% of the patients in the daratumumab group and in 8.5% of those in the control group). Daratumumab interferes with laboratory-based bloodcompatibility tests, including indirect Coombs' test, because of binding to CD38 on red cells. <ref type="bibr" target="#b34">26</ref> However, among patients who received blood transfusions, no hemolysis was observed.</p><p>The percentage of patients with adverse events leading to the discontinuation of treatment was similar in the two groups: 6.7% in the daratumumab group and 7.8% in the control group. The most common adverse events (in ≥1% of the patients in either group) that led to the discontinuation of treatment included pneumonia (in 1.1% of the patients in the daratumumab group and in 0.7% of those in the control group), pulmonary embolism (in 1.1% in the control group), and deterioration in general physical health (in 1.1% in the daratumumab group). Adverse events leading to death occurred in 11 patients (3.9%) in the daratumumab group and in 15 (5.3%) in the control group. The most common adverse events leading to death were acute kidney injury (in 0.4% of the patients in the daratumumab group and in 1.1% in the control group), septic shock (in 1.1% and 0.4%, respectively), and pneumonia (in 0.7% in each group). Low rates of secondary primary cancer were reported in the two groups (in 2.8% of the patients in the daratumumab group and in 3.6% of those in the control group); 10 of 18 patients (5 patients in each group) with secondary primary cancer had noninvasive, cutaneous secondary primary cancer such as squamous-cell carcinoma or basalcell carcinoma.</p><p>The incidence of daratumumab infusionrelated reactions of any grade was 47.7%, with 92% of the reactions occurring during the first infusion. These reactions were mostly of grade 1 or 2; a total of 15 patients (5.3%) had grade 3 infusion reactions, and no patient had an event of grade 4 or 5. The most common infusion-related reactions were cough (in 8.5% of the patients), dyspnea (in 8.5%), and vomiting (in 5.7%) ( <ref type="table">Table S5</ref> in the Supplementary Appendix). One patient discontinued daratumumab because of a grade 3 infusion-related event, recovered, and continued to receive lenalidomide and dexamethasone treatment.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Discussion</head><p>The results of this phase 3 trial show that the addition of daratumumab to lenalidomide and dexamethasone significantly prolonged progression-free survival and was associated with a 63% lower risk of disease progression or death than lenalidomide and dexamethasone alone among patients with multiple myeloma who had received one or more lines of therapy previously. The treatment effect of daratumumab was consistent regardless of previous exposure to lenalidomide (a limitation being the relatively small number of patients with previous exposure to lenalidomide) and across all subgroups, including patients 65 years of age or older, those with disease that was refractory to proteasome inhibitors or the most recent line of therapy, those with International Staging System stage III disease, and those with previous exposure to a proteasome inhibitor or immunomodulatory drug. The treatment benefit that was associated with daratumumab was also similar in patients with one previous line of therapy and in those in a subgroup of patients with one, two, or three previous lines of therapy. Long-term follow-up is ongoing to assess differences in overall survival.</p><p>As in our trial (POLLUX), the addition of daratumumab to a standard-of-care regimen of bortezomib and dexamethasone in the CASTOR trial was associated with a significantly lower risk of disease progression or death. <ref type="bibr" target="#b26">18</ref> As in the CASTOR trial, <ref type="bibr" target="#b26">18</ref> the addition of daratumumab to the backbone regimen in our trial resulted in a significantly higher rate of overall response, deeper responses, and longer duration of response. After continued treatment, responses deepened, with a rate of complete response or better that was twice as high with daratumumab as with the backbone regimen alone.</p><p>Patients who have very good partial responses or better but have residual disease above recognized thresholds have poorer outcomes than do those who are free from detectable residual disease, and subsequent studies have recognized that minimal residual disease status may serve as a surrogate for estimating disease control and survival. <ref type="bibr" target="#b13">5,</ref><ref type="bibr" target="#b14">6</ref> Although studies to date have focused on results below the threshold for minimal residual disease in patients with newly diagnosed disease (15% to 68% of patients across studies), <ref type="bibr" target="#b13">5</ref> the patients with relapsed or refractory multiple myeloma in our trial had a rate of below-threshold results that was more than four times as high in the daratumumab group as in the control group at the IMWG-recommended threshold of 1 tumor cell per 10 5 white cells for next-generation sequencing. <ref type="bibr" target="#b13">5</ref> Our findings were similar to findings in the context of first-line therapy <ref type="bibr" target="#b13">5,</ref><ref type="bibr" target="#b14">6</ref> in that results below the threshold for minimal residual disease were associated with prolonged progression-free survival among patients with relapsed or refractory multiple myeloma. This suggests that results below the threshold for minimal residual disease also should be a treatment goal in the context of relapsed or refractory disease. Cross-study comparisons should be interpreted with caution because of differences in study design and eligibility criteria. However, other studies that have aimed to improve treatment in the context of salvage therapy have been published. Two trials evaluated a proteasome inhibitor plus lenalidomide and dexamethasone versus lenalidomide and dexamethasone alone, with a hazard ratio for disease progression or death of 0.69 (median progression-free survival, 26.3 vs. 17.6 months; overall response rate, 87% vs. 67%) with carfilzomib (in the ASPIRE [Carfilzomib, Lenalidomide, and Dexamethasone versus Lenalidomide and Dexamethasone for the Treatment of Patients with Relapsed Multiple Myeloma] trial) <ref type="bibr" target="#b35">27</ref> and a hazard ratio for disease progression or death of 0.74 (median progression-free survival, 20.6 vs. 14.7 months; overall response rate, 78% vs. 72%) with ixazomib (in the TOURMALINE-MM1 trial). <ref type="bibr" target="#b36">28</ref> The ELOQUENT-2 trial of elotuzumab, a monoclonal antibody targeting signaling lymphocytic activation molecule F7 (SLAMF7) that lacks single-agent activity, in combination with lenalidomide and dexamethasone as compared with lenalidomide and dexamethasone alone showed a hazard ratio for dis-ease progression or death of 0.70 (median progression-free survival, 19.4 vs. 14.9 months; overall response rate, 79% vs. 66%). <ref type="bibr" target="#b37">29,</ref><ref type="bibr" target="#b38">30</ref> Daratumumab with lenalidomide and dexamethasone was associated with clinically manageable adverse events that were consistent with the known toxic effects of lenalidomide and dexamethasone <ref type="bibr" target="#b35">27,</ref><ref type="bibr" target="#b36">28,</ref><ref type="bibr" target="#b38">30,</ref><ref type="bibr" target="#b39">31</ref> and of daratumumab. <ref type="bibr" target="#b17">9,</ref><ref type="bibr" target="#b18">10</ref> Despite higher rates of neutropenia in the daratumumab group, the rate of infection of grade 3 or 4 was only slightly higher in the daratumumab group than in the control group (28% vs. 23%). The rates of treatment discontinuation owing to adverse events were low and similar in the two groups. After the implementation of guidelines from other studies of daratumumab regarding the management of infusion-related reactions, infusion-related reactions were consistent with daratumumab monotherapy 9,10 and combination therapy, <ref type="bibr" target="#b26">18,</ref><ref type="bibr" target="#b27">19,</ref><ref type="bibr" target="#b40">32</ref> were mostly of grade 1 or 2, and usually occurred during the first infusion.</p><p>In conclusion, daratumumab with lenalidomide and dexamethasone was associated with a significant progression-free survival benefit and higher rates of overall response and results below the threshold for minimal residual disease than lenalidomide and dexamethasone alone among patients with relapsed or refractory multiple myeloma. Although higher rates of neutropenia and infusion-related reactions (primarily during the first infusion) were observed with this combination than with lenalidomide and dexamethasone alone, these events did not result in higher rates of treatment discontinuation or death.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>Figure 1 .</head><label>1</label><figDesc>Progression-free Survival.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head>Figure 2 .</head><label>2</label><figDesc>Prespecified Subgroup Analyses.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_2"><head></head><label></label><figDesc>(0.19-0.90) 0.36 (0.25-0.52) 0.37 (0.26-0.52) 0.35 (0.12-1.00) 0.50 (0.27-0.93) 0.27 (0.17-0.43) 0.47 (0.27-0.80) 0.32 (0.20-0.49) 0.40 (0.24-0.65) no. of progression events or deaths/total no.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head></head><label></label><figDesc>The New England Journal of Medicine Downloaded from nejm.org at TAKEDA PHARMACEUTICALS GLOBAL on August 24, 2020. For personal use only. No other uses without permission.</figDesc><table /><note>Copyright © 2016 Massachusetts Medical Society. All rights reserved.</note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_2"><head>Table 1 .</head><label>1</label><figDesc></figDesc><table /><note>Demographic, Baseline Disease, and Clinical Characteristics in the Intention-to-Treat Population.* The New England Journal of Medicine Downloaded from nejm.org at TAKEDA PHARMACEUTICALS GLOBAL on August 24, 2020. For personal use only. No other uses without permission. Copyright © 2016 Massachusetts Medical Society. All rights reserved.n engl j med 375;14 nejm.org October 6, 2016</note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_5"><head>Table S4</head><label>S4</label><figDesc>in the Supplementary Appendix). The</figDesc><table><row><cell></cell><cell>Daratumumab Group</cell><cell>Control Group</cell><cell></cell></row><row><cell>Response Category</cell><cell>(N = 281)</cell><cell>(N = 276)</cell><cell>P Value †</cell></row><row><cell>Overall response</cell><cell></cell><cell></cell><cell></cell></row><row><cell>No. with response</cell><cell>261</cell><cell>211</cell><cell>-</cell></row><row><cell>Rate -% (95% CI)</cell><cell>92.9 (89.2-95.6)</cell><cell>76.4 (71.0-81.3)</cell><cell>&lt;0.001</cell></row><row><cell>Clinical benefit -no. (%) ‡</cell><cell>266 (94.7)</cell><cell>237 (85.9)</cell><cell>-</cell></row><row><cell>Best overall response -no. (%)</cell><cell></cell><cell></cell><cell></cell></row><row><cell>Complete response or better</cell><cell>121 (43.1)</cell><cell>53 (19.2)</cell><cell>&lt;0.001</cell></row><row><cell>Stringent complete response §</cell><cell>51 (18.1)</cell><cell>20 (7.2)</cell><cell>-</cell></row><row><cell>Complete response</cell><cell>70 (24.9)</cell><cell>33 (12.0)</cell><cell>-</cell></row><row><cell>Very good partial response or better</cell><cell>213 (75.8)</cell><cell>122 (44.2)</cell><cell>&lt;0.001</cell></row><row><cell>Very good partial response</cell><cell>92 (32.7)</cell><cell>69 (25.0)</cell><cell>-</cell></row><row><cell>Partial response</cell><cell>48 (17.1)</cell><cell>89 (32.2)</cell><cell>-</cell></row><row><cell>Minimal response</cell><cell>5 (1.8)</cell><cell>26 (9.4)</cell><cell>-</cell></row><row><cell>Stable disease</cell><cell>13 (4.6)</cell><cell>33 (12.0)</cell><cell>-</cell></row><row><cell>Progressive disease</cell><cell>0</cell><cell>4 (1.4)</cell><cell>-</cell></row><row><cell>Response could not be evaluated</cell><cell>2 (0.7)</cell><cell>2 (0.7)</cell><cell>-</cell></row></table><note>* Response was assessed according to the Uniform Criteria Consensus recommendations of the International Myeloma Working Group.</note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_6"><head>Table 2 . Summary of Responses among Patients with a Response That Could Be Evaluated.</head><label>2</label><figDesc></figDesc><table><row><cell>Kaplan-Meier rate of overall survival at 12</cell></row><row><cell>months was 92.1% (95% CI, 88.2 to 94.7) in the</cell></row><row><cell>daratumumab group and 86.8% (95% CI, 82.2 to</cell></row><row><cell>90.3) in the control group</cell></row></table><note>* The New England Journal of Medicine Downloaded from nejm.org at TAKEDA PHARMACEUTICALS GLOBAL on August 24, 2020. For personal use only. No other uses without permission. Copyright © 2016 Massachusetts Medical Society. All rights reserved.</note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_8"><head>Table 3 . Most Common Adverse Events during Treatment in the Safety Population.</head><label>3</label><figDesc></figDesc><table /><note>* The New England Journal of Medicine Downloaded from nejm.org at TAKEDA PHARMACEUTICALS GLOBAL on August 24, 2020. For personal use only. No other uses without permission. Copyright © 2016 Massachusetts Medical Society. All rights reserved.</note></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot">n engl j med 375;14 nejm.org October 6, 2016</note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot">Copyright © 2016 Massachusetts Medical Society. All rights reserved.n engl j med 375;14 nejm.org October 6, 2016</note>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Supported by Janssen Research and Development. Dr. Dimopoulos reports receiving fees for serving on advisory boards from Janssen, Celgene, Amgen, and Novartis and grant support from Janssen; Dr. Oriol, receiving fees for serving on advisory boards from Celgene, Janssen, and Amgen; Dr. San-Miguel, receiving fees for serving on advisory boards from Celgene, Novartis, Janssen, Millennium, Onyx, Bristol-Myers Squibb, Merck Sharp and Dohme, and Amgen; Dr. Bahlis, receiving fees for serving on advisory boards, lecture fees, and grant support from Celgene, Janssen, and Amgen; Dr. Usmani, receiving fees for serving on advisory boards and committees from Celgene, Skyline, Sanofi, Janssen, Array BioPharma, and Bristol-Myers Squibb, consulting fees from Amgen (formerly Onyx) and Takeda Pharmaceutical (formerly Millennium), lecture fees from Celgene, Amgen, and Takeda Pharmaceutical, and grant support from Celgene, Amgen, Takeda Pharmaceutical, Sanofi, Janssen, Array BioPharma, Pharmacyclics, and Bristol-Myers Squibb; Dr. Rabin, receiving fees for serving on advisory boards from Bristol-Myers Squibb, Takeda Pharmaceutical, Novartis, and Amgen, lecture fees from Janssen-Cilag and Celgene, and travel support from Janssen-Cilag and Takeda Pharmaceutical; Dr. Orlowski,</p><p>The New England Journal of Medicine Downloaded from nejm.org at TAKEDA PHARMACEUTICALS GLOBAL on August 24, 2020. For personal use only. No other uses without permission.</p><p>Copyright © 2016 Massachusetts Medical Society. All rights reserved.</p></div>
+			</div>
+
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Appendix</head><p>The authors' full names and academic degrees are as follows: Meletios A. <ref type="bibr">Dimopoulos</ref> </p></div>			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Bristol-Myers Squibb, Incyte, Rigel Pharmaceuticals, Amgen, and Takeda Pharmaceutical and grant support from Bristol-Myers Squibb</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Forma</forename><surname>From Biotheryx</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Therapeutics</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Takeda Pharmaceutical, and Spectrum Pharmaceuticals</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<monogr>
+		<title/>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Dr</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Plesner</surname></persName>
+		</author>
+		<imprint/>
+	</monogr>
+	<note>and Genmab during the conduct of the trial</note>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<monogr>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Dr</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Richardson</surname></persName>
+		</author>
+		<title level="m">receiving fees for serving on advisory boards from Celgene and Janssen</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<monogr>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Dr</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Goldschmidt</surname></persName>
+		</author>
+		<title level="m">receiving fees for serving on advisory boards from Celgene, Janssen, Novartis, Bristol-Myers Squibb, Onyx, Amgen, and Takeda Pharmaceutical and research support to his institution from Celgene</title>
+		<meeting><address><addrLine>Janssen, Novartis, Chugai, Bristol-Myers Squibb, and Millennium</addrLine></address></meeting>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Dr</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Reece</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Celgene</forename><surname>Janssen</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Takeda</forename><surname>Pharmaceutical</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Bristol-Myers</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Amgen</forename><surname>Squibb</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Celgene</forename><surname>Honoraria From Janssen</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Takeda</forename><surname>Pharmaceutical</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Bristol-Myers Squibb, Novartis, and Amgen, and research support from Janssen, Celgene, Takeda Pharmaceutical</title>
+		<meeting><address><addrLine>Bristol-Myers Squibb, Merck, Novartis, and Amgen</addrLine></address></meeting>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<monogr>
+		<title/>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Dr</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Lisby</surname></persName>
+		</author>
+		<imprint/>
+	</monogr>
+	<note>being an employee of Genmab</note>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<monogr>
+		<title/>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Dr</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Ms</forename><surname>Khokhar</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Dr</forename><surname>O'rourke</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Mr</forename><surname>Chiu</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Qin</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Ms</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Dr</forename><surname>Guckert</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Ahmadi</surname></persName>
+		</author>
+		<imprint/>
+	</monogr>
+	<note>being employees of Janssen</note>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<monogr>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Ms</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Ms</forename><surname>O'rourke</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Guckert</surname></persName>
+		</author>
+		<title level="m">holding stock in Johnson &amp; Johnson; and Dr</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">No other potential conflict of interest relevant to this article was reported. safety monitoring committee</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Takeda</forename><surname>Moreau ; Novartis</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Amgen</forename><surname>Pharmaceutical</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Bristol-Myers</forename><surname>Squibb ; Brian Durie</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">D</forename><surname>Michael</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">O'</forename><surname>Dwyer</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">D</forename></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Daniel</forename><surname>Sargent</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">;</forename><forename type="middle">B S</forename><surname>Howard Yeh</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">D</forename></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Jon</forename><surname>Ukropec</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Ph</forename><forename type="middle">D</forename><surname>Carla De Boer</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Ph</forename><forename type="middle">D</forename></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Sandra</forename><surname>Vasey</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">S</forename></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Christoph</forename><surname>Heuck</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">D</forename></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Jordan</forename><surname>Schecter</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">D</forename><surname>Wu</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">D</forename></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Richard</forename><surname>Jansson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">receiving fees for serving on advisory boards and participating in symposia from Celgene</title>
+		<editor>Ph.D., Jeremy Kreuter, Pharm.D., Shari Jones, B.Sc.N., Laura Farrar, B.A., Amy Godwin, B.S., Valerie McPherson, B.S., Alan DeFalco, B.A., Tineke Casneuf, Ph.D., and A. Kate Sasser</editor>
+		<imprint/>
+	</monogr>
+	<note>Ph.D.); analyses (in particular. and Christopher Jones. Ph.D., and Jason Jung. Ph.D., of MedErgy</note>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Improved survival in multiple myeloma and the impact of novel therapies</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><forename type="middle">K</forename><surname>Kumar</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><forename type="middle">V</forename><surname>Rajkumar</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Dispenzieri</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Blood</title>
+		<imprint>
+			<biblScope unit="volume">111</biblScope>
+			<biblScope unit="page" from="2516" to="2536" />
+			<date type="published" when="2008" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Continued improvement in survival in multiple myeloma: changes in early mortality and outcomes in older patients</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><forename type="middle">K</forename><surname>Kumar</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Dispenzieri</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">Q</forename><surname>Lacy</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Leukemia</title>
+		<imprint>
+			<biblScope unit="volume">28</biblScope>
+			<biblScope unit="page" from="1122" to="1130" />
+			<date type="published" when="2014" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">The emerging role of novel therapies for the treatment of relapsed myeloma</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><forename type="middle">G</forename><surname>Richardson</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Hideshima</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><surname>Mitsiades</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><forename type="middle">C</forename><surname>Anderson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Natl Compr Canc Netw</title>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="page" from="149" to="62" />
+			<date type="published" when="2007" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Multiple myeloma: from front-line to relapsed therapies</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><surname>Moreau</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><surname>Touzeau</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Am Soc Clin Oncol Educ Book</title>
+		<imprint>
+			<biblScope unit="volume">35</biblScope>
+			<biblScope unit="page" from="504" to="515" />
+			<date type="published" when="2015" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">International Myeloma Working Group consensus criteria for response and minimal residual disease assessment in multiple myeloma</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Kumar</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">B</forename><surname>Paiva</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><forename type="middle">C</forename><surname>Anderson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Lancet Oncol</title>
+		<imprint>
+			<biblScope unit="volume">17</biblScope>
+			<biblScope unit="issue">8</biblScope>
+			<biblScope unit="page" from="328" to="374" />
+			<date type="published" when="2016" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">Prognostic value of deep sequencing method for minimal residual disease detection in multiple myeloma</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Martinez-Lopez</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">J</forename><surname>Lahuerta</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">F</forename><surname>Pepin</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Blood</title>
+		<imprint>
+			<biblScope unit="volume">123</biblScope>
+			<biblScope unit="page" from="3073" to="3082" />
+			<date type="published" when="2014" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Association of response endpoints with survival outcomes in multiple myeloma</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Lonial</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><forename type="middle">C</forename><surname>Anderson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Leukemia</title>
+		<imprint>
+			<biblScope unit="volume">28</biblScope>
+			<biblScope unit="page" from="258" to="68" />
+			<date type="published" when="2014" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Daratumumab, a novel therapeutic human CD38 monoclonal antibody, induces killing of multiple myeloma and other hematological tumors</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>De Weers</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Y</forename><forename type="middle">T</forename><surname>Tai</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">S</forename><surname>Van Der Veer</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Immunol</title>
+		<imprint>
+			<biblScope unit="volume">186</biblScope>
+			<biblScope unit="page" from="1840" to="1848" />
+			<date type="published" when="2011" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Daratumumab monotherapy in patients with treatment-refractory multiple myeloma (SIRIUS): an open-label, randomised, phase 2 trial</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Lonial</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">B</forename><forename type="middle">M</forename><surname>Weiss</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><forename type="middle">Z</forename><surname>Usmani</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Lancet</title>
+		<imprint>
+			<biblScope unit="volume">387</biblScope>
+			<biblScope unit="page" from="1551" to="60" />
+			<date type="published" when="2016" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">Targeting CD38 with daratumumab monotherapy in multiple myeloma</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><forename type="middle">M</forename><surname>Lokhorst</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Plesner</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">P</forename><surname>Laubach</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">N Engl J Med</title>
+		<imprint>
+			<biblScope unit="volume">373</biblScope>
+			<biblScope unit="page" from="1207" to="1226" />
+			<date type="published" when="2015" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">Daratumumab: first global approval</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><surname>Mckeage</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Drugs</title>
+		<imprint>
+			<biblScope unit="volume">76</biblScope>
+			<biblScope unit="page" from="275" to="81" />
+			<date type="published" when="2016" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">EPAR summary for the public: Darzalex (daratumumab)</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Agency</forename><surname>European Medicines</surname></persName>
+		</author>
+		<ptr target="http://www.ema.europa.eu/docs/en_GB/document_library/EPAR_-_Summary_for_the_public/human/004077/WC500207298.pdf" />
+	</analytic>
+	<monogr>
+		<title level="j">European Medicines Agency</title>
+		<imprint>
+			<date type="published" when="2016" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">The therapeutic CD38 monoclonal antibody daratumumab induces programmed cell death via Fcγ receptormediated cross-linking</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">B</forename><surname>Overdijk</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">H</forename><surname>Jansen</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Nederend</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Immunol</title>
+		<imprint>
+			<biblScope unit="volume">197</biblScope>
+			<biblScope unit="page" from="807" to="820" />
+			<date type="published" when="2016" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">Antibody-mediated phagocytosis contributes to the anti-tumor activity of</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">B</forename><surname>Overdijk</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Verploegen</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Bögels</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">The New England Journal of Medicine Downloaded from nejm.org at TAKEDA PHARMACEUTICALS GLOBAL on August</title>
+		<imprint>
+			<biblScope unit="volume">24</biblScope>
+			<biblScope unit="page">375</biblScope>
+			<date type="published" when="2016-10-06" />
+		</imprint>
+	</monogr>
+	<note>Massachusetts Medical Society. All rights reserved. n engl j med</note>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<monogr>
+		<title level="m" type="main">Direct in vitro comparison of daratumumab with surrogate analogs of CD38 antibodies MOR03087, SAR650984 and Ab79. Presented at the 56th Annual Meeting and Exposition of the</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Lammerts Van Bueren</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><surname>Jakobs</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">N</forename><surname>Kaldenhoven</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2014-09" />
+			<publisher>American Society of Hematology</publisher>
+			<pubPlace>San Francisco</pubPlace>
+		</imprint>
+	</monogr>
+	<note>abstract</note>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title level="a" type="main">CD38-targeted immunochemotherapy in refractory multiple myeloma: a new horizon</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">P</forename><surname>Laubach</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><forename type="middle">G</forename><surname>Richardson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Clin Cancer Res</title>
+		<imprint>
+			<biblScope unit="volume">21</biblScope>
+			<biblScope unit="page" from="2660" to="2662" />
+			<date type="published" when="2015" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title level="a" type="main">Daratumumab depletes CD38+ immuneregulatory cells, promotes T-cell expansion, and skews T-cell repertoire in multiple myeloma</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Krejcik</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Casneuf</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">I</forename><forename type="middle">S</forename><surname>Nijhof</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Blood</title>
+		<imprint>
+			<date type="published" when="2016-05-24" />
+		</imprint>
+	</monogr>
+	<note>Epub ahead of print</note>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title level="a" type="main">bortezomib and dexamethasone for multiple myeloma</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Palumbo</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Chanan-Khan</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><surname>Weisel</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">N Engl J Med</title>
+		<imprint>
+			<biblScope unit="volume">375</biblScope>
+			<biblScope unit="page" from="754" to="66" />
+			<date type="published" when="2016" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+		<title level="a" type="main">Phase 1/2 study of daratumumab, lenalidomide, and dexamethasone for relapsed multiple myeloma</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Plesner</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><forename type="middle">T</forename><surname>Arkenau</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><surname>Gimsing</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Blood</title>
+		<imprint>
+			<date type="published" when="2016-08-16" />
+		</imprint>
+	</monogr>
+	<note>Epub ahead of print</note>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<analytic>
+		<title level="a" type="main">International uniform response criteria for multiple myeloma</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Bgm</forename><surname>Durie</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">L</forename><surname>Harousseau</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">S</forename><surname>Miguel</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Leukemia</title>
+		<imprint>
+			<biblScope unit="volume">20</biblScope>
+			<biblScope unit="page" from="1467" to="73" />
+			<date type="published" when="2006" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<analytic>
+		<title level="a" type="main">Consensus recommendations for the uniform reporting of clinical trials: report of the International Myeloma Workshop Consensus Panel 1</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><forename type="middle">V</forename><surname>Rajkumar</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">L</forename><surname>Harousseau</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">B</forename><surname>Durie</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Blood</title>
+		<imprint>
+			<biblScope unit="volume">117</biblScope>
+			<biblScope unit="page" from="4691" to="4696" />
+			<date type="published" when="2011" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<analytic>
+		<title level="a" type="main">Rajkumar SV. Clarification of the definition of complete response in multiple myeloma</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">B</forename><forename type="middle">G</forename><surname>Durie</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">F</forename><surname>Miguel</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Blade</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Leukemia</title>
+		<imprint>
+			<biblScope unit="volume">29</biblScope>
+			<biblScope unit="page" from="2416" to="2423" />
+			<date type="published" when="2015" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<analytic>
+		<title level="a" type="main">Monitoring multiple myeloma patients treated with daratumumab: teasing out monoclonal antibody interference</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><surname>Mccudden</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><forename type="middle">E</forename><surname>Axel</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><surname>Slaets</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Clin Chem Lab Med</title>
+		<imprint>
+			<biblScope unit="volume">54</biblScope>
+			<biblScope unit="page" from="1095" to="104" />
+			<date type="published" when="2016" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<analytic>
+		<title level="a" type="main">The alpha spending function approach to interim data analyses</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><forename type="middle">L</forename><surname>Demets</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">G</forename><surname>Lan</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Cancer Treat Res</title>
+		<imprint>
+			<biblScope unit="volume">75</biblScope>
+			<biblScope unit="page" from="1" to="27" />
+			<date type="published" when="1995" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<analytic>
+		<title level="a" type="main">Discrete sequential boundaries for clinical trials</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Kkg</forename><surname>Lan</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><forename type="middle">L</forename><surname>Demets</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Biometrika</title>
+		<imprint>
+			<biblScope unit="volume">70</biblScope>
+			<biblScope unit="page" from="659" to="63" />
+			<date type="published" when="1983" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<analytic>
+		<title level="a" type="main">Resolving the daratumumab interference with blood compatibility testing</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><forename type="middle">I</forename><surname>Chapuy</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><forename type="middle">T</forename><surname>Nicholson</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">D</forename><surname>Aguad</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Transfusion</title>
+		<imprint>
+			<biblScope unit="volume">55</biblScope>
+			<biblScope unit="page" from="1545" to="54" />
+			<date type="published" when="2015" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b35">
+	<analytic>
+		<title level="a" type="main">Carfilzomib, lenalidomide, and dexamethasone for relapsed multiple myeloma</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><forename type="middle">K</forename><surname>Stewart</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><forename type="middle">V</forename><surname>Rajkumar</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">A</forename><surname>Dimopoulos</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">N Engl J Med</title>
+		<imprint>
+			<biblScope unit="volume">372</biblScope>
+			<biblScope unit="page" from="142" to="52" />
+			<date type="published" when="2015" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b36">
+	<analytic>
+		<title level="a" type="main">Oral ixazomib, lenalidomide, and dexamethasone for multiple myeloma</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><surname>Moreau</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Masszi</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">N</forename><surname>Grzasko</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">N Engl J Med</title>
+		<imprint>
+			<biblScope unit="volume">374</biblScope>
+			<biblScope unit="page" from="1621" to="1655" />
+			<date type="published" when="2016" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b37">
+	<analytic>
+		<title level="a" type="main">A phase 1, multicenter, open-label, dose escalation study of elotuzumab in patients with advanced multiple myeloma</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">A</forename><surname>Zonder</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><forename type="middle">F</forename><surname>Mohrbacher</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Singhal</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Blood</title>
+		<imprint>
+			<biblScope unit="volume">120</biblScope>
+			<biblScope unit="page" from="552" to="561" />
+			<date type="published" when="2012" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b38">
+	<analytic>
+		<title level="a" type="main">Elotuzumab therapy for relapsed or refractory multiple myeloma</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Lonial</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Dimopoulos</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Palumbo</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">N Engl J Med</title>
+		<imprint>
+			<biblScope unit="volume">373</biblScope>
+			<biblScope unit="page" from="621" to="652" />
+			<date type="published" when="2015" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b39">
+	<analytic>
+		<title level="a" type="main">Lenalidomide plus dexamethasone for relapsed or refractory multiple myeloma</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Dimopoulos</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Spencer</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Attal</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">N Engl J Med</title>
+		<imprint>
+			<biblScope unit="volume">357</biblScope>
+			<biblScope unit="page" from="2123" to="2155" />
+			<date type="published" when="2007" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b40">
+	<analytic>
+		<title level="a" type="main">Open-label, multicenter, phase 1b study of daratumumab in combination with pomalidomide and dexamethasone in patients with at least 2 lines of prior therapy and relapsed or relapsed and refractory multiple myeloma (MM)</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Chari</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Lonial</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Suvannasankha</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Blood</title>
+		<imprint>
+			<biblScope unit="volume">126</biblScope>
+			<biblScope unit="page">508</biblScope>
+			<date type="published" when="2015" />
+		</imprint>
+	</monogr>
+	<note>abstract</note>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

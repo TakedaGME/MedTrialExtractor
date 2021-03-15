@@ -1,0 +1,1061 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /data/rsg/nlp/juanmoo1/bin/grobid-0.6.1/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">A randomized phase II trial of nab-paclitaxel and gemcitabine with tarextumab or placebo in patients with untreated metastatic pancreatic cancer</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Ian</forename><surname>Zishuo</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="institution">Memorial Sloan Kettering Cancer Center</orgName>
+								<address>
+									<settlement>New York</settlement>
+									<region>New York</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Hu</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Johanna</forename><forename type="middle">C</forename><surname>Bendell</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="institution">Sarah Cannon Research Institute/Tennessee Oncology</orgName>
+								<address>
+									<settlement>Nashville</settlement>
+									<region>Tennessee</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Andrea</forename><surname>Bullock</surname></persName>
+							<affiliation key="aff2">
+								<orgName type="institution">Beth Israel Deaconess Medical Center</orgName>
+								<address>
+									<settlement>Boston</settlement>
+									<region>Massachusetts</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Noelle</forename><forename type="middle">K</forename><surname>Loconte</surname></persName>
+							<affiliation key="aff3">
+								<orgName type="institution" key="instit1">University of Wisconsin</orgName>
+								<orgName type="institution" key="instit2">Carbone Cancer Center</orgName>
+								<address>
+									<settlement>Madison</settlement>
+									<region>Wisconsin</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Hassan</forename><surname>Hatoum</surname></persName>
+							<affiliation key="aff4">
+								<orgName type="institution">University of Oklahoma Health Sciences Center</orgName>
+								<address>
+									<settlement>Oklahoma City, Oklahoma</settlement>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">|</forename><surname>Paul</surname></persName>
+							<affiliation key="aff5">
+								<orgName type="institution">Froedtert Hospital and Medical College of Wisconsin</orgName>
+								<address>
+									<settlement>Milwaukee</settlement>
+									<region>Wisconsin</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Hugo</forename><surname>Hool</surname></persName>
+							<affiliation key="aff6">
+								<orgName type="institution">Torrance Memorial Physician Network</orgName>
+								<address>
+									<settlement>Redondo Beach</settlement>
+									<region>California</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Joseph</forename><forename type="middle">W</forename><surname>Leach</surname></persName>
+							<affiliation key="aff7">
+								<orgName type="institution">Virginia Piper Cancer Institute</orgName>
+								<address>
+									<settlement>Minneapolis</settlement>
+									<region>Minnesota</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">James</forename><surname>Sanchez</surname></persName>
+							<affiliation key="aff8">
+								<orgName type="institution">Comprehensive Cancer Centers of Nevada</orgName>
+								<address>
+									<settlement>Henderson</settlement>
+									<region>Nevada</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">|</forename><surname>Davendra</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><forename type="middle">S</forename><surname>Sohal</surname></persName>
+							<affiliation key="aff9">
+								<orgName type="institution">Cleveland Clinic</orgName>
+								<address>
+									<settlement>Cleveland</settlement>
+									<region>Ohio</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">John</forename><surname>Strickler</surname></persName>
+							<affiliation key="aff10">
+								<orgName type="institution">Duke University</orgName>
+								<address>
+									<settlement>Durham</settlement>
+									<region>North Carolina</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">|</forename><surname>Ravindranath</surname></persName>
+							<affiliation key="aff11">
+								<orgName type="institution">Comprehensive Blood and Cancer Center</orgName>
+								<address>
+									<settlement>Bakersfield</settlement>
+									<region>California</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Andrea</forename><surname>Wang-Gillam</surname></persName>
+							<affiliation key="aff12">
+								<orgName type="institution">Washington University School of Medicine</orgName>
+								<address>
+									<settlement>Saint Louis</settlement>
+									<region>Missouri</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Irfan</forename><surname>Firdaus</surname></persName>
+							<affiliation key="aff13">
+								<orgName type="institution">Oncology Hematology Cancer, Inc</orgName>
+								<address>
+									<settlement>Cincinnati</settlement>
+									<region>Ohio</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">|</forename><surname>Kenneth</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><surname>Yu</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="institution">Memorial Sloan Kettering Cancer Center</orgName>
+								<address>
+									<settlement>New York</settlement>
+									<region>New York</region>
+								</address>
+							</affiliation>
+							<affiliation key="aff14">
+								<orgName type="department">David M. Rubenstein Center for Pancreatic Cancer Research</orgName>
+								<address>
+									<settlement>New York</settlement>
+									<region>New York</region>
+								</address>
+							</affiliation>
+							<affiliation key="aff15">
+								<orgName type="department">Department of Medicine</orgName>
+								<orgName type="institution">Weill Cornell Medical College</orgName>
+								<address>
+									<settlement>New York</settlement>
+									<region>New York</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Ann</forename><forename type="middle">M</forename><surname>Kapoun</surname></persName>
+							<affiliation key="aff16">
+								<orgName type="institution">Oncomed Pharmaceuticals Inc</orgName>
+								<address>
+									<addrLine>California 18 Virginia Mason Medical Center</addrLine>
+									<settlement>Redwood City, Seattle, Washington</settlement>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Eric</forename><surname>Holmgren</surname></persName>
+							<affiliation key="aff16">
+								<orgName type="institution">Oncomed Pharmaceuticals Inc</orgName>
+								<address>
+									<addrLine>California 18 Virginia Mason Medical Center</addrLine>
+									<settlement>Redwood City, Seattle, Washington</settlement>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">|</forename><surname>Lei Zhou</surname></persName>
+							<affiliation key="aff16">
+								<orgName type="institution">Oncomed Pharmaceuticals Inc</orgName>
+								<address>
+									<addrLine>California 18 Virginia Mason Medical Center</addrLine>
+									<settlement>Redwood City, Seattle, Washington</settlement>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Jakob</forename><surname>Dupont</surname></persName>
+							<affiliation key="aff16">
+								<orgName type="institution">Oncomed Pharmaceuticals Inc</orgName>
+								<address>
+									<addrLine>California 18 Virginia Mason Medical Center</addrLine>
+									<settlement>Redwood City, Seattle, Washington</settlement>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Vincent</forename><surname>Picozzi</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">|</forename><surname>Vaibhav Sahai</surname></persName>
+							<affiliation key="aff17">
+								<orgName type="institution">University of Michigan</orgName>
+								<address>
+									<settlement>Ann Arbor</settlement>
+									<region>Michigan</region>
+								</address>
+							</affiliation>
+						</author>
+						<author role="corresp">
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Eileen</forename><forename type="middle">M</forename><surname>O'reilly</surname></persName>
+							<email>oreillye@mskcc.org</email>
+							<affiliation key="aff0">
+								<orgName type="institution">Memorial Sloan Kettering Cancer Center</orgName>
+								<address>
+									<settlement>New York</settlement>
+									<region>New York</region>
+								</address>
+							</affiliation>
+							<affiliation key="aff14">
+								<orgName type="department">David M. Rubenstein Center for Pancreatic Cancer Research</orgName>
+								<address>
+									<settlement>New York</settlement>
+									<region>New York</region>
+								</address>
+							</affiliation>
+							<affiliation key="aff15">
+								<orgName type="department">Department of Medicine</orgName>
+								<orgName type="institution">Weill Cornell Medical College</orgName>
+								<address>
+									<settlement>New York</settlement>
+									<region>New York</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff18">
+								<orgName type="department">Department of Medicine, Memorial Sloan Kettering Cancer Center</orgName>
+								<address>
+									<settlement>Weill Cornell Medical</settlement>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">A randomized phase II trial of nab-paclitaxel and gemcitabine with tarextumab or placebo in patients with untreated metastatic pancreatic cancer</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<idno type="DOI">10.1002/cam4.2425</idno>
+					<note type="submission">Received: 20 March 2019 | Revised: 26 June 2019 | Accepted: 29 June 2019</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.6.1" ident="GROBID" when="2020-10-09T18:38+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<abstract>
+				<p>This is an open access article under the terms of the Creative Commons Attribution License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.</p>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>| 5149</head><p>IAN HU et Al</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="1">| INTRODUCTION</head><p>Patients with pancreatic ductal adenocarcinoma (PDAC) face a challenging prognosis. More than half of those at diagnosis have stage IV disease for which the 5-year overall survival is 3%. <ref type="bibr" target="#b4">1</ref> Current combination cytotoxic therapies for metastatic PDAC have shown real but modest overall survival impact. <ref type="bibr" target="#b5">2,</ref><ref type="bibr" target="#b6">3</ref> A potential explanation for either de novo or acquired treatment resistance is the presence of cancer stem cells (CSCs), cells that possess the capacity for self-renewal, differentiation into multiple lineages, and the ability to proliferate extensively. <ref type="bibr" target="#b7">4</ref> CSCs have been shown to be more resistant to chemotherapy and radiotherapy than remaining epithelial malignant cells, persisting after therapy to drive tumor growth. <ref type="bibr" target="#b8">5,</ref><ref type="bibr" target="#b9">6</ref> The abnormal expression of the Notch pathway, a key regulator of PDAC CSCs, has been linked to disease progression and chemotherapy resistance in metastatic PDAC. <ref type="bibr" target="#b10">[7]</ref><ref type="bibr" target="#b11">[8]</ref><ref type="bibr" target="#b12">[9]</ref><ref type="bibr" target="#b13">[10]</ref><ref type="bibr" target="#b14">[11]</ref> Tarextumab (OMP-59R5) is a fully human IgG2 antibody against the Notch2 and Notch3 receptors. <ref type="bibr" target="#b15">12</ref> Preclinical studies using pancreatic xenograft models have found that treatment with the combination of tarextumab, gemcitabine, and nab-paclitaxel induced tumor regression, decreased CSC frequency, and delayed tumor progression compared to treatment with cytotoxic therapy alone. <ref type="bibr" target="#b15">12</ref> Tarextumab also downregulated Rg5, a marker of developing pericytes, and facilitated pericyte recruitment to endothelial cells. Loss of Rg5 has been reported to reduce tumor hypoxia and to normalize vasculature. <ref type="bibr" target="#b16">13</ref> Consequently, tarextumab may enhance chemotherapy sensitivity by lowering CSC frequency and reducing tumor hypoxia. Higher Notch3 gene expression levels in these pancreatic tumor models were also found to be associated with increased sensitivity to the combination of tarextumab and gemcitabine. Based on the preclinical data, our hypothesis was that PDAC patients with higher levels of Notch3 gene expression in tumor cells would have an enhanced potential for therapeutic benefit from the addition of tarextumab to standard therapy.</p><p>In a phase Ib study of N = 38 patients with previously untreated metastatic PDAC, tarextumab was evaluated in combination with nab-paclitaxel and gemcitabine. The recommended phase 2 dose (RP2D) was determined to be 15 mg/ kg with standard doses of the cytotoxic agents. Diarrhea, fatigue, and anemia were the most common tarextumab-related toxicities, and the events were mostly Grade 1 or 2.</p><p>The overall response rate (CR + PR) was 29%. <ref type="bibr" target="#b17">14</ref> The median PFS and OS were 5.6 and 11.6 months, respectively. Patients with high expression of Notch3 were noted to have a PFS of 6.6 months and OS of 14.6 months. These results were deemed to compare favorably to reported PFS of 5.5 months and OS of 8.5 months in patients treated with gemcitabine and nab-paclitaxel. <ref type="bibr" target="#b6">3</ref> Given the encouraging preclinical data, tolerable safety profile and the favorable PFS and OS results in the phase Ib study, a randomized phase II study comparing gemcitabine, nab-paclitaxel with either tarextumab or placebo was initiated in patients with previously untreated metastatic PDAC.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2">| PATIENTS AND METHODS</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.1">| Study design and participants</head><p>This was a prospective, multicenter, randomized, doubleblinded, placebo-controlled phase II study in patients with untreated metastatic PDAC. Patients were randomized in 1:1 ratio to receive either nab-paclitaxel, gemcitabine and placebo or nab-paclitaxel, gemcitabine and tarextumab ( <ref type="figure">Figure  1</ref>). Patients were divided into subsets based on Notch3 gene expression levels: Notch3 ≥ 25th percentile; Notch3 ≥ 50th percentile; Notch3 ≥ 75th percentile and all patients irrespective of Notch3 expression levels.</p><p>The primary endpoint of the study was overall survival (OS). Secondary endpoints included progression-free survival (PFS), overall response rate (ORR), duration of response (DOR), and CA19-9 response.</p><p>Exploratory endpoints not reported herein included expression levels of epidermal growth factor receptor (EGFR), placental growth factor (PLGF), epithelial neutrophil-activating peptide (ENA 78), and other Notch-related genes in the serum obtained at baseline and disease progression. Circulating tumor cells (CTCs), microRNAs, and circulating endothelial cells were also evaluated and will be reported separately.</p><p>Tumor assessments were assessed by RECIST version 1.1 every 8 weeks using computed tomography or magnetic resonance imaging. Adverse events were graded using the National Cancer Institute Common Terminology Criteria for Adverse Events (CTCAE), version 4.02. <ref type="bibr" target="#b18">15</ref> Individuals (age &gt; 18 years) with newly diagnosed, pathologically confirmed stage IV PDAC were enrolled. Eligibility criteria also included the presence of measurable disease according to RECIST version 1.1 and Eastern Cooperative Oncology Group (ECOG) performance status of 0 or 1. In additions, patients must have had formalin-fixed, paraffinembedded (FFPE) tumor tissue from metastatic sites, either archived or fresh core needle biopsied for Notch3 analysis at study entry.</p><p>Patients were required to have adequate organ function as defined by the following factors: absolute neutrophil count ≥ 1.5 × 10 9 /L, hemoglobin ≥ 9.0 g/dL, platelets &gt; 100 × 10 9 /L (have not received hematopoietic growth factors, transfusion of blood and blood products ≥ 1 week prior to meeting the eligibility criteria), serum creatinine ≤ 1.5 mg/dL or calculated creatinine clearance ≥ 60 mL/min using the Cockcroft and Gault formula, bilirubin ≤ 1.5 × upper limit of normal (ULN), alanine aminotransferase (ALT) ≤ 3 × ULN, aspartate aminotransferase (AST) ≤ 3 × ULN), PT/INR ≤ 1.5 × ULN, aPTT ≤ 1.5 × ULN.</p><p>Patients were excluded for the following reasons: neuroendocrine tumors of the pancreas, brain metastases, prior therapy for stage IV PDAC, known human immunodeficiency virus (HIV) infection, and major surgery &lt;4 weeks F I G U R E 1 CONSORT diagram. ITT, intent to treat; nab-p, nab-paclitaxel; gem, gemcitabine</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>| 5151</head><p>IAN HU et Al prior to the first treatment. In addition, patients with serious or unstable concomitant systemic disorder incompatible with the study such as active infection, arterial thrombosis, and symptomatic pulmonary embolism were ineligible as were patients with any disorder that would significantly compromise protocol compliance.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.2">| Procedures</head><p>Nab-paclitaxel 125 mg/m 2 and gemcitabine 1000 mg/m 2 were administered on Days 1, 8, and 15 of every 28-day cycle. Tarextumab or placebo was dosed at 15 mg/kg and administered on Days 1 and 15 of every 28-day cycle. On days when tarextumab, nab-paclitaxel and gemcitabine were given, tarextumab was administered first, then nab-paclitaxel followed by gemcitabine. All agents were dosed until either disease progression or limiting toxicity occurred.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.3">| Statistical analyses</head><p>Overall survival was the primary efficacy endpoint of this study and was defined as the time from randomization until death. The hazard in the control arm was 0.09 (median 8 months) and hazard in the tarextumab arm 0.07 (median 10 months). No treatment cross-over was permitted in the study. The Kaplan-Meier method was used to estimate both the survival curves and the median survival time. The 95% confidence intervals for median survival times and P-value for treatment effect were generated using a stratified Cox proportional hazards model.</p><p>Final analysis of the study was planned to take place at the point when 104 progression events had occurred or 10 months after the completion of enrollment, whichever occurred first. This would ensure the study had 75% power to detect a hazard ratio of 0.67 (improvement in median PFS from 5.5 months to 8.2 months) and 80% power to detect a hazard ratio of 0.65 (improvement in median PFS from 5.5 to 8.5 months) in the intention-to-treat (ITT) population with an associated total one-sided type 1 error of 0.10. The data cutoff for the final analysis of survival was 6 months after the data cutoff for the final analysis of PFS or when 104 deaths have been observed, whichever occurred first.</p><p>Data were combined from all participating study sites for the analyses. All statistical testing was two-sided and was performed at the 0.05 significance level. For continuous variables, descriptive statistics included the mean, SD, median, minimum, maximum, and the number of non-missing values. For categorical variables, descriptive statistics included counts and percentages per category.</p><p>Notch3 gene expression analyses were conducted as follows; Notch3 gene expression correlated with efficacy in preclincial models. Ten primary patient derived pancreas cancer tumor xenografts were tested for efficacy in response to gemcitabine and tarextumab. Significant correlation was found between the levels of tumor-derived Notch3 and the efficacy of tarextumab. Responder tumors had higher levels of Notch3 compared to nonresponders when treated with the combination of chemotherapy and the antibody. Subsequently data from the phase Ib clinical trial evaluated 32 patient samples from 40 patients enrolled in 6 dose levels of tarextumab (ranging from 2.5 to 15 mg/ kg) with an 80% success rate for Notch3 gene expression adjudication. A trend was observed for the higher levels of Notch3 and increased time to tumor progression. Based on these collective preclinical and clinical data Notch3 gene expression subgroups (≥25th, ≥50% and ≥75% percentiles) were chosen to best differentiate outcome for the randomized phase II trial.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.4">| Study oversight</head><p>The study was conducted in accordance with the Guideline for Good Clinical Practice, the ethical principles of the Declaration of Helsinki, and was approved by the institutional review board at every site. All patients provided written informed consent before enrollment.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3">| RESULTS</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.1">| Patients</head><p>A pre-planned interim efficacy and safety analysis was conducted by an independent Data and Safety Monitoring Board (DSMB) on data from N = 172 patients treated by January 2016 data cutoff date. From a safety standpoint, the DSMB identified no unexpected safety signals but noted worse RR and PFS in the tarextumab treatment group and a strong trend toward lack of OS benefit in the tarextumab treatment group, irrespective of Notch3 expression levels. The study was subsequently terminated in March 2016 by the sponsor due to futility.</p><p>One hundred and seventy-seven patients were enrolled in the study in 25 centers throughout the United States from July 2014 to March 2016 <ref type="table">(Table 1)</ref>. Fifty-nine per cent were male, the median age was 66 years (range 34-88) and the majority of patients were white. Eighty-nine patients were assigned to the tarextumab arm and N = 88 to the placebo arm.</p><p>The median duration of treatment was 2.6 months (range: 0, 17.3) and 4.2 months (range: 0, 15.9) for patients in the tarextumab treatment group and the placebo group, respectively. The patients treated with tarextumab received a median of 6.0 doses (range: 1, 37). The patients in the placebo group received a median of 9.0 doses (range: 1, 35). Two placebo patients were lost to follow-up and two tarextumab-treated patients withdrew consent.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.2">| Efficacy</head><p>The median OS was 6.4 months (95% CI = 4.17, 8.2) in the tarextumab group compared with 7.9 months (95% CI = 6.18, 10.52) in the placebo group <ref type="figure">(Figure 2A)</ref>. No statistically significant difference was observed in OS in the tarextumab treatment group compared with the placebo group (HR = 1.34 [95% CI = 0.95, 1.89], P = .09). No statistically significant difference was observed in OS in patients with Notch3 ≥ 25th percentile, Notch3 ≥ 50th percentile, or Notch3 ≥ 75th percentile <ref type="figure">(Figure 3)</ref>.</p><p>The median PFS was 3.7 months (95% CI = 1.94, 4.21) in the tarextumab group and 5.5 months (95% CI = 3.72, 5.79) </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>F I G U R E 3 Kaplan-Meier analysis of overall survival in the intent-to-treat population divided by percentile. (A) OS for patients with ≥25th</head><p>percentile Notch3 expression, (B) OS for patients with ≥50th percentile Notch3 expression, (C) OS for patients with ≥75th percentile Notch3 expression. Red, tarextumab with gemcitabine and nab-paclitaxel; black, placebo with gemcitabine and nab-paclitaxel for the placebo group ( <ref type="figure">Figure 2B</ref>). The PFS in the tarextumab treatment group was significantly shorter compared with the placebo group (HR 1.43 [95% CI = 1.01, 2.01]; P = .04). No statistically significant difference was observed in PFS in patients with Notch3 ≥ 25th percentile, Notch3 ≥ 50th percentile, or Notch3 ≥ 75th percentile. There was no significant difference in ORR (P = .087) between the placebo-treated group (31.8%; 95% CI = 22.3%, 42.6%) compared with the tarextumab-treated group (20.2%; 95% CI = 12.4%, 30.1%) ( <ref type="table">Table 2</ref>). There was no significant difference in ORR between the Notch3 subgroups and placebo treatment groups.</p><p>The median duration of response (DOR) was 3.7 months (95% CI = 1.64, 5.52) in the tarextumab group and 3.6 months (95% CI = 2.14, 5.59) in the placebo group. No statistically significant difference was observed in the DOR between the two groups (P = .99).</p><p>CA19-9 response was defined as a decrease of 50% or more in baseline CA19-9 at any time post-baseline. There was no statistically significant difference (P = .15) in response between the placebo group (47.7%) and the tarextumab-treated group (37.1%).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.3">| Safety</head><p>Treatment-emergent adverse events (TEAEs) are summarized in <ref type="table">Table 3</ref>. TEAEs were reported in 93% of the tarextumab group and 80% of the placebo group. There were no statistically significant differences in the rate of adverse events between the groups. Diarrhea (72% vs 40%), nausea (41% vs 31%), and thrombocytopenia (49% vs 25%) were noted to occur more frequently in the tarextumab treatment group.</p><p>Fifty-one (60%) patients in the placebo and N = 58 (66.7%) patients in the tarextumab group reported one or more serious AEs (SAE). In the tarextumab group, 22 (25.3%) patients had Grade 3 and 3 (3.4%) patients had Grade 4 SAE. Fourteen (16.1%) SAEs in the tarextumab-treated group and 16 (18.8%) in the placebo-treated group resulted in patient death; none of these SAEs were considered related to study drug treatment. </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="4">| DISCUSSION</head><p>Strong preclinical evidence with patient-derived xenograft (PDX) pancreatic models and phase Ib trial data provided a compelling rationale for the clinical evaluation of Notch signaling inhibition combined with gemcitabine and nab-paclitaxel therapy in a randomized phase 2 trial. <ref type="bibr" target="#b15">12</ref> Tarextumab treatment in combination with gemcitabine in PDX models resulted in decreased Notch2 and Notch3 expression, increased apoptotic cell death, decreased tumor cell density, and increased vessel perfusion and decreased hypoxia intratumorally. <ref type="bibr" target="#b15">12</ref> Mean gene expression levels of Notch3 were noted to be significantly higher in responders compared to nonresponders, suggesting that higher Notch3 expression may be a useful biomarker of sensitivity to tarextumab treatment.</p><p>In view of the encouraging preclinical findings, early phase trials were initiated in metastatic PDAC and extensive stage small cell lung cancer. Results from both phase Ib clinical trials were potentially promising, with reported response rates of 84% and 74% in the small cell lung and pancreatic cancer trials, respectively. <ref type="bibr" target="#b17">14,</ref><ref type="bibr" target="#b19">16</ref> Analysis of the phase Ib clinical trial in PDAC demonstrated a PFS of 5.6 months and OS of 11.6 months in patients treated with tarextumab in combination with gemcitabine and nab-paclitaxel. In the subgroup of patients with high Notch3 expression, PFS and OS were 6.6 and 14.6 months, respectively.</p><p>However, both the small cell lung cancer and PDAC randomized phase II clinical trials failed to meet their primary objective of a statistically significant improvement in OS. In the trial reported herein in PDAC, the PFS for the tarextumab treatment group was shorter compared to the placebo group. Analysis of the Notch3 subgroups also found no difference in PFS and OS between the subgroups. To summarize, we found no benefit in adding tarextumab to standard cytotoxic therapy in this randomized phase II trial of patients with metastatic PDAC, with a statistically significant decrease in median PFS and concerning negative trend in OS for some pre-specified subgroups. It is possible that some of the worse outcome was attributed to higher toxicity in the tarextumab vs placebo-treated patients resulting in a lower median treatment duration (2.6 vs 4 months) and lower median number of treatment doses (6 vs 9 doses).</p><p>The discordances between the preclinical along with the early clinical development (phase Ib trial) results and the randomized phase II results are concerning and may be attributed to differences in xenograft development, the patient population in the clinical trials, as well as the pleotropic nature of the Notch receptors and unrecognized contributions from the PDAC stroma. The human xenograft tumors used for the preclinical heterotopic implant model were obtained from stage III PDAC patients without metastases whereas the clinical trial treated metastatic PDAC patients. Compared to heterotopic models, orthotopic PDAC models, where tumor cells are implanted directly into the pancreas, retain a greater proportion of stromal components and develop locoregional and distant metastases. <ref type="bibr" target="#b20">17,</ref><ref type="bibr" target="#b21">18</ref> Consequently, the preclinical results may have been more predictive of outcome for a localized PDAC population. In the phase Ib clinical trial, 11/38 patients (27.5%) patients had ≥3 metastatic sites and 14 (35.0%) patients had two metastatic sites. In contrast, 67.2% of patients in the phase II clinical trial had ≥3 metastatic sites and 31.1% had two metastatic sites. Given the differences between the heterotopic PDX model and patient population, it is difficult to ascertain what roles Notch2 and Notch3 inhibition may play in promoting or inhibiting disease progression in a locoregional vs metastatic setting. An orthotopic or genetically engineered mouse models may promote better understanding in the future.</p><p>Notch1 inhibition has also been reported to cause an increase in liver metastases from neuroblastoma and breast cancer cells and may support early angiogenesis and growth of micrometastases within the liver. <ref type="bibr" target="#b22">19</ref> The preclinical studies noted that tarextumab treatment alone and not combination therapy, decreased Notch1 intracellular domain levels in the xenograft OMP-PN17 PDAC tumor.</p><p>This randomized phase II clinical trial also found no significant difference in PFS and OS between the low, intermediate, and high Notch3 subgroups. Further analyses of the exploratory biomarkers, including Notch-related genes, CTCs, and circulating endothelial cells collected in this trial are ongoing and may be informative.</p><p>The exact role of Notch signaling in PDAC remains an area of significant debate, with some evidence supportive of an oncogenic role while other results have been more suggestive of its function as a tumor suppressor. Notch receptors and ligands have been found to be overexpressed in human and mouse PDAC cells, and have been implicated in the progression of pancreatic intraepithelial neoplasia (PanIN) lesions. <ref type="bibr" target="#b13">10,</ref><ref type="bibr" target="#b23">[20]</ref><ref type="bibr" target="#b24">[21]</ref><ref type="bibr" target="#b25">[22]</ref> Reports have differed, however, on which specific Notch receptor is central in the progression of PanIN and PDAC lesions, with results supporting Notch1, <ref type="bibr" target="#b26">23</ref> Notch2, <ref type="bibr" target="#b24">21</ref> and Notch3. <ref type="bibr" target="#b27">24</ref> Alternatively, loss of Notch1 in a KRAS-driven PDAC mouse model resulted in increased tumor incidence and progression, implicating Notch signaling as a potential tumor suppressor. <ref type="bibr" target="#b28">25</ref> The discrete, collective, and relative contributions of the individual Notch receptors to tumor development in PDAC patients remain to be resolved. Further research into individual Notch inhibitors and agonists may help guide future clinical trials involving the Notch pathway and cytotoxic chemotherapy. To additionally note, a randomized phase II trial evaluating an anti-Delta-like ligand 4 (DLL4) targeted agent (demcizumab), which is an inhibitor of the Notch pathway or placebo, combined with gemcitabine and nab-paclitaxel observed no improvement in the primary endpoint of PFS compared to standard chemotherapy and similarly there was no difference in overall survival (HR 1.02). <ref type="bibr" target="#b29">26</ref> The collective data suggest that targeting the Notch pathway to date has little clinical utility in PDAC.</p><p>To sum up, the addition of tarextumab to gemcitabine and nab-paclitaxel in untreated advanced PDAC did not improve outcomes over standard therapy, and specifically PFS was statistically worse in the tarextumab-treated group. This trial provides significant insights into the importance of preclinical modeling in optimal and relevant model systems and underscores the need for randomized evaluation of experimental agents.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_1"><head></head><label></label><figDesc>Treatment-emergent adverse events related to tarextumab with incidence of at least 10% by system organ class</figDesc><table><row><cell>IAN HU et Al</cell><cell></cell><cell></cell><cell>| 5155</cell></row><row><cell cols="3">Response a tarextumab-treated patients and 57 (67.1%) placebo-treated Tarextumab + nab-pacli-taxel + gemcitabine (n = 89) Placebo + nab-pacli-patients. None of the deaths were adjudicated as related to taxel + gemcitabine (n = 88) Overall response rate 18 (20%) 28 (32%) tarextumab.</cell><cell>T A B L E 2 Treatment response</cell></row><row><cell>Partial response</cell><cell>18 (20%)</cell><cell>28 (32%)</cell></row><row><cell>Stable disease</cell><cell>31 (35%)</cell><cell>36 (41%)</cell></row><row><cell>Progression of disease</cell><cell>21 (24%)</cell><cell>6 (7%)</cell></row><row><cell>(POD)</cell><cell></cell><cell></cell></row><row><cell>Not Evaluable</cell><cell>-</cell><cell>1 (1%)</cell></row><row><cell>Clinical POD (no fol-</cell><cell>19 (21%)</cell><cell>17 (19%)</cell></row><row><cell>low up imaging)</cell><cell></cell><cell></cell></row><row><cell>a Per RECIST v1.1</cell><cell></cell><cell></cell></row><row><cell></cell><cell></cell><cell cols="2">TEAEs in 8 tarextumab-treated patients resulted in treat-</cell></row><row><cell></cell><cell></cell><cell cols="2">ment interruptions and 6 patients experienced tarextumab</cell></row><row><cell></cell><cell></cell><cell cols="2">dose reductions due to TEAEs. TEAEs led to treatment dis-</cell></row><row><cell></cell><cell></cell><cell cols="2">continuation in 7 patients. A total of 126 (73.3%) patients</cell></row><row><cell></cell><cell></cell><cell cols="2">died within 30 days of study discontinuation, 69 (79.3%)</cell></row><row><cell></cell><cell></cell><cell>T A B L E 3 System organ class</cell><cell>Placebo (n = 85)</cell><cell>Tarextumab (n = 87)</cell></row><row><cell></cell><cell></cell><cell cols="2">Gastrointestinal disorders</cell></row><row><cell></cell><cell></cell><cell>Diarrhea</cell><cell>34 (40%)</cell><cell>63 (72%)</cell></row><row><cell></cell><cell></cell><cell>Nausea</cell><cell>26 (31%)</cell><cell>36 (41%)</cell></row><row><cell></cell><cell></cell><cell>Vomiting</cell><cell>14 (16%)</cell><cell>19 (22%)</cell></row><row><cell></cell><cell></cell><cell>General disorders</cell></row><row><cell></cell><cell></cell><cell>Fatigue</cell><cell>50 (59%)</cell><cell>45 (52%)</cell></row><row><cell></cell><cell></cell><cell>Fever</cell><cell>10 (12%)</cell><cell>8 (9%)</cell></row><row><cell></cell><cell></cell><cell>Hematologic disorders</cell></row><row><cell></cell><cell></cell><cell>Thrombocytopenia</cell><cell>21 (25%)</cell><cell>43 (49%)</cell></row><row><cell></cell><cell></cell><cell>Anemia</cell><cell>22 (26%)</cell><cell>25 (29%)</cell></row><row><cell></cell><cell></cell><cell>Neutropenia</cell><cell>15 (18%)</cell><cell>8 (9%)</cell></row><row><cell></cell><cell></cell><cell cols="2">Metabolism and nutrition disorders</cell></row><row><cell></cell><cell></cell><cell>Decreased appetite</cell><cell>11 (13%)</cell><cell>15 (17%)</cell></row><row><cell></cell><cell></cell><cell>Dehydration</cell><cell>10 (12%)</cell><cell>8 (9%)</cell></row><row><cell></cell><cell></cell><cell cols="2">Nervous system disorders</cell></row><row><cell></cell><cell></cell><cell>Dysgeusia</cell><cell>8 (9%)</cell><cell>11 (13%)</cell></row><row><cell></cell><cell></cell><cell cols="2">Respiratory, thoracic and mediastinal disorders</cell></row><row><cell></cell><cell></cell><cell>Epistaxis</cell><cell>1 (1%)</cell><cell>9 (10%)</cell></row><row><cell></cell><cell></cell><cell cols="2">Patients with Grade 3 or 4 TEAEs</cell></row><row><cell></cell><cell></cell><cell>Diarrhea</cell><cell>2 (2%)</cell><cell>15 (17%)</cell></row><row><cell></cell><cell></cell><cell>Nausea</cell><cell>1 (1%)</cell><cell>6 (7%)</cell></row><row><cell></cell><cell></cell><cell>Fatigue</cell><cell>9 (11%)</cell><cell>13 (15%)</cell></row><row><cell></cell><cell></cell><cell>Thrombocytopenia</cell><cell>6 (7%)</cell><cell>19 (22%)</cell></row><row><cell></cell><cell></cell><cell>Anemia</cell><cell>8 (9%)</cell><cell>14 (16%)</cell></row><row><cell></cell><cell></cell><cell>Neutropenia</cell><cell>10 (12%)</cell><cell>3 (3%)</cell></row></table><note></note></figure>
+		</body>
+		<back>
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>| 5157</head><p>IAN HU et Al an anti-Notch 2/3 inhibitor, in combination with gemcitabine and nab-paclitaxel in untreated advanced PDAC did not improve outcomes over standard therapy. PFS was statistically worse in the tarextumab-treated group.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>ORCID</head><p>Kenneth H. Yu https://orcid.org/0000-0002-4774-2672</p><p>Eileen M. O'Reilly https://orcid.org/0000-0002-8076-9199</p></div>			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Leap Therapeutics, Macrogenics, OncoMed Pharmaceuticals, Takeda Pharmaceuticals, Rgenix, Novocure, Merus, NV, Blueprint Medicine, Array Biopharma, ARMO Biosciences, Agios. From time to time, the companies listed have reimbursed Dr Bendell for travel expenses and/or provided meals at meetings held in connection with her services</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Bendell ; Roche</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Taiho</forename><surname>Merck</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Oncology</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Amgen</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Genentech</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Merrimack</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Celgene</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Seattle</forename><surname>Medimmune</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Daiichi</forename><surname>Genetics</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Sankyo</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Janssen ; Cerulean</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Abbvie</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Astrazeneca</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Ipsen</forename><surname>Serono</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Biopharma</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Incyte</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Novartis</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Eisai</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Pfizer</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Millennium</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Boston</forename><surname>Imclone</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Biomedical</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Acerta</forename><surname>Calgb</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Pharma</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Gilead</forename><surname>Lilly</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Sciences</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Research grant from OncoMed for performance of the study covered by the submitted work; payment to her institution for consulting/advisory services and/or clinical trial activities from the following for activities outside of the study covered by the submitted work: Bristol Myers Squibb</title>
+		<editor>BMS. Biomed Valley, Pfizer, Halozyme, AstraZeneca, Bayer, Xcovery, Novartis, Lily, Aduro, Verastem. Tyme, Boston Biomedical, Newlink Genetics, Precision Biologicis. K. Yu</editor>
+		<meeting><address><addrLine>Bayer, Bristol-Myers Squibb, Celgene, Genentech, Incyte, Loxo, Novartis, OncoMed. J. Strickler; Genentech-Roche, Bayer, Celgene, Chugai, AstraZenica, Seattle Genetics, OncoMed. Research Funding; Amgen, Abbvie, Gilead Sciences, Roche/Genentech, Exelixis, OncoMed, Sanofi, Regeneron, MedImmune, Cascadian Therapeutics, Seattle Genetics, Macrogenics, Leap Therapeutics, Nektar. A. Wang-Gillam; Merrimack, BMS, Tyme, Repugene, Jacobio, Vicus. Research; Roche, BMS, Halozyme, Celgene, MabVax Therapeutics, ActaBiologica, OncoMed</addrLine></address></meeting>
+		<imprint>
+			<publisher>Parker Institute</publisher>
+		</imprint>
+		<respStmt>
+			<orgName>Moderna Therapeutics, Tolero, Evelo Biosciences, Array Therapeutics, Forma Therapeutics, Tanabe Research Laboratories, BeiGene, Continuum Clinical,</orgName>
+		</respStmt>
+	</monogr>
+	<note>AstraZenica. Silenseed, Incyte, Pfizer, Polaris, Lustgarten Foundation, NCI-CTEP. Consulting/Advisory: Cytomx, BioLineRx, Targovax, Halozyme, Celgene, Bayer, Loxo, Polaris. All remaining authors have declared no conflicts of interest. AUTHORS&apos; CONTRIBUTIONS</note>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<monogr>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Zishuo Ian</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Hu</surname></persName>
+		</author>
+		<title level="m">Writing-original draft and writing-review and editing, formal analysis. Johanna C. Bendell: Investigation, funding, acquisition, formal analysis and resources, project administration. Andrea Bullock: Investigation, formal analysis and resources. Noelle K. LoConte: Investigation, formal analysis and resources. Hassan Hatoum: Investigation, formal analysis and resources. Paul Ritch: Investigation, formal analysis and resources. Hugo Hool: Investigation, formal analysis and resources. Joseph W. Leach: Investigation, formal analysis and resources. James Sanchez: Investigation, formal analysis and resources. Davendra PS Sohal: Investigation, formal analysis and resources. John Strickler: Investigation, formal analysis and resources. Ravindranath Patel: Investigation, formal analysis and resources. Andrea Wang-Gillaam: Investigation, formal analysis and resources. Irfan Firdaus: Investigation, formal analysis and resources</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<monogr>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><surname>Kenneth</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Yu</surname></persName>
+		</author>
+		<title level="m">Investigation, formal analysis and resources</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Eric Holmgren: Conceptualization, funding acquisition, investigation, methodology, formal analysis and resources. Lei Zhou: Conceptualization, funding acquisition, investigation, methodology, formal analysis and resources. Jakob Dupont: Conceptualization, funding acquisition, investigation, methodology, formal analysis and resources. Vincent Picozzi: Conceptualization, investigation, methodology, formal analysis and resources</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Ann</forename><forename type="middle">M</forename><surname>Kapoun</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Conceptualization, funding acquisition, investigation, methodology, formal analysis and resources</title>
+		<meeting><address><addrLine>Eileen M. O&apos;Reilly</addrLine></address></meeting>
+		<imprint/>
+	</monogr>
+	<note>: Conceptualization, funding, acquisition, investigation, methodology, project administration, supervision, writing-original, and writingreview and editing. Precis: A phase 2 study of tarextumab. REFERENCES</note>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Cancer Statistics</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><forename type="middle">L</forename><surname>Siegel</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><forename type="middle">D</forename><surname>Miller</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Jemal</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">CA: Cancer J Clin</title>
+		<imprint>
+			<biblScope unit="volume">67</biblScope>
+			<biblScope unit="page" from="7" to="30" />
+			<date type="published" when="2017" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Increased survival in pancreatic cancer with nab-paclitaxel plus gemcitabine</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Von</forename><surname>Hoff</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><forename type="middle">D</forename><surname>Ervin</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Arena</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">F</forename><forename type="middle">P</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">N Engl J Med</title>
+		<imprint>
+			<biblScope unit="volume">369</biblScope>
+			<biblScope unit="page" from="1691" to="1703" />
+			<date type="published" when="2013" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">FOLFIRINOX versus gemcitabine for metastatic pancreatic cancer</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Conroy</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">F</forename><surname>Desseigne</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Ychou</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">N Engl J Med</title>
+		<imprint>
+			<biblScope unit="volume">364</biblScope>
+			<biblScope unit="page" from="1817" to="1825" />
+			<date type="published" when="2011" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Cancer stem cells</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><forename type="middle">T</forename><surname>Jordan</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">L</forename><surname>Guzman</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Noble</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">N Engl J Med</title>
+		<imprint>
+			<biblScope unit="volume">355</biblScope>
+			<biblScope unit="page" from="1253" to="1261" />
+			<date type="published" when="2006" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Glioma stem cells promote radioresistance by preferential activation of the DNA damage response</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Bao</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Q</forename><surname>Wu</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><forename type="middle">E</forename><surname>Mclendon</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nature</title>
+		<imprint>
+			<biblScope unit="volume">444</biblScope>
+			<biblScope unit="page" from="756" to="760" />
+			<date type="published" when="2006" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Colorectal cancer stem cells are enriched in xenogeneic tumors following chemotherapy</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><forename type="middle">J</forename><surname>Dylla</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">L</forename><surname>Beviglia</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">I-K</forename><surname>Park</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">PLoS ONE</title>
+		<imprint>
+			<biblScope unit="volume">3</biblScope>
+			<biblScope unit="page">2428</biblScope>
+			<date type="published" when="2008" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Expression of nuclear Notch3 in pancreatic adenocarcinomas is associated with adverse clinical features, and correlates with the expression of STAT3 and phosphorylated Akt</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><surname>Doucas</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><forename type="middle">D</forename><surname>Mann</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><forename type="middle">D</forename><surname>Sutton</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Surg Oncol</title>
+		<imprint>
+			<biblScope unit="volume">97</biblScope>
+			<biblScope unit="page" from="63" to="68" />
+			<date type="published" when="2008" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">CD44-positive cells are responsible for gemcitabine resistance in pancreatic cancer cells</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><forename type="middle">P</forename><surname>Hong</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Wen</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Bang</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Park</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><forename type="middle">Y</forename><surname>Song</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Int J Cancer</title>
+		<imprint>
+			<biblScope unit="volume">125</biblScope>
+			<biblScope unit="page" from="2323" to="2331" />
+			<date type="published" when="2009" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Stem cells living with a Notch</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">U</forename><surname>Koch</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><surname>Lehal</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">F</forename><surname>Radtke</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Development</title>
+		<imprint>
+			<biblScope unit="volume">140</biblScope>
+			<biblScope unit="page" from="689" to="704" />
+			<date type="published" when="2013" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Notch3 and HEY-1 as prognostic biomarkers in pancreatic adenocarcinoma</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><forename type="middle">D</forename><surname>Mann</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><surname>Bastianpillai</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><forename type="middle">P</forename><surname>Neal</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">PLoS ONE</title>
+		<imprint>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="page">51119</biblScope>
+			<date type="published" when="2012" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">Inhibition of Notch3 enhances sensitivity to gemcitabine in pancreatic cancer through an inactivation of PI3K/Akt-dependent pathway</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Yao</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><surname>Qian</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Med Oncol</title>
+		<imprint>
+			<biblScope unit="volume">27</biblScope>
+			<biblScope unit="page" from="1017" to="1022" />
+			<date type="published" when="2010" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Targeting Notch signaling with a Notch2/Notch3 antagonist (tarextumab) inhibits tumor growth and decreases tumor-initiating cell frequency</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">W-C</forename><surname>Yen</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">M</forename><surname>Fischer</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">F</forename><surname>Axelrod</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Clin Cancer Res</title>
+		<imprint>
+			<biblScope unit="volume">21</biblScope>
+			<biblScope unit="page" from="2084" to="2095" />
+			<date type="published" when="2015" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Vascular normalization in Rgs5-deficient tumours promotes immune destruction</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Hamzah</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Jugold</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">F</forename><surname>Kiessling</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nature</title>
+		<imprint>
+			<biblScope unit="volume">453</biblScope>
+			<biblScope unit="page" from="410" to="414" />
+			<date type="published" when="2008" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Final results of phase Ib of anticancer stem cell antibody tarextumab (OMP-59R5, TRXT, anti-Notch 2/3) in combination with nab-paclitaxel and gemcitabine (Nab-P+Gem) in patients (pts) with untreated metastatic pancreatic cancer (mPC)</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><forename type="middle">M</forename><surname>O'reilly</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">L</forename><forename type="middle">S</forename><surname>Smith</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">C</forename><surname>Bendell</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Clin Oncol</title>
+		<imprint>
+			<biblScope unit="volume">33</biblScope>
+			<biblScope unit="page" from="278" to="278" />
+			<date type="published" when="2015" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">National Institutes of Health, National Cancer Institute. Common Terminology Criteria for Adverse Events (CTCAE) version 4.02</title>
+	</analytic>
+	<monogr>
+		<title level="m">Services UDoHaH</title>
+		<imprint>
+			<date type="published" when="2009" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">Final results of phase Ib of tarextumab (TRXT, OMP-59R5, anti-Notch2/3) in combination with etoposide and platinum (EP) in patients (pts) with untreated extensive-stage small-cell lung cancer (ED-SCLC)</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">C</forename><surname>Pietanza</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><forename type="middle">I</forename><surname>Spira</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><forename type="middle">M</forename><surname>Jotte</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Clin Oncol</title>
+		<imprint>
+			<biblScope unit="volume">33</biblScope>
+			<biblScope unit="page" from="7508" to="7508" />
+			<date type="published" when="2015" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">Patient-derived tumour xenografts as models for oncology drug development</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">J</forename><surname>Tentler</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><forename type="middle">C</forename><surname>Tan</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><forename type="middle">D</forename><surname>Weekes</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nat Rev Clin Oncol</title>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="page" from="338" to="350" />
+			<date type="published" when="2012" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">A metastatic nude-mouse model of human pancreatic cancer constructed orthotopically with histologically intact patient specimens</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">X</forename><surname>Fu</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">F</forename><surname>Guadagni</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><forename type="middle">M</forename><surname>Hoffman</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Proc Natl Acad Sci</title>
+		<imprint>
+			<biblScope unit="volume">89</biblScope>
+			<biblScope unit="page" from="5645" to="5649" />
+			<date type="published" when="1992" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">Notch suppresses angiogenesis and progression of hepatic metastases</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><surname>Banerjee</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><forename type="middle">L</forename><surname>Hernandez</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Garcia</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Cancer Res</title>
+		<imprint>
+			<biblScope unit="volume">75</biblScope>
+			<biblScope unit="page" from="1592" to="1602" />
+			<date type="published" when="2015" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title level="a" type="main">Notch mediates TGF alphainduced changes in epithelial differentiation during pancreatic tumorigenesis</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Y</forename><surname>Miyamoto</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Maitra</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">B</forename><surname>Ghosh</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Cancer Cell</title>
+		<imprint>
+			<biblScope unit="volume">3</biblScope>
+			<biblScope unit="page" from="565" to="576" />
+			<date type="published" when="2003" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title level="a" type="main">Notch2 is required for progression of pancreatic intraepithelial neoplasia and development of pancreatic ductal adenocarcinoma</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><forename type="middle">K</forename><surname>Mazur</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><surname>Einwachter</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Lee</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Proc Natl Acad Sci U S A</title>
+		<imprint>
+			<biblScope unit="volume">107</biblScope>
+			<biblScope unit="page" from="13438" to="13443" />
+			<date type="published" when="2010" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title level="a" type="main">Preinvasive and invasive ductal pancreatic cancer and its early detection in the mouse</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><forename type="middle">R</forename><surname>Hingorani</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><forename type="middle">F</forename><surname>Petricoin</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Maitra</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Cancer Cell</title>
+		<imprint>
+			<biblScope unit="volume">4</biblScope>
+			<biblScope unit="page" from="437" to="450" />
+			<date type="published" when="2003" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title level="a" type="main">Notch and Kras in pancreatic cancer: at the crossroads of mutation, differentiation and signaling</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">O</forename><forename type="middle">J</forename><surname>De La</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">L</forename><forename type="middle">C</forename><surname>Murtaugh</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Cell Cycle</title>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="page" from="1860" to="1864" />
+			<date type="published" when="2009" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+		<title level="a" type="main">Inhibition of gamma-secretase activity inhibits tumor progression in a mouse model of pancreatic ductal adenocarcinoma</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><surname>Plentz</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">S</forename><surname>Park</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><forename type="middle">D</forename><surname>Rhim</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Gastroenterology</title>
+		<imprint>
+			<biblScope unit="volume">136</biblScope>
+			<biblScope unit="page">6</biblScope>
+			<date type="published" when="2009" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<analytic>
+		<title level="a" type="main">Notch1 functions as a tumor suppressor in a model of K-ras-induced pancreatic ductal adenocarcinoma</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">L</forename><surname>Hanlon</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">L</forename><surname>Avila</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><forename type="middle">M</forename><surname>Demarest</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Cancer Res</title>
+		<imprint>
+			<biblScope unit="volume">70</biblScope>
+			<biblScope unit="page" from="4280" to="4286" />
+			<date type="published" when="2010" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<analytic>
+		<title level="a" type="main">620PDYOSEMITE: A 3 arm double-blind randomized phase 2 study of gemcitabine, paclitaxel protein-bound particles for injectable suspension, and placebo (GAP) versus gemcitabine, paclitaxel protein-bound particles for injectable suspension and either 1 or 2 truncated courses of demcizumab (GAD)</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Cubillo Gracian</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Dean</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Muñoz</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ann Oncol</title>
+		<imprint>
+			<biblScope unit="volume">28</biblScope>
+			<biblScope unit="page" from="209" to="268" />
+			<date type="published" when="2017" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

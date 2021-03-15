@@ -1,0 +1,771 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /data/rsg/nlp/juanmoo1/bin/grobid-0.6.1/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Results From AMBER, a Randomized Phase 2 Study of Bevacizumab and Bortezomib Versus Bortezomib in Relapsed or Refractory Multiple Myeloma</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+				<date type="published" when="2013-01-15">January 15, 2013</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author role="corresp">
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><roleName>MD</roleName><forename type="first">Darrell</forename><surname>White</surname></persName>
+							<email>d.white@dal.ca</email>
+							<affiliation key="aff1">
+								<orgName type="department">Division of Hematology, Queen Elizabeth II Health Sciences Center</orgName>
+								<address>
+									<settlement>Halifax</settlement>
+									<region>Nova Scotia</region>
+									<country key="CA">Canada</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><roleName>MD</roleName><forename type="first">Adetola</forename><surname>Kassim</surname></persName>
+							<affiliation key="aff2">
+								<orgName type="department">Division of Hematology/Oncology</orgName>
+								<address>
+									<addrLine>Vanderbilt Medical Center</addrLine>
+									<settlement>Nashville</settlement>
+									<region>Tennessee</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><roleName>MD</roleName><forename type="first">Birbal</forename><surname>Bhaskar</surname></persName>
+							<affiliation key="aff3">
+								<orgName type="department">Department of Oncology, Medical Oncology Care Associates</orgName>
+								<address>
+									<settlement>Orange</settlement>
+									<region>California</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><roleName>PhD</roleName><forename type="first">Jing</forename><surname>Yi</surname></persName>
+							<affiliation key="aff4">
+								<orgName type="department">Genentech, Inc</orgName>
+								<address>
+									<settlement>South San Francisco</settlement>
+									<country>California</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><roleName>MSN</roleName><forename type="first">Karen</forename><surname>Wamstad</surname></persName>
+							<affiliation key="aff4">
+								<orgName type="department">Genentech, Inc</orgName>
+								<address>
+									<settlement>South San Francisco</settlement>
+									<country>California</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><roleName>PharmD</roleName><forename type="first">Virginia</forename><forename type="middle">E</forename><surname>Paton</surname></persName>
+							<affiliation key="aff4">
+								<orgName type="department">Genentech, Inc</orgName>
+								<address>
+									<settlement>South San Francisco</settlement>
+									<country>California</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff0">
+								<orgName type="department">Division of Hematology</orgName>
+								<orgName type="institution">Elizabeth II Health Science Centre</orgName>
+								<address>
+									<addrLine>Room 433, 1276 South Park Street</addrLine>
+									<postCode>B3J 2Y9</postCode>
+									<settlement>Bethune Building, Halifax</settlement>
+									<region>Queen, Nova Scotia</region>
+									<country key="CA">Canada</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Results From AMBER, a Randomized Phase 2 Study of Bevacizumab and Bortezomib Versus Bortezomib in Relapsed or Refractory Multiple Myeloma</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date type="published" when="2013-01-15">January 15, 2013</date>
+						</imprint>
+					</monogr>
+					<idno type="DOI">10.1002/cncr.27745</idno>
+					<note type="submission">Received: April 30, 2012; Revised: April 30, 2012; Accepted: June 5, 2012, Published online July 18, 2012 in Wiley Online Library</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.6.1" ident="GROBID" when="2021-01-01T18:48+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>bevacizumab</term>
+					<term>bortezomib</term>
+					<term>multiple myeloma</term>
+					<term>progression-free survival</term>
+					<term>treatment outcome</term>
+					<term>safety</term>
+				</keywords>
+			</textClass>
+			<abstract>
+				<p>BACKGROUND. Newer systemic therapies have significantly advanced the treatment of multiple myeloma, but additional agents are needed. Bortezomib is a proteasome inhibitor with efficacy in relapsed/refractory multiple myeloma that inhibits tumor angiogenesis, a process that has been implicated in multiple myeloma pathogenesis. METHODS. In AMBER(&apos;&apos;A Randomized, Blinded, Placebo-Controlled, Multicenter, Phase II Study of Bevacizumab in Combination With Bortezomib in Patients With Relapsed or Refractory Multiple Myeloma&apos;&apos;), patients with relapsed or refractory multiple myeloma were randomized to receive bortezomib (1.3 mg/m 2 on days 1, 4, 8, and 11 of each 21-day cycle) and either placebo or bevacizumab (15 mg/kg on day 1 of each cycle) for up to 8 cycles. At completion, patients in the bortezomib-plus-bevacizumab arm could continue bevacizumab until they developed progressive disease or unacceptable toxicity. The primary endpoint was progression-free survival (PFS). RESULTS. The stratified hazard ratio of PFS for the bevacizumab-containing arm (n ¼ 49) relative to the bortezomib monotherapy arm (n ¼ 53) was 0.743 (95% confidence interval [CI], 0.43-1.28; P ¼ .2804); the median PFS was 6.2 months (95% CI, 4.4-8.5 months) and 5.1 months (95% CI, 4.2-7.2 months), respectively; the overall response rates were 51% and 43.4% (P ¼ .4029), respectively; and the median response duration was 6.9 months (95% CI, 4.73-11.83 months) and 6.0 months (95% CI, 4.86-8.31 months), respectively. Frequent adverse events occurred at similar rates across treatment arms, but hypertension, fatigue, and neuralgia occurred more frequently in the bevacizumab-containing arm. CONCLUSIONS. The addition of bevacizumab to bortezomib in unselected patients with pretreated multiple myeloma did not result in significant improvements in efficacy outcomes. The combination was well tolerated, and no new safety concerns for either agent were identified.</p>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>INTRODUCTION</head><p>Multiple myeloma (MM) is a malignant plasma cell disorder that accounts for approximately 86,000 cancer diagnoses and approximately 63,000 deaths worldwide each year. <ref type="bibr" target="#b0">1</ref> The introduction of new therapeutic strategies, such as lenalidomide, that target malignant plasma cells to affect their interactions with the bone marrow microenvironment have changed the management of MM and have improved survival rates. <ref type="bibr" target="#b1">[2]</ref><ref type="bibr" target="#b2">[3]</ref><ref type="bibr" target="#b3">[4]</ref> After initial treatment, however, patients with MM eventually relapse. <ref type="bibr" target="#b4">5</ref> Therapeutic strategies that offer prolonged survival are needed.</p><p>Bortezomib is a proteasome inhibitor known to induce apoptosis, reverse drug resistance of MM cells, and block cytokine effects, cell adhesion, and angiogenesis in the myeloma cell microenvironment, all of which support the proliferation and migration of neoplastic plasma cells. <ref type="bibr" target="#b5">6</ref> Bortezomib is active in and approved for patients with relapsed or refractory MM. <ref type="bibr" target="#b6">7,</ref><ref type="bibr" target="#b7">8</ref> Angiogenesis appears to be important in the pathogenesis of MM. <ref type="bibr" target="#b8">9</ref> Microvessel density, a surrogate marker for angiogenesis within the bone marrow, is increased in patients with myeloma versus normal controls <ref type="bibr" target="#b10">10</ref> and has been correlated with increased disease activity and decreased survival. <ref type="bibr" target="#b11">11</ref> Vascular endothelial growth factor (VEGF), an important regulator of angiogenesis, has been implicated in pathologic angiogenesis associated with tumor growth. <ref type="bibr" target="#b12">12</ref> Preclinical studies have demonstrated that the small-molecule VEGF inhibitors GW654652 and GW786034B (pazopanib) also have activity against MM cells. <ref type="bibr" target="#b13">13,</ref><ref type="bibr" target="#b14">14</ref> Bevacizumab (Genentech, Inc., South San Francisco, Calif), a humanized monoclonal antibody that inhibits VEGF activity, was the first antiangiogenic therapy to be approved for patients with cancer. Combined with chemotherapy or biologics, bevacizumab is associated with prolonged overall survival (OS) in phase 3 trials of metastatic colorectal <ref type="bibr" target="#b15">15</ref> and nonsmall cell lung <ref type="bibr" target="#b16">16</ref> cancers and with prolonged progression-free survival (PFS) in renal cancer <ref type="bibr" target="#b17">17</ref> versus placebo, chemotherapy, or biologic therapy alone. Preliminary observations from a phase 2 trial of bevacizumab with lenalidomide and low-dose dexamethasone in relapsed or refractory MM demonstrated response rates 10% greater than previously reported for a similar population that received lenalidomide and high-dose dexamethasone as well as a manageable safety profile. <ref type="bibr" target="#b18">18</ref> AMBER was designed to evaluate the clinical benefit and tolerability of bevacizumab with bortezomib versus bortezomib alone in patients with relapsed or refractory MM. Efficacy and safety outcomes from this study are reported herein.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>MATERIALS AND METHODS</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Patients</head><p>AMBER involved 36 centers in the United States and 2 in Canada. Eligible patients were aged !18 years with relapsed or refractory MM and an Eastern Cooperative Oncology Group (ECOG) performance status between 0 and 2. Patients had disease progression after 1 to 3 prior treatment regimens as well as measurable disease, which was defined as serum monoclonal (M) protein !1 g/dL and urine M protein !200 mg/24 hours. Key disease-specific exclusion criteria included cytopenias, minimal laboratory values for renal and liver function, and the receipt of other antimyeloma therapies within 21 days before the initiation of study treatment. Key bevacizumab exclusion criteria included a history of hypertensive crisis; uncontrolled hypertension; ongoing congestive heart failure or decrease in left ventricular ejection fraction; a history of myocardial infarction, stroke, or transient ischemic attack within 6 months of study entry; bleeding; and significant vascular disease.</p><p>All patients provided written, informed consent for study participation in accordance with the Declaration of Helsinki. The appropriate local institutional review boards approved the protocol.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Study Design and Treatment</head><p>AMBER was a blinded, placebo-controlled, multicenter phase 2 study that was designed to provide a preliminary assessment of the safety and efficacy of bortezomib combined with bevacizumab in patients with relapsed or refractory MM. Eligible patients were randomized 1:1 to receive bortezomib either with placebo or with bevacizumab. Randomization was stratified according to the number of prior treatments received (1 or &gt;1) and the b 2microglobulin level (&lt;3.5 mg/L or !3.5 mg/L) ( <ref type="figure" target="#fig_0">Fig. 1)</ref>.</p><p>During the blinded bortezomib treatment phase, patients received bortezomib (1.3 mg/m 2 ) as a bolus intravenous injection on days 1, 4, 8, and 11 of each 21-day cycle with either placebo or bevacizumab (15 mg/kg intravenously) after bortezomib treatment on the first day of each 21-day cycle for a maximum of 8 cycles. Treatment was administered until disease progression, unacceptable toxicity, initiation of nonprotocol-specified antimyeloma therapy, or withdrawal of consent, whichever occurred first. Patients and investigators, including the clinical staff, the contract research organization, and Genentech personnel who performed data review, were blinded to the treatment arm while patients were in the blinded treatment phase. Treatment was unblinded after 8 cycles of study treatment or upon investigator request because of safety concerns if the patient discontinued the blinded phase early. Patients in the placebo arm entered the postbortezomib phase of the study. Patients who were receiving bortezomib and bevacizumab continued on bevacizumab monotherapy (15 mg/kg intravenously every 21 days) until they developed disease progression or unacceptable toxicity were assessed or until the initiation of nonprotocol-specified antimyeloma therapy. Patients who had received bortezomib and placebo in the blinded phase were observed until they developed disease progression or any other reason for ending disease evaluation. After study completion, all patients were followed for survival every 3 months until death, loss to follow-up, patient withdrawal from survival follow-up, or study termination.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Dose Modifications</head><p>Bevacizumab dose reductions were not permitted. Bortezomib was withheld at the onset of any grade 3 nonhematologic or grade 4 hematologic toxicity, excluding neuropathy. Once the symptoms of the toxicity resolved, bortezomib could be reinitiated with a dose reduction of 25% (eg, 1.3 mg/m 2 reduced to 1.0 mg/m 2 ). If any agent (bortezomib or bevacizumab or placebo) was delayed because of toxicity, then the remaining agent was continued according to the protocol. If bortezomib was discontinued because of toxicity, then patients were unblinded and continued on open-label bevacizumab monotherapy.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Assessments</head><p>Clinical assessments included a complete physical examination (including neurologic assessment) and vital signs as well as hematologic and urine laboratory evaluations on day 1 of the blinded bortezomib treatment phase, during the unblinded postbortezomib phase, and at the study completion visit. Samples for serum and urine M protein determination were acquired at the beginning of every 21day cycle for the first year on study and every 6 weeks thereafter until disease progression. Bone marrow aspirates and biopsies were acquired at screening, to determine a complete response (CR) and were acquired thereafter only with a change in clinical status. Full skeletal radiographs were acquired to evaluate new skeletal symptoms on an annual basis until disease progression.</p><p>Select adverse events (AEs) and serious AEs were collected for all patients while on study and for up to 30 days after the final dose of bevacizumab. All patients were monitored for hypertension.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Outcome Measures</head><p>The primary endpoint was PFS, which we defined as the time from randomization to disease progression or death on study. Secondary endpoints included overall response (defined as a stringent CR, a CR, a very good partial response <ref type="bibr">[VGPR]</ref>, or a partial response [PR] determined on 2 consecutive assessments 6 weeks apart and before the initiation of any nonprotocol-specified antimyeloma therapy), duration of response (the time from the initial response to disease progression or death), OS (the time from randomization to death from any cause, whether on study treatment or after treatment discontinuation), safety, and tolerability. Response, duration of response, relapse, and progression were assessed by the investigating physician according to International Myeloma Working Group Uniform Response Criteria for Multiple Myeloma. <ref type="bibr" target="#b19">19</ref> </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Statistical Analysis</head><p>The median PFS, duration of response, and OS for each treatment arm were estimated using Kaplan-Meier methods. The Cox proportional hazards model was used to estimate the hazard ratio (HR) and 95% confidence interval (CI) for those outcomes except as otherwise noted. The log-rank test was used for exploratory hypothesis tests to assess the difference between treatment arms. The overall response rate (ORR) and 95% CI using the Blyth-Still-Casella method were calculated, and the Cochran-Mantel-Haenszel test was used for exploratory hypothesis testing on the difference between arms. All patients who had received any study drug were included in the safety assessment, which included the incidence of protocol-specified AEs graded according to National Cancer Institute Common Terminology Criteria for Adverse Events, version 3, and other safety-related information.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Determination of Sample Size</head><p>It was expected that approximately 50 patients per treatment arm would be adequate to estimate the magnitude of the treatment effect. Calculations were based on an assumed median PFS of 6.2 months with bortezomib and placebo and of 9.3 months with bortezomib and bevacizumab, yielding an HR of 0.67. Assuming that 35% of randomized patients would discontinue treatment before disease progression, approximately 50 PFS events would have occurred in the combined treatment groups at the time of final analysis. Assuming a standard error of the estimator of the natural log of the HR of approximately 0.283, an HR of 0.67 would have an expected 95% CI of 0.38 to 1.17.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>RESULTS</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Patient Characteristics</head><p>From July 2007 through June 2009, 102 patients with relapsed or refractory MM were randomized to the bortezomib-plus-placebo treatment arm (n ¼ 53) or the borte-zomib-plus-bevacizumab treatment arm (n ¼ 49). Patient demographics and baseline disease characteristics were similar between the 2 arms, as indicated in <ref type="table" target="#tab_0">Table 1</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Patient Disposition and Treatment</head><p>Fifty-two patients (98.1%) in the control arm and 48 patients (98%) who received bortezomib plus bevacizumab completed at least 1 cycle of treatment, and 21 patients (39.6%) and 17 patients (34.7%), respectively,  <ref type="table" target="#tab_1">Table 2)</ref>. The median duration of follow-up for this analysis was 13.3 months (range, 0.1-26.7 months). On the data cutoff date of November 9, 2009, 45 patients (84.9%) in the control arm and 38 patients (77.6%) in the bevacizumab-containing arm had discontinued the study. The most frequent reasons given for study discontinuation across both arms were disease progression (43.1%) and initiation of nonprotocol-specified antimyeloma therapy (11.8%).</p><p>By design, bevacizumab exposure was greater in the bortezomib-plus-bevacizumab arm versus the bortezomib-plus-placebo arm; patients in the former arm continued on open-label bevacizumab after the blindedtreatment period. Twenty patients went on to receive bevacizumab in the open-label phase of the study; most had discontinued therapy by the time of the analysis. The median duration of bevacizumab treatment for patients in the bortezomib-plus-bevacizumab arm was 18.1 weeks (range, 3-116 weeks).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Efficacy</head><p>All randomized patients were included in the efficacy analysis regardless of the actual treatment received ( <ref type="table" target="#tab_2">Table  3</ref>). The stratified HR of PFS for the bortezomib-plus-bevacizumab arm relative to the bortezomib-plus-placebo arm was 0.743 (95% CI, 0.43-1.28; log-rank P ¼ .2804). The median PFS was 5.1 months (95% CI, 4.2-7.2 months) in the placebo arm and 6.2 months (95% CI, 4.4-8.5 months) in the bevacizumab-containing arm (see <ref type="table" target="#tab_2">Table 3</ref>, <ref type="figure" target="#fig_2">Fig. 2</ref>).</p><p>One patient in each arm achieved a CR. The percentage of PRs was similar across treatment arms. In total, 16.3% of patients in the bortezomib-plus-bevacizumab arm and 7.5% of patients in the placebo-containing arm had a VGPR. The observed ORR was 43.4% in the placebo-containing arm and 51% in the bevacizumab-containing arm (95% CI for difference, À11.7% to 27%; P ¼ .4029).</p><p>The median response duration was 6.0 months (95% CI, 4.9-8.3 months) in the placebo-containing arm and 6.9 months (95% CI, 4.7-11.8 months) in the bevacizumab-containing arm. The stratified HR for responders in the bevacizumab-containing arm relative to the placebo arm was 0.956 (95% CI, 0.404-2.261).</p><p>At the time of data cutoff, in total, 21 study patients had died (control arm, n ¼ 13; bevacizumab-containing arm, n ¼ 8). The median OS was 24.0 months in the bortezomib-plus-placebo arm, whereas the median OS in the bortezomib-plus-bevacizumab arm was not estimable because there were too few observed events (see <ref type="table" target="#tab_2">Table 3</ref>). The estimated HR for OS in the bevacizumab-containing arm relative to the placebo arm, based on a Cox proportional hazards regression model stratified by the number of prior treatments (1 or &gt;1) and baseline b 2 -microglobulin level (&lt;3.5 mg/mL or !3.5 mg/L), was 0.633 (95% CI, 0.258-1.552; log-rank test, P ¼ .3134).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Safety</head><p>All randomized patients who had received any study drug were included in the safety analysis and grouped according to the treatment received. One patient in each treatment arm received no study treatment and was excluded from the safety analysis. Two patients who were randomized to the bortezomib-plus-placebo arm received at least Reason for study discontinuation Results From AMBER/White et al Cancer 1 dose of bevacizumab in error while on study and were analyzed as bevacizumab-treated patients. Thus, the safety analyses included 50 patients in the bortezomib-plus-placebo arm and 50 patients in the bortezomib-plus-bevacizumab arm.</p><p>Frequent AEs (ie, those that occurred in !10% of patients) occurred in approximately equal rates across treatment arms <ref type="table" target="#tab_3">(Table 4)</ref>. Patients in the bortezomibplus-placebo treatment arm reported more events of diarrhea and dehydration, whereas patients in the  bortezomib-plus-bevacizumab treatment arm reported more anemia, neutropenia, fatigue, upper respiratory tract infection, neuralgia, and hypertension. The rate of peripheral neuropathy was the same in each treatment group. Fewer patients in the placebo-containing arm than in the bevacizumab-containing arm reported at least 1 grade !3 AE. More grade 5 events were reported in the bortezomib-plus-placebo arm than in the bortezomibplus-bevacizumab arm (see <ref type="table" target="#tab_3">Table 4</ref>). Eight patients (16%) who received bortezomib plus bevacizumab had grade !3 events of hypertension; the bortezomib-plusplacebo arm reported none. No unexpected patterns of laboratory abnormalities were noted.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>DISCUSSION</head><p>The combination of bevacizumab and bortezomib therapy did not result in a significant increase in PFS in patients with relapsed or refractory MM versus bortezomib alone (HR, 0.743; 95% CI, 0.43-1.28; P ¼ .2804). Although the median PFS of 6.2 months in patients who received with bevacizumab and bortezomib was consistent with the time to progression reported in patients who received single-agent bortezomib, <ref type="bibr" target="#b6">7,</ref><ref type="bibr" target="#b7">8</ref> there was a 1.1month difference in PFS in the bortezomib-plus-bevacizumab arm versus the bortezomib-plus-placebo control arm. The data collected in this study were not mature to reliably estimate OS benefit; and, in light of the results reported here, poststudy data collection was discontinued.</p><p>The difference in ORR between arms (51% for bortezomib plus bevacizumab vs 43.4% for bortezomib plus placebo) was not statistically significant (P ¼ .4029). The rates of CRs and PRs were similar across treatment arms, and the VGPR rate was 16.3% for patients who received bortezomib plus bevacizumab and 7.5% for those who received bortezomib plus placebo.</p><p>Safety outcomes were consistent with bortezomib and bevacizumab use in other trials and indications. <ref type="bibr" target="#b7">8,</ref><ref type="bibr" target="#b15">[15]</ref><ref type="bibr" target="#b16">[16]</ref><ref type="bibr" target="#b17">[17]</ref> The addition of bevacizumab to bortezomib therapy did not increase the incidence of thrombocytopenia, a common AE associated with bortezomib. Although it was generally well tolerated, bevacizumab, like other anti-VEGF agents, has been associated with specific AEs, including hypertension, which may be intensified or exacerbated by concomitant administration of chemotherapeutic agents. <ref type="bibr" target="#b20">20</ref> The reason for the lack of significant benefit with the addition of bevacizumab to bortezomib therapy probably is multifactorial. It is believed that angiogenesis plays a role in promoting tumor growth, and inhibiting the activity of VEGF with bevacizumab has demonstrated clinical benefit in some malignancies (eg, nonsmall cell lung cancer). Suppressing angiogenesis alone may be  insufficient, however, because additional mechanisms and pathways are involved in tumor growth. <ref type="bibr" target="#b4">5</ref> Consistent with this possibility, studies of the single-agent tyrosine kinase inhibitors SU5416 (semaxanib), 21 ZD6474 (zactima), <ref type="bibr" target="#b22">22</ref> and GW786034 (pazopanib) <ref type="bibr" target="#b23">23</ref> in patients with relapsed or refractory MM have failed to demonstrate significant clinical benefit for these VEGF receptor-targeted agents. Furthermore, angiogenesis inhibition, which reportedly is effected in part through a reduction in tumor cell VEGF secretion, <ref type="bibr" target="#b24">24</ref> is 1 of the multiple anticancer mechanisms proposed for the proteasome inhibitor bortezomib. <ref type="bibr" target="#b25">25</ref> Conceivably, further inhibition of this pathway may not add further clinical benefit. It is noteworthy that approximately 20% of patients enrolled in this study had received bortezomib previously. Possibly this patient population required more extensive proteasome inhibition and/or the addition of dexamethasone to produce a greater tumor response. Another phase 2 study of bevacizumab for relapsed or refractory MM in which it was combined with dexamethasone and lenalidomide has reported a 70% response rate with the combination, a nonsignificant improvement relative to the 61% response rate previously reported in patients who received lenalidomide and high-dose dexamethasone. <ref type="bibr" target="#b18">18</ref> More recently, another trial (N ¼ 12) in which patients with relapsed or refractory MM who had received prior thalidomide treatment received bevacizumab monotherapy (n ¼ 3) and those who had not received prior thalidomide treatment were randomized to either bevacizumab monotherapy (n ¼ 3) or bevacizumab with thalidomide (n ¼ 6) reported a similar median time to treatment failure for patients who received bevacizumab monotherapy and for those who received the combination therapy. Those authors concluded that future trials of anti-VEGF therapy in MM should focus on patients whose myeloma cells are enriched for VEGF expression. <ref type="bibr" target="#b26">26</ref> Thus, the results from AMBER may reflect the unselected population of patients with relapsed or refractory MM.</p><p>In summary, the addition of bevacizumab to bortezomib in an unselected, pretreated MM patient population did not result in a significant improvement in bortezomib activity. This combination was well tolerated, and no new safety concerns for either agent were identified. A greater understanding of the role played critical factors, such as hypoxia, and by novel angiogenic pathways in myeloma angiogenesis, as well as the potential identification of predictive biomarkers, will enable the development of more effective regimens and may further improve outcomes for patients with MM.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>FUNDING SOURCES</head><p>This study was sponsored by Genentech, Inc.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>Figure 1 .</head><label>1</label><figDesc>The AMBER (A Randomized, Blinded, Placebo-Controlled, Multicenter, Phase II Study of Bevacizumab in Combination With Bortezomib in Patients With Relapsed or Refractory Multiple Myeloma) study design is illustrated. Q3W indicates every 3 weeks.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head></head><label></label><figDesc>, bevacizumab; BOR, bortezomib; PLA, placebo. a Three patients discontinued BOR before the completion of 8 cycles of treatment because of toxicity and subsequently received open-label BEV.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_2"><head>Figure 2 .</head><label>2</label><figDesc>These are Kaplan-Meier estimates of median progression-free survival in the current study. Censored values are indicated with a plus symbol colored to match the population it represents. CI indicates confidence interval; HR, hazard ratio.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_3"><head>Fatigue 3</head><label>3</label><figDesc>, adverse event; BEV, bevacizumab; BOR, bortezomib; MedDRA, Medical Dictionary for Regulatory Activities; PLA, placebo. a The events listed are those that occurred in &gt;5% of patients in either treatment group, except as noted. b Upper respiratory tract infection did not occur in &gt;5% of patients in either treatment group.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>Table 1 .</head><label>1</label><figDesc>Patient Demographics and Disease Characteristics at Baseline No. of Patients (%)</figDesc><table><row><cell>Demographics and Characteristics</cell><cell>BOR1PLA, n 5 53</cell><cell>BOR1BEV, n 5 49</cell></row><row><cell>Age: Median [range], y</cell><cell>65 [45-83]</cell><cell>65 [47-85]</cell></row><row><cell>Sex</cell><cell></cell><cell></cell></row><row><cell>Men</cell><cell>30</cell><cell>29</cell></row><row><cell>Women</cell><cell>23</cell><cell>20</cell></row><row><cell>White race</cell><cell>40 (75.5)</cell><cell>42 (85.7)</cell></row><row><cell>ECOG performance status, n (%)</cell><cell></cell><cell></cell></row><row><cell>0</cell><cell>27 (50.9)</cell><cell>28 (57.1)</cell></row><row><cell>1-2</cell><cell>26 (49.1)</cell><cell>21 (42.9)</cell></row><row><cell>Time since first diagnosis: Median [range], y</cell><cell>3.3 [0.3-12.0]</cell><cell>3.9 [0.7-14.8]</cell></row><row><cell>Type of myeloma</cell><cell></cell><cell></cell></row><row><cell>Total no. evaluated</cell><cell>52</cell><cell>48</cell></row><row><cell>IgG kappa</cell><cell>24 (46.2)</cell><cell>20 (41.7)</cell></row><row><cell>IgG lambda</cell><cell>13 (25)</cell><cell>10 (20.8)</cell></row><row><cell>IgA kappa</cell><cell>4 (7.7)</cell><cell>12 (25)</cell></row><row><cell>IgA lambda</cell><cell>4 (7.7)</cell><cell>4 (8.3)</cell></row><row><cell>Monoclonal-free lambda light chain</cell><cell>5 (9.6)</cell><cell>0 (0)</cell></row><row><cell>Monoclonal-free kappa light chain</cell><cell>2 (3.8)</cell><cell>2 (4.2)</cell></row><row><cell>ISS stage</cell><cell></cell><cell></cell></row><row><cell>I</cell><cell>9 (17.3)</cell><cell>10 (21.3)</cell></row><row><cell>II</cell><cell>29 (55.8)</cell><cell>19 (40.4)</cell></row><row><cell>III</cell><cell>14 (26.9)</cell><cell>18 (38.3)</cell></row><row><cell>Beta 2-microglobulin !3.5 mg/L a</cell><cell>34 (65.4)</cell><cell>36 (76.6)</cell></row><row><cell>Skeletal lytic bone disease</cell><cell>29 (54.7)</cell><cell>29 (59.2)</cell></row><row><cell>Plasma cell involvement in bone marrow: Median [range], % b</cell><cell>26.8 [0.0-100.0]</cell><cell>30.0 [1.0-98.5]</cell></row><row><cell>No. of prior treatments</cell><cell></cell><cell></cell></row><row><cell>1</cell><cell>26 (49.1)</cell><cell>23 (46.9)</cell></row><row><cell>&gt;1</cell><cell>27 (50.9)</cell><cell>26 (53.1)</cell></row><row><cell>Treatment type</cell><cell></cell><cell></cell></row><row><cell>Radiotherapy</cell><cell>10 (18.9)</cell><cell>8 (16.3)</cell></row><row><cell>Hematologic transplantation</cell><cell>30 (56.6)</cell><cell>27 (55.1)</cell></row><row><cell>Systemic therapies</cell><cell>53 (100)</cell><cell>49 (100)</cell></row><row><cell>Biologic</cell><cell>6 (11.3)</cell><cell>6 (12.2)</cell></row><row><cell>Chemotherapy without anthracycline</cell><cell>43 (81.1)</cell><cell>42 (85.7)</cell></row><row><cell>Chemotherapy with anthracycline</cell><cell>26 (49.1)</cell><cell>22 (44.9)</cell></row><row><cell>Hormone therapy</cell><cell>24 (45.3)</cell><cell>22 (44.9)</cell></row><row><cell>Immunomodulators</cell><cell>32 (60.4)</cell><cell>26 (53.1)</cell></row><row><cell>Myeloablative therapy</cell><cell>22 (41.5)</cell><cell>26 (53.1)</cell></row><row><cell>Other</cell><cell>19 (35.8)</cell><cell>17 (34.7)</cell></row><row><cell>Prior BOR treatment</cell><cell>10 (18.9)</cell><cell>8 (16.3)</cell></row></table><note>Abbreviations: BEV, bevacizumab; BOR, bortezomib; ECOG, Eastern Cooperative Oncology Group; IgA, immunoglobulin A; IgG, immunoglobulin G; ISS, International Staging System; PLA, placebo.a Data were available for 52 patients in the BORþPLA arm and for 47 patients in the BORþBEV arm.b Data were available for 48 patients in each arm.completed 8 cycles. Twenty patients (40.8%) in the beva- cizumab arm received at least 1 cycle of open-label bevaci- zumab (</note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_1"><head>Table 2 .</head><label>2</label><figDesc>Patient Disposition and Treatment No. of Patients (%)</figDesc><table><row><cell>Randomized Patients a</cell><cell>BOR1PLA, n 5 53</cell><cell>BOR1BEV, n n 5 49</cell></row><row><cell>Received blinded treatment</cell><cell>52 (98.1)</cell><cell>48 (98)</cell></row><row><cell>Completed 8 cycles of blinded treatment</cell><cell>21 (39.6)</cell><cell>17 (34.7)</cell></row><row><cell>Received open-label BEV</cell><cell>0 (0)</cell><cell>20 (40.8) a</cell></row><row><cell>Discontinued from study</cell><cell>45 (84.9)</cell><cell>38 (77.6)</cell></row></table><note></note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_2"><head>Table 3 .</head><label>3</label><figDesc>Efficacy Outcomes</figDesc><table><row><cell>Outcome</cell><cell>BOR1PLA, n 5 53</cell><cell>BOR1BEV, n 5 49</cell></row><row><cell>Progression-free survival, mo</cell><cell></cell><cell></cell></row><row><cell>Median [95% CI]</cell><cell>5.1 [4.17-7.20]</cell><cell>6.2 [4.40-8.54]</cell></row><row><cell>Range</cell><cell>0.1-10.5 a</cell><cell>0.1-26.0 a</cell></row><row><cell>Stratified analysis</cell><cell></cell><cell></cell></row><row><cell>HR relative to BOR1PLA [95% CI]</cell><cell>-</cell><cell>0.743 (0.432-1.276)</cell></row><row><cell>Log-rank P</cell><cell>-</cell><cell>0.2804</cell></row><row><cell>Overall response: No. (%)</cell><cell></cell><cell></cell></row><row><cell>Total no. of patients with response</cell><cell>23 (43.4)</cell><cell>25 (51)</cell></row><row><cell>Complete response</cell><cell>1 (1.9)</cell><cell>1 (2)</cell></row><row><cell>Very good partial response</cell><cell>4 (7.5)</cell><cell>8 (16.3)</cell></row><row><cell>Partial response</cell><cell>18 (34)</cell><cell>16 (32.7)</cell></row><row><cell>95% CI for overall response</cell><cell>30.1-57.7</cell><cell>36.3-65.2</cell></row><row><cell>Difference in ORR relative to BOR1PLA, %</cell><cell>-</cell><cell>7.6</cell></row><row><cell>95% CI for difference</cell><cell>-</cell><cell>À11.7-27.0</cell></row><row><cell>P</cell><cell>-</cell><cell>.4029</cell></row><row><cell>Response duration, mo</cell><cell></cell><cell></cell></row><row><cell>Median [95% CI]</cell><cell>6.0 [4.86-8.31]</cell><cell>6.9 [4.73-11.83]</cell></row><row><cell>Range</cell><cell>0.9-9.0 a</cell><cell>0.8-17.3 a</cell></row><row><cell>Stratified analysis</cell><cell></cell><cell></cell></row><row><cell>HR relative to BOR1PLA [95% CI]</cell><cell></cell><cell>0.956 [0.404-2.261]</cell></row><row><cell>Log-rank P</cell><cell></cell><cell>.9179</cell></row><row><cell>Overall survival, mo</cell><cell></cell><cell></cell></row><row><cell>Median [95% CI]</cell><cell>24.0 [15.24-NE]</cell><cell>NE</cell></row><row><cell>Range</cell><cell>0.1-26.7 a</cell><cell>0.1-26.0 a</cell></row><row><cell>Stratified analysis</cell><cell></cell><cell></cell></row><row><cell>HR relative to BOR1PLA [95% CI]</cell><cell></cell><cell>0.633 [0.258-1.552]</cell></row><row><cell>Log-rank P</cell><cell></cell><cell>.3134</cell></row></table><note>Abbreviations: BEV, bevacizumab; BOR, bortezomib; CI, confidence interval; HR, hazard ratio NE, not estimable; ORR, overall response rate; PLA, placebo.a Censored value.</note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_3"><head>Table 4 .</head><label>4</label><figDesc>Safety OutcomesNo. of Patients (%)</figDesc><table><row><cell>BOR1PLA, n 5 50</cell><cell>BOR1BEV, n 5 50</cell></row></table><note></note></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot">Results From AMBER/White et al Cancer January 15, 2013</note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot">January 15, 2013</note>
+		</body>
+		<back>
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>CONFLICT OF INTEREST DISCLOSURES</head><p>Dr. White has provided paid expert testimony and accepted lecture fees from Genentech. Dr. Yi, Ms. Wamstad, and Dr. Paton are employees of Genentech and have stock in Roche.</p></div>			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Epidemiology of multiple myeloma</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">N</forename><surname>Becker</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Recent Results Cancer Res</title>
+		<imprint>
+			<biblScope unit="volume">183</biblScope>
+			<biblScope unit="page" from="25" to="35" />
+			<date type="published" when="2011" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Treatment of multiple myeloma</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><forename type="middle">V</forename><surname>Rajkumar</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nat Rev Clin Oncol</title>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="page" from="479" to="491" />
+			<date type="published" when="2011" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">New drugs in multiple myeloma: mechanisms of action and phase I/II clinical findings</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><forename type="middle">M</forename><surname>Ocio</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">V</forename><surname>Mateos</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><surname>Maiso</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Pandiella</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">F</forename><surname>San-Miguel</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Lancet Oncol</title>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="page" from="1157" to="1165" />
+			<date type="published" when="2008" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Targeted therapies in multiple myeloma</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><surname>Kastritis</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Charidimou</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Varkaris</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">A</forename><surname>Dimopoulos</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Target Oncol</title>
+		<imprint>
+			<biblScope unit="volume">4</biblScope>
+			<biblScope unit="page" from="23" to="36" />
+			<date type="published" when="2009" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Multiple myeloma</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Laubach</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><surname>Richardson</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><surname>Anderson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Annu Rev Med</title>
+		<imprint>
+			<biblScope unit="volume">62</biblScope>
+			<biblScope unit="page" from="249" to="264" />
+			<date type="published" when="2011" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Molecular mechanisms mediating antimyeloma activity of proteasome inhibitor PS-341</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Hideshima</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><surname>Mitsiades</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Akiyama</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Blood</title>
+		<imprint>
+			<biblScope unit="volume">101</biblScope>
+			<biblScope unit="page" from="1530" to="1534" />
+			<date type="published" when="2003" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">A phase 2 study of bortezomib in relapsed, refractory myeloma</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><forename type="middle">G</forename><surname>Richardson</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">B</forename><surname>Barlogie</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Berenson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">N Engl J Med</title>
+		<imprint>
+			<biblScope unit="volume">348</biblScope>
+			<biblScope unit="page" from="2609" to="2617" />
+			<date type="published" when="2003" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Bortezomib or high-dose dexamethasone for relapsed multiple myeloma</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><forename type="middle">G</forename><surname>Richardson</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><surname>Sonneveld</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">W</forename><surname>Schuster</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">N Engl J Med</title>
+		<imprint>
+			<biblScope unit="volume">352</biblScope>
+			<biblScope unit="page" from="2487" to="2498" />
+			<date type="published" when="2005" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<monogr>
+		<title level="m" type="main">Clinical trials with anti-angiogenic agents in hematological malignancies</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Medinger</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><surname>Mross</surname></persName>
+		</author>
+		<imprint/>
+	</monogr>
+	<note>serial online</note>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title/>
+	</analytic>
+	<monogr>
+		<title level="j">J Angiogenes Res</title>
+		<imprint>
+			<biblScope unit="volume">2</biblScope>
+			<biblScope unit="page">10</biblScope>
+			<date type="published" when="2010" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Bone marrow neovascularization, plasma cell angiogenic potential, and matrix metalloproteinase-2 secretion parallel progression of human multiple myeloma</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Vacca</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><surname>Ribatti</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Presta</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Blood</title>
+		<imprint>
+			<biblScope unit="volume">93</biblScope>
+			<biblScope unit="page" from="3064" to="3073" />
+			<date type="published" when="1999" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Prognostic value of bone marrow angiogenesis in multiple myeloma</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><forename type="middle">V</forename><surname>Rajkumar</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Leong</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><forename type="middle">C</forename><surname>Roche</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Clin Cancer Res</title>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="page" from="3111" to="3116" />
+			<date type="published" when="2000" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">The biology of VEGF and its receptors</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">N</forename><surname>Ferrara</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><forename type="middle">P</forename><surname>Gerber</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Lecouter</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nat Med</title>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="page" from="669" to="676" />
+			<date type="published" when="2003" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">GW654652, the pan-inhibitor of VEGF receptors, blocks the growth and migration of multiple myeloma cells in the bone marrow microenvironment</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><surname>Podar</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">L</forename><forename type="middle">P</forename><surname>Catley</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Y</forename><forename type="middle">T</forename><surname>Tai</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Blood</title>
+		<imprint>
+			<biblScope unit="volume">103</biblScope>
+			<biblScope unit="page" from="3474" to="3479" />
+			<date type="published" when="2004" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">The small-molecule VEGF receptor inhibitor pazopanib (GW786034b) targets both tumor and endothelial cells in multiple myeloma</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><surname>Podar</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">G</forename><surname>Tonon</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Sattler</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Proc Natl Acad Sci</title>
+		<imprint>
+			<biblScope unit="volume">103</biblScope>
+			<biblScope unit="page" from="19478" to="19483" />
+			<date type="published" when="2006" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Bevacizumab plus irinotecan, fluorouracil, and leucovorin for metastatic colorectal cancer</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><surname>Hurwitz</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">L</forename><surname>Fehrenbacher</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">W</forename><surname>Novotny</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">N Engl J Med</title>
+		<imprint>
+			<biblScope unit="volume">350</biblScope>
+			<biblScope unit="page" from="2335" to="2342" />
+			<date type="published" when="2004" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Paclitaxel-carboplatin alone or with bevacizumab for non-small-cell lung cancer</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Sandler</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><surname>Gray</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">C</forename><surname>Perry</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">N Engl J Med</title>
+		<imprint>
+			<biblScope unit="volume">355</biblScope>
+			<biblScope unit="page" from="2542" to="2550" />
+			<date type="published" when="2006" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Bevacizumab plus interferon alfa-2a for treatment of metastatic renal cell carcinoma: a randomised, double-blind phase III trial</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">B</forename><surname>Escudier</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Pluzanska</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><surname>Koralewski</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Lancet</title>
+		<imprint>
+			<biblScope unit="volume">370</biblScope>
+			<biblScope unit="page" from="2103" to="2111" />
+			<date type="published" when="2007" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">The addition of bevacizumab (B) to lenalidomide (L) and low dose dexamethasone does not significantly increase response in relapsed or refractory multiple myeloma (NCI no</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">N</forename><forename type="middle">S</forename><surname>Callander</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Markovina</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">B</forename><surname>Juckett</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Blood (ASH Annual Meeting Abstracts)</title>
+		<imprint>
+			<biblScope unit="volume">114</biblScope>
+			<biblScope unit="issue">7317</biblScope>
+			<biblScope unit="page">1495</biblScope>
+			<date type="published" when="2009" />
+		</imprint>
+	</monogr>
+	<note>Abstract 3885</note>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">International uniform response criteria for multiple myeloma</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">B</forename><forename type="middle">G</forename><surname>Durie</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">L</forename><surname>Harousseau</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">S</forename><surname>Miguel</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Leukemia</title>
+		<imprint>
+			<biblScope unit="volume">20</biblScope>
+			<biblScope unit="page" from="1467" to="1473" />
+			<date type="published" when="2006" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">Mechanisms of adverse effects of anti-VEGF therapy for cancer</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Kamba</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><forename type="middle">M</forename><surname>Mcdonald</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Br J Cancer</title>
+		<imprint>
+			<biblScope unit="volume">96</biblScope>
+			<biblScope unit="page" from="1788" to="1795" />
+			<date type="published" when="2007" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">Phase II study of SU5416, a small molecule vascular endothelial growth factor tyrosine kinase receptor inhibitor, in patients with refractory multiple myeloma</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Zangari</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><surname>Anaissie</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Stopeck</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Clin Cancer Res</title>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="88" to="95" />
+			<date type="published" when="2004" />
+		</imprint>
+	</monogr>
+	<note>pt 1</note>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">A phase II study of ZD6474 (Zactima, a selective inhibitor of VEGFR and EGFR tyrosine kinase) in patients with relapsed multiple myeloma-NCIC CTG IND.145</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">J</forename><surname>Kovacs</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><forename type="middle">E</forename><surname>Reece</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><surname>Marcellus</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Invest New Drugs</title>
+		<imprint>
+			<biblScope unit="volume">24</biblScope>
+			<biblScope unit="page" from="529" to="535" />
+			<date type="published" when="2006" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title level="a" type="main">Vascular endothelial growth factor inhibition is not an effective therapeutic strategy for relapsed or refractory multiple myeloma: a phase 2 study of pazopanib (GW786034)</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><forename type="middle">M</forename><surname>Prince</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><surname>Honemann</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Spencer</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Blood</title>
+		<imprint>
+			<biblScope unit="volume">113</biblScope>
+			<biblScope unit="page" from="4819" to="4820" />
+			<date type="published" when="2009" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title level="a" type="main">Bortezomib mediates antiangiogenesis in multiple myeloma via direct and indirect effects on endothelial cells</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><forename type="middle">M</forename><surname>Roccaro</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Hideshima</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><surname>Raje</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Cancer Res</title>
+		<imprint>
+			<biblScope unit="volume">66</biblScope>
+			<biblScope unit="page" from="184" to="191" />
+			<date type="published" when="2006" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title level="a" type="main">Proteasome inhibitor PS-341 inhibits human myeloma cell growth in vivo and prolongs survival in a murine model</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><surname>Leblanc</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">L</forename><forename type="middle">P</forename><surname>Catley</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Hideshima</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Cancer Res</title>
+		<imprint>
+			<biblScope unit="volume">62</biblScope>
+			<biblScope unit="page" from="4996" to="5000" />
+			<date type="published" when="2002" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title level="a" type="main">Phase II randomized trial of bevacizumab versus bevacizumab and thalidomide for relapsed/refractory multiple myeloma: a California Cancer Consortium trial</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">G</forename><surname>Somlo</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Lashkari</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">W</forename><surname>Bellamy</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Br J Haematol</title>
+		<imprint>
+			<biblScope unit="volume">154</biblScope>
+			<biblScope unit="page" from="533" to="535" />
+			<date type="published" when="2011" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

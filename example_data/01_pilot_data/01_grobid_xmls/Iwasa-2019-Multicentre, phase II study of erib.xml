@@ -1,0 +1,1523 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /data/rsg/nlp/juanmoo1/bin/grobid-0.6.1/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Multicentre, phase II study of eribulin in combination with S-1 in patients with advanced breast cancer</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Tsutomu</forename><surname>Iwasa</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="department" key="dep1">Department of Medical Oncology</orgName>
+								<orgName type="department" key="dep2">Faculty of Medicine, Osakasayam</orgName>
+								<orgName type="institution">Kindai University</orgName>
+								<address>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<author role="corresp">
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Junji</forename><surname>Tsurutani</surname></persName>
+							<email>tsurutaj@med.showa-u.ac.jp</email>
+							<idno type="ORCID">0000-0002-6260-6943</idno>
+							<affiliation key="aff0">
+								<orgName type="institution" key="instit1">Advanced Cancer Translational Research Institute</orgName>
+								<orgName type="institution" key="instit2">Showa University</orgName>
+								<address>
+									<addrLine>1-5-8 Hatanodai, Shinagawa-ku</addrLine>
+									<postCode>142-8555</postCode>
+									<settlement>Tokyo</settlement>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff2">
+								<orgName type="department">Advanced Cancer Translational Research Institute</orgName>
+								<orgName type="institution">Showa University</orgName>
+								<address>
+									<addrLine>1-5-8 Hatanodai, Shinagawa-ku</addrLine>
+									<postCode>142-8555</postCode>
+									<settlement>Tokyo</settlement>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Satomi</forename><surname>Watanabe</surname></persName>
+							<idno type="ORCID">0000-0002-6260-6943</idno>
+							<affiliation key="aff1">
+								<orgName type="department" key="dep1">Department of Medical Oncology</orgName>
+								<orgName type="department" key="dep2">Faculty of Medicine, Osakasayam</orgName>
+								<orgName type="institution">Kindai University</orgName>
+								<address>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Ryoji</forename><surname>Kato</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="department" key="dep1">Department of Medical Oncology</orgName>
+								<orgName type="department" key="dep2">Faculty of Medicine, Osakasayam</orgName>
+								<orgName type="institution">Kindai University</orgName>
+								<address>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Yutaka</forename><surname>Mizuno</surname></persName>
+							<affiliation key="aff3">
+								<orgName type="department">Department of Breast Surgery, Yokkaichi Municipal Hospital, Osakasayam</orgName>
+								<address>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Yasuyuki</forename><surname>Kojima</surname></persName>
+							<affiliation key="aff4">
+								<orgName type="department" key="dep1">Division of Breast and Endocrine Surgery</orgName>
+								<orgName type="department" key="dep2">Department of Surgery, St. Marianna University School of Medicine, Osakasayam</orgName>
+								<address>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Tsutomu</forename><surname>Takashima</surname></persName>
+							<affiliation key="aff5">
+								<orgName type="department">Department of Surgical Oncology, Osaka City University Graduate School of Medicine</orgName>
+								<address>
+									<settlement>Yokkaichi</settlement>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Nobuki</forename><surname>Matsunami</surname></persName>
+							<affiliation key="aff6">
+								<orgName type="department">Department of Breast Surgery</orgName>
+								<orgName type="institution">Osaka Rosai Hospital</orgName>
+								<address>
+									<settlement>Kawasaki</settlement>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Takashi</forename><surname>Morimoto</surname></persName>
+							<affiliation key="aff7">
+								<orgName type="department">Department of Breast Surgery</orgName>
+								<orgName type="institution">Yao Municipal Hospital</orgName>
+								<address>
+									<settlement>Osaka</settlement>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Jun</forename><surname>Yamamura</surname></persName>
+							<affiliation key="aff8">
+								<orgName type="department" key="dep1">Department of Surgery, Breast Oncology</orgName>
+								<orgName type="department" key="dep2">Sakai City Medical Center</orgName>
+								<address>
+									<settlement>Sakai</settlement>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Shoichiro</forename><surname>Ohtani</surname></persName>
+							<affiliation key="aff9">
+								<orgName type="department">Department of Breast Surgery</orgName>
+								<address>
+									<addrLine>Hiroshima City Hiroshima Citizens Hospital</addrLine>
+									<settlement>Sakai</settlement>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Yuko</forename><surname>Tanabe</surname></persName>
+							<affiliation key="aff10">
+								<orgName type="department">Department of Medical Oncology</orgName>
+								<orgName type="institution">Toranomon Hospital</orgName>
+								<address>
+									<settlement>Sakai</settlement>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Tetsuhiro</forename><surname>Yoshinami</surname></persName>
+							<affiliation key="aff11">
+								<orgName type="department" key="dep1">Department of Breast and Endocrine Surgery</orgName>
+								<orgName type="department" key="dep2">Graduate school of medicine</orgName>
+								<orgName type="institution">Osaka University</orgName>
+								<address>
+									<settlement>Hiroshima</settlement>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Toshimi</forename><surname>Takano</surname></persName>
+							<affiliation key="aff10">
+								<orgName type="department">Department of Medical Oncology</orgName>
+								<orgName type="institution">Toranomon Hospital</orgName>
+								<address>
+									<settlement>Sakai</settlement>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Yoshifumi</forename><surname>Komoike</surname></persName>
+							<affiliation key="aff12">
+								<orgName type="department" key="dep1">Department of Breast and Endocrine Surgery</orgName>
+								<orgName type="department" key="dep2">Faculty of Medicine</orgName>
+								<orgName type="institution">Kindai University</orgName>
+								<address>
+									<settlement>Tokyo</settlement>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Kazuhiko</forename><surname>Nakagawa</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="department" key="dep1">Department of Medical Oncology</orgName>
+								<orgName type="department" key="dep2">Faculty of Medicine, Osakasayam</orgName>
+								<orgName type="institution">Kindai University</orgName>
+								<address>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Multicentre, phase II study of eribulin in combination with S-1 in patients with advanced breast cancer</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<idno type="DOI">10.1186/s12885-019-6200-5</idno>
+					<note type="submission">Received: 25 January 2019 Accepted: 24 September 2019</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.6.1" ident="GROBID" when="2020-10-09T18:38+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>Eribulin</term>
+					<term>S-1</term>
+					<term>Phase II study</term>
+					<term>Breast cancer</term>
+					<term>TNBC</term>
+				</keywords>
+			</textClass>
+			<abstract>
+				<p>Background: We previously reported the synergistic effect of S-1 and eribulin in preclinical models. In addition, our phase I study revealed the recommended dose for the phase II study of the combination therapy in advanced breast cancer (ABC) patients pre-treated with anthracycline and taxane. Our current study reports on the efficacy and safety of the combined use of eribulin and S-1 in patients with ABC and poor prognosis. Methods: Patients with breast cancer who received prior anthracycline-and/or taxane-based therapy were assigned to receive a combination therapy of eribulin (1.4 mg/m 2 on days 1 and 8, every 21 days) and S-1 (65 mg/ m 2 , on days 1 to 14, every 21 days) for advanced/metastatic disease. All patients had at least one clinicopathological factor such as being oestrogen receptor negative, Human Epidermal Growth Factor Receptor 2 (HER2) receptor negative, presence of visceral involvement, presence of three or more metastatic sites, or having a disease-free interval shorter than 2 years. The primary endpoint was the independent-reviewer assessed objective response rate (ORR). Secondary endpoints were clinical benefit rate, disease control rate, progression-free survival (PFS), and overall survival (OS). Results: This study enrolled 33 patients. Confirmed ORR was 33.3% (95% CI: 17.3 to 52.8). Median PFS was 7.5 months (95% CI: 4.0 to 14.3). Median OS time was not reached during the current experimental periods. The most common grade 3/4 adverse event was neutropenia (68.8%). Conclusions: The combination of eribulin and S-1 is safe and effective for treatment in patients with ABC and poor prognosis. Trial registration: Current Controlled Trials UMIN000015049, date of registration: September 5th 2014.</p>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Background</head><p>Eribulin, which is a non-taxane microtubule polymerization inhibitor, is an FDA-approved agent with documented clinical efficacy and acceptable toxicity profiles in patients with metastatic breast cancer previously treated with an anthracycline and a taxane <ref type="bibr" target="#b0">[1]</ref><ref type="bibr" target="#b1">[2]</ref><ref type="bibr" target="#b2">[3]</ref>. This drug was also approved in Japan in 2010. S-1 is an oral fluoropyrimidine capsule formulation that has also been shown to exhibit antitumour activity and low gastrointestinal toxicity. It has been approved and widely used in Asian countries, including Japan, and is accepted as the standard care for gastric <ref type="bibr" target="#b3">[4]</ref><ref type="bibr" target="#b4">[5]</ref><ref type="bibr" target="#b5">[6]</ref>, colorectal <ref type="bibr" target="#b6">[7]</ref>, non-small-cell lung <ref type="bibr" target="#b7">[8]</ref>, and pancreatic cancers <ref type="bibr" target="#b8">[9]</ref>.</p><p>S-1 has also been recommended as an option for first or later-line treatment of patients with advanced breast cancer (ABC) in Japan <ref type="bibr" target="#b9">[10,</ref><ref type="bibr" target="#b10">11]</ref>. These recommendations are based on phase II studies that showed a response rate of 40.7 and 42.0% as first-or second-line treatments, respectively, and 21.8% as a salvage treatment <ref type="bibr" target="#b11">[12,</ref><ref type="bibr" target="#b12">13]</ref>. Furthermore, a phase III study showed that when used as a first-line treatment, S-1 was not inferior to taxane with respect to overall survival <ref type="bibr" target="#b10">[11]</ref>. When taken together, these data suggest that S-1 might be a suitable option that can be used to treat patients with ABC.</p><p>The primary goal of treatments for ABC patients is to alleviate symptoms from the disease and prolong survival. Several guidelines, including the ABC3, have proposed using combination chemotherapy (CT) to treat these patients. However, it was pointed out that CT should be reserved for patients with rapid clinical progression, life-threatening visceral metastases, or when there is a need for rapid symptom and/or disease control <ref type="bibr" target="#b13">[14]</ref>. The characteristics of patients with ABC and poor prognosis have been previously described <ref type="bibr" target="#b14">[15,</ref><ref type="bibr" target="#b15">16]</ref>. Thus, these clinicopathological features might be useful for helping to define patients who are likely to benefit from intensified treatments such as combination CT.</p><p>We previously reported the identification of a synergistic effect ofS-1 and eribulin in preclinical models <ref type="bibr" target="#b16">[17]</ref>, and recommended using the phase II dose of the combination in the patients with ABC who had been previously treated with anthracycline and taxane <ref type="bibr" target="#b17">[18]</ref>. Here, we report results of this phase II study of the administration of eribulin in combination with S-1 in patients with ABC and poor prognosis.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Methods</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Study design and patients</head><p>This multicentre, single arm, phase II trial assessed the objective response rate (ORR) of eribulin in combination with S-1 in patients with ABC. Eligible patients were older than 18 years and had HER2-negative metastatic breast cancer. Patients enrolled in the study had not undergone more than one previous chemotherapy regimens for metastatic disease, and they had received neoadjuvant or adjuvant treatment or treatment for metastatic disease with an anthracycline and/or a taxane. Patients had at least one poor prognostic factor (hormone receptor-negative, presence of visceral involvement, presence of three or more metastatic sites, or a disease-free interval shorter than 2 years). Patients needed to have normal baseline organ and bone marrow functions, and a measurable disease according to the Response Evaluation Criteria in Solid Tumors (RECIST), version 1.1, which was assessed by blinded independent central review. Patients were excluded if they had previously received eribulin or S-1 chemotherapy. We additionally excluded patients with central nervous system metastases, active infection, uncontrolled pleural effusion, ascites, and pericardial effusion.</p><p>The study was conducted in accordance with the Declaration of Helsinki (2008). The primary investigators submitted the protocol and informed consent form for approval by the Institutional Review Boards at Kindai University (the approval number 26-143) and each of the participating centres. All patients provided written informed consent for participating in the study and publication of the results before undergoing any studyrelated procedures.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Treatments</head><p>Patients were intravenously administered eribulin mesylate at a dose of 1.4 mg per square meter of body surface area on days 1 and 8, with administrations repeated every 21 days. S-1 was administered orally on a daily basis at a dose of 65 mg per square meter of body surface area (divided into two doses) for 14 days, and repeated every 21 days. The assigned treatment was continued until disease progression or unacceptable toxic effects occurred.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Study endpoints</head><p>ORR was used as the primary endpoint for the eribulin and S-1 combination therapy, which was assessed by an independent reviewer using RECIST version 1.1. The ORR was defined as the proportion of subjects who achieved a complete response (CR) plus those who achieved a partial response (PR). Secondary endpoints included clinical benefit rate (CBR) (defined as the percentage of patients who achieved CR, PR and stable disease (SD)), disease control rate (DCR) (defined as the percentage of patients who achieved CR, PR and SD), overall survival (OS), progression-free survival (PFS), new metastasis-free survival, duration of response (DOR) and toxicity. For patients with measurable disease, CBR was defined as the CR, PR, or SD for at least 6 months (CR + PR + SD &gt; 6 months), while the DCR was defined as CR, PR, or SD (CR + PR + SD). Toxicity was graded according to NCI Common Toxicity Criteria version 3 and was reported for grade 1 to 5 toxicities, which were considered to be possibly, probably, or definitely treatment related. However, the evaluation of Quality of Life (QOL) was not examined in this study.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Statistical analysis</head><p>Efficacy data were analysed on an intention-to-treat basis, with safety assessed in all patients who received at least one dose of the protocol treatment. The primary analysis of ORR was determined along with the corresponding two-sided, exact binomial 95% confidence intervals (CIs). After assessing the response (expected value 35%), we calculated the sample sizes (32 patients) following Simon's Two-Stage for Phase II clinical trials with α = 5%, β = 10% and we defined threshold value for ORR as 10% and performed the binomial test for the following hypothesis (H0: ORR = 0.1, H1: ORR &gt; 0.1). PFS, OS, time to recurrence (TTR), and DOR were calculated using the Kaplan-Meier curves. DCR, CBR, and 95% CIs were also determined. For analysis of the new metastasis-free survival, the cumulative incidence competing risk method was used to estimate the cumulative probabilities of disease progression due to the development of a new lesion or death.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Results</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Patients</head><p>A total of 33 patients were enrolled in the study from September 2014 through August 2016. As one patient was not assigned due to an error, there were 32 patients who were assigned a treatment. Of these patients, it was possible to evaluate 30 (two patients did not meet the inclusion criteria) for the primary endpoint <ref type="figure" target="#fig_0">(Fig. 1</ref>). The median age was 53.6 years, with half of the patients found to have triple-negative breast cancer. <ref type="table" target="#tab_0">Table 1</ref> shows the baseline demographic characteristics. The median follow-up time was 6.8 months.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Efficacy</head><p>Of the 30 patients with measurable disease and sufficient repeat scans for assessing the primary endpoint of ORR <ref type="table" target="#tab_1">(Table 2)</ref>, the central review indicated CR in one (3.3%) and PR in nine (30%) patients. The ORR was 33.3% (95% CI: 17.3 to 52.8) and fell below the expected value of 35%. Nevertheless, the P value of the binomial test (onesided exact test) for H0: 0.1 was 0.0005, thus the observed ORR was significantly higher than the threshold value of 10%. We also evaluated the response rate by metastatic organs (liver: 35.7%, lymph node: 10%, lung: 50%, skin: 100%). The DCR and CBR were 73.3% (n = 22; 95% CI: 54.1 to 87.7) and 43.3% (n = 13; 95% CI: 25.5 to   62.6), respectively. A waterfall plot analysis showed that most of the patients (83.3%) exhibited a decrease in the size of their tumours after receiving at least one dose of the study regimen <ref type="figure">(Fig. 2)</ref>. As of May 2017, the median was 7.5 months (95% CI: 4.0 to 14.3) <ref type="figure">(Fig. 3)</ref>. PFS results were based on a blinded independent central review.</p><p>The median OS was not reached as of May 2017 <ref type="figure">(Fig. 4)</ref>. The DOR was 7.8 months (95% CI: 1.9 to − 22.5) (data not shown). Disease progression due to new metastases occurred in nine patients <ref type="bibr">(27.2%</ref>). An increase in the size of the pre-existing lesions occurred in five (15.2%) patients. The new metastasis-free survival after eribulin and S-1 combination therapy was 9.2 months (95% CI: 5.1 to 14.8) ( <ref type="figure" target="#fig_2">Fig. 5</ref>).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Safety</head><p>The most commonly observed adverse events of any grade in the 32 patients who received at least one dose of the study drug were leukopenia (87.5%) and neutropenia (87.5%) ( <ref type="table" target="#tab_2">Table 3)</ref>. The most commonly seen grade 3/4 haematological adverse events were neutropenia in 22 (68.8%) and leukopenia in 13 (40.6%) patients, both of which were clinically manageable. In contrast, grade 3/4 non-haematological toxicities included peripheral neuropathy in four (12.5%) patients and febrile neutropenia in three (9.4%) patients. Dose reductions were needed in 14 (43.7%) out of the 32 patients. There was only one death during the study attributed to disease progression, but there were no treatment-related deaths.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Discussion</head><p>CDK4/6 inhibitors are used in the treatment of hormone-positive and HER2-negative metastatic breast cancer patients as second line treatment are available worldwide <ref type="bibr" target="#b18">[19]</ref>; however, this treatment is unsuitable for patients with rapid clinical progression and lifethreatening visceral metastases. In this setting, chemotherapy is the standard therapy. However, there have only been a few clinical trials that have examined the efficacy and safety of the use of combination chemotherapies in patients with ABC whose prognoses were expected to be poor. Some of these clinical studies demonstrated that patients with ABC who were previously treated with anthracyclines had a worse prognosis and a lower chance of benefit from the anthracycline-containing regimens compared to those on non-anthracycline regimens <ref type="bibr" target="#b14">[15]</ref>. Therefore, the development of alternative chemotherapies including combination therapy is warranted for this specific population. In our current study, we investigated the clinical activity and safety of eribulin in combination with S-1 in patients with ABC and a poor prognosis, as defined by the absence of hormone receptor expression, the presence of visceral involvement, presence of three or more metastatic sites, or shorter than 2 years of disease-free intervals. The ORR, which was the primary endpoint of the study, was 33.3%. Thus, this combination chemotherapy regimen might be of benefit for women with ABC and poor prognosis.</p><p>Patients with liver metastases from breast cancer have been shown to have a poor prognosis. Wyld et al. conducted a meta-analysis that included multiple chemotherapy regimens and reported that the median survival time in patients with hepatic metastases from breast cancer was only 4.23 months <ref type="bibr" target="#b19">[20]</ref>. Fendler et al. also conducted a similar analysis and reported that the median survival time in 81 patients with hepatic metastases from breast cancer was 35 weeks <ref type="bibr" target="#b20">[21]</ref>. Although our current study showed that the ORR among patients with liver metastasis (35.7%) was lower than those reported in the previous two studies (67.4 and 52%), we found that the OS in the present study (not reached but expected to be 10 months or longer) was longer than that in Wyld et al. (4.23 months, and 5.0 months) <ref type="bibr" target="#b19">[20]</ref>. This suggests that the combination of eribulin and S-1 may have improved prognosis in this particular population.</p><p>Based on safety profiles of eribulin monotherapies <ref type="bibr" target="#b1">[2,</ref><ref type="bibr" target="#b21">22]</ref>, grade 3 or 4 adverse events that occurred often with eribulin were neutropenia (45%), leucopenia (14%), and peripheral neuropathy (9%). In contrast, based on the safety profile of S-1 monotherapy, the most common grade 3 or worse adverse events were neutropenia (7%), fatigue (3%), and edema (&lt; 1%) <ref type="bibr" target="#b10">[11]</ref>. Results from combination therapy in MBC patients pre-treated with anthracycline and taxane <ref type="bibr" target="#b22">[23,</ref><ref type="bibr" target="#b23">24]</ref> showed that doublet agents produced significantly increased grade 3 or 4 leukopenia, anaemia, neutropenia, and gastrointestinal toxicities. Due to these toxicities, dose reduction and therapy discontinuation were necessary. In our study, the most commonly seen grade 3/4 adverse events were neutropenia (68.8%), leukopenia (40.6%), and peripheral sensory neuropathy (12.5%). The grade 3/4 haematological toxicities were increased compared to the respective monotherapies but gastrointestinal toxicities were not increased in our study. Although grade 3 peripheral sensory neuropathy was higher than the previous report, there were no patients with therapy discontinuation due to the toxicity in our study. In addition, most patients had an acceptable adverse event profile that made it possible for long-term administration without any dose reduction. Moreover, in the viewpoint of hepatic metastasis, 14 patients in our study had liver metastasis. Although these results are similar to the results of Wyld et al. <ref type="bibr" target="#b19">[20]</ref>,   The most commonly seen grade 3/4 haematological adverse events were neutropenia in 22 (68.8%) and leukopenia in 13 (40.6%) patients. The grade 3/4 nonhaematological toxicities included peripheral neuropathy in four (12.5%) patients and febrile neutropenia in three (9.4%) patients peripheral sensory neuropathy was higher in the present study. This might be attributable to the fact that there were more patients in our current study that had been previously treated with taxane (90%) compared to the previous study (76.3%). Therefore, a history of treatment with taxane may have led to the higher incidence of peripheral sensory neuropathy compared to the previous study. These results suggest that combination therapy is more toxic in terms of leukocytopenia and neutropenia, but tolerable for patients with poor prognosis. However, the sample size of the trials is small, and caution is advised when interpreting these results, since studies using a limited number of patients might have precluded infrequent treatment-emergent adverse events and overestimated the benefits in the population. Thus, further studies based on poor prognosis populations are urgently needed to confirm the results of our study. Recently, combination chemotherapy showed a significant improvement in PFS and ORR in patients with MBC pre-treated with an anthracycline and a taxane, but did not benefit OS <ref type="bibr" target="#b22">[23,</ref><ref type="bibr" target="#b24">25]</ref>. Furthermore, metaanalysis demonstrated that combination therapy statistically improved OS, ORR and PFS in patients with HER2-negative ABC compared to sequential single agent therapy <ref type="bibr" target="#b23">[24]</ref>. It has also been reported that the combination treatment of paclitaxel and gemcitabine resulted in a survival advantage in patients with ABC compared to paclitaxel alone <ref type="bibr" target="#b25">[26]</ref>. Moreover, Park et al. reported that the efficacy of the combination treatment of eribulin and gemcitabine resulted in more favourable toxicity profiles compared to paclitaxel and gemcitabine <ref type="bibr" target="#b26">[27]</ref>. Capecitabine in combination with docetaxel were additionally found to be superior to docetaxel alone in terms of OS and ORR in patients with ABC <ref type="bibr" target="#b27">[28]</ref>. In a phase II study of S-1 monotherapy as second-line chemotherapy in MBC patients after resistance to anthracycline and taxane, S-1 demonstrated moderate efficacy with a PFS of 3.3 months and an ORR of 33.3% <ref type="bibr" target="#b28">[29]</ref>. In a phase III study of S-1 as first-line chemotherapy for MBC, PFS was 9.6 months <ref type="bibr" target="#b10">[11]</ref>. In contrast, a phase II study of eribulin monotherapy in MBC patients with anthracycline, taxane and capecitabine demonstrated that PFS was 2.6 months and ORR was 9.3% <ref type="bibr" target="#b21">[22]</ref>. In our study, combination therapy demonstrated that PFS was 7.5 months and ORR was 33.3%, suggesting that our combination therapy improved PFS compared to each drug monotherapy. Furthermore, a phase II study of eribulin in combination with capecitabine has demonstrated that the ORR was 42.9% and the median PFS was 7.1 months (95% CI: 4.4 to 9.8) <ref type="bibr" target="#b29">[30]</ref>, compared to 33.3% and 7.5 months, respectively, in our current study. The lower ORR in the current versus the previous study was probably due to the fact that the current study focused on patients with a poor prognosis (hormone receptor-negative, presence of visceral involvement, presence of three or more metastatic sites, or a disease-free interval shorter than 2 years). When taken together, these results suggest that combination chemotherapy is the treatment of choice for patients with ABC, especially when there is a poor prognosis and good performance status.</p><p>Twelves et al. previously reported that patients with metastatic breast cancer who develop tumour progression with new metastases have a worse prognosis than patients whose disease progresses due to the growth of pre-existing lesions <ref type="bibr" target="#b30">[31]</ref>. In a previous phase III study and EMBRACE study, new metastasis-free survival with eribulin monotherapy was 5.8 and 6.4 months, respectively <ref type="bibr" target="#b1">[2,</ref><ref type="bibr" target="#b2">3]</ref>. In our current study, new metastasis-free survival with eribulin and S-1 combination therapy was 9.2 months, which suggests that eribulin combined with S-1 improves the clinical outcome in ABC patients when compared to patients under eribulin monotherapy.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Conclusion</head><p>Despite high incidence of grade 3 or 4 haematological toxicities, this phase II trial has demonstrated that use of combined treatment with eribulin and S-1 resulted in a high objective response rate, prolonged median PFS, and improved new metastasis-free survival with an acceptable safety profile. These results suggest that combined treatment with eribulin and S-1 is a potential option for patients with ABC and poor prognosis. Further studies are needed to validate the possible application of this treatment regime in practice.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>Fig. 1</head><label>1</label><figDesc>CONSORT Diagram. CONSORT diagram showing details regarding the screening and treatment status. Patients were analysed if they received at least one dose of the experimental therapy. There were 32 patients who received the assigned treatment, of which 30 patients were evaluated for the primary endpoint</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head>Fig. 2 Fig. 3 Fig. 4</head><label>234</label><figDesc>Waterfall Graph of Percentage Change. Waterfall plot analysis showed that most patients (83.3%) exhibited a decrease in tumour size. Waterfall graph of the percentage change in total sum of the target lesion diameters from baseline to post-baseline nadir (RECIST 1.1). Abbreviation: RECIST = Response Evaluation Criteria in Solid Tumours Kaplan-Meier Analysis of Progression-free Survival. The median PFS was 7.5 months (95% CI: 4.0 to 14.3) based on a blinded independent central review. Abbreviation: PFS = progression-free survival Kaplan-Meier Analysis of Overall Survival. The median OS was not reached as of May 2017. Abbreviation: OS = overall survival</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_2"><head>Fig. 5</head><label>5</label><figDesc>New Metastasis-free Survival. The new metastasis-free survival with experimental therapy was 9.2 months (95% CI: 5.1 to 14.8). New metastasis-free survival was defined as the time from randomization to death or disease progression due to a new metastasis</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>Table 1</head><label>1</label><figDesc>Patient demographic and tumour characteristics</figDesc><table><row><cell>n = 32(%)</cell></row></table><note>Abbreviations: OR Oestrogen receptor, PgR Progesterone receptor, HER-2 Human epidermal growth factor receptor 2, PS Performance status</note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_1"><head>Table 2</head><label>2</label><figDesc>Tumour response</figDesc><table><row><cell>Response Category, n (%)</cell><cell>Eribulin/S-1 (n = 30)</cell></row><row><cell>Objective Response Rate; 95%CI</cell><cell>10 (33.3); 17.3-52.8</cell></row><row><cell>Complete Response</cell><cell>1 (3.3)</cell></row><row><cell>Partial Response</cell><cell>9 (30)</cell></row><row><cell>Stable Disease</cell><cell>12 (40)</cell></row><row><cell>Progressive Disease</cell><cell>7 (23.3)</cell></row><row><cell>Clinical Benefit Rate; 95%CI</cell><cell>13 (43.3); 25.5-62.6</cell></row><row><cell>Disease Control Rate; 95%CI</cell><cell>22 (73.3); 54.1-87.7</cell></row></table><note>The ORR was 33.3% (95% CI: 17.3 to 52.8), the DCR was 73.3% (n = 22; 95% CI: 54.1 to 87.7), and the CBR was 43.3% (n = 13; 95% CI: 25.5-62.6) In this study, ORR was evaluated only among patients who had measurable baseline disease according to the Response Evaluation Criteria in Solid Tumours, version 1.1 Abbreviations: ORR Overall response, CBR Clinical benefit rate: CR + PR + SD (&gt; 6 months); DCR Disease control rate: CR + PR + SD</note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_2"><head>Table 3</head><label>3</label><figDesc>Adverse events</figDesc><table><row><cell>AEs, n (%)</cell><cell>G1</cell><cell>G2</cell><cell>G3</cell><cell>G4</cell><cell>G3 + 4</cell><cell>All</cell></row><row><cell>Leukopenia</cell><cell>2 (6.3)</cell><cell>13 (40.6)</cell><cell>10 (31.3)</cell><cell>3 (9.4)</cell><cell>13 (40.6)</cell><cell>28 (87.5)</cell></row><row><cell>Neutropenia</cell><cell>1 (3.1)</cell><cell>5 (15.6)</cell><cell>8 (25)</cell><cell>14 (43.8)</cell><cell>22 (68.8)</cell><cell>28 (87.5)</cell></row><row><cell>Thrombocytopenia</cell><cell>14 (43.8)</cell><cell>2 (6.3)</cell><cell>1 (3.1)</cell><cell>0</cell><cell>1 (3.1)</cell><cell>17 (53.1)</cell></row><row><cell>Anemia</cell><cell>15 (46.9)</cell><cell>10 (31.3)</cell><cell>0</cell><cell>0</cell><cell>0</cell><cell>25 (78.1)</cell></row></table><note></note></figure>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Acknowledgements</head><p>T.T has received honoraria from Daiichi-Sankyo, Kyowa Hakko Kirin and Eisai, has received research funding for his institution from Chugai, Takeda Taiho, Novartis, Ono, MSD, Merck Serono, Daiichi-Sankyo, Kyowa Hakko Kirin and Eisai. We especially thank Mami Kitano and Tomoka Yamada for their help in collecting clinical data.</p></div>
+			</div>
+
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Funding JT is funded by the Eisai for conducting the study and publication of the results.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Availability of data and materials</head><p>The datasets used and analysed during the current study are available from the corresponding author on reasonable request.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Ethics approval and consent to participate</head><p>The local ethics committee of the Kindai University Faculty of Medicine approved the study design and the protocol (approval number 26-143). The methods were carried out in accordance with the approved guidelines. Written informed consent was obtained.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Consent for publication</head><p>Written informed consent for publication of the results was obtained from all individual participants.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Competing interests</head><p>The authors declare that they have no competing interests.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Publisher's Note</head><p>Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.</p></div>			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Eribulin mesylate</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Jain</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">L</forename><forename type="middle">T</forename><surname>Vahdat</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Clin Cancer Res</title>
+		<imprint>
+			<biblScope unit="volume">17</biblScope>
+			<biblScope unit="issue">21</biblScope>
+			<biblScope unit="page" from="6615" to="6637" />
+			<date type="published" when="2011" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Eribulin monotherapy versus treatment of physician&apos;s choice in patients with metastatic breast cancer (EMBRACE): a phase 3 open-label randomised study</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Cortes</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">O</forename><surname>Shaughnessy</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Loesch</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><surname>Blum</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">L</forename><surname>Vahdat</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">L</forename><forename type="middle">T</forename><surname>Petrakova</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><surname>Chollet</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><surname>Manikas</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Dieras</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">V</forename><surname>Delozier</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Lancet</title>
+		<imprint>
+			<biblScope unit="volume">377</biblScope>
+			<biblScope unit="issue">9769</biblScope>
+			<biblScope unit="page" from="914" to="937" />
+			<date type="published" when="2011" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Phase III open-label randomized study of eribulin mesylate versus capecitabine in patients with locally advanced or metastatic breast cancer previously treated with an anthracycline and a taxane</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><forename type="middle">A</forename><surname>Kaufman</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Awada</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><surname>Twelves</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">L</forename><surname>Yelle</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><forename type="middle">A</forename><surname>Perez</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">G</forename><surname>Velikova</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">S</forename><surname>Olivo</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Y</forename><surname>He</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><forename type="middle">E</forename><surname>Dutcus</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Cortes</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Clin Oncol</title>
+		<imprint>
+			<biblScope unit="volume">33</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page" from="594" to="601" />
+			<date type="published" when="2015" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Adjuvant chemotherapy for gastric cancer with S-1, an oral fluoropyrimidine</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Sakuramoto</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Sasako</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Yamaguchi</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Kinoshita</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Fujii</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Nashimoto</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><surname>Furukawa</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Nakajima</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Y</forename><surname>Ohashi</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><surname>Imamura</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">N Engl J Med</title>
+		<imprint>
+			<biblScope unit="volume">357</biblScope>
+			<biblScope unit="issue">18</biblScope>
+			<biblScope unit="page" from="1810" to="1830" />
+			<date type="published" when="2007" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">S-1 plus cisplatin versus S-1 alone for first-line treatment of advanced gastric cancer (SPIRITS trial): a phase III trial</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">W</forename><surname>Koizumi</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><surname>Narahara</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Hara</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Takagane</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Akiya</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Takagi</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><surname>Miyashita</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Nishizaki</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">O</forename><surname>Kobayashi</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">W</forename><surname>Takiyama</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Lancet Oncol</title>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="215" to="236" />
+			<date type="published" when="2008" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Fluorouracil versus combination of irinotecan plus cisplatin versus S-1 in metastatic gastric cancer: a randomised phase 3 study</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">N</forename><surname>Boku</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Yamamoto</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><surname>Fukuda</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><surname>Shirao</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Doi</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Sawaki</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">W</forename><surname>Koizumi</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><surname>Saito</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><surname>Yamaguchi</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><surname>Takiuchi</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Lancet Oncol</title>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="issue">11</biblScope>
+			<biblScope unit="page" from="1063" to="1072" />
+			<date type="published" when="2009" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Leucovorin, fluorouracil, and oxaliplatin plus bevacizumab versus S-1 and oxaliplatin plus bevacizumab in patients with metastatic colorectal cancer (SOFT): an open-label, non-inferiority, randomised phase 3 trial</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Y</forename><surname>Yamada</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><surname>Takahari</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><surname>Matsumoto</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><surname>Baba</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Nakamura</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><surname>Yoshida</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Yoshida</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Iwamoto</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><surname>Shimada</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Y</forename><surname>Komatsu</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Lancet Oncol</title>
+		<imprint>
+			<biblScope unit="volume">14</biblScope>
+			<biblScope unit="issue">13</biblScope>
+			<biblScope unit="page" from="1278" to="86" />
+			<date type="published" when="2013" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Phase III trial comparing oral S-1 plus carboplatin with paclitaxel plus carboplatin in chemotherapy-naive patients with advanced non-small-cell lung cancer: results of a West Japan oncology group study</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">I</forename><surname>Okamoto</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><surname>Yoshioka</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Morita</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Ando</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><surname>Takeda</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Seto</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">N</forename><surname>Yamamoto</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><surname>Saka</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><surname>Asami</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Hirashima</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Clin Oncol</title>
+		<imprint>
+			<biblScope unit="volume">28</biblScope>
+			<biblScope unit="issue">36</biblScope>
+			<biblScope unit="page" from="5240" to="5246" />
+			<date type="published" when="2010" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Randomized phase III study of gemcitabine plus S-1, S-1 alone, or gemcitabine alone in patients with locally advanced and metastatic pancreatic cancer in Japan and Taiwan: GEST study</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><surname>Ueno</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Ioka</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Ikeda</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Ohkawa</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><surname>Yanagimoto</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">N</forename><surname>Boku</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Fukutomi</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><surname>Sugimori</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><surname>Baba</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><surname>Yamao</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Clin Oncol</title>
+		<imprint>
+			<biblScope unit="volume">31</biblScope>
+			<biblScope unit="issue">13</biblScope>
+			<biblScope unit="page" from="1640" to="1648" />
+			<date type="published" when="2013" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">The Japanese breast Cancer society clinical practice guideline for systemic treatment of breast cancer</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Aihara</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Toyama</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Takahashi</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Y</forename><surname>Yamamoto</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">F</forename><surname>Hara</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><surname>Akabane</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Fujisawa</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Ishikawa</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Nagai</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><surname>Nakamura</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Breast Cancer</title>
+		<imprint>
+			<biblScope unit="volume">23</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="329" to="371" />
+			<date type="published" when="2015" />
+		</imprint>
+	</monogr>
+	<note>edition</note>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Taxanes versus S-1 as the first-line chemotherapy for metastatic breast cancer (SELECT BC): an open-label, noninferiority, randomised phase 3 trial</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Takashima</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><surname>Mukai</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">F</forename><surname>Hara</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">N</forename><surname>Matsubara</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Saito</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Takano</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Y</forename><surname>Park</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Toyama</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Y</forename><surname>Hozumi</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Tsurutani</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Lancet Oncol</title>
+		<imprint>
+			<biblScope unit="volume">17</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="90" to="98" />
+			<date type="published" when="2016" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">A late phase II clinical study of S-1 in patients with progressed, refractory breast cancer</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Saeki</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Takashima</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Sano</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">N</forename><surname>Horikoshi</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Miura</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Shimizu</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><surname>Morimoto</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Kimura</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Taguchi</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Gan To Kagaku Ryoho</title>
+		<imprint>
+			<biblScope unit="volume">31</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="539" to="586" />
+			<date type="published" when="2004" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Clinical benefit of S-1 in metastatic breast cancer</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Saeki</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Gan To Kagaku Ryoho</title>
+		<imprint>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="page" from="202" to="208" />
+			<date type="published" when="2006" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">ESO-ESMO international consensus guidelines for advanced breast Cancer (ABC 3)</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">F</forename><surname>Cardoso</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Costa</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><surname>Senkus</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Aapro</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">F</forename><surname>Andre</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><forename type="middle">H</forename><surname>Barrios</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Bergh</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">G</forename><surname>Bhattacharyya</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">L</forename><surname>Biganzoli</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">J</forename><surname>Cardoso</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ann Oncol</title>
+		<imprint>
+			<biblScope unit="volume">28</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="16" to="33" />
+			<date type="published" when="2017" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">A prognostic factor index for overall survival in patients receiving first-line chemotherapy for HER2-negative advanced breast cancer: an analysis of the ATHENA trial</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Llombart-Cussac</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">X</forename><surname>Pivot</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">L</forename><surname>Biganzoli</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><surname>Cortes-Funes</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><forename type="middle">I</forename><surname>Pritchard</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">Y</forename><surname>Pierga</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">I</forename><surname>Smith</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><surname>Thomssen</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Srock</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Sampayo</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Breast</title>
+		<imprint>
+			<biblScope unit="volume">23</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page" from="656" to="62" />
+			<date type="published" when="2014" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Nab-paclitaxel for the treatment of aggressive metastatic breast cancer</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Gluck</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Clin Breast Cancer</title>
+		<imprint>
+			<biblScope unit="volume">14</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="221" to="228" />
+			<date type="published" when="2014" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Synergistic antitumor effects of S-1 with eribulin in vitro and in vivo for triple-negative breast cancer cell lines</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Terashima</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><surname>Sakai</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Y</forename><surname>Togashi</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><surname>Hayashi</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">De</forename><surname>Velasco</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">A</forename><surname>Tsurutani</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Nishio</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Springerplus</title>
+		<imprint>
+			<biblScope unit="volume">3</biblScope>
+			<biblScope unit="issue">417</biblScope>
+			<biblScope unit="page" from="2193" to="1801" />
+			<date type="published" when="2014" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">A phase I dose-escalation study of eribulin and S-1 for metastatic breast cancer</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Sakiyama</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Tsurutani</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Iwasa</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><surname>Kawakami</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Y</forename><surname>Nonagase</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Yoshida</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><surname>Tanaka</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Y</forename><surname>Fujisaka</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Kurata</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Y</forename><surname>Komoike</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Br J Cancer</title>
+		<imprint>
+			<biblScope unit="volume">112</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page" from="819" to="843" />
+			<date type="published" when="2015" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">NCCN guidelines insights: breast Cancer, version 1</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">W</forename><forename type="middle">J</forename><surname>Gradishar</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">B</forename><forename type="middle">O</forename><surname>Anderson</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><surname>Balassanian</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><forename type="middle">L</forename><surname>Blair</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><forename type="middle">J</forename><surname>Burstein</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Cyr</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><forename type="middle">D</forename><surname>Elias</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">W</forename><forename type="middle">B</forename><surname>Farrar</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Forero</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><forename type="middle">H</forename><surname>Giordano</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Natl Compr Cancer Netw</title>
+		<imprint>
+			<biblScope unit="volume">15</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="433" to="51" />
+			<date type="published" when="2017" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">Prognostic factors for patients with hepatic metastases from breast cancer</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">L</forename><surname>Wyld</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><surname>Gutteridge</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><forename type="middle">E</forename><surname>Pinder</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">J</forename><surname>James</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><forename type="middle">Y</forename><surname>Chan</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><forename type="middle">L</forename><surname>Cheung</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">F</forename><surname>Robertson</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><forename type="middle">J</forename><surname>Evans</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Br J Cancer</title>
+		<imprint>
+			<biblScope unit="volume">89</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="284" to="90" />
+			<date type="published" when="2003" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">Safety, efficacy, and prognostic factors after radioembolization of hepatic metastases from breast cancer: a large single-center experience in 81 patients</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">W</forename><forename type="middle">P</forename><surname>Fendler</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><surname>Lechner</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Todica</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><forename type="middle">J</forename><surname>Paprottka</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><forename type="middle">M</forename><surname>Paprottka</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><forename type="middle">F</forename><surname>Jakobs</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Michl</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><surname>Bartenstein</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Lehner</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><forename type="middle">R</forename><surname>Haug</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Nucl Med</title>
+		<imprint>
+			<biblScope unit="volume">57</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="517" to="540" />
+			<date type="published" when="2016" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">Phase II study of the halichondrin B analog eribulin mesylate in patients with locally advanced or metastatic breast cancer previously treated with an anthracycline, a taxane, and capecitabine</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Cortes</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">L</forename><surname>Vahdat</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">L</forename><surname>Blum</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><surname>Twelves</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Campone</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><surname>Roche</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Bachelot</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Awada</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><surname>Paridaens</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Goncalves</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Clin Oncol</title>
+		<imprint>
+			<biblScope unit="volume">28</biblScope>
+			<biblScope unit="issue">25</biblScope>
+			<biblScope unit="page" from="3922" to="3930" />
+			<date type="published" when="2010" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">Comparison between doublet agents versus single agent in metastatic breast cancer patients previously treated with an anthracycline and a taxane: a meta-analysis of four phase III trials</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">W</forename><forename type="middle">X</forename><surname>Qi</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">L</forename><forename type="middle">N</forename><surname>Tang</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><forename type="middle">N</forename><surname>He</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Z</forename><surname>Shen</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Y</forename><surname>Yao</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Breast</title>
+		<imprint>
+			<biblScope unit="volume">22</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="314" to="323" />
+			<date type="published" when="2013" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title level="a" type="main">A metaanalysis of combination therapy versus single-agent therapy in anthracycline-and taxane-pretreated metastatic breast cancer: results from nine randomized phase III trials</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">L</forename><surname>Xu</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">X</forename><surname>Wu</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><surname>Hu</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Z</forename><surname>Zhang</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">L</forename><surname>Zhang</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Liang</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Y</forename><surname>Xu</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">F</forename><surname>Zhang</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Onco Targets Ther</title>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="page" from="4061" to="74" />
+			<date type="published" when="2016" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title level="a" type="main">Combination versus sequential single agent chemotherapy for metastatic breast cancer</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><forename type="middle">F</forename><surname>Dear</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><surname>Mcgeechan</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">C</forename><surname>Jenkins</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Barratt</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">H</forename><surname>Tattersall</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">N</forename><surname>Wilcken</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Cochrane Database Syst Rev</title>
+		<imprint>
+			<biblScope unit="volume">18</biblScope>
+			<biblScope unit="issue">12</biblScope>
+			<biblScope unit="page">8792</biblScope>
+			<date type="published" when="2013" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title level="a" type="main">Gemcitabine in combination with paclitaxel for the treatment of metastatic breast cancer</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><surname>Colomer</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Womens Health</title>
+		<imprint>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="323" to="332" />
+			<date type="published" when="2005" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title level="a" type="main">Phase II, multicentre, randomised trial of eribulin plus gemcitabine versus paclitaxel plus gemcitabine as first-line chemotherapy in patients with HER2-negative metastatic breast cancer</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Y</forename><forename type="middle">H</forename><surname>Park</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><forename type="middle">A</forename><surname>Im</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><forename type="middle">B</forename><surname>Kim</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">H</forename><surname>Sohn</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><forename type="middle">S</forename><surname>Lee</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Y</forename><forename type="middle">S</forename><surname>Chae</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><forename type="middle">H</forename><surname>Lee</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">H</forename><surname>Kim</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Y</forename><forename type="middle">H</forename><surname>Im</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">Y</forename><surname>Kim</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Eur J Cancer</title>
+		<imprint>
+			<biblScope unit="volume">86</biblScope>
+			<biblScope unit="page" from="385" to="93" />
+			<date type="published" when="2017" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+		<title level="a" type="main">Superior survival with capecitabine plus docetaxel combination therapy in anthracyclinepretreated patients with advanced breast cancer: phase III trial results</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>O'shaughnessy</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><surname>Miles</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Vukelja</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">V</forename><surname>Moiseyenko</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">P</forename><surname>Ayoub</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">G</forename><surname>Cervantes</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><surname>Fumoleau</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Jones</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">W</forename><forename type="middle">Y</forename><surname>Lui</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">L</forename><surname>Mauriac</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Clin Oncol</title>
+		<imprint>
+			<biblScope unit="volume">20</biblScope>
+			<biblScope unit="issue">12</biblScope>
+			<biblScope unit="page" from="2812" to="2835" />
+			<date type="published" when="2002" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<analytic>
+		<title level="a" type="main">Phase II multicenter clinical study on using S-1 to treat advanced breast cancer after resistance to anthracycline and taxane drugs in Chinese patients</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><surname>Yuan</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">L</forename><forename type="middle">J</forename><surname>Di</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">W</forename><surname>Liu</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><forename type="middle">G</forename><surname>Wan</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><surname>Dai</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Z</forename><forename type="middle">S</forename><surname>Tong</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">F</forename><surname>Du</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">B</forename><forename type="middle">H</forename><surname>Xu</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Int J Clin Exp Med</title>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="3072" to="3081" />
+			<date type="published" when="2015" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<analytic>
+		<title level="a" type="main">A phase 1b/2, openlabel, dose-escalation, and dose-confirmation study of eribulin mesilate in combination with capecitabine</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><surname>Twelves</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Anthoney</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><forename type="middle">I</forename><surname>Savulsky</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Guo</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">L</forename><surname>Reyderman</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">N</forename><surname>Cresti</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">V</forename><surname>Semiglazov</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><surname>Timcheva</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">I</forename><surname>Zubairi</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><surname>Morrison</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Br J Cancer</title>
+		<imprint>
+			<biblScope unit="volume">120</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page" from="579" to="86" />
+			<date type="published" when="2019" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<analytic>
+		<title level="a" type="main">New&quot; metastases are associated with a poorer prognosis than growth of pre-existing metastases in patients with metastatic breast cancer treated with chemotherapy</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><surname>Twelves</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Cortes</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><forename type="middle">A</forename><surname>Kaufman</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">L</forename><surname>Yelle</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Awada</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><forename type="middle">A</forename><surname>Binder</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Olivo</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Song</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">O</forename><surname>Shaughnessy</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">A</forename><surname>Jove</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Breast Cancer Res</title>
+		<imprint>
+			<biblScope unit="volume">17</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="15" to="0657" />
+			<date type="published" when="2015" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

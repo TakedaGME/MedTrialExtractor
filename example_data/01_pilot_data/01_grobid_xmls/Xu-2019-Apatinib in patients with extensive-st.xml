@@ -1,0 +1,1486 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /data/rsg/nlp/juanmoo1/bin/grobid-0.6.1/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Apatinib in patients with extensive-stage small-cell lung cancer after second-line or third-line chemotherapy: a phase II, singlearm, multicentre, prospective study</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+				<date type="published" when="2019-09-16">16 September 2019</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Yanjun</forename><surname>Xu</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Medical Thoracic Oncology</orgName>
+								<orgName type="institution">Zhejiang Cancer Hospital</orgName>
+								<address>
+									<addrLine>No. 1 Banshan East Road</addrLine>
+									<settlement>Hangzhou</settlement>
+									<country key="CN">China</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Zhiyu</forename><surname>Huang</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Medical Thoracic Oncology</orgName>
+								<orgName type="institution">Zhejiang Cancer Hospital</orgName>
+								<address>
+									<addrLine>No. 1 Banshan East Road</addrLine>
+									<settlement>Hangzhou</settlement>
+									<country key="CN">China</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Hongyang</forename><surname>Lu</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Medical Thoracic Oncology</orgName>
+								<orgName type="institution">Zhejiang Cancer Hospital</orgName>
+								<address>
+									<addrLine>No. 1 Banshan East Road</addrLine>
+									<settlement>Hangzhou</settlement>
+									<country key="CN">China</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Xinming</forename><surname>Yu</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Yuping</forename><surname>Li</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Medical Thoracic Oncology</orgName>
+								<orgName type="institution">Zhejiang Cancer Hospital</orgName>
+								<address>
+									<addrLine>No. 1 Banshan East Road</addrLine>
+									<settlement>Hangzhou</settlement>
+									<country key="CN">China</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="department">Department of Pulmonary and Critical Care Medicine</orgName>
+								<orgName type="institution">The First Affiliated Hospital of Wenzhou Medical University</orgName>
+								<address>
+									<settlement>Wenzhou</settlement>
+									<country key="CN">China</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Wenfeng</forename><surname>Li</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Jun</forename><surname>Chen</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="department">Department of Pulmonary and Critical Care Medicine</orgName>
+								<orgName type="institution">The First Affiliated Hospital of Wenzhou Medical University</orgName>
+								<address>
+									<settlement>Wenzhou</settlement>
+									<country key="CN">China</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff2">
+								<orgName type="department">Department of Radiotherapy and Chemotherapy</orgName>
+								<orgName type="institution">Yinzhou People&apos;s Hospital</orgName>
+								<address>
+									<settlement>Ningbo</settlement>
+									<country key="CN">China</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Ming</forename><surname>Chen</surname></persName>
+							<affiliation key="aff3">
+								<orgName type="department">Department of Radiation Oncology</orgName>
+								<orgName type="institution">Zhejiang Cancer Hospital</orgName>
+								<address>
+									<settlement>Hangzhou</settlement>
+									<country key="CN">China</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Lei</forename><surname>Gong</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Medical Thoracic Oncology</orgName>
+								<orgName type="institution">Zhejiang Cancer Hospital</orgName>
+								<address>
+									<addrLine>No. 1 Banshan East Road</addrLine>
+									<settlement>Hangzhou</settlement>
+									<country key="CN">China</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Kaiyan</forename><surname>Chen</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Medical Thoracic Oncology</orgName>
+								<orgName type="institution">Zhejiang Cancer Hospital</orgName>
+								<address>
+									<addrLine>No. 1 Banshan East Road</addrLine>
+									<settlement>Hangzhou</settlement>
+									<country key="CN">China</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Jin</forename><surname>Qin</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Medical Thoracic Oncology</orgName>
+								<orgName type="institution">Zhejiang Cancer Hospital</orgName>
+								<address>
+									<addrLine>No. 1 Banshan East Road</addrLine>
+									<settlement>Hangzhou</settlement>
+									<country key="CN">China</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Xiaoling</forename><surname>Xu</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Medical Thoracic Oncology</orgName>
+								<orgName type="institution">Zhejiang Cancer Hospital</orgName>
+								<address>
+									<addrLine>No. 1 Banshan East Road</addrLine>
+									<settlement>Hangzhou</settlement>
+									<country key="CN">China</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Ying</forename><surname>Jin</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Jun</forename><surname>Zhao</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Medical Thoracic Oncology</orgName>
+								<orgName type="institution">Zhejiang Cancer Hospital</orgName>
+								<address>
+									<addrLine>No. 1 Banshan East Road</addrLine>
+									<settlement>Hangzhou</settlement>
+									<country key="CN">China</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Xun</forename><surname>Shi</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Medical Thoracic Oncology</orgName>
+								<orgName type="institution">Zhejiang Cancer Hospital</orgName>
+								<address>
+									<addrLine>No. 1 Banshan East Road</addrLine>
+									<settlement>Hangzhou</settlement>
+									<country key="CN">China</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Na</forename><surname>Han</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Medical Thoracic Oncology</orgName>
+								<orgName type="institution">Zhejiang Cancer Hospital</orgName>
+								<address>
+									<addrLine>No. 1 Banshan East Road</addrLine>
+									<settlement>Hangzhou</settlement>
+									<country key="CN">China</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Fajun</forename><surname>Xie</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Medical Thoracic Oncology</orgName>
+								<orgName type="institution">Zhejiang Cancer Hospital</orgName>
+								<address>
+									<addrLine>No. 1 Banshan East Road</addrLine>
+									<settlement>Hangzhou</settlement>
+									<country key="CN">China</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Peng</forename><surname>Zhang</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Medical Thoracic Oncology</orgName>
+								<orgName type="institution">Zhejiang Cancer Hospital</orgName>
+								<address>
+									<addrLine>No. 1 Banshan East Road</addrLine>
+									<settlement>Hangzhou</settlement>
+									<country key="CN">China</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Weizhen</forename><surname>Xu</surname></persName>
+							<affiliation key="aff4">
+								<orgName type="department">Good Clinical Practice Center of Zhejiang Cancer Hospital</orgName>
+								<address>
+									<settlement>Hangzhou</settlement>
+									<country key="CN">China</country>
+								</address>
+							</affiliation>
+						</author>
+						<author role="corresp">
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Yun</forename><surname>Fan</surname></persName>
+							<email>fanyun@zjcc.org.cn</email>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Medical Thoracic Oncology</orgName>
+								<orgName type="institution">Zhejiang Cancer Hospital</orgName>
+								<address>
+									<addrLine>No. 1 Banshan East Road</addrLine>
+									<settlement>Hangzhou</settlement>
+									<country key="CN">China</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff5">
+								<orgName type="laboratory">Key laboratory on Diagnosis and Treatment Technology on Thoracic Cancer</orgName>
+								<orgName type="institution">Zhejiang Cancer Hospital (Zhejiang Cancer Research Institute)</orgName>
+								<address>
+									<settlement>Hangzhou</settlement>
+									<country key="CN">China</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Medical Thoracic Oncology</orgName>
+								<orgName type="institution">Zhejiang Cancer Hospital</orgName>
+								<address>
+									<addrLine>No. 1 Banshan East Road</addrLine>
+									<settlement>Hangzhou</settlement>
+									<country key="CN">China</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Apatinib in patients with extensive-stage small-cell lung cancer after second-line or third-line chemotherapy: a phase II, singlearm, multicentre, prospective study</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date type="published" when="2019-09-16">16 September 2019</date>
+						</imprint>
+					</monogr>
+					<idno type="DOI">10.1038/s41416-019-0583-6</idno>
+					<note type="submission">Received: 26 May 2019 Revised: 23 August 2019 Accepted: 30 August 2019</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.6.1" ident="GROBID" when="2020-10-09T18:38+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>NCT02945852</keywords>
+			</textClass>
+			<abstract>
+				<p>BACKGROUND: Small-cell lung cancer (SCLC) remains an aggressive cancer with short-term survival due to limited therapeutic options. Apatinib is a small-molecule tyrosine kinase inhibitor that selectively inhibits vascular endothelial growth factor receptor-2. This study aimed to investigate the efficacy and safety of apatinib in patients with extensive-stage (EC) SCLC who had progressed after two or three previous therapies. METHODS: Eligible patients were histologically confirmed ES-SCLC after two or three previous treatments, including a platinumbased regimen. Patients received apatinib at an initial dose of 500 mg once daily. The primary endpoint was the objective response rate. RESULTS: Forty patients were enrolled. At the data cutoff time (November 15, 2018), the median follow-up was 7.4 months; no patients remained on treatment, and five were still in follow-up. An objective response was achieved in 7 of 40 patients (17.5%) in the intention-to-treat population, and 7 of 38 patients (18.4%) in the per-protocol population. The median progression-free survival and overall survival were 3.0 months and 5•8 months, respectively. The most commonly observed grade 3 or greater treatmentrelated adverse events were hypertension, hand-foot syndrome, increased L-gamma-glutamyltransferase. CONCLUSIONS: Apatinib exhibited efficacy and an acceptable safety profile in previously heavily-treated ES-SCLC patients. Further exploration of apatinib in phase III trials is warranted.</p>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>sunitinib, sorafenib, vandetanib, etc.). Several clinical trials have reported encouraging results with anti-angiogenic agents in some settings of SCLC. <ref type="bibr" target="#b14">[15]</ref><ref type="bibr" target="#b15">[16]</ref><ref type="bibr" target="#b16">[17]</ref><ref type="bibr" target="#b17">[18]</ref> For example, addition of bevacizumab to chemotherapy for previously untreated ES-SCLC patients demonstrated a significant prolongation of progression-free survival than standard chemotherapy (6.7 vs 5.7 months; p = 0.030). <ref type="bibr" target="#b17">18</ref> A phase II study reported that sunitinib as maintenance therapy yielded a longer PFS for ES-SCLC patients after first-line chemotherapy (3.7 vs 2.1 months; p = 0.02). <ref type="bibr" target="#b18">19</ref> However, both of them failed to extend the overall survival. Of note, a recent phase III trial (IMpower133) demonstrated a significantly longer progression-free survival, and overall survival with atezolizumab plus etoposide and carboplatin than with placebo plus etoposide and carboplatin. <ref type="bibr" target="#b19">20</ref> These findings suggested that anti-angiogenic treatment is feasible in this population, but novel agents and combinational strategies are still needed for further investigation. <ref type="bibr" target="#b14">[15]</ref><ref type="bibr" target="#b15">[16]</ref><ref type="bibr" target="#b16">[17]</ref><ref type="bibr" target="#b17">[18]</ref><ref type="bibr" target="#b18">[19]</ref> Apatinib is a novel oral, small-molecule TKI that selectively targets VEGFR2. Previous studies have demonstrated that apatinib has encouraging anti-tumour activity with tolerable toxicity in several types of solid tumours, including SCLC. <ref type="bibr" target="#b20">21</ref> Apatinib has been approved for the treatment of advanced or metastatic chemorefractory gastric cancer in China. <ref type="bibr" target="#b21">22,</ref><ref type="bibr" target="#b22">23</ref> To date, two retrospective studies in China have evaluated apatinib as third-line to fifth-line therapy and as maintenance therapy in ES-SCLC, respectively. These studies suggested that apatinib has promising activity and acceptable toxicity in ES-SCLC. <ref type="bibr" target="#b23">24</ref> Therefore, we conducted this phase II, single-arm, multicentre study to prospectively investigate the efficacy and safety of apatinib in Chinese patients with ES-SCLC who had experienced disease progression after second-line or third-line chemotherapy.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>METHODS</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Study design and participants</head><p>Patients with ES-SCLC were enrolled in a prospective multicentre, open-label, single-arm, phase II trial at three medical centres in China (Zhejiang Cancer Hospital, Ningbo Yinzhou People's Hospital, and The First Affiliated Hospital of Wenzhou Medical University). Eligible patients had histologically confirmed ES-SCLC, with disease progression (according to the Response Evaluation Criteria in Solid Tumors [RECIST], version 1.1) after two or three previous chemotherapy treatments, including a platinum-based regimen. Both platinum-sensitive patients (relapse ≥ 90 days after chemotherapy) and platinum-resistant patients (relapse &lt; 90 days after or during chemotherapy) were eligible. Patients were 18 years of age or older, with an Eastern Cooperative Oncology Group (ECOG) performance status of 0-2, and a life expectancy of at least 12 weeks, with one or more measurable tumour lesions (according to RECIST, version 1.1). Patients with a history of treated central nervous system (CNS) metastases were eligible as there was no ongoing requirement for corticosteroids as therapy for asymptomatic CNS disease. Other inclusion criteria were: (1) adequate bone marrow function (white blood cell count of ≥ 3.5 × 10 3 cells/μL, an absolute neutrophil count of ≥ 1.5 × 10 3 cells/μL, a platelet count of ≥ 100 × 10 3 cells/μL and a haemoglobin concentration of ≥ 9.0 g/dL); and (2) adequate hepatic function (aspartate transaminase and alanine transaminase ≤ 1.5 × upper limit of normal, bilirubin level ≤ 1.5 × upper limit of normal) and renal function.</p><p>Key exclusion criteria were mixed SCLC, previous exposure to apatinib or other anti-angiogenic agents, active or new diagnosed untreated CNS metastases, uncontrolled hypertension, major surgical procedures within 4 weeks before treatment initiation and/or the presence of any non-healing wound, fracture, ulcer, evidence of active bleeding or significant haemoptysis (≥ 5 mL). Other exclusion criteria included significant cardiac morbidity, a history of cerebrovascular accident, transient ischaemic attack, pulmonary embolism or untreated deep venous thrombosis within the past 6 months, severe clinical infections, any other life-threatening illnesses and other malignancies diagnosed within the past 5 years other than non-melanoma skin cancer.</p><p>The study protocol was approved by the relevant institutional review board or ethics committee at each medical centre, and it was conducted in accordance with the Declaration of Helsinki and Good Clinical Practice guidelines, as defined by the International Conference on Harmonisation. All enrolled patients provided written informed consent before any study-specific procedures were performed.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Procedures</head><p>Apatinib was administered orally at an initial dose of 500 mg once daily, continuously in 30-day cycles. Treatment was continued until disease progression, patient withdrawal, unacceptable toxicity or death occurred. Dose interruptions or reductions were permitted for management of adverse events (AEs), but only one dose reduction per patient was allowed (250 mg once daily) and dose re-escalation was not permitted. When ≥ grade 3 haematological or ≥ grade 2 non-haematological toxicities or a clinically intolerable grade 2 AEs occurred at any time, dose interruptions or reductions were allowed. In such cases, treatment would be resumed at a reduced dosage of 250 mg once daily after recovery to ≤ grade 2 haematological or ≤ grade 1 non-haematological toxicity. Repeated dose interruptions were allowed for a maximum of 14 days on each occasion. Once dose interruption had occurred, subsequent apatinib was resumed at a reduced dosage of 250 mg once daily.</p><p>Tumour assessments were conducted by radiographic imaging [computed tomography (CT) and magnetic resonance imaging (MRI)] at baseline, after the first cycle of apatinib treatment, and then every 2 months (± 7 days) thereafter until disease progression occurred (investigator assessed per RECIST, version 1.1) or treatment was discontinued. Once a partial response was occurred in the evaluation of apatinib efficiency, another CT scan will be added 1 month later to confirm the partial response. If clinical symptoms of patients aggravate, we would consider taking CT scan ahead of time. Baseline tumour assessments included at least enhanced CT of the chest, abdomen and pelvis, and enhanced MRI of the brain. Repeated radiographic imaging included enhanced CT of the chest and abdomen, and enhanced MRI of the brain in cases of symptom occurrence. Survival was monitored continuously during treatment, and every 2 months after its discontinuation. Haematology, serum chemistry, routine urine examinations, vital signs, physical examinations and 12 lead electrocardiograms were assessed every month during treatment.</p><p>A safety evaluation was performed throughout the study, during treatment and within 30 days of administration of the last dose of apatinib.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Outcomes</head><p>The primary endpoint was the proportion of patients with a confirmed complete or partial response as per RECIST evaluation, version 1.1. Secondary endpoints included progression-free survival, overall survival, disease control rate and the occurrence of treatment-related AEs. Progression-free survival was defined as the time from treatment assignment to the date of the first objectively documented disease progression, or death due to any cause, whichever occurred first. Overall survival was defined as the time from the date of treatment assignment to the date of death due to any cause. The disease control rate was defined as the percentage of patients who achieved a complete response, partial response or stable disease per RECIST evaluation, version 1.1. Treatment-related AEs were graded according to the National Cancer Institute's Common Terminology Criteria for Adverse Events (NCI-CTCAE, version 4.03).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Statistical analysis</head><p>This study followed Simon's two-stage optimum design, with a type I error rate of 10% and a power of 80% to reject the null hypothesis. <ref type="bibr" target="#b24">25</ref> The previously reported objective response rate with topotecan monotherapy as second-line therapy in SCLC is~7%. <ref type="bibr" target="#b25">26</ref> In this study, the primary expectation of an objective response with apatinib monotherapy was 19%. Consequently, 18 eligible patients received treatment in the first stage of the study with at least two responses required to continue the enrolment. In stage 2, 19 additional patients were enrolled for a total sample size of 37. Overall, if a total of five responses or more were observed, the treatment regimen would be considered successful. Assuming a 5% missing follow-up rate for the subjects, a total sample size of 39 was required. This study design planned to enrol 40 patients.</p><p>The following three populations were analysed: the full analysis set (FAS), the per-protocol set (PPS) and the safety analysis set (SAS). The FAS consisted of all enrolled patients who received at least one dose of study medication according to the intention-totreat (ITT) principle. The PPS referred to a subset of the patients in the FAS who were compliant with the protocol and without any major protocol violations (including violation of study entry criteria). The SAS included all enrolled patients who received at least one dose of the study medication, though not those without any safety data. Patients' baseline characteristics were summarised for the ITT population. The efficacy analysis was performed in both the ITT and PPS populations. Safety data were explored in the SAS.</p><p>Objective response and disease control rate were evaluated via the binomial response rate and the corresponding two-sided 95% exact confidence intervals (CIs), using the Clopper-Pearson method. The Kaplan-Meier method was used to estimate progression-free survival and overall survival, and median values were estimated with two-sided 95% CIs by using the Brookmeyer-Crowley method. Cox proportional-hazards regression models were used for univariate and multivariate analysis to identify the potential factors associated with clinical outcomes. A p-value (two-sided) &lt; 0.05 was considered statistically significant. All analyses were performed with SPSS ® 22.0. The study was registered with ClinicalTrials.gov (NCT02945852).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>RESULTS</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Patient demographics</head><p>Between July 10, 2016 and April 30, 2018, a total of 44 patients with ES-SCLC were screened at three medical centres, and 40 of these patients were enrolled in the study <ref type="figure" target="#fig_0">(Fig. 1</ref>). All received at least one dose of apatinib. The exclusions were mainly due to the following reasons: symptomatic brain metastasis, undetectable target lesions, active haemoptysis and poorly controlled hypertension. The baseline characteristics of the 40 enrolled patients are shown in <ref type="table" target="#tab_0">Table 1</ref>. Their median age was 60 years (range, 39-71 years), and 37 (92.5%) were male. Four patients (10%) had a neversmoking history, and 17.5 and 60.0% presented brain and liver metastases, respectively. All patients had received prior chemotherapy for ES-SCLC; 31 patients (77.5%) had received two prior lines of chemotherapy and 9 patients (22.5%) had received three prior lines of chemotherapy. The best response to the most recent chemotherapy treatment was stable disease.   <ref type="figure" target="#fig_1">(Fig. 2)</ref>.</p><p>All of the seven patients who had objective responses experienced disease progression or had died by the data cut-off point. By the data cut-off date, a total of 25 patients (62.5%) had died. All 13 patients who were still alive at this time had discontinued apatinib treatment, 11 of whom had switched to further treatment, including gemcitabine or docetaxel regimens. The median progression-free survival and overall survival were 3.0 months (95% CI 2.2-3.7; <ref type="figure">Fig. 3a</ref>) and 5•8 months (95% CI 3.7-7.9; <ref type="figure">Fig. 3b</ref>), respectively. The 6-months OS rate was 48.7% (95% CI 32.6-64.8).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Safety</head><p>The SAS included the entire 40 patients, and all experienced AEs related to apatinib treatment. AEs of clinical significance, as selected by the investigators, are summarised in <ref type="table">Table 3</ref>. The most commonly observed grade 3 or greater AEs were hypertension (25%; 10/40), hand-foot syndrome (10%; 4/40), increased Lgamma glutamyltransferase (10%; 4/40), increased aspartate transaminase (7.5%; 3/40) and thrombocytopenia (7.5%; 3/40). In addition, one patient required hospitalisation for the management of grade 4 neutropenia. No grade 5 AEs were reported, and no unexpected AEs were observed during the study.</p><p>Dosage reduction of apatinib was required in 15 patients (37.5%) during the therapy with following reasons: 11 cases (73.3%) of hand-foot syndrome, 10 (66.7%) cases of hypertension, one (6.7%) case of proteinuria one (6.7%) case of mucositis, one (6.7%) case of thrombocytopenia and one (6.7%) case of impaired liver function. Of note, 10 of the 15 patients (66.7%) needed dosage reduction due to two (60%; n = 9) or three (6.7%; n = 1) toxic reactions. Treatment had to be stopped due to intolerable toxic reactions for four patients, one for fatigue, two cases for hand-foot syndrome and one case for proteinuria. The reasons for apatinib dose reduction are summarised in <ref type="table" target="#tab_0">Supplementary  Table 1</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Univariate and multivariate analysis</head><p>The presence or absence of liver or brain metastases, and the prior therapy lines have been considered as the important prognostic factors in patients with ES-SCLC. These factors together with other baseline parameters were selected for univariate analysis of prognostic factors for progression-free survival and overall survival. The results are summarised in <ref type="table" target="#tab_1">Supplementary Tables 2  and 3</ref>. Liver metastasis (HR 3.6; 95% CI 1.5-8.5; p = 0.004) was the only independent prognostic factor associated with a significantly shorter progression-free survival by univariate analysis (Supplementary <ref type="table" target="#tab_1">Table 2</ref>), and it remained statistical significance in the multivariate analysis. The median progression-free survival values for patients with and without liver metastases were 2.0 months (95% CI 1.0-3.0) and 4•7 months (95% CI 1.9-7.6), respectively; p = 0.007; HR = 4.0 (95% CI 1.5-10.6) ( <ref type="figure" target="#fig_0">Supplementary Fig. 1)</ref>. No significance was found for the association of other factors with progression-free survival. Also, no factors were observed to be associated with overall survival (Supplementary <ref type="table">Table 3</ref>). As shown in <ref type="table">Supplementary Tables 4 and 5</ref>, no correlation was found between observed AEs and either progression-free survival or overall survival during apatinib treatment.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>DISCUSSION</head><p>To our knowledge, this is the first prospective phase II trial to evaluate apatinib monotherapy in a third-line or above setting for patients with ES-SCLC. The results indicated that apatinib monotherapy provided encouraging efficacy with an acceptable safety profile for patients with ES-SCLC who had progressed after two or three previous regimens. Of the 38 patients able to be assessed in the efficacy analysis, the objective response rate was 18.4%, and the median progression-free survival and overall survival were 3.0 and 5.8 months, respectively. No unexpected treatment-related AEs were observed.</p><p>To date, only nivolumab was approved for third-line treatment in patients with ES-SCLC, but the efficacy is modest. The limited  The dashed line at 20% represents the boundary for determination of progressive disease, and the dashed line at -30% represents the boundary for determination of partial response. *Tumour shrinkage over 30% was observed in this patient, but there were new lesions, so it was judged to be disease progression therapeutic options available for patients after firstand secondline chemotherapy is one of the important reason for the dismal prognosis of patients with recurrent ES-SCLC. Published studies on the efficacy of systemic therapy in the third-line plus setting are sparse, and most of them are single-centre retrospective or small single-arm trials. <ref type="bibr" target="#b26">[27]</ref><ref type="bibr" target="#b27">[28]</ref><ref type="bibr" target="#b28">[29]</ref> Two large-scale multicentre international retrospective studies have been reported, and all showed the effectiveness of active systemic therapy compared with best supportive care or palliative care. One of them analysed 120 patients from three countries in the third-line setting and found the median progression-free survival and overall survival were 2.0 and 4.7 months, respectively. <ref type="bibr" target="#b29">30</ref> Another study evaluating 334 SCLC patients received third-line plus systemic therapy, and reported physician-assessed objective response rate of 21%, progression-free survival of 2.3 months and overall months of 4.4 months. <ref type="bibr" target="#b30">31</ref> This study is the first prospective study in third-line plus treatment of ES-SCLC. Comparing to these two retrospective studies with the current study suggests a non-inferior objective response rate, but better progression-free survival and overall survival of apatinib monotherapy. Although direct comparisons across studies with different designs and patient populations is arbitrary, our study indicates that active systemic therapy in thirdline plus setting is clinically valuable in ES-SCLC patients with good performance status. But a phase III clinical trial is still needed before apatinib could be seriously considered in this setting.</p><p>As previously mentioned, the activities of anti-angiogenic therapies have also been explored in patients with ES-SCLC from first-line to third-line or above settings. Earlier phase II studies investigating bevacizumab in combination with chemotherapy for previously untreated ES-SCLC, yielded a progression-free survival of 4.7-7.0 months, an overall survival of 9.4-11.6 months and an acceptable safety profile. <ref type="bibr" target="#b15">16,</ref><ref type="bibr" target="#b16">17</ref> Subsequently, a phase III study (GOIRC-AIFA FARM6PMFJM trial) provided additional supportive evidence that use of this combination for first-line treatment of ES-SCLC produced a statistically significant improvement in progression-free survival (6.7 vs 5.7 months; HR 0.72; p = 0.030). <ref type="bibr" target="#b17">18</ref> However, this advancement did not translate into noticeable overall survival benefit (8.9 vs 9.8 months; HR, 0.78; p = 0.113). In second-line setting, bevacizumab plus topotecan did not meet the predefined criteria for clinically meaningful improvement in patients with relapsed SCLC (PFS rate at 3 months was 65%). <ref type="bibr" target="#b31">32</ref> Combining aflibercept with weekly topotecan for previously treated SCLC patients was significantly associated with better 3-month PFS for patients with refractory disease, but not sensitive disease. <ref type="bibr" target="#b32">33</ref> Overall survival was still not improved. Similar to these findings, maintenance sunitinib in a phase II study of patients with ES-SCLC yielded a meaningful progression-free survival result (3.7 vs 2.1 months; HR 1.62, p = 0.02), but it failed to extend the overall survival (p = 0.16). <ref type="bibr" target="#b18">19</ref> In this study, apatinib showed an objective response rate of 18.4% in a third-line or greater setting in patients with ES-SCLC, suggesting its more significant anti-tumour effect than other anti-angiogenic agents.</p><p>Liver metastasis is one of the most common distant metastases in ES-SCLC, and it confers a very poor prognosis in these patients. In this study, liver metastasis was identified as the only independent prognostic factor for progression-free survival in the multivariate analysis. Of note, although the current cohort enrolled a higher proportion of patients with liver metastasis (60.0%) in comparison with other reports, <ref type="bibr" target="#b8">9,</ref><ref type="bibr" target="#b9">10,</ref><ref type="bibr" target="#b14">[15]</ref><ref type="bibr" target="#b15">[16]</ref><ref type="bibr" target="#b16">[17]</ref><ref type="bibr" target="#b25">26</ref> the reported overall survival rate was non-inferior, suggesting the potential efficacy of apatinib in this population. Interestingly, a recent study reported that EGFR-TKIs plus local therapy showed prolonged survival benefit than EGFR-TKIs alone in EGFR-mutant NSCLC patients with oligometastatic or oligoprogressive liver metastases, suggesting the good control effect of local therapy in patients with liver metastases. <ref type="bibr" target="#b33">34</ref> In view of the poor response of patients with liver metastasis to apatinib monotherapy, combination of apatinib and local consolidation strategies (e.g., radiotherapy and radiofrequency ablation) should be investigated for patients with SCLC and liver metastasis. The most commonly reported AEs of apatinib are hypertension, hand-foot syndrome, proteinuria and fatigue. This AE profile was also observed in this study with incidence rates of hypertension (67.5%), hand-foot syndrome (67.5%), proteinuria (75%) and fatigue (57.5%). It is worth noting that no grade 3 or greater fatigue was observed. All cases of proteinuria were grade 1 to 2. The incidence of grade 3 hand-foot syndrome and hypertension were 10.0 and 25.0%, respectively. Almost all AEs were improved by symptomatic treatment and/or apatinib dose reduction or interruptions in this study. Other AEs were mainly grade 1 to 2 with a low incidence rate. Only one case each of grade 4 neutropenia and grade 4 increased L-gammaglutamyltransferase was observed. No treatment-related death was recorded. Moreover, toxicities with VEGFR-TKIs have been reported as predictive biomarkers for treatment efficacy in previous studies, but no significant relationship was observed between AEs and either progression-free survival or overall survival in this study.</p><p>Immunotherapy targeted PD-1 and its ligand (PD-L1) has shown good anti-tumour activity in various solid tumours including SCLC. Although the phase I-II trial of nivolumab alone or in combination with ipilimumab for previously treated SCLC patients (CheckMate 032) reported the modest anti-tumor effect, <ref type="bibr" target="#b8">9</ref> it was recommended by the National Comprehensive Cancer Network guideline for second-line treatment. <ref type="bibr" target="#b8">9</ref> However, two phase III trials (CheckMate 451 and CheckMate 331) that evaluated nivolumab plus ipilimumab, or nivolumab alone as maintenance therapy or second-line setting failed to meet their primary endpoints. Nevertheless, a recent phase III trial (IMpower133) demonstrated a significantly longer progression-free survival and overall survival with atezolizumab plus etoposide and carboplatin than with placebo plus etoposide and carboplatin, <ref type="bibr" target="#b19">20</ref> which has become a new standard of care in the first-line setting of ES-SCLC. These findings suggested that immunotherapy in combination with other anti-tumour strategies is promising and efficacious in ES-SCLC. Considering the synergistic effect of immunotherapy plus anti-angiogenic therapy, <ref type="bibr" target="#b34">35,</ref><ref type="bibr" target="#b35">36</ref> a recent study found that apatinib could potentiate the anti-tumour effect of a PD-1/PD-L1 inhibitor in the lung cancer mouse model by optimising the tumour microenvironment. <ref type="bibr" target="#b36">37</ref> In a preliminary investigation, they found an objective response rate of 55.6% in patients with NSCLC and a low incidence of PD-L1 expression. Furthermore, the synergistic antitumour effect of PD-1/PD-L1 inhibitors plus anti-angiogenic agents is also evident in other solid tumours, such as gastric or oesophagogastric junction cancer patients. <ref type="bibr" target="#b37">38</ref> Collectively, future combinational strategies based on PD-1/-DL1 antibodies in ED-SCLC could be relevant and of clinical interest. We have therefore initiated a phase II study to investigate SHR-1210 plus apatinib as second-line therapy in patients with refractory or resistant SCLC (NCT03417895). This study is ongoing.</p><p>In conclusion, the findings of this study suggest that apatinib monotherapy has promising efficacy and acceptable toxicities in patients with recurrent ES-SCLC after second/third-line chemotherapy. Limitations of the study include its single-arm design, a selection bias due to the lack of a control group, a relatively small sample size and a high rate of dosage modifications. Nevertheless, these results, together with emerging evidences, provide a basis for future explorations of apatinib alone or in combination with novel therapeutic approaches such as immunotherapy in patients with relapsed ES-SCLC. Consequently, a well-designed phase III trial with a larger cohort is warranted.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>Fig. 1</head><label>1</label><figDesc>Apatinib treatment At the time of data cut-off (November 15, 2018), the median follow-up duration was 7.4 months (IQR 6.6; range, 1.0-22.2 months). No patients remained on active treatment at this time, but five (12.5%) remained in follow-up. The most common reason for treatment discontinuation was disease progression (29 patients [72.5%]) (Fig. 1). Other reasons for treatment discontinuation included disease progression-related death (four patients [10.0%]), AEs (four [10.0%]) and withdrawal of consent (three [7.5%]). Fifteen of the 40 patients (37.5%) required apatinib dosage reduction. Among them, eight had reduction for apatinib during or at the completion of the first treatment cycle, the occurrence of dose reduction was recorded in six patients during the second cycle, and in one patient during the fifth cycle. At the data cut-off point, 40 patients received apatinib 500 mg once daily with a median of 1.7 months (IQR 1.9; range 0.3-10.2), and 15 patients received apatinib 250 mg once daily for a median due to disease progression) 40 included in intention-to-treat population 40 included in safety population 38 included in per-protocol population* Trial profile. * Two patients were excluded because they had no post-baseline efficacy assessment</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head>Fig. 2</head><label>2</label><figDesc>Waterfall plot for the best percentage change in target lesion size (n = 38). Waterfall plot for the best percentage change in target lesion size is shown for 38 patients who had at least one postbaseline efficacy assessment. The colours indicate type of responses.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_2"><head>Fig. 3 Table 3 .</head><label>33</label><figDesc>Kaplan-Meier estimates for progression-free survival (a) and overall survival (b) in patients with at least one post-baseline efficacy assessment (n = 38) All adverse events associated with apatinib treatment of any grade in the safety population (n = 40)</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>Table 1 .</head><label>1</label><figDesc>Baseline patient characteristicsVALG Veterans Administration Lung Study Group, ECOG Eastern Cooperative Oncology Group The data presented as n (%) or median (IQR) unless otherwise specified of 1.9 months (IQR 2.3; range 0.2-10.6). As mentioned above, dose reductions occurred in 15 of 40 patients for apatinib, and all the 15 patients required only one dose reduction. Among the 15 patients, two experienced drug withdrawals prior to dose reduction.EfficacyThe predefined threshold of two or more responses for the first stage of Simon's two-stage optimum design was met, as four (22.2%) of the first 18 evaluable patients achieved objective responses. Therefore, the enrolment was continued to full accrual. No complete responses were observed, but partial responses were achieved in seven of the 40 patients (17.5%) in the ITT population and in seven of the 38 patients (18.4%) in the per-protocol population (Table 2). Disease control was achieved in 30 patients (75.0%; 61-89) in the ITT population, and in 30 patients (78.9%; 65.4-92.5) in the per-protocol population (Table 2). Disease control rate at 3 months was and 42.5% (95% CI, 27.0-59.1%) and 7.5% (95% CI, 1.6-20.4%) at 6 months. Tumour shrinkage was observed in 27 of the 38 patients (71.1%) who had at least one post-baseline efficacy assessment</figDesc><table><row><cell>Variable</cell><cell>Apatinib</cell></row><row><cell></cell><cell>(n = 40)</cell></row></table><note></note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_1"><head>Table 2 .</head><label>2</label><figDesc>Treatment responses</figDesc><table><row><cell></cell><cell>Intention-to-treat</cell><cell>Per-protocol</cell></row><row><cell></cell><cell>population (n = 40)</cell><cell>population (n = 38) a</cell></row><row><cell>Complete</cell><cell>0</cell><cell>0</cell></row><row><cell>response</cell><cell></cell><cell></cell></row><row><cell>Partial response</cell><cell>7 (17.5%)</cell><cell>7 (18.4%)</cell></row><row><cell>Stable disease</cell><cell>23 (57.5%)</cell><cell>23 (60.5%)</cell></row><row><cell>Disease</cell><cell>8 (20.0%)</cell><cell>8 (21.1%)</cell></row><row><cell>progression</cell><cell></cell><cell></cell></row><row><cell>Overall response</cell><cell>7 (17.5%; 5.2-29.8)</cell><cell>7 (18.4%; 5.5-31.3)</cell></row><row><cell>Disease control</cell><cell>30 (75.0%; 61-89)</cell><cell>30 (78.9%; 65.4-92.5)</cell></row><row><cell cols="2">The data presented as n (%)</cell><cell></cell></row><row><cell cols="3">a Two patients were excluded because there was no post-baseline efficacy</cell></row><row><cell>assessment</cell><cell></cell><cell></cell></row></table><note></note></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot">Apatinib in patients with extensive-stage small-cell lung cancer after. . . Y Xu et al.</note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="1234567890">();,:</note>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>ACKNOWLEDGEMENTS</head><p>We thank the patients and their families who participated in this study, and we also thank Jiangsu Hengrui Pharmaceuticals Co. for providing apatinib. </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>AUTHOR CONTRIBUTIONS</head></div>
+			</div>
+
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>ADDITIONAL INFORMATION</head><p>Supplementary information is available for this paper at https://doi.org/10.1038/ s41416-019-0583-6.</p><p>Competing interests: The authors declare no competing interests.</p><p>Ethics approval and consent to participate: This study was approved by Medical Ethics Committee of Zhejiang Cancer Hospital with the committee's reference number: IRB-2016-124. The study was performed in accordance with the Declaration of Helsinki. All enrolled patients provided written informed consent before any studyspecific procedures were performed.</p><p>Funding: This is investigator initiated trial and Jiangsu Hengrui Pharmaceuticals Company provided apatinib for this study, but was not involved in the study design, data collection, analysis and interpretation, article writing, or the decision to submit for publication. All authors had full access to raw data, and the corresponding author has final responsibility for the publication submission.</p><p>Data availability: All data included in this study are available upon request by contact with the corresponding author.</p><p>Note: This work is published under the standard license to publish agreement. After 12 months the work will become freely available and the license terms will switch to a Creative Commons Attribution 4.0 International (CC BY 4.0).</p><p>Publisher's note Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.</p></div>			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">SEER data submission, posted to the SEER web site</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">N</forename><surname>Howlader</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><forename type="middle">M</forename><surname>Noone</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Krapcho</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><surname>Miller</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><surname>Bishop</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><forename type="middle">L</forename><surname>Kosary</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Cancer Statistics Review</title>
+		<imprint>
+			<date type="published" when="1975" />
+		</imprint>
+		<respStmt>
+			<orgName>National Cancer Institute</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Treatment of small cell lung cancer: diagnosis and management of lung cancer</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">R</forename><surname>Jett</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><forename type="middle">E</forename><surname>Schild</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><forename type="middle">A</forename><surname>Kesler</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">G</forename><forename type="middle">P</forename><surname>Kalemkerian</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Chest</title>
+		<imprint>
+			<biblScope unit="volume">143</biblScope>
+			<biblScope unit="page" from="400" to="419" />
+			<date type="published" when="2013" />
+		</imprint>
+	</monogr>
+	<note>3rd ed: American College of Chest Physicians evidence-based clinical practice guidelines</note>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Small cell lung cancer: where do we go from here?</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">L</forename><forename type="middle">A</forename><surname>Byers</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><forename type="middle">M</forename><surname>Rudin</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Cancer</title>
+		<imprint>
+			<biblScope unit="volume">121</biblScope>
+			<biblScope unit="page" from="664" to="672" />
+			<date type="published" when="2015" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Relapsed small cell lung cancer: treatment options and latest developments</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">N</forename><surname>Asai</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Y</forename><surname>Ohkuni</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">N</forename><surname>Kaneko</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><surname>Yamaguchi</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Kubo</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ther. Adv. Med. Oncol</title>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="page" from="69" to="82" />
+			<date type="published" when="2014" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Use of thoracic radiotherapy for extensive stage small-cell lung cancer: a phase 3 randomised controlled trial</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">B</forename><forename type="middle">J</forename><surname>Slotman</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><surname>Van Tinteren</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">O</forename><surname>Praag</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">L</forename><surname>Knegjens</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><forename type="middle">Y</forename><surname>El Sharouni</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Hatton</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Lancet</title>
+		<imprint>
+			<biblScope unit="volume">385</biblScope>
+			<biblScope unit="page" from="36" to="42" />
+			<date type="published" when="2015" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Randomized phase III trial comparing rinotecan/cisplatin with etoposide/cisplatin in patients with previously untreated extensive-stage disease small-cell lung cancer</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">N</forename><surname>Hanna</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><forename type="middle">A</forename><surname>Bunn</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Jr</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><surname>Langer</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">L</forename><surname>Einhorn</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Guthrie</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Jr</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Beck</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Clin. Oncol</title>
+		<imprint>
+			<biblScope unit="volume">24</biblScope>
+			<biblScope unit="page" from="2038" to="2043" />
+			<date type="published" when="2006" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">A multicenter international randomized phase III study comparing cisplatin in combination with irinotecan or etoposide in previously untreated small-cell lung cancer patients with extensive disease</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><surname>Zatloukal</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">F</forename><surname>Cardenal</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Szczesna</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">V</forename><surname>Gorbunova</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">V</forename><surname>Moiseyenko</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">X</forename><surname>Zhang</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ann. Oncol</title>
+		<imprint>
+			<biblScope unit="volume">21</biblScope>
+			<biblScope unit="page" from="1810" to="1816" />
+			<date type="published" when="2010" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Topotecan for relapsed small-cell lung cancer: systematic review and metaanalysis of 1347 patients</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">N</forename><surname>Horita</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Yamamoto</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Sato</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Tsukahara</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><surname>Nagakura</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><surname>Tashiro</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Sci. Rep</title>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="page">15437</biblScope>
+			<date type="published" when="2015" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Nivolumab alone and nivolumab plus ipilimumab in recurrent small-cell lung cancer (CheckMate 032): a multicentre, open-label, phase 1/2 trial</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><forename type="middle">J</forename><surname>Antonia</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">A</forename><surname>López-Martin</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Bendell</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><forename type="middle">A</forename><surname>Ott</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Taylor</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">P</forename><surname>Eder</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Lancet Oncol</title>
+		<imprint>
+			<biblScope unit="volume">17</biblScope>
+			<biblScope unit="page" from="883" to="895" />
+			<date type="published" when="2016" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Small cell lung carcinoma (SCLC): the angiogenic phenomenon</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Lucchi</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Mussi</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">G</forename><surname>Fontanini</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><surname>Faviana</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Ribechini</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><forename type="middle">A</forename><surname>Angeletti</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Eur. J. Cardiothorac. Surg</title>
+		<imprint>
+			<biblScope unit="volume">21</biblScope>
+			<biblScope unit="page" from="1105" to="1110" />
+			<date type="published" when="2002" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">High pre-treatment serum level of vascular endothelial growth factor (VEGF) is associated with poor outcome in small-cell lung cancer</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><surname>Salven</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Ruotsalainen</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><surname>Mattson</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><surname>Joensuu</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Int J. Cancer</title>
+		<imprint>
+			<biblScope unit="volume">79</biblScope>
+			<biblScope unit="page" from="144" to="146" />
+			<date type="published" when="1998" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Prognostic value of vascular endothelial growth factor expression in patients with lung cancer: a systematic review with meta-analysis</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><surname>Zhan</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Wang</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">X</forename><forename type="middle">J</forename><surname>Lv</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Q</forename><surname>Wang</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">L</forename><forename type="middle">X</forename><surname>Qiu</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">X</forename><forename type="middle">Q</forename><surname>Lin</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Thorac. Oncol</title>
+		<imprint>
+			<biblScope unit="volume">4</biblScope>
+			<biblScope unit="page" from="1094" to="1103" />
+			<date type="published" when="2009" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">The multi-targeted kinase inhibitor SU5416 inhibits small cell lung cancer growth and angiogenesis, in part by blocking Kit-mediated VEGF expression</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Litz</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">G</forename><surname>Sakuntala Warshamana-Greene</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">G</forename><surname>Sulanke</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><forename type="middle">E</forename><surname>Lipson</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">G</forename><forename type="middle">W</forename><surname>Krystal</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Lung Cancer</title>
+		<imprint>
+			<biblScope unit="volume">46</biblScope>
+			<biblScope unit="page" from="283" to="291" />
+			<date type="published" when="2004" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Human small cell lung cancer cells express functional VEGF receptors, VEGFR-2 and VEGFR-3</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Tanno</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Y</forename><surname>Ohsaki</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><surname>Nakanishi</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><surname>Toyoshima</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><surname>Kikuchi</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Lung Cancer</title>
+		<imprint>
+			<biblScope unit="volume">46</biblScope>
+			<biblScope unit="page" from="11" to="19" />
+			<date type="published" when="2004" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">Phase II study of cisplatin plus etoposide and bevacizumab for previously untreated, extensive-stage small-cell lung cancer: Eastern Cooperative Oncology Group Study E3501</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">L</forename><surname>Horn</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><forename type="middle">E</forename><surname>Dahlberg</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><forename type="middle">B</forename><surname>Sandler</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Dowlati</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><forename type="middle">F</forename><surname>Moore</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">R</forename><surname>Murren</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Clin. Oncol</title>
+		<imprint>
+			<biblScope unit="volume">27</biblScope>
+			<biblScope unit="page" from="6006" to="6011" />
+			<date type="published" when="2009" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Randomized phase II study of bevacizumab in combination with chemotherapy in previously untreated extensive-stage small-cell lung cancer: results from the SALUTE trial</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><forename type="middle">R</forename><surname>Spigel</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><forename type="middle">M</forename><surname>Townley</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><forename type="middle">M</forename><surname>Waterhouse</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">L</forename><surname>Fang</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">I</forename><surname>Adiguzel</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">E</forename><surname>Huang</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Clin. Oncol</title>
+		<imprint>
+			<biblScope unit="volume">29</biblScope>
+			<biblScope unit="page" from="2215" to="2222" />
+			<date type="published" when="2011" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Randomized phase II-III study of bevacizumab in combination with chemotherapy in previously untreated extensive small-cell lung cancer: results from the IFCT-0802 trial †</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">L</forename><surname>Pujol</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Lavole</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><surname>Quoix</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">O</forename><surname>Molinier</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><forename type="middle">J</forename><surname>Souquet</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">F</forename><surname>Barlesi</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ann. Oncol</title>
+		<imprint>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="page" from="908" to="914" />
+			<date type="published" when="2015" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Italian, multicenter, phase III, randomized study of cisplatin plus etoposide with or without bevacizumab as first-line treatment in extensive-disease small-cell lung cancer: the GOIRC-AIFA FARM6PMFJM trial</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Tiseo</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">L</forename><surname>Boni</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">F</forename><surname>Ambrosio</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Camerini</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><surname>Baldini</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Cinieri</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Clin. Oncol</title>
+		<imprint>
+			<biblScope unit="volume">35</biblScope>
+			<biblScope unit="page" from="1281" to="1287" />
+			<date type="published" when="2017" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">Chemotherapy with or without maintenance sunitinib for untreated extensivestage small-cell lung cancer: a randomized, double-blind, placebo-controlled phase II study-CALGB 30504 (Alliance)</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">N</forename><forename type="middle">E</forename><surname>Ready</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><forename type="middle">H</forename><surname>Pang</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">L</forename><surname>Gu</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">G</forename><forename type="middle">A</forename><surname>Otterson</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><forename type="middle">P</forename><surname>Thomas</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><forename type="middle">A</forename><surname>Miller</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Clin. Oncol</title>
+		<imprint>
+			<biblScope unit="volume">33</biblScope>
+			<biblScope unit="page" from="1660" to="1665" />
+			<date type="published" when="2015" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">First-line atezolizumab plus chemotherapy in extensive-stage small-cell lung cancer</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">L</forename><surname>Horn</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><forename type="middle">S</forename><surname>Mansfield</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Szczęsna</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">L</forename><surname>Havel</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Krzakowski</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">J</forename><surname>Hochmair</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">N. Engl. J. Med</title>
+		<imprint>
+			<biblScope unit="volume">379</biblScope>
+			<biblScope unit="page" from="2220" to="2229" />
+			<date type="published" when="2018" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">Apatinib combined with oral etoposide in patients with platinum-resistant or platinum-refractory ovarian cancer (AEROC): a phase 2, single-arm, prospective study</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><forename type="middle">Y</forename><surname>Lan</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Y</forename><surname>Wang</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Y</forename><surname>Xiong</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">D</forename><surname>Li</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">X</forename><surname>Shen</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Y</forename><forename type="middle">F</forename><surname>Li</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Lancet Oncol</title>
+		<imprint>
+			<biblScope unit="volume">19</biblScope>
+			<biblScope unit="page" from="1239" to="1246" />
+			<date type="published" when="2018" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">Randomized, double-blind, placebo-controlled phase III trial of apatinib in patients with chemotherapyrefractory advanced or metastatic adenocarcinoma of the stomach or gastroesophageal junction</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Li</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Qin</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Xu</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Xiong</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><surname>Wu</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Y</forename><surname>Bai</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Clin. Oncol</title>
+		<imprint>
+			<biblScope unit="volume">34</biblScope>
+			<biblScope unit="page" from="1448" to="1454" />
+			<date type="published" when="2016" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">Apatinib for chemotherapyrefractory advanced metastatic gastric cancer: results from a randomized, placebo-controlled, parallel-arm, phase II trial</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Li</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Qin</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Xu</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">W</forename><surname>Guo</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Xiong</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Y</forename><surname>Bai</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Clin. Oncol</title>
+		<imprint>
+			<biblScope unit="volume">31</biblScope>
+			<biblScope unit="page" from="3219" to="3225" />
+			<date type="published" when="2013" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title level="a" type="main">Apatinib as maintenance therapy in extensive-stage small-cell lung cancer: results from a singlecenter retrospective study</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">X</forename><surname>Yan</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Q</forename><surname>Wang</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><surname>Wang</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><surname>Li</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">G</forename><surname>Zhang</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Zhang</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Cancer Res. Clin. Oncol</title>
+		<imprint>
+			<biblScope unit="volume">145</biblScope>
+			<biblScope unit="page" from="235" to="340" />
+			<date type="published" when="2019" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title level="a" type="main">Optimal two-stage designs for phase II clinical trials</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><surname>Simon</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Control Clin. Trials</title>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="page" from="1" to="10" />
+			<date type="published" when="1989" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title level="a" type="main">Phase III trial comparing supportive care alone with supportive care with oral topotecan in patients with relapsed small-cell lung cancer</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">E</forename><surname>O'brien</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><forename type="middle">E</forename><surname>Ciuleanu</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><surname>Tsekov</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Y</forename><surname>Shparyk</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">B</forename><surname>Cuceviá</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">G</forename><surname>Juhasz</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Clin. Oncol</title>
+		<imprint>
+			<biblScope unit="volume">24</biblScope>
+			<biblScope unit="page" from="5441" to="5447" />
+			<date type="published" when="2006" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title level="a" type="main">Third-line chemotherapy for small cell lung cancer</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">W</forename><forename type="middle">K</forename><surname>De Jong</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">N</forename><forename type="middle">H</forename><surname>Ten Hacken</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><forename type="middle">J</forename><surname>Groen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Lung Cancer</title>
+		<imprint>
+			<biblScope unit="volume">52</biblScope>
+			<biblScope unit="page" from="339" to="342" />
+			<date type="published" when="2006" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+		<title level="a" type="main">Combination chemotherapy with paclitaxel and ifosfamide as the third-line regimen in patients with heavily pretreated small cell lung cancer</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Park</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">J</forename><surname>Ahn</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">S</forename><surname>Ahn</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Lee</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Y</forename><forename type="middle">S</forename><surname>Hong</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">B</forename><forename type="middle">B</forename><surname>Park</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Lung Cancer</title>
+		<imprint>
+			<biblScope unit="volume">58</biblScope>
+			<biblScope unit="page" from="116" to="122" />
+			<date type="published" when="2007" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<analytic>
+		<title level="a" type="main">Oral second-and third-line lomustine-etoposide-cyclophosphamide chemotherapy for small cell lung cancer</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">B</forename><surname>Lebeau</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><surname>Chouaïd</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Baud</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">J</forename><surname>Masanès</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Febvre</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Lung Cancer</title>
+		<imprint>
+			<biblScope unit="volume">67</biblScope>
+			<biblScope unit="page" from="188" to="193" />
+			<date type="published" when="2010" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<analytic>
+		<title level="a" type="main">Third-line chemotherapy in small-cell lung cancer: an international analysis</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><surname>Simos</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">G</forename><surname>Sajjady</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Sergi</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">S</forename><surname>Liew</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><surname>Califano</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><surname>Ho</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Clin. Lung Cancer</title>
+		<imprint>
+			<biblScope unit="volume">15</biblScope>
+			<biblScope unit="page" from="110" to="118" />
+			<date type="published" when="2014" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<analytic>
+		<title level="a" type="main">Real-world treatment patterns and outcomes of patients with small cell lung cancer progressing after 2 lines of therapy</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><forename type="middle">D</forename><surname>Coutinho</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Shah</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">O</forename><forename type="middle">E</forename><surname>Lunacsek</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Eaddy</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">P</forename><surname>Willey</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Lung Cancer</title>
+		<imprint>
+			<biblScope unit="volume">127</biblScope>
+			<biblScope unit="page" from="53" to="58" />
+			<date type="published" when="2019" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<analytic>
+		<title level="a" type="main">Efficacy and safety of oral topotecan and bevacizumab combination as second-line treatment for relapsed small-cell lung cancer: an open-label multicenter single-arm phase II study</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><forename type="middle">R</forename><surname>Spigel</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><forename type="middle">M</forename><surname>Waterhouse</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Lane</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><surname>Legenne</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><surname>Bhatt</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Clin. Lung Cancer</title>
+		<imprint>
+			<biblScope unit="volume">14</biblScope>
+			<biblScope unit="page" from="356" to="363" />
+			<date type="published" when="2013" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<analytic>
+		<title level="a" type="main">Southwest Oncology Group S0802: a randomized, phase II trial of weekly topotecan with and without ziv-aflibercept in patients with platinum-treated smallcell lung cancer</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">W</forename><surname>Allen</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Moon</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Redman</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><forename type="middle">M</forename><surname>Gadgeel</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><surname>Kelly</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><forename type="middle">C</forename><surname>Mack</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Clin. Oncol</title>
+		<imprint>
+			<biblScope unit="volume">32</biblScope>
+			<biblScope unit="page" from="2463" to="2470" />
+			<date type="published" when="2014" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<analytic>
+		<title level="a" type="main">EGFR-TKIs plus local therapy demonstrated survival benefit than EGFR-TKIs alone in EGFR-mutant NSCLC patients with oligometastatic or oligoprogressive liver metastases</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Jiang</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Q</forename><surname>Chu</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><surname>Wang</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">F</forename><surname>Zhou</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">G</forename><surname>Gao</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">X</forename><surname>Chen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Int. J. Cancer</title>
+		<imprint>
+			<biblScope unit="volume">144</biblScope>
+			<biblScope unit="page" from="2605" to="2612" />
+			<date type="published" when="2019" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<analytic>
+		<title level="a" type="main">Dual angiopoietin-2 and VEGFA inhibition elicits antitumor immunity that is enhanced by PD-1 checkpoint blockade</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Schmittnaegel</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">N</forename><surname>Rigamonti</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><surname>Kadioglu</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Cassará</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><surname>Wyser Rmili</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Kiialainen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Sci. Transl. Med</title>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="page">9670</biblScope>
+			<date type="published" when="2017" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b35">
+	<analytic>
+		<title level="a" type="main">Mutual regulation of tumour vessel normalization and immunostimulatory reprogramming</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">L</forename><surname>Tian</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Goldstein</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><surname>Wang</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><surname>Ching Lo</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">I</forename><surname>Sun Kim</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Welte</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nature</title>
+		<imprint>
+			<biblScope unit="volume">544</biblScope>
+			<biblScope unit="page" from="250" to="254" />
+			<date type="published" when="2017" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b36">
+	<analytic>
+		<title level="a" type="main">Low-dose apatinib optimizes tumor microenvironment and potentiates antitumor effect of PD-1/PD-L1 blockade in lung cancer</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Zhao</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Ren</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Jiang</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">B</forename><surname>Zhu</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">X</forename><surname>Li</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><surname>Zhao</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Cancer Immunol. Res</title>
+		<imprint>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="page" from="630" to="643" />
+			<date type="published" when="2019" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b37">
+	<analytic>
+		<title level="a" type="main">Anti-PD-1 antibody SHR-1210 combined with apatinib for advanced hepatocellular carcinoma, gastric, or esophagogastric junction cancer: an open-label, dose escalation and expansion study</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Xu</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Y</forename><surname>Zhang</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><surname>Jia</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><surname>Yue</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">L</forename><surname>Chang</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><surname>Liu</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Clin. Cancer Res</title>
+		<imprint>
+			<biblScope unit="volume">25</biblScope>
+			<biblScope unit="page" from="515" to="523" />
+			<date type="published" when="2019" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

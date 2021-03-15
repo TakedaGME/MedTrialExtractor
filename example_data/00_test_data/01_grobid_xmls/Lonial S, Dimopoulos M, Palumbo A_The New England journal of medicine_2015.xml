@@ -1,0 +1,731 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /data/rsg/nlp/juanmoo1/bin/grobid-0.6.1/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Elotuzumab Therapy for Relapsed or Refractory Multiple Myeloma</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+				<date type="published" when="2015-08-13">August 13, 2015</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><roleName>M.D</roleName><forename type="first">Sagar</forename><surname>Lonial</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Hematol-ogy and Medical Oncology</orgName>
+								<orgName type="institution" key="instit1">Winship Can-cer Institute</orgName>
+								<orgName type="institution" key="instit2">Emory University School of Medicine</orgName>
+								<address>
+									<addrLine>1365 Clifton Rd., Bldg. C, Atlan-ta</addrLine>
+									<region>GA</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><roleName>M.D</roleName><forename type="first">Meletios</forename><surname>Dimopoulos</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Hematol-ogy and Medical Oncology</orgName>
+								<orgName type="institution" key="instit1">Winship Can-cer Institute</orgName>
+								<orgName type="institution" key="instit2">Emory University School of Medicine</orgName>
+								<address>
+									<addrLine>1365 Clifton Rd., Bldg. C, Atlan-ta</addrLine>
+									<region>GA</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><roleName>M.D</roleName><forename type="first">Antonio</forename><surname>Palumbo</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Hematol-ogy and Medical Oncology</orgName>
+								<orgName type="institution" key="instit1">Winship Can-cer Institute</orgName>
+								<orgName type="institution" key="instit2">Emory University School of Medicine</orgName>
+								<address>
+									<addrLine>1365 Clifton Rd., Bldg. C, Atlan-ta</addrLine>
+									<region>GA</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><roleName>M.D</roleName><forename type="first">Darrell</forename><surname>White</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Hematol-ogy and Medical Oncology</orgName>
+								<orgName type="institution" key="instit1">Winship Can-cer Institute</orgName>
+								<orgName type="institution" key="instit2">Emory University School of Medicine</orgName>
+								<address>
+									<addrLine>1365 Clifton Rd., Bldg. C, Atlan-ta</addrLine>
+									<region>GA</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><roleName>M.D</roleName><forename type="first">Sebastian</forename><surname>Grosicki</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Hematol-ogy and Medical Oncology</orgName>
+								<orgName type="institution" key="instit1">Winship Can-cer Institute</orgName>
+								<orgName type="institution" key="instit2">Emory University School of Medicine</orgName>
+								<address>
+									<addrLine>1365 Clifton Rd., Bldg. C, Atlan-ta</addrLine>
+									<region>GA</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><roleName>Ph.D</roleName><forename type="first">Ivan</forename><surname>Spicka</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Hematol-ogy and Medical Oncology</orgName>
+								<orgName type="institution" key="instit1">Winship Can-cer Institute</orgName>
+								<orgName type="institution" key="instit2">Emory University School of Medicine</orgName>
+								<address>
+									<addrLine>1365 Clifton Rd., Bldg. C, Atlan-ta</addrLine>
+									<region>GA</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><roleName>M.D</roleName><forename type="first">Adam</forename><surname>Walter-Croneck</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Hematol-ogy and Medical Oncology</orgName>
+								<orgName type="institution" key="instit1">Winship Can-cer Institute</orgName>
+								<orgName type="institution" key="instit2">Emory University School of Medicine</orgName>
+								<address>
+									<addrLine>1365 Clifton Rd., Bldg. C, Atlan-ta</addrLine>
+									<region>GA</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><roleName>M.D</roleName><forename type="first">Philippe</forename><surname>Moreau</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Hematol-ogy and Medical Oncology</orgName>
+								<orgName type="institution" key="instit1">Winship Can-cer Institute</orgName>
+								<orgName type="institution" key="instit2">Emory University School of Medicine</orgName>
+								<address>
+									<addrLine>1365 Clifton Rd., Bldg. C, Atlan-ta</addrLine>
+									<region>GA</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><roleName>M.D</roleName><forename type="first">Maria-Victoria</forename><surname>Mateos</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Hematol-ogy and Medical Oncology</orgName>
+								<orgName type="institution" key="instit1">Winship Can-cer Institute</orgName>
+								<orgName type="institution" key="instit2">Emory University School of Medicine</orgName>
+								<address>
+									<addrLine>1365 Clifton Rd., Bldg. C, Atlan-ta</addrLine>
+									<region>GA</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><roleName>Ph.D</roleName><forename type="first">Hila</forename><surname>Magen</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Hematol-ogy and Medical Oncology</orgName>
+								<orgName type="institution" key="instit1">Winship Can-cer Institute</orgName>
+								<orgName type="institution" key="instit2">Emory University School of Medicine</orgName>
+								<address>
+									<addrLine>1365 Clifton Rd., Bldg. C, Atlan-ta</addrLine>
+									<region>GA</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><roleName>M.D</roleName><forename type="first">Andrew</forename><surname>Belch</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Hematol-ogy and Medical Oncology</orgName>
+								<orgName type="institution" key="instit1">Winship Can-cer Institute</orgName>
+								<orgName type="institution" key="instit2">Emory University School of Medicine</orgName>
+								<address>
+									<addrLine>1365 Clifton Rd., Bldg. C, Atlan-ta</addrLine>
+									<region>GA</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><roleName>M.D</roleName><forename type="first">Donna</forename><surname>Reece</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Hematol-ogy and Medical Oncology</orgName>
+								<orgName type="institution" key="instit1">Winship Can-cer Institute</orgName>
+								<orgName type="institution" key="instit2">Emory University School of Medicine</orgName>
+								<address>
+									<addrLine>1365 Clifton Rd., Bldg. C, Atlan-ta</addrLine>
+									<region>GA</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><roleName>M.D</roleName><forename type="first">Meral</forename><surname>Beksac</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Hematol-ogy and Medical Oncology</orgName>
+								<orgName type="institution" key="instit1">Winship Can-cer Institute</orgName>
+								<orgName type="institution" key="instit2">Emory University School of Medicine</orgName>
+								<address>
+									<addrLine>1365 Clifton Rd., Bldg. C, Atlan-ta</addrLine>
+									<region>GA</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><roleName>M.D</roleName><forename type="first">Andrew</forename><surname>Spencer</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Hematol-ogy and Medical Oncology</orgName>
+								<orgName type="institution" key="instit1">Winship Can-cer Institute</orgName>
+								<orgName type="institution" key="instit2">Emory University School of Medicine</orgName>
+								<address>
+									<addrLine>1365 Clifton Rd., Bldg. C, Atlan-ta</addrLine>
+									<region>GA</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><roleName>M.D</roleName><forename type="first">Heather</forename><surname>Oakervee</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Hematol-ogy and Medical Oncology</orgName>
+								<orgName type="institution" key="instit1">Winship Can-cer Institute</orgName>
+								<orgName type="institution" key="instit2">Emory University School of Medicine</orgName>
+								<address>
+									<addrLine>1365 Clifton Rd., Bldg. C, Atlan-ta</addrLine>
+									<region>GA</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><roleName>M.D</roleName><forename type="first">Robert</forename><forename type="middle">Z</forename><surname>Orlowski</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Hematol-ogy and Medical Oncology</orgName>
+								<orgName type="institution" key="instit1">Winship Can-cer Institute</orgName>
+								<orgName type="institution" key="instit2">Emory University School of Medicine</orgName>
+								<address>
+									<addrLine>1365 Clifton Rd., Bldg. C, Atlan-ta</addrLine>
+									<region>GA</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><roleName>M.D</roleName><forename type="first">Masafumi</forename><surname>Taniwaki</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Hematol-ogy and Medical Oncology</orgName>
+								<orgName type="institution" key="instit1">Winship Can-cer Institute</orgName>
+								<orgName type="institution" key="instit2">Emory University School of Medicine</orgName>
+								<address>
+									<addrLine>1365 Clifton Rd., Bldg. C, Atlan-ta</addrLine>
+									<region>GA</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><roleName>M.D</roleName><forename type="first">Christoph</forename><surname>Röllig</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Hematol-ogy and Medical Oncology</orgName>
+								<orgName type="institution" key="instit1">Winship Can-cer Institute</orgName>
+								<orgName type="institution" key="instit2">Emory University School of Medicine</orgName>
+								<address>
+									<addrLine>1365 Clifton Rd., Bldg. C, Atlan-ta</addrLine>
+									<region>GA</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><roleName>M.D</roleName><forename type="first">Hermann</forename><surname>Einsele</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Hematol-ogy and Medical Oncology</orgName>
+								<orgName type="institution" key="instit1">Winship Can-cer Institute</orgName>
+								<orgName type="institution" key="instit2">Emory University School of Medicine</orgName>
+								<address>
+									<addrLine>1365 Clifton Rd., Bldg. C, Atlan-ta</addrLine>
+									<region>GA</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><roleName>M.D</roleName><forename type="first">Ka</forename><forename type="middle">Lung</forename><surname>Wu</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Hematol-ogy and Medical Oncology</orgName>
+								<orgName type="institution" key="instit1">Winship Can-cer Institute</orgName>
+								<orgName type="institution" key="instit2">Emory University School of Medicine</orgName>
+								<address>
+									<addrLine>1365 Clifton Rd., Bldg. C, Atlan-ta</addrLine>
+									<region>GA</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><roleName>M.D</roleName><forename type="first">Anil</forename><surname>Singhal</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Hematol-ogy and Medical Oncology</orgName>
+								<orgName type="institution" key="instit1">Winship Can-cer Institute</orgName>
+								<orgName type="institution" key="instit2">Emory University School of Medicine</orgName>
+								<address>
+									<addrLine>1365 Clifton Rd., Bldg. C, Atlan-ta</addrLine>
+									<region>GA</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><roleName>Ph.D</roleName><forename type="first">Jesus</forename><surname>San-Miguel</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Hematol-ogy and Medical Oncology</orgName>
+								<orgName type="institution" key="instit1">Winship Can-cer Institute</orgName>
+								<orgName type="institution" key="instit2">Emory University School of Medicine</orgName>
+								<address>
+									<addrLine>1365 Clifton Rd., Bldg. C, Atlan-ta</addrLine>
+									<region>GA</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><roleName>M.D</roleName><forename type="first">Morio</forename><surname>Matsumoto</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Hematol-ogy and Medical Oncology</orgName>
+								<orgName type="institution" key="instit1">Winship Can-cer Institute</orgName>
+								<orgName type="institution" key="instit2">Emory University School of Medicine</orgName>
+								<address>
+									<addrLine>1365 Clifton Rd., Bldg. C, Atlan-ta</addrLine>
+									<region>GA</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><roleName>M.D</roleName><forename type="first">Jessica</forename><surname>Katz</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Hematol-ogy and Medical Oncology</orgName>
+								<orgName type="institution" key="instit1">Winship Can-cer Institute</orgName>
+								<orgName type="institution" key="instit2">Emory University School of Medicine</orgName>
+								<address>
+									<addrLine>1365 Clifton Rd., Bldg. C, Atlan-ta</addrLine>
+									<region>GA</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><roleName>Ph.D</roleName><forename type="first">Eric</forename><surname>Bleickardt</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Hematol-ogy and Medical Oncology</orgName>
+								<orgName type="institution" key="instit1">Winship Can-cer Institute</orgName>
+								<orgName type="institution" key="instit2">Emory University School of Medicine</orgName>
+								<address>
+									<addrLine>1365 Clifton Rd., Bldg. C, Atlan-ta</addrLine>
+									<region>GA</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><roleName>M.D</roleName><forename type="first">Valerie</forename><surname>Poulart</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Hematol-ogy and Medical Oncology</orgName>
+								<orgName type="institution" key="instit1">Winship Can-cer Institute</orgName>
+								<orgName type="institution" key="instit2">Emory University School of Medicine</orgName>
+								<address>
+									<addrLine>1365 Clifton Rd., Bldg. C, Atlan-ta</addrLine>
+									<region>GA</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><roleName>M.Sc</roleName><forename type="first">Kenneth</forename><forename type="middle">C</forename><surname>Anderson</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Hematol-ogy and Medical Oncology</orgName>
+								<orgName type="institution" key="instit1">Winship Can-cer Institute</orgName>
+								<orgName type="institution" key="instit2">Emory University School of Medicine</orgName>
+								<address>
+									<addrLine>1365 Clifton Rd., Bldg. C, Atlan-ta</addrLine>
+									<region>GA</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><roleName>M.D</roleName><forename type="first">Paul</forename><surname>Richardson</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Hematol-ogy and Medical Oncology</orgName>
+								<orgName type="institution" key="instit1">Winship Can-cer Institute</orgName>
+								<orgName type="institution" key="instit2">Emory University School of Medicine</orgName>
+								<address>
+									<addrLine>1365 Clifton Rd., Bldg. C, Atlan-ta</addrLine>
+									<region>GA</region>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Elotuzumab Therapy for Relapsed or Refractory Multiple Myeloma</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date type="published" when="2015-08-13">August 13, 2015</date>
+						</imprint>
+					</monogr>
+					<idno type="DOI">10.1056/NEJMoa1505654</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.6.1" ident="GROBID" when="2021-01-01T18:48+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<abstract>
+				<p>BACKGROUND Elotuzumab, an immunostimulatory monoclonal antibody targeting signaling lymphocytic activation molecule F7 (SLAMF7), showed activity in combination with lenalidomide and dexamethasone in a phase 1b-2 study in patients with relapsed or refractory multiple myeloma. METHODS In this phase 3 study, we randomly assigned patients to receive either elotuzumab plus lenalidomide and dexamethasone (elotuzumab group) or lenalidomide and dexamethasone alone (control group). Coprimary end points were progression-free survival and the overall response rate. Final results for the coprimary end points are reported on the basis of a planned interim analysis of progression-free survival. RESULTS Overall, 321 patients were assigned to the elotuzumab group and 325 to the control group. After a median follow-up of 24.5 months, the rate of progression-free survival at 1 year in the elotuzumab group was 68%, as compared with 57% in the control group; at 2 years, the rates were 41% and 27%, respectively. Median progression-free survival in the elotuzumab group was 19.4 months, versus 14.9 months in the control group (hazard ratio for progression or death in the elotuzumab group, 0.70; 95% confidence interval, 0.57 to 0.85; P&lt;0.001). The overall response rate in the elotuzumab group was 79%, versus 66% in the control group (P&lt;0.001). Common grade 3 or 4 adverse events in the two groups were lymphocytopenia, neutropenia, fatigue, and pneumonia. Infusion reactions occurred in 33 patients (10%) in the elotuzumab group and were grade 1 or 2 in 29 patients. CONCLUSIONS Patients with relapsed or refractory multiple myeloma who received a combination of elotuzumab, lenalidomide, and dexamethasone had a significant relative reduction of 30% in the risk of disease progression or death.</p>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>n engl j med 373;7 nejm.org August 13, 2015</p><p>T h e ne w e ngl a nd jou r na l o f m e dicine M ultiple myeloma, a malignant disease of monoclonal plasma cells, has a median overall survival of approximately 5 years. <ref type="bibr" target="#b0">1</ref> Despite improvements in treatment outcomes with proteasome inhibitors and immunomodulatory drugs, most patients continue to have a relapse, and new treatment approaches are needed. Combination therapy may be key to overcoming drug resistance and improving long-term treatment outcomes. Lenalidomide, an immunomodulatory drug, in combination with dexamethasone is a standard regimen in patients with relapsed or refractory disease. <ref type="bibr" target="#b1">2,</ref><ref type="bibr" target="#b2">3</ref> Three-drug combinations are emerging for patients with previously treated multiple myeloma 3 but may be limited by toxic effects. Agents with new mechanisms of action that can be combined with existing therapies without an increase in serious toxicity are needed.</p><p>Elotuzumab is a first-in-class humanized immunoglobulin G1 immunostimulatory monoclonal antibody targeted against signaling lymphocytic activation molecule F7 (SLAMF7, also called CS1 [cell-surface glycoprotein CD2 subset 1]), a glycoprotein expressed on myeloma and natural killer cells but not on normal tissues that enables selective killing of myeloma cells with minimal effects on healthy tissue. <ref type="bibr" target="#b3">4</ref> The SLAM family is a subgroup of the immunoglobulin superfamily of receptors and consists of six members (SLAM, 2B4, Ly-9, NTB-A, CD94, and SLAMF7), all located on chromosome 1q23. <ref type="bibr" target="#b4">5</ref> More than 95% of bone marrow myeloma cells express SLAMF7 in a manner that is independent of cytogenetic abnormalities. <ref type="bibr" target="#b3">4,</ref><ref type="bibr" target="#b5">6</ref> Elotuzumab exerts a dual effect by directly activating natural killer cells and mediating antibody-dependent cell-mediated cytotoxicity through the CD16 pathway. <ref type="bibr" target="#b6">7</ref> SLAMF7 mediates activating signals in natural killer cells by coupling with its adapter protein EAT-2. In myeloma cells, SLAMF7 signaling is compromised owing in part to the lack of EAT-2 expression; therefore, elotuzumab does not induce the proliferation of myeloma cells. <ref type="bibr" target="#b7">8,</ref><ref type="bibr" target="#b8">9</ref> In a single-group, phase 2 trial of elotuzumab in combination with lenalidomide and dexamethasone (Study 1703), this immunostimulatory activity translated into an improvement in progression-free survival in patients with relapsed or refractory multiple myeloma. <ref type="bibr" target="#b9">10</ref> The objective of this randomized, phase 3 trial, called ELOQUENT-2, was to evaluate the efficacy and safety of elotuzumab in combination with lenalidomide and dexamethasone, as compared with lenalidomide and dexamethasone alone, in patients with relapsed or refractory multiple myeloma. We report the results of the final analysis of the primary end points, performed after a minimum follow-up of 2 years and the occurrence of at least 70% of required events.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Me thods</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Study Design and Oversight</head><p>This open-label, multicenter trial received approval from the institutional review board or independent ethics committee at each study site before initiation. Written informed consent was obtained from all patients. The study was designed jointly by the sponsors (Bristol-Myers Squibb and AbbVie Biotherapeutics) and the investigators. The sponsors were responsible for the collection and maintenance of the data. All the authors had input into manuscript development at all stages and approved the manuscript before submission. The authors made the decision to submit the manuscript for publication and vouch for the adherence to the study protocol and for the accuracy and completeness of the reported data. Professional medical writers who were paid by Bristol-Myers Squibb contributed to the preparation of the manuscript and are not listed as authors. The protocol and statistical analysis plan are available with the full text of this article at NEJM.org.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Patients</head><p>Eligible patients were 18 years of age or older and had multiple myeloma and measurable disease. All patients had received one to three previous therapies and had documented disease progression after their most recent therapy. All patients had a creatinine clearance of 30 ml per minute or higher. Previous treatment with lenalidomide was permitted, subject to restrictions (see the Supplementary Appendix, available at NEJM.org).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Randomization and Study Treatment</head><p>Eligible patients were randomly assigned in a 1:1 ratio to receive either elotuzumab in combination with lenalidomide and dexamethasone (elotuzumab group) or lenalidomide and dexamethasone alone (control group) in 28-day cycles until disease progression, unacceptable toxicity, or withdrawal of consent ( <ref type="figure">Fig. S1</ref> in the Supple-mentary Appendix). Patients in the elotuzumab group received 10 mg of intravenous elotuzumab per kilogram of body weight on days 1, 8, 15, and 22 during the first two cycles and then on days 1 and 15 starting with the third cycle. They also received oral lenalidomide (at a dose of 25 mg per day) on days 1 through 21 of each cycle. Dexamethasone was administered orally at a dose of 40 mg during the week without elotuzumab and intravenously at a dose of 8 mg plus 28 mg orally on the day of elotuzumab administration. Patients in the control group also received 25 mg of oral lenalidomide on days 1 through 21 and 40 mg of oral dexamethasone on days 1, 8, 15, and 22.</p><p>Patients received mandatory premedication before elotuzumab infusion along with thromboembolic prophylaxis. The premedication regimen -consisting of diphenhydramine (25 to 50 mg) or its equivalent, ranitidine (50 mg) or its equivalent, and acetaminophen (650 to 1000 mg) or its equivalent -was administered 30 to 90 minutes before the elotuzumab infusion. Thromboembolic prophylaxis (e.g., aspirin, low-molecular-weight heparin, or vitamin K antagonists) was administered according to institutional guidelines or at the discretion of the investigator.</p><p>Randomization was stratified according to the baseline β 2 -microglobulin level (&lt;3.5 mg per liter vs. ≥3.5 mg per liter), the number of previous therapies (one vs. two or three), and previous immunomodulatory drug therapy (none vs. thalidomide only or other) (see the Supplementary Appendix). In total, a maximum of 10% of patients who had received previous lenalidomide therapy could enroll.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Study End Points</head><p>The coprimary end points were progression-free survival and the overall response rate (partial response or better). Key secondary end points were overall survival and the severity of pain or interference with daily life. Exploratory end points that are reported here are the time to tumor response, duration of response, health-related quality of life, and safety. The trial will continue until the final overall survival end point of 427 deaths.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Assessments</head><p>Efficacy end points were centrally assessed on the basis of the criteria of the European Group for Blood and Marrow Transplantation (see the Supplementary Appendix) and on a blinded review of tumor assessments by an independent review committee. Tumor assessments were performed every 4 weeks after the first dose of study medication until disease progression, death, or withdrawal of consent (see the Supplementary Appendix). The uniform response criteria of the International Myeloma Working Group (see the Supplementary Appendix) were incorporated into the assessment of the independent review committee for the evaluation of stringent complete response and very good partial response. Pain and health-related quality of life were assessed with the use of the Brief Pain Inventory-Short Form and the European Organisation for Research and Treatment of Cancer Quality-of-Life Questionnaire-Core 30 module (EORTC QLQ-C30) and myeloma-specific module (EORTC QLQ-MY20) (see the Supplementary Appendix).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Statistical Analysis</head><p>The two-sided type I error rates for the coprimary end points (progression-free survival and overall response rate) were 4.5% and 0.5%, respectively. We determined that 640 patients with 466 events would provide a power of 89% to detect a hazard ratio of 0.74 for disease progression or death in the elotuzumab group in the final analysis. This interim analysis was scheduled to be performed when at least 70% of the required events had been observed and after a minimum follow-up of 2 years. The alpha level for the analysis of progression-free survival (0.0239) was calculated on the basis of the occurrence of 384 of 466 events (82%) at the time of the interim analysis. An observed hazard ratio of 0.794 or less for disease progression or death indicated a statistically significant difference.</p><p>In the primary analysis of progression-free survival, we used the assessment of tumor response by the independent review committee and the primary definition of progression-free survival, for which censoring rules were applied to data for patients who received subsequent antimyeloma therapy or missed assessments (see the Supplementary Appendix). Supportive analyses for progression-free survival used the intention-totreat definition of progression-free survival, for which no censoring was applied for subsequent therapy or missing assessments (see the Supplementary Appendix) with tumor response as assessed by the investigators and the independent review committee. A multivariate Cox regression model was used to adjust progression-free survival for baseline characteristics. The final analysis for overall response rate required a minimum follow-up of 16 months (see the Supplementary Appendix). Results of the final analysis for the primary end points are reported.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>R esult s</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Patients</head><p>Patients were enrolled between June 2011 and November 2012 at 168 sites globally. In total, 646 patients underwent randomization ( <ref type="figure">Fig. S2</ref> in the Supplementary Appendix). Baseline characteristics were balanced between the two study groups ( <ref type="table" target="#tab_2">Table 1</ref>, and <ref type="table" target="#tab_2">Table S1</ref> in the Supplementary Appendix). Approximately one third of patients (35%) had resistance to their most recent line of therapy, including bortezomib (in 22% of patients) and thalidomide (10%). A total of 32% of patients had the del(17p) variant (17p deletion), which is associated with a poor outcome.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Efficacy</head><p>A total of 113 of 321 patients in the elotuzumab group (35%) and 66 of 325 patients in the control group (20%) were still receiving study treatment at the time of the cutoff date for the interim analysis on November 4, 2014. Median follow-up was 24.5 months. The study met the prespecified statistical cutoff for the coprimary end point of progression-free survival. At 1 year, the rate of progression-free survival in the elotuzumab group was 68% (95% confidence interval [CI], 63 to 73) versus 57% (95% CI, 51 to 62) in the control group; the 2-year rates were 41% (95% CI, 35 to 47) and 27% (95% CI, 22 to 33), respectively. Median progression-free survival in the elotuzumab group was 19.4 months (95% CI, 16.6 to 22.2) versus 14.9 months (95% CI, 12.1 to 17.2) in the control group, for a hazard ratio of 0.70 (95% CI, 0.57 to 0.85; P&lt;0.001), indicating a relative reduction of 30% in the risk of disease progression or death <ref type="figure">(Fig. 1A)</ref>.</p><p>In the elotuzumab group, 179 events were observed (165 progressions and 14 deaths), and in the control group, 205 events were observed (183 progressions and 22 deaths). The benefit for progression-free survival in the elotuzumab group was consistent across key subgroups, including patients 65 years of age or older and those with resistance to the most recent line of therapy, with International Staging System stage III disease, with previous exposure to bortezomib or immunomodulatory drugs, with previous stemcell transplantation, with the del(17p) variant, or with a creatinine clearance of less than 60 ml per minute <ref type="figure">(Fig. 1B)</ref>.</p><p>The benefit was also consistent across supportive analyses of progression-free survival. In the intention-to-treat population, there was a relative reduction of 32% in the risk of progressionfree survival in the elotuzumab group (hazard ratio, 0.68; 95% CI, 0.56 to 0.83) ( <ref type="table" target="#tab_5">Table S2</ref> in the Supplementary Appendix). Multivariate analysis suggested that the greatest benefit in progressionfree survival occurred among patients in whom multiple myeloma had been diagnosed 3.5 years or more before study entry (hazard ratio, 0.55; 95% CI, 0.44 to 0.70; P&lt;0.001), with a median survival of 26.0 months in the elotuzumab group versus 17.3 months in the control group.</p><p>The study also met the prespecified statistical cutoff for the coprimary end point of overall response rate. Overall response rates were 79% (95% CI, 74 to 83) in the elotuzumab group and 66% (95% CI, 60 to 71) in the control group (odds ratio for the elotuzumab group versus the control group, 1.9; 95% CI, 1.4 to 2.8; P&lt;0.001) ( <ref type="table" target="#tab_5">Table 2</ref>). In the analysis by the independent review committee, there were fewer complete responses in the elotuzumab group than in the control group. In the two study groups, the median time to best response was 2.8 months according to independent review and 3.8 months according to investigator assessment. In supportive analyses that used investigator-assessed tumor responses, the rates of complete responses were similar (11% in each group) ( <ref type="table">Table S3</ref> in the Supplementary Appendix). Furthermore, 105 of 321 patients (33%) in the elotuzumab group had a very good partial response or better, versus 91 of 325 patients (28%) in the control group. Patients in the elotuzumab group who had a partial response or better had better progression-free survival outcomes than did those with a minor response or stable disease <ref type="figure">(Fig. S3</ref> in the Supplementary Appendix). Responses were durable, particularly in the elotuzumab group (21 months; 95% CI, 18 to 27) versus the control group (17 months; 95% CI, 15 to 19) ( <ref type="figure">Fig. S4 in the Supplementary Appendix)</ref>.</p><p>Follow-up data regarding overall survival are Overall, there was no significant difference in the change from baseline in pain severity (P = 0.87) and pain interference (P = 0.81) between the elotuzumab group and the control group. EORTC QLQ-C30 findings showed that pain and fatigue were the symptoms with the highest baseline values reported by patients. There was no significant detriment to overall health-related quality of life with the addition of elotuzumab to lenalidomide and dexamethasone; similar mean changes * Cytogenetic analysis was performed at the screening visit at a central laboratory with the use of karyotyping and fluorescence in situ hybridization. There was no cutoff for del(17p) positivity; if any cell in the analyzed sample was positive for the mutation, the patient was considered to be del(17p) positive. † The International Staging System (ISS) is based on serum levels of β 2 -microglobulin and albumin as follows: stage I, β 2 -microglobulin level of less than 3.5 mg per liter and albumin level of 3.5 g per deciliter or more; stage II, β 2microglobulin level of 3.5 to less than 5.5 mg per liter or albumin level of less than 3.5 g per deciliter if the β 2microglobulin level is less than 3.5 mg per liter; and stage III, β 2 -microglobulin level of 5.5 mg per liter or more. ‡ Owing to a protocol deviation, one patient in each group had received four previous regimens.   from baseline were observed in the two groups, and patients receiving elotuzumab were able to maintain their overall health-related quality of life.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Safety</head><p>A total of 635 patients were treated. The median duration of treatment was 17 months in the elotuzumab group and 12 months in the control group; 65% and 79% of patients, respectively, discontinued treatment, most commonly owing to disease progression <ref type="figure">(Fig. S2</ref> in the Supplementary Appendix). Adverse events that were reported in 25% or more of patients in either study group are shown in <ref type="table">Table 3</ref>. Serious adverse events were reported in 65% and 57% of patients in the elotuzumab group and the control group, respectively. In the elotuzumab group, 34% of patients had grade 3 or 4 neutropenia, as compared with 44% in the control group; grade 3 or 4 lymphocytopenia was reported in 77% and 49% of patients, respectively. The mean percentage change from baseline in the absolute lymphocyte count is shown in <ref type="figure">Figure S5</ref> in the Supplementary Appendix. Rates were similar between groups for grade 3 or 4 cardiac disorders, with 4% in the elotuzumab group and 6% in the control group, and for renal disorders, with 4% in each group. In the elotuzumab group, infections were reported in 81% of patients versus 74% in the control group. After adjustment for drug exposure, rates of infection were equal in the two groups (197 events per 100 patient-years). The rate of herpes zoster infection was greater in the elotuzumab group than in the control group (incidence per 100 patient-years, 4.1 vs. 2.2); 1 patient in the control group discontinued treatment because of herpes zoster infection. Other than herpes zoster, there was no increase in the incidence of opportunistic infections.</p><p>A similar proportion of patients in each study group (2%) died from an adverse event. In the elotuzumab group, 2 patients died from infections and 1 each from pulmonary embolism, gastrointestinal cancer, and the myelodysplastic syndrome. In the control group, 5 patients died from infections and 1 from pulmonary embolism.</p><p>Infusion reactions, including pyrexia, chills, and hypertension, were reported in 33 patients (10%) receiving elotuzumab; such reactions were grade 1 or 2 in 29 patients, and no patient had a grade 4 or 5 reaction. Most infusion reactions (70%) occurred with the first dose of study therapy. Elotuzumab infusion was interrupted in 15 patients (5%) for a median of 25 minutes (range, 5 to 70, with 18 interruptions). Infusion reactions resolved in all except 2 patients (1%) who discontinued treatment because of an infusion reaction.</p><p>Of the 299 patients in the elotuzumab group who had been tested for the presence of antidrug antibodies, 6 patients (2%) had positive results before starting therapy. During elotuzumab treatment, 254 patients (85%) had negative results on testing for antidrug antibodies throughout treatment, 45 patients (15%) had positive results on at least one occasion, and 2 patients (1%) had positive results on more than two consecutive occasions.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Discussion</head><p>In patients with relapsed or refractory multiple myeloma, the addition of elotuzumab to lenalidomide and dexamethasone, as compared with lenalidomide and dexamethasone as control therapy, improved progression-free survival and the overall response rate, showing that direct activation and engagement of the innate immune system to selectively kill myeloma cells can provide clinically meaningful and statistically significant improvements in treatment outcomes. Specifically, Kaplan-Meier curves for progressionfree survival showed early and increasing separation between the two groups over time. Patients receiving elotuzumab had a relative reduction of <ref type="figure">Figure 1 (facing page)</ref>. Progression-free Survival.</p><p>Shown are the results for progression-free survival for all patients who underwent randomization in the primary analysis (Panel A) and in subgroup analyses (Panel B). The International Staging System (ISS) is based on serum levels of β 2 -microglobulin and albumin as follows: stage I, β 2 -microglobulin level of less than 3.5 mg per liter and albumin level of 3.5 g per deciliter or more; stage II, β 2 -microglobulin level of 3.5 to less than 5.5 mg per liter or albumin level of less than 3.5 g per deciliter if the β 2 -microglobulin level is less than 3.5 mg per liter; and stage III, β 2 -microglobulin level of 5.5 mg per liter or more. To convert the values for β 2 -microglobulin to nanomoles per liter, multiply by 84.750. To convert the values for creatinine clearance to milliliters per second, multiply by 0.01667. CI denotes confidence interval, and IMiD immunomodulatory drug.</p><p>The New England Journal of Medicine Downloaded from nejm.org at TAKEDA PHARMACEUTICALS GLOBAL on August 24, 2020. For personal use only. No other uses without permission.</p><p>Copyright © 2015 Massachusetts Medical Society. All rights reserved.</p><p>T h e ne w e ngl a nd jou r na l o f m e dicine 30% in the risk of disease progression or death as compared with the control group. Follow-up for survival outcomes is ongoing. The benefit of adding elotuzumab to lenalidomide and dexamethasone was observed across most prespecified subgroups, including patients with resistance to the most recent line of therapy and those who had previous exposure to immunomodulatory drugs or bortezomib, were 65 years of age or older, had received a diagnosis of multiple myeloma at least 3.5 years before study entry, or had a high-risk cytogenetic profile, particularly the presence of the del(17p) variant. The benefit with respect to progression-free survival was further confirmed by means of multiple sensitivity analyses.</p><p>There was an absolute difference of 13 percentage points in the overall response rate in favor of the elotuzumab group. Fewer complete responses were observed in the elotuzumab group than in the control group, although the rate of complete response may have been underestimated owing to the detection of therapeutic antibody on serum protein electrophoresis and immunofixa-tion assays, as has been shown in trials of daratumumab, siltuximab, and ofatumumab. <ref type="bibr" target="#b10">[11]</ref><ref type="bibr" target="#b11">[12]</ref><ref type="bibr" target="#b12">[13]</ref> Strategies are being planned to mitigate such interference in future studies. The addition of elotuzumab to lenalidomide and dexamethasone had no significant effect on patients' pain or health-related quality of life, despite being a three-drug regimen that included an intravenous drug and a premedication regimen.</p><p>Differences in patient populations and treatment history make cross-trial comparisons challenging. Progression-free survival in the phase 2 portion of the phase 1b-2 study of elotuzumab plus lenalidomide and dexamethasone was 29 months, <ref type="bibr" target="#b9">10</ref> versus 21 months for investigatordetermined progression-free survival in our study. However, patients in the earlier study were younger (median age, 63 years) and fewer had a high-risk cytogenetic profile, <ref type="bibr" target="#b9">10</ref> whereas there were more patients with coexisting illnesses in the study population described here. In the intention-to-treat analysis, the elotuzumab groups had treatment benefits that were similar to those reported in other phase 3 studies. <ref type="bibr">14</ref>  * The listed treatment responses were determined by the independent review committee. The uniform response criteria of the International Myeloma Working Group were incorporated into the assessment of the stringent complete response and very good partial response. CI denotes confidence interval, CR complete response, sCR stringent complete response, and VGPR very good partial response. † The overall response was defined as partial response or better on the basis of the criteria of the European Group for Blood and Marrow Transplantation. The odds ratio for an overall response in the elotuzumab group was 1.9 (95% CI, 1.4 to 2.8; P&lt;0.001 by the Cochran-Mantel-Haenszel chi-square test stratified according to randomization factors). ‡ Complete response rates in the elotuzumab group may be underestimated owing to interference from the presence of therapeutic antibody in results on immunofixation and serum protein electrophoresis assays. difference in median progression-free survival among patients receiving elotuzumab in our study and in other studies involving patients with multiple myeloma may reflect disparate study populations. For example, in our study, 20% of the patients were 75 years of age or older. Although few patients in our study had received previous lenalidomide treatment, more than one third of patients had resistance to previous therapy, including bortezomib or thalidomide. In addition, as noted above, our study had a high proportion of patients (30%) who had a high-risk cytogenetic profile, when defined as positive results on testing for t <ref type="bibr">(4;14)</ref> or t(14;16) or at least 60% cells with del(17p). Elotuzumab in combination with lenalidomide and dexamethasone produced modest incremental adverse events in a population in which more than half of patients were 65 years of age or older. Lymphocytopenia was observed in elotuzumab-treated patients, which may reflect alterations in lymphocyte trafficking, in-</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Event Elotuzumab Group</head><p>(N = 318)</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Control Group (N = 317)</head><p>T h e ne w e ngl a nd jou r na l o f m e dicine cluding in natural killer cells. Despite this finding, there was no evidence of increased autoimmunity or other sequelae of immune dysregulation that may be associated with immunostimulatory agents. 15 SLAMF7 expression is highest on plasma cells (malignant and normal), natural killer cells, and a subgroup of other immune cells, with no expression on other normal tissue. <ref type="bibr" target="#b3">4</ref> Although elotuzumab acts through antibody-dependent cellmediated cytotoxicity, it can also directly activate natural killer cells through SLAMF7 receptors in a process independent of the Fc portion and distinctly separate from antibody-dependent cell-mediated cytotoxicity. <ref type="bibr" target="#b6">7</ref> Elotuzumab can activate a line of natural killer cells that are deficient in CD16 (necessary for antibody-dependent cellmediated cytotoxicity), <ref type="bibr" target="#b6">7</ref> which further supports a direct immunotherapeutic role in activating nat-ural killer cells. The clinical efficacy that was noted in this trial supports the dual mechanism of action reported for elotuzumab. <ref type="bibr" target="#b6">7</ref> In conclusion, the use of elotuzumab, an immunostimulatory monoclonal antibody targeting a cell-surface receptor with both direct activation of natural killer cells and the capacity to trigger antibody-dependent cell-mediated cytotoxicity of myeloma cells, was associated with improved progression-free survival in patients with relapsed or refractory multiple myeloma in combination with lenalidomide and dexamethasone, as compared with control patients receiving lenalidomide and dexamethasone alone.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head></head><label></label><figDesc>yet mature enough to represent in graphical form. However, there were 210 deaths (94 of 318 [30%] in the elotuzumab group vs. 116 of 317 [37%] in the control group), which represent 49% of the 427 deaths that are prespecified for the final analysis.</figDesc><table /><note>The New England Journal of Medicine Downloaded from nejm.org at TAKEDA PHARMACEUTICALS GLOBAL on August 24, 2020. For personal use only. No other uses without permission.not</note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_2"><head>Table 1 . Characteristics of the Patients at Baseline (Intention-to-Treat Population).</head><label>1</label><figDesc></figDesc><table><row><cell>T h e ne w e ngl a nd jou r na l o f m e dicine</cell></row></table><note>The New England Journal of Medicine Downloaded from nejm.org at TAKEDA PHARMACEUTICALS GLOBAL on August 24, 2020. For personal use only. No other uses without permission. Copyright © 2015 Massachusetts Medical Society. All rights reserved.</note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_4"><head></head><label></label><figDesc>The</figDesc><table><row><cell></cell><cell>Elotuzumab Group</cell><cell>Control Group</cell></row><row><cell>Response</cell><cell>(N = 321)</cell><cell>(N = 325)</cell></row><row><cell>Overall response rate</cell><cell></cell><cell></cell></row><row><cell>Patients with response -no. (%) †</cell><cell>252 (79)</cell><cell>213 (66)</cell></row><row><cell>95% CI -%</cell><cell>74-83</cell><cell>60-71</cell></row><row><cell>Best overall response -no. (%)</cell><cell></cell><cell></cell></row><row><cell>Complete response (sCR + CR)</cell><cell>14 (4) ‡</cell><cell>24 (7)</cell></row><row><cell>Very good partial response</cell><cell>91 (28)</cell><cell>67 (21)</cell></row><row><cell>Combined response (sCR + CR + VGPR)</cell><cell>105 (33)</cell><cell>91 (28)</cell></row><row><cell>Partial response</cell><cell>147 (46)</cell><cell>122 (38)</cell></row><row><cell>Minimal response</cell><cell>22 (7)</cell><cell>33 (10)</cell></row><row><cell>Stable disease</cell><cell>30 (9)</cell><cell>54 (17)</cell></row><row><cell>Progressive disease</cell><cell>8 (2)</cell><cell>8 (2)</cell></row><row><cell>Could not be evaluated</cell><cell>9 (3)</cell><cell>17 (5)</cell></row></table><note></note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_5"><head>Table 2 . Treatment Response (Intention-to-Treat Population).</head><label>2</label><figDesc></figDesc><table /><note>* The New England Journal of Medicine Downloaded from nejm.org at TAKEDA PHARMACEUTICALS GLOBAL on August 24, 2020. For personal use only. No other uses without permission. Copyright © 2015 Massachusetts Medical Society. All rights reserved.</note></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot">The New England Journal of Medicine Downloaded from nejm.org at TAKEDA PHARMACEUTICALS GLOBAL on August 24, 2020. For personal use only. No other uses without permission.Copyright © 2015 Massachusetts Medical Society. All rights reserved.n engl j med 373;7 nejm.org August 13, 2015</note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot">The New England Journal of Medicine Downloaded from nejm.org at TAKEDA PHARMACEUTICALS GLOBAL on August 24, 2020. For personal use only. No other uses without permission.Copyright © 2015 Massachusetts Medical Society. All rights reserved.n engl j med 373;7 nejm.org August 13, 2015</note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot">Copyright © 2015 Massachusetts Medical Society. All rights reserved.n engl j med 373;7 nejm.org August 13, 2015</note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot">n engl j med 373;7 nejm.org August 13, 2015</note>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Supported by Bristol-Myers Squibb and AbbVie Biotherapeutics. Disclosure forms provided by the authors are available with the full text of this article at NEJM.org.</p><p>We thank the study protocol manager, Katherine Nunnick, for her support and Alyson Bexfield and Joanne Tang of Caudex for their assistance in the preparation of the manuscript.</p></div>
+			</div>
+
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Any Grade</head><p>The incidence rates of second hematologic cancers were identical in the elotuzumab and control groups (2% in each group); rates of second solid tumors were 3% and 2%, rates of nonmelanoma skin cancers were 3.1% and 1.5%, and rates of the myelodysplastic syndrome were 0.9% and 1.6%, respectively. After adjustment for exposure to study therapy, the incidence rates of second primary cancers per 100 patient-years were similar at 3.5 and 2.8, respectively. Four patients (3 in the elotuzumab group and 1 in the control group) had tumors that were diagnosed at screening or during the first cycle of therapy. † Data are based on abnormalities in results on laboratory testing.  The New England Journal of Medicine Downloaded from nejm.org at TAKEDA PHARMACEUTICALS GLOBAL on August 24, 2020. For personal use only. No other uses without permission.</p><p>Copyright © 2015 Massachusetts Medical Society. All rights reserved.</p></div>			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Cancer statistics</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><forename type="middle">L</forename><surname>Siegel</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><forename type="middle">D</forename><surname>Miller</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Jemal</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">CA Cancer J Clin</title>
+		<imprint>
+			<biblScope unit="volume">65</biblScope>
+			<biblScope unit="page" from="5" to="29" />
+			<date type="published" when="2015" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Long-term follow-up on overall survival from the MM-009 and MM-010 myeloma</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">A</forename><surname>Dimopoulos</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><surname>Chen</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Spencer</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Leukemia</title>
+		<imprint>
+			<biblScope unit="volume">23</biblScope>
+			<biblScope unit="page" from="2147" to="52" />
+			<date type="published" when="2009" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<monogr>
+		<title level="m" type="main">NCCN clinical practice guidelines in oncology: multiple myeloma, version 2</title>
+		<ptr target="http://www.nccn.org/professionals/physician_gls/f_guidelines.asp" />
+		<imprint>
+			<date type="published" when="2015" />
+		</imprint>
+	</monogr>
+	<note>National Comprehensive Cancer Network (NCCN)</note>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">CS1, a potential new therapeutic antibody target for the treatment of multiple myeloma</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><forename type="middle">D</forename><surname>Hsi</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><surname>Steinle</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">B</forename><surname>Balasa</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Clin Cancer Res</title>
+		<imprint>
+			<biblScope unit="volume">14</biblScope>
+			<biblScope unit="page" from="2775" to="84" />
+			<date type="published" when="2008" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">SLAM family receptors and SAP adaptors in immunity</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">L</forename><surname>Cannons</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><forename type="middle">G</forename><surname>Tangye</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><forename type="middle">L</forename><surname>Schwartzberg</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Annu Rev Immunol</title>
+		<imprint>
+			<biblScope unit="volume">29</biblScope>
+			<biblScope unit="page" from="665" to="705" />
+			<date type="published" when="2011" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Anti-CS1 humanized monoclonal antibody HuLuc63 inhibits myeloma cell adhesion and induces antibody-dependent cellular cytotoxicity in the bone marrow milieu</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Y</forename><forename type="middle">T</forename><surname>Tai</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Dillon</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">W</forename><surname>Song</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Blood</title>
+		<imprint>
+			<biblScope unit="volume">112</biblScope>
+			<biblScope unit="page" from="1329" to="1366" />
+			<date type="published" when="2008" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Elotuzumab directly enhances NK cell cytotoxicity against myeloma via CS1 ligation: evidence for augmented NK cell function complementing ADCC</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><forename type="middle">M</forename><surname>Collins</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><forename type="middle">E</forename><surname>Bakan</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">G</forename><forename type="middle">D</forename><surname>Swartzel</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Cancer Immunol Immunother</title>
+		<imprint>
+			<biblScope unit="volume">62</biblScope>
+			<biblScope unit="page" from="1841" to="1850" />
+			<date type="published" when="2013" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Immune cell inhibition by SLAMF7 is mediated by a mechanism requiring src kinases, CD45, and SHIP-1 that is defective in multiple myeloma cells</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><surname>Guo</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M-E</forename><surname>Cruz-Munoz</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">N</forename><surname>Wu</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Robbins</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Veillette</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Mol Cell Biol</title>
+		<imprint>
+			<biblScope unit="volume">35</biblScope>
+			<biblScope unit="page" from="41" to="51" />
+			<date type="published" when="2015" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">EAT-2, a SAP-like adaptor, controls NK cell activation through phospholipase Cγ, Ca++, and Erk, leading to granule polarization</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">L</forename><forename type="middle">A</forename><surname>Pérez-Quintero</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><surname>Roncagalli</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><surname>Guo</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Latour</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><surname>Davidson</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Veillette</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Exp Med</title>
+		<imprint>
+			<biblScope unit="volume">211</biblScope>
+			<biblScope unit="page" from="727" to="769" />
+			<date type="published" when="2014" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Final results for the 1703 phase 1b/2 study of elotuzumab in combination with lenalidomide and dexamethasone in patients with relapsed/refractory multiple myeloma</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><forename type="middle">G</forename><surname>Richardson</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Jagannath</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><surname>Moreau</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Blood</title>
+		<imprint>
+			<biblScope unit="volume">124</biblScope>
+			<biblScope unit="page">302</biblScope>
+			<date type="published" when="2014" />
+		</imprint>
+	</monogr>
+	<note>abstract</note>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Detection of a monoclonal antibody therapy (ofatumumab) by serum protein and immunofixation electrophoresis</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">R</forename><surname>Genzen</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><forename type="middle">R</forename><surname>Kawaguchi</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><forename type="middle">R</forename><surname>Furman</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Br J Haematol</title>
+		<imprint>
+			<biblScope unit="volume">155</biblScope>
+			<biblScope unit="page" from="123" to="128" />
+			<date type="published" when="2011" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Interference of monoclonal antibody therapies with serum protein electrophoresis tests</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><forename type="middle">R</forename><surname>Mccudden</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><forename type="middle">M</forename><surname>Voorhees</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><forename type="middle">A</forename><surname>Hainsworth</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Clin Chem</title>
+		<imprint>
+			<biblScope unit="volume">56</biblScope>
+			<biblScope unit="page" from="1897" to="1906" />
+			<date type="published" when="2010" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">For personal use only. No other uses without permission</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><forename type="middle">E</forename><surname>Axel</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><forename type="middle">R</forename><surname>Mccudden</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><surname>Xie</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">B</forename><forename type="middle">M</forename><surname>Hall</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><forename type="middle">K</forename><surname>Sasser</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Development of clinical The New England Journal of Medicine Downloaded from nejm.org at TAKEDA PHARMACEUTICALS GLOBAL on August</title>
+		<imprint>
+			<biblScope unit="volume">24</biblScope>
+			<biblScope unit="page">373</biblScope>
+			<date type="published" when="2015-08-13" />
+		</imprint>
+	</monogr>
+	<note>Massachusetts Medical Society. All rights reserved. n engl j med</note>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

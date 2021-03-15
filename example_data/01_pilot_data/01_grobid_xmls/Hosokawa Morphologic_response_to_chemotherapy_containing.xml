@@ -1,0 +1,536 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /data/rsg/nlp/juanmoo1/bin/grobid-0.6.1/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Morphologic response to chemotherapy containing bevacizumab in patients with colorectal liver metastases A post hoc analysis of the WJOG4407G phase III study</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author role="corresp">
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><roleName>MD</roleName><forename type="first">Ayumu</forename><surname>Hosokawa</surname></persName>
+							<email>ayhosoka@med.miyazaki-u.ac.jp</email>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Clinical Oncology</orgName>
+								<orgName type="institution">University of Miyazaki Hospital</orgName>
+								<address>
+									<region>Miyazaki</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><roleName>MD, PhD</roleName><forename type="first">Kentaro</forename><surname>Yamazaki</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="department">Division of Gastrointestinal Oncology</orgName>
+								<orgName type="institution">Shizuoka Cancer Center</orgName>
+								<address>
+									<settlement>Shizuoka</settlement>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><roleName>MD, PhD</roleName><forename type="first">Chu</forename><surname>Matsuda</surname></persName>
+							<affiliation key="aff2">
+								<orgName type="department">Department of Surgery</orgName>
+								<orgName type="institution">Osaka General Medical Center</orgName>
+								<address>
+									<settlement>Osaka</settlement>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><roleName>MD</roleName><forename type="first">Shinya</forename><surname>Ueda</surname></persName>
+							<affiliation key="aff3">
+								<orgName type="department">Department of Medical Oncology</orgName>
+								<orgName type="institution">Kindai University Nara Hospital</orgName>
+								<address>
+									<settlement>Nara</settlement>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><roleName>MD, PhD</roleName><forename type="first">Hitoshi</forename><surname>Kusaba</surname></persName>
+							<affiliation key="aff4">
+								<orgName type="department">Department of Hematology, Oncology and Cardiovascular Medicine</orgName>
+								<orgName type="institution">Kyushu University Hospital</orgName>
+								<address>
+									<settlement>Fukuoka</settlement>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><roleName>MD, PhD</roleName><forename type="first">Shu</forename><surname>Okamura</surname></persName>
+							<affiliation key="aff5">
+								<orgName type="department">Department of Surgery</orgName>
+								<orgName type="institution">Suita Municipal Hospital</orgName>
+								<address>
+									<settlement>Suita</settlement>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><roleName>MD, PhD</roleName><forename type="first">Masahiro</forename><surname>Tsuda</surname></persName>
+							<affiliation key="aff6">
+								<orgName type="department">Department of Gastroenterological Oncology</orgName>
+								<orgName type="institution">Hyogo Cancer Center</orgName>
+								<address>
+									<settlement>Hyogo</settlement>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><roleName>MD, PhD</roleName><forename type="first">Takao</forename><surname>Tamura</surname></persName>
+							<affiliation key="aff7">
+								<orgName type="department" key="dep1">Department of Medical Oncology</orgName>
+								<orgName type="department" key="dep2">Faculty of Medicine</orgName>
+								<orgName type="institution">Kindai University</orgName>
+								<address>
+									<settlement>Osakasayama</settlement>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><roleName>MD, PhD</roleName><forename type="first">Katsunori</forename><surname>Shinozaki</surname></persName>
+							<affiliation key="aff8">
+								<orgName type="department">Division of Clinical Oncology</orgName>
+								<orgName type="institution">Hiroshima Prefectural Hospital</orgName>
+								<address>
+									<settlement>Hiroshima</settlement>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><roleName>MD b ,</roleName><forename type="first">Takahiro</forename><surname>Tsushima</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="department">Division of Gastrointestinal Oncology</orgName>
+								<orgName type="institution">Shizuoka Cancer Center</orgName>
+								<address>
+									<settlement>Shizuoka</settlement>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><roleName>MD, PhD</roleName><forename type="first">Takashi</forename><surname>Tsuda</surname></persName>
+							<affiliation key="aff9">
+								<orgName type="department">Department of Clinical Oncology</orgName>
+								<orgName type="institution">St Marianna University School of Medicine</orgName>
+								<address>
+									<settlement>Kawasaki</settlement>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><roleName>MD</roleName><forename type="first">Tsuyoshi</forename><surname>Shirakawa</surname></persName>
+							<affiliation key="aff10">
+								<orgName type="department">Department of Chemotherapy</orgName>
+								<orgName type="institution">Miyazaki Prefectural Miyazaki Hospital</orgName>
+								<address>
+									<settlement>Miyazaki</settlement>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><roleName>MD l ,</roleName><forename type="first">Haruhiro</forename><surname>Yamashita</surname></persName>
+							<affiliation key="aff11">
+								<orgName type="department">Department of Clinical Oncology</orgName>
+								<orgName type="institution" key="instit1">National Hospital Organization</orgName>
+								<orgName type="institution" key="instit2">Okayama Medical Center</orgName>
+								<address>
+									<settlement>Okayama</settlement>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><roleName>PhD</roleName><forename type="first">Satoshi</forename><surname>Morita</surname></persName>
+							<affiliation key="aff12">
+								<orgName type="department">Department of Biomedical Statistics and Bioinformatics</orgName>
+								<orgName type="institution">Kyoto University Graduate School of Medicine</orgName>
+								<address>
+									<settlement>Kyoto</settlement>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><roleName>MD, PhD</roleName><forename type="first">Shuichi</forename><surname>Hironaka</surname></persName>
+							<affiliation key="aff13">
+								<orgName type="department" key="dep1">Department of Medical Oncology and Hematology</orgName>
+								<orgName type="department" key="dep2">Faculty of Medicine</orgName>
+								<orgName type="institution">Oita University</orgName>
+								<address>
+									<settlement>Yufu</settlement>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><roleName>MD</roleName><forename type="first">Kei</forename><surname>Muro</surname></persName>
+							<affiliation key="aff14">
+								<orgName type="department">Department of Clinical Oncology</orgName>
+								<orgName type="institution">Aichi Cancer Center Hospital</orgName>
+								<address>
+									<settlement>Nagoya</settlement>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Tsuda</forename><forename type="middle">M</forename><surname>Tamura</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Muro</forename><forename type="middle">K</forename><surname>Morphologic</surname></persName>
+						</author>
+						<author>
+							<affiliation key="aff15">
+								<orgName type="department">Department of Clinical Oncology</orgName>
+								<orgName type="institution">University of Miyazaki Hospital</orgName>
+								<address>
+									<postCode>5200, 889-1692</postCode>
+									<settlement>Kihara, Kiyotake</settlement>
+									<region>Miyazaki</region>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Morphologic response to chemotherapy containing bevacizumab in patients with colorectal liver metastases A post hoc analysis of the WJOG4407G phase III study</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<idno type="DOI">10.1097/MD.0000000000022060</idno>
+					<note type="submission">Received: 24 January 2020 / Received in final form: 25 July 2020 / Accepted: 5 August 2020</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.6.1" ident="GROBID" when="2020-10-09T18:38+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>bevacizumab</term>
+					<term>chemotherapy</term>
+					<term>colorectal cancer</term>
+					<term>liver metastases</term>
+					<term>morphologic response</term>
+				</keywords>
+			</textClass>
+			<abstract>
+				<p>The phase III West Japan Oncology Group (WJOG) 4407G study showed noninferiority of folinic acid, bolus/continuous fluorouracil, and irinotecan plus bevacizumab to modified folinic acid, bolus/continuous fluorouracil, and oxaliplatin 6 plus bevacizumab in progression-free survival (PFS) as first-line chemotherapy for patients with metastatic colorectal cancer. The aim of this study was to evaluate the predictive and prognostic value of morphologic response in patients with colorectal liver metastases (CLM) as a post hoc analysis of the WJOG4407G study. Morphologic response was assessed by comparing contrast-enhanced computed tomography (CT) images at baseline and week 8. Three blinded radiologists evaluated CT images and classified their response as optimal, incomplete, or no response according to the morphologic criteria. Response evaluation criteria in solid tumors (RECIST) response, early tumor shrinkage (ETS), and depth of response (DpR) were also evaluated. Among 395 patients who were eligible for efficacy analysis in the WJOG4407G study, 70 patients had liver-limited disease. We finally evaluated 55 of these patients. Optimal morphologic response was identified in 19 of 55 patients (34.5%). The median PFS was 10.7 months for patients with optimal response and 10.1 months in those with incomplete/no response (log-rank, P = .96). The median overall survival (OS) was 26.2 and 35.5 months, respectively (log-rank, P = .062). According to univariate analysis,</p>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>morphologic response was not associated with PFS or OS, whereas RECIST response was significantly associated with both PFS and OS, with ETS and DpR being associated with significantly longer PFS.</p><p>Morphologic response might be neither a predictive nor a prognostic factor in patients with CLM undergoing chemotherapy containing bevacizumab, whereas RECIST response was significantly associated with both PFS and OS.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="1.">Introduction</head><p>In patients with metastatic colorectal cancer, FOLFIRI (folinic acid, bolus/continuous fluorouracil, and irinotecan) or FOLFOX (folinic acid, bolus/continuous fluorouracil, and oxaliplatin) plus bevacizumab are considered as standard first-line chemotherapy. The phase III WJOG (West Japan Oncology Group) 4407G study showed noninferiority of FOLFIRI plus bevacizumab to modified FOLFOX6 plus bevacizumab in progression-free survival as the first-line chemotherapy for patients with metastatic colorectal cancer (mCRC). <ref type="bibr" target="#b1">[1]</ref> Recently, with the advances in chemotherapy for advanced colorectal cancer, and particularly the development of moleculartargeted agents, analyses of predictive values by various image evaluation approaches have been conducted.</p><p>Early tumor shrinkage (ETS) is defined as the relative decrease in the sum of the longest diameters of target lesions from the baseline at the first evaluation (usually week 6 or 8). A cutoff value of ETS 20% or more was significantly correlated with longer progression-free survival (PFS) and overall survival (OS) in mCRC patients who received chemotherapy with antiepidermal growth factor receptor antibody. <ref type="bibr" target="#b2">[2]</ref> Depth of response (DpR), defined as the maximum tumor shrinkage in the sum of the longest diameters of target lesions, and ETS and DpR were reported to be highly associated with PFS and OS in mCRC patients treated with first-line chemotherapy plus bevacizumab. <ref type="bibr" target="#b3">[3]</ref> Morphologic changes on enhanced computed tomography (CT) are non-size-based and have been described when assessing tumor response to chemotherapy in patients with colorectal liver metastases (CLM). Morphological response criteria are based on the evaluation of tumor attenuation and margin <ref type="bibr" target="#b4">[4]</ref> and several studies demonstrated that the morphologic response was associated with pathologic response <ref type="bibr" target="#b4">[4,</ref><ref type="bibr" target="#b5">5]</ref> and survival outcomes <ref type="bibr" target="#b4">[4]</ref><ref type="bibr" target="#b5">[5]</ref><ref type="bibr" target="#b6">[6]</ref><ref type="bibr" target="#b7">[7]</ref><ref type="bibr" target="#b8">[8]</ref> for patients with CLM undergoing chemotherapy with bevacizumab. However, these studies were retrospectively investigated at a single institution or at 2 institutions. The aim of this study was to evaluate the predictive and prognostic value of morphologic response to first-line chemotherapy containing bevacizumab in patients with CLM as a post-hoc analysis of the multicenter phase III WJOG4407G study.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.">Materials and methods</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.1.">Patient population</head><p>We selected CLM patients enrolled in the phase III WJOG4407G study. <ref type="bibr" target="#b1">[1]</ref> Patients were randomly assigned to either FOLFIRI plus bevacizumab or modified FOLFOX6 plus bevacizumab with minimization stratified by institution, adjuvant chemotherapy, and liver-limited disease. Radiological assessments were repeated every 8 weeks.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.2.">Imaging analysis</head><p>Enhanced CT images from participating centers of the WJOG4407G study were collected. Morphologic response was assessed at 8 weeks compared with baseline CT. Three blinded radiologists evaluated CT images independently and classified responses as optimal, incomplete, or none according to the morphologic criteria. <ref type="bibr" target="#b4">[4]</ref> A group 1 metastasis had homogenous hypoattenuation with a thin, sharply defined-normal liver interface. A group 3 metastasis had heterogenous attenuation with a thick, poorly defined tumor-normal liver interface. A group 2 metastasis had morphology that did not qualify for either group 1 or 3 metastasis. Optimal response was defined as a change in morphology from group 3 or group 2 to group 1 after treatment. Incomplete response was defined as a change in morphology from group 3 to group 2, and no response was defined as the tumor not changing or increasing in morphology <ref type="figure" target="#fig_0">(Fig. 1</ref>). In discordant cases in morphologic response evaluation, the images were reviewed together by radiologists and a consensus resolution was reached.</p><p>Tumor responses, ETS, and DpR were also evaluated. Responses were evaluated according to Response Evaluation Criteria in Solid Tumors (RECIST) version 1.1. ETS was defined as a 20% or more decrease in the sum of the longest diameters of target lesions at 8 weeks. DpR was defined as the percentage of maximal tumor shrinkage in the sum of the longest diameters of target lesions at the nadir as compared with baseline values.</p><p>The protocol of the present study was approved by the ethics committees of all participating institutions. This study was registered in the University Hospital Medical Information Network (UMIN) Clinical Trials Registry, number UMIN000022171.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.3.">Statistical analysis</head><p>Categorical variables were compared using the x 2 test or Fisher exact test, and continuous variables were compared using the Wilcoxon rank-sum test between the 2 groups. PFS was defined as the interval from the date of randomization to the date of confirmation of disease progression or death from any cause. OS was defined as the period from the date of randomization to the date of death from any cause. PFS and OS were calculated with the Kaplan-Meier method, and significant differences between survival curves were determined by the log-rank test. To identify predictive factors for survival, univariate analysis was performed using Cox proportional hazards model. All statistical analyses were performed with JMP version 14 (SAS Institute, Cary, NC), and P values of &lt; .05 were considered to indicate statistical significance.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.">Results</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.1.">Patients' characteristics</head><p>Of 395 patients who were eligible for efficacy analysis in the WJOG4407G study, 70 patients had liver-limited disease. Enhanced CT images of 57 (81.4%) of 70 patients from 22 participating centers were collected. However, 2 patients were excluded from this analysis because their metastases became too small (less than 10 mm in diameter) to evaluate morphologic response after chemotherapy. The characteristics of the final patient cohort (n = 55) are shown in </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.2.">Efficacy</head><p>Efficacy parameters are summarized in <ref type="table" target="#tab_2">Table 2</ref>. Among all patients, optimal response was observed in 34.5% according to morphologic response criteria. The best RECIST response observed was partial response (PR) in 60% of patients and stable disease (SD) or progressive disease (PD) in 40% of patients. RECIST response was not associated with morphologic response. Thirteen patients (39.4%) of PR and 6 patients (27.3%) of SD or PD by RECIST had optimal response (P = .35). ETS was observed in 58.2%, and the median DpR was 37.6% (range,ï¿1/2-10.4%-100%). The median PFS was 10.4 months and the median OS was 30.4 months in all patients. There were no statistically significant differences in efficacy parameters between modified FOLFOX6 plus bevacizumab and FOLFIRI plus bevacizumab. The median PFS by morphologic response was 10.7 months in patients with optimal response and 10.1 months in those with incomplete or no response (P = .96; <ref type="figure" target="#fig_1">Fig. 2A</ref>), while the median <ref type="table" target="#tab_0">Table 1</ref> Patients' characteristics (n = 55).  <ref type="figure" target="#fig_1">009; Fig. 2B</ref>).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>No. (%) of patients</head><p>The median OS by morphologic response was 26.3 months in patients with optimal response and 35.5 months in those with incomplete or no response (P = .062; <ref type="figure" target="#fig_1">Fig. 2C</ref>), while the median OS by RECIST was 36.4 months in responders and 21.9 months in nonresponders (P = .015; <ref type="figure" target="#fig_1">Fig. 2D</ref>). <ref type="table" target="#tab_3">Table 3</ref> lists the results of univariate analysis of PFS and OS. Factors related to tumor shrinkage, RECIST response, ETS, and DpR (&gt;38% vs &lt; 38%) were significant predictors for PFS, however, optimal response had no predictive significance.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.3.">Predictive factors of PFS and prognostic factors of OS</head><p>Moreover, optimal response had no prognostic significance but RECIST response was the only prognostic factor of OS.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="4.">Discussion</head><p>Several studies have reported the predictive value of morphologic response in patients with CLM who were treated with fluorouracil-based chemotherapy. <ref type="bibr" target="#b4">[4]</ref><ref type="bibr" target="#b5">[5]</ref><ref type="bibr" target="#b6">[6]</ref><ref type="bibr" target="#b7">[7]</ref><ref type="bibr" target="#b8">[8]</ref> They included CLM patients that not only had extrahepatic disease <ref type="bibr" target="#b4">[4]</ref><ref type="bibr" target="#b5">[5]</ref><ref type="bibr" target="#b6">[6]</ref><ref type="bibr" target="#b8">8]</ref> but that were also treated with fluorouracil-based chemotherapy with or without bevacizumab. <ref type="bibr" target="#b5">[5]</ref><ref type="bibr" target="#b6">[6]</ref><ref type="bibr" target="#b7">[7]</ref><ref type="bibr" target="#b8">[8]</ref> In the present study, we evaluated the predictive and prognostic value of morphologic response to firstline chemotherapy containing bevacizumab in 55 patients with liver-limited mCRC as a post-hoc analysis of a phase III trial. Enhanced CT images were collected from 22 institutions where  A possible explanation for the lack of association with morphologic response and PFS or OS might be the post-hoc analysis. An enhanced CT imaging protocol was not specified and most of the patients were evaluated using single-phase enhanced CT imaging. Although a triple-phase enhanced CT protocol was rarely used in the present study, it was suggested to improve sensitivity by allowing assessment of early and delayed phases of tumor enhancement. <ref type="bibr" target="#b4">[4]</ref> In fact, the concordance rate of optimal response or incomplete/no response in the morphologic response as assessed by 3 radiologists was 82% (45/55); therefore, there were some cases in our study in which it was difficult to evaluate morphologic response precisely.</p><p>Morphologic criteria were reported to be strongly predictive of prolonged PFS in selected 142 patients with unresectable CLM in the NO16966 study, <ref type="bibr" target="#b9">[9]</ref> a phase III randomized trial that evaluated the efficacy and safety of first-line treatment with bevacizumab and oxaliplatin-based chemotherapy. In this study, morphologic response was assessed at first (week 6) and second (week 12) restaging, and an optimal morphologic response of 19% and 46%, respectively, was observed. Although this study included 82 patients with extrahepatic metastases, morphologic response at second restaging was associated with PFS compared with morphologic response at first restaging. <ref type="bibr" target="#b10">[10]</ref> It seems that standardization of enhanced CT imaging protocols and morphologic response at second restaging may be useful in examining the significance of morphologic response.</p><p>The present study has several limitations. Although this is a multicenter study including 22 institutions, it is a post hoc analysis and it could not include approximately 20% of the patients with liver-limited mCRC. Furthermore, in our study, the number of patients was limited due to the small population. Therefore, a prospective study of a large number of patients is recommended to assess the value of morphologic response to first-line chemotherapy containing bevacizumab in patients with CLM.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="5.">Conclusion</head><p>In summary, morphologic response might be neither a predictive nor a prognostic factor in patients with liver-limited mCRC undergoing chemotherapy containing bevacizumab, whereas RECIST response was significantly associated with both PFS and OS. Further evaluation will be needed to confirm the usefulness of morphologic response in patients with CLM treated with bevacizumab in a prospective study. CI = confidence interval, DpR = depth of response, ETS = early tumor shrinkage, HR = hazard ratio, mFOLFOX6 = modified FOLFOX6, OS = overall survival, PFS = progression-free survival, PS = performance status, RECIST = response evaluation criteria in solid tumors.</p><p>Hosokawa et al. Medicine (2020) 99:36 Medicine</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>Figure 1 .</head><label>1</label><figDesc>Hosokawa et al. Medicine (2020) 99:36 Medicine Optimal, incomplete, and no morphologic response after treatment. A, Optimal response. B, Incomplete response. C, No response. Hosokawa et al. Medicine (2020) 99:36 www.md-journal.com</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head>Figure 2 .</head><label>2</label><figDesc>Kaplan-Meier curves for (A) progression-free survival by morphologic response, (B) progression-free survival by RECIST, (C) overall survival by morphologic response, and (D) overall survival by RECIST. RECIST = response evaluation criteria in solid tumors.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>Table 1</head><label>1</label><figDesc></figDesc><table><row><cell>. The median age was</cell></row><row><cell>63 years (range, 35-75 years). All patients had a good Eastern</cell></row><row><cell>Cooperative Oncology Group performance status. Fifty patients</cell></row><row><cell>(91%) had multiple liver lesions. Twenty-six patients (47%)</cell></row><row><cell>received modified FOLFOX6 plus bevacizumab and 29 (53%)</cell></row></table><note>received FOLFIRI plus bevacizumab as the first-line chemother- apy. Although FOLFIRI plus bevacizumab tended to have a higher frequency of solitary liver metastasis (P = .053), baseline characteristics were not statistically different between modified FOLFOX6 plus bevacizumab and FOLFIRI plus bevacizumab.</note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_2"><head>Table 2</head><label>2</label><figDesc>Efficacy by treatment arm. OS = overall survival, PFS = progression-free survival, RECIST = response evaluation criteria in solid tumors.</figDesc><table><row><cell>All (n = 55) 34.5% 60.0% 58.2% 37.6% (À10.4 to100.0) 10.4 30.8 mFOLFOX6 = modified FOLFOX6, Hosokawa et al. Medicine (2020) 99:36 Morphologic response Optimal response RECIST response Response rate Early tumor shrinkage &gt;20% Depth of response Median (range) PFS (mo) OS (mo)</cell><cell>mFOLFOX6 plus bevacizumab (n = 26) 34.6% 65.4% 61.5% 41.7% (0-76.1) 10.4 27.3</cell><cell>FOLFIRI plus bevacizumab (n = 29) 34.5% 55.2% 55.2% 33.4% (À10.4 to 100.0) 9.8 31.4 www.md-journal.com P value .99 .44 .63 .98 .89 .77</cell></row></table><note></note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_3"><head>Table 3</head><label>3</label><figDesc>Univariate analysis of PFS and OS.</figDesc><table><row><cell></cell><cell></cell><cell>PFS</cell><cell></cell><cell>OS</cell><cell></cell></row><row><cell></cell><cell>n</cell><cell>HR (95% CI)</cell><cell>P value</cell><cell>HR (95% CI)</cell><cell>P value</cell></row><row><cell>Age, y</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>&lt;65</cell><cell>31</cell><cell>1</cell><cell></cell><cell>1</cell><cell></cell></row><row><cell>&gt;65</cell><cell>24</cell><cell>1.05 (0.56-1.93)</cell><cell>.88</cell><cell>1.22 (0.65-2.24)</cell><cell>.53</cell></row><row><cell>PS</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>0</cell><cell>4 8</cell><cell>1</cell><cell></cell><cell>1</cell><cell></cell></row><row><cell>1</cell><cell>7</cell><cell>1.06 (0.39-2.38)</cell><cell>.90</cell><cell>1.57 (0.59-3.50)</cell><cell>.34</cell></row><row><cell>Size of metastases</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>&lt;5 cm</cell><cell>34</cell><cell>1</cell><cell></cell><cell>1</cell><cell></cell></row><row><cell>&gt;5 cm</cell><cell>21</cell><cell>1.05 (0.53-2.02)</cell><cell>.88</cell><cell>1.49 (0.76-2.83)</cell><cell>.24</cell></row><row><cell>Chemotherapy</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>mFOLFOX6</cell><cell>26</cell><cell>1</cell><cell></cell><cell>1</cell><cell></cell></row><row><cell>FOLFIRI</cell><cell>29</cell><cell>0.96 (0.52-1.78)</cell><cell>.89</cell><cell>0.92 (0.50-1.71)</cell><cell>.80</cell></row><row><cell>RECIST v1.1</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Responder</cell><cell>33</cell><cell>1</cell><cell></cell><cell>1</cell><cell></cell></row><row><cell>Nonresponder</cell><cell>22</cell><cell>2.25 (1.20-4.21)</cell><cell>.012</cell><cell>2.11 (1.13-3.94)</cell><cell>.020</cell></row><row><cell>ETS</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>&gt;20%</cell><cell>32</cell><cell>1</cell><cell></cell><cell>1</cell><cell></cell></row><row><cell>&lt;20%</cell><cell>23</cell><cell>1.94 (1.04-3.81)</cell><cell>.037</cell><cell>1.47 (0.78-2.72)</cell><cell>.23</cell></row><row><cell>DpR</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>&gt;38%</cell><cell>27</cell><cell>1</cell><cell></cell><cell>1</cell><cell></cell></row><row><cell>&lt;38%</cell><cell>28</cell><cell>2.22 (1.21-4.18)</cell><cell>.010</cell><cell>1.63 (0.88-3.06)</cell><cell>.12</cell></row><row><cell>Morphologic response</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Optimal</cell><cell>19</cell><cell>1</cell><cell></cell><cell>1</cell><cell></cell></row><row><cell>Incomplete/none</cell><cell>36</cell><cell>1.02 (0.96-1.98)</cell><cell>.96</cell><cell>0.55 (0.29-1.06)</cell><cell>.073</cell></row></table><note></note></figure>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Acknowledgments</head><p>The authors thank the patients and all the investigators who contributed to this study. The authors also thank the members of the WJOG Data Center, especially Dr Shinichiro Nakamura and Kaori Mori. They are grateful to the radiologists who evaluated</p></div>
+			</div>
+
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Author contributions</head></div>			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<monogr>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Dr</forename><surname>Dr Hideto Kawabe</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Dr Norihito</forename><surname>Gakuto Tomizawa</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Naruto</surname></persName>
+		</author>
+		<title level="m">Finally, they thank H. Nikki March, PhD</title>
+		<imprint/>
+		<respStmt>
+			<orgName>University of Toyama</orgName>
+		</respStmt>
+	</monogr>
+	<note>CT images. from Edanz Group (www.edanzediting</note>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Randomized phase III study of bevacizumab plus FOLFIRI and bevacizumab plus mFOLFOX6 as first-line treatment for patients with metastatic colorectal cancer (WJOG4407G)</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><surname>Yamazaki</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Nagase</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><surname>Tamagawa</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ann Oncol</title>
+		<imprint>
+			<biblScope unit="volume">27</biblScope>
+			<biblScope unit="page" from="1539" to="1585" />
+			<date type="published" when="2016" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Use of early tumor shrinkage to predict long-term outcome in metastatic colorectal cancer treated with cetuximab</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><surname>Piessevaux</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Buyse</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Schlichting</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Clin Oncol</title>
+		<imprint>
+			<biblScope unit="volume">31</biblScope>
+			<biblScope unit="page" from="3764" to="75" />
+			<date type="published" when="2013" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Early tumor shrinkage and depth of response predict long-term outcome in metastatic colorectal cancer patients treated with first-line chemotherapy plus bevacizumab: results from phase III TRIBE trial by the Gruppo Oncologico del Nord Ovest</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><surname>Cremolini</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">F</forename><surname>Loupakis</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><surname>Antoniotti</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ann Oncol</title>
+		<imprint>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="page" from="1188" to="94" />
+			<date type="published" when="2015" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Association of computed tomography morphologic criteria with pathologic response and survival in patients treated with bevacizumab for colorectal liver metastases</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Y</forename><forename type="middle">S</forename><surname>Chun</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">N</forename><surname>Vauthey</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><surname>Boonsirikamchai</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">JAMA</title>
+		<imprint>
+			<biblScope unit="volume">302</biblScope>
+			<biblScope unit="page" from="2338" to="2382" />
+			<date type="published" when="2009" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Radiological morphology of colorectal liver metastases after preoperative chemotherapy predicts tumor viability and postoperative outcomes</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Y</forename><surname>Nishioka</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Shindoh</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><surname>Yoshioka</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Gastrointest Surg</title>
+		<imprint>
+			<biblScope unit="volume">19</biblScope>
+			<biblScope unit="page" from="1653" to="61" />
+			<date type="published" when="2015" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Optimal morphologic response to preoperative chemotherapy: an alternate outcome end point before resection of hepatic colorectal metastases</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Shindoh</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><forename type="middle">M</forename><surname>Loyer</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Kopetz</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Clin Oncol</title>
+		<imprint>
+			<biblScope unit="volume">30</biblScope>
+			<biblScope unit="page" from="4566" to="72" />
+			<date type="published" when="2012" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Predictive value of optimal morphologic response to first-line chemotherapy in patients with colorectal liver metastases</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><surname>Yoshita</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Hosokawa</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Ueda</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Digestion</title>
+		<imprint>
+			<biblScope unit="volume">89</biblScope>
+			<biblScope unit="page" from="43" to="51" />
+			<date type="published" when="2014" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Morphologic response and tumor shrinkage as early predictive markers in unresectable colorectal liver metastases</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Masuishi</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><surname>Taniguchi</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Eto</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Anticancer Res</title>
+		<imprint>
+			<biblScope unit="volume">38</biblScope>
+			<biblScope unit="page" from="6501" to="6507" />
+			<date type="published" when="2018" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Bevacizumab in combination with oxaliplatin-based chemotherapy as first-line therapy in metastatic colorectal cancer: a randomized phase III study</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">L</forename><forename type="middle">B</forename><surname>Saltz</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Clarke</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><surname>Díaz-Rubio</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Clin Oncol</title>
+		<imprint>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="page" from="2013" to="2022" />
+			<date type="published" when="2008" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Comparison of early radiological predictors of outcome in patients with colorectal cancer with unresectable hepatic metastases treated with bevacizumab</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Mazard</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><surname>Boonsirikamchai</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">J</forename><surname>Overman</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Gut</title>
+		<imprint>
+			<biblScope unit="volume">67</biblScope>
+			<biblScope unit="page" from="1095" to="102" />
+			<date type="published" when="2018" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<monogr>
+		<title/>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Hosokawa</surname></persName>
+		</author>
+		<ptr target="36www.md-journal.com" />
+		<imprint>
+			<date type="published" when="2020" />
+			<biblScope unit="page">99</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

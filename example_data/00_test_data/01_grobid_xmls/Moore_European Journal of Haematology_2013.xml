@@ -1,0 +1,793 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /data/rsg/nlp/juanmoo1/bin/grobid-0.6.1/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Weekly intravenous bortezomib is effective and well tolerated in relapsed/refractory myeloma</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author role="corresp">
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Sally</forename><surname>Moore</surname></persName>
+							<email>salevemoore@hotmail.com</email>
+							<affiliation key="aff0">
+								<orgName type="department">Department of HaematologyUniversity College London Hospital (UCLH)</orgName>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Sangeeta</forename><surname>Atwal</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="department">Department of Haematology</orgName>
+								<orgName type="institution">Kings College Hospital (KCH)</orgName>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Sajitha</forename><surname>Sachchithanantham</surname></persName>
+							<affiliation key="aff2">
+								<orgName type="department">Department of Haematology</orgName>
+								<orgName type="institution">Worthing Hospital, Western &amp; Sussex Hospitals NHS Trust</orgName>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Matthew</forename><surname>Streetly</surname></persName>
+							<affiliation key="aff3">
+								<orgName type="department" key="dep1">Department of Haematology</orgName>
+								<orgName type="department" key="dep2">Guy&apos;s and St Thomas&apos; Trust (GSTT)</orgName>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Iftekhar</forename><surname>Khan</surname></persName>
+							<affiliation key="aff4">
+								<orgName type="department">Cancer Trials Centre</orgName>
+								<orgName type="institution">University College London</orgName>
+								<address>
+									<settlement>London</settlement>
+									<country key="GB">UK</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Laura</forename><surname>Percy</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of HaematologyUniversity College London Hospital (UCLH)</orgName>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Santosh</forename><surname>Narat</surname></persName>
+							<affiliation key="aff2">
+								<orgName type="department">Department of Haematology</orgName>
+								<orgName type="institution">Worthing Hospital, Western &amp; Sussex Hospitals NHS Trust</orgName>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Shirley</forename><surname>D'sa</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of HaematologyUniversity College London Hospital (UCLH)</orgName>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Neil</forename><surname>Rabin</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of HaematologyUniversity College London Hospital (UCLH)</orgName>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Rosalynd</forename><surname>Johnston</surname></persName>
+							<affiliation key="aff2">
+								<orgName type="department">Department of Haematology</orgName>
+								<orgName type="institution">Worthing Hospital, Western &amp; Sussex Hospitals NHS Trust</orgName>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Steve</forename><surname>Schey</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="department">Department of Haematology</orgName>
+								<orgName type="institution">Kings College Hospital (KCH)</orgName>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Kwee</forename><surname>Yong</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of HaematologyUniversity College London Hospital (UCLH)</orgName>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff5">
+								<orgName type="department">Department of Haematology</orgName>
+								<orgName type="institution">University College London Hospital</orgName>
+								<address>
+									<addrLine>250 Euston Road</addrLine>
+									<postCode>NW1 2PJ</postCode>
+									<settlement>London</settlement>
+									<country key="GB">UK</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Weekly intravenous bortezomib is effective and well tolerated in relapsed/refractory myeloma</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<idno type="DOI">10.1111/ejh.12070</idno>
+					<note type="submission">Accepted for publication 28 December 2012</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.6.1" ident="GROBID" when="2021-01-01T18:48+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<abstract>
+				<p>Objectives: Bortezomib is an effective antimyeloma therapy, but clinical benefits can be limited by neurotoxicity. In newly diagnosed, older patients, modification of the biweekly dosing schedule to weekly regimens improves tolerability whilst maintaining efficacy. There is less information on the efficacy and tolerability of weekly bortezomib regimens in the relapsed/refractory setting. Here, we report our experience of weekly intravenous bortezomib in clinical practice in relapsed/refractory patients. Methods: We analysed fifty-two patients who received weekly bortezomib for relapsed/refractory MM. Results: Thirty-one per cent of patients received bortezomib beyond first relapse. Almost all (94%) also received steroids and 48% also received an alkylator. The median cumulative dose was 22.6 mg/m 2 , and median length of treatment was 164 d. Three patients reported grade 2 sensory neuropathy, and one reported grade 3 motor neuropathy. There were no grade 4 neurotoxicities. Eighty-three per cent achieved a PR or greater, and the median PFS for the whole group was 13 months. One-year PFS and OS were 53% (95% CI 39-66.6%) and 78% (95% CI 66.7-89.6%), respectively. Conclusions: Weekly intravenous bortezomib when used in combination with steroids AE alkylator is effective in relapsed/refractory MM, producing outcomes comparable with biweekly regimens and with lower rates of peripheral neuropathy.</p>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Bortezomib is an inhibitor of the ubiquitin-proteasome pathway that is licensed for the treatment of newly diagnosed and relapsed/refractory patients with symptomatic multiple myeloma (MM), and its use in these clinical settings is well established <ref type="bibr" target="#b0">(1)</ref>. Initial reports established the efficacy of an intravenous regimen at 1.3 mg/m 2 given biweekly for 2 wk of a 21-day cycle. However, a notable side effect is the incidence of sensorimotor and autonomic peripheral neuropathy (PN), with rates of 31-60% being quoted in early studies <ref type="bibr" target="#b0">(1,</ref><ref type="bibr" target="#b1">2)</ref>.</p><p>The most debilitating manifestation of bortezomib-related PN is painful, axonal sensory neuropathy. In the seminal APEX study, the incidence of treatment-emergent PN in relapsed MM patients receiving biweekly bortezomib was 37%, of whom 9% were grade 3 or above <ref type="bibr" target="#b2">(3)</ref>. PN can impact significantly on quality of life and may lead to the curtailment of therapy. Bortezomib-related PN can, rarely, present in the first cycle, but more commonly emerges after cycle 2/3, and patients who are free from bortezomib-related PN by cycle 5 are unlikely to develop it with continued therapy <ref type="bibr" target="#b3">(4,</ref><ref type="bibr" target="#b4">5)</ref>. More recently, the adoption of careful dose and schedule adjustment protocols has improved the management of PN without negatively impacting on treatment outcome <ref type="bibr" target="#b5">(6)</ref>.</p><p>The mechanisms underlying bortezomib-induced PN remain unclear, but there is evidence of mitochondrial and endoplasmic reticulum damage in murine models <ref type="bibr" target="#b6">(7)</ref>, whilst other contributing factors may include dysregulation of mitochondrial calcium homoeostasis <ref type="bibr" target="#b7">(8)</ref>, autoimmune mechanisms and inflammation <ref type="bibr" target="#b8">(9)</ref> and blockade of nerve-growth-factor-mediated neuronal survival through the inactivation of NF-kappaB <ref type="bibr" target="#b0">(1)</ref>. Genetic predisposition also plays a prominent role <ref type="bibr" target="#b9">(10)</ref>, and it is instructive to note that many patients with MM have evidence of PN prior to therapy <ref type="bibr" target="#b4">(5)</ref>.</p><p>Several studies have reported improved tolerability and reduced toxicity of weekly intravenous bortezomib regimens in the upfront setting in non-transplant eligible patients <ref type="bibr" target="#b10">(11)</ref>. The GIMEMA group compared weekly with biweekly bortezomib in the context of VMPT with VT maintenance in newly diagnosed myeloma patients unfit for high-dose therapy and stem cell transplantation and found no difference in 3-year PFS or OS between weekly and biweekly bortezomib cohorts, with equivalent complete response rates of 30-35%. Importantly, the incidence of peripheral neuropathy was significantly lower in the once-weekly group (8% vs. 28%) with fewer patients discontinuing therapy in this group <ref type="bibr" target="#b11">(12)</ref>. A phase II trial in newly diagnosed patients comparing weekly with biweekly bortezomib as part of the CyBorD regimen found that fewer dose modifications were required with the weekly schedule, although the incidence of neuropathy was similar between the two groups <ref type="bibr" target="#b12">(13)</ref>. In comparison with these studies, information in the relapsed/refractory setting is confined to a few small studies, one of which is a dose escalation study that included biweekly regimens <ref type="bibr" target="#b13">(14)</ref>. Another study using single-agent bortezomib at 1.6 mg/m 2 weekly for 4 of 5 wk reported a response rate of 55% in 40 patients and a PFS of 9.6 months <ref type="bibr" target="#b14">(15)</ref>. A third study of weekly bortezomib and methylprednisolone in relapsed myeloma patients reported response rates of 63% with the most frequent toxicities being gastrointestinal and fatigue, and ! grade 3 PN in 2 of 29 patients <ref type="bibr" target="#b15">(16)</ref>.</p><p>Thus, the efficacy of weekly regimens in relapsed disease awaits confirmation. This is important because relapsed disease may be more aggressive and resistant, thus requiring more dose-intensive schedules for effective management. On the other hand, such patients may have more comorbidities, including persisting neurological toxicity from previous therapy. Here, we report our experience of weekly bortezomib in clinical practice in relapsed and refractory MM patients.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Patients and methods</head><p>We undertook a retrospective analysis of all patients treated on a weekly intravenous bortezomib regimen for relapsed or primary refractory MM at four centres in the UK from November 2008 to February 2011. Patient and disease characteristics <ref type="table" target="#tab_0">(Table 1)</ref>, treatment history and toxicity, disease responses and timing of relapse were determined following review of patient notes and electronic prescribing records. Patients received 4 weekly doses of 1.3 mg/m 2 over 5 wk, or 1.6 mg/m 2 over 6 wk. Thirty-six patients (69%) were either refractory to first-line treatment or received bortezomib at first relapse. Patients were monitored for toxicity using a nursing checklist that was completed at each treatment visit <ref type="bibr" target="#b16">(17)</ref>.</p><p>Response to treatment was assessed according to IMW criteria <ref type="bibr" target="#b17">(18)</ref>. Progression-free survival (PFS) and overall survival (OS) were estimated using the Kaplan-Meier method. PFS was defined as the time from the date of commencing bortezomib to the date of disease progression or death. Overall survival was defined as time from the date of commencing bortezomib to death. Side effects and toxicities were obtained from patient notes and checklists for PN symptoms that were completed at each treatment visit.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Statistics</head><p>Cox PH models were used to determine potential predictors of OS and PFS. Logistic regression methods were used to determine predictors of response (CR, VGPR, PR). Differences in duration of response between patients achieving CR/VGPR vs. PR were determined using non-parametric methods. All statistical analysis was carried out using SAS â version 9.3 on a Windows platform.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Results</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Bortezomib treatment</head><p>The median time from diagnosis to receipt of bortezomib was 32.9 months (range 0.3-238.4), and eight (15%) patients reported neuropathy (&lt;grade 2) prior to commencement of bortezomib. Forty-four patients (85%) received weekly bortezomib from the outset, whilst the remaining eight (15%) had received up to two biweekly cycles prior to commencing a weekly regimen. Forty-nine patients (94%) received bortezomib in combination with a steroid, of whom 25 (48%) also received an alkylator. Three of these 25 patients (6%) also received thalidomide (in combination with bortezomib, steroid and alkylator). Patients received a maximum of eight cycles. The median cumulative dose was 22.6 mg/m 2 (range 9.6-45.3). The median length of treatment was 164 d (range 62-427), and 22 patients (42%) had treatment delays <ref type="table" target="#tab_1">(Table 2)</ref>.</p><p>Regimen-related toxicity and treatment duration Sixteen (31%) patients reported treatment-emergent neurotoxicity ( <ref type="table" target="#tab_1">Table 2</ref>). Of these, 15 experienced sensory neuropathy (grade 1: n = 12, grade 2: n = 3). One patient reported grade 3 motor neuropathy, and other toxicities included infections (grade 3: n = 9, 17%), fatigue (grade 3: n = 4, 8%) and gastrointestinal upset (grade 3: n = 1, 2%). Haematological toxicity was reported in 19 (37%) patients, 10 of whom required blood transfusion, five required platelet transfusions, and eight experienced ! grade three neutropenia. Twenty-two patients (42%) had treatment delays. Eleven patients (21%) required bortezomib dose reduction: seven because of PN, two due to gastrointestinal toxicity, one due to fatigue and one for other reasons. Of the five patients (10%) who had previously received bortezomib, three required dose reduction, due to neuropathy, fatigue and diarrhoea. Many responding patients did not receive the maximum eight cycles. Twenty-one (40%) patients discontinued treatment because they achieved a plateau in response, of whom five (10%) proceeded to ASCT. Eight (15%) patients discontinued treatment due to a suboptimal response. Two (4%) patients stopped their therapy prematurely in the presence of ongoing response due to acute renal failure exacerbated by diarrhoea and recurrent lower respiratory tract infections at cycles 5 and 6, respectively. One (2%) patient relapsed after an interruption in treatment following a cerebrovascular accident.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Response and outcome of treatment</head><p>Forty-three (83%) patients achieved at least a PR, with 14 patients (27%) achieving a CR/VGPR ( <ref type="table" target="#tab_2">Table 3</ref>). Four of the five patients who previously received bortezomib achieved a PR. Of the 22 patients (42%) who had treatment delays, 17 (77%) achieved a PR or better response. The median time to maximum response was 12 wk <ref type="figure" target="#fig_0">(Fig. 1)</ref>. We explored predictors of outcome and found no effect of sex, disease isotype, disease stage, treatment centre or number of prior lines of therapy on the achievement of a disease response, defined either as ! VGPR or as ! PR. There was a trend towards total dose received being predictive of response, defined as ! VGPR (P = 0.087).</p><p>The median length of follow-up was 15.25 months (range 4.8-33.7). The median PFS was 13.0 months (95% CI 10.3-14.1) and median OS 23.7 months (95% CI 17.3-NR) <ref type="figure" target="#fig_1">(Fig. 2)</ref>. For patients achieving CR/VGPR, the median PFS was 15.6 months (95% CI 13.8-17.4). The estimated 1-year PFS is 52.8% (95% CI 39-66.6%) and OS 78.2% (95% CI 66.7-89.6%). Sex (P = 0.001), disease stage (P = 0.023) and achievement of CR/VGPR (P = 0.033), but not total dose nor treatment duration, are predictive of PFS. Total dose is predictive of OS (P = 0.032).  </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Discussion</head><p>The major finding reported here is that weekly intravenous bortezomib, when used in combination with steroid AE alkylator, is effective treatment for relapsed/refractory MM, producing response rates and PFS outcomes that appear to be equivalent to biweekly regimens. Our response rate of 83% is similar to that reported for other weekly regimens (55-85%). As a retrospective study, our population is heterogeneous containing an older population, with a median age of 72 yr. In addition, 16 patients (31%) received bortezomib at second relapse or later, five (10%) had previously received bortezomib and eight (17%) reported neuropathy prior to treatment initiation. In this context, our series is notable for the very low neurotoxicity: only one (2%) grade 3 and none grade 4, and correspondingly low rate of dose reductions and treatment discontinuation due to toxicity. Reporting of neurotoxicity was reliable as all four centres completed a toxicity checklist at every treatment visit <ref type="bibr" target="#b16">(17)</ref>. Of the eight patients who reported PN prior to commencing bortezomib, three (38%) required a dose reduction due to worsening PN, but nonetheless seven (88%) achieved at least a PR.</p><p>Lower rates of PN in our study may relate to the lower dose intensity of bortezomib. The average treatment dose intensity received by our patients (0.99 mg/m 2 /week) is lower than that delivered with biweekly protocols (1.73 mg/ m 2 /week), yet this did not negatively impact on treatment outcomes. In keeping with a lower dose intensity, the median total dose (22.6 mg/m 2 ) is equivalent to approximately 4.5 cycles of biweekly drug. Interestingly, treatment duration influenced OS, but not PFS or disease response, although this needs confirmation in a larger prospective study.</p><p>Nearly half our patients received the triplet regimen of bortezomib, cyclophosphamide and dexamethasone, and our response rates compare favourably with published reports of this regimen in a biweekly setting. A MD Anderson study reported an overall response rate ( ! PR) of 73%, with a PN incidence of 55% (grades 1-2) in 44 patients treated with cyclophosphamide on days 1-4, together with biweekly bortezomib 1.3 mg/m 2 on days 1, 4, 8 and 11 and dexamethasone 20 mg on days 1-4, 8-11 and 17-21 of a 4-week cycle <ref type="bibr" target="#b18">(19)</ref>. Two smaller studies of 16 and 18 patients each, respectively, again with biweekly bortezomib, reported ORR of 75% <ref type="bibr" target="#b19">(20)</ref> and 83% <ref type="bibr" target="#b20">(21)</ref>. Notably, in the former study <ref type="bibr" target="#b19">(20)</ref>, 38% of patients had treatment discontinuation and 31%  treatment delays for PN, whilst that latter study <ref type="bibr" target="#b20">(21)</ref> reported 17% grade 4 PN and 17% dose reductions for grade 2/3 PN. The lower neurotoxicity in the MD Anderson study <ref type="bibr" target="#b18">(19)</ref> may relate to the fact that many of their patients transferred to a weekly bortezomib regimen after three cycles. A more recent study of 67 patients treated with biweekly bortezomib, dexamethasone and cyclophosphamide reported an ORR of 88%, with a PFS of 13.6 months and 3% grade 3 PN <ref type="bibr" target="#b21">(22)</ref>. However, it is notable that 54% of our patients did not receive an alkylating agent with their weekly schedule. In addition, although the numbers are small, our data suggest that neither treatment delay nor previous exposure to bortezomib negatively affects response.</p><p>A phase III study from the IFM group recently reported equivalent efficacy and improved tolerability of single-agent subcutaneous bortezomib, compared with intravenous bortezomib, in relapsed myeloma, when both were administered as a biweekly regimen <ref type="bibr" target="#b22">(23)</ref>. In this study, dexamethasone was added for non-responding patients after cycle 4. This study reported lower rates of ! grade 3 neurotoxicity in the subcutaneous bortezomib group, whilst disease responses were not influenced by route of administration. In this context, our weekly triplet drug regimens produced similar outcomes (median PFS of 13 months (95% CI 10.3-14.1%) vs. 10.4 months, 1-year OS of 78% (95% CI 66.7-89.6%) vs. 72.6%) when compared with the patients who received subcutaneous bortezomib. Importantly, we observed a similar toxicity profile to that of biweekly subcutaneous administration <ref type="table" target="#tab_3">(Table 4)</ref>.</p><p>The study by Moreau and colleagues <ref type="bibr" target="#b22">(23)</ref> indicates that the subcutaneous route allows the delivery of biweekly regimens more safely and with equivalent efficacy. However, our results suggest that similar benefits can be achieved by a less dose-intense weekly intravenous schedule of bortezomib when used in combination with dexamethasone and an alkylator. Similar disease responses may be achieved using weekly subcutaneous bortezomib, with perhaps even better tolerability, an important consideration in the very elderly and frail patients. It remains to be established whether combination therapy employing subcutaneous biweekly bortezomib will achieve superior outcomes, such as to justify the additional expense. Our results here would suggest that, at least in the relapsed setting, the less intense weekly schedule is as effective, despite delivering a lower total treatment dose.</p><p>We conclude that weekly intravenous bortezomib offers a viable alternative to biweekly regimens in relapsed and refractory myeloma. Additionally, it confers lower treatmentrelated toxicity, similar to that reported with subcutaneous biweekly bortezomib, which is most likely secondary to a decrease in dose intensity. We report that weekly bortezomib regimens enable the majority of patients with refractory or relapsed disease to achieve a good response with minimal treatment-related toxicity, allowing patients to remain on therapy for longer, and with good disease control. </p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>Figure 1</head><label>1</label><figDesc>Time to maximum response on the left with waterfall plot on the right illustrating percentage change in M-band.Cumulative time to maximum response for all patients achieving at least PR and maximal percentage change in serum paraprotein, serum-free light chain or urinary light chain excretion for all patients.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head>Figure 2</head><label>2</label><figDesc>Kaplan-Meier estimate of progression-free and overall survival of all patients.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>Table 1</head><label>1</label><figDesc>Patient characteristics</figDesc><table><row><cell>All patients</cell></row><row><cell>n = 52</cell></row></table><note>1 Five patients had previously received bortezomib.</note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_1"><head>Table 2</head><label>2</label><figDesc>Treatment details and toxicities</figDesc><table><row><cell></cell><cell>All patients</cell></row><row><cell></cell><cell>n = 52</cell></row><row><cell>Commencement of regimen, n (%):</cell><cell></cell></row><row><cell>From outset</cell><cell>44 (85)</cell></row><row><cell>Post 1 biweekly</cell><cell>3 (6)</cell></row><row><cell>Post 2 biweekly</cell><cell>5 (10)</cell></row><row><cell>Bortezomib combination therapy, n (%):</cell><cell></cell></row><row><cell>Single-agent bortezomib</cell><cell>2 (4)</cell></row><row><cell>Plus steroid</cell><cell>24 (46)</cell></row><row><cell>Plus alkylator</cell><cell>1 (2)</cell></row><row><cell>Plus steroid and alkylator</cell><cell>25 (48)</cell></row><row><cell>Median total bortezomib dose, mg/m 2 (range)</cell><cell>22.6 (9.6-45.3)</cell></row><row><cell>Dose intensity, mg/m 2 /week</cell><cell>Average: 0.99</cell></row><row><cell>Median length of treatment, days (range)</cell><cell>164 (62-427)</cell></row><row><cell>Treatment delays, n (%)</cell><cell>22 (42)</cell></row><row><cell>Dose reduction, n (%)</cell><cell>11 (21)</cell></row><row><cell>Reasons for dose reduction, n (%):</cell><cell></cell></row><row><cell>Neuropathy</cell><cell>7 (13)</cell></row><row><cell>Gastrointestinal side effects</cell><cell>2 (4)</cell></row><row><cell>Fatigue</cell><cell>1 (2)</cell></row><row><cell>Unknown</cell><cell>1 (2)</cell></row><row><cell>Toxicities, n (%):</cell><cell></cell></row><row><cell>Haematological (grades 3-4)</cell><cell>19 (37)</cell></row><row><cell>Infections</cell><cell>9 (17)</cell></row><row><cell>Neuropathy (all grades)</cell><cell>16 (31)</cell></row><row><cell>Constitutional (grades 3-4)</cell><cell>4 (8)</cell></row><row><cell>Gastrointestinal (grades 3-4)</cell><cell>1 (2)</cell></row><row><cell>Treatment curtailed due to toxicity, n (%)</cell><cell>3 (6)</cell></row></table><note></note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_2"><head>Table 3</head><label>3</label><figDesc>Disease response</figDesc><table><row><cell>All patients</cell></row><row><cell>n = 52</cell></row></table><note></note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_3"><head>Table 4</head><label>4</label><figDesc>Comparison of biweekly subcutaneous bortezomib (IFM study) and weekly intravenous regimens (this report).</figDesc><table><row><cell></cell><cell>Biweekly</cell><cell>Weekly</cell></row><row><cell></cell><cell>subcutaneous</cell><cell>intravenous</cell></row><row><cell></cell><cell>bortezomib</cell><cell>bortezomib</cell></row><row><cell></cell><cell>(Moreau)</cell><cell>(this study)</cell></row><row><cell>Survival</cell><cell></cell><cell></cell></row><row><cell>Median progression-free</cell><cell>10.4 months</cell><cell>13.0 months</cell></row><row><cell>survival</cell><cell></cell><cell></cell></row><row><cell>1-year overall survival, %</cell><cell>72.6</cell><cell>78</cell></row><row><cell>Dose reduction, %</cell><cell>31</cell><cell>20</cell></row><row><cell>Treatment-related toxicities, %</cell><cell></cell><cell></cell></row><row><cell cols="2">Haematological (grade 3 and above)</cell><cell></cell></row><row><cell>Thrombocytopenia</cell><cell>13</cell><cell>12</cell></row><row><cell>Neutropenia</cell><cell>18</cell><cell>15</cell></row><row><cell>Anaemia</cell><cell>12</cell><cell>20</cell></row><row><cell>Peripheral neuropathy, %</cell><cell></cell><cell></cell></row><row><cell>All grades</cell><cell>38</cell><cell>31</cell></row><row><cell>Grade 3 and above</cell><cell>6</cell><cell>2</cell></row></table><note></note></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot">© 2013 John Wiley &amp; Sons A/S European Journal of Haematology 90 (420-425)</note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot">© 2013 John Wiley &amp; Sons A/S</note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot">© 2013 John Wiley &amp; Sons A/SWeekly intravenous bortezomibMoore et al.</note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="424">© 2013 John Wiley &amp; Sons A/SWeekly intravenous bortezomibMoore et al.</note>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Acknowledgement</head><p>This work was supported by the UCL/UCLH comprehensive biomedical research centre.</p></div>
+			</div>
+
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">A phase 2 study of bortezomib in relapsed, refractory myeloma</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><forename type="middle">G</forename><surname>Richardson</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">B</forename><surname>Barlogie</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Berenson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">N Engl J Med</title>
+		<imprint>
+			<biblScope unit="volume">348</biblScope>
+			<biblScope unit="page" from="2609" to="2626" />
+			<date type="published" when="2003" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">A phase 2 study of two doses of bortezomib in relapsed or refractory myeloma</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Jagannath</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">B</forename><surname>Barlogie</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Berenson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Br J Haematol</title>
+		<imprint>
+			<biblScope unit="volume">127</biblScope>
+			<biblScope unit="page" from="165" to="72" />
+			<date type="published" when="2004" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Bortezomib or high-dose dexamethasone for relapsed multiple myeloma</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><forename type="middle">G</forename><surname>Richardson</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><surname>Sonneveld</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">W</forename><surname>Schuster</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">N Engl J Med</title>
+		<imprint>
+			<biblScope unit="volume">352</biblScope>
+			<biblScope unit="page" from="2487" to="98" />
+			<date type="published" when="2005" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Bortezomib plus melphalan and prednisone for initial treatment of multiple myeloma</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">F</forename><surname>San Miguel</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><surname>Schlag</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">N</forename><forename type="middle">K</forename><surname>Khuageva</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">N Eng J Med</title>
+		<imprint>
+			<biblScope unit="volume">359</biblScope>
+			<biblScope unit="page" from="906" to="923" />
+			<date type="published" when="2008" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Single-agent bortezomib in previously untreated multiple myeloma: efficacy, characterization of peripheral neuropathy, and molecular correlations with response and neuropathy</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><forename type="middle">G</forename><surname>Richardson</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">W</forename><surname>Xie</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><surname>Mitsiades</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Clin Oncol</title>
+		<imprint>
+			<biblScope unit="volume">27</biblScope>
+			<biblScope unit="page" from="3518" to="3543" />
+			<date type="published" when="2009" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Reversibility of symptomatic peripheral neuropathy with bortezomib in the phase III APEX trial in relapsed multiple myeloma: impact of a dose-modification guideline</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><forename type="middle">G</forename><surname>Richardson</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><surname>Sonneveld</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">W</forename><surname>Schuster</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Br J Haematol</title>
+		<imprint>
+			<biblScope unit="volume">144</biblScope>
+			<biblScope unit="page" from="895" to="903" />
+			<date type="published" when="2009" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Bortezomib-induced peripheral neuropathy: a neurophysiological and pathological study in the rat</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">G</forename><surname>Cavaletti</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Gilardini</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Canta</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Exp Neurol</title>
+		<imprint>
+			<biblScope unit="volume">204</biblScope>
+			<biblScope unit="page" from="317" to="342" />
+			<date type="published" when="2007" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Mitochondrial -mediated disregulation of Ca2+ is a critical determinant of Velcade (PS-341/bortezomib) cytotoxicity in myeloma cell lines</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><forename type="middle">H</forename><surname>Landowski</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><forename type="middle">J</forename><surname>Megli</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><forename type="middle">D</forename><surname>Nullmeyer</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><forename type="middle">M</forename><surname>Lynch</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><forename type="middle">T</forename><surname>Dorr</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Cancer Res</title>
+		<imprint>
+			<biblScope unit="volume">65</biblScope>
+			<biblScope unit="page" from="3828" to="3864" />
+			<date type="published" when="2005" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Immune-mediated neuropathies in myeloma patients treated with bortezomib</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Ravaglia</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Corso</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">G</forename><surname>Piccolo</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Clin Neurophysiol</title>
+		<imprint>
+			<biblScope unit="volume">119</biblScope>
+			<biblScope unit="page" from="2507" to="2519" />
+			<date type="published" when="2008" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Mechanisms of peripheral neuropathy associated with bortezomib and vincristine in patients with newly diagnosed multiple myeloma: a prospective analysis of data from the HOVON-65/GMMG-HD4 trial</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Broyl</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><forename type="middle">L</forename><surname>Corthals</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Jlm</forename><surname>Jongen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Lancet Oncol</title>
+		<imprint>
+			<biblScope unit="volume">11</biblScope>
+			<biblScope unit="page" from="1057" to="65" />
+			<date type="published" when="2010" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Bortezomib plus melphalan and prednisone in elderly untreated patients with multiple myeloma: results of a multicenter phase I/II study</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">V</forename><surname>Mateos</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">M</forename><surname>Hernandez</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">T</forename><surname>Hernandez</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Blood</title>
+		<imprint>
+			<biblScope unit="volume">108</biblScope>
+			<biblScope unit="page" from="2165" to="72" />
+			<date type="published" when="2006" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Efficacy and safety of once-weekly bortezomib in multiple myeloma patients</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Bringhen</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Larocca</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><surname>Rossi</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Blood</title>
+		<imprint>
+			<biblScope unit="volume">116</biblScope>
+			<biblScope unit="page" from="4745" to="53" />
+			<date type="published" when="2010" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Once-versus twiceweekly bortezomib induction therapy with CyBorD in newly diagnosed multiple myeloma</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><surname>Reeder</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><forename type="middle">E</forename><surname>Reece</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">V</forename><surname>Kukreti</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Blood</title>
+		<imprint>
+			<biblScope unit="volume">115</biblScope>
+			<biblScope unit="page" from="3416" to="3433" />
+			<date type="published" when="2010" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Phase I-II trial of bortezomib plus oral cyclophosphamide and prednisone in relapsed and refractory multiple myeloma</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><forename type="middle">E</forename><surname>Reece</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">G</forename><forename type="middle">P</forename><surname>Rodriguez</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><surname>Chen</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Trudel</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">V</forename><surname>Kukreti</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Mikhael</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Pantoja</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">W</forename><surname>Xu</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><forename type="middle">K</forename><surname>Stewart</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Clin Oncol</title>
+		<imprint>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="page" from="4777" to="83" />
+			<date type="published" when="2008" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">Weekly treatment with bortezomib for patients with recurrent or refractory multiple myeloma</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">D</forename><surname>Hainsworth</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><forename type="middle">R</forename><surname>Spigel</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Barton</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><surname>Farley</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Schreeder</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Hon</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">F</forename><forename type="middle">A</forename><surname>Greco</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Cancer</title>
+		<imprint>
+			<biblScope unit="volume">113</biblScope>
+			<biblScope unit="page" from="765" to="71" />
+			<date type="published" when="2008" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Weekly bortezomib/methylprednisolone is effective and well tolerated in relapsed myeloma</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Suvannasankha</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">G</forename><forename type="middle">G</forename><surname>Smith</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">B</forename><forename type="middle">E</forename><surname>Juliar</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><surname>Abonour</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Clin Lymphoma Myeloma</title>
+		<imprint>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="page" from="131" to="135" />
+			<date type="published" when="2006" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Haemato-oncology Task Force of British Committee for Standards in Haematology (BCSH) and UK Myeloma Forum. Guidelines for the diagnosis and management of multiple myeloma</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">M</forename><surname>Bird</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><forename type="middle">G</forename><surname>Owen</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><surname>Sa</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Br J Haematol</title>
+		<imprint>
+			<biblScope unit="volume">154</biblScope>
+			<biblScope unit="page" from="32" to="75" />
+			<date type="published" when="2011" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">The role of anatomic and functional staging in myeloma: description of Durie/Salmon plus staging system</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Bgm</forename><surname>Durie</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Eur J Cancer</title>
+		<imprint>
+			<biblScope unit="volume">42</biblScope>
+			<biblScope unit="page" from="1539" to="1582" />
+			<date type="published" when="2006" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">Bortezomib-cyclophosphamide-dexamethasone for relapsing multiple myeloma</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">W</forename><surname>Fu</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><surname>Delasalle</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Wang</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Song</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Hou</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><surname>Alexanian</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Wang</surname></persName>
+		</author>
+		<idno>doi: 10. 1097/COC.0b013e31822043f6</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Am J Clin Oncol</title>
+		<imprint>
+			<date type="published" when="2011" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">The combination of cyclophosphamide, velcade and dexamethasone (CVD) induces high response rates with comparable toxicity to velcade alone (V) and velcade plus dexamethasone (VD)</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">F</forename><forename type="middle">E</forename><surname>Davies</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><surname>Wu</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Jenner</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Srikanth</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><surname>Saso</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">G</forename><forename type="middle">J</forename><surname>Morgan</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Haematologica</title>
+		<imprint>
+			<biblScope unit="volume">92</biblScope>
+			<biblScope unit="page" from="1149" to="50" />
+			<date type="published" when="2007" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">Frail elderly patients with relapsed-refractory multiple myeloma: efficacy and toxicity profile of the combination of bortezomib, high dose dexamethasone, and low-dose oral cyclophosphamide</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">G</forename><surname>Mele</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Giannotta</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Pinna</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">G</forename><surname>Loseto</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">R</forename><surname>Coppi</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><forename type="middle">M</forename><surname>Brocca</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Quarta</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">G</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Leuk Lymphoma</title>
+		<imprint>
+			<biblScope unit="volume">51</biblScope>
+			<biblScope unit="page" from="937" to="977" />
+			<date type="published" when="2010" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">A comparison of bortezomib, cyclophosphamide and dexamethasone (Vel-CD) chemotherapy without and with thalidomide (Vel-CTD) for the treatment of relapsed or refractory multiple myeloma</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">S</forename><surname>Ahn</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><forename type="middle">H</forename><surname>Yang</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><forename type="middle">H</forename><surname>Jung</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><forename type="middle">C</forename><surname>Park</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">H</forename><surname>Moon</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><forename type="middle">K</forename><surname>Sohn</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><forename type="middle">Y</forename><surname>Bae</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Y</forename><forename type="middle">K</forename><surname>Kim</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><forename type="middle">J</forename><surname>Kim</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">J</forename><surname>Lee</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/s00277-012-1420-7</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Ann Hematol</title>
+		<imprint>
+			<date type="published" when="2012" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">Subcutaneous versus intravenous administration of bortezomib in patients with relapsed multiple myeloma: a randomised, phase 3, non-inferiority study</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><surname>Moreau</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><surname>Pylypenko</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Grosicki</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Lancet Oncol</title>
+		<imprint>
+			<biblScope unit="volume">12</biblScope>
+			<biblScope unit="page" from="431" to="471" />
+			<date type="published" when="2011" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

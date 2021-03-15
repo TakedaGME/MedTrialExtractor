@@ -1,0 +1,849 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /data/rsg/nlp/juanmoo1/bin/grobid-0.6.1/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Pemetrexed, Bevacizumab, or the Combination As Maintenance Therapy for Advanced Nonsquamous Non-Small-Cell Lung Cancer: ECOG-ACRIN 5508</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><roleName>MD</roleName><forename type="first">Suresh</forename><forename type="middle">S</forename><surname>Ramalingam</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><roleName>PhD</roleName><forename type="first">Suzanne</forename><forename type="middle">E</forename><surname>Dahlberg</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Dana-Farber Cancer Institute</orgName>
+								<address>
+									<settlement>Boston</settlement>
+									<region>MA</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><roleName>MD</roleName><forename type="first">Chandra</forename><forename type="middle">P</forename><surname>Belani</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="institution">Penn State Health Milton S. Hershey Medical Center</orgName>
+								<address>
+									<settlement>Hershey</settlement>
+									<region>PA</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><roleName>MD</roleName><forename type="first">Joel</forename><forename type="middle">N</forename><surname>Saltzman</surname></persName>
+							<affiliation key="aff2">
+								<orgName type="institution">University Hospitals Seidman Cancer Center</orgName>
+								<address>
+									<settlement>Cleveland</settlement>
+									<region>OH</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><roleName>MD, PhD</roleName><forename type="first">Nathan</forename><forename type="middle">A</forename><surname>Pennell</surname></persName>
+							<affiliation key="aff3">
+								<orgName type="institution">Cleveland Clinic</orgName>
+								<address>
+									<settlement>Cleveland</settlement>
+									<region>OH</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">;</forename><surname>Gopakumar</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><roleName>MD</roleName><forename type="first">S</forename><surname>Nambudiri</surname></persName>
+							<affiliation key="aff4">
+								<orgName type="institution">St John&apos;s Hospital</orgName>
+								<address>
+									<settlement>Maplewood</settlement>
+									<region>MN</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><roleName>MD</roleName><forename type="first">John</forename><forename type="middle">C</forename><surname>Mccann</surname></persName>
+							<affiliation key="aff5">
+								<orgName type="institution">Baystate Health</orgName>
+								<address>
+									<settlement>Springfield</settlement>
+									<region>MA</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><roleName>MD</roleName><forename type="first">Jerome</forename><forename type="middle">D</forename><surname>Winegarden</surname></persName>
+							<affiliation key="aff6">
+								<orgName type="institution">St Joseph Mercy Ann Arbor Hospital</orgName>
+								<address>
+									<settlement>Ann Arbor</settlement>
+									<region>MI</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><roleName>MD</roleName><forename type="first">Mohammed</forename><forename type="middle">A</forename><surname>Kassem</surname></persName>
+							<affiliation key="aff7">
+								<orgName type="laboratory">Sinai Cancer Care and Infusion Center</orgName>
+								<address>
+									<settlement>Chicago</settlement>
+									<region>IL</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><roleName>MD, PhD</roleName><forename type="first">Mohamed</forename><forename type="middle">K</forename><surname>Mohamed</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><roleName>MD</roleName><forename type="first">Jan</forename><forename type="middle">M</forename><surname>Rothman</surname></persName>
+							<affiliation key="aff8">
+								<orgName type="institution">Moses H. Cone Memorial Hospital</orgName>
+								<address>
+									<settlement>Greensboro</settlement>
+									<region>NC</region>
+								</address>
+							</affiliation>
+							<affiliation key="aff9">
+								<orgName type="department">Hillman Cancer Center</orgName>
+								<orgName type="institution">University Pittsburgh Medical Center</orgName>
+								<address>
+									<settlement>Pittsburgh</settlement>
+									<region>PA</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><roleName>MD</roleName><forename type="first">Alan</forename><forename type="middle">P</forename><surname>Lyss</surname></persName>
+							<affiliation key="aff10">
+								<orgName type="institution">Missouri Baptist Medical Center</orgName>
+								<address>
+									<settlement>St Louis</settlement>
+									<region>MO</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><roleName>MSc</roleName><forename type="first">Leora</forename><surname>Horn</surname></persName>
+							<affiliation key="aff11">
+								<orgName type="institution">Vanderbilt University</orgName>
+								<address>
+									<settlement>Nashville</settlement>
+									<region>TN</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><roleName>MD</roleName><forename type="first">Thomas</forename><forename type="middle">E</forename><surname>Stinchcombe</surname></persName>
+							<affiliation key="aff12">
+								<orgName type="institution">Duke University</orgName>
+								<address>
+									<settlement>Durham</settlement>
+									<region>NC</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><roleName>MD</roleName><forename type="first">Joan</forename><forename type="middle">H</forename><surname>Schiller</surname></persName>
+							<affiliation key="aff13">
+								<orgName type="institution">Inova Schar Cancer Center</orgName>
+								<address>
+									<settlement>Fairfax</settlement>
+									<region>VA</region>
+								</address>
+							</affiliation>
+							<affiliation key="aff14">
+								<orgName type="department">Hematology and Medical Oncology</orgName>
+								<orgName type="institution" key="instit1">CORRESPONDING AUTHOR Suresh S. Ramalingam</orgName>
+								<orgName type="institution" key="instit2">Emory University School of Medicine</orgName>
+								<orgName type="institution" key="instit3">Winship Cancer Institute</orgName>
+								<address>
+									<addrLine>1365 Clifton Rd NE</addrLine>
+									<postCode>C4014E, 30322</postCode>
+									<region>Atlanta, GA</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><roleName>AstraZeneca</roleName><forename type="first">Eli</forename><surname>Lilly</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Genentech</forename><forename type="middle">/</forename><surname>Roche</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Bristol-Myers</forename><surname>Squibb</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Boehringer</forename><surname>Ingelheim</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Guardant</forename><surname>Merck</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Health</surname></persName>
+						</author>
+						<title level="a" type="main">Pemetrexed, Bevacizumab, or the Combination As Maintenance Therapy for Advanced Nonsquamous Non-Small-Cell Lung Cancer: ECOG-ACRIN 5508</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<idno type="DOI">10.1200/JCO.19</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.6.1" ident="GROBID" when="2020-10-09T18:38+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>AbbVie (Inst)</term>
+					<term>Bristol-Myers Squibb (Inst)</term>
+					<term>Pfizer (Inst)</term>
+					<term>Merck (Inst)</term>
+					<term>AstraZeneca/MedImmune (Inst)</term>
+					<term>Vertex (Inst)</term>
+					<term>Takeda Pharmaceuticals (Inst). EMD Serono (Inst) Travel</term>
+					<term>Accommodations</term>
+					<term>Expenses: AstraZeneca Genentech/Roche</term>
+					<term>Janssen</term>
+					<term>Takeda Pharmaceuticals Research Funding: EMD Serono (Inst)</term>
+					<term>Genentech/Roche (Inst) Travel</term>
+					<term>Accommodations</term>
+					<term>Expenses: Genentech/Roche</term>
+					<term>Takeda Pharmaceuticals</term>
+					<term>Janssen Genentech (Inst)</term>
+					<term>Celgene (Inst)</term>
+					<term>AstraZeneca (Inst)</term>
+					<term>Pfizer (Inst)</term>
+					<term>Merck (Inst)</term>
+					<term>Loxo (Inst)</term>
+					<term>Altor BioScience (Inst)</term>
+					<term>Spectrum Pharmaceuticals (Inst)</term>
+					<term>Bristol-Myers Squibb (Inst) Boehringer Ingelheim (Inst)</term>
+					<term>Xcovery (Inst) Travel</term>
+					<term>Accommodations</term>
+					<term>Expenses: Bristol-Myers Squibb Other Relationship: Bristol-Myers Squibb</term>
+					<term>Boehringer Ingelheim Takeda Pharmaceuticals</term>
+					<term>AstraZeneca</term>
+					<term>Novartis</term>
+					<term>Genentech/Roche</term>
+					<term>G1 Therapeutics Research Funding: Genentech/Roche (Inst)</term>
+					<term>Blueprint Medicines (Inst)</term>
+					<term>Merck (Inst)</term>
+					<term>AstraZeneca (Inst)</term>
+					<term>Takeda Pharmaceuticals (Inst) Genentech/Roche</term>
+					<term>AstraZeneca</term>
+					<term>Merck Speakers&apos; Bureau: AstraZeneca Research Funding: Genentech (Inst)</term>
+					<term>Merck (Inst) Other Relationship: Free to Breathe</term>
+					<term>Lung Cancer Research Foundation</term>
+				</keywords>
+			</textClass>
+			<abstract>
+				<p>PURPOSE Pemetrexed or bevacizumab is used for maintenance therapy of advanced nonsquamous non-smallcell lung cancer (NSCLC). The combination of bevacizumab and pemetrexed has also demonstrated efficacy. We conducted a randomized study to determine the optimal maintenance therapy. PATIENTS AND METHODS Patients with advanced nonsquamous NSCLC and no prior systemic therapy received carboplatin (area under the curve, 6), paclitaxel (200 mg/m 2), and bevacizumab (15 mg/kg) for up to four cycles. Patients without progression after four cycles were randomly assigned to maintenance therapy with bevacizumab (15 mg/kg), pemetrexed (500 mg/m 2), or a combination of the two agents. The primary end point was overall survival, with bevacizumab serving as the control group. RESULTS Of the 1,516 patients enrolled, 874 (57%) were randomly assigned after induction therapy to one of the three maintenance therapy groups. With a median follow-up of 50.6 months, median survival with pemetrexed was 15.9 months, compared with 14.4 months with bevacizumab (hazard ratio [HR], 0.86; P = .12); median survival with pemetrexed and bevacizumab was 16.4 months (HR, 0.9; P = .28); median progression-free survival was 4.2, 5.1 (HR, 0.85; P = .06), and 7.5 months (HR, 0.67; P , .001) for the three groups, respectively. Incidence of worst grade 3 to 4 toxicity was 29%, 37%, and 51%, respectively, for bevacizumab, pemetrexed, and the combination regimen. CONCLUSION Single-agent bevacizumab or pemetrexed is efficacious as maintenance therapy for advanced nonsquamous NSCLC. Because of a lack of survival benefit and higher toxicity, the combination of bevacizumab and pemetrexed cannot be recommended.</p>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>INTRODUCTION</head><p>Platinum-based chemotherapy results in improved survival and quality of life for patients with advancedstage non-small-cell lung cancer (NSCLC). <ref type="bibr" target="#b3">1</ref> The advent of immune checkpoint inhibition and targeted therapies has resulted in substantial gains in patient outcome. <ref type="bibr" target="#b4">[2]</ref><ref type="bibr" target="#b5">[3]</ref><ref type="bibr" target="#b6">[4]</ref> However, for approximately 50% of patients with advanced NSCLC, platinum-based chemotherapy remains an important part of standard first-line therapy; for the remainder of patients, platinumbased chemotherapy is used after disease progression in either targeted therapies or immune checkpoint inhibition.</p><p>Four cycles of platinum-based chemotherapy are considered optimal for advanced NSCLC. <ref type="bibr" target="#b7">5</ref> The use of maintenance therapy after combination chemotherapy results in improved overall survival (OS) and has been adopted in routine clinical practice. Pemetrexed, a multitargeted antifolate, is used for the treatment of nonsquamous NSCLC in the maintenance therapy setting on the basis of randomized trials that established superior survival over the use of placebo. <ref type="bibr" target="#b8">6,</ref><ref type="bibr" target="#b9">7</ref> The Eastern Cooperative Oncology Group (ECOG) 4599 (Clinical-Trials.gov identifier: NCT00021060) study established a role for bevacizumab, a monoclonal antibody against vascular endothelial growth factor, in the maintenance setting. <ref type="bibr" target="#b10">8</ref> The study treated patients with nonsquamous NSCLC with a combination of carboplatin, paclitaxel, and bevacizumab for a maximum of six cycles. Patients who experienced clinical benefit continued with bevacizumab as maintenance therapy. Consequently, the regimens of cisplatin/carboplatin and pemetrexed followed by pemetrexed maintenance and carboplatin, ASSOCIATED CONTENT</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Data Supplements</head><p>Author affiliations and support information (if applicable) appear at the end of this article.</p><p>Accepted on June 20, 2019 and published at jco.org on July 30, 2019: DOI https://doi. org/10.1200/JCO. <ref type="bibr" target="#b21">19</ref>. 01006</p><p>The content is solely the responsibility of the authors and does not necessarily represent the official views of the National Institutes of Health, nor does mention of trade names, commercial products, or organizations imply endorsement by the US government.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Clinical trial information: NCT01107626.</head><p>paclitaxel, and bevacizumab followed by bevacizumab maintenance are used in routine care for patients with advanced nonsquamous NSCLC.</p><p>The combination of maintenance bevacizumab and pemetrexed was compared with pemetrexed alone in a randomized trial. <ref type="bibr" target="#b11">9</ref> The benefit was limited to a significant improvement in progression-free survival (PFS) with the combination approach. National Comprehensive Cancer Network guidelines recommend pemetrexed, bevacizumab, or a combination of pemetrexed and bevacizumab as maintenance therapy for advanced NSCLC. Because these three distinct treatment approaches have not been compared directly, and in view of the important potential toxicity and cost considerations, we conducted a definitive phase III trial to determine the optimal maintenance therapy for advanced nonsquamous NSCLC.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>PATIENTS AND METHODS</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Patients</head><p>Patients older than 18 years of age with histologic or cytologic confirmation of NSCLC, predominant nonsquamous histology, stage IIIB to IV disease, performance status of 0 or 1 on the ECOG scale, and acceptable bone marrow, renal, and hepatic function were eligible. Patients could not have received prior systemic chemotherapy for advancedstage lung cancer. Patients with brain metastases were required to receive local therapy to the brain and have no evidence of progression for at least 2 weeks from completion of local therapy. Patients with uncontrolled hypertension, major hemoptysis within 4 weeks before registration, history of arterial thrombotic events or major bleed within 12 months, recent major surgery within 6 weeks, significant cardiovascular disease, and cavitary lung lesions were excluded. Pregnant or breastfeeding women were also excluded. All participating patients provided written informed consent. Full eligibility criteria are included in the protocol in the Data Supplement.</p><p>After induction therapy, patients had to meet the following criteria for random assignment to maintenance therapy: registration within 6 weeks from the last day of prior chemotherapy, complete or partial response or stable disease with induction therapy, ECOG performance status of 0 or 1, and acceptable bone marrow, hepatic, and renal function as defined in the study protocol.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Trial Design and Treatment</head><p>Eligible patients received carboplatin (dosed to achieve an area under the concentration versus time curve of 6 mg/mL per minute), paclitaxel (200 mg/m 2 ), and bevacizumab (15 mg/kg) every 3 weeks for up to four cycles (induction therapy). Patients achieving complete response, partial response, or stable disease per RECIST criteria after four cycles were then randomly assigned at a 1:1:1 ratio to maintenance therapy with bevacizumab (15 mg/kg), pemetrexed (500 mg/m 2 ), or a combination of the two agents at the same doses as in the monotherapy groups every 3 weeks. Because of the national shortage of paclitaxel in 2011, use of docetaxel at 75 mg/m 2 was allowed as a substitution for a short duration of time. Standard premedications, including dexamethasone, diphenhydramine, and cimetidine, or appropriate institutional alternative options were used during the induction chemotherapy phase. For maintenance therapy, premedications included vitamin B12 injection, dexamethasone, and folic acid supplements for patients randomly assigned to one of the pemetrexed groups. Treatment cycles were repeated every 3 weeks.</p><p>In the induction phase, patients who did not make it to the fourth cycle because of toxicity were allowed to proceed to maintenance phase after cycle 3 if they had achieved favorable response or stable disease. In the maintenance phase, treatment was continued until documentation of disease progression, unacceptable toxicity, or withdrawal of informed consent. Dose modifications were made for patients who experienced treatment-related toxicity. Delay in treatment of up to 3 weeks was allowed for toxicity, with any delays beyond that resulting in discontinuation of study therapy. All appropriate supportive care measures were instituted for patients who experienced toxicity.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Assessments</head><p>Patient enrollment was facilitated using the Oncology Patient Enrollment Network. Baseline assessments included history and physical examination, assessment of performance status, ECG when medically indicated, serum pregnancy test for women of reproductive age, complete blood count, serum chemistry, and radiographic tumor assessment within 4 weeks before study entry. Patients were evaluated on day 1 of each new cycle of therapy by the treating team, with assessment of vital signs, performance status, toxicity, and laboratory parameters. Toxicity was graded according to the National Cancer Institute Common Terminology Criteria for Adverse Events (version 4.0). Tumor response was evaluated according to RECIST (version 1.1). <ref type="bibr" target="#b12">10</ref> Radiographic studies were performed every 6 weeks during induction therapy and every three cycles during maintenance therapy to assess disease status. After discontinuation of study therapy, patients underwent longterm follow-up every 3 months for up to 2 years and every 6 months for years 2 to 5.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>End Points</head><p>The primary end point was OS, defined as the time from random assignment to death resulting from any cause, with censoring at the last date of follow-up. Secondary end points were: PFS, defined as the time from random assignment to progression of disease or death resulting from any cause (censoring was defined at the date last known alive and progression free); assessment of best overall objective response rate, as determined by the treating investigator; and comparison of safety profiles of each regimen.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Statistical Analysis</head><p>Survival comparisons were made in the intent-to-treat population, and safety was assessed in all patients who received at least one cycle of therapy. The trial was designed to detect a 25% reduction in the hazard rate for death with 81% power, while maintaining a Bonferroniadjusted one-sided overall significance level of .0125 for the bevacizumab versus combination comparison; for the comparison of bevacizumab versus pemetrexed, a Bonferroni-adjusted two-sided overall significance level of .025 was used. There was no planned statistical comparison of the two experimental arms (pemetrexed and pemetrexed with bevacizumab). The 25% reduction in the hazard rate corresponds to a 33.3% improvement in OS, from 12 to 16 months, assuming exponential survival. OS and PFS were estimated by the Kaplan-Meier method. With a sample size of 1,495 patients enrolled in the induction phase, it was estimated that 897 patients would be randomly assigned equally to one of the three maintenance therapy groups (299 patients per group). Patients were stratified on the basis of sex (male v female), stage of disease (IIIB v IV M1a v IV M1b v recurrent disease), smoking history (never-v ever-smoker), and best response at random assignment (complete or partial v stable disease). Cox proportional hazards models, stratified according to these factors, were used to estimate hazard ratios (HRs) to test for significance of the timing of events and to fit multivariable models. The detailed plans for interim analyses for futility and efficacy are outlined in the study protocol.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Trial Oversight</head><p>The study was conducted by the Thoracic Malignancies Committee of the ECOG-American College of Radiology Imaging Network (ACRIN) Cancer Research Group; monitoring was performed by the ECOG-ACRIN Data Safety Monitoring Committee, which meets twice annually. For each meeting, the study was reviewed for safety and progress toward completion. Interim analyses were conducted on the outcome data at predefined time points. Only the study statistician and members of the Data Safety Monitoring Committee had access to interim analyses of the outcome data. Toxicity reports were available to the study investigators throughout the course of the study. The study protocol was approved by the institutional review board of each participating institution and by the National Cancer Institute Central institutional review board.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>RESULTS</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Patient Characteristics</head><p>A total of 1,516 patients were enrolled in the study between August 2010 and April 2015 ( <ref type="figure">Fig 1)</ref>; the results were released to the study team in October 2018 after full maturity was reached. Fifty-two percent of patients were men, and 86% were white <ref type="table" target="#tab_1">(Table 1)</ref>. Median age was 64 years. Stage IV disease was present in 92% of patients. Adenocarcinoma was the most common histology. Approximately 9% of patients were never-smokers. Seventeen percent of patients had brain metastases.</p><p>After combination therapy, 874 patients were randomly assigned to maintenance therapy (57%). Among randomly assigned patients, men represented 49%, and 87% of patients were white. Never-smokers accounted for 11% of randomly assigned patients. There were no major differences in baseline characteristics between the overall patient population and the patient subgroup that entered the randomized phase of the trial. Among randomly assigned patients, baseline characteristics were balanced between the three groups at the P = .025 level.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Efficacy</head><p>With induction therapy, the objective response rate was 30.3%; median OS for the entire study population was 13.1 months from the time of initial registration. With a median follow-up of 50.6 months, median OS from random assignment was 15.9 months with pemetrexed, compared with 14.4 months with bevacizumab (HR, 0.86; 97.5% CI, 0.70 to 1.07; P = .12; <ref type="figure">Fig 2)</ref>. For the second  <ref type="figure">Fig 3)</ref>. For the combination of pemetrexed and bevacizumab, median PFS was 7.5 months (HR, 0.67; 97.5% CI, 0.55 to 0.82; P , .001). The objective response rate in maintenance phase for bevacizumab, pemetrexed, and combination groups was 12.5% (97.5%, 8.5% to 17.6%), 18.7% (97.5% CI, 13.9% to 24.4%), and 21.2% (97.5% CI, 16% to 27%), respectively. The overall study conclusions remained the same after fitting multivariable models <ref type="table" target="#tab_3">(Table 2)</ref>, with the exception of the PFS comparison of the combination versus bevacizumab alone.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Safety Profile</head><p>Median number of maintenance therapy cycles was six, six, and eight, respectively, for bevacizumab, pemetrexed, and the combination (range, one to 118 cycles); 17%, 18.3%, and 21.7% of patients received more than 12 cycles of therapy in the three arms, respectively. During induction phase, worst grade 3, 4, and 5 treatment-related toxicity rates were 37%, 17%, and 2% of patients, respectively. The most common grade 3 to 4 toxicities (occurring in . 5%) were anemia (7%), fever with neutropenia (4%), neutropenia (28%), thrombocytopenia (8%), fatigue (8%), and hypertension (12%). With maintenance therapy, worst grade 3, 4, and 5 toxicity rate was 30%, 38%, and 51%, respectively, for bevacizumab, pemetrexed, and the combination <ref type="table" target="#tab_4">(Table 3)</ref>. When compared with bevacizumab, pemetrexed was associated with a higher incidence of grade 3 to 4 anemia (P = .12), fatigue (P = .02), lymphopenia (P = .003), neutropenia (P , .001), thrombocytopenia (P , .001), and leucopenia (P , .001). Bevacizumab was associated with a higher incidence of grade 3 to 4 proteinuria (P = .001) and hypertension (P , .001) relative to pemetrexed. The combination of bevacizumab and pemetrexed was associated with a higher incidence of anemia (P = .01), fatigue (P = .005), lymphopenia (P , .001), neutropenia (P , .001), thrombocytopenia (P , .001), and leucopenia (P , .001), relative to bevacizumab alone. Incidence of worst grade 3, 4, and 5 toxicity was higher with the combination compared with bevacizumab monotherapy (P , .001). The most common reason for treatment discontinuation was disease progression during maintenance therapy (Data Supplement).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>DISCUSSION</head><p>Maintenance therapy has become standard of care for patients with advanced nonsquamous NSCLC. The use of pemetrexed or bevacizumab as monotherapy is supported by evidence from phase III trials <ref type="bibr" target="#b8">6,</ref><ref type="bibr" target="#b9">7</ref> ; however, the combination of pemetrexed and bevacizumab has been adopted based on a phase II clinical trial that demonstrated promising survival. <ref type="bibr" target="#b13">11</ref> ECOG-ACRIN 5508 (ClinicalTrials.gov identifier: NCT01107626) was conducted to define the optimal maintenance therapy paradigm for advanced nonsquamous NSCLC. Patients with squamous cell disease were not included, because the role of maintenance chemotherapy remains unproven for this histologic subset of NSCLC. Our trial demonstrates that median survival outcomes were comparable among all three groups, with no clear superiority for pemetrexed or the combination over bevacizumab alone.</p><p>The combination of bevacizumab and pemetrexed was first studied along with carboplatin followed by pemetrexed and bevacizumab maintenance and resulted in promising OS; however, a phase III trial that compared this regimen with carboplatin, paclitaxel, and bevacizumab failed to demonstrate superiority. <ref type="bibr" target="#b13">11,</ref><ref type="bibr" target="#b14">12</ref> The combination maintenance therapy approach was compared with bevacizumab alone in a phase III trial with PFS as the primary end point (AVAPERL, ClinicalTrials.gov identifier: NCT00961415). <ref type="bibr" target="#b11">9</ref> Median PFS was 7.4 months for the combination, compared with 3.7 months for bevacizumab alone (HR, 0.57; P , .001). However, OS was not prolonged despite a favorable numeric trend (17.1 v 13.2 months). Both median PFS and OS noted for the combination in our study are comparable to those in the AVAPERL study. With regard to the efficacy of pemetrexed, the results of ECOG-ACRIN 5508 compare favorably with those of the phase III trial by Ciuleanu et al, <ref type="bibr" target="#b8">6</ref> which resulted in US Food and Drug Administration approval of pemetrexed as maintenance therapy for patients with nonsquamous NSCLC. In that trial, median PFS and OS were 4.3 and 13.4 months, respectively, in the study population, and 4.5 and 15.5 months, respectively, in the nonsquamous subset. On the basis of the comparable outcomes for each of the experimental arms in ECOG-ACRIN 5508 and contemporary trials, we can definitively conclude that the combination of bevacizumab and pemetrexed cannot be recommended as maintenance therapy, given the lack of survival benefit and relatively higher incidence of toxicity.</p><p>ECOG-ACRIN 5508 is also the first study to our knowledge to specifically evaluate the role of bevacizumab as maintenance therapy. In pivotal studies (ECOG 4599 and AVAiL [ClinicalTrials.gov identifier: NCT00806923]), bevacizumab was used in combination with chemotherapy and continued as maintenance therapy. The contribution of maintenance bevacizumab to the overall efficacy of the regimen could not be determined. Our results provide evidence that the outcomes are comparable between bevacizumab and pemetrexed, a proven agent in the maintenance therapy setting, from a clinical standpoint.</p><p>ECOG-ACRIN 5508 was developed before targeted therapy or immunotherapy had been proven for first-line treatment of advanced NSCLC. It is possible that a small subset of patients enrolled in ECOG-ACRIN 5508 might have harbored mutations in the epidermal growth factor gene or fusions in the anaplastic lymphoma kinase gene. Patient stratification by smoking status is likely an alleviating factor against an imbalance between the three groups on the basis of molecular status, because epidermal growth factor gene and anaplastic lymphoma kinase gene aberrations have a much higher prevalence in never-smokers with lung cancer. It is also noteworthy that both chemotherapy and antiangiogenic therapy are associated with favorable outcomes for patients with driver mutations. <ref type="bibr" target="#b15">13,</ref><ref type="bibr" target="#b16">14</ref> The study did not collect poststudy treatment data after disease progression. This practice is consistent with clinical trials with a survival end point conducted by the ECOG-ACRIN group. This does not affect the ability to assess the impact of maintenance therapy on OS in the routine practice setting.</p><p>When ECOG-ACRIN 5508 was initiated, there was insufficient safety data regarding the use of bevacizumab in patients with brain metastases. Therefore, brain metastasis was an exclusion factor at study initiation. However, emergence of safety data in subsequent studies allowed for an amendment to include patients with treated brain metastases. <ref type="bibr" target="#b17">15,</ref><ref type="bibr" target="#b18">16</ref> There was no evidence of increase risk of intracranial bleeding with the use of bevacizumab, thus providing additional support for this practice.</p><p>Recently, the use of immune checkpoint inhibition, alone or in combination with chemotherapy, has become standard practice. <ref type="bibr" target="#b4">2,</ref><ref type="bibr" target="#b19">17</ref> Even with this approach, maintenance therapy continues to be used, either with pemetrexed or bevacizumab. Recent studies have suggested a favorable interaction between antiangiogenic therapy and the tumor immune microenvironment, leading to the clinical evaluation of bevacizumab in combination with immune checkpoint inhibition. <ref type="bibr" target="#b20">18,</ref><ref type="bibr" target="#b21">19</ref> Specifically, in a phase III study, the addition of bevacizumab and atezolizumab (an immune checkpoint inhibitor) in combination with chemotherapy was superior to chemotherapy and bevacizumab <ref type="bibr" target="#b22">20</ref> ; the combination of atezolizumab with chemotherapy (in the absence of bevacizumab) was not superior to chemotherapy and bevacizumab. There are limited preclinical data on the interaction between pemetrexed and immune checkpoint inhibition, although a clinical trial with platinum, pemetrexed, and pembrolizumab demonstrated improvement in OS <ref type="bibr" target="#b19">17</ref> ; with this approach, the combination of pemetrexed and pembrolizumab is administered as maintenance therapy. It is clear that maintenance therapy will remain an integral part of the treatment approach to advanced nonsquamous NSCLC. The results of ECOG-ACRIN 5508 support the use of either pemetrexed or bevacizumab as a single agent in this setting. NOTE. For multivariable models, covariates significant at .10 level in univariable models were considered for inclusion in full models, which were chosen using backward selection. Final models included variables significant at .05 level. For OS modeling, list of covariates included for initial consideration in models was as follows: sex, ethnicity, PS, prior 6-month weight loss, stage, histology, smoking history, history of cerebrovascular accident, baseline hilar metastasis, baseline mediastinal metastasis, baseline contralateral metastasis, pleural metastasis, brain metastasis, skin metastasis, other metastasis, prior surgery, and prior radiotherapy. Sex, stage, and smoking status are stratifications factors, so they were not included independently in these models because we are reporting stratified HRs.</p><p>Abbreviations: ECOG PS, Eastern Cooperative Oncology Group performance status; HR, hazard ratio; OS, overall survival. </p></div><figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head></head><label></label><figDesc>FIG 1. CONSORT diagram.comparison, median survival with the pemetrexed and bevacizumab combination was 16.4 months, with an HR of 0.90 (97.5% CI, 0.73 to 1.12; P = 0.28) compared with the bevacizumab group. Median PFS for pemetrexed was 5.1 months, compared with 4.2 months with bevacizumab (HR, 0.85; 97.5% CI, 0.69 to 1.03; P = .06;</figDesc><table><row><cell></cell><cell></cell><cell>No. of patients registered</cell><cell cols="2">(N = 1,516)</cell><cell></cell></row><row><cell></cell><cell></cell><cell>Ineligible</cell><cell></cell><cell>(n = 45)</cell><cell></cell></row><row><cell></cell><cell></cell><cell cols="2">Did not start assigned therapy</cell><cell>(n = 39)</cell><cell></cell></row><row><cell></cell><cell></cell><cell cols="3">Registered for maintenance</cell><cell></cell></row><row><cell></cell><cell></cell><cell>(n = 874)</cell><cell></cell><cell></cell><cell></cell></row><row><cell>Randomly assigned to</cell><cell>(n = 287)</cell><cell>Randomly assigned to</cell><cell cols="2">(n = 294)</cell><cell>Randomly assigned to</cell><cell>(n = 293)</cell></row><row><cell>bevacizumab</cell><cell></cell><cell>pemetrexed</cell><cell></cell><cell></cell><cell>bevacizumab plus</cell></row><row><cell>Ineligible</cell><cell>(n = 6)</cell><cell>Ineligible</cell><cell cols="2">(n = 8)</cell><cell>pemetrexed</cell></row><row><cell>Did not start therapy</cell><cell>(n = 3)</cell><cell>Did not start therapy</cell><cell cols="2">(n = 5)</cell><cell>Ineligible</cell><cell>(n = 7)</cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>Did not start therapy</cell><cell>(n = 7)</cell></row></table><note></note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_1"><head>TABLE 1 .</head><label>1</label><figDesc>Patient Demographic and Clinical Characteristics</figDesc><table><row><cell></cell><cell></cell><cell>No. (%)</cell><cell></cell><cell></cell></row><row><cell></cell><cell>Induction Phase</cell><cell></cell><cell cols="2">Maintenance Therapy</cell></row><row><cell></cell><cell>Carboplatin, Paclitaxel, and Bevacizumab</cell><cell>Bevacizumab</cell><cell>Pemetrexed</cell><cell>Bevacizumab + Pemetrexed</cell></row><row><cell>Characteristic</cell><cell>(N = 1,516)</cell><cell>(n = 287)</cell><cell>(n = 294)</cell><cell>(n = 293)</cell></row><row><cell>Median age, years</cell><cell>64</cell><cell>65</cell><cell>63</cell><cell>64</cell></row><row><cell>Female sex</cell><cell>724 (48)</cell><cell>147 (51)</cell><cell>151 (51)</cell><cell>150 (51)</cell></row><row><cell>Smoking status</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Current</cell><cell>683 (45)</cell><cell>128 (45)</cell><cell>140 (48)</cell><cell>114 (39)</cell></row><row><cell>Former</cell><cell>693 (46)</cell><cell>130 (45)</cell><cell>122 (41)</cell><cell>146 (50)</cell></row><row><cell>Never</cell><cell>137 (9)</cell><cell>29 (10)</cell><cell>32 (11)</cell><cell>33 (11)</cell></row><row><cell>Histology</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Adenocarcinoma</cell><cell>1,357 (90)</cell><cell>261 (91)</cell><cell>258 (88)</cell><cell>268 (91)</cell></row><row><cell>Large cell</cell><cell>10 (1)</cell><cell>1 (, 1)</cell><cell>0 (0)</cell><cell>4 (1)</cell></row><row><cell>NOS</cell><cell>122 (8)</cell><cell>21 (7)</cell><cell>28 (10)</cell><cell>20 (7)</cell></row><row><cell>Site of metastasis</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Brain</cell><cell>243 (17)</cell><cell>45 (16)</cell><cell>46 (16)</cell><cell>39 (14)</cell></row><row><cell>Liver</cell><cell>256 (17)</cell><cell>44 (16)</cell><cell>41 (14)</cell><cell>52 (18)</cell></row><row><cell>Bone</cell><cell>448 (30)</cell><cell>76 (27)</cell><cell>99 (34)</cell><cell>98 (34)</cell></row><row><cell>Adrenal glands</cell><cell>721 (48)</cell><cell>142 (50)</cell><cell>142 (49)</cell><cell>154 (53)</cell></row><row><cell>Stage</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>IIIB</cell><cell>31 (2)</cell><cell>7 (2)</cell><cell>4 (1)</cell><cell>8 (3)</cell></row><row><cell>IV M1a</cell><cell>412 (27)</cell><cell>86 (30)</cell><cell>96 (33)</cell><cell>95 (32)</cell></row><row><cell>IV M1b</cell><cell>985 (65)</cell><cell>181 (63)</cell><cell>177 (60)</cell><cell>178 (61)</cell></row><row><cell>Recurrent NSCLC</cell><cell>84 (5)</cell><cell>13 (5)</cell><cell>17 (6)</cell><cell>12 (4)</cell></row><row><cell>ECOG performance status</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>0</cell><cell>579 (38)</cell><cell>122 (43)</cell><cell>136 (46)</cell><cell>133 (45)</cell></row><row><cell>1</cell><cell>934 (62)</cell><cell>165 (57)</cell><cell>158 (54)</cell><cell>160 (55)</cell></row><row><cell>Race</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>White</cell><cell>1,273 (86)</cell><cell>245 (87)</cell><cell>240 (83)</cell><cell>260 (90)</cell></row><row><cell>Black</cell><cell>180 (12)</cell><cell>31 (11)</cell><cell>45 (16)</cell><cell>22 (8)</cell></row><row><cell>Other</cell><cell>32 (2)</cell><cell>6 (1)</cell><cell>5 (1)</cell><cell>7 (2)</cell></row></table><note>Abbreviations: ECOG, Eastern Cooperative Oncology Group; NOS, not otherwise specified; NSCLC, non-small-cell lung cancer.</note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_3"><head>TABLE 2 .</head><label>2</label><figDesc>Multivariable Modeling for OS</figDesc><table><row><cell>Variable</cell><cell>HR</cell><cell>97.5% CI</cell><cell>P</cell></row><row><cell>Pemetrexed v bevacizumab</cell><cell></cell><cell></cell><cell></cell></row><row><cell>Pemetrexed v bevacizumab</cell><cell>0.79</cell><cell>0.62 to 1.00</cell><cell>.02</cell></row><row><cell>ECOG PS 0 v 1</cell><cell>0.77</cell><cell>0.61 to 0.97</cell><cell>.01</cell></row><row><cell>Adenocarcinoma v other</cell><cell>0.72</cell><cell>0.49 to 1.05</cell><cell>.05</cell></row><row><cell>Hilar metastasis (yes v no)</cell><cell>1.23</cell><cell>0.97 to 1.55</cell><cell>.05</cell></row><row><cell>Mediastinal metastasis (yes v no)</cell><cell>3.34</cell><cell>1.07 to 10.39</cell><cell>.02</cell></row><row><cell>Brain metastasis (yes v no)</cell><cell>1.77</cell><cell>1.29 to 2.43</cell><cell>, .001</cell></row><row><cell>Combination v bevacizumab</cell><cell></cell><cell></cell><cell></cell></row><row><cell>Combination v bevacizumab</cell><cell>0.88</cell><cell>0.72 to 1.08</cell><cell>.22</cell></row><row><cell>ECOG PS 0 v 1</cell><cell>0.77</cell><cell>0.63 to 0.95</cell><cell>.02</cell></row><row><cell>Mediastinal metastasis (yes v no)</cell><cell>2.70</cell><cell>1.20 to 6.09</cell><cell>.02</cell></row><row><cell>Brain metastasis (yes v no)</cell><cell>1.43</cell><cell>1.07 to 1.92</cell><cell>.02</cell></row><row><cell>Other metastasis (yes v no)</cell><cell>1.44</cell><cell>1.14 to 1.81</cell><cell>.002</cell></row><row><cell>Prior radiotherapy (yes v no)</cell><cell>1.34</cell><cell>1.03 to 1.75</cell><cell>.03</cell></row></table><note></note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_4"><head>TABLE 3 .</head><label>3</label><figDesc>Toxicity Profile During Maintenance Therapy Grade 3 or 4 toxicity defined as treatment-related adverse events occurring in $ 4% of patients.</figDesc><table><row><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell cols="2">Bevacizumab +</cell></row><row><cell></cell><cell cols="4">Bevacizumab (%) Pemetrexed (%)</cell><cell cols="2">Pemetrexed (%)</cell></row><row><cell>Treatment Group</cell><cell cols="6">Grade 3 Grade 4 Grade 3 Grade 4 Grade 3 Grade 4</cell></row><row><cell>Anemia</cell><cell>2</cell><cell>0</cell><cell>7</cell><cell>0</cell><cell>6</cell><cell>, 1</cell></row><row><cell>Lymphopenia</cell><cell>1</cell><cell>0</cell><cell>4</cell><cell>1</cell><cell>7</cell><cell>1</cell></row><row><cell>Neutropenia</cell><cell>1</cell><cell>0</cell><cell>5</cell><cell>2</cell><cell>8</cell><cell>3</cell></row><row><cell>Leucopenia</cell><cell>0</cell><cell>0</cell><cell>4</cell><cell>1</cell><cell>4</cell><cell>1</cell></row><row><cell>Thrombocytopenia</cell><cell>0</cell><cell>0</cell><cell>2</cell><cell>1</cell><cell>2</cell><cell>2</cell></row><row><cell>Hyponatremia</cell><cell>2</cell><cell>0</cell><cell>2</cell><cell>0</cell><cell>4</cell><cell>, 1</cell></row><row><cell>Proteinuria</cell><cell>4</cell><cell>0</cell><cell>, 1</cell><cell>0</cell><cell>3</cell><cell>0</cell></row><row><cell>Hypertension</cell><cell>16</cell><cell>0</cell><cell>5</cell><cell>0</cell><cell>19</cell><cell>0</cell></row><row><cell>Worst degree</cell><cell>27</cell><cell>2</cell><cell>32</cell><cell>5</cell><cell>43</cell><cell>7</cell></row><row><cell>NOTE.</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row></table><note></note></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot">Pemetrexed, Bevacizumab or Combination As Maintenance Therapy</note>
+		</body>
+		<back>
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>AFFILIATIONS</head><p>1 Winship Cancer Institute of Emory University, Atlanta, GA ACKNOWLEDGMENT This study was coordinated by the ECOG-ACRIN Cancer Research Group (Peter J. O'Dwyer, MD and Mitchell D. Schnall, MD, PhD, group cochairs).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>AUTHORS' DISCLOSURES OF POTENTIAL CONFLICTS OF INTEREST</head></div>			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">AUTHOR CONTRIBUTIONS Conception and design: Suresh S</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Suzanne</forename><forename type="middle">E</forename><surname>Ramalingam</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Chandra</forename><forename type="middle">P</forename><surname>Dahlberg</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Jan</forename><forename type="middle">M</forename><surname>Belani</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Joan</forename><forename type="middle">H</forename><surname>Rothman</surname></persName>
+		</author>
+		<idno type="DOI">http://ascopubs.org/doi/full/10.1200/JCO.19.01006</idno>
+		<ptr target="https://doi.org/10.1200/JCO.19.01006" />
+	</analytic>
+	<monogr>
+		<title level="m">AUTHORS&apos; DISCLOSURES OF POTENTIAL CONFLICTS OF INTEREST AND DATA AVAILABILITY STATEMENT Disclosures provided by the authors and data availability statement</title>
+		<editor>Suresh S. Ramalingam, Nathan A. Pennell, Gopakumar S. Nambudiri, Mohammed A. Kassem, Mohamed K</editor>
+		<imprint/>
+	</monogr>
+	<note>Schiller Provision of study material or patients</note>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<monogr>
+		<title level="m" type="main">Stinchcombe Collection and assembly of data</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Leora</forename><surname>Mohamed</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Horn</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><surname>Thomas</surname></persName>
+		</author>
+		<editor>Suresh S. Ramalingam, Suzanne E. Dahlberg, Chandra P. Belani, Joel N. Saltzman, Gopakumar S. Nambudiri, John C. McCann, Mohammed A. Kassem, Mohamed K</editor>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<monogr>
+		<title level="m" type="main">Schiller Manuscript writing: All authors Final approval of manuscript: All authors Accountable for all aspects of the work</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Leora</forename><surname>Mohamed</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Thomas</forename><forename type="middle">E</forename><surname>Horn</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Joan</forename><forename type="middle">H</forename><surname>Stinchcombe</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Suresh</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Suzanne</forename><forename type="middle">E</forename><surname>Ramalingam</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Chandra</forename><forename type="middle">P</forename><surname>Dahlberg</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Nathan</forename><forename type="middle">A</forename><surname>Belani</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">John</forename><forename type="middle">C</forename><surname>Pennell</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Jerome</forename><forename type="middle">D</forename><surname>Mccann</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Alan</forename><forename type="middle">P</forename><surname>Winegarden</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Leora</forename><surname>Lyss</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Thomas</forename><forename type="middle">E</forename><surname>Horn</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Joan</forename><forename type="middle">H</forename><surname>Stinchcombe</surname></persName>
+		</author>
+		<imprint>
+			<publisher>All authors</publisher>
+		</imprint>
+	</monogr>
+	<note>Schiller Data analysis and interpretation</note>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Chemotherapy in addition to supportive care improves survival in advanced non-small-cell lung cancer: A systematic review and meta-analysis of individual patient data from 16 randomized controlled trials</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">-Analyses Collaborative</forename><surname>Nsclc Meta</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Group</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Clin Oncol</title>
+		<imprint>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="page" from="4617" to="4625" />
+			<date type="published" when="2008" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Pembrolizumab versus chemotherapy for PD-L1-positive non-small-cell lung cancer</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Reck</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><surname>Rodríguez-Abreu</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><forename type="middle">G</forename><surname>Robinson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">N Engl J Med</title>
+		<imprint>
+			<biblScope unit="volume">375</biblScope>
+			<biblScope unit="page" from="1823" to="1833" />
+			<date type="published" when="2016" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Osimertinib in untreated EGFR-mutated advanced non-small-cell lung cancer</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">C</forename><surname>Soria</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Y</forename><surname>Ohe</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Vansteenkiste</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">N Engl J Med</title>
+		<imprint>
+			<biblScope unit="volume">378</biblScope>
+			<biblScope unit="page" from="113" to="125" />
+			<date type="published" when="2018" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Alectinib versus crizotinib in untreated ALK-positive non-small-cell lung cancer</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Peters</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><forename type="middle">R</forename><surname>Camidge</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><forename type="middle">T</forename><surname>Shaw</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">N Engl J Med</title>
+		<imprint>
+			<biblScope unit="volume">377</biblScope>
+			<biblScope unit="page" from="829" to="838" />
+			<date type="published" when="2017" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Phase III trial comparing a defined duration of therapy versus continuous therapy followed by second-line therapy in advanced-stage IIIB/IV non-small-cell lung cancer</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">A</forename><surname>Socinski</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">J</forename><surname>Schell</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Peterman</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Clin Oncol</title>
+		<imprint>
+			<biblScope unit="volume">20</biblScope>
+			<biblScope unit="page" from="1335" to="1343" />
+			<date type="published" when="2002" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Maintenance pemetrexed plus best supportive care versus placebo plus best supportive care for non-small-cell lung cancer: A randomised, double-blind, phase 3 study</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Ciuleanu</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Brodowicz</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><surname>Zielinski</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Lancet</title>
+		<imprint>
+			<biblScope unit="volume">374</biblScope>
+			<biblScope unit="page" from="1432" to="1440" />
+			<date type="published" when="2009" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Maintenance therapy with pemetrexed plus best supportive care versus placebo plus best supportive care after induction therapy with pemetrexed plus cisplatin for advanced non-squamous non-small-cell lung cancer (PARAMOUNT): A double-blind, phase 3, randomised controlled trial</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">L</forename><surname>Paz-Ares</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">F</forename><surname>De Marinis</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Dediu</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Lancet Oncol</title>
+		<imprint>
+			<biblScope unit="volume">13</biblScope>
+			<biblScope unit="page" from="247" to="255" />
+			<date type="published" when="2012" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Paclitaxel-carboplatin alone or with bevacizumab for non-small-cell lung cancer</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Sandler</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><surname>Gray</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">C</forename><surname>Perry</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">N Engl J Med</title>
+		<imprint>
+			<biblScope unit="volume">355</biblScope>
+			<biblScope unit="page" from="2542" to="2550" />
+			<date type="published" when="2006" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Maintenance bevacizumab-pemetrexed after first-line cisplatin-pemetrexed-bevacizumab for advanced nonsquamous nonsmall-cell lung cancer: Updated survival analysis of the AVAPERL (MO22089) randomized phase III trial</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">F</forename><surname>Barlesi</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Scherpereel</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">V</forename><surname>Gorbunova</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ann Oncol</title>
+		<imprint>
+			<biblScope unit="volume">25</biblScope>
+			<biblScope unit="page" from="1044" to="1052" />
+			<date type="published" when="2014" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">New guidelines to evaluate the response to treatment in solid tumors. European Organization for Research and Treatment of Cancer, National Cancer Institute of the United States, National Cancer Institute of Canada</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><surname>Therasse</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><forename type="middle">G</forename><surname>Arbuck</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><forename type="middle">A</forename><surname>Eisenhauer</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Natl Cancer Inst</title>
+		<imprint>
+			<biblScope unit="volume">92</biblScope>
+			<biblScope unit="page" from="205" to="216" />
+			<date type="published" when="2000" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Phase II study of pemetrexed and carboplatin plus bevacizumab with maintenance pemetrexed and bevacizumab as first-line therapy for nonsquamous non-small-cell lung cancer</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">D</forename><surname>Patel</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><forename type="middle">A</forename><surname>Hensing</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Rademaker</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Clin Oncol</title>
+		<imprint>
+			<biblScope unit="volume">27</biblScope>
+			<biblScope unit="page" from="3284" to="3289" />
+			<date type="published" when="2009" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">PointBreak: A randomized phase III study of pemetrexed plus carboplatin and bevacizumab followed by maintenance pemetrexed and bevacizumab versus paclitaxel plus carboplatin and bevacizumab followed by maintenance bevacizumab in patients with stage IIIB or IV nonsquamous non-small-cell lung cancer</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">D</forename><surname>Patel</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">A</forename><surname>Socinski</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><forename type="middle">B</forename><surname>Garon</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Clin Oncol</title>
+		<imprint>
+			<biblScope unit="volume">31</biblScope>
+			<biblScope unit="page" from="4349" to="4357" />
+			<date type="published" when="2013" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Gefitinib or carboplatin-paclitaxel in pulmonary adenocarcinoma</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><forename type="middle">S</forename><surname>Mok</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Y</forename><forename type="middle">L</forename><surname>Wu</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Thongprasert</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">N Engl J Med</title>
+		<imprint>
+			<biblScope unit="volume">361</biblScope>
+			<biblScope unit="page" from="947" to="957" />
+			<date type="published" when="2009" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Erlotinib alone or with bevacizumab as first-line therapy in patients with advanced non-squamous non-small-cell lung cancer harbouring EGFR mutations (JO25567): An open-label, randomised, multicentre, phase 2 study</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Seto</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Kato</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Nishio</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Lancet Oncol</title>
+		<imprint>
+			<biblScope unit="volume">15</biblScope>
+			<biblScope unit="page" from="1236" to="1244" />
+			<date type="published" when="2014" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Safety of bevacizumab in patients with non-small-cell lung cancer and brain metastases</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">A</forename><surname>Socinski</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><forename type="middle">J</forename><surname>Langer</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">E</forename><surname>Huang</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Clin Oncol</title>
+		<imprint>
+			<biblScope unit="volume">27</biblScope>
+			<biblScope unit="page" from="5255" to="5261" />
+			<date type="published" when="2009" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">Bevacizumab in patients with nonsquamous non-small cell lung cancer and asymptomatic, untreated brain metastases (BRAIN): A nonrandomized, phase II study</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">B</forename><surname>Besse</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Le</forename><surname>Moulec</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Mazières</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Clin Cancer Res</title>
+		<imprint>
+			<biblScope unit="volume">21</biblScope>
+			<biblScope unit="page" from="1896" to="1903" />
+			<date type="published" when="2015" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">Pembrolizumab plus chemotherapy in metastatic non-small-cell lung cancer</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">L</forename><surname>Gandhi</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><surname>Rodríguez-Abreu</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Gadgeel</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">N Engl J Med</title>
+		<imprint>
+			<biblScope unit="volume">378</biblScope>
+			<biblScope unit="page" from="2078" to="2092" />
+			<date type="published" when="2018" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">Antiangiogenic agents can increase lymphocyte infiltration into tumor and enhance the effectiveness of adoptive immunotherapy of cancer</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><forename type="middle">K</forename><surname>Shrimali</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Z</forename><surname>Yu</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">R</forename><surname>Theoret</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Cancer Res</title>
+		<imprint>
+			<biblScope unit="volume">70</biblScope>
+			<biblScope unit="page" from="6171" to="6180" />
+			<date type="published" when="2010" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">Vascular normalizing doses of antiangiogenic treatment reprogram the immunosuppressive tumor microenvironment and enhance immunotherapy</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Y</forename><surname>Huang</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Yuan</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><surname>Righi</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Proc Natl Acad Sci</title>
+		<imprint>
+			<biblScope unit="volume">109</biblScope>
+			<biblScope unit="page" from="17561" to="17566" />
+			<date type="published" when="2012" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">Atezolizumab for first-line treatment of metastatic nonsquamous NSCLC</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">A</forename><surname>Socinski</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><forename type="middle">M</forename><surname>Jotte</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">F</forename><surname>Cappuzzo</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">N Engl J Med</title>
+		<imprint>
+			<biblScope unit="volume">378</biblScope>
+			<biblScope unit="page" from="2288" to="2301" />
+			<date type="published" when="2018" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

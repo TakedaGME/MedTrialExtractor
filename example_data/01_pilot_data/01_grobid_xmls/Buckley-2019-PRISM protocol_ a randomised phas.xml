@@ -1,0 +1,915 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /data/rsg/nlp/juanmoo1/bin/grobid-0.6.1/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">PRISM protocol: a randomised phase II trial of nivolumab in combination with alternatively scheduled ipilimumab in firstline treatment of patients with advanced or metastatic renal cell carcinoma</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Hannah</forename><forename type="middle">L</forename><surname>Buckley</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="laboratory">Clinical Trials Research Unit</orgName>
+								<orgName type="institution">University of Leeds</orgName>
+								<address>
+									<postCode>LS2 9JT</postCode>
+									<settlement>Leeds</settlement>
+									<country key="GB">UK</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Fiona</forename><forename type="middle">J</forename><surname>Collinson</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="laboratory">Clinical Trials Research Unit</orgName>
+								<orgName type="institution">University of Leeds</orgName>
+								<address>
+									<postCode>LS2 9JT</postCode>
+									<settlement>Leeds</settlement>
+									<country key="GB">UK</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Gemma</forename><surname>Ainsworth</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="laboratory">Clinical Trials Research Unit</orgName>
+								<orgName type="institution">University of Leeds</orgName>
+								<address>
+									<postCode>LS2 9JT</postCode>
+									<settlement>Leeds</settlement>
+									<country key="GB">UK</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Heather</forename><surname>Poad</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="laboratory">Clinical Trials Research Unit</orgName>
+								<orgName type="institution">University of Leeds</orgName>
+								<address>
+									<postCode>LS2 9JT</postCode>
+									<settlement>Leeds</settlement>
+									<country key="GB">UK</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Louise</forename><surname>Flanagan</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="laboratory">Clinical Trials Research Unit</orgName>
+								<orgName type="institution">University of Leeds</orgName>
+								<address>
+									<postCode>LS2 9JT</postCode>
+									<settlement>Leeds</settlement>
+									<country key="GB">UK</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Eszter</forename><surname>Katona</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="laboratory">Clinical Trials Research Unit</orgName>
+								<orgName type="institution">University of Leeds</orgName>
+								<address>
+									<postCode>LS2 9JT</postCode>
+									<settlement>Leeds</settlement>
+									<country key="GB">UK</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Helen</forename><forename type="middle">C</forename><surname>Howard</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="laboratory">Clinical Trials Research Unit</orgName>
+								<orgName type="institution">University of Leeds</orgName>
+								<address>
+									<postCode>LS2 9JT</postCode>
+									<settlement>Leeds</settlement>
+									<country key="GB">UK</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Geraldine</forename><surname>Murden</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="laboratory">Clinical Trials Research Unit</orgName>
+								<orgName type="institution">University of Leeds</orgName>
+								<address>
+									<postCode>LS2 9JT</postCode>
+									<settlement>Leeds</settlement>
+									<country key="GB">UK</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Rosamonde</forename><forename type="middle">E</forename><surname>Banks</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="institution">Leeds Institute of Medical Research at St James&apos;s, St. James&apos;s University Hospital</orgName>
+								<address>
+									<addrLine>Beckett Street</addrLine>
+									<postCode>LS9 7TF</postCode>
+									<settlement>Leeds</settlement>
+									<country key="GB">UK</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff2">
+								<orgName type="department">Leeds Institute of Medical Research at St James&apos;s, St. James&apos;s University Hospital</orgName>
+								<address>
+									<addrLine>Beckett Street</addrLine>
+									<postCode>LS9 7TF</postCode>
+									<settlement>Leeds</settlement>
+									<country key="GB">UK</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Joanne</forename><surname>Brown</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="institution">Leeds Institute of Medical Research at St James&apos;s, St. James&apos;s University Hospital</orgName>
+								<address>
+									<addrLine>Beckett Street</addrLine>
+									<postCode>LS9 7TF</postCode>
+									<settlement>Leeds</settlement>
+									<country key="GB">UK</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff2">
+								<orgName type="department">Leeds Institute of Medical Research at St James&apos;s, St. James&apos;s University Hospital</orgName>
+								<address>
+									<addrLine>Beckett Street</addrLine>
+									<postCode>LS9 7TF</postCode>
+									<settlement>Leeds</settlement>
+									<country key="GB">UK</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Galina</forename><surname>Velikova</surname></persName>
+							<affiliation key="aff3">
+								<orgName type="institution">University of Leeds</orgName>
+								<address>
+									<postCode>LS9 7TF</postCode>
+									<settlement>Leeds</settlement>
+									<country key="GB">UK</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Tom</forename><surname>Waddell</surname></persName>
+							<affiliation key="aff4">
+								<orgName type="department">Department of Medical Oncology</orgName>
+								<orgName type="institution">Christie Hospital</orgName>
+								<address>
+									<postCode>M20 4BX</postCode>
+									<settlement>Manchester</settlement>
+									<country key="GB">UK</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Kate</forename><surname>Fife</surname></persName>
+							<affiliation key="aff5">
+								<orgName type="department">Addenbrooke&apos;s Hospital</orgName>
+								<address>
+									<postCode>CB2 0QQ</postCode>
+									<settlement>Cambridge</settlement>
+									<country key="GB">UK</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Paul</forename><forename type="middle">D</forename><surname>Nathan</surname></persName>
+							<affiliation key="aff6">
+								<orgName type="department">Mount Vernon Cancer Centre</orgName>
+								<address>
+									<postCode>HA6 2RN</postCode>
+									<settlement>Middlesex</settlement>
+									<country key="GB">UK</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">James</forename><surname>Larkin</surname></persName>
+							<affiliation key="aff7">
+								<orgName type="department">Royal Marsden Hospital</orgName>
+								<address>
+									<postCode>SW3 6JJ</postCode>
+									<settlement>London</settlement>
+									<country key="GB">UK</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Thomas</forename><surname>Powles</surname></persName>
+							<affiliation key="aff8">
+								<orgName type="department">Barts Cancer Institute</orgName>
+								<address>
+									<postCode>EC1M 6BQ</postCode>
+									<settlement>London</settlement>
+									<country key="GB">UK</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Sarah</forename><forename type="middle">R</forename><surname>Brown</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="laboratory">Clinical Trials Research Unit</orgName>
+								<orgName type="institution">University of Leeds</orgName>
+								<address>
+									<postCode>LS2 9JT</postCode>
+									<settlement>Leeds</settlement>
+									<country key="GB">UK</country>
+								</address>
+							</affiliation>
+						</author>
+						<author role="corresp">
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Naveen</forename><forename type="middle">S</forename><surname>Vasudev</surname></persName>
+							<email>n.vasudev@leeds.ac.uk</email>
+							<idno type="ORCID">0000-0001-8470-7481</idno>
+							<affiliation key="aff0">
+								<orgName type="institution">Leeds Institute of Medical Research at St James&apos;s, St. James&apos;s University Hospital</orgName>
+								<address>
+									<addrLine>Beckett Street</addrLine>
+									<postCode>LS9 7TF</postCode>
+									<settlement>Leeds</settlement>
+									<country key="GB">UK</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff2">
+								<orgName type="department">Leeds Institute of Medical Research at St James&apos;s, St. James&apos;s University Hospital</orgName>
+								<address>
+									<addrLine>Beckett Street</addrLine>
+									<postCode>LS9 7TF</postCode>
+									<settlement>Leeds</settlement>
+									<country key="GB">UK</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">PRISM protocol: a randomised phase II trial of nivolumab in combination with alternatively scheduled ipilimumab in firstline treatment of patients with advanced or metastatic renal cell carcinoma</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<idno type="DOI">10.1186/s12885-019-6273-1</idno>
+					<note type="submission">Received: 19 August 2019 Accepted: 18 October 2019</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.6.1" ident="GROBID" when="2020-10-09T18:38+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>Renal cancer</term>
+					<term>Nivolumab</term>
+					<term>Ipilimumab</term>
+					<term>Schedule</term>
+					<term>Safety</term>
+					<term>Efficacy</term>
+					<term>Randomised</term>
+					<term>Immunotherapy</term>
+					<term>Trial</term>
+				</keywords>
+			</textClass>
+			<abstract>
+				<p>Background: The combination of nivolumab, a programmed death-1 (PD-1) targeted monoclonal antibody, with the cytotoxic T-lymphocyte antigen-4 (CTLA-4) targeted antibody, ipilimumab, represents a new standard of care in the first-line setting for patients with intermediate-and poor-risk metastatic renal cell carcinoma (mRCC) based on recent phase III data. Combining ipilimumab with nivolumab increases rates of grade 3 and 4 toxicity compared with nivolumab alone, and the optimal scheduling of these agents when used together remains unknown. The aim of the PRISM study is to assess whether less frequent dosing of ipilimumab (12-weekly versus 3-weekly), in combination with nivolumab, is associated with a favourable toxicity profile without adversely impacting efficacy. Methods: The PRISM trial is a UK-based, open label, multi-centre, phase II, randomised controlled trial. The trial population consists of patients with untreated locally advanced or metastatic clear cell RCC, and aims to recruit 189 participants. Participants will be randomised on a 2:1 basis in favour of a modified schedule of 4 doses of 12weekly ipilimumab versus a standard schedule of 4 doses of 3-weekly ipilimumab, both in combination with standard nivolumab. The proportion of participants experiencing a grade 3 or 4 adverse reaction within 12 months forms the primary endpoint of the study, but with 12-month progression free survival a key secondary endpoint. The incidence of all adverse events, discontinuation rates, overall response rate, duration of response, overall survival rates and health related quality of life will also be analysed as secondary endpoints. In addition, the potential of circulating and tissue-based biomarkers as predictors of therapy response will be explored. Discussion: The combination of nivolumab with ipilimumab is active in patients with mRCC. Modifying the frequency of ipilimumab dosing may mitigate toxicity rates and positively impact quality of life without compromising efficacy, a hypothesis being explored in other tumour types such as non-small cell lung cancer. The best way to give this combination to patients with mRCC must be similarly established. Trial registration: PRISM is registered with ISRCTN (reference ISRCTN95351638, 19/12/2017).</p>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Background</head><p>Kidney cancer is the 14th most common cancer worldwide with an estimated 400,000 new cases, and 175,000 attributable deaths, in 2018 <ref type="bibr" target="#b0">[1]</ref>. The majority of kidney cancers (90%) are renal cell carcinomas (RCC), most of which (75%) are of the clear cell subtype <ref type="bibr" target="#b1">[2]</ref>.</p><p>For the past decade, the mainstay of treatment for patients with metastatic RCC (mRCC), has been in the form of small molecule, vascular endothelial growth factor receptor-targeted, tyrosine kinase inhibitors (VEGFR TKIs), such as sunitinib and pazopanib. Whilst most patients initially get a clinical benefit from VEGFR TKIs, acquired resistance is typically observed within months after starting therapy, with median overall survival (OS) in the region of 2 years <ref type="bibr" target="#b2">[3,</ref><ref type="bibr" target="#b3">4]</ref>. The introduction of checkpoint inhibitors, targeting the cytotoxic T-lymphocyte antigen 4 (CTLA-4) and programmed death-1 (PD-1) T-cell receptors, has transformed the treatment landscape for patients with mRCC. The anti-PD1 antibody nivolumab, for example, is a standard treatment option following failure of VEGFR TKI <ref type="bibr" target="#b4">[5]</ref>.</p><p>Recently (during the set-up of PRISM), initial results from the landmark phase III trial, CheckMate 214 (CM214) comparing nivolumab plus the anti-CTLA-4 antibody ipilimumab against standard of care sunitinib, have been reported. In total, 1096 participants with untreated metastatic clear cell RCC were randomised 1:1 to receive either sunitinib (50 mg 4 weeks on; 2 weeks off) or combination immunotherapy using a schedule of nivolumab 3 mg/kg (N3) plus ipilimumab 1 mg/kg (I1) every 3 weeks for 4 doses, followed by nivolumab 3 mg/ kg every 2 weeks until disease progression or toxicity warranting treatment discontinuation <ref type="bibr" target="#b5">[6]</ref>. Amongst the 77% of participants with intermediate-or poor-risk disease, as per International Metastatic Renal Cell Carcinoma Database Consortium (IMDC) criteria <ref type="bibr" target="#b6">[7]</ref>, median OS was not reached in the N3 + I1 arm and was 26.0 months in the sunitinib arm (HR 0.63, p &lt; 0.001), establishing the combination as a new standard of care for the first-line treatment of patients with intermediateand poor-risk mRCC <ref type="bibr" target="#b7">[8]</ref>. Efficacy amongst favourablerisk participants formed an exploratory endpoint of the study and suggests improved response rates and PFS amongst sunitinib-treated patients, although these results should be interpreted with caution given the immature nature of the survival data and small sample size (n = 249). The reported toxicity associated with N3 + I1 was, however, significant. The rate of grade 3 or 4 treatment-related adverse events (AE) was 46% and led to treatment discontinuation in 22% of participants receiving the combination. In addition, high dose glucocorticoids (≥ 40 mg prednisone per day) were required in 35% of participants in order to manage immunerelated AEs <ref type="bibr" target="#b5">[6]</ref>. Until recently this combination treatment was not available in the UK, however it has gained approval for use in England through the national Cancer Drugs Fund in early April 2019 <ref type="bibr" target="#b8">[9]</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Study rationale</head><p>Whilst CM214 has established the superior efficacy of combination nivolumab with ipilimumab over sunitinib in patients with intermediate-and poor-risk mRCC, optimal scheduling of these drugs has not been explored in this disease area. Additionally, improving our current understanding of why some patients respond to immunotherapy whilst many others derive no benefit is recognised as a research priority and translational studies focusing on predictive biomarkers forms a further important exploratory objective of the trial.</p><p>PRISM is a Phase II, open label, multi-centre, parallel group, randomised controlled trial. Our trial was designed before CM214 results were available and seeks to establish whether less frequent scheduling of ipilimumab is associated with improved tolerability in patients with mRCC in comparison to the schedule used in CM214, without adversely impacting activity (in comparison with historic control data).</p><p>Studies in other cancer types demonstrate ipilimumab dose and / or frequency can affect the toxicity and efficacy of treatment. In advanced melanoma, for example, 10 mg/ kg ipilimumab every 3 weeks for 4 doses was associated with longer median OS but higher rates of grade 3 or 4 toxicity, in comparison to 3 mg/kg dosing <ref type="bibr" target="#b9">[10]</ref>. A recently reported melanoma trial comparing I3 + N1 versus I1 + N3 again showed a favourable toxicity profile associated with a lower dose of ipilimumab, with no apparent difference in efficacy at a minimum follow-up of 12 months <ref type="bibr" target="#b10">[11]</ref>. Varying doses and schedules of ipilimumab plus nivolumab have also been examined amongst 8 cohorts within the phase Ib CM012 study in patients with nonsmall cell lung cancer, including nivolumab 3 mg/kg q2W plus ipilimumab 1 mg/kg given either 6-(n = 39) or 12-(n = 38) weekly <ref type="bibr" target="#b11">[12]</ref>. The schedule N3 (2-weekly) + I1 (6weekly) was selected for phase III evaluation based on its safety and efficacy profile <ref type="bibr" target="#b12">[13]</ref>. Thus, formal investigation of the scheduling of ipilimumab when given in combination with nivolumab in patients with mRCC is warranted.</p><p>It was not feasible to design the study for an internal comparison of efficacy given the phase II nature of the trial and the required sample size for such a comparison. As the trial was designed prior to CM214 results being available, PRISM is powered to compare activity of the modified schedule with historic sunitinib control data, however ancillary analyses will explore results in relation to CM214.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Methods</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Trial objectives Primary objective</head><p>The primary aim of the PRISM trial is to assess whether the proposed alternative scheduling of ipilimumab (12-weekly), when given in combination with nivolumab, warrants further consideration based on safety and efficacy, as defined by the proportion of participants experiencing a grade 3 or 4 adverse reaction (AR) within 12 months and 12-month progression-free survival (PFS).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Secondary objectives</head><p>Secondary objectives include assessment in each treatment arm of: incidence of adverse reactions; treatment discontinuation rates; overall response rate; duration of response; response rate post-progression (for those receiving treatment beyond progression); overall survival rates; and health-related quality of life (HR-QoL).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Exploratory objectives</head><p>To explore circulating and tissue-based predictive biomarkers of response to immunotherapy.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Trial design</head><p>The study protocol and this manuscript have been written in accordance with standard protocol items: recommendations for interventional trials (SPIRIT) guidelines <ref type="bibr" target="#b13">[14]</ref>. We have included a SPIRIT checklist as supplementary material (Additional file 1: <ref type="table" target="#tab_0">Table S1</ref>).</p><p>The PRISM trial is an open label, multi-centre, phase II, randomised controlled trial to explore the efficacy and safety of alternative reduced intensity scheduling of ipilimumab, when given in combination with nivolumab as first-line therapy, in patients with locally advanced or metastatic RCC. The trial will recruit 189 participants with individual randomisation on a 2:1 basis in favour of the modified schedule (see <ref type="figure" target="#fig_0">Fig. 1</ref>). The two arms of the trial are as follows (see <ref type="figure" target="#fig_1">Fig. 2</ref></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>):</head><p>Arm A (modified schedule): 3 mg/kg nivolumab plus 1 mg/kg of ipilimumab every 12 weeks for 4 doses with:</p><p>2-weekly 240 mg flat dose single agent nivolumab between the first and second combined doses, and 4-weekly single agent nivolumab between the second and third, and third and fourth combined doses Followed by 4-weekly 480 mg flat dose single agent nivolumab following the fourth combination dose, until disease progression/unacceptable toxicity/participant choice. Arm B (standard schedule): 3 mg/kg nivolumab intravenously plus 1 mg/kg of ipilimumab every 3 weeks for 4 doses. Followed by 4-weekly 480 mg flat dose single agent nivolumab following the fourth combination dose, until disease progression/unacceptable toxicity/participant choice.</p><p>Participants may receive treatment beyond first Response Evaluation Criteria In Solid Tumors (RECIST) v1.1 <ref type="bibr" target="#b14">[15]</ref> defined progression based on investigatorassessed clinical benefit, tolerance of study drugs and stable performance status, as a minority of patients treated with immunotherapy may derive clinical benefit despite initial evidence of progressive disease. Trial treatment will be discontinued permanently upon documentation of further progression defined as the presence of any new lesion or an additional 10% increase in existing tumour burden from time of initial progression. Treatment will also be discontinued if treatment is delayed or interrupted for more than 6 weeks.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Quality of life evaluation</head><p>It is thought that nivolumab plus 12-weekly ipilimumab could be associated with favourable HR-QoL in comparison to standard 3-weekly dosing of ipilimumab. In order to evaluate treatment tolerability and its impact from a patient perspective, Patient-Reported Outcome Measures (PROM) to evaluate both overall HR-QoL and patient-reported AEs (physical symptoms of RCC and side effects of the treatments) will be collected. The severity and trajectory of AEs (symptoms or side-effects) of both treatment schedules will be reported, allowing comparison between clinician reported AEs (CTCAE V5.0) and patient-reported AEs using PROMs <ref type="bibr" target="#b15">[16]</ref>. The primary outcome measure will be the summary score for HR-QoL of European Organisation for Research and Treatment of Cancer (EORTC) QLQ-C30. Secondary descriptive outcomes will include EQ-5D-5L™, physical symptoms of RCC (measured by Functional Assessment of Cancer Therapy Kidney Symptom Index (FKSI-19)) and known side-effects of ipilimumab and nivolumab measured by selected items from EORTC Quality of Life Group item bank <ref type="bibr">[17]</ref>. We propose to use the item bank approach to cover expected toxicity of the investigational treatments, as due to the rapid introduction of new targeted cancer treatments there are no existing validated instruments that will cover the full range of AEs and using well developed and validated items from the item bank is a viable rapid alternative. PRO measures will be collected at baseline, weeks 7 and 13, then 12-weekly. The data collection will stop at disease progression or 61 weeks, whichever is earlier.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Translational study</head><p>The PRISM trial incorporates a strong translational element that seeks to explore circulating and tissue based predictive biomarkers of response to immunotherapy in patients with mRCC. The identification of such markers represents a research priority. Samples of plasma, serum and cell-free DNA will be collected in all consenting patients at baseline, weeks 7, 13 (selected to coincide with clinic visits) and at disease progression. Samples will be processed according to strict standard operating procedures (SOPs) defined within an associated trial-specific translational manual and all storage kit materials supplied centrally including barcoded blood tubes. In select centres, peripheral blood mononuclear cells (PBMCs) will also be collected from participants at the same time-points. Where available, an archival formalinfixed paraffin embedded tissue block from nephrectomised participants will also be requested. </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Sample size</head><p>The trial will provide a comparison of tolerability between the modified schedule (Arm A) and standard schedule (Arm B) and will provide supportive data regarding the efficacy of the modified schedule (Arm A) in relation to historical control data with sunitinib <ref type="bibr" target="#b4">[5]</ref>. To warrant further investigation, the modified schedule must meet both elements of the primary objective and show potential in terms of both tolerability and efficacy. In total, 189 patients (allowing for 5% attrition) will be recruited in order to adequately power both the toxicity and efficacy aspects of the study.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Toxicity</head><p>We expect approximately 40% of participants to experience a grade 3 or 4 AR within the initial 12 months of treatment when treated with the standard schedule (Arm B) <ref type="bibr" target="#b16">[18]</ref>. To detect a clinically relevant reduction to 22% with the modified schedule (Arm A) (equivalent to a 45% relative reduction; odds ratio (OR) = 0.423), with 80% power at the two-sided 10% significance level, would require 178 participants, allowing for 5% attrition.</p><p>Efficacy Assuming exponential survival, a median progression-free survival (PFS) with sunitinib of 9 months <ref type="bibr" target="#b4">[5]</ref>, (equivalent to 39.7% patients progressionfree at 12 months) and targeting a minimum clinically relevant hazard ratio of 0.73 (corresponding to a median PFS in the modified Arm A schedule of 12.3 months, or 50.9% progression-free at 12 months) 120 participants would be required in the modified schedule arm to give 80% power at the one-sided 5% significance level. With 2:1 randomisation, a total of 189 patients will need to be recruited to allow for 5% attrition. Comparison with historical control data is based on data available at the time of design from the COMPARZ study <ref type="bibr" target="#b4">[5]</ref>, however additional unpowered analyses will be considered in light of the CM214 results now being available.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Consent, eligibility, screening and registration</head><p>Potential participants from participating NHS hospitals in the UK will be provided with verbal and written information about the trial and given as long as required to consider participation. Assenting patients will provide written informed consent and be registered to the trial via a central automated 24-h system (provided by University of Leeds) prior to any trial specific assessments being conducted. Participants can also optionally consent to take part in HR-QoL and biomarker substudies. Participants retain the right to withdraw at any time without giving reasons and without their further treatment being prejudiced.</p><p>A full list of inclusion and exclusion criteria can be found in <ref type="table" target="#tab_0">Table 1</ref>. In short, patients aged 18 or over with advanced or metastatic clear cell RCC, RECIST measurable disease and a Karnofsky Performance Status of at least 70% will be eligible. All IMDC risk-groups, including those with favourable-risk disease, are eligible. Patients will not be eligible if they have undergone prior systemic anti-cancer treatment or if they have active, known or suspected autoimmune disease. Eligibility waivers will not be granted in this trial.</p><p>Screening assessments for eligibility will include: Computed tomography (CT) chest, abdomen and pelvis; electrocardiogram (ECG); physical exam and medical history; full blood count (FBC); urea and electrolytes (U&amp;Es); liver function tests (LFTs); hepatitis B/C and human immunodeficiency virus (HIV) tests; calculated creatinine clearance (CrCI); Karnofsky performance status (KPS); IMDC prognostic group classification; where </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Randomisation</head><p>Randomisation will be performed following confirmation of eligibility (and prior to any trial treatment) via a central automated 24-h system (provided by University of Leeds) to either the modified schedule or the standard schedule on a 2:1 allocation ratio in favour of the modified schedule. A computer-generated minimisation programme incorporating a random element generated by the independent CTRU Statisticians will be used to ensure treatment groups are well balanced proportionately with respect to: IMDC prognostic group (favourable/intermediate/poor risk); nephrectomy status (nephrectomy/no nephrectomy); and disease type (metastatic/locally advanced). Irrespective of their randomised allocation, participants should commence therapy within 14 days of randomisation.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Assessments</head><p>A schedule of assessments is provided as supplementary material in (Additional file 2: <ref type="table">Table S2</ref>).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>During treatment</head><p>Due to the difference in treatment schedules, participants in Arm A (modified schedule) will be assessed every 2 weeks for the first 12 weeks while those in Arm Men who are sexually active with WOCBP must agree to use any contraceptive method with a failure rate of less than 1% per year. Men who are sexually active with WOCBP must agree to adhere to contraception for a period of 31 weeks after the last dose of investigational product.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Exclusion criteria</head><p>Pregnant or breast feeding females.</p><p>Prior systemic therapy for RCC (previous participation in adjuvant studies allowed, providing the patient was on the observation/ placebo armthis may require unblinding of the patient)</p><p>Participants who have undergone any prior systemic anti-cancer treatment, including with an anti-PD-1, anti-PD-L1, anti-PD-L2, anti-CTLA-4 antibody, or any other antibody or drug specifically targeting T-cell co-stimulation or immune checkpoint pathways (previous participation in adjuvant studies allowed, providing the patient was on the observation/placebo armthis may require unblinding of the patient)  Patients should be excluded if they have a condition requiring systemic treatment with either corticosteroids (&gt; 10 mg daily prednisone or equivalent) or other immunosuppressive medications within 14 days of study drug administration. (Inhaled or topical steroids and adrenal replacement doses &gt; 10 mg daily prednisone equivalents are permitted in the absence of active autoimmune disease).</p><p>Uncontrolled adrenal insufficiency.</p><p>Any serious or uncontrolled medical disorder that, in the opinion of the investigator, may increase the risk associated with study participation or study drug administration, impair the ability of the subject to receive protocol therapy, or interfere with the interpretation of study results.</p><p>Palliative radiotherapy less than 14 days prior to first dose of study drug.</p><p>Any history of hypersensitivity to any of the trial medications or excipients.</p><p>Poorly controlled or serious medical or psychiatric illness that, in the Investigator's opinion, is likely to interfere with participation and/or compliance in this clinical trial.</p><p>B (standard schedules) will be assessed every 3 weeks until week 16. Thereafter, all participants will be assessed 4-weekly. Each assessment will include: clinical assessment; adverse event reporting; LFTs; FBC; U&amp;Es; thyroid function test (TFT); glucose; calcium; amylase; and cortisol. PROMs will be completed at baseline and weeks 7, 13, and then 12-weekly until 61 weeks or until disease progression, whichever is earlier. Assenting participants will give samples of serum and plasma (and at selected sites only, PMBCs) at baseline, weeks 7, 13 and at disease progression. The differential reporting between trial arms is not felt to be a large concern due to: i) the short time lapse between assessments; ii) there being only 1 week's difference in the reporting period between trial arms; iii) follow-up being 4-weekly for both trial arms for the majority of the trial; and iv) the primary and key secondary endpoints being over 12 months. In addition, this differential follow-up is in favour of the standard schedule (Arm B) due to more frequent reporting in Arm A (modified schedule), and is therefore conservative.</p><p>All participants will receive radiological assessment according to RECIST criteria using contrast enhanced CT of the chest, abdomen and pelvis every 12 weeks until disease progression or treatment discontinuation (whichever occurs later).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Follow up</head><p>The duration of follow-up for individual participants will vary. Every participant will be followed up with radiological assessments until disease progression or treatment discontinuation, whichever occurs later. Safety follow-up will continue for 100 days after the last dose of study drug or death, whichever occurs earlier. A followup visit will be conducted at 30 days post last dose of trial treatment where assessments will include: clinical assessment; adverse event reporting; FBC; U&amp;Es; LFTs; TFTs; and cortisol. Participants will be followed up for overall survival 12 months post last patient randomised via centre follow-up.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Outcomes</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Primary endpoint</head><p>The primary endpoint is the proportion of participants experiencing a grade 3 or 4 adverse reaction within the initial 12 months of treatment as graded by CTCAE v5.0.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Key secondary endpoint</head><p>Efficacy forms a key secondary endpoint of the study and will be based on the proportion of participants alive and progression-free at 12 months. Progression-free survival will be calculated from the date of randomisation to first documented evidence of disease progression (based on RECIST v1.1 criteria) or death. This landmark survival endpoint provides a pragmatic and timely readout of efficacy in this phase II trial and was selected before the results of the CM214 trial were available. Since the CM214 trial has now reported, additional exploratory analyses will be considered (such as the presentation of summary statistics for PFS at 12 m by prognostic group) and will be pre-specified prior to the final analysis being conducted.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Secondary endpoints</head><p>Safety and toxicity: adverse reactions (ARs), serious adverse events (SAEs), serious adverse reactions (SARs) and suspected unexpected serious adverse reactions (SUSARs) as measured throughout the trial and graded by common terminology criteria for adverse events (CTCAE) v5.0; Treatment tolerability: the proportion of participants who experience a treatment delay, the average number of treatment delays per participant and the duration of delays as measured over the course of trial treatment; Treatment discontinuation: rates of treatment discontinuation at any point during trial treatment and reasons; Overall response: the proportion of participants with partial response or complete response (PR or CR) as their best response to treatment prior to firstprogression as defined by RECIST v1.1; Duration of response: calculated from first observation of at least PR until disease progression (as defined by RECIST v1.1) or death; Overall survival: calculated from the date of randomisation to the date of death from any cause; Response rate for treatment beyond progression: the proportion of participants showing a partial or complete best response (PR or CR) as defined by RECIST v1.1 when treated beyond progression. Health-related Quality of Life: assessed using the FKSI-19; the EORTC QLQ-C30; study-specific symptoms and the EQ-5D-5L TM and scored using the corresponding scoring manuals.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Statistical methods and analysis</head><p>Analyses will be conducted following modified intention-to-treat principles (unless otherwise stated a priori) meaning participants will be analysed in the group to which they were randomised regardless of compliance or cross-over. Participants will be included in the primary and key secondary analyses provided they have received at least one dose of trial treatment and have provided the relevant outcome data.</p><p>The primary analysis will examine differences in the proportion of participants experiencing a grade 3 or 4 AR within the initial 12 months of treatment between trial arms using a logistic regression model, adjusting for minimisation factors (IMDC prognostic group, nephrectomy status, disease type); odds ratios will be presented alongside corresponding confidence intervals (CI). Prespecified sensitivity analyses may be conducted as appropriate.</p><p>Should the primary analysis show a reduction in toxicity for the modified schedule (Arm A) compared with the standard schedule (Arm B), the formal key secondary analysis will be conducted. If the lower limit of the 90% CI for the proportion of participants alive and progression-free at 12 months in the modified schedule only (Arm A) excludes the rate of no interest based on historical (sunitinib-treated) control data (39.7%), the modified schedule will be deemed to have sufficient activity in line with that expected in the CM214 trial. The trial will provide supportive information rather than definitive conclusions of superiority of the modified arm to sunitinib. Secondary endpoints will be analysed using summary statistics alongside confidence intervals where appropriate. All analyses will be fully detailed in a statistical analysis plan prior to being undertaken.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Trial conduct and oversight</head><p>Data will be collected via electronic case report forms (eCRF). The trial will be conducted in accordance with the principles of Good Clinical Practice (GCP) and in line with the relevant Research Governance Framework within the UK through adherence with CTRU standard operating procedures (SOPs). An independent Data Monitoring and Ethics Committee (DMEC) will be established to review safety data on a regular basis to identify any safety concerns or trends. An independent Trial Steering Committee (TSC) will periodically review safety data and discuss recommendations made by the DMEC.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Discussion</head><p>Exploration of drug dosing schedules is an important, yet perhaps over-looked, factor in optimising treatment for patients with cancer. Alternative scheduling of drugs may lead to improvement in efficacy and/or tolerability, as well as in terms of cost-effectiveness. Studies demonstrating improved tolerability for sunitinib taken on a 2 weeks on, 1 week off basis compared to the standard 4:2 schedule provide a good example of this <ref type="bibr" target="#b17">[19]</ref>. Similarly, enthusiasm for the rapid adoption of immune-oncology agents into clinical practice must, in parallel, be matched by careful and robust examination of dosing and schedule, as well as duration of therapy, if efficacy, tolerability, QoL and cost-effectiveness are to be maximised. The phase III CM214 study has formally established the efficacy of the combination of nivolumab plus ipilimumab (using standard 3-weekly ipilimumab) in patients with mRCC. As oncologists begin to adopt the regimen into routine clinical practice, the PRISM trial has been designed with the important aim of establishing whether reduced intensity scheduling of ipilimumab is associated with reduced toxicity and improved QoL for patients, without compromising activity. The study has been designed pragmatically, since formal demonstration of non-inferiority of the experimental schedule to the current standard in terms of efficacy would not have been feasible given the required sample size. The results from our trial may lead to change in clinical practice in patients with mRCC and have implications for the scheduling of ipilimumab in other tumour settings when used in combination with nivolumab. Additionally, as treatment options continue to burgeon in mRCC, PRISM meets a research priority by aiming to identify predictive biomarkers of response to immunotherapy in this patient population, helping lead the way towards personalised medicine in this area.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>Fig. 1</head><label>1</label><figDesc>PRISM trial schema</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head>Fig. 2</head><label>2</label><figDesc>Treatment schedule. Frequency and dosing of nivolumab and ipilimumab for both arms of the study are shown applicable, pregnancy test. Consenting patients will also be asked to complete baseline HR-QoL questionnaires. Those assenting will also give samples of serum and plasma (and at selected sites only, peripheral blood mononuclear cells [PBMCs]).</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>Table 1</head><label>1</label><figDesc>Eligibility Criteria</figDesc><table><row><cell>Inclusion criteria</cell></row><row><cell>Aged 18 years or over</cell></row><row><cell>Diagnosed with advanced (not amenable to curative surgery) or</cell></row><row><cell>metastatic RCC</cell></row><row><cell>Histopathologically confirmed clear cell renal cell cancer (or with a</cell></row><row><cell>component of clear cell)</cell></row><row><cell>Evidence of measurable disease as per RECIST v1.1</cell></row><row><cell>Life expectancy of ≥6 months</cell></row><row><cell>Karnofsky Performance Status (KPS) of at least 70%</cell></row><row><cell>Required laboratory values within 14 days prior to randomisation:</cell></row><row><cell>• WBC ≥ 2 × 10 9 /L • Neutrophils ≥1.5 × 10 9 /L • Platelets ≥100 × 10 9 /L</cell></row><row><cell>• Haemoglobin &gt; 9.0 g/dL</cell></row></table><note>• Serum creatinine ≤1.5 x ULN or calculated creatinine clearance (CrCl) ≥ 40 mL/min (Cockcroft and Gault or Wright formula may be used according to local practice) • AST and ALT ≤3 x ULN • Total Bilirubin ≤1.5 x ULN (except subjects with Gilbert Syndrome, who can have total bilirubin &lt; 50 μmol/L) Able to give written informed consent and willing to follow trial protocol Women of childbearing potential (WOCBP) must: • Use appropriate method(s) of contraception for 23 weeks after the last dose of investigational drug.• Have a negative serum or urine pregnancy test (minimum sensitivity 25 IU/L or equivalent units of HCG) before randomisation.</note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_1"><head></head><label></label><figDesc>Prior malignancy active within the previous 3 years except for locally curable cancers that have been apparently cured, such as basal or squamous cell skin cancer, superficial bladder cancer, or carcinoma in situ of the prostate, cervix, or breast.</figDesc><table><row><cell>Participants who test positive for hepatitis B virus surface antigen</cell></row><row><cell>(HBV sAg) or hepatitis C virus ribonucleic acid (HCV antibody)</cell></row><row><cell>indicating acute or chronic infection.</cell></row><row><cell>Participants who test positive for human immunodeficiency virus</cell></row><row><cell>(HIV) or have known acquired immunodeficiency syndrome (AIDS).</cell></row></table><note>Untreated brain metastases or brain metastases treated only with whole brain radiotherapy. (Patients are eligible if previous brain metastases treated with complete surgical resection, Stereotactic Brain Radiation Therapy (SBRT), or gamma knife with no subsequent evidence of progression and asymptomatic).Active, known or suspected autoimmune disease. (Subjects are permitted to enrol if they have vitiligo, type I diabetes mellitus,</note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_2"><head>Table 1</head><label>1</label><figDesc>Eligibility Criteria (Continued) residual hypothyroidism due to autoimmune condition only requiring hormone replacement, psoriasis not requiring systemic treatment, or conditions not expected to recur in the absence of an external trigger).</figDesc><table /><note></note></figure>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Acknowledgements</head><p>The PRISM trial is sponsored by the University of Leeds and was developed by the PRISM trial management group, with the support of the UK NCRI Renal and Bladder Cancer Clinical Studies Group. We would like to thank Kidney Cancer UK for providing external peer review of the trial protocol. We are very grateful for Patient and Public Involvement in the design of this trial.</p></div>
+			</div>
+
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Supplementary information</head><p>Supplementary information accompanies this paper at https://doi.org/10. 1186/s12885-019-6273-1.</p><p>Additional file 1: <ref type="table">Table S1</ref>. SPIRIT Checklist. <ref type="table">Table S2</ref>. Schedule of Assessment. Authors' contributions HB, LF, GM, RB, JB, PN, TP, JL, KF, GV, TW, SB, FC and NV designed the PRISM trial. HB, SB and GA developed the statistical analysis plan. HB, SB, FC, GA, HP, EK, GM, HH are members of the Leeds Clinical Trials Research Unit supporting the trial. All authors read and approved the final manuscript which is based on version 3.0 of the protocol.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Additional file 2:</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Funding</head><p>This trial is funded by Bristol-Myers Squibb (BMS) with support from the Yorkshire Cancer Research (YCR) Early Phase Centre based at the University of Leeds (SB and GM are supported by YCR Early Phase Centre infrastructure funding). The funding bodies reviewed the design of the study, the sponsor had no involvement in design. Neither the sponsor nor the funding bodies will have a role in the collection, analysis or interpretation of data. BMS reviewed this manuscript prior to submission.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Availability of data and materials</head><p>Not applicable.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Ethics approval and consent to participate</head><p>The trial has received ethics approval from the NHS National Research Ethics Service (NRES) Yorkshire and The Humber Leeds East Research Ethics Committee (Ref: 17/YH/0187). All participating sites require site specific approval before opening to patient recruitment. All participants provide full informed consent to participate in PRISM.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Consent for publication</head><p>Not applicable.</p><p>Competing interests TW, KF, JL, PN, TP and NV have received advisory fees and / or speaker honoraria from Bristol Myers Squibb. This trial is funded by Bristol-Myers Squibb, a global biopharmaceutical company. All other authors declare that they have no competing interests.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Publisher's Note</head><p>Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.</p></div>			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Global cancer statistics 2018: GLOBOCAN estimates of incidence and mortality worldwide for 36 cancers in 185 countries</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">F</forename><surname>Bray</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Ferlay</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">I</forename><surname>Soerjomataram</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><forename type="middle">L</forename><surname>Siegel</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">L</forename><forename type="middle">A</forename><surname>Torre</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Jemal</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">CA Cancer J Clin</title>
+		<imprint>
+			<biblScope unit="volume">68</biblScope>
+			<biblScope unit="page" from="394" to="424" />
+			<date type="published" when="2018" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Renal cancer</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">U</forename><surname>Capitanio</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">F</forename><surname>Montorsi</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Lancet</title>
+		<imprint>
+			<biblScope unit="volume">387</biblScope>
+			<biblScope unit="page" from="894" to="906" />
+			<date type="published" when="2016" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">External validation and comparison with other models of the International Metastatic Renal-Cell Carcinoma Database Consortium prognostic model: a population-based study</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><forename type="middle">Y</forename><surname>Heng</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">W</forename><surname>Xie</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">M</forename><surname>Regan</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">L</forename><forename type="middle">C</forename><surname>Harshman</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">G</forename><forename type="middle">A</forename><surname>Bjarnason</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">U</forename><forename type="middle">N</forename><surname>Vaishampayan</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Lancet Oncol</title>
+		<imprint>
+			<biblScope unit="volume">14</biblScope>
+			<biblScope unit="page" from="141" to="149" />
+			<date type="published" when="2013" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Prognostic model for survival in patients with metastatic renal cell carcinoma: results from the international kidney cancer working group</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Manola</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><surname>Royston</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><surname>Elson</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">B</forename><surname>Mccormack</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Mazumdar</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Négrier</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Clin Cancer Res</title>
+		<imprint>
+			<biblScope unit="volume">17</biblScope>
+			<biblScope unit="page" from="5443" to="50" />
+			<date type="published" when="2011" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Pazopanib versus sunitinib in metastatic renal-cell carcinoma</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><forename type="middle">J</forename><surname>Motzer</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><forename type="middle">E</forename><surname>Hutson</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><surname>Cella</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Reeves</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><surname>Hawkins</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Guo</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">N Engl J Med</title>
+		<imprint>
+			<biblScope unit="volume">369</biblScope>
+			<biblScope unit="page" from="722" to="753" />
+			<date type="published" when="2013" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Nivolumab plus ipilimumab versus sunitinib in advanced renal-cell carcinoma</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><forename type="middle">J</forename><surname>Motzer</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">N</forename><forename type="middle">M</forename><surname>Tannir</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><forename type="middle">F</forename><surname>Mcdermott</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Arén</forename><surname>Frontera</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">O</forename><surname>Melichar</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">B</forename><surname>Choueiri</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><forename type="middle">K</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">N Engl J Med</title>
+		<imprint>
+			<biblScope unit="volume">378</biblScope>
+			<biblScope unit="page" from="1277" to="90" />
+			<date type="published" when="2018" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Prognostic factors for overall survival in patients with metastatic renal cell carcinoma treated with vascular endothelial growth factor-targeted agents: results from a large, multicenter study</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><forename type="middle">Y</forename><surname>Heng</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">W</forename><surname>Xie</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">M</forename><surname>Regan</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">A</forename><surname>Warren</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><forename type="middle">R</forename><surname>Golshayan</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><surname>Sahi</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Clin Oncol</title>
+		<imprint>
+			<biblScope unit="volume">27</biblScope>
+			<biblScope unit="page" from="5794" to="5803" />
+			<date type="published" when="2009" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Updated european association of urology guidelines: recommendations for the treatment of first-line metastatic clear cell renal cancer</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Powles</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">L</forename><surname>Albiges</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Staehler</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><surname>Bensalah</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Dabestani</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><forename type="middle">H</forename><surname>Giles</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Eur Urol</title>
+		<imprint>
+			<biblScope unit="volume">73</biblScope>
+			<biblScope unit="page" from="311" to="316" />
+			<date type="published" when="2018" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Quality of life in patients with metastatic renal cell carcinoma treated with sunitinib or interferon alfa: results from a phase III randomized trial</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><surname>Cella</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">Z</forename><surname>Li</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">C</forename><surname>Cappelleri</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Bushmakin</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><surname>Charbonneau</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><forename type="middle">T</forename><surname>Kim</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Clin Oncol</title>
+		<imprint>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="page" from="3763" to="3772" />
+			<date type="published" when="2008" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Ipilimumab 10 mg/kg versus ipilimumab 3 mg/kg in patients with unresectable or metastatic melanoma: a randomised, doubleblind, multicentre, phase 3 trial</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><forename type="middle">A</forename><surname>Ascierto</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Del</forename><surname>Vecchio</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Robert</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><surname>Mackiewicz</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Chiarion-Sileni</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">V</forename><surname>Arance</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Lancet Oncol</title>
+		<imprint>
+			<biblScope unit="volume">18</biblScope>
+			<biblScope unit="page" from="611" to="633" />
+			<date type="published" when="2017" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Evaluation of two dosing regimens for Nivolumab in combination with Ipilimumab in patients with advanced melanoma: results from the phase IIIb/IV CheckMate 511 trial</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><surname>Lebbe</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">N</forename><surname>Meyer</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">L</forename><surname>Mortier</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">I</forename><surname>Marquez-Rodas</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><surname>Robert</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><surname>Rutkowski</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Clin Oncol</title>
+		<imprint>
+			<biblScope unit="volume">37</biblScope>
+			<biblScope unit="page" from="867" to="75" />
+			<date type="published" when="2019" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Nivolumab plus ipilimumab as first-line treatment for advanced nonsmall-cell lung cancer (CheckMate 012): results of an open-label, phase 1, multicohort study</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">D</forename><surname>Hellmann</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">N</forename><forename type="middle">A</forename><surname>Rizvi</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">W</forename><surname>Goldman</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><forename type="middle">N</forename><surname>Gettinger</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><surname>Borghaei</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">R</forename><surname>Brahmer</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Lancet Oncol</title>
+		<imprint>
+			<biblScope unit="volume">18</biblScope>
+			<biblScope unit="page" from="31" to="41" />
+			<date type="published" when="2017" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Nivolumab plus Ipilimumab in Lung Cancer with a high tumor mutational burden</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">D</forename><surname>Hellmann</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><forename type="middle">E</forename><surname>Ciuleanu</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Pluzanski</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">S</forename><surname>Lee</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">G</forename><forename type="middle">A</forename><surname>Otterson</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><surname>Audigier-Valette</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">N Engl J Med</title>
+		<imprint>
+			<biblScope unit="volume">378</biblScope>
+			<biblScope unit="page" from="2093" to="104" />
+			<date type="published" when="2018" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">SPIRIT 2013 statement: defining standard protocol items for clinical trials</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A-W</forename><surname>Chan</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">M</forename><surname>Tetzlaff</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><forename type="middle">G</forename><surname>Altman</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Laupacis</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><forename type="middle">C</forename><surname>Gøtzsche</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><surname>Krleža-Jerić</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ann Intern Med</title>
+		<imprint>
+			<biblScope unit="volume">158</biblScope>
+			<biblScope unit="page" from="200" to="207" />
+			<date type="published" when="2013" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">New response evaluation criteria in solid tumours: revised RECIST guideline (version 1.1)</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><forename type="middle">A</forename><surname>Eisenhauer</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><surname>Therasse</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Bogaerts</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">L</forename><forename type="middle">H</forename><surname>Schwartz</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><surname>Sargent</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><surname>Ford</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Eur J Cancer</title>
+		<imprint>
+			<biblScope unit="volume">45</biblScope>
+			<biblScope unit="page" from="228" to="275" />
+			<date type="published" when="2009" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Patient-reported outcomes in cancer clinical trials: measuring symptomatic adverse events with the National Cancer Institute&apos;s Patient-Reported Outcomes version of the Common Terminology Criteria for Adverse Events (PRO-CTCAE)</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><forename type="middle">G</forename><surname>Kluetz</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><forename type="middle">T</forename><surname>Chingos</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><forename type="middle">M</forename><surname>Basch</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><forename type="middle">A</forename><surname>Mitchell</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Am Soc Clin Oncol Educ Book</title>
+		<imprint>
+			<biblScope unit="volume">36</biblScope>
+			<biblScope unit="page" from="67" to="73" />
+			<date type="published" when="2016" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Safety and efficacy of Nivolumab in combination with Ipilimumab in metastatic renal cell carcinoma: the CheckMate 016 study</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><forename type="middle">J</forename><surname>Hammers</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><forename type="middle">R</forename><surname>Plimack</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">R</forename><surname>Infante</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">B</forename><forename type="middle">I</forename><surname>Rini</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><forename type="middle">F</forename><surname>Mcdermott</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Ernstoff</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Clin Oncol</title>
+		<imprint>
+			<biblScope unit="volume">35</biblScope>
+			<biblScope unit="page" from="3851" to="3859" />
+			<date type="published" when="2017" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">How clinical practice is changing the rules: the sunitinib 2/1 schedule in metastatic renal cell carcinoma</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Bracarda</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Negrier</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Casper</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><surname>Porta</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Schmidinger</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Larkin</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Expert Rev Anticancer Ther</title>
+		<imprint>
+			<biblScope unit="volume">17</biblScope>
+			<biblScope unit="page" from="227" to="260" />
+			<date type="published" when="2017" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

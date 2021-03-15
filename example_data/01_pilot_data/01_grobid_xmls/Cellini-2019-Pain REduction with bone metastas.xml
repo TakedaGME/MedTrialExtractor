@@ -1,0 +1,702 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /data/rsg/nlp/juanmoo1/bin/grobid-0.6.1/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Pain REduction with bone metastases STereotactic radiotherapy (PREST): A phase III randomized multicentric trial</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Francesco</forename><surname>Cellini</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Dipartimento di Diagnostica per Immagini</orgName>
+								<orgName type="institution" key="instit1">Fondazione Policlinico Universitario &quot;A. Gemelli&quot; IRCCS</orgName>
+								<orgName type="institution" key="instit2">UOC di Radioterapia Oncologica</orgName>
+								<address>
+									<addrLine>Radioterapia Oncologica ed Ematologia</addrLine>
+									<settlement>Rome</settlement>
+									<country key="IT">Italy</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Stefania</forename><surname>Manfrida</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Dipartimento di Diagnostica per Immagini</orgName>
+								<orgName type="institution" key="instit1">Fondazione Policlinico Universitario &quot;A. Gemelli&quot; IRCCS</orgName>
+								<orgName type="institution" key="instit2">UOC di Radioterapia Oncologica</orgName>
+								<address>
+									<addrLine>Radioterapia Oncologica ed Ematologia</addrLine>
+									<settlement>Rome</settlement>
+									<country key="IT">Italy</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Francesco</forename><surname>Deodato</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Savino</forename><surname>Cilla</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Ernesto</forename><surname>Maranzano</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Stefano</forename><surname>Pergolizzi</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Fabio</forename><surname>Arcidiacono</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Rossella</forename><forename type="middle">Di</forename><surname>Franco</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Francesco</forename><surname>Pastore</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Matteo</forename><surname>Muto</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Valentina</forename><surname>Borzillo</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Costanza</forename><forename type="middle">Maria</forename><surname>Donati</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Giambattista</forename><surname>Siepe</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Salvatore</forename><surname>Parisi</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Antonia</forename><surname>Salatino</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Antonino</forename><surname>D'agostino</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Giampaolo</forename><surname>Montesi</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Anna</forename><surname>Santacaterina</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Vincenzo</forename><surname>Fusco</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="laboratory">Radiotherapy Oncology Department , IRCCS CROB, Rionero In Vulture, Italy. 16 Radiotherapy Unit, Ospedale San Camillo de Lellis, Rieti, Italy. 17 Università Cattolica del Sacro Cuore, Istituto di Radiologia, Roma, Italy. 18 Radiation Oncology Department, University of Genoa (DISSAL) and IRCCS Ospedale Policlinico San Martino, Genoa</orgName>
+								<address>
+									<country key="IT">Italy</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Mario</forename><surname>Santarelli</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Maria</forename><forename type="middle">Antonietta</forename><surname>Gambacorta</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Dipartimento di Diagnostica per Immagini</orgName>
+								<orgName type="institution" key="instit1">Fondazione Policlinico Universitario &quot;A. Gemelli&quot; IRCCS</orgName>
+								<orgName type="institution" key="instit2">UOC di Radioterapia Oncologica</orgName>
+								<address>
+									<addrLine>Radioterapia Oncologica ed Ematologia</addrLine>
+									<settlement>Rome</settlement>
+									<country key="IT">Italy</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Renzo</forename><surname>Corvò</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Alessio</forename><forename type="middle">Giuseppe</forename><surname>Morganti</surname></persName>
+						</author>
+						<author role="corresp">
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Valeria</forename><surname>Masiello</surname></persName>
+							<email>valeria.masiello@guest.policlinicogemelli.it</email>
+							<idno type="ORCID">0000-0001-7589-7623</idno>
+							<affiliation key="aff0">
+								<orgName type="department">Dipartimento di Diagnostica per Immagini</orgName>
+								<orgName type="institution" key="instit1">Fondazione Policlinico Universitario &quot;A. Gemelli&quot; IRCCS</orgName>
+								<orgName type="institution" key="instit2">UOC di Radioterapia Oncologica</orgName>
+								<address>
+									<addrLine>Radioterapia Oncologica ed Ematologia</addrLine>
+									<settlement>Rome</settlement>
+									<country key="IT">Italy</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Paolo</forename><surname>Muto</surname></persName>
+							<idno type="ORCID">0000-0001-7589-7623</idno>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Vincenzo</forename><surname>Valentini</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Dipartimento di Diagnostica per Immagini</orgName>
+								<orgName type="institution" key="instit1">Fondazione Policlinico Universitario &quot;A. Gemelli&quot; IRCCS</orgName>
+								<orgName type="institution" key="instit2">UOC di Radioterapia Oncologica</orgName>
+								<address>
+									<addrLine>Radioterapia Oncologica ed Ematologia</addrLine>
+									<settlement>Rome</settlement>
+									<country key="IT">Italy</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Pain REduction with bone metastases STereotactic radiotherapy (PREST): A phase III randomized multicentric trial</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<idno type="DOI">10.1186/s13063-019-3676-x</idno>
+					<note type="submission">Received: 25 February 2019 Accepted: 23 August 2019</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.6.1" ident="GROBID" when="2020-10-09T18:38+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>Bone metastases</term>
+					<term>Pain control</term>
+					<term>Simultaneous integrated boost</term>
+					<term>Randomised controlled trial</term>
+				</keywords>
+			</textClass>
+			<abstract>
+				<p>Background: Palliative antalgic treatments represent an issue for clinical management and a challenge for scientific research. Radiotherapy (RT) plays a central role. Techniques such as stereotactic body radiotherapy (SBRT) were largely investigated in several phase 2 studies with good symptom response, becoming widely adopted. However, evidence from randomized, direct comparison of RT and SBRT is still lacking. Methods/design: The PREST trial was designed as an interventional study without medicinal treatment. It is a phase 3, open-label, multicentric trial randomized 1:1. Inclusion criteria include painful spinal bone metastases presenting with a pain level &gt; 4 (or &gt; 1 if being treated with an analgesic) on the Numeric Rating Scale (NRS); expected intermediate/high prognosis (greater than 6 months) according to the Mizumoto prognostic score; low spine instability neoplastic score (SINS) sores (&lt; 7); magnetic resonance imaging (MRI) assessment of the bulky lesion. Patients will be assigned to either standard conventional radiotherapy involving 4 Gy × 5 fractions (fx) to the whole involved vertebra or SBRT by intensity modulated radiotherapy with simultaneous integrated boost (IMRT-SIB) involving 7 Gy × 3 fx to the whole involved vertebra + 10 Gy × 3 fx on the macroscopic lesion (gross tumor volume (GTV)). In the experimental arm, the GTV will be contoured by registration with baseline MRI. Discussion: The primary endpoint is overall pain reduction, defined in terms of variation between baseline and 3-month evaluation; pain will be measured using the NRS. Secondary endpoints include pain control duration; retreatment rates (after a minimum interval of 1 month); local control assessed with RECIST criteria; symptom progression free survival; progression-free survival; overall survival; and quality of life (at 0, 30, and 90 days). Accrual of 330 lesions is planned. The experimental arm is expected to have an improvement in overall pain response rates of 15% with respect to the standard arm (60% according to Chow et al.</p>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Background</head><p>The PREST trial (NCT03597984) includes patients with spinal bone metastases from solid tumors which present with an intermediate or high level prognosis (i.e., &gt; 6 months) according to the Mizumoto score (i.e., classes A + B) <ref type="bibr" target="#b0">[1]</ref>. These particular cases are often debated with regard to whether they should receive conventional antalgic radiotherapy or higher radiotherapy (RT) doses in order to better control symptoms. Technological improvements (e.g., stereotactic body radiotherapy (SBRT)) <ref type="bibr" target="#b1">[2,</ref><ref type="bibr" target="#b2">3]</ref> and advanced treatment planning (e.g., intensity modulated RT (IMRT)) <ref type="bibr" target="#b3">[4]</ref> can enhance RT treatment efficacy by dose escalation to offer more effective pain (and potentially disease) control without compromising the organ at risk (OAR) through toxicity.</p><p>The aim of this randomized, multicentre, prospective trial is to evaluate the efficacy, in terms of pain control, of an unconventional RT fractionation (delivered by SBRT) against the standard one. The trial will enroll patients with intermediate-to-high prognosis (i.e., superior to 6 months) according to the Mizumoto prognostic score <ref type="bibr" target="#b0">[1]</ref> and structural stability (according to the Spine Instability Neoplastic Score (SINS)) over a threshold of 7 <ref type="bibr" target="#b4">[5]</ref>. Highlights of this study include the high level of treatment customization through both accurate selection and ultraconformed RT planning and the reduced number of sessions (i.e., three instead of the gold standard) which patients will undergo, potentially limiting discomfort.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Methods/design</head><p>Aims The PREST trial aims to assess whether RT for bone metastases administered by IMRT through a simultaneous integrated boost (SIB) can control pain symptoms better than fractionated standard three-dimensional conformal radiotherapy (3D-CRT). Providing better pain control is the crucial test for any new technique introduced in the palliative antalgic setting. Multicentre recruitment will allow more precise assessment of the intervention, with the aim of demonstrating that implementing RT in this setting is both feasible and safe among the centers. Secondary aims are to assess potential benefits for disease control, including oncological outcomes. Moreover, prolonged response to antalgic RT can avoid retreatment, thus improving quality of life in these individuals, which is an important goal.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Overview of the design</head><p>The PREST trial investigates the use of an advanced technique to administer 7 Gy × 3 fx (to the whole vertebra) plus SIB of 10 Gy × 3 fx to the macroscopic lesion (gross tumor volume (GTV)) defined by magnetic resonance imaging (MRI), compared to 4 Gy × 5 fx on the whole vertebra (standard arm) in patients with bone metastases from solid tumor and intermediate or high level prognosis &gt; 6 months according to the Mizumoto score. Further details of the rationale for this design are provided in the "Discussion" section. <ref type="figure">Figure 1</ref> shows a summary schema for the trial.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Participants</head><p>Participants entering the PREST trial are affected by a solid tumor with histologically confirmed diagnosis and associated bone metastases. The estimated prognosis is intermediate or high (i.e., &gt; 6 months) according to the Mizumoto prognostic score. Eligibility criteria are summarized in <ref type="table" target="#tab_1">Table 1</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Registration</head><p>The PREST trial is promoted by Fondazione Policlinico Gemelli-IRCCS in Rome (Italy). The local Ethics Committee has approved the protocol. Each interested center will submit the protocol to its ethics committee for approval before accrual. After approval, the center will receive a dedicated electronic case report form (CRF). Eligible participants who have provided consent and meet the inclusion criteria are anonymously registered on the CRF by assigning a numerical code.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Randomization</head><p>Following the assessment for eligibility and after informed consent is signed, eligible participants are randomized by phone to the promoting centre. Participants undergo a blind randomization using minimization algorithms based on key prognostic factors, incorporating a random element. Patients are allocated in a 1:1 ratio to either gold standard radiotherapy treatment or interventional SIB radiotherapy treatment.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Radiotherapy</head><p>CT simulation will be carried out with custom immobilization support for each patient (Aquaplast® head mask and/or vacuum mattresses). For target delineation, co-registration with MRI will be performed using the Velocity® application. The GTV is defined as the visible lesion on MRI imaging. In the experimental arm, two volumes will be defined: PTV1, including GTV plus a 2-mm isotropic margin; and PTV2, including total vertebra plus a 2-mm isotropic margin. In the standard arm, a single volume will be contoured: PTV1 (total vertebra plus a 1cm isotropic margin).</p><p>In the experimental arm, both the spinal canal and spinal cord will be defined on MRI imaging, and their cranial and caudal margin will be the cranial margin of superior vertebra and caudal margin of inferior vertebra, respectively. The dose constraint limit for the spinal canal will be D max &lt; 15 Gy, while for the spinal cord it will be considered both D max &lt; 10 Gy <ref type="bibr" target="#b5">[6]</ref> and D 0.035 . For cauda, dose constraints considered will be Dmax &lt; 24 Gy and threshold dose of 21.9 Gy to less &lt; 5 cc <ref type="bibr" target="#b5">[6]</ref>. Moreover, in the SIB cohort, PTV coverage should be 95% of the prescribed dose at 95% of the defined volume. Major deviation for PTV2 will be &lt; 77% of the dose prescribed at 95% of the volume, while minor deviation will be &lt; 84% of the prescribed dose at 95% of the volume. For PTV1, major deviation will be defined as &lt; 79% of the prescribed dose at 95% of the volume, while minor deviation will be &lt; 84% of the prescribed dose at 95% of the volume.</p><p>Reporting of dose prescription will be done according to ICRU 83 for the experimental arm and according to ICRU 62 for the standard arm. Furthermore, as security criteria, all treatment plan validation will rely on QUANTEC and AAPM reports for organ at risk (OAR) constraints <ref type="bibr" target="#b5">[6,</ref><ref type="bibr" target="#b6">7]</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Follow-up</head><p>Patients are assessed according to International Bone Metastases Consensus Working Party <ref type="bibr" target="#b7">[8]</ref> criteria. Pain control will be assessed at every visit according to IBMC criteria (Additional file 1). IBMC criteria are based on pain level and ongoing antalgic opioid therapies. Pain level will be defined using the 11-point NRS. NRS score subscales evaluated will be: 0: no pain (better outcome) 1-3: mild pain 4-6: moderate pain 7-10 severe pain (worse outcome) Opioid therapies will be quantified according to Oral Morphine Equivalent Dose (OMED). The visit schedule is 15 days, 30 days, 3 months, 6 months, and 12 months after the end of radiotherapy. At every visit, patients will undergo quality of life measurement using the QLQ-C15-PAL and QLQ-BM22 questionnaires <ref type="bibr" target="#b8">[9]</ref>. Other outcomes that will be tested during follow-up visits are rate of retreatment for non-responding patients, pain control duration, local control, symptom progression-free survival, progression free survival, and overall survival. Long-term passive follow-up data will be obtained from routinely collected healthcare databases for at least 10 more years.</p><p>For participants that are registered but do not go on to be randomized, active participation in the trial will end at that time. However, passive follow-up will continue via routinely collected healthcare datasets where consent for this has been obtained. The trial assessment schedule for each arm is aligned with standard practice where possible to ensure they can be implemented easily. This is balanced with the need to ensure appropriate monitoring of patients on trial treatment and assessment of outcome measures. The trial follow-up schedules are available in Additional file 2.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Toxicity management</head><p>Participants that experience radiotherapy-related severe toxicity, defined as ≥ Grade 3 Common Terminology Criteria for Adverse Events (CTCAE v4) <ref type="bibr" target="#b9">[10]</ref>, will be <ref type="figure">Fig. 1</ref> PREST trial (NCT03597984) schema signaled in the study final report. Grade 1 and 2 toxicity are considered normal in clinical practice, but they will also be reported.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Discussion</head><p>Outcomes One-month pain control analysis will take place 90 days after the end of RT of the last patient. Primary and secondary outcome measures are available in <ref type="table" target="#tab_0">Table 2</ref>.</p><p>Local control and overall survival will also be assessed as secondary outcomes in all participants for 10 years. The longer follow-up and large sample size associated with this analysis will enable any long-term benefits of RT with IMRT-SIB to be determined, including number of retreatments. Consideration of rates of serious toxicity (and particularly serious myelotoxicities), as well as other secondary health outcomes, alongside the efficacy results will be particularly important in these analyses in order to provide a holistic assessment of the potential risks and benefits associated with a different schedule of RT administration.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Statistical considerations and sample size</head><p>Primary analysis will compare the response in terms of reduction of pain symptomatology from bone metastases, comparing the conformational RT (3D-CRT) administered in conventional fractionation versus IMRT-SIB. The study involves the enrolment of 330 patients divided into two groups of 165 patients in each of the two study arms. Arm A (standard) will recieve 4 Gy × 5 fx; arm B (experimental) will receive SIB 7 Gy × 3 fx (whole vertebra) + 10 Gy × 3 fx on the GTV (defined by MRI). The expected difference between the two treatments for one-month pain control in terms of overall response rates is 15% more in the experimental arm compared to the standard arm (60%). The calculation of the sample size considered a 95% CI with a coefficient α of 0.05 and a drop-out rate of 10%.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Ethics considerations</head><p>The trial will be conducted in compliance with the approved protocol, the Declaration of Helsinki 2008, the principles of Good Clinical Practice (GCP), and Italian National Normative for clinical experimentation. Upon signing the protocol, every investigator gives consent for the procedure and instructions in the protocol and run the study according to GCP, Declaration of Helsinki, and National Normative. Every amendment of the study will be registered and submitted to the Ethics Commission. The PREST trial protocol and its attached material  • Symptom progression-free survival (SPFS) (efficacy and pain); time frame 12 months after end of radiotherapy) Interval from the end of radiotherapy and progressive disease with symptoms according to the criteria of Chow et al. in 2012 <ref type="bibr" target="#b7">[8]</ref> • Progression-free survival (efficacy; time frame 12 months) Interval from the end of radiotherapy and new disease progression</p><p>• Overall survival (efficacy; time frame 12 months) Interval between the end of radiotherapy and death</p><p>• Quality of life (efficacy and quality of life; time frame first visit, 1 month, and 3 months after the end of radiotherapy) Quality of life score according to European Organization for Research and Treatment of Cancer (EORTC) QLQ-C15-PAL and QLQ-BM22 questionnaires have been approved by the Ethics Commission of Fondazione Policlinico Gemelli IRCCS of Rome (Italy). Every participant center needs to submit the PREST trial protocol to their respective ethics commission before enrolling patients.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Quality assurance</head><p>Dose escalating in radiotherapy requires a quality assurance procedure. In our study protocol we guarantee this procedure by:</p><p>-Diagnostic imaging: MRI imaging before treatment for GTV contouring; follow-up MRI imaging at 3 months is recommended but not mandatory -Personalized set-up system: the use of personalized set-up systems is considered mandatory -Planning verification: every single treatment plan needs to respect coverage and constraints indicated in the protocol; before enrolling, every single center should participate in dummy studies to confirm its treatment planning possibilities -Image-guided radiotherapy (IGRT): Cone-beam daily acquisition before treatment is mandatory to assure good IGRT. A six-degree-of-freedom couch is recommended but not mandatory for set-up error correction</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Final considerations</head><p>Palliative antalgic oncological treatments represent a serious problem for both clinical management and scientific research. However, they involve an ever-increasing number of patients due to the increased incidence of cancer in all its phases and the potential chronicity of illness linked to new therapies. The use of palliative RT treatments potentially involves up to 40% of patients in a radiation oncology center. RT is commonly used in palliative treatment for symptomatic bone metastases <ref type="bibr" target="#b10">[11]</ref>, being an effective treatment for improving symptoms and, consequently, the quality of life of these patients.</p><p>Ideally, this treatment should be as short as possible, re-directing patients either to systemic therapies or to home care or long-term care systems (e.g., hospices). In order to deliver a clinically effective dose in a short period, hypofractionated regimens must be used. SBRT is a technique of RT allowing delivery of a high equivalent biological dose in a highly conformed manner, with a favorable toxicity profile <ref type="bibr" target="#b2">[3]</ref>, generally in a few fractions (fx). The possibility of using special techniques such as SBRT in the palliative antalgic setting for bone metastases has been investigated in several phase 2 studies, with good results in terms of symptom response <ref type="bibr" target="#b11">[12]</ref><ref type="bibr" target="#b12">[13]</ref><ref type="bibr" target="#b13">[14]</ref><ref type="bibr" target="#b14">[15]</ref><ref type="bibr" target="#b16">[16]</ref><ref type="bibr" target="#b17">[17]</ref>. In order to better manage the toxicity profile of such hypofractioned regimens (mainly related to risk of vertebral fracture <ref type="bibr" target="#b18">[18]</ref>) further studies <ref type="bibr" target="#b19">[19,</ref><ref type="bibr" target="#b20">20]</ref> have suggested the possibility of using a hypofractionated regimen over the entire bone compartment and going to over-dose with a stereotactic regimen only for the macroscopically visible disease from instrumental examinations. In patients with more favorable prognosis, this regimen could improve the possible onset of acute and late complications, while increasing the RT dose to the bulky lesion.</p><p>Literature indications about preferred RT schedules are available, although there is no globally coded and unique clinically applied therapeutic standard for prescription <ref type="bibr" target="#b7">[8,</ref><ref type="bibr" target="#b21">21]</ref>. The most commonly applied conventional radiation treatment schedules include i) 8 Gy in 1 fx, ii) 20 Gy in 5 fx, iii) 30 Gy in 10 fx <ref type="bibr" target="#b22">[22]</ref>.</p><p>Although achieving similar rates of overall pain control, multiple fractionation schedules have been reported to provide better symptom control over time, lower the rate of need for retreatment, and improve bone stability profiles over the single fx approach, in case of a patient's longer life expectation. Single fraction (8Gy) RT should be preferred for patients with inferior prognosis. Fractionated schedules are therefore often preferred for patients with better prognosis (i.e., &gt; 6 months): the most widely adopted and supported by expert consensus is represented by 20Gy delivered in 5 fx of 4 Gy <ref type="bibr" target="#b23">[23]</ref>. Routine use of prognostic scores to characterize life expectancy and define the most appropriate treatment regimen is very rarely applied in everyday clinical practice. Some randomized trials <ref type="bibr" target="#b7">[8,</ref><ref type="bibr" target="#b11">12]</ref> are underway investigating the role of SBRT compared to conventional approaches for these patients, though not all of them through patient selection by validated prognostic scores. At the present time, a study by Guckenberger et al. (NCT02800551, DOSIS RCT, https:// clinicaltrials.gov/ct2/show/NCT02800551) is directly comparing a schedule administering 20 Gy in 5 fx to SBRT-SIB given with 5 or 10 fx.</p><p>The Ethics Commission approval for the PREST trial was given on May 2018. Registration on ClinicalTrial. gov was approved on July 2018. The PREST trial was provided grants for insurance costs by Fondazione Policlinico Gemelli IRCCS. The first patient is expected to be recruited on January 2020.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Conclusions</head><p>The PREST trial will provide insight on efficacy of a hypofractionated SBRT IMRT-SIB in pain control with respect to gold standard fractionation. Highlights of this study include personalization by prognostic score stratification, selection based on imaging-driven stability scores, ultra-conformed RT planning, and lower number of RT sessions. To our knowledge, this is the first study design of its kind. The results will clarify if this highly</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>•</head><label></label><figDesc>Pain control duration (efficacy and pain; time frame 12 months after end of radiotherapy) Interval from the end of the RT to relapse of the symptom• Rate of retreatments (efficacy; time frame 12 months after end of radiotherapy) Interval from the end of the RT to the start of retreatment• Local control (efficacy; time frame 3, 6, and 12 months from the end of radiotherapy) Control of local disease with diagnostic exams according to RECIST 1.1 criteria</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>Table 2</head><label>2</label><figDesc>Summary of primary and secondary endpoints</figDesc><table><row><cell>Endpoint definitions and measurement</cell></row><row><cell>Primary outcome measure</cell></row><row><cell>Pain control (efficacy and pain; time frame 3 months)</cell></row><row><cell>Overall pain control measured according to IBMC (complete response +</cell></row><row><cell>partial response events)</cell></row><row><cell>Secondary outcomes measures</cell></row></table><note></note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_1"><head>Table 1</head><label>1</label><figDesc>Summary of eligibility criteria</figDesc><table><row><cell>PREST trial eligibility criteria</cell><cell></cell></row><row><cell>Inclusion criteria</cell><cell>Exclusion criteria</cell></row><row><cell>• Patients diagnosed</cell><cell>• Unable to assign specific NRS</cell></row><row><cell>with spinal bone</cell><cell>for each CTV to be enrolled</cell></row><row><cell>metastases from</cell><cell>• Unable to express autonomous</cell></row><row><cell>solid, uncomplicated</cell><cell>consent to therapies</cell></row><row><cell>tumor</cell><cell>• Pregnancy</cell></row><row><cell>• Primary or secondary</cell><cell>• Patient in hospice or with</cell></row><row><cell>tumor histology related</cell><cell>prognosis &lt; 6 months</cell></row><row><cell>to the treatment lesion</cell><cell>• Unavailability forecast for</cell></row><row><cell>• Patients aged &gt; 18 years</cell><cell>follow-up</cell></row><row><cell>• Obtained informed consent</cell><cell>• Absence of MRI pre-treatment</cell></row><row><cell>• ECOG 0-2</cell><cell>study</cell></row><row><cell>• Symptomatic patients at</cell><cell>• Unable to maintain the</cell></row><row><cell>the treatment site (NRS ≥ 4)</cell><cell>treatment position for SBRT</cell></row><row><cell>• Symptomatic patients at</cell><cell>• Previous radiotherapy at the</cell></row><row><cell>the treatment site (NRS 1-3)</cell><cell>same site or at the level of</cell></row><row><cell>assuming opioid therapy</cell><cell>adjoining metameres (higher</cell></row><row><cell>ongoing for more than</cell><cell>or lower than the one to be</cell></row><row><cell>3 days</cell><cell>enrolled)</cell></row><row><cell>• Spine Instability Neoplastic</cell><cell>• Previous radiometabolic</cell></row><row><cell>Score (SINS) &lt; 7</cell><cell>therapy</cell></row><row><cell>• Prognosis &gt; 6 months</cell><cell>• Previous enrolment of the</cell></row><row><cell>according to Mizumoto</cell><cell>same patient for three</cell></row><row><cell>Prognostic Score (i.e., classes</cell><cell>irradiated lesions</cell></row><row><cell>A and B)</cell><cell>• Epidural compression of the</cell></row><row><cell>• Spinal metastases verified</cell><cell>spinal cord or of the cauda</cell></row><row><cell>at MRI, including the sites</cell><cell>equina</cell></row><row><cell>to be enrolled</cell><cell>• Injuries affecting &gt; 25% of the</cell></row><row><cell>• No more than three non-</cell><cell>medullary canal and/or a</cell></row><row><cell>contiguous spinal segments</cell><cell>distance &lt; 5 mm from the</cell></row><row><cell>(e.g., separated by at least</cell><cell>medulla or from the cauda</cell></row><row><cell>two metamers) involved in</cell><cell>• Injuries with indication of surgical</cell></row><row><cell>the study</cell><cell>stabilization</cell></row><row><cell></cell><cell>• Chemotherapy or target therapy</cell></row><row><cell></cell><cell>within the previous 7 days and</cell></row><row><cell></cell><cell>7 days after SBRT</cell></row></table><note></note></figure>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Acknowledgements</head><p>Not applicable.</p></div>
+			</div>
+
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>personalized approach would be practice-changing in the setting of metastatic bone patients.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Trial status</head><p>Patient recruitment not completed. Authors' contributions FC analyzed literature and chose the study design. VM provided the protocol and paper elaboration and submission. All authors read and approved the final manuscript.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Additional files</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Funding</head><p>This trial will be conducted with no external funding. Patients' assurance will be financed by our institute Fondazione Policlinico Gemelli IRCSS.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Availability of data and materials</head><p>Not applicable.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Ethics approval and consent to participate</head><p>This trial design was definitively approved by Fondazione Polilclinico Gemelli IRCCS Ethics Committee on June 2018. The protocol number is Prot. 8440/18 (20360/18) ID:1911.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Consent for publication</head><p>All authors gave their consent for publication of the study protocol. No patients' consent is needed for this publication.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Competing interests</head><p>The authors declare that they have no competing interests. </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Publisher's Note</head><p>Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.</p></div>			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Prognostic factors and a scoring system for survival after radiotherapy for metastases to the spinal column: A review of 544 patients at Shizuoka Cancer Center Hospital</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Mizumoto</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Cancer</title>
+		<imprint>
+			<biblScope unit="volume">113</biblScope>
+			<biblScope unit="issue">10</biblScope>
+			<biblScope unit="page" from="2816" to="2838" />
+			<date type="published" when="2008" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Stereotactic high dose fraction radiation therapy of extracranial tumors using an accelerator. Clinical experience of the first thirty-one patients</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><surname>Blomgren</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">I</forename><surname>Lax</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">I</forename><surname>Naslund</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><forename type="middle">R</forename><surname>Svanstrom</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Acta Oncologica</title>
+		<imprint>
+			<biblScope unit="volume">34</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page" from="861" to="70" />
+			<date type="published" when="1995" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Stereotactic body radiotherapy for oligometastasis: Opportunities for biology to guide clinical management</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><surname>Correa</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Salama</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Milano</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><forename type="middle">D</forename><surname>Palma</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Cancer J</title>
+		<imprint>
+			<biblScope unit="volume">22</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="247" to="56" />
+			<date type="published" when="2016" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Intensity-modulated arc therapy with dynamic multileaf collimation: an alternative to tomotherapy</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><surname>Xu</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Phys Med Biol</title>
+		<imprint>
+			<biblScope unit="volume">40</biblScope>
+			<biblScope unit="issue">9</biblScope>
+			<biblScope unit="page" from="1435" to="1484" />
+			<date type="published" when="1995" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<monogr>
+		<title level="m" type="main">A novel classification system for spinal instability in neoplastic disease: an evidence-based approach and expert consensus from the Spine Oncology Study Group. Spine (Phila Pa 1976)</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><surname>Fisher</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2010" />
+			<biblScope unit="volume">35</biblScope>
+			<biblScope unit="page" from="1221" to="1230" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Stereotactic body radiation therapy: The report of AAPM Task Group 101: Stereotactic body radiation therapy: The report of TG101</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><forename type="middle">H</forename><surname>Benedict</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Med Phys</title>
+		<imprint>
+			<biblScope unit="volume">37</biblScope>
+			<biblScope unit="issue">8</biblScope>
+			<biblScope unit="page" from="4078" to="101" />
+			<date type="published" when="2010" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Quantitative Analyses of Normal Tissue Effects in the Clinic (QUANTEC): An introduction to the scientific issues</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><forename type="middle">M</forename><surname>Bentzen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Int J Radiat Oncol Biol Phys</title>
+		<imprint>
+			<biblScope unit="volume">76</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="3" to="9" />
+			<date type="published" when="2010" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Update of the International Consensus on Palliative Radiotherapy Endpoints for Future Clinical Trials in Bone Metastases</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><surname>Chow</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Int J Radiat Oncol Biol Physi</title>
+		<imprint>
+			<biblScope unit="volume">82</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page" from="1730" to="1737" />
+			<date type="published" when="2012" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Predictive factors of overall well-being using the EORTC QLQ-C15-PAL extracted from the EORTC QLQ-C30</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><surname>Lam</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Palliat Med</title>
+		<imprint>
+			<biblScope unit="volume">16</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="402" to="410" />
+			<date type="published" when="2013" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<monogr>
+		<title level="m" type="main">Common Terminology Criteria for Adverse Events (CTCAE) Version 5.0</title>
+		<ptr target="https://ctep.cancer.gov/" />
+		<imprint>
+			<date type="published" when="2017-11-27" />
+		</imprint>
+		<respStmt>
+			<orgName>National Cancer Institute (NCI</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Genetic biomarkers associated with pain flare and dexamethasone response following palliative radiotherapy in patients with painful bone metastases</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Furfari</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ann Palliat Med</title>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="issue">S2</biblScope>
+			<biblScope unit="page" from="240" to="247" />
+			<date type="published" when="2017" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Comparing conVEntional RadioTherapy with stereotactIC body radiotherapy in patients with spinAL metastases: study protocol for an randomized controlled trial following the cohort multiple randomized controlled trial design</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">M</forename><surname>Van Der Velden</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">BMC Cancer</title>
+		<imprint>
+			<biblScope unit="volume">16</biblScope>
+			<biblScope unit="page">1</biblScope>
+			<date type="published" when="2016" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Intensity modulated stereotactic body radiation therapy for single or multiple vertebral metastases with spinal cord compression</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Murai</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Pract Radiat Oncol</title>
+		<imprint>
+			<biblScope unit="volume">4</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page" from="231" to="238" />
+			<date type="published" when="2014" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Stereotactic versus conventional radiotherapy for pain reduction and quality of life in spinal metastases: study protocol for a randomized controlled trial</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><surname>Braam</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><surname>Lambin</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><forename type="middle">J</forename><surname>Bussink</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Trials</title>
+		<imprint>
+			<biblScope unit="volume">17</biblScope>
+			<biblScope unit="page">1</biblScope>
+			<date type="published" when="2016" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<monogr>
+		<title level="m" type="main">Stereotactic radiosurgery (SRS) with volumetric modulated arc therapy (VMAT): interim results of a multi-arm phase I trial</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">F</forename><surname>Deodato</surname></persName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title/>
+	</analytic>
+	<monogr>
+		<title level="j">Clin Oncol (R Coll Radiol)</title>
+		<imprint>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="issue">12</biblScope>
+			<biblScope unit="page" from="748" to="56" />
+			<date type="published" when="2014" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">RTOG 0631 Phase II/III study of image-guided stereotactic radiosurgery for localized spine metastases: Phase II results</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Ryu</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Int J Radiat Oncol Biol Phys</title>
+		<imprint>
+			<biblScope unit="volume">81</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="131" to="133" />
+			<date type="published" when="2011" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Randomized phase II trial evaluating pain response in patients with spinal metastases following stereotactic body radiotherapy versus three-dimensional conformal radiotherapy</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Sprave</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Radiother Oncol</title>
+		<imprint>
+			<biblScope unit="volume">128</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="274" to="82" />
+			<date type="published" when="2018" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">Vertebral compression fracture after spine stereotactic body radiation therapy: A review of the pathophysiology and risk factors</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Faruqi</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Neurosurgery</title>
+		<imprint>
+			<biblScope unit="volume">83</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="314" to="336" />
+			<date type="published" when="2018" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">Comparison of deliverable IMRT and VMAT for spine metastases using a simultaneous integrated boost</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Y</forename><forename type="middle">K</forename><surname>Lee</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">L</forename><surname>Bedford</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><forename type="middle">A</forename><surname>Mcnair</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Ema</forename><surname>Hawkins</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Br J Radiol</title>
+		<imprint>
+			<biblScope unit="volume">86</biblScope>
+			<biblScope unit="page">20120466</biblScope>
+			<date type="published" when="1022" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">Volumetric arc intensity-modulated therapy for spine body radiotherapy: comparison with static intensity-modulated treatment</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Q</forename><surname>Wu</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Yoo</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Kirkpatrick</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><surname>Thongphiew</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><forename type="middle">F</forename><surname>Yin</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Int J Radiat Oncol Biol Phys</title>
+		<imprint>
+			<biblScope unit="volume">75</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page" from="1596" to="604" />
+			<date type="published" when="2009" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">International consensus on palliative radiotherapy endpoints for future clinical trials in bone metastases</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><surname>Chow</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Wu</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><surname>Hoskin</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">L</forename><surname>Coia</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Bentzen</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><forename type="middle">P</forename><surname>Blitzer</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Radiotherapy and Oncology</title>
+		<imprint>
+			<biblScope unit="volume">64</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="275" to="80" />
+			<date type="published" when="2002" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">Update of the systematic review of palliative radiation therapy fractionation for bone metastases</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Rich</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Radiother Oncol</title>
+		<imprint>
+			<biblScope unit="volume">126</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="547" to="57" />
+			<date type="published" when="2018" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title level="a" type="main">Efficacy of multiple fraction conventional radiation therapy for painful uncomplicated bone metastases: A systematic review</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><surname>Chow</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Radiother Oncol</title>
+		<imprint>
+			<biblScope unit="volume">122</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="323" to="354" />
+			<date type="published" when="2017" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

@@ -1,0 +1,2073 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /data/rsg/nlp/juanmoo1/bin/grobid-0.6.1/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Adverse event management in the TOURMALINE-MM3 study of post-transplant ixazomib maintenance in multiple myeloma</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+				<date type="published" when="2020-07-01">1 July 2020</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author role="corresp">
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Martin</forename><surname>Kaiser</surname></persName>
+							<email>martin.kaiser@icr.ac.uk</email>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Haematology</orgName>
+								<orgName type="institution">The Royal Marsden Hospital</orgName>
+								<address>
+									<settlement>London</settlement>
+									<country key="GB">UK</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="department">Division of Molecular Pathology</orgName>
+								<orgName type="institution" key="instit1">The Institute of Cancer Research (ICR)</orgName>
+								<orgName type="institution" key="instit2">The Royal Marsden Hospital</orgName>
+								<address>
+									<addrLine>123 Old Brompton Road</addrLine>
+									<postCode>SW7 3RP</postCode>
+									<settlement>London</settlement>
+									<country key="GB">UK</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Meral</forename><surname>Beksaç</surname></persName>
+							<affiliation key="aff2">
+								<orgName type="department">Department of Hematology</orgName>
+								<orgName type="institution">Ankara University</orgName>
+								<address>
+									<settlement>Ankara</settlement>
+									<country key="TR">Turkey</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Nina</forename><surname>Gulbrandsen</surname></persName>
+							<affiliation key="aff3">
+								<orgName type="department" key="dep1">Oslo Myeloma Center</orgName>
+								<orgName type="department" key="dep2">KG Jebsen Center for B Cell Malignancies</orgName>
+								<orgName type="institution" key="instit1">Oslo University Hospital</orgName>
+								<orgName type="institution" key="instit2">University of Oslo</orgName>
+								<address>
+									<settlement>Oslo</settlement>
+									<country key="NO">Norway</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Fredrik</forename><surname>Schjesvold</surname></persName>
+							<affiliation key="aff3">
+								<orgName type="department" key="dep1">Oslo Myeloma Center</orgName>
+								<orgName type="department" key="dep2">KG Jebsen Center for B Cell Malignancies</orgName>
+								<orgName type="institution" key="instit1">Oslo University Hospital</orgName>
+								<orgName type="institution" key="instit2">University of Oslo</orgName>
+								<address>
+									<settlement>Oslo</settlement>
+									<country key="NO">Norway</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Roman</forename><surname>Hájek</surname></persName>
+							<affiliation key="aff4">
+								<orgName type="department">Department of Hematooncology</orgName>
+								<orgName type="institution">University Hospital Ostrava</orgName>
+								<address>
+									<settlement>Ostrava</settlement>
+									<country key="CZ">Czech Republic</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Philippe</forename><surname>Moreau</surname></persName>
+							<affiliation key="aff5">
+								<orgName type="department">Department of Hematology</orgName>
+								<orgName type="institution">University Hospital Hôtel-Dieu</orgName>
+								<address>
+									<settlement>Nantes</settlement>
+									<country key="FR">France</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Felipe</forename><surname>De Arriba De La Fuente</surname></persName>
+							<affiliation key="aff6">
+								<orgName type="laboratory">Servicio de Hematología y Oncología Médica</orgName>
+								<orgName type="institution" key="instit1">Hospital Universitario Morales Meseguer y Centro Regional de Hemodonación</orgName>
+								<orgName type="institution" key="instit2">IMIB-Arrixaca</orgName>
+								<orgName type="institution" key="instit3">Universidad de Murcia</orgName>
+								<address>
+									<settlement>Murcia</settlement>
+									<country key="ES">Spain</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Victoria</forename><surname>Mateos</surname></persName>
+							<affiliation key="aff7">
+								<orgName type="department">Department of Hematology</orgName>
+								<orgName type="institution" key="instit1">University Hospital of Salamanca</orgName>
+								<orgName type="institution" key="instit2">CIC</orgName>
+								<orgName type="institution" key="instit3">IBM CC</orgName>
+								<address>
+									<settlement>Salamanca</settlement>
+									<country key="ES">Spain</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Sharon</forename><surname>West</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Haematology</orgName>
+								<orgName type="institution">The Royal Marsden Hospital</orgName>
+								<address>
+									<settlement>London</settlement>
+									<country key="GB">UK</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Andrew</forename><surname>Spencer</surname></persName>
+							<affiliation key="aff8">
+								<orgName type="laboratory">Malignant Haematology and Stem Cell Transplantation Service</orgName>
+								<orgName type="institution">Alfred Health-Monash University</orgName>
+								<address>
+									<settlement>Melbourne</settlement>
+									<country key="AU">Australia</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Vincent Rajkumar</surname></persName>
+							<affiliation key="aff9">
+								<orgName type="department" key="dep1">Division of Hematology</orgName>
+								<orgName type="department" key="dep2">Department of Internal Medicine</orgName>
+								<orgName type="institution">Mayo Clinic</orgName>
+								<address>
+									<settlement>Rochester</settlement>
+									<region>MN</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Kaveri</forename><surname>Suryanarayan</surname></persName>
+							<affiliation key="aff10">
+								<orgName type="institution" key="instit1">Millennium Pharmaceuticals, Inc</orgName>
+								<orgName type="institution" key="instit2">Takeda Pharmaceutical Company Limited</orgName>
+								<address>
+									<settlement>Cambridge</settlement>
+									<region>MA</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Michael</forename><surname>Czorniak</surname></persName>
+							<affiliation key="aff10">
+								<orgName type="institution" key="instit1">Millennium Pharmaceuticals, Inc</orgName>
+								<orgName type="institution" key="instit2">Takeda Pharmaceutical Company Limited</orgName>
+								<address>
+									<settlement>Cambridge</settlement>
+									<region>MA</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Cong</forename><surname>Li</surname></persName>
+							<affiliation key="aff10">
+								<orgName type="institution" key="instit1">Millennium Pharmaceuticals, Inc</orgName>
+								<orgName type="institution" key="instit2">Takeda Pharmaceutical Company Limited</orgName>
+								<address>
+									<settlement>Cambridge</settlement>
+									<region>MA</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Zhaoyang</forename><surname>Teng</surname></persName>
+							<affiliation key="aff10">
+								<orgName type="institution" key="instit1">Millennium Pharmaceuticals, Inc</orgName>
+								<orgName type="institution" key="instit2">Takeda Pharmaceutical Company Limited</orgName>
+								<address>
+									<settlement>Cambridge</settlement>
+									<region>MA</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Richard</forename><surname>Labotka</surname></persName>
+							<affiliation key="aff10">
+								<orgName type="institution" key="instit1">Millennium Pharmaceuticals, Inc</orgName>
+								<orgName type="institution" key="instit2">Takeda Pharmaceutical Company Limited</orgName>
+								<address>
+									<settlement>Cambridge</settlement>
+									<region>MA</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">&amp;</forename><surname>Meletios</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Dimopoulos</surname></persName>
+							<affiliation key="aff11">
+								<orgName type="department" key="dep1">Hematology and Medical Oncology</orgName>
+								<orgName type="department" key="dep2">Department of Clinical Therapeutics</orgName>
+								<orgName type="department" key="dep3">School of Medicine</orgName>
+								<orgName type="institution">National and Kapodistrian University of Athens</orgName>
+								<address>
+									<settlement>Athens</settlement>
+									<country key="GR">Greece</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Adverse event management in the TOURMALINE-MM3 study of post-transplant ixazomib maintenance in multiple myeloma</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date type="published" when="2020-07-01">1 July 2020</date>
+						</imprint>
+					</monogr>
+					<idno type="DOI">10.1007/s00277-020-04149-5</idno>
+					<note type="submission">Received: 12 May 2020 / Accepted: 14 June 2020 # The Author(s) 2020</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.6.1" ident="GROBID" when="2020-10-09T18:38+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>Adverse events</term>
+					<term>Ixazomib</term>
+					<term>Maintenance therapy</term>
+					<term>Multiple myeloma</term>
+					<term>Safety</term>
+				</keywords>
+			</textClass>
+			<abstract>
+				<p>The phase 3, double-blind, placebo-controlled TOURMALINE-MM3 study (NCT02181413) demonstrated improved progression-free survival with ixazomib maintenance versus placebo post autologous stem cell transplant (ASCT) in multiple myeloma patients. We report additional safety data from TOURMALINE-MM3 to inform adverse event (AE) management recommendations. Patients were randomized 3:2 to receive ixazomib (n = 395) or placebo (n = 261) on days 1, 8, and 15 of 28day cycles for~2 years or until progressive disease/toxicity. The initial 3-mg ixazomib dose was escalated to 4 mg in cycle 5, if tolerated in cycles 1-4. Safety was a secondary endpoint assessed in all treated patients; AEs were graded using Common Terminology Criteria for AEs v4.03. The rate of grade ≥ 3 AEs was higher in the ixazomib arm (19%) than in the placebo arm (5%), but the rate of discontinuation due to AEs was similar (7% vs. 5%). For AEs of clinical interest, rates were higher with ixazomib versus placebo: nausea 39% versus 15%, vomiting 27% versus 11%, diarrhea 35% versus 24%, thrombocytopenia 13% versus 3%, and peripheral neuropathy 19% versus 15%. However, the majority of events were low-grade, manageable with supportive therapy or dose reduction, and reversible, and did not result in discontinuation. There was no evidence of cumulative, long-term, or late-onset toxicity with ixazomib maintenance. Ixazomib is an efficacious and tolerable option for post-ASCT maintenance. AEs associated with ixazomib maintenance can be managed in the context of routine post-ASCT supportive care due to the limited additional toxicity. ClinicalTrials.gov NCT02181413</p>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Introduction</head><p>In patients with newly diagnosed multiple myeloma (MM), maintenance therapy is increasingly used following autologous stem cell transplant (ASCT) in order to delay relapse arising from residual disease <ref type="bibr" target="#b0">[1,</ref><ref type="bibr" target="#b1">2]</ref>. The goals of maintenance treatment are to prolong or deepen response and to extend progression-free survival (PFS) and overall survival (OS) without chronic toxicity, unmanageable adverse events (AEs), or deterioration of quality of life.</p><p>Lenalidomide is approved as maintenance therapy following ASCT and is the current standard of care in this setting <ref type="bibr" target="#b0">[1,</ref><ref type="bibr" target="#b2">3]</ref>. Approval was based on a meta-analysis of results from three randomized trials that demonstrated improved PFS with lenalidomide maintenance versus placebo or no treatment <ref type="bibr" target="#b3">[4]</ref><ref type="bibr" target="#b4">[5]</ref><ref type="bibr" target="#b5">[6]</ref><ref type="bibr" target="#b6">[7]</ref><ref type="bibr" target="#b7">[8]</ref>. The impact of lenalidomide maintenance on OS varied across the individual trials; however, the meta-analysis demonstrated an overall improvement in OS <ref type="bibr" target="#b7">[8]</ref>. The most frequently reported AEs with lenalidomide maintenance across all trials were hematologic <ref type="bibr" target="#b3">[4]</ref><ref type="bibr" target="#b4">[5]</ref><ref type="bibr" target="#b5">[6]</ref><ref type="bibr" target="#b6">[7]</ref>, and guidelines for blood count monitoring and dose modification for grade 3/4 neutropenia and thrombocytopenia are provided in the prescribing information <ref type="bibr" target="#b2">[3]</ref>. The risk of development of secondary primary malignancies varied across studies, but an increased risk was demonstrated with lenalidomide maintenance versus placebo in the meta-analysis <ref type="bibr" target="#b3">[4,</ref><ref type="bibr" target="#b4">5,</ref><ref type="bibr" target="#b7">8,</ref><ref type="bibr" target="#b8">9]</ref>.</p><p>Ixazomib, the first oral proteasome inhibitor <ref type="bibr" target="#b9">[10]</ref>, is approved in combination with lenalidomide-dexamethasone (Rd) for the treatment of patients with multiple myeloma who have received at least one prior therapy <ref type="bibr" target="#b10">[11]</ref>. Approval of ixazomib was based on the results of the phase 3 TOURMALINE-MM1 study, which showed a significant PFS benefit for ixazomib-Rd versus placebo-Rd in patients with relapsed or refractory multiple myeloma, with limited additional toxicity <ref type="bibr" target="#b11">[12]</ref>. Common AEs reported more frequently with ixazomib-Rd versus placebo-Rd included thrombocytopenia, gastrointestinal toxicities, rash, and peripheral neuropathy (PN); toxicities were generally manageable with supportive care and dose delays/reductions as required <ref type="bibr" target="#b12">[13]</ref>.</p><p>The efficacy and safety of ixazomib as maintenance therapy following ASCT for patients with multiple myeloma have been investigated in the phase 3, multicenter, randomized, double-blind, placebo-controlled TOURMALINE-MM3 trial (NCT02181413) <ref type="bibr" target="#b13">[14]</ref>. In the primary analysis from this trial (median follow-up, 31 months), ixazomib maintenance significantly improved PFS compared with placebo, resulting in a 28% reduction in the risk of progression or death (median PFS, 26.5 vs. 21.3 months; hazard ratio, 0.72 [95% confidence interval, 0.58, 0.89]; P = 0.0023) <ref type="bibr" target="#b13">[14]</ref>. The placebocontrolled study design of TOURMALINE-MM3 allowed for careful assessment of AEs in the post-transplant maintenance setting, and ixazomib maintenance was demonstrated to be well-tolerated, with a low rate of treatment discontinuations due to AEs. Here, we report additional safety data from TOURMALINE-MM3 to inform AE management recommendations for clinical practice, focusing on AEs known to impact patient quality of life and treatment adherence.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Patients and methods</head><p>The design of the TOURMALINE-MM3 study has been described previously <ref type="bibr" target="#b13">[14]</ref>. Briefly, eligible patients were adults with a confirmed diagnosis of symptomatic MM (by the International Myeloma Working Group criteria) who had achieved at least a partial response after receiving standardof-care induction therapy (including a proteasome inhibitor and/or an immunomodulatory drug) followed by high-dose melphalan conditioning and single ASCT. Following transplant, patients were randomized in a 3:2 ratio to receive either oral ixazomib 3 mg (n = 395) or matching placebo (n = 261) on days 1, 8, and 15 in 28-day cycles. Stratification factors were induction regimen, pre-induction disease stage, and posttransplant response. The dose of ixazomib was increased to 4 mg starting at cycle 5 if ixazomib was tolerated during the previous 4 cycles. Treatment was continued for up to 26 cycles (~2 years) or until progressive disease or unacceptable toxicity.</p><p>The primary endpoint was PFS. Safety was a secondary endpoint assessed in all patients who received ≥ 1 dose of ixazomib or placebo (safety population; analyzed according to the treatment patients actually received). The type, incidence, and intensity of treatment-emergent AEs were evaluated. AEs were coded using the Medical Dictionary for Regulatory Activities (MedDRA) version 20.0 and were graded according to the National Cancer Institute Common Terminology Criteria for Adverse Events (NCI-CTCAE) version 4.03. All AEs that occurred from administration of the first dose of ixazomib or placebo through 30 days after the last dose were recorded. The intensity of AEs and the relationship to study treatment were determined by the investigator. In the event of AEs considered to be related to the study drug, dose modifications were permitted according to protocol-specified guidelines. The study drug (ixazomib or placebo) could be held or reduced by at least one dose level to 3.0, 2.3, or 1.5 mg, followed by discontinuation for persistent toxicity; no subsequent dose re-escalation was permitted.</p><p>Supportive measures consistent with optimal patient care (including myeloid growth factors, erythropoietin, red blood cell and platelet transfusions, prophylaxis for deep vein thrombosis/pulmonary embolism, antibiotics, intravenous immunoglobulin, antiemetics, antidiarrheals, and corticosteroids) could be given throughout the study. Unless there was a clinical contraindication, prophylactic antiviral therapy to prevent reactivation of herpes zoster infection was mandatory following a protocol amendment. Use of concomitant medications (such as prophylaxis or symptomatic treatment), including blood products and supportive therapies, was recorded from the first dose of the study drug through 30 days after the final dose. Concomitant medications were classified according to their preferred term in the World Health Organization Drug Dictionary.</p><p>This report focuses on prespecified AEs of clinical importance, which included PN (defined according to the high-level term of "peripheral neuropathies not elsewhere classified"), gastrointestinal toxicities (nausea, vomiting, and diarrhea; defined by their preferred terms), thrombocytopenia (defined by the preferred terms "thrombocytopenia" and "platelet count decreased"), and neutropenia (defined by the preferred terms "neutropenia" and "neutrophil count decreased"), as well as AEs of clinical interest including thromboembolic events (defined by the Standardized MedDRA Queries [SMQs] "embolic and thrombotic events, venous" and "embolic and thrombotic events, arterial"), pneumonia (defined by the high-level term of "lower respiratory tract and lung infections"), and herpes zoster (defined by its preferred term). Resolution/ improvement of PN events was assessed; resolution was defined as resolved PN with no subsequent event of the same preferred term occurring on the resolution date, or on the day before and/or the day after; improvement was defined as PN improved by ≥ 1 grade from the maximum grade experienced. Time to resolution of PN was defined as the time from the initial onset date to the resolution date. Time to improvement of PN was defined as the time from the initial onset date of the maximum grade to the first date that the toxicity was below the maximum grade with no subsequent higher grade, or to the resolution date, whichever occurred first.</p><p>All safety outcomes are presented using descriptive statistics using SAS version 9.2 (or higher). TOURMALINE-MM3 was conducted in accordance with the International Conference on Harmonisation Guidelines for Good Clinical Practice and all relevant regulatory requirements. The protocol was approved by an ethics committee/ institutional review board at each center. All patients provided written informed consent.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Results</head><p>The safety population comprised 394 patients who received ixazomib maintenance and 259 patients who received placebo <ref type="figure" target="#fig_0">(Fig. 1)</ref>. The median follow-up was 30.9 months in the ixazomib arm and 31.3 months in the placebo arm. The median number of administered treatment cycles was 25 (range, 1-26) for ixazomib and 22 (range, 1-26) for placebo, and the median treatment duration was 713 (range, 8-799) and 629 (range, 13-803) days, respectively; 50% versus 42% of patients completed the full 24 months of treatment. Of the patients who were on ongoing treatment at cycle 5, 317/368 (86%) in the ixazomib arm and 222/242 (92%) in the placebo arm received the 4-mg dose. Median relative dose intensity among all patients was 95% and 99% with ixazomib and placebo, respectively.</p><p>As reported previously <ref type="bibr" target="#b13">[14]</ref>, AEs of any grade were experienced by 97% of patients in the ixazomib arm and 93% of patients in the placebo arm. Rates of drug-related AEs (78% vs. 58%), grade ≥ 3 AEs (42% vs. 26%), drug-related grade ≥ 3 AEs (19% vs. 5%), serious AEs (SAEs; 27% vs. 20%), and AEs resulting in dose reduction (19% vs. 5%) were numerically higher with ixazomib versus placebo. However, the incidence of AEs resulting in treatment discontinuation was similar in both arms (7% vs. 5%). One patient (&lt; 1%) in the ixazomib arm died during the study; there were no on-study deaths in the placebo arm. The most common AEs and AEs of clinical importance are shown in <ref type="table" target="#tab_0">Table 1</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Thrombocytopenia</head><p>Thrombocytopenia was more common with ixazomib (13%) versus placebo (3%), and the majority of these patients experienced low-grade thrombocytopenia <ref type="table" target="#tab_0">(Table 1</ref>). One patient in each treatment arm had an SAE (both were grade 4 events). In the ixazomib arm, 11 patients (3%) had a dose reduction for thrombocytopenia, and 2 patients (1 each) discontinued due to grade 2 and grade 3 thrombocytopenia. In the placebo arm, no patients had dose reductions or discontinued due to thrombocytopenia. In the ixazomib arm, new-onset thrombocytopenia was most common in the first 6 months of treatment ( <ref type="figure" target="#fig_1">Fig. 2a</ref>). Platelet counts were consistently lower with ixazomib versus placebo, but median counts remained within the normal range <ref type="figure" target="#fig_1">(Fig. 2b)</ref>. Platelet counts followed a cyclical pattern, with a nadir at day 15 of each cycle and recovery by the start of the next cycle; there was no evidence of cumulative thrombocytopenia. Of 92 individual events of thrombocytopenia in patients receiving ixazomib, 42 did not require intervention. When intervention was required, common actions included dose delays or dose holds ( <ref type="figure" target="#fig_1">Fig. 2c</ref>). Seven (2%) and 3 (1%) patients in the ixazomib and placebo arms received platelet transfusions (1 patient receiving placebo had a platelet transfusion but did not have thrombocytopenia). Treatment-emergent AEs within the "hemorrhage" SMQ were reported in 33 (8%) and 15 (6%) patients in the ixazomib and placebo arms, respectively. In the ixazomib arm, 2 patients (&lt; 1%) had grade ≥ 3 events, 3 (&lt; 1%) had SAEs, and 1 (&lt; 1%) discontinued.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Neutropenia</head><p>The incidence of neutropenia was similar in both treatment arms (9% ixazomib vs. 8% placebo), and the incidence of febrile neutropenia was low and similar in both arms (&lt; 1% vs. 0%). Grade ≥ 3 neutropenia was reported in 5% versus 3% of patients. No patient in either arm experienced an SAE or discontinued ixazomib or placebo due to neutropenia <ref type="table" target="#tab_0">(Table 1)</ref>, and the incidence of neutropenia resulting in dose reduction was &lt; 1% in both arms. Neutrophil counts were generally within the normal range during treatment, and few patients received growth factors in either arm (4% ixazomib and 2% placebo).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Gastrointestinal toxicities</head><p>The incidences of gastrointestinal AEs were higher with ixazomib (27-39%) than with placebo (11-24%), although rates of grade ≥ 3 gastrointestinal AEs were low in both groups  <ref type="table" target="#tab_0">(Table 1)</ref>. Dose reductions due to gastrointestinal AEs were rare (≤ 2% in both groups) and were due to nausea in 6 (2%) versus 0, vomiting in 8 (2%) versus 0, and diarrhea in 8 (2%) versus 1 (&lt; 1%) patients in the ixazomib versus placebo groups, respectively; only 1 patient (in the ixazomib arm) discontinued treatment due to a gastrointestinal event (grade 1 diarrhea). In the safety population, the rates of use of antiemetics (16% vs. 2%; as prophylaxis or symptomatically after first dose) and intravenous fluids (9% vs. 3%) were higher with ixazomib versus placebo, but the rate of antidiarrheal use was similar (8% vs. 7%). For ixazomib versus placebo, the median duration of antiemetic administration was 295 versus 436 days, and the median duration of antidiarrheal administration was 23.5 versus 9.0 days. Potential complications of gastrointestinal AEs (dehydration, weight loss, or grade ≥ 3 hyponatremia, hypokalemia, or hypomagnesemia) were infrequent (rates were &lt; 1% for each individual event in both arms).</p><p>The incidence rate of nausea was highest in cycle 1 in the ixazomib arm, and generally higher versus placebo <ref type="figure">(Fig. 3a)</ref>.</p><p>The rate of new-onset nausea was highest during the first 3 months of treatment and then decreased substantially <ref type="figure">(Fig.  3b)</ref>. The incidence rate of vomiting was also highest in cycle 1 in the ixazomib arm and generally higher versus placebo <ref type="figure">(Fig. 4a)</ref>; new-onset vomiting was most common during the first 3 months and then decreased <ref type="figure">(Fig. 4b)</ref>. The incidence rate of diarrhea was similar between groups in cycles 1-2 and then higher with ixazomib versus placebo through cycle 9 <ref type="figure" target="#fig_3">(Fig. 5a)</ref>; the rate of new-onset diarrhea was low and similar between groups thereafter <ref type="figure" target="#fig_3">(Fig. 5b)</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Peripheral neuropathy</head><p>PN rates were similar in the ixazomib and placebo arms (19% vs. 15%). Only one patient in the ixazomib arm reported grade 3 PN (&lt; 1%), and no patients in either arm had grade 4 PN. In the ixazomib arm, PN appeared more common among patients who were proteasome inhibitor-naïve versus proteasome  Data were based on a SMQ that incorporated pooled preferred terms or multiple preferred terms. Thrombocytopenia included the preferred terms of thrombocytopenia and decreased platelet count. Neutropenia included the preferred terms of neutropenia and decreased neutrophil count. PN represents the high-level term of "peripheral neuropathies not elsewhere classified," excluding neuritis; preferred terms included "neuropathy peripheral," peripheral sensory neuropathy, peripheral sensorimotor neuropathy, and peripheral motor neuropathy. Rash included the preferred terms of pruritus, rash maculo-papular, rash macular, rash papular, rash erythematous, rash pruritic, drug eruption, pruritus generalized, rash, urticaria, dermatitis allergic, rash generalized, dermatitis acneiform, erythema multiforme, rash pustular, and rash vesicular b One patient in the ixazomib group had a grade 5 adverse event of pneumonia inhibitor-exposed and among patients with prior thalidomide treatment versus without prior thalidomide treatment <ref type="table" target="#tab_3">(Table 2</ref>). In the placebo group, PN appeared less common among proteasome inhibitor-naïve versus proteasome inhibitor-exposed patients, and rates were similar regardless of prior thalidomide treatment ( <ref type="table" target="#tab_3">Table 2)</ref>. The presence of PN at study entry did not affect the rate of treatment-emergent PN in the ixazomib arm but was associated with a higher rate in the placebo arm versus patients without PN at study entry ( <ref type="table" target="#tab_3">Table 2)</ref>. Dose reductions (3% vs. 2%, respectively) and discontinuations (&lt; 1% in both arms) due to PN were uncommon with both ixazomib and placebo ( <ref type="table" target="#tab_3">Table 2</ref>). Most of the cases of new-onset PN occurred in the first 0-3 (9% in both arms) or 3-6 (3% vs. 2%, respectively) months <ref type="figure" target="#fig_4">(Fig. 6)</ref> </p><formula xml:id="formula_0">1 (&lt; 1) 0 2 (&lt; 1) 39 (15) 0 0 2 (&lt; 1) Thromboembolic AEs Venous 2 (&lt; 1) 0 1 (&lt; 1) 1 (&lt; 1) 0 0 0 0 Arterial 1 (&lt; 1) 0 0 0 3 (1) 1 (&lt; 1) 2 (&lt; 1) 0 Pneumonia b 40<label>(</label></formula></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Thromboembolic events</head><p>Thromboprophylaxis was not mandated by the protocol but could have been administered per institutional guidelines, and 19% of patients in each arm used an antithrombotic agent. Based on the SMQ for venous embolic and thrombotic events, 2 patients (&lt; 1%) in the ixazomib arm had a thrombotic event. One of these patients had a history of port catheter implantation, and the other patient had a history of pulmonary embolism and was receiving antithrombotic medication. Each of these patients had low-grade events. One of these patients experienced thromboembolic events of jugular vein thrombosis and subclavian vein thrombosis that led to hospitalization and resulted in discontinuation of ixazomib. In the placebo arm, no patient had a venous thromboembolic event. Arterial thromboembolic events, as assessed according to the SMQ for arterial embolic and thrombotic events, were reported infrequently (&lt; 1% ixazomib, 1% placebo).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Pneumonia</head><p>Within the higher-level term of lower respiratory tract and lung infections, the incidence of AEs was higher in the ixazomib arm (23%) versus the placebo arm (18%), with pneumonia (10% vs. 8%) and bronchitis (10% vs. 7%) the most commonly reported preferred terms. The percentages of patients who experienced SAEs (8% ixazomib, 5% placebo) and AEs resulting in discontinuation of ixazomib (&lt; 1%) or placebo (0%) were generally similar in both arms. One patient receiving ixazomib died on study due to pneumonia. The patient was a 61-year-old Asian man with a medical history of diabetes mellitus, hypertension, and hyperlipidemia. The patient had a grade 3 SAE of diarrhea beginning on cycle 6 day 15 and a grade 4 SAE of pneumonia beginning on cycle 6 day 17, both of which led to hospitalization on cycle 6 day 17. During hospitalization, bronchoalveolar lavage was positive for metapneumovirus. The patient developed acute respiratory distress syndrome progressing to multiorgan failure secondary to pneumonia and died due to pneumonia on cycle 6 day 26. The event was considered related to ixazomib. The patient's last dose of ixazomib prior to the event was taken on cycle 6 day 15.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Herpes zoster</head><p>During the trial, the protocol was amended to mandate prophylaxis for herpes zoster. Overall, 95% of patients in the ixazomib arm and 89% of patients in the placebo arm received direct-acting antivirals. Of the 55 ixazomib-treated patients Incidence rate is the number of events in a cycle divided by the sum of patient cycles at risk in a cycle. A patient with an ongoing AE could not be at risk of getting the same AE until it was resolved and the 47 placebo-treated patients who were not receiving appropriate antiviral prophylaxis, 33 (60%) and 12 (26%) reported herpes zoster. For patients who did receive prophylaxis, 6/339 patients (2%) in the ixazomib arm and 2/212 (&lt; 1%) in the placebo arm developed herpes zoster. The most commonly prescribed antiviral medications were aciclovir in 240/394 (61%) and 143/259 (55%) patients, and valaciclovir in 144 (37%) and 84 (32%) patients in the ixazomib and placebo groups, respectively. No patients in either treatment arm discontinued due to herpes zoster.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Discussion</head><p>This safety analysis of TOURMALINE-MM3 demonstrates that maintenance therapy with ixazomib is well-tolerated, with limited additional toxicity compared with placebo. The majority of patients who experienced AEs had events that were lowgrade and non-serious, and that did not result in discontinuation. Although the overall incidence of grade ≥ 3 AEs was higher with ixazomib versus placebo, the rate of discontinuation due to AEs was similar between treatment arms. The most frequently reported AEs in the ixazomib arm were nausea, diarrhea, and vomiting, which were generally expected and consistent with the known safety profile of single-agent ixazomib from prior phase 1 and phase 1/2 studies <ref type="bibr" target="#b14">[15]</ref><ref type="bibr" target="#b15">[16]</ref><ref type="bibr" target="#b16">[17]</ref>, although the patient populations and treatment durations differed between these prior studies and TOURMALINE-MM3. Importantly, in TOURMALINE-MM3, the evaluation of safety was not confounded by the contribution of AEs or overlapping toxicities from other agents in a combination regimen. Additionally, due to the direct comparison to placebo, the TOURMALINE-MM3 results provide an unbiased illustration of the safety of long-term single-agent ixazomib and  After receiving ASCT, responding patients are likely to be symptom-free, and transplant-related toxicities are generally expected to have resolved before maintenance treatment is initiated. Given the potential for prolonged therapy, a maintenance treatment with minimal cumulative toxicity, such as irreversible PN or nominal bone marrow function decline, that could impact later lines of therapies is desirable. In TOURMALINE-MM3, no evidence of cumulative toxicity or of long-term or late-onset toxicity was observed with ixazomib maintenance therapy. The rate of discontinuation due to AEs was similar between treatment arms (7% vs. 5%) compared with a rate of 29% previously reported in a metaanalysis of post-ASCT lenalidomide maintenance <ref type="bibr" target="#b7">[8]</ref>, although the mean lenalidomide treatment durations in the studies from which discontinuation rates were available were substantially longer than that for ixazomib in TOURMALINE-MM3. In addition, of the 594/1137 (52%) patients who had discontinued lenalidomide in the Myeloma XI study of lenalidomide maintenance versus observation in newly diagnosed multiple myeloma, the rate of discontinuation due to AEs with lenalidomide was 15% <ref type="bibr" target="#b17">[18]</ref>.</p><p>Gastrointestinal toxicity is a key consideration for patient management in the treatment of multiple myeloma, in particular with oral agents, and has been previously reported with ixazomib <ref type="bibr" target="#b14">[15,</ref><ref type="bibr" target="#b15">16]</ref>. Per protocol for TOURMALINE-MM3, standard antiemetics were recommended for emesis occurring once treatment was initiated, and prophylactic antiemetics were suggested for consideration at the physician's discretion. Although the rates of gastrointestinal toxicities were higher with ixazomib versus placebo, the rates of grade ≥ 3 events were low in both groups and discontinuations due to gastrointestinal AEs were rare. The incidence rate of gastrointestinal AEs was higher in the first 3 months, and events were manageable with standard supportive care.</p><p>Hematologic toxicities, specifically thrombocytopenia events, were also manageable in this patient population. The transient cyclical thrombocytopenia reported with ixazomib is a known class effect of proteasome inhibitors; it is likely a result of transient inhibition of nuclear factor κB signaling via inhibition of the 26S proteasome, which is one of the required signaling cascades for platelet budding from megakaryocytes <ref type="bibr" target="#b18">[19]</ref>. The mean platelet count remained generally constant over time with ixazomib in TOURMALINE-MM3, and very few patients had new-onset thrombocytopenia later in their treatment course. There were also 2 patients receiving placebo who reported grade ≥ 3 thrombocytopenia. In the ixazomib arm, the events of thrombocytopenia that did not spontaneously resolve were readily managed using dose interruptions/reductions and rarely required transfusions.</p><p>PN is an important side effect in the treatment of multiple myeloma <ref type="bibr" target="#b19">[20]</ref>; it can be caused by the disease itself or by specific agents, in particular bortezomib and thalidomide <ref type="bibr" target="#b19">[20]</ref><ref type="bibr" target="#b20">[21]</ref><ref type="bibr" target="#b21">[22]</ref>. In TOURMALINE-MM3, PN rates were similar in the ixazomib and placebo arms and events were typically of low grade. Interestingly, the cumulative incidence of all grade PN was similar in both arms for the first 5 months and then gradually became higher with ixazomib treatment compared with placebo. The incidence of prior PN is a known predisposing factor for development of PN and may be impacted by prior bortezomib or thalidomide treatment <ref type="bibr" target="#b19">[20]</ref>. However, analyzing the incidence of PN by prior proteasome inhibitor therapy or prior thalidomide, or by presence of PN at study entry, demonstrated no consistent patterns across treatment arms. PN reported with ixazomib maintenance was effectively managed with concomitant pain medications, primarily pregabalin and gabapentin, and PN events reported with ixazomib were reversible in the majority of cases.</p><p>Infections are not unexpected in patients with multiple myeloma following ASCT <ref type="bibr" target="#b22">[23]</ref>. Upper respiratory tract infections were among the most frequently reported AEs with ixazomib, but these events were largely manageable. Clinicians should be aware of the risk of pneumonia and the increased risk of herpes zoster reactivation in the absence of antiviral prophylaxis. However, the rate of herpes zoster was low in patients receiving prophylaxis-indeed, antiviral prophylaxis virtually eliminated the risk of herpes zoster reactivation and should always be administered with ixazomib unless there is a clinical contraindication.</p><p>The risk of venous thromboembolism is approximately 3 to 10% in patients with multiple myeloma <ref type="bibr" target="#b23">[24]</ref>. Venous thromboembolism prophylaxis strategies are recommended for patients receiving specific agents, such as lenalidomide; however, to date, the use of proteasome inhibitors has not been associated with thromboembolism <ref type="bibr" target="#b23">[24,</ref><ref type="bibr" target="#b24">25]</ref>. As such, in TOURMALINE-MM3, thromboprophylaxis was not required per protocol but could have been administered per institutional guidelines, with 19% of patients in each arm receiving an antithrombotic agent. Ixazomib maintenance therapy was not associated with an increased risk of thromboembolism compared with placebo in this study.</p><p>In summary, this study has shown that single-agent ixazomib is well-tolerated and that long-term maintenance treatment is feasible post-ASCT. AEs associated with ixazomib maintenance can be managed in the context of routine post-ASCT supportive care due to the limited additional toxicity. Ixazomib is an efficacious and tolerable option for post-ASCT maintenance in patients with newly diagnosed MM.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>Fig. 1</head><label>1</label><figDesc>CONSORT diagram. Reproduced with permission from Dimopoulos MA, Gay F, Schjesvold F et al. Oral ixazomib maintenance following autologous stem cell transplantation (TOURMALINE-MM3): a double-blind, randomised, placebo-controlled phase 3 trial. Lancet 2019;393:253-264</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head>Fig. 2</head><label>2</label><figDesc>Cumulative incidence of new-onset thrombocytopenia (a) and median platelet counts (b) over time in the ixazomib and placebo groups, and actions taken for events of thrombocytopenia (c). Note: More than one action could be taken for a single event of thrombocytopenia</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_2"><head>Fig. 3 Fig. 4</head><label>34</label><figDesc>Incidence rate by cycle (a) and cumulative incidence (b) of newonset nausea. Only one patient in the ixazomib arm (&lt; 1%) and no patients in the placebo arm had grade ≥ 3 nausea. Incidence rate is the number of events in a cycle divided by the sum of patient cycles at risk in a cycle. A patient with an ongoing AE could not be at risk of getting the same AE until it was resolved Incidence rate by cycle (a) and cumulative incidence (b) of newonset vomiting. No patients in the placebo arm had grade ≥ 3 vomiting.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_3"><head>Fig. 5</head><label>5</label><figDesc>Incidence rate by cycle (a) and cumulative incidence (b) of newonset diarrhea. Incidence rate is the number of events in a cycle divided by the sum of patient cycles at risk in a cycle. A patient with an ongoing AE could not be at risk of getting the same AE until it was resolved demonstrate the tolerability and manageable toxicity profile of ixazomib maintenance therapy in patients who have undergone ASCT.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_4"><head>Fig. 6</head><label>6</label><figDesc>Cumulative incidence of new-onset PN. Only one patient in the ixazomib arm had grade 3 PN (&lt; 1%), and no patients in either arm had grade 4 PN</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>Table 1</head><label>1</label><figDesc>Common AEs and AEs of clinical importance</figDesc><table><row><cell>AE, n (%)</cell><cell cols="2">Ixazomib (n = 394)</cell><cell></cell><cell></cell><cell cols="2">Placebo (n = 259)</cell><cell></cell><cell></cell></row><row><cell></cell><cell>Any grade</cell><cell>Grade ≥ 3</cell><cell>SAE</cell><cell>D/C</cell><cell>Any grade</cell><cell>Grade ≥ 3</cell><cell>SAE</cell><cell>D/C</cell></row><row><cell>Hematologic AEs</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Thrombocytopenia a</cell><cell>53 (13)</cell><cell>19 (5)</cell><cell>1 (&lt; 1)</cell><cell>2 (&lt; 1)</cell><cell>8 (3)</cell><cell>2 (&lt; 1)</cell><cell>1 (&lt; 1)</cell><cell>0</cell></row><row><cell>Neutropenia a</cell><cell>36 (9)</cell><cell>20 (5)</cell><cell>0</cell><cell>0</cell><cell>20 (8)</cell><cell>9 (3)</cell><cell>0</cell><cell>0</cell></row><row><cell>Anemia</cell><cell>29 (7)</cell><cell>4 (1)</cell><cell>0</cell><cell>0</cell><cell>10 (4)</cell><cell>2 (&lt; 1)</cell><cell>1 (&lt; 1)</cell><cell>0</cell></row><row><cell>Non-hematologic AEs</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Infections and infestations</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Upper RTI</cell><cell>101 (26)</cell><cell>2 (&lt; 1)</cell><cell>2 (&lt; 1)</cell><cell>0</cell><cell>54 (21)</cell><cell>1 (&lt; 1)</cell><cell>0</cell><cell>0</cell></row><row><cell>Viral upper RTI</cell><cell>94 (24)</cell><cell>0</cell><cell>0</cell><cell>0</cell><cell>69 (27)</cell><cell>0</cell><cell>1 (&lt; 1)</cell><cell>0</cell></row><row><cell>Gastrointestinal AEs</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Nausea</cell><cell>154 (39)</cell><cell>1 (&lt; 1)</cell><cell>0</cell><cell>0</cell><cell>40 (15)</cell><cell>0</cell><cell>0</cell><cell>0</cell></row><row><cell>Diarrhea</cell><cell>137 (35)</cell><cell>10 (3)</cell><cell>4 (1)</cell><cell>1 (&lt; 1)</cell><cell>61 (24)</cell><cell>2 (&lt; 1)</cell><cell>0</cell><cell>0</cell></row><row><cell>Vomiting</cell><cell>106 (27)</cell><cell>6 (2)</cell><cell>1 (&lt; 1)</cell><cell>0</cell><cell>28 (11)</cell><cell>0</cell><cell>0</cell><cell>0</cell></row><row><cell>Rash a</cell><cell>120 (30)</cell><cell>7 (2)</cell><cell>2 (&lt; 1)</cell><cell>2 (&lt; 1)</cell><cell>57 (22)</cell><cell>0</cell><cell>0</cell><cell>0</cell></row><row><cell>AEs of clinical interest</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>PN a</cell><cell>73 (19)</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row></table><note></note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_3"><head>Table 2 PN</head><label>2</label><figDesc></figDesc><table><row><cell>: severity, predictive</cell><cell></cell><cell></cell></row><row><cell>factors, dose modifications, and</cell><cell>Ixazomib (n = 394)</cell><cell>Placebo (n = 259)</cell></row><row><cell>resolution</cell><cell></cell><cell></cell></row><row><cell>PN incidence by grade, n (%)</cell><cell></cell><cell></cell></row><row><cell>Grade 1</cell><cell>55 (14)</cell><cell>24 (9)</cell></row><row><cell>Grade 2</cell><cell>17 (4)</cell><cell>15 (6)</cell></row><row><cell>Grade 3</cell><cell>1 (&lt; 1)</cell><cell>0</cell></row><row><cell cols="2">PN incidence by prior therapy or baseline PN, n/N (%)</cell><cell></cell></row><row><cell>Prior PI therapy, yes versus no</cell><cell>61/351 (17) versus 12/43 (28)</cell><cell>36/232 (16) versus 3/27 (11)</cell></row><row><cell>Prior thalidomide, yes versus no</cell><cell>33/141 (23) versus 40/253 (16)</cell><cell>14/101 (14) versus 25/158 (16)</cell></row><row><cell>PN at study entry, yes versus no</cell><cell>8/44 (18) versus 65/350 (19)</cell><cell>12/38 (32) versus 27/221 (12)</cell></row><row><cell>Dose reductions due to PN, n (%)</cell><cell>10 (3)</cell><cell>5 (2)</cell></row><row><cell>Discontinuations due to PN, n (%)</cell><cell>2 (&lt; 1)</cell><cell>2 (&lt; 1)</cell></row><row><cell>PN-number of individual events, n</cell><cell>94</cell><cell>43</cell></row><row><cell>Improved, n (%)</cell><cell>70 (74)</cell><cell>31 (72)</cell></row><row><cell>Median time to improvement (days)</cell><cell>134</cell><cell>130</cell></row><row><cell>Resolved, n (%)</cell><cell>66 (70)</cell><cell>28 (65)</cell></row><row><cell>Median time to resolution (days)</cell><cell>225</cell><cell>159</cell></row><row><cell cols="2">PI proteasome inhibitor, PN peripheral neuropathy</cell><cell></cell></row></table><note></note></figure>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Acknowledgments The authors acknowledge Helen Wilkinson of FireKite, an Ashfield company, part of UDG Healthcare plc, for providing professional medical writing support, which was funded by Millennium Pharmaceuticals Inc., Cambridge, MA, USA, a wholly owned subsidiary of Takeda Pharmaceutical Company Limited, and complied with Good Publication Practice-3 (GPP3) guidelines (Battisti WP et al. Ann Intern Med 2015; 163: 461-464). They would also like to thank Renda Ferrari, PhD (Millennium Pharmaceuticals, Inc.), for her contribution to the editorial and scientific content of the manuscript. TOURMALINE-MM3 was funded by Millennium Pharmaceuticals, Inc., a wholly owned subsidiary of Takeda Pharmaceutical Company Limited.</p></div>
+			</div>
+
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Funding information This study was funded by Millennium Pharmaceuticals, Inc., a wholly owned subsidiary of Takeda Pharmaceutical Company Limited.</p><p>Data availability Takeda makes patient-level, de-identified datasets and associated documents available after applicable marketing approvals and commercial availability have been received and other criteria have been met as set forth in Takeda's Data Sharing Policy (see https://www.takedaclinicaltrials.com for details). To obtain access, researchers must submit a legitimate academic research proposal for adjudication by an independent review panel, who will review the scientific merit of the research and the requestor's qualifications and conflict of interest that can result in potential bias. Once approved, qualified researchers who sign a data-sharing agreement are provided access to these data in a secure research environment.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Compliance with ethical standards</head><p>Conflict of interest MK: consulting/advisory relationship with Abbvie, Amgen, BMS, Celgene, GSK, Janssen, Karyopharm, and Takeda; research funding from Celgene and Janssen; honoraria from Celgene, Janssen, Amgen, and Takeda MB: consulting/advisory relationship with Amgen, Takeda, Bristol Myers Squib, Janssen &amp; Janssen, and Sanofi, and honoraria received indirectly through the institutions for these consultancies; scientific advisory boards with Amgen, Takeda, BMS, Janssen &amp; Janssen, and Sanofi NG: nothing to disclose FS: consulting/advisory relationship with Mundipharma, GSK, Pfizer/BMS, Novartis, Amgen, Celgene, Takeda, Bayer, Adaptive, Janssen, Oncopeptides, and MSD, Sanofi; research funding from Celgene, Mundipharma, Amgen, Novartis, Takeda, and Janssen; honoraria from Amgen, Mundipharma, Celgene, Teva, BMS, Takeda, Abbvie, Janssen, Novartis, and SkyliteDX; ownership interests with Oncopeptides RH: consulting/advisory relationship with Janssen, Amgen, Celgene, Abbvie, BMS, Novartis, Pharma Mar, and Takeda; research funding from Janssen, Amgen, Celgene, Abbvie, BMS, Novartis, and Takeda; honoraria from Janssen, Amgen, Celgene, Abbvie, BMS, Novartis, Pharma Mar, and Takeda PM: consulting/advisory relationship with Takeda, Amgen, Celgene, Janssen, and Abbvie; honoraria from Takeda, Amgen, Celgene, Janssen, and Abbvie</p><p>FdA: honoraria from Celgene, Amgen, Janssen, and Takeda; scientific advisory board with Celgene, Amgen, and Janssen M-VM: honoraria from Janssen, Celgene, Amgen, Takeda, Abbvie, GSK, Adaptive, EDO Mundipharma, Roche, and Seattle Genetics; scientific advisory board with Janssen, Celgene, Amgen, <ref type="table">Takeda</ref> MAD: honoraria from Amgen, Janssen, Takeda, Celgene, and BMS; consulting or advisory role with Amgen, Janssen, Takeda, Celgene, and BMS Ethics approval TOURMALINE-MM3 was conducted in accordance with the International Conference on Harmonisation Guidelines for Good Clinical Practice and all relevant regulatory requirements. The protocol was approved by an ethics committee/institutional review board at each center.</p><p>Consent to participate Informed consent was obtained from all patients for being included in the study.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Consent for publication</head><p>The authors provided informed consent to publish.</p><p>Open Access This article is licensed under a Creative Commons Attribution 4.0 International License, which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if changes were made. The images or other third party material in this article are included in the article's Creative Commons licence, unless indicated otherwise in a credit line to the material. If material is not included in the article's Creative Commons licence and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this licence, visit http://creativecommons.org/licenses/by/4.0/.</p></div>			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">How I treat the young patient with multiple myeloma</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Gandolfi</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><forename type="middle">P</forename><surname>Prada</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><forename type="middle">G</forename><surname>Richardson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Blood</title>
+		<imprint>
+			<biblScope unit="volume">132</biblScope>
+			<biblScope unit="issue">11</biblScope>
+			<biblScope unit="page" from="1114" to="1124" />
+			<date type="published" when="2018" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Posttransplant maintenance therapy in multiple myeloma: the changing landscape</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Sengsayadeth</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">F</forename><surname>Malard</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">B</forename><forename type="middle">N</forename><surname>Savani</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">L</forename><surname>Garderet</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Mohty</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Blood Cancer J</title>
+		<imprint>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page">545</biblScope>
+			<date type="published" when="2017" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">REVLIMID® (lenalidomide) capsules, for oral use. United States prescribing information</title>
+		<ptr target="https://media.celgene.com/content/uploads/revlimid-pi.pdf" />
+	</analytic>
+	<monogr>
+		<title level="m">Celgene Corporation</title>
+		<imprint>
+			<date type="published" when="2005-09" />
+			<biblScope unit="volume">23</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Lenalidomide maintenance after stem-cell transplantation for multiple myeloma</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Attal</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">V</forename><surname>Lauwers-Cances</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">G</forename><surname>Marit</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><surname>Caillot</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><surname>Moreau</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Facon</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><forename type="middle">M</forename><surname>Stoppa</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><surname>Hulin</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">L</forename><surname>Benboubker</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">L</forename><surname>Garderet</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">O</forename><surname>Decaux</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Leyvraz</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">C</forename><surname>Vekemans</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">L</forename><surname>Voillat</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Michallet</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">B</forename><surname>Pegourie</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><surname>Dumontet</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Roussel</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">X</forename><surname>Leleu</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><surname>Mathiot</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><surname>Payen</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><surname>Avet-Loiseau</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">L</forename><surname>Harousseau</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">N Engl J Med</title>
+		<imprint>
+			<biblScope unit="volume">366</biblScope>
+			<biblScope unit="page" from="1782" to="1791" />
+			<date type="published" when="2012" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Lenalidomide after stem-cell transplantation for multiple myeloma</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><forename type="middle">L</forename><surname>Mccarthy</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><surname>Owzar</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><forename type="middle">C</forename><surname>Hofmeister</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><forename type="middle">D</forename><surname>Hurd</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><surname>Hassoun</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><forename type="middle">G</forename><surname>Richardson</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Giralt</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><forename type="middle">A</forename><surname>Stadtmauer</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><forename type="middle">J</forename><surname>Weisdorf</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><surname>Vij</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">S</forename><surname>Moreb</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">N</forename><forename type="middle">S</forename><surname>Callander</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><surname>Van Besien</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Gentile</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">L</forename><surname>Isola</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><forename type="middle">T</forename><surname>Maziarz</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><forename type="middle">A</forename><surname>Gabriel</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Bashey</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><surname>Landau</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Martin</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">H</forename><surname>Qazilbash</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><surname>Levitan</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">B</forename><surname>Mcclune</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><surname>Schlossman</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">V</forename><surname>Hars</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Postiglione</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><surname>Jiang</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><surname>Bennett</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Barry</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">L</forename><surname>Bressler</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Kelly</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Seiler</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><surname>Rosenbaum</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><surname>Hari</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">C</forename><surname>Pasquini</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">M</forename><surname>Horowitz</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><forename type="middle">C</forename><surname>Shea</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><forename type="middle">M</forename><surname>Devine</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><forename type="middle">C</forename><surname>Anderson</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><surname>Linker</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">N Engl J Med</title>
+		<imprint>
+			<biblScope unit="volume">366</biblScope>
+			<biblScope unit="page" from="1770" to="1781" />
+			<date type="published" when="2012" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Autologous transplantation and maintenance therapy in multiple myeloma</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Palumbo</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">F</forename><surname>Cavallo</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">F</forename><surname>Gay</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Di</forename><surname>Raimondo</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">F</forename></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Ben</forename><surname>Yehuda</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><surname>Petrucci</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">T</forename><surname>Pezzatti</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Caravita</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Cerrato</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><surname>Ribakovsky</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><surname>Genuardi</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Cafro</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Marcatti</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Catalano</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">L</forename><surname>Offidani</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Carella</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><forename type="middle">M</forename><surname>Zamagni</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><surname>Patriarca</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">F</forename><surname>Musto</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><surname>Evangelista</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Ciccone</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">G</forename><surname>Omede</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><surname>Crippa</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><surname>Corradini</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><surname>Nagler</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Boccadoro</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Cavo</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">N Engl J Med</title>
+		<imprint>
+			<biblScope unit="volume">371</biblScope>
+			<biblScope unit="issue">10</biblScope>
+			<biblScope unit="page" from="895" to="905" />
+			<date type="published" when="2014" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Continuous lenalidomide treatment for newly diagnosed multiple myeloma</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Palumbo</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><surname>Hajek</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Delforge</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Kropff</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">T</forename><surname>Petrucci</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Catalano</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><surname>Gisslinger</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">W</forename><surname>Wiktor-Jedrzejczak</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Zodelava</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><surname>Weisel</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">N</forename><surname>Cascavilla</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">G</forename><surname>Iosava</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Cavo</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Kloczko</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Blade</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Beksac</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">I</forename><surname>Spicka</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Plesner</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Radke</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><surname>Langer</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Ben</forename><surname>Yehuda</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><surname>Corso</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Herbein</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">L</forename><surname>Yu</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Z</forename><surname>Mei</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Jacques</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><surname>Dimopoulos</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">A</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">N Engl J Med</title>
+		<imprint>
+			<biblScope unit="volume">366</biblScope>
+			<biblScope unit="page" from="1759" to="1769" />
+			<date type="published" when="2012" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Lenalidomide maintenance after autologous stem-cell transplantation in newly diagnosed multiple myeloma: a meta-analysis</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><forename type="middle">L</forename><surname>Mccarthy</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><forename type="middle">A</forename><surname>Holstein</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">T</forename><surname>Petrucci</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><forename type="middle">G</forename><surname>Richardson</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><surname>Hulin</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><surname>Tosi</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Bringhen</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><surname>Musto</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><forename type="middle">C</forename><surname>Anderson</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><surname>Caillot</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">F</forename><surname>Gay</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><surname>Moreau</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">G</forename><surname>Marit</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><forename type="middle">H</forename><surname>Jung</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Z</forename><surname>Yu</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">B</forename><surname>Winograd</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><forename type="middle">D</forename><surname>Knight</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Palumbo</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Attal</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Clin Oncol</title>
+		<imprint>
+			<biblScope unit="volume">35</biblScope>
+			<biblScope unit="issue">29</biblScope>
+			<biblScope unit="page" from="3279" to="3289" />
+			<date type="published" when="2017" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Second primary malignancies in multiple myeloma: an overview and IMWG consensus</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><surname>Musto</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><forename type="middle">C</forename><surname>Anderson</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Attal</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><forename type="middle">G</forename><surname>Richardson</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Badros</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Hou</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><surname>Comenzo</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Du</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Bgm</forename><surname>Durie</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">San</forename><surname>Miguel</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Einsele</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><surname>Chen</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">W</forename><forename type="middle">M</forename><surname>Garderet</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">L</forename><surname>Pietrantuono</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">G</forename><surname>Hillengass</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Kyle</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><forename type="middle">A</forename><surname>Moreau</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><surname>Lahuerta</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">J</forename><surname>Landgren</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">O</forename><surname>Ludwig</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><surname>Larocca</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Mahindra</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Cavo</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Mazumder</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Mccarthy</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><forename type="middle">L</forename><surname>Nouel</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Rajkumar</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><forename type="middle">V</forename><surname>Reiman</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Riva</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><surname>Sezer</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">O</forename><surname>Terpos</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><surname>Turesson</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">I</forename><surname>Usmani</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Weiss</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">B</forename><forename type="middle">M</forename><surname>Palumbo</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ann Oncol</title>
+		<imprint>
+			<biblScope unit="volume">28</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="228" to="245" />
+			<date type="published" when="2017" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Clinical pharmacology of ixazomib: the first oral proteasome inhibitor</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">N</forename><surname>Gupta</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">J</forename><surname>Hanley</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><surname>Xia</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><surname>Labotka</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><forename type="middle">D</forename><surname>Harvey</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><surname>Venkatakrishnan</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Clin Pharmacokinet</title>
+		<imprint>
+			<biblScope unit="volume">58</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="431" to="449" />
+			<date type="published" when="2019" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<monogr>
+		<title level="m" type="main">NINLARO® (ixazomib) capsules, for oral use. United States prescribing information</title>
+		<ptr target="https://www.ninlaro.com/downloads/prescribing-information.pdf" />
+		<imprint>
+			<date type="published" when="2016-09" />
+			<publisher>Millennium Pharmaceuticals Inc</publisher>
+			<biblScope unit="volume">23</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Oral ixazomib, lenalidomide, and dexamethasone for multiple myeloma</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><surname>Moreau</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Masszi</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">N</forename><surname>Grzasko</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">N</forename><forename type="middle">J</forename><surname>Bahlis</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Hansson</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">L</forename><surname>Pour</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">I</forename><surname>Sandhu</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><surname>Ganly</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">B</forename><forename type="middle">W</forename><surname>Baker</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><forename type="middle">R</forename><surname>Jackson</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><forename type="middle">M</forename><surname>Stoppa</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><forename type="middle">R</forename><surname>Simpson</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><surname>Gimsing</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Palumbo</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">L</forename><surname>Garderet</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Cavo</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Kumar</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><surname>Touzeau</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">F</forename><forename type="middle">K</forename><surname>Buadi</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">P</forename><surname>Laubach</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><forename type="middle">T</forename><surname>Berg</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Lin</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Di</forename><surname>Bacco</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Hui</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><forename type="middle">M</forename><surname>Van De Velde</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><surname>Richardson</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><forename type="middle">G</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">N Engl J Med</title>
+		<imprint>
+			<biblScope unit="volume">374</biblScope>
+			<biblScope unit="issue">17</biblScope>
+			<biblScope unit="page" from="1621" to="1634" />
+			<date type="published" when="2016" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Management of adverse events associated with ixazomib plus lenalidomide/ dexamethasone in relapsed/refractory multiple myeloma</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Kumar</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><surname>Moreau</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><surname>Hari</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">V</forename><surname>Mateos</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><surname>Ludwig</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><surname>Shustik</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Masszi</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Spencer</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><surname>Hajek</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><surname>Romeril</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">I</forename><surname>Avivi</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><forename type="middle">M</forename><surname>Liberati</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">C</forename><surname>Minnema</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><surname>Einsele</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Lonial</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><surname>Berg</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Lin</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">N</forename><surname>Gupta</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><forename type="middle">L</forename><surname>Esseltine</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><forename type="middle">G</forename><surname>Richardson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Br J Haematol</title>
+		<imprint>
+			<biblScope unit="volume">178</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="571" to="582" />
+			<date type="published" when="2017" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Oral ixazomib maintenance following autologous stem cell transplantation (TOURMALINE-MM3): a double-blind, randomised</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">A</forename><surname>Dimopoulos</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">F</forename><surname>Gay</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">F</forename><surname>Schjesvold</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Beksac</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><surname>Hajek</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><forename type="middle">C</forename><surname>Weisel</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><surname>Goldschmidt</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">V</forename><surname>Maisnar</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><surname>Moreau</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><forename type="middle">K</forename><surname>Min</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Pluta</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">W</forename><forename type="middle">J</forename><surname>Chng</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Kaiser</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Zweegman</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">V</forename><surname>Mateos</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Spencer</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Iida</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">G</forename><surname>Morgan</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><surname>Suryanarayan</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Z</forename><surname>Teng</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Skacel</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Palumbo</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><forename type="middle">B</forename><surname>Dash</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">N</forename><surname>Gupta</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><surname>Labotka</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><forename type="middle">V</forename><surname>Rajkumar</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Lancet</title>
+		<imprint>
+			<biblScope unit="volume">393</biblScope>
+			<biblScope unit="page" from="253" to="264" />
+			<date type="published" when="2019" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">Phase 1 study of weekly dosing with the investigational oral proteasome inhibitor ixazomib in relapsed/refractory multiple myeloma</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><forename type="middle">K</forename><surname>Kumar</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">W</forename><forename type="middle">I</forename><surname>Bensinger</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><forename type="middle">M</forename><surname>Zimmerman</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><forename type="middle">B</forename><surname>Reeder</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">R</forename><surname>Berenson</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><surname>Berg</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><forename type="middle">M</forename><surname>Hui</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">N</forename><surname>Gupta</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Di</forename><surname>Bacco</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Yu</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Shou</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Y</forename><surname>Niesvizky</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Blood</title>
+		<imprint>
+			<biblScope unit="volume">124</biblScope>
+			<biblScope unit="issue">7</biblScope>
+			<biblScope unit="page" from="1047" to="1055" />
+			<date type="published" when="2014" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Phase 1 study of twice-weekly ixazomib, an oral proteasome inhibitor, in relapsed/refractory multiple myeloma patients</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><forename type="middle">G</forename><surname>Richardson</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><surname>Baz</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Wang</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><forename type="middle">J</forename><surname>Jakubowiak</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">P</forename><surname>Laubach</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><forename type="middle">D</forename><surname>Harvey</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Talpaz</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><surname>Berg</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">G</forename><surname>Liu</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Yu</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">N</forename><surname>Gupta</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Di</forename><surname>Bacco</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Hui</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><forename type="middle">M</forename><surname>Lonial</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Blood</title>
+		<imprint>
+			<biblScope unit="volume">124</biblScope>
+			<biblScope unit="issue">7</biblScope>
+			<biblScope unit="page" from="1038" to="1046" />
+			<date type="published" when="2014" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Ixazomib maintenance therapy in newly diagnosed multiple myeloma: an integrated analysis of four phase I/II studies</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">A</forename><surname>Dimopoulos</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">P</forename><surname>Laubach</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Echeveste</forename><surname>Gutierrez</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">A</forename><surname>Grzasko</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">N</forename><surname>Hofmeister</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><forename type="middle">C</forename><surname>San-Miguel</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">F</forename><surname>Kumar</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Labotka</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><surname>Lu</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">V</forename><surname>Berg</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><surname>Byrne</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><surname>Teng</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Z</forename><surname>Liu</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">G</forename><surname>Van De Velde</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><surname>Richardson</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><forename type="middle">G</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Eur J Haematol</title>
+		<imprint>
+			<biblScope unit="volume">102</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page" from="494" to="503" />
+			<date type="published" when="2019" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Lenalidomide maintenance versus observation for patients with newly diagnosed multiple myeloma (Myeloma XI): a multicentre, open-label, randomised, phase 3 trial</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">G</forename><forename type="middle">H</forename><surname>Jackson</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">F</forename><forename type="middle">E</forename><surname>Davies</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><surname>Pawlyn</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><forename type="middle">A</forename><surname>Cairns</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Striha</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><surname>Collett</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Hockaday</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">R</forename><surname>Jones</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">B</forename><surname>Kishore</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Garg</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><forename type="middle">D</forename><surname>Williams</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><surname>Karunanithi</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Lindsay</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">W</forename><surname>Jenner</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">G</forename><surname>Cook</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">N</forename><forename type="middle">H</forename><surname>Russell</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">F</forename><surname>Kaiser</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">T</forename><surname>Drayson</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><forename type="middle">G</forename><surname>Owen</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">W</forename><forename type="middle">M</forename><surname>Gregory</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">G</forename><forename type="middle">J</forename><surname>Morgan</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Lancet Oncol</title>
+		<imprint>
+			<biblScope unit="volume">20</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="57" to="73" />
+			<date type="published" when="2019" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">Characterisation of haematological profiles and low risk of thromboembolic events with bortezomib in patients with relapsed multiple myeloma</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Lonial</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><forename type="middle">G</forename><surname>Richardson</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">San</forename><surname>Miguel</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Sonneveld</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><surname>Schuster</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">W</forename><surname>Blade</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Cavenagh</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Rajkumar</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><forename type="middle">V</forename><surname>Jakubowiak</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><forename type="middle">J</forename><surname>Esseltine</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><forename type="middle">L</forename><surname>Anderson</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><forename type="middle">C</forename><surname>Harousseau</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">L</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Br J Haematol</title>
+		<imprint>
+			<biblScope unit="volume">143</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="222" to="229" />
+			<date type="published" when="2008" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">Management of treatment-emergent peripheral neuropathy in multiple myeloma</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><forename type="middle">G</forename><surname>Richardson</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Delforge</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Beksac</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><surname>Wen</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">L</forename><surname>Jongen</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">O</forename><surname>Sezer</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><surname>Terpos</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">N</forename><surname>Munshi</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Palumbo</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><forename type="middle">V</forename><surname>Rajkumar</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">L</forename><surname>Harousseau</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><surname>Moreau</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><surname>Avet-Loiseau</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">H</forename><surname>Lee</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Cavo</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">G</forename><surname>Merlini</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><surname>Voorhees</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">W</forename><forename type="middle">J</forename><surname>Chng</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Mazumder</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Usmani</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><surname>Einsele</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><surname>Comenzo</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><surname>Orlowski</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><surname>Vesole</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">J</forename><surname>Lahuerta</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><surname>Niesvizky</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><surname>Siegel</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">V</forename><surname>Mateos</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Dimopoulos</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Lonial</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Jagannath</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Blade</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">S</forename><surname>Miguel</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">G</forename><surname>Morgan</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><forename type="middle">C</forename><surname>Anderson</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">B</forename><forename type="middle">G</forename><surname>Durie</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><surname>Sonneveld</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Leukemia</title>
+		<imprint>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="595" to="608" />
+			<date type="published" when="2012" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">The troublesome toxicity of peripheral neuropathy with thalidomide</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">L</forename><surname>Mileshkin</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><forename type="middle">M</forename><surname>Prince</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Leuk Lymphoma</title>
+		<imprint>
+			<biblScope unit="volume">47</biblScope>
+			<biblScope unit="issue">11</biblScope>
+			<biblScope unit="page" from="2276" to="2279" />
+			<date type="published" when="2006" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">Single-agent bortezomib in previously untreated multiple myeloma: efficacy, characterization of peripheral neuropathy, and molecular correlations with response and neuropathy</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><forename type="middle">G</forename><surname>Richardson</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">W</forename><surname>Xie</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><surname>Mitsiades</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><forename type="middle">A</forename><surname>Chanan-Khan</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Lonial</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><surname>Hassoun</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><forename type="middle">E</forename><surname>Avigan</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><forename type="middle">L</forename><surname>Oaklander</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><forename type="middle">J</forename><surname>Kuter</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><forename type="middle">Y</forename><surname>Wen</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Kesari</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><forename type="middle">R</forename><surname>Briemberg</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><forename type="middle">L</forename><surname>Schlossman</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">N</forename><forename type="middle">C</forename><surname>Munshi</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">L</forename><forename type="middle">T</forename><surname>Heffner</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><surname>Doss</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><forename type="middle">L</forename><surname>Esseltine</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><surname>Weller</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><forename type="middle">C</forename><surname>Anderson</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><forename type="middle">A</forename><surname>Amato</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Clin Oncol</title>
+		<imprint>
+			<biblScope unit="volume">27</biblScope>
+			<biblScope unit="issue">21</biblScope>
+			<biblScope unit="page" from="3518" to="3525" />
+			<date type="published" when="2009" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">Multiple myeloma and infections: a population-based study on 9253 multiple myeloma patients</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><surname>Blimark</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><surname>Holmberg</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">U</forename><forename type="middle">H</forename><surname>Mellqvist</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">O</forename><surname>Landgren</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Bjorkholm</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Hultcrantz</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><surname>Kjellander</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">I</forename><surname>Turesson</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><forename type="middle">Y</forename><surname>Kristinsson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Haematologica</title>
+		<imprint>
+			<biblScope unit="volume">100</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="107" to="113" />
+			<date type="published" when="2015" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title level="a" type="main">Prevention of thalidomideand lenalidomide-associated thrombosis in myeloma</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Palumbo</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><forename type="middle">V</forename><surname>Rajkumar</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">A</forename><surname>Dimopoulos</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><forename type="middle">G</forename><surname>Richardson</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">San</forename><surname>Miguel</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Barlogie</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">B</forename><surname>Harousseau</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Zonder</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">A</forename><surname>Cavo</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Zangari</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Attal</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Belch</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Knop</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Joshua</forename><forename type="middle">D</forename><surname>Sezer</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">O</forename><surname>Ludwig</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><surname>Vesole</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><surname>Blade</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Kyle</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><surname>Westin</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Weber</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><surname>Bringhen</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Niesvizky</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><surname>Waage</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Von Lilienfeld-Toal</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Lonial</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Morgan</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">G</forename><forename type="middle">J</forename><surname>Orlowski</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><forename type="middle">Z</forename><surname>Shimizu</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><surname>Anderson</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><forename type="middle">C</forename><surname>Boccadoro</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Durie</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">B</forename><forename type="middle">G</forename><surname>Sonneveld</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><surname>Hussein</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">A</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Leukemia</title>
+		<imprint>
+			<biblScope unit="volume">22</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="414" to="423" />
+			<date type="published" when="2008" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title level="a" type="main">Venous thromboembolism prophylaxis and treatment in patients with cancer</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">G</forename><forename type="middle">H</forename><surname>Lyman</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><surname>Bohlke</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><forename type="middle">A</forename><surname>Khorana</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">N</forename><forename type="middle">M</forename><surname>Kuderer</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><forename type="middle">Y</forename><surname>Lee</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">I</forename><surname>Arcelus</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><forename type="middle">P</forename><surname>Balaban</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">M</forename><surname>Clarke</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><forename type="middle">R</forename><surname>Flowers</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><forename type="middle">W</forename><surname>Francis</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">L</forename><forename type="middle">E</forename><surname>Gates</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><forename type="middle">K</forename><surname>Kakkar</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">N</forename><forename type="middle">S</forename><surname>Key</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">N</forename><surname>Levine</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><forename type="middle">A</forename><surname>Liebman</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">A</forename><surname>Tempero</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><forename type="middle">L</forename><surname>Wong</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">R</forename><surname>Somerfield</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Falanga</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Clin Oncol</title>
+		<imprint>
+			<biblScope unit="volume">33</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page" from="654" to="656" />
+			<date type="published" when="2014" />
+			<publisher>American Society</publisher>
+		</imprint>
+	</monogr>
+	<note>of Clinical Oncology clinical practice guideline update</note>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<monogr>
+		<title level="m" type="main">Publisher&apos;s note Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

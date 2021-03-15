@@ -1,0 +1,1320 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /data/rsg/nlp/juanmoo1/bin/grobid-0.6.1/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Phase II trial of an AKT inhibitor (perifosine) for recurrent glioblastoma</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+				<date type="published" when="2020-09-16">2020 September 16.</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Thomas</forename><forename type="middle">J</forename><surname>Kaley</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Departments of Neurology</orgName>
+								<orgName type="institution">Memorial Sloan Kettering Cancer Center</orgName>
+								<address>
+									<settlement>New York</settlement>
+									<region>NY</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff4">
+								<orgName type="department">Brain Tumor Center</orgName>
+								<orgName type="institution">Memorial Sloan Kettering Cancer Center</orgName>
+								<address>
+									<settlement>New York</settlement>
+									<region>NY</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Katherine</forename><forename type="middle">S</forename><surname>Panageas</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="department">Epidemiology and Biostatistics</orgName>
+								<orgName type="institution">Memorial Sloan Kettering Cancer Center</orgName>
+								<address>
+									<settlement>New York</settlement>
+									<region>NY</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff4">
+								<orgName type="department">Brain Tumor Center</orgName>
+								<orgName type="institution">Memorial Sloan Kettering Cancer Center</orgName>
+								<address>
+									<settlement>New York</settlement>
+									<region>NY</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Ingo</forename><forename type="middle">K</forename><surname>Mellinghoff</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Departments of Neurology</orgName>
+								<orgName type="institution">Memorial Sloan Kettering Cancer Center</orgName>
+								<address>
+									<settlement>New York</settlement>
+									<region>NY</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff4">
+								<orgName type="department">Brain Tumor Center</orgName>
+								<orgName type="institution">Memorial Sloan Kettering Cancer Center</orgName>
+								<address>
+									<settlement>New York</settlement>
+									<region>NY</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Craig</forename><surname>Nolan</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Departments of Neurology</orgName>
+								<orgName type="institution">Memorial Sloan Kettering Cancer Center</orgName>
+								<address>
+									<settlement>New York</settlement>
+									<region>NY</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff4">
+								<orgName type="department">Brain Tumor Center</orgName>
+								<orgName type="institution">Memorial Sloan Kettering Cancer Center</orgName>
+								<address>
+									<settlement>New York</settlement>
+									<region>NY</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Igor</forename><forename type="middle">T</forename><surname>Gavrilovic</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Departments of Neurology</orgName>
+								<orgName type="institution">Memorial Sloan Kettering Cancer Center</orgName>
+								<address>
+									<settlement>New York</settlement>
+									<region>NY</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff4">
+								<orgName type="department">Brain Tumor Center</orgName>
+								<orgName type="institution">Memorial Sloan Kettering Cancer Center</orgName>
+								<address>
+									<settlement>New York</settlement>
+									<region>NY</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Lisa</forename><forename type="middle">M</forename><surname>Deangelis</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Departments of Neurology</orgName>
+								<orgName type="institution">Memorial Sloan Kettering Cancer Center</orgName>
+								<address>
+									<settlement>New York</settlement>
+									<region>NY</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff4">
+								<orgName type="department">Brain Tumor Center</orgName>
+								<orgName type="institution">Memorial Sloan Kettering Cancer Center</orgName>
+								<address>
+									<settlement>New York</settlement>
+									<region>NY</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Lauren</forename><forename type="middle">E</forename><surname>Abrey</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Departments of Neurology</orgName>
+								<orgName type="institution">Memorial Sloan Kettering Cancer Center</orgName>
+								<address>
+									<settlement>New York</settlement>
+									<region>NY</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff4">
+								<orgName type="department">Brain Tumor Center</orgName>
+								<orgName type="institution">Memorial Sloan Kettering Cancer Center</orgName>
+								<address>
+									<settlement>New York</settlement>
+									<region>NY</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Eric</forename><forename type="middle">C</forename><surname>Holland</surname></persName>
+							<affiliation key="aff2">
+								<orgName type="institution" key="instit1">Neurosurgery</orgName>
+								<orgName type="institution" key="instit2">Memorial Sloan Kettering Cancer Center</orgName>
+								<address>
+									<settlement>New York</settlement>
+									<region>NY</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff3">
+								<orgName type="laboratory">Cancer Biology and Genetics</orgName>
+								<orgName type="institution">Memorial Sloan Kettering Cancer Center</orgName>
+								<address>
+									<settlement>New York</settlement>
+									<region>NY</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff4">
+								<orgName type="department">Brain Tumor Center</orgName>
+								<orgName type="institution">Memorial Sloan Kettering Cancer Center</orgName>
+								<address>
+									<settlement>New York</settlement>
+									<region>NY</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff6">
+								<orgName type="department" key="dep1">Human Biology, and Solid Tumor and Translational Research</orgName>
+								<orgName type="department" key="dep2">Fred Hutchinson Cancer Research Center, Alvord Brain Tumor Center</orgName>
+								<orgName type="institution">University of Washington</orgName>
+								<address>
+									<settlement>Seattle</settlement>
+									<region>WA</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Andrew</forename><forename type="middle">B</forename><surname>Lassman</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Departments of Neurology</orgName>
+								<orgName type="institution">Memorial Sloan Kettering Cancer Center</orgName>
+								<address>
+									<settlement>New York</settlement>
+									<region>NY</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff4">
+								<orgName type="department">Brain Tumor Center</orgName>
+								<orgName type="institution">Memorial Sloan Kettering Cancer Center</orgName>
+								<address>
+									<settlement>New York</settlement>
+									<region>NY</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff7">
+								<orgName type="department" key="dep1">Department of Neurology &amp; Herbert Irving Comprehensive Cancer Center</orgName>
+								<orgName type="department" key="dep2">Irving Medical Center</orgName>
+								<orgName type="institution">Columbia University</orgName>
+								<address>
+									<settlement>New York</settlement>
+									<region>NY</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff5">
+								<orgName type="department">Novartis Oncology</orgName>
+								<address>
+									<settlement>Basel</settlement>
+									<country key="CH">Switzerland</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff8">
+								<orgName type="department">Department of Neurology, Memorial Sloan Kettering Cancer Center</orgName>
+								<address>
+									<settlement>New York</settlement>
+									<region>New York</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff9">
+								<orgName type="department" key="dep1">Department of Neurology and Herbert Irving Comprehensive Cancer Center</orgName>
+								<orgName type="department" key="dep2">Irving Medical Center</orgName>
+								<orgName type="institution">Columbia University</orgName>
+								<address>
+									<addrLine>710 West 168 th Street</addrLine>
+									<settlement>New York</settlement>
+									<region>New York</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Phase II trial of an AKT inhibitor (perifosine) for recurrent glioblastoma</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date type="published" when="2020-09-16">2020 September 16.</date>
+						</imprint>
+					</monogr>
+					<idno type="DOI">10.1007/s11060-019-03243-7</idno>
+					<note type="submission">received during the last 3 years (all outside the submitted work): personal fees and non-financial support from Orbus, NW Biotherapeutics, Agios, Celgene, and Novocure; grants, personal fees and non-financial support from Karyopharm, Kadmon, Roche/ Genentech, and AbbVie; grants and non-financial support from Oncoceutics, Amgen, Millienium, Celldex, Novartis, Pfizer, Beigene, and VBI Vaccines, non-financial support from Tocagen, BMS; and personal fees from Bioclinica as an expert blinded independent reviewer of clinical and imaging data for a BMS-sponsored trial, prIME Oncology, Sapience, WebMD, Physicians&apos; Education Resource/Chemotherapy Foundation Symposium, Astra Zeneca, and Cortice. TJK: outside the submitted work: research funding (Merck, Ludwig, Eli-Lilly) KSP: outside the submitted work: stock ownership in Johnson $ Johnson, Viking Therapeutics, Pfizer and Catalyst Biotech. Publisher&apos;s Disclaimer: This Author Accepted Manuscript is a PDF file of an unedited peer-reviewed manuscript that has been accepted for publication but has not been copyedited or corrected. The official version of record that is</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.6.1" ident="GROBID" when="2020-10-09T18:38+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>Glioblastoma</term>
+					<term>phase II</term>
+					<term>perifosine</term>
+					<term>AKT</term>
+					<term>chemotherapy</term>
+					<term>clinical trial</term>
+				</keywords>
+			</textClass>
+			<abstract>
+				<p>Purpose: Perifosine (PRF) is an oral alkylphospholipid with antineoplastic effects and reasonable tolerability. It inhibits signaling through the PI3/AKT axis and other cascades of biologic importance in glioblastoma, and has promising pre-clinical activity in vitro and in vivo. Therefore, we conducted a phase II open-label single-arm clinical trial of perifosine for patients with recurrent glioblastoma (GBM). Methods: We planned to accrue up to 30 adults with recurrent GBM with a minimum Karnofsky Performance Status of 50 following radiotherapy but without other restrictions on the number or types of prior therapy. Concurrent p450 stimulating hepatic enzyme inducing anticonvulsants were Terms of use and reuse: academic research for non-commercial purposes, see here for full terms. https://www.springer.com/aamterms-v1</p>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Despite aggressive therapy, glioblastoma (GBM) remains an incurable neoplasm. Median overall survival (OS) is approximately 1-2 years from diagnosis. <ref type="bibr" target="#b0">[1]</ref> At recurrence, most agents are of limited efficacy and median progression-free survival (PFS) is 2-3 months with a 6-month progression-free survival (PFS6) rate under 15%. <ref type="bibr" target="#b1">[2]</ref><ref type="bibr" target="#b2">[3]</ref><ref type="bibr" target="#b3">[4]</ref> Although bevacizumab is associated with a PFS6 rate of 30-50% that is higher than reported with cytotoxic agents, it does not appear to improve OS. <ref type="bibr" target="#b4">[5]</ref> Clearly, better treatments are needed.</p><p>Alkylphospholipids are novel agents with different toxicities and mechanisms of action than traditional chemotherapies. <ref type="bibr" target="#b5">[6]</ref> Miltefosine is a naturally occurring compound with a broad spectrum of antineoplastic mechanisms and is effective against cutaneous breast cancer metastases when applied topically, but profound gastrointestinal toxicities limit its practical use for prolonged systemic delivery. <ref type="bibr" target="#b6">[7]</ref> Therefore, other in-class agents with improved tolerability were developed, leading to the discovery of perifosine (PRF) <ref type="bibr" target="#b6">[7]</ref> which inhibits several signal transduction pathways of importance in human cancers, especially PI3K/ AKT <ref type="bibr" target="#b6">[7]</ref>[8] Early trials demonstrated reasonable tolerability with mainly gastrointestinal toxicities. <ref type="bibr" target="#b8">[9]</ref> The half-life exceeds 100 hours, and early studies in systemic malignancies led to standardization of an initial load to achieve steady state in serum rapidly, followed by prolonged administration of a lower (15%−20% of the load) dose daily thereafter, <ref type="bibr" target="#b9">[10]</ref> with anecdotal responses in various cancers. <ref type="bibr" target="#b10">[11]</ref> <ref type="bibr" target="#b11">[12]</ref> Mouse gliomas that model the human disease molecularly and histologically have been developed using retroviral injection of oncogenes of interest in transgenics susceptible to infection in glia or glial progenitors, as reviewed elsewhere. <ref type="bibr" target="#b12">[13]</ref> Such models provide a tool to test novel therapeutic agents pre-clinically. For example, forced activation of the AKT and RAS signal transduction cascades is sufficient to induce GBMs in such mice. <ref type="bibr" target="#b13">[14]</ref> Preclinical data with genetically engineered mouse gliomas <ref type="bibr" target="#b12">[13]</ref> demonstrated that PRF reduces AKT phosphorylation as well as that of the RAS effector ERK, <ref type="bibr" target="#b14">[15]</ref> and induced tumor necrosis in vivo. <ref type="bibr" target="#b15">[16]</ref> As the PI3K/AKT and RAS/MEK/ERK signal transduction cascades are overly activated in the vast majority of human GBMs, <ref type="bibr" target="#b16">[17]</ref> we conducted a clinical trial of perifosine to explore efficacy in patients with recurrent GBMs (NCT00590954).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>PATIENTS AND METHODS:</head><p>This was a prospective, single-center, open-label single arm phase II trial that accrued at Memorial Sloan Kettering Cancer Center.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Eligibility</head><p>Patients were required to have histologically proven GBM with unequivocal evidence of tumor progression on neuroimaging. Prior radiotherapy was required but there was otherwise no limit on the number of recurrences or prior therapies. Adults with Karnofsky Performance Status ≥50 (to broaden eligibility and accrue as quickly as possible) who had recovered from any prior drug therapy (including bevacizumab) delivered ≥ 4 weeks were eligible if they had normal end-organ function at baseline (marrow, liver, renal). Concurrent hepatic p450 enzyme-inducing anticonvulsants were prohibited both for ≥2 weeks before treatment with and during PRF because of potential effects on drug pharmacokinetics as is typical in GBM trials of novel agents.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Treatment Plan</head><p>Patients received 600mg PRF as a loading dose (in 4 divided doses of 150mg each) on day 1 of cycle 1 followed by 100mg daily continuously as a previously established recommended phase II schedule in other cancers. A cycle was defined as 28 days although treatment was intended to be continuous until either disease progression or intolerable toxicity. Monitoring by complete blood counts and serum chemistries were performed at baseline, after 1 week, and before each additional cycle of therapy. Patients were assessed for response with contrast-enhanced brain MRI scans and clinical examinations at baseline and then on alternate cycles using Macdonald criteria. <ref type="bibr" target="#b17">[18]</ref> In addition, Response Assessment in Neuro-Oncology (RANO) criteria, <ref type="bibr" target="#b18">[19]</ref> published after the trial was designed, were also applied post-hoc. Treatment-related toxicities were evaluated utilizing the National Cancer Institute Common Terminology Criteria Adverse Event (CTCAE) version 3.0, and dose reductions by 50mg daily were allowed for grade ≥ 3 toxicities or unacceptable grade 2 toxicities at least possibly attributed to PRF.</p><p>The study was approved by the appropriate local institutional review board; all procedures performed in studies involving human participants were in accordance with the ethical standards of the institutional and/or national research committee and with the 1964 Helsinki declaration and its later amendments or comparable ethical standards. This article does not contain any studies with animals performed by any of the authors.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Statistical Considerations</head><p>This study was designed as a single-arm, open label, Simon two-stage phase 2 trial <ref type="bibr" target="#b19">[20]</ref> with plans treat a maximum of 37 patients with recurrent GBM. The primary endpoint was the PFS6 rate with PFS defined as the time from starting treatment until progression of disease or death from any cause. A PFS6 rate of 5% was considered not promising, PFS6 of 20% worthy of further study, and the probabilities of type I and II error (falsely accepting a nonpromising therapy and falsely rejecting a promising therapy, respectively) set at 10% each, In addition, to reduce the number of patients required, if 0 of the first 12 patients (first stage) reached PFS6, then accrual would terminate for futility, although accrual of additional patients was permitted while follow-up of the first 12 treated was ongoing. At the end of the second stage, if ≤ 3 patients were progression-free at 6 months then the trial would be declared negative Secondary endpoints included radiographic response rate, median PFS, median overall survival (from treatment start until death from any cause), and toxicity. Time to event endpoints were evaluated utilizing Kaplan-Meier methodology and calculated from the start of treatment.</p><p>In an exploratory cohort, patients with other high-grade gliomas (such as anaplastic astrocytomas, oligodendrogliomas) were accrued with outcomes to be reported descriptively and without pre-planned efficacy goals.</p><p>As AKT inhibition by PRF could alter glucose metabolism, we explored brain <ref type="bibr" target="#b7">8</ref> Fluorodeoxyglucose-positron emission tomography (FDG-PET) as pharmacodynamic surrogate effect and potential predictor of response. Therefore, we performed brain FDG-PET imaging at baseline and during cycle 1 in willing patients.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>RESULTS</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Patient Characteristics</head><p>There were 16 patients with GBM (8 men, 8 women) with a median age of 48 years (range 23-77), including 4 accrued while the first 12 were followed for PFS6 (table 1). One additional patient with GBM withdrew consent prior to any study intervention and was not included in any of the analyses. All treated patients with GBM had been previously undergone radiotherapy and received temozolomide, and 8 (50%) were previously treated with bevacizumab. Patients were heavily pretreated with a median number of 5 prior therapies (range 3-10). In addition, 14 patients (6 women, 8 men; median age 52 years, range 33-74) with anaplastic gliomas (9 oligodendroglioma, 5 astrocytoma) were accrued.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Response and Outcome</head><p>All 16 treated patients with GBM are included in the time-to-event and response analyses, and all have died; thus, the data is fully mature. None of the first 12 patients with GBM reached PFS6, and further accrual was terminated accordingly. Among the 4 patients remaining on study at that time, one withdrew consent, and the other 3 had imaging performed which confirmed disease progression. Among all 16 patients, none (0%) reached PFS6, median PFS was 1.58 months [95% CI: (1.08, 1.84)], and median overall survival was 3.68 months [95% CI: (2.50, 7.79)]. There were no radiographic responses; best response (both Macdonald and RANO) was stable disease in 2, progressive disease in 12, and 2 were not evaluable because of withdrawal from the study (2) before response assessment.</p><p>Among 14 with anaplastic gliomas accrued to the exploratory cohort, PFS6 rate was 14%, median PFS was 2.12 months [95%CI: (1.84, 12.79)], and median overall survival was 9.69 months [95%CI: <ref type="bibr">(5.29,</ref><ref type="bibr">NA)</ref>]. Post-hoc central review by the principal investigators (TJK, ABL) demonstrated that best response (Macdonald and RANO) was partial in 1 (anaplastic astrocytoma), stable disease in 4, progressive disease 7, and not evaluable in 2. Of note, one with anaplastic oligodendroglioma had reduced cross-sectional area of contrast enhancement of &gt;50%, but died of disease before a confirmatory MRI was obtained and scored as stable disease; one with anaplastic astrocytoma had a minor response (reduction in contrastenhancing tumor size of &lt;50% confirmed on multiple subsequent MRIs) but was included among those scored as stable disease.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Toxicity</head><p>Among all 30 patients (16 GBM, 14 anaplastic gliomas), no grade 4 (or 5) PRF-attributed toxicities were observed. Grade 3 toxicities (table 2) were uncommon and included hyperglycemia (n=4), hypophosphatemia (n=2), lymphopenia (n=2), neutropenia (n=1), and increased alanine aminotransferase (ALT, n=1). One patient required dose reduction for persistent grade 2 hypophosphatemia, but none discontinued PRF because of toxicity. Common grade 1-2 toxicities included thrombocytopenia, hyperglycemia, hypophosphatemia, transaminitis, and gastrointestinal complaints (nausea, vomiting, diarrhea, and anorexia; <ref type="table">Table 2</ref>) as previously reported for PRF.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>FDG-PET Imaging</head><p>There were too few scans to make any formal statistical analyses, resulting in part from the optional nature of the imaging. Descriptively, there were no obvious changes in tumor glucose uptake during treatment, nor any obvious correlation between uptake on baseline FDG-PET and response by subsequent MRI. This may be confounded by the lack of clinical efficacy observed with PRF in the trial.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>DISCUSSION</head><p>PRF as a single agent is not active in recurrent GBM. However, it was reasonably well tolerated, and radiographic improvements were observed in 3/14 patients with other highgrade gliomas including one confirmed partial response. Potential reasons for treatment failure include existence of redundant pathways in the AKT signaling axis such that monotherapy with PRF is insufficient for response. It is also possible that the tumors in this heavily pretreated patient population studied (prior therapy, low KPS) were also particularly aggressive and treatment refractory. Molecular correlations with outcome were not pursued because of the lack of efficacy.</p><p>While this trial was ongoing and following completion of accrual, further pre-clinical studies were conducted combining PRF with other therapies. <ref type="bibr" target="#b14">[15,</ref><ref type="bibr" target="#b15">16]</ref> Results suggested that PRF combined with the mTOR inhibitor temsirolimus shut down signaling through the PI3K/AKT/mTOR axis more effectively than either PRF or temsirolimus alone and synergistically induced massive intra-tumoral cell death in tumor-bearing mice. <ref type="bibr" target="#b15">[16]</ref> Therefore, we subsequently conducted a phase I trial of dual-drug therapy combining PRF with temsirolimus, <ref type="bibr" target="#b20">[21]</ref> as well as planned other possible combinations pending outcome of the drug studies and further evolution of the preclinical science. </p></div><figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>Table 1 : Patient Characteristics Glioblastoma (n=16) Anaplastic Glioma (n=14)</head><label>1</label><figDesc></figDesc><table><row><cell>Gender</cell><cell></cell><cell></cell></row><row><cell>Men</cell><cell>8 (50%)</cell><cell>8 (38%)</cell></row><row><cell>Women</cell><cell>8 (50%)</cell><cell>6 (62%)</cell></row><row><cell>Median age (range)</cell><cell>48 (23-77)</cell><cell>52 (33-74)</cell></row><row><cell cols="2">Median Karnofsky Performance Status (range) 80 (50-90)</cell><cell>90 (60-100)</cell></row><row><cell>Prior radiotherapy</cell><cell>16 (100%)</cell><cell>14 (100%)</cell></row><row><cell>Prior chemotherapy</cell><cell>16 (100%)</cell><cell>14 (100%)</cell></row><row><cell>Prior bevacizumab</cell><cell>8 (50%)</cell><cell>0 (0%)</cell></row><row><cell>Median number of prior therapies</cell><cell>5 (3-10)</cell><cell>5 (3-10)</cell></row></table><note></note></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot">J Neurooncol. Author manuscript; available in PMC 2020 September 16.</note>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Acknowledgments</head></div>
+			</div>
+
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0" />			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Maintenance Therapy With Tumor-Treating Fields Plus Temozolomide vs Temozolomide Alone for Glioblastoma: A Randomized Clinical Trial</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><surname>Stupp</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Taillibert</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><forename type="middle">A</forename><surname>Kanner</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Kesari</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><forename type="middle">M</forename><surname>Steinberg</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><forename type="middle">A</forename><surname>Toms</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">L</forename><forename type="middle">P</forename><surname>Taylor</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">F</forename><surname>Lieberman</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Silvani</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><forename type="middle">L</forename><surname>Fink</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">G</forename><forename type="middle">H</forename><surname>Barnett</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">J</forename><surname>Zhu</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">W</forename><surname>Henson</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><forename type="middle">H</forename><surname>Engelhard</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><forename type="middle">C</forename><surname>Chen</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><forename type="middle">D</forename><surname>Tran</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Sroubek</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">N</forename><forename type="middle">D</forename><surname>Tran</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><forename type="middle">F</forename><surname>Hottinger</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Landolfi</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><surname>Desai</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Caroli</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Y</forename><surname>Kew</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Honnorat</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Idbaih</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><forename type="middle">D</forename><surname>Kirson</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">U</forename><surname>Weinberg</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Y</forename><surname>Palti</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">E</forename><surname>Hegi</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Z</forename><surname>Ram</surname></persName>
+		</author>
+		<idno type="DOI">10.1001/jama.2015.16669</idno>
+	</analytic>
+	<monogr>
+		<title level="j">JAMA</title>
+		<imprint>
+			<biblScope unit="volume">314</biblScope>
+			<biblScope unit="issue">23</biblScope>
+			<biblScope unit="page" from="2535" to="2543" />
+			<date type="published" when="2015" />
+		</imprint>
+	</monogr>
+	<note>PubMed: 26670971</note>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Progression-free survival: an important end point in evaluating therapy for recurrent high-grade gliomas</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><forename type="middle">R</forename><surname>Lamborn</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">W</forename><forename type="middle">K</forename><surname>Yung</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><forename type="middle">M</forename><surname>Chang</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><forename type="middle">Y</forename><surname>Wen</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><forename type="middle">F</forename><surname>Cloughesy</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">L</forename><forename type="middle">M</forename><surname>Deangelis</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><forename type="middle">I</forename><surname>Robins</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">F</forename><forename type="middle">S</forename><surname>Lieberman</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><forename type="middle">A</forename><surname>Fine</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><forename type="middle">L</forename><surname>Fink</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">L</forename><surname>Junck</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">L</forename><surname>Abrey</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">R</forename><surname>Gilbert</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Mehta</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">G</forename><surname>Kuhn</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><forename type="middle">D</forename><surname>Aldape</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Hibberts</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><forename type="middle">M</forename><surname>Peterson</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">D</forename><surname>Prados</surname></persName>
+		</author>
+		<idno type="DOI">15228517-2007-062[pii]10.1215/15228517-2007-062</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Neuro Oncol</title>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="162" to="170" />
+			<date type="published" when="2008" />
+		</imprint>
+	</monogr>
+	<note>PubMed: 18356283</note>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Outcomes and prognostic factors in recurrent glioma patients enrolled onto phase II clinical trials</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><forename type="middle">T</forename><surname>Wong</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><forename type="middle">R</forename><surname>Hess</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">J</forename><surname>Gleason</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><forename type="middle">A</forename><surname>Jaeckle</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><forename type="middle">P</forename><surname>Kyritsis</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">D</forename><surname>Prados</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">V</forename><forename type="middle">A</forename><surname>Levin</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">W</forename><forename type="middle">K</forename><surname>Yung</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Clin Oncol</title>
+		<imprint>
+			<biblScope unit="volume">17</biblScope>
+			<biblScope unit="issue">8</biblScope>
+			<biblScope unit="page" from="2572" to="2578" />
+			<date type="published" when="1999" />
+		</imprint>
+	</monogr>
+	<note>PubMed: 10561324</note>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">The relationship between six-month progression-free survival and 12-month overall survival end points for phase II trials in patients with glioblastoma multiforme</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><forename type="middle">V</forename><surname>Ballman</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">C</forename><surname>Buckner</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><forename type="middle">D</forename><surname>Brown</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><surname>Giannini</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><forename type="middle">J</forename><surname>Flynn</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">B</forename><forename type="middle">R</forename><surname>Laplant</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><forename type="middle">A</forename><surname>Jaeckle</surname></persName>
+		</author>
+		<idno type="DOI">15228517-2006-025[pii]10.1215/15228517-2006-025</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Neuro Oncol</title>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="29" to="38" />
+			<date type="published" when="2007" />
+		</imprint>
+	</monogr>
+	<note>PubMed: 17108063</note>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Lomustine and Bevacizumab in Progressive Glioblastoma</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">W</forename><surname>Wick</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Gorlia</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Bendszus</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Taphoorn</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">F</forename><surname>Sahm</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">I</forename><surname>Harting</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><forename type="middle">A</forename><surname>Brandes</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">W</forename><surname>Taal</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Domont</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Idbaih</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Campone</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><forename type="middle">M</forename><surname>Clement</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><surname>Stupp</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Fabbro</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Le</forename><surname>Rhun</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><surname>Dubois</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">F</forename><surname>Weller</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Von Deimling</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Golfinopoulos</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">V</forename><surname>Bromberg</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">C</forename><surname>Platten</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Klein</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Van Den Bent</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">J</forename></persName>
+		</author>
+		<idno type="DOI">10.1056/NEJMoa1707358</idno>
+	</analytic>
+	<monogr>
+		<title level="j">N Engl J Med</title>
+		<imprint>
+			<biblScope unit="volume">377</biblScope>
+			<biblScope unit="issue">20</biblScope>
+			<biblScope unit="page" from="1954" to="1963" />
+			<date type="published" when="2017" />
+		</imprint>
+	</monogr>
+	<note>PubMed: 29141164</note>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Alkylphospholipids -a promising class of chemotherapeutic agents with a broad pharmacological spectrum</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Pachioni Jde</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">G</forename><surname>Magalhaes</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><forename type="middle">J</forename><surname>Lima</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Bueno Lde</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">F</forename><surname>Barbosa</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">M</forename><surname>De Sa</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Rangel-Yagui</forename><surname>Co</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Pharm Pharm Sci</title>
+		<imprint>
+			<biblScope unit="volume">16</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page" from="742" to="759" />
+			<date type="published" when="2013" />
+		</imprint>
+	</monogr>
+	<note>PubMed: 24393556</note>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Perifosine, a novel alkylphospholipid, inhibits protein kinase B activation</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><forename type="middle">B</forename><surname>Kondapaka</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><forename type="middle">S</forename><surname>Singh</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">G</forename><forename type="middle">P</forename><surname>Dasmahapatra</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><forename type="middle">A</forename><surname>Sausville</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><forename type="middle">K</forename><surname>Roy</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Mol Cancer Ther</title>
+		<imprint>
+			<biblScope unit="volume">2</biblScope>
+			<biblScope unit="issue">11</biblScope>
+			<biblScope unit="page" from="1093" to="1103" />
+			<date type="published" when="2003" />
+		</imprint>
+	</monogr>
+	<note>PubMed: 14617782</note>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Anticancer alkyllysophospholipids inhibit the phosphatidylinositol 3-kinase-Akt/PKB survival pathway</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">G</forename><forename type="middle">A</forename><surname>Ruiter</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><forename type="middle">F</forename><surname>Zerp</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><surname>Bartelink</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">W</forename><forename type="middle">J</forename><surname>Van Blitterswijk</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Verheij</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Anticancer Drugs</title>
+		<imprint>
+			<biblScope unit="volume">14</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="167" to="173" />
+			<date type="published" when="2003" />
+		</imprint>
+	</monogr>
+	<note>PubMed: 12569304</note>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Phase I and pharmacological study of daily oral administration of perifosine (D-21266) in patients with advanced solid tumours</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Crul</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><surname>Rosing</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">G</forename><forename type="middle">J</forename><surname>De Klerk</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><surname>Dubbelman</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Traiser</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Reichert</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">N</forename><forename type="middle">G</forename><surname>Knebel</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">H</forename><surname>Schellens</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">H</forename><surname>Beijnen</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Bokkel</forename><surname>Ten</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">W</forename><forename type="middle">W</forename><surname>Huinink</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Eur J Cancer</title>
+		<imprint>
+			<biblScope unit="volume">38</biblScope>
+			<biblScope unit="issue">12</biblScope>
+			<biblScope unit="page" from="1615" to="1621" />
+			<date type="published" when="2002" />
+		</imprint>
+	</monogr>
+	<note>PubMed: 12142051</note>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">A phase I and pharmacokinetic study of oral perifosine with different loading schedules in patients with refractory neoplasms</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">W</forename><forename type="middle">D</forename><surname>Figg</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Monga</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><surname>Headlee</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Shah</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><forename type="middle">H</forename><surname>Chau</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><surname>Peer</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><surname>Messman</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Y</forename><forename type="middle">A</forename><surname>Elsayed</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><forename type="middle">J</forename><surname>Murgo</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">G</forename><surname>Melillo</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Q</forename><forename type="middle">C</forename><surname>Ryan</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Kalnitskiy</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><forename type="middle">M</forename><surname>Senderowicz</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Hollingshead</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><forename type="middle">G</forename><surname>Arbuck</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><forename type="middle">A</forename><surname>Sausville</surname></persName>
+		</author>
+		<idno>doi:10.1007/ s00280-014-2569-7</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Cancer Chemother Pharmacol</title>
+		<imprint>
+			<biblScope unit="volume">74</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page" from="955" to="967" />
+			<date type="published" when="2014" />
+		</imprint>
+	</monogr>
+	<note>PubMed: 25183650</note>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><surname>Bailey</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Mahoney</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><surname>Ettinger</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">W</forename><surname>Maples</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><surname>Fracasso</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><surname>Erlichman</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Tolerability</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">patients with advanced soft tissue sarcoma (STS): a multicenter phase 2 consortium (P2C) Study In: 16th EORTC-NCI-AACR Symposium on Molecular Targets and Cancer Therapeutics</title>
+		<meeting><address><addrLine>Geneva Switzerland</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2004" />
+			<biblScope unit="page">113</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">A phase I trial of perifosine (NSC 639966) on a loading dose/ maintenance dose schedule in patients with advanced cancer</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">L</forename><surname>Van Ummersen</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><surname>Binger</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Volkman</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><surname>Marnocha</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><surname>Tutsch</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Kolesar</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><surname>Arzoomanian</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><surname>Alberti</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">G</forename><surname>Wilding</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Clin Cancer Res</title>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="issue">22</biblScope>
+			<biblScope unit="page" from="7450" to="7456" />
+			<date type="published" when="2004" />
+		</imprint>
+	</monogr>
+	<note>PubMed: 15569974</note>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<monogr>
+		<title level="m" type="main">Russell and Rubinstein&apos;s Pathology of Tumors of the Nervous System 7th Edition. 7th edn Arnold Health Sciences</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><forename type="middle">B</forename><surname>Lassman</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><forename type="middle">C</forename><surname>Holland</surname></persName>
+		</author>
+		<editor>McLendon RE, Bigner DD, Rosenblum MR, Bruner JM</editor>
+		<imprint>
+			<date type="published" when="2006" />
+			<biblScope unit="page" from="1039" to="1091" />
+			<pubPlace>London</pubPlace>
+		</imprint>
+	</monogr>
+	<note>Molecular biology and genetic models of gliomas and medulloblastomas</note>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Combined activation of Ras and Akt in neural progenitors induces glioblastoma formation in mice</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><forename type="middle">C</forename><surname>Holland</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Celestino</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><surname>Dai</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">L</forename><surname>Schaefer</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><forename type="middle">E</forename><surname>Sawaya</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">G</forename><forename type="middle">N</forename><surname>Fuller</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nat Genet</title>
+		<imprint>
+			<biblScope unit="volume">25</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="55" to="57" />
+			<date type="published" when="2000" />
+		</imprint>
+	</monogr>
+	<note>PubMed: 10802656</note>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">Perifosine inhibits multiple signaling pathways in glial progenitors and cooperates with temozolomide to arrest cell proliferation in gliomas in vivo</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><surname>Momota</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><surname>Nerio</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><forename type="middle">C</forename><surname>Holland</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Cancer Res</title>
+		<imprint>
+			<biblScope unit="volume">65</biblScope>
+			<biblScope unit="issue">16</biblScope>
+			<biblScope unit="page" from="7429" to="7435" />
+			<date type="published" when="2005" />
+		</imprint>
+	</monogr>
+	<note>PubMed: 16103096</note>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Perifosine and CCI 779 cooperate to induce cell death and decrease proliferation in PTEN-intact and PTEN-deficient PDGFdriven murine glioblastoma</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><forename type="middle">L</forename><surname>Pitter</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><forename type="middle">J</forename><surname>Galban</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Galban</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">O</forename><forename type="middle">S</forename><surname>Tehrani</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">F</forename><surname>Li</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">N</forename><surname>Charles</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">S</forename><surname>Bradbury</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">O</forename><forename type="middle">J</forename><surname>Becher</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><forename type="middle">L</forename><surname>Chenevert</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Rehemtulla</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">B</forename><forename type="middle">D</forename><surname>Ross</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><forename type="middle">C</forename><surname>Holland</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><surname>Hambardzumyan</surname></persName>
+		</author>
+		<idno type="DOI">10.1371/journal.pone.0014545</idno>
+	</analytic>
+	<monogr>
+		<title level="j">PLoS One</title>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page">14545</biblScope>
+			<date type="published" when="2011" />
+		</imprint>
+	</monogr>
+	<note>PubMed: 21267448</note>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Analysis of the phosphatidylinositol 3&apos;-kinase signaling pathway in glioblastoma patients in vivo</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">G</forename><surname>Choe</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Horvath</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><forename type="middle">F</forename><surname>Cloughesy</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><surname>Crosby</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><surname>Seligson</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Palotie</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">L</forename><surname>Inge</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">B</forename><forename type="middle">L</forename><surname>Smith</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><forename type="middle">L</forename><surname>Sawyers</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><forename type="middle">S</forename><surname>Mischel</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Cancer Res</title>
+		<imprint>
+			<biblScope unit="volume">63</biblScope>
+			<biblScope unit="issue">11</biblScope>
+			<biblScope unit="page" from="2742" to="2746" />
+			<date type="published" when="2003" />
+		</imprint>
+	</monogr>
+	<note>PubMed: 12782577</note>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Response criteria for phase II studies of supratentorial malignant glioma</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><forename type="middle">R</forename><surname>Macdonald</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><forename type="middle">L</forename><surname>Cascino</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><forename type="middle">C</forename><surname>Schold</surname><genName>Jr</genName></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">G</forename><surname>Cairncross</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Clin Oncol</title>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="issue">7</biblScope>
+			<biblScope unit="page" from="1277" to="1280" />
+			<date type="published" when="1990" />
+		</imprint>
+	</monogr>
+	<note>PubMed: 2358840</note>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">Updated response assessment criteria for high-grade gliomas: response assessment in neuro-oncology working group</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><forename type="middle">Y</forename><surname>Wen</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><forename type="middle">R</forename><surname>Macdonald</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><forename type="middle">A</forename><surname>Reardon</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><forename type="middle">F</forename><surname>Cloughesy</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><forename type="middle">G</forename><surname>Sorensen</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><surname>Galanis</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Degroot</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">W</forename><surname>Wick</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">R</forename><surname>Gilbert</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><forename type="middle">B</forename><surname>Lassman</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><surname>Tsien</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Mikkelsen</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><forename type="middle">T</forename><surname>Wong</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">C</forename><surname>Chamberlain</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><surname>Stupp</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><forename type="middle">R</forename><surname>Lamborn</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">A</forename><surname>Vogelbaum</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">J</forename><surname>Van Den Bent</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><forename type="middle">M</forename><surname>Chang</surname></persName>
+		</author>
+		<idno type="DOI">JCO.2009.26.3541[pii]10.1200/JCO.2009.26.3541</idno>
+	</analytic>
+	<monogr>
+		<title level="j">J Clin Oncol</title>
+		<imprint>
+			<biblScope unit="volume">28</biblScope>
+			<biblScope unit="issue">11</biblScope>
+			<biblScope unit="page" from="1963" to="1972" />
+			<date type="published" when="2010" />
+		</imprint>
+	</monogr>
+	<note>PubMed: 20231676</note>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">Optimal two-stage designs for phase II clinical trials</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><surname>Simon</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Controlled clinical trials</title>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="1" to="10" />
+			<date type="published" when="1989" />
+		</imprint>
+	</monogr>
+	<note>PubMed: 2702835</note>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">Phase I trial of temsirolimus (TEM) and perifosine (PER) for recurrent or progressive malignant glioma (MG)</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><forename type="middle">J</forename><surname>Kaley</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><surname>Pentsova</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Omuro</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">I</forename><forename type="middle">K</forename><surname>Mellinghoff</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><forename type="middle">P</forename><surname>Nolan</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">I</forename><forename type="middle">T</forename><surname>Gavrilovic</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">L</forename><forename type="middle">M</forename><surname>Deangelis</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">E</forename><surname>Lacouture</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><forename type="middle">C</forename><surname>Holland</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><forename type="middle">B</forename><surname>Lassman</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Clin Oncol</title>
+		<imprint>
+			<biblScope unit="volume">31</biblScope>
+			<biblScope unit="page">2095</biblScope>
+			<date type="published" when="2013" />
+		</imprint>
+	</monogr>
+	<note>Suppl</note>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

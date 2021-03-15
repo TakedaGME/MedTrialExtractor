@@ -1,0 +1,1120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /data/rsg/nlp/juanmoo1/bin/grobid-0.6.1/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Avelumab monotherapy as first-line or second-line treatment in patients with metastatic renal cell carcinoma: phase Ib results from the JAVELIN Solid Tumor trial</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Ulka</forename><surname>Vaishampayan</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="institution" key="instit1">Karmanos Cancer Institute</orgName>
+								<orgName type="institution" key="instit2">Wayne State University</orgName>
+								<address>
+									<addrLine>4100 John R. Street</addrLine>
+									<postCode>48201</postCode>
+									<settlement>Detroit</settlement>
+									<region>MI</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="department">Karmanos Cancer Institute</orgName>
+								<orgName type="institution">Wayne State University</orgName>
+								<address>
+									<addrLine>4100 John R. Street</addrLine>
+									<postCode>48201</postCode>
+									<settlement>Detroit</settlement>
+									<region>MI</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Patrick</forename><surname>Schöffski</surname></persName>
+							<affiliation key="aff2">
+								<orgName type="department" key="dep1">General Medical Oncology</orgName>
+								<orgName type="department" key="dep2">Leuven Cancer Institute</orgName>
+								<orgName type="institution">University Hospitals Leuven</orgName>
+								<address>
+									<settlement>Leuven</settlement>
+									<country key="BE">Belgium</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Alain</forename><surname>Ravaud</surname></persName>
+							<affiliation key="aff3">
+								<orgName type="department">Medical Oncology</orgName>
+								<orgName type="institution">Bordeaux University Hospital</orgName>
+								<address>
+									<settlement>Bordeaux</settlement>
+									<country key="FR">France</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Christian</forename><surname>Borel</surname></persName>
+							<affiliation key="aff4">
+								<orgName type="department" key="dep1">Medical Oncology</orgName>
+								<orgName type="department" key="dep2">Centre Paul Strauss, Centre de Recherche, Centres de Lutte Contre le Cancer (CRLCC)</orgName>
+								<address>
+									<settlement>Strasbourg</settlement>
+									<country key="FR">France</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Julio</forename><surname>Peguero</surname></persName>
+							<affiliation key="aff5">
+								<orgName type="department">Oncology Haematology, Oncology Consultants</orgName>
+								<address>
+									<settlement>Houston</settlement>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Jorge</forename><surname>Chaves</surname></persName>
+							<affiliation key="aff6">
+								<orgName type="department">Haematology-Oncology, Northwest Medical Specialties</orgName>
+								<address>
+									<settlement>Lakewood</settlement>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">John</forename><forename type="middle">C</forename><surname>Morris</surname></persName>
+							<affiliation key="aff7">
+								<orgName type="department">Internal Medicine</orgName>
+								<orgName type="institution">University of Cincinnati</orgName>
+								<address>
+									<settlement>Cincinnati</settlement>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Nuria</forename><surname>Kotecki</surname></persName>
+							<affiliation key="aff8">
+								<orgName type="department">Centre Oscar Lambret</orgName>
+								<address>
+									<settlement>Lille</settlement>
+									<country key="FR">France</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Martin</forename><surname>Smakal</surname></persName>
+							<affiliation key="aff9">
+								<orgName type="laboratory">Horovice Oncology Clinic, Nemocnice Rudolfa a Stefanie Benešov, a. s, Benešov, Czech Republic. 10 Merck Serono Pharmaceutical R&amp;D Co</orgName>
+								<address>
+									<settlement>Beijing</settlement>
+									<country key="CN">China</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Dongli</forename><surname>Zhou</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Silke</forename><surname>Guenther</surname></persName>
+							<affiliation key="aff10">
+								<orgName type="institution">Merck KGaA</orgName>
+								<address>
+									<settlement>Darmstadt</settlement>
+									<country key="DE">Germany</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Marcis</forename><surname>Bajars</surname></persName>
+							<affiliation key="aff11">
+								<orgName type="department">Global Clinical Development, EMD Serono</orgName>
+								<address>
+									<settlement>Billerica</settlement>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">James</forename><forename type="middle">L</forename><surname>Gulley</surname></persName>
+							<affiliation key="aff12">
+								<orgName type="department" key="dep1">Genitourinary Malignancies Branch</orgName>
+								<orgName type="department" key="dep2">Center for Cancer Research</orgName>
+								<orgName type="institution" key="instit1">National Cancer Institute</orgName>
+								<orgName type="institution" key="instit2">National Institutes of Health</orgName>
+								<address>
+									<settlement>Bethesda</settlement>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Avelumab monotherapy as first-line or second-line treatment in patients with metastatic renal cell carcinoma: phase Ib results from the JAVELIN Solid Tumor trial</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<idno type="DOI">10.1186/s40425-019-0746-2</idno>
+					<note type="submission">Received: 31 May 2019 Accepted: 20 September 2019</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.6.1" ident="GROBID" when="2020-10-09T18:38+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>Avelumab</term>
+					<term>PD-L1</term>
+					<term>Renal cell carcinoma</term>
+					<term>Metastatic</term>
+					<term>Phase I</term>
+				</keywords>
+			</textClass>
+			<abstract>
+				<p>Background: Antibodies targeting programmed death-1 (PD-1) or programmed death-ligand 1 (PD-L1) have shown clinical activity in the treatment of metastatic renal cell carcinoma (mRCC). This phase Ib cohort of the JAVELIN Solid Tumor trial assessed the efficacy and safety of avelumab (anti-PD-L1) monotherapy in patients with mRCC as either first-line (1 L) or second-line (2 L) treatment. Methods: Patients with mRCC with a clear-cell component who were treatment naive (1 L subgroup) or had disease progression after one prior line of therapy (2 L subgroup) received avelumab 10 mg/kg intravenous infusion every 2 weeks. Endpoints included confirmed best overall response, duration of response (DOR), progression-free survival (PFS), overall survival (OS), PD-L1 expression, and safety. Results: A total of 62 patients were enrolled in the 1 L subgroup, and 20 patients were enrolled in the 2 L subgroup. In the 1 L and 2 L subgroups, confirmed objective response rates were 16.1 and 10.0%, median DOR was 9.9 months (95% confidence interval [CI], 2.8-not evaluable) and not evaluable (95% CI, 6.9-not evaluable), median PFS was 8.3 months (95% CI, 5.5-9.5) and 5.6 months (95% CI, 2.3-9.6), and median OS was not evaluable (95% CI, not evaluable) and 16.9 months (95% CI, 8.3-not evaluable), respectively. Treatment-related adverse events (TRAEs) of any grade occurred in 51 patients in the 1 L subgroup (82.3%) and 14 patients in the 2 L subgroup (70.0%). Grade ≥ 3 TRAEs occurred in eight patients in the 1 L subgroup (12.9%) and one patient in the 2 L subgroup (5.0%). No treatment-related deaths occurred. Conclusion: Avelumab showed clinical activity and a manageable safety profile in both the 1 L and 2 L treatment setting in patients with mRCC. These data support the use of avelumab in combination with other agents in mRCC.</p>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Background</head><p>Renal cell carcinoma (RCC) is the most common type of kidney cancer, with clear-cell RCC being the most common subtype <ref type="bibr" target="#b1">[1]</ref>. Historically, metastatic RCC (mRCC) has had a poor prognosis, with an average 5-year survival rate of ≈11% <ref type="bibr" target="#b2">[2]</ref>. Also, mRCC is highly resistant to chemotherapy and radiation treatment <ref type="bibr" target="#b3">[3,</ref><ref type="bibr" target="#b4">4]</ref>. In recent years, progress has been made in the treatment of advanced or metastatic RCC and multiple targeted therapies have been approved, including tyrosine kinase inhibitors (TKIs), mammalian target of rapamycin inhibitors), and the antivascular endothelial growth factor antibody bevacizumab in combination with interferon alpha <ref type="bibr" target="#b5">[5]</ref>. These targeted therapies have shown clinical activity and prolonged survival in patients with mRCC <ref type="bibr" target="#b6">[6]</ref>; however, responses are generally short-lived, development of treatment resistance is common <ref type="bibr" target="#b5">[5,</ref><ref type="bibr" target="#b7">7]</ref>, and different classes of targeted therapy are associated with characteristic toxicity profiles that have implications for patient treatment selection <ref type="bibr" target="#b5">[5]</ref>.</p><p>In recent years, immune checkpoint inhibitors (ICIs) have become an established therapeutic class, with clinical activity seen in various tumor types <ref type="bibr" target="#b8">[8,</ref><ref type="bibr" target="#b9">9]</ref>. In RCC, the immune checkpoint protein programmed death-1 (PD-1) and its ligand (PD-L1) are widely expressed on immune cells that infiltrate the tumor microenvironment and tumor cells, respectively <ref type="bibr" target="#b10">[10]</ref><ref type="bibr" target="#b11">[11]</ref><ref type="bibr" target="#b12">[12]</ref>. Moreover, increased PD-1/L1 expression in RCC is associated with aggressive pathological features and a worse prognosis <ref type="bibr" target="#b10">[10]</ref><ref type="bibr" target="#b11">[11]</ref><ref type="bibr" target="#b12">[12]</ref>. In patients with mRCC, anti-PD-1 and anti-PD-L1 antibodies have shown promising responses and improved overall survival (OS), both as monotherapy and in combination with other classes of agents. Nivolumab (anti-PD-1) was the first agent in this class to be approved by regulatory authorities, based on findings from the randomized phase III CheckMate 025 trial, which compared nivolumab monotherapy with everolimus in patients with advanced RCC who had received prior antiangiogenic therapy <ref type="bibr" target="#b13">[13]</ref>. More recently, nivolumab in combination with ipilimumab (anti-cytotoxic T-lymphocyte protein 4) was approved for patients with previously untreated, intermediate-or poor-risk, advanced RCC, based on OS data from the phase III CheckMate 214 trial of nivolumab plus ipilimumab compared with sunitinib <ref type="bibr" target="#b14">[14]</ref>.</p><p>Avelumab is a human IgG1 monoclonal antibody that binds PD-L1, inhibiting the interaction with PD-1 and restoring antitumor immune responses <ref type="bibr" target="#b15">[15]</ref>. Avelumab has been approved in various countries for the treatment of metastatic Merkel cell carcinoma and advanced urothelial carcinoma that has progressed following platinum-containing therapy <ref type="bibr" target="#b16">[16]</ref>. The large, phase I, multicohort JAVELIN Solid Tumor trial (&gt; 1700 patients; NCT01772004) assessed avelumab monotherapy in various tumors <ref type="bibr" target="#b18">[17]</ref><ref type="bibr" target="#b19">[18]</ref><ref type="bibr" target="#b20">[19]</ref><ref type="bibr" target="#b21">[20]</ref><ref type="bibr" target="#b22">[21]</ref><ref type="bibr" target="#b23">[22]</ref><ref type="bibr" target="#b24">[23]</ref>. Here we report the efficacy and safety data from the phase Ib cohort of patients with mRCC, including subgroups who received either firstline (1 L) or second-line (2 L) avelumab monotherapy. When this study was initiated, phase III data for an ICI (nivolumab) as a 2 L treatment for advanced RCC had been reported <ref type="bibr" target="#b13">[13]</ref>; however, no data for 1 L ICI treatment had been reported, providing the rationale to investigate the clinical activity of avelumab in both the 1 L and 2 L treatment settings. Subsequently, studies of anti-PD-1/PD-L1 antibodies in combination with targeted therapies as 1 L treatment for advanced or metastatic RCC were reported <ref type="bibr" target="#b14">[14,</ref><ref type="bibr" target="#b25">[24]</ref><ref type="bibr" target="#b26">[25]</ref><ref type="bibr" target="#b27">[26]</ref><ref type="bibr" target="#b28">[27]</ref>; this includes trials of avelumab combined with axitinib, particularly the recently reported phase III JAVELIN Renal 101 study, which showed superior efficacy with this regimen compared with sunitinib, and led to the recent FDA approval of avelumab and axitinib in combination for the treatment of advanced RCC <ref type="bibr" target="#b16">[16,</ref><ref type="bibr" target="#b26">25,</ref><ref type="bibr" target="#b27">26]</ref>. Pembrolizumab (anti-PD-1) in combination with axitinib has also been approved by the FDA <ref type="bibr" target="#b25">[24]</ref>. By evaluating the activity of avelumab monotherapy, the current study provides context for the improved efficacy seen with avelumab plus axitinib.  <ref type="bibr">(1 L subgroup)</ref> or had disease progression after one prior line of metastatic therapy (2 L subgroup). Key exclusion criteria included prior treatment with a T-cell-targeting antibody/drug; other cancer diagnosis within 5 years prior to study entry; and known autoimmune disease or hypersensitivity to monoclonal antibodies. Full eligibility criteria have been reported <ref type="bibr" target="#b18">[17]</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Methods</head><p>The trial was conducted in accordance with the Declaration of Helsinki and the International Council for Harmonisation Guideline for Good Clinical Practice. The protocol was approved by the institutional review board or independent ethics committee of each centre; all patients provided written informed consent before enrolment.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Treatment</head><p>All patients received avelumab 10 mg/kg by intravenous infusion every 2 weeks until disease progression, unacceptable toxicity, or other criteria for withdrawal were met (reported previously) <ref type="bibr" target="#b18">[17]</ref>. Dose reductions were not permitted. Antihistamine premedication was given 30-60 min before each infusion. Grade 2 AEs were managed by treatment delays of up to two subsequent omitted doses; events that did not resolve to grade ≤ 1 or recurred resulted in permanent treatment discontinuation.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Assessments</head><p>Clinical activity and safety were analyzed in all patients who received at least one dose of avelumab. Tumors were assessed every 6 weeks for the first year and every 12 weeks thereafter by investigators according to RECIST v1.1. Safety was assessed at each biweekly visit, and AEs were graded according to the National Cancer Institute's Common Terminology Criteria for Adverse Events (NCI-CTCAE), v4.0. Immune-related AEs (irAEs) were identified using a prespecified list of Medical Dictionary for Regulatory Activities (MedDRA) preferred terms, followed by comprehensive medical review. Infusion-related reactions (IRRs) were identified using an expanded definition that included both a prespecified list of MedDRA preferred terms (IRR, drug hypersensitivity, or hypersensitivity reaction) that occurred after infusion on the same day or following day, and additional signs/symptoms that occurred on the day of infusion and resolved within 2 days. PD-L1 expression was assessed using a proprietary immunohistochemistry assay (PD-L1 IHC 73-10 assay; Dako, Carpinteria, CA). PD-L1+ status was defined as PD-L1 expression on ≥ 1% of tumor cells.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Endpoints</head><p>Prespecified endpoints included confirmed best overall response according to RECIST v1.1 (investigator assessed), duration of response (DOR), progression-free survival (PFS) according to RECIST v1.1, OS, PD-L1 expression, and safety.  two patients required prohibited concomitant medication, one patient met an exclusion criterion, and one patient decided to undergo surgery).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Antitumor activity</head><p>In the 1 L and 2 L subgroups, respectively, the ORR was 16.1% (CR, n = 1 [1.6%]; PR, n = 9 [14.5%]) and 10.0% (PR, n = 2) (  seven patients (35.0%) had serious AEs, which were related to treatment in two patients (3.2%) in the 1 L subgroup (grade 3 colitis and grade 2 hyperthermia, both n = 1). Four patients (6.5%) in the 1 L subgroup and two patients (10.0%) in the 2 L subgroup had an AE leading to death (none treatment related).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Discussion</head><p>In this phase Ib study, avelumab monotherapy showed clinical activity as a 1 L or 2 L treatment for patients with mRCC. Responses were durable (median DOR was 9.9 months [1 L] and not evaluable [2 L]), and disease control rates were high in both subgroups (1 L, 77.4%; 2 <ref type="table">Table 3</ref> Incidence of treatment-related adverse events (TRAEs), infusion-related reactions (IRRs), and immune-related adverse events (irAEs) L, 75.0%). Median PFS was 8.3 months in the 1 L subgroup and 5.6 months in the 2 L subgroup, and 12month OS rates were 83.7% (1 L; median, not evaluable) and 65.0% (2 L; median, 16.9 months). Responses to avelumab occurred irrespective of PD-L1 status, and no significant survival difference was seen between PD-L1+ and PD-L1− populations. Avelumab showed an acceptable safety profile, including a low rate of grade 3/4 TRAEs (12.9 and 5.0% in the 1 L and 2 L subgroups, respectively). These results are comparable with those reported with TKI monotherapy <ref type="bibr" target="#b7">[7]</ref>.</p><p>Results of this study were generally consistent with those in previous studies of anti-PD-1/PD-L1 monotherapy administered as either 1 L or 2 L treatment for mRCC. In the nivolumab monotherapy arm of the phase III CheckMate 025 study (patients with previously treated advanced clear-cell RCC [n = 410]), median PFS was 4.6 months (95% CI, 3.7-5.4), median OS was 25 months (95% CI, 21.8-not evaluable), the ORR was 25%, and 19% of patients had a grade 3/4 TRAE <ref type="bibr" target="#b13">[13]</ref>. In the atezolizumab monotherapy arm of the randomized, phase II IMmotion150 study of patients with treatmentnaive mRCC (n = 103), median PFS was 6.1 months (95% CI, 5.4-13.6), OS was not reported, the ORR was 25% (CR, 11%; PR, 14%), and 17% of patients had a grade 3/4 TRAE <ref type="bibr" target="#b29">[28]</ref>. Finally, in cohort A of the phase II KEYNOTE-427 study, which enrolled patients with advanced clear-cell RCC (n = 110), 1 L pembrolizumab monotherapy resulted in a median PFS of 6.9 months (95% CI, 5.1-not evaluable), 6-month OS rate of 92.4% (median, not reached), and ORR of 33.6% (95% CI, 24.8-43.4), and 18.2% of patients had a grade 3-5 TRAE <ref type="bibr" target="#b30">[29]</ref>.</p><p>Preliminary findings from this study supported the rationale for the JAVELIN Renal 100 study (phase Ib avelumab in combination with axitinib [n = 55]) <ref type="bibr" target="#b26">[25]</ref>, and the recently reported JAVELIN Renal 101 trial, a randomized phase III study of avelumab plus axitinib (n = 442) compared with sunitinib (n = 444) as 1 L treatment for patients with advanced clear-cell RCC. Median PFS in patients with PD-L1+ tumors (primary endpoint) was 13.8 vs 7.2 months, respectively (hazard ratio, 0.61 [95% CI, 0.47-0.79]; P &lt; 0.001); in all patients (irrespective of PD-L1 expression), median PFS was 13.8 vs 8.4 months (hazard ratio, 0.69 [95% CI, 0.56-0.84]; P &lt; 0.001), and the ORR was 51.4% vs 25.7%, respectively <ref type="bibr" target="#b27">[26]</ref>. The enhanced efficacy of the combination may result from synergistic antitumor effects provided by the different mechanisms of action of avelumab and axitinib, including the known immunomodulatory effects of vascular endothelial growth factor receptor tyrosine kinase inhibitors <ref type="bibr" target="#b26">[25,</ref><ref type="bibr" target="#b27">26]</ref>. Improved efficacy with anti-PD-1/PD-L1 combinations in the 1 L setting have also been reported for pembrolizumab plus axitinib (KEYNOTE-426) <ref type="bibr" target="#b25">[24]</ref>, nivolumab plus ipilimumab (CheckMate 214) <ref type="bibr" target="#b14">[14]</ref>, and atezolizumab plus bevacizumab (IMmotion151) <ref type="bibr" target="#b31">[30]</ref>, highlighting the rapidly evolving treatment landscape in advanced RCC.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Conclusion</head><p>In conclusion, results from this study show the efficacy and safety of avelumab in patients with mRCC, supporting the foundational role of ICIs within combination treatment regimens for this disease.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>Fig. 2</head><label>2</label><figDesc>Kaplan-Meier estimates of progression-free survival (PFS) and overall survival (OS). a PFS in the first-line (1 L) subgroup. b PFS in the second-line (2 L) subgroup. c OS in the 1 L subgroup. d OS in the 2 L subgroup. CI confidence interval, NE not evaluable</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head>a</head><label></label><figDesc>The incidence of treatment-related infusion-related reactions based on the single MedDRA preferred term is not listed b Any grade TRAEs in ≥ 10% patents and all grade 3 TRAEs c Composite term; includes AEs categorized as infusion-related reaction, drug hypersensitivity, or hypersensitivity reaction that occurred on the day of infusion or day after infusion, in addition to signs/symptoms of infusion-related reaction (based on a prespecified list of MedDRA preferred terms) that occurred on the same day of infusion and resolved within 2 days d Includes AEs classified by investigators as related or unrelated to treatment 1 L first-line subgroup, 2 L second-line subgroup, AE adverse event, MedDRA Medical Dictionary for Regulatory Activities, TRAE treatment-related adverse events, TSH thyroid-stimulating hormone</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_1"><head>Table 1</head><label>1</label><figDesc>Patient baseline characteristics One patient (1.6%) received prior adjuvant therapy 1 L first-line subgroup, 2 L second-line subgroup, ECOG PS Eastern Cooperative Oncology Group performance status, MSKCC Memorial Sloan-Kettering Cancer Center, IMDC International Metastatic Renal Cell Carcinoma Database Consortium, PD-L1 programmed death-ligand 1</figDesc><table><row><cell>Characteristics</cell><cell>1 L</cell><cell>2 L</cell></row><row><cell></cell><cell>(n = 62)</cell><cell>(n = 20)</cell></row><row><cell>Age, n (%)</cell><cell></cell><cell></cell></row><row><cell>&lt; 65 years</cell><cell>37 (59.7)</cell><cell>7 (35.0)</cell></row><row><cell>≥ 65 years</cell><cell>25 (40.3)</cell><cell>13 (65.0)</cell></row><row><cell>Median age (range), years</cell><cell>62 (36-85)</cell><cell>69 (30-80)</cell></row><row><cell>Sex, n (%)</cell><cell></cell><cell></cell></row><row><cell>Male</cell><cell>43 (69.4)</cell><cell>15 (75.0)</cell></row><row><cell>Female</cell><cell>19 (30.6)</cell><cell>5 (25.0)</cell></row><row><cell>ECOG PS, n (%)</cell><cell></cell><cell></cell></row><row><cell>0</cell><cell>37 (59.7)</cell><cell>9 (45.0)</cell></row><row><cell>1</cell><cell>25 (40.3)</cell><cell>11 (55.0)</cell></row><row><cell>MSKCC prognostic risk group, n (%)</cell><cell></cell><cell></cell></row><row><cell>Favorable</cell><cell>2 (3.2)</cell><cell>0</cell></row><row><cell>Intermediate</cell><cell>53 (85.5)</cell><cell>17 (85.0)</cell></row><row><cell>Poor</cell><cell>7 (11.3)</cell><cell>3 (15.0)</cell></row><row><cell>IMDC prognostic risk group, n (%)</cell><cell></cell><cell></cell></row><row><cell>Favorable</cell><cell>24 (38.7)</cell><cell>5 (25.0)</cell></row><row><cell>Intermediate</cell><cell>27 (43.5)</cell><cell>13 (65.0)</cell></row><row><cell>Poor</cell><cell>11 (17.7)</cell><cell>2 (10.0)</cell></row><row><cell>Median time since diagnosis of</cell><cell>2.5 (0.4-90.4)</cell><cell>15.0</cell></row><row><cell>metastatic disease (range), months</cell><cell></cell><cell>(1.6-80.4)</cell></row><row><cell cols="2">Number of prior anticancer therapy lines for</cell><cell></cell></row><row><cell>metastatic or locally</cell><cell></cell><cell></cell></row><row><cell>advanced disease, n (%)</cell><cell></cell><cell></cell></row><row><cell>0</cell><cell>62 (100.0) a</cell><cell>0</cell></row><row><cell>1</cell><cell>0</cell><cell>19 (95.0)</cell></row><row><cell>2</cell><cell>0</cell><cell>0</cell></row><row><cell>3</cell><cell>0</cell><cell>0</cell></row><row><cell>≥ 4</cell><cell>0</cell><cell>1 (5.0)</cell></row><row><cell>PD-L1 status (≥ 1% tumor cells), n (%)</cell><cell></cell><cell></cell></row><row><cell>Positive</cell><cell>20 (32.3)</cell><cell>4 (20.0)</cell></row><row><cell>Negative</cell><cell>21 (33.9)</cell><cell>9 (45.0)</cell></row><row><cell>Not evaluable</cell><cell>21 (33.9)</cell><cell>7 (35.0)</cell></row></table><note>a</note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_2"><head>Table 2</head><label>2</label><figDesc>Confirmed objective responses</figDesc><table><row><cell>Response</cell><cell>1 L</cell><cell>2 L</cell></row><row><cell></cell><cell>(n = 62)</cell><cell>(n = 20)</cell></row><row><cell>Best overall response, n (%)</cell><cell></cell><cell></cell></row><row><cell>Complete response</cell><cell>1 (1.6)</cell><cell>0</cell></row><row><cell>Partial response</cell><cell>9 (14.5)</cell><cell>2 (10.0)</cell></row><row><cell>Stable disease</cell><cell>38 (61.3)</cell><cell>13 (65.0)</cell></row><row><cell>Progressive disease</cell><cell>11 (17.7)</cell><cell>4 (20.0)</cell></row><row><cell>Not evaluable</cell><cell>3 (4.8) a</cell><cell>1 (5.0) b</cell></row><row><cell>Objective response rate (95% CI), %</cell><cell>16.1 (8.0-27.7)</cell><cell>10.0 (1.2-</cell></row><row><cell></cell><cell></cell><cell>31.7)</cell></row><row><cell>Disease control rate, %</cell><cell>77.4</cell><cell>75.0</cell></row><row><cell>Response duration</cell><cell>1 L (n = 10)</cell><cell>2 L (n = 2)</cell></row><row><cell>Median duration of response (95% CI),</cell><cell>9.9 (2.8-NE)</cell><cell>NE (6.9-NE)</cell></row><row><cell>months</cell><cell></cell><cell></cell></row><row><cell cols="3">Proportion of patients with specified duration of response (95% CI), % c</cell></row><row><cell>6 months</cell><cell cols="2">60.0 (25.3-82.7) 100.0 (NE)</cell></row><row><cell>12 months</cell><cell>30.0 (7.1-57.8)</cell><cell>50.0 (0.6-</cell></row><row><cell></cell><cell></cell><cell>91.0)</cell></row></table><note>a Due to no postbaseline assessment (n = 2) or stable disease of insufficient duration (&lt; 6 weeks after start date without further tumor assessment; n = 1)b All postbaseline assessments not evaluable (n = 1)c Based on Kaplan-Meier estimates 1 L first-line subgroup, 2 L second-line subgroup, CI confidence interval, NE not evaluable Statistical analysis Enrolment of the 1 L subgroup began after documentation of two objective responses in the 2 L subgroup. Separate analyses of 1 L and 2 L subgroups were prespecified. The planned sample size of 20 patients in the 2 L subgroup was selected to enable observation of at least two re- sponders with a probability of &gt; 89.8% if the true objective response rate (ORR; proportion of patients with a partial response [PR] or complete response [CR]) was ≥ 18%. The planned sample size of 60 patients in the 1 L subgroup was selected to provide 95% Clopper-Pearson confidence intervals (CIs) for an ORR of 20% (95% CI, 10.8-32.3) in the case of 12 responders and 25% (95% CI, 14.7-37.9) in the case of 15 responders. Time-to-event endpoints were estimated using the Kaplan-Meier method, and CIs for medians were calculated using the Brookmeyer-Crowley method. P values for the association between PD-L1 status and ORR were determined using Fisher exact test.had PD-L1+ tumors. At the time of data cutoff (April 27, 2018), median follow-up in the 1 L and 2 L sub- groups was 26.2 months (range, 18-29) and 34.1 months (range, 28-35), respectively. Median duration of treat- ment was 9.6 months (range, 0.9-29.0) in the 1 L subgroup and 5.3 months (range, 0.9-34.5) in the 2 L subgroup. At last follow-up, 12 patients (19.4%) in the 1 L subgroup and two patients (10.0%) in the 2 L subgroup remained on treatment. In both subgroups, the most common reason for discontinuation was disease progres- sion (1 L, n = 40 [64.5%]; 2 L, n = 14 [70.0%]), and other reasons were AE (1 L, n = 4 [6.5%]; 2 L, n = 3 [15%]), withdrawal of consent (1 L, n = 1 [1.6%]), death (1 L, n = 1 [1.6%]; 2 L, n = 1 [5.0%]), and other (1 L, n = 4 [6.5%];</note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_3"><head>Table 2</head><label>2</label><figDesc></figDesc><table><row><cell>; Fig. 1); median DOR was 9.9</cell></row><row><cell>months (95% CI, 2.8-not evaluable) and not evaluable</cell></row><row><cell>(95% CI, 6.9-not evaluable); and 38 (61.3%) and 13</cell></row><row><cell>(65.0%) patients had a best overall response of stable</cell></row><row><cell>disease, resulting in disease control rates of 77.4 and</cell></row><row><cell>75.0%. Median PFS was 8.3 months (95% CI, 5.5-9.5) in</cell></row><row><cell>the 1 L subgroup and 5.6 months (95% CI, 2.3-9.6) in</cell></row><row><cell>the 2 L subgroup (Fig. 2); 6-month and 12-month PFS</cell></row><row><cell>rates were 56.7 and 30.9% in the 1 L subgroup, and 47.4</cell></row><row><cell>and 15.8% in the 2 L subgroup, respectively. In the 1 L</cell></row><row><cell>and 2 L subgroups, median OS was not evaluable (95%</cell></row><row><cell>CI, not evaluable) and 16.9 months (95% CI, 8.3-not</cell></row><row><cell>evaluable); 6-month and 12-month OS rates were 88.6</cell></row><row><cell>and 83.7%, and 90.0 and 65.0%, in the 1 L and 2 L</cell></row><row><cell>subgroups, respectively.</cell></row><row><cell>Biomarker subgroup analysis</cell></row><row><cell>Among evaluable patients in the 1 L subgroup with PD-</cell></row><row><cell>L1+ (n = 20) or PD-L1− (n = 21) tumors, respectively,</cell></row></table><note>Fig. 1 Time to and duration of confirmed response. 1 L first-line, 2 L second-lineSafety Of patients in the 1 L and 2 L subgroups, 51 (82.3%) and 14 (70.0%) had a treatment-related AE (TRAE) of any grade, including eight (12.9%) and one (5.0%) who had a grade ≥ 3 TRAE, respectively (Table 3; Additional file 2). The only grade ≥ 3 TRAE that occurred in more than one patient was increased lipase (1 L, n = 4 [6.5%]).</note></figure>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Acknowledgements</head><p>The authors thank the patients and their families, investigators, coinvestigators, and study teams at each of the participating centres and at Merck KGaA, Darmstadt, Germany, and EMD Serono, Billerica, MA, USA (a business of Merck KGaA, Darmstadt, Germany).</p></div>
+			</div>
+
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Supplementary information</head><p>Supplementary information accompanies this paper at https://doi.org/10. 1186/s40425-019-0746-2.</p><p>Additional file 1 Kaplan-Meier estimates of a progression-free survival (PFS) and b overall survival (OS) in the first-line subgroup according to programmed death-ligand 1 (PD-L1) status (based on expression in ≥1% of tumor cells). CI confidence interval, NE not evaluable. Kaplan-Meier estimates of progression-free survival and overall survival for patients in the first-line subgroup according to programmed death-ligand 1 status.</p><p>Additional file 2. Overview of key safety outcomes. Key safety outcomes for patients in both the first-line and second-line treatment setting. </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Funding</head><p>This work was supported by Merck KGaA, Darmstadt, Germany, and is part of an alliance between Merck KGaA and Pfizer, Inc., New York, NY, USA. Medical writing support was provided by ClinicalThinking and funded by Merck KGaA, and Pfizer, Inc.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Availability of data and materials</head><p>For all new products or new indications approved in both the European Union and the United States after January 1, 2014, Merck KGaA, Darmstadt, Germany will share patient-level and study-level data after deidentification, as well as redacted study protocols and clinical study reports from clinical trials in patients. These data will be shared with qualified scientific and medical researchers, upon researcher's request, as necessary for conducting legitimate research. Such requests must be submitted in writing to the company's data sharing portal. More information can be found at https://www.merckgroup. com/en/research/our-approach-to-research-and-development/healthcare/ clinical-trials/commitment-responsible-data-sharing.html. Where Merck KGaA Ethics approval and consent to participate The trial was conducted in accordance with the Declaration of Helsinki and the International Council for Harmonisation Guideline for Good Clinical Practice. The protocol was approved by the institutional review board or independent ethics committee of each centre, and all patients provided written informed consent before enrolment.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Consent for publication</head><p>Not applicable.</p><p>Competing interests UV reports research funding from Novartis, Exelixis, and Pfizer; consultancy remuneration from Bayer, Exelixis, Pfizer, Bristol-Myers Squibb, and EMD Serono; and honoraria from Sanofi, Pfizer, Bristol-Myers Squibb, Bayer, and Exelixis. PS reports consultancy or advisory remuneration from Blueprint Medicines, Eisai, Ellipses Pharma, Eli Lilly, Loxo Oncology, Deciphera Pharmaceuticals, Merck KGaA, Servier, Genmab, Adaptimmune, Intellisphere, Transgene, and Plexxikon, and research funding from Blueprint Medicines, Boehringer Ingelheim, CoBioRes NV, Eisai, Exelixis, G1 Therapeutics, Eli Lilly, Novartis, PharmaMar, and Plexxikon. AR reports honoraria and travel expenses from Bristol-Myers Squibb, Novartis, Ipsen, Astra Zeneca, and Pfizer; and consultancy or advisory remuneration from Bristol-Myers Squibb, Ipsen, Novartis, Pfizer, Astra Zeneca, and Roche. JCM reports speakers bureau services for Boehringer Ingelheim and Merck KGaA; travel expenses from Amgen, Eisai, Merck KGaA, and VentiRx Pharmaceuticals; and other relationship with Merck KGaA. MS reports research funding from Merrimack. DZ reports employment with and research funding from Merck KGaA. SG and MB report employment with Merck KGaA. JLG reports research funding from Astellas and Medivation, Bavarian Nordic, Merck KGaA, NantBioScience, and Pfizer. All remaining authors have declared no competing interests.</p></div>			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<monogr>
+		<title level="m" type="main">co-development or co-marketing/co-promotion agreement or where the product has been out-licensed, it is recognized that the responsibility for disclosure may be dependent on the agreement between parties. Under these circumstances, Merck KGaA will endeavor to gain agreement to share data in response to requests</title>
+		<imprint/>
+	</monogr>
+	<note>a co-research</note>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<monogr>
+		<title level="m" type="main">What is kidney cancer?</title>
+		<ptr target="https://www.cancer.org/cancer/kidney-cancer/about/what-is-kidney-cancer.html.Accessed04" />
+		<imprint>
+			<date type="published" when="2017-03" />
+			<publisher>American Cancer Society</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<monogr>
+		<title level="m" type="main">Cancer Stat Facts: kidney and renal pelvis cancer</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Epidemiology</forename><surname>Surveillance</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Program</surname></persName>
+		</author>
+		<ptr target="https://seer.cancer.gov/statfacts/html/kidrp.html.Accessed04" />
+		<imprint>
+			<date type="published" when="2019-03" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Therapeutic challenges in renal cell carcinoma</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">C</forename><surname>Penticuff</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">N</forename><surname>Kyprianou</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Am J Clin Exp Urol</title>
+		<imprint>
+			<biblScope unit="volume">3</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="77" to="90" />
+			<date type="published" when="2015" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Role of radiation therapy in the management of renal cell cancer</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><forename type="middle">I</forename><surname>Blanco</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">B</forename><forename type="middle">S</forename><surname>Teh</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><forename type="middle">J</forename><surname>Amato</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Cancers (Basel)</title>
+		<imprint>
+			<biblScope unit="volume">3</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="4010" to="4033" />
+			<date type="published" when="2011" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Systemic therapy for metastatic renal-cell carcinoma</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><forename type="middle">K</forename><surname>Choueiri</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><forename type="middle">J</forename><surname>Motzer</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">N Engl J Med</title>
+		<imprint>
+			<biblScope unit="volume">376</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="354" to="66" />
+			<date type="published" when="2017" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Targeted therapies for the treatment of metastatic renal cell carcinoma: clinical evidence</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><forename type="middle">E</forename><surname>Hutson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Oncologist</title>
+		<imprint>
+			<biblScope unit="volume">16</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="14" to="22" />
+			<date type="published" when="2011" />
+		</imprint>
+	</monogr>
+	<note>Suppl</note>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Metastatic clear cell renal cell carcinoma: a review of current therapies and novel immunotherapies</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">S</forename><surname>Thomas</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">F</forename><surname>Kabbinavar</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Crit Rev Oncol Hematol</title>
+		<imprint>
+			<biblScope unit="volume">96</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="527" to="560" />
+			<date type="published" when="2015" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Immune checkpoint inhibitors in renal cell carcinoma</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><surname>Ross</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><forename type="middle">J</forename><surname>Jones</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Clin Sci</title>
+		<imprint>
+			<biblScope unit="volume">131</biblScope>
+			<biblScope unit="issue">21</biblScope>
+			<biblScope unit="page" from="2627" to="2669" />
+			<date type="published" when="2017" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Immune checkpoint inhibitors in cancer therapy</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><forename type="middle">S</forename><surname>Webb</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><surname>Liu</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><surname>Baleeiro</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">N</forename><forename type="middle">R</forename><surname>Lemoine</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Yuan</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Y</forename><surname>Wang</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Biomed Res</title>
+		<imprint>
+			<biblScope unit="volume">32</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page" from="317" to="343" />
+			<date type="published" when="2018" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Prognostic role of PD-L1 expression in renal cell carcinoma: a systematic review and meta-analysis</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><surname>Iacovelli</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">F</forename><surname>Nolè</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><surname>Verri</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">G</forename><surname>Renne</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><surname>Paglino</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Santoni</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Target Oncol</title>
+		<imprint>
+			<biblScope unit="volume">11</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="143" to="151" />
+			<date type="published" when="2016" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Prognostic and clinicopathological significance of PD-L1 in patients with renal cell carcinoma: a meta-analysis based on 1863 individuals</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Z</forename><surname>Wang</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Peng</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><surname>Xie</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">L</forename><surname>Guo</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Q</forename><surname>Cai</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Z</forename><surname>Shang</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Clin Exp Med</title>
+		<imprint>
+			<biblScope unit="volume">18</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="165" to="75" />
+			<date type="published" when="2018" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Implications of B7-H1 expression in clear cell carcinoma of the kidney for prognostication and therapy</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><forename type="middle">H</forename><surname>Thompson</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><surname>Dong</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><forename type="middle">D</forename><surname>Kwon</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Clin Cancer Res</title>
+		<imprint>
+			<biblScope unit="volume">13</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="709" to="724" />
+			<date type="published" when="2007" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Nivolumab versus everolimus in advanced renal cell carcinoma</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><forename type="middle">J</forename><surname>Motzer</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">B</forename><surname>Escudier</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><forename type="middle">F</forename><surname>Mcdermott</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>George</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><forename type="middle">J</forename><surname>Hammers</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Srinivas</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">N Engl J Med</title>
+		<imprint>
+			<biblScope unit="volume">373</biblScope>
+			<biblScope unit="page" from="1803" to="1816" />
+			<date type="published" when="2015" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">Nivolumab plus ipilimumab versus sunitinib in advanced renal-cell carcinoma</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><forename type="middle">J</forename><surname>Motzer</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">N</forename><forename type="middle">M</forename><surname>Tannir</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><forename type="middle">F</forename><surname>Mcdermott</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">O</forename><forename type="middle">S</forename><surname>Frontera</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">B</forename><surname>Melichar</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><forename type="middle">K</forename><surname>Choueiri</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">N Engl J Med</title>
+		<imprint>
+			<biblScope unit="volume">378</biblScope>
+			<biblScope unit="issue">14</biblScope>
+			<biblScope unit="page" from="1277" to="90" />
+			<date type="published" when="2018" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Avelumab for metastatic or locally advanced previously treated solid tumours (JAVELIN Solid Tumor): a phase 1a, multicohort, dose-escalation trial</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><forename type="middle">R</forename><surname>Heery</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">G</forename><surname>O'sullivan-Coyne</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><forename type="middle">A</forename><surname>Madan</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">L</forename><surname>Cordes</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Rajan</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Rauckhorst</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Lancet Oncol</title>
+		<imprint>
+			<biblScope unit="volume">18</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page" from="587" to="98" />
+			<date type="published" when="2017" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<monogr>
+		<title level="m" type="main">Bavencio (avelumab)</title>
+		<imprint/>
+	</monogr>
+	<note>package insert</note>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<monogr>
+		<title/>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Ma: Emd</forename><surname>Rockland</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Serono</surname></persName>
+		</author>
+		<ptr target="https://www.accessdata.fda.gov/drugsatfda_docs/label/2017/761049s000lbl.pdf.Accessed" />
+		<imprint>
+			<date type="published" when="2019-05-14" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">Avelumab for patients with previously treated metastatic or recurrent non-small-cell lung cancer (JAVELIN Solid Tumor): dose-expansion cohort of a multicentre, open-label, phase 1b trial</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">L</forename><surname>Gulley</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Rajan</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><forename type="middle">R</forename><surname>Spigel</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">N</forename><surname>Iannotti</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Chandler</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Djl</forename><surname>Wong</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Lancet Oncol</title>
+		<imprint>
+			<biblScope unit="volume">18</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page" from="599" to="610" />
+			<date type="published" when="2017" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">Efficacy and safety of avelumab for patients with recurrent or refractory ovarian cancer: phase 1b results from the JAVELIN Solid Tumor trial</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">L</forename><surname>Disis</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">H</forename><surname>Taylor</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><surname>Kelly</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">T</forename><surname>Beck</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Gordon</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><forename type="middle">M</forename><surname>Moore</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">JAMA Oncol</title>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="393" to="401" />
+			<date type="published" when="2019" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">Avelumab in metastatic urothelial carcinoma after platinum failure (JAVELIN Solid Tumor): pooled results from two expansion cohorts of an open-label, phase 1 trial</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">R</forename><surname>Patel</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Ellerton</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">R</forename><surname>Infante</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Agrawal</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Gordon</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><surname>Aljumaily</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Lancet Oncol</title>
+		<imprint>
+			<biblScope unit="volume">19</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="51" to="64" />
+			<date type="published" when="2018" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">Efficacy and safety of avelumab treatment in patients with advanced unresectable mesothelioma: phase 1b results from the JAVELIN Solid Tumor trial</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><surname>Hassan</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Thomas</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">J</forename><surname>Nemunaitis</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">R</forename><surname>Patel</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Bennouna</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">F</forename><forename type="middle">L</forename><surname>Chen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">JAMA Oncol</title>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="351" to="358" />
+			<date type="published" when="2019" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">Avelumab (anti-PD-L1) as first-line switch-maintenance or second-line therapy in patients with advanced gastric or gastroesophageal junction cancer: phase 1b results from the JAVELIN Solid Tumor trial</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><forename type="middle">C</forename><surname>Chung</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H-T</forename><surname>Arkenau</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Lee</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><forename type="middle">Y</forename><surname>Rha</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D-Y</forename><surname>Oh</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">L</forename><surname>Wyrwicz</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Immunother Cancer</title>
+		<imprint>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page">30</biblScope>
+			<date type="published" when="2019" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title level="a" type="main">Avelumab in patients with previously treated metastatic adrenocortical carcinoma: phase 1b results from the JAVELIN Solid Tumor trial</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Le</forename><surname>Tourneau</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><surname>Hoimes</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><surname>Zarwan</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><surname>Wong</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><forename type="middle">J</forename><surname>Bauer</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Claus</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Immunother Cancer</title>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page">111</biblScope>
+			<date type="published" when="2018" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title level="a" type="main">Avelumab in patients with previously treated metastatic melanoma: phase 1b results from the JAVELIN Solid Tumor trial</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">U</forename><surname>Keilholz</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">M</forename><surname>Mehnert</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Bauer</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><surname>Bourgeois</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">R</forename><surname>Patel</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><surname>Gravenor</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Immunother Cancer</title>
+		<imprint>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page">12</biblScope>
+			<date type="published" when="2019" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title level="a" type="main">Pembrolizumab plus axitinib versus sunitinib for advanced renal-cell carcinoma</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">B</forename><forename type="middle">I</forename><surname>Rini</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><forename type="middle">R</forename><surname>Plimack</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">V</forename><surname>Stus</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><surname>Gafanov</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><surname>Hawkins</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><surname>Nosov</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">N Engl J Med</title>
+		<imprint>
+			<biblScope unit="volume">380</biblScope>
+			<biblScope unit="issue">12</biblScope>
+			<biblScope unit="page" from="1116" to="1143" />
+			<date type="published" when="2019" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title level="a" type="main">Preliminary results for avelumab plus axitinib as first-line therapy in patients with advanced clear-cell renal-cell carcinoma (JAVELIN renal 100): an openlabel, dose-finding and dose-expansion, phase 1b trial</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><forename type="middle">K</forename><surname>Choueiri</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Larkin</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Oya</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">F</forename><surname>Thistlethwaite</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Martignoni</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><surname>Nathan</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Lancet Oncol</title>
+		<imprint>
+			<biblScope unit="volume">19</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="451" to="60" />
+			<date type="published" when="2018" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+		<title level="a" type="main">Avelumab plus axitinib versus sunitinib for advanced renal-cell carcinoma</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><forename type="middle">J</forename><surname>Motzer</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><surname>Penkov</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Haanen</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">B</forename><surname>Rini</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">L</forename><surname>Albiges</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">T</forename><surname>Campbell</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">N Engl J Med</title>
+		<imprint>
+			<biblScope unit="volume">380</biblScope>
+			<biblScope unit="issue">12</biblScope>
+			<biblScope unit="page" from="1103" to="1118" />
+			<date type="published" when="2019" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<analytic>
+		<title level="a" type="main">Axitinib in combination with pembrolizumab in patients with advanced renal cell cancer: a non-randomised, open-label, dose-finding, and dose-expansion phase 1b trial</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">B</forename><surname>Atkins</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><forename type="middle">R</forename><surname>Plimack</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">I</forename><surname>Puzanov</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">N</forename><surname>Fishman</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><forename type="middle">F</forename><surname>Mcdermott</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><forename type="middle">C</forename><surname>Cho</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Lancet Oncol</title>
+		<imprint>
+			<biblScope unit="volume">19</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="405" to="420" />
+			<date type="published" when="2018-03" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<analytic>
+		<title level="a" type="main">Clinical activity and molecular correlates of response to atezolizumab alone or in combination with bevacizumab versus sunitinib in renal cell carcinoma</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><forename type="middle">F</forename><surname>Mcdermott</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">A</forename><surname>Huseni</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">B</forename><surname>Atkins</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><forename type="middle">J</forename><surname>Motzer</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">B</forename><forename type="middle">I</forename><surname>Rini</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">B</forename><surname>Escudier</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nat Med</title>
+		<imprint>
+			<biblScope unit="volume">24</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page" from="749" to="57" />
+			<date type="published" when="2018" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<analytic>
+		<title level="a" type="main">KEYNOTE-427 cohort A: pembrolizumab monotherapy as first-line therapy in advanced clear cell renal cell carcinoma (ccRCC)</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">F</forename><surname>Donskov</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><forename type="middle">F</forename><surname>Mcdermott</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">L</forename><surname>Lee</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><surname>Szczylik</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Malik</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">B</forename><forename type="middle">Y</forename><surname>Alekseev</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ann Oncol</title>
+		<imprint>
+			<biblScope unit="volume">29</biblScope>
+			<biblScope unit="issue">8</biblScope>
+			<biblScope unit="page" from="303" to="334" />
+			<date type="published" when="2018" />
+		</imprint>
+	</monogr>
+	<note>Suppl</note>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<analytic>
+		<title level="a" type="main">Atezolizumab plus bevacizumab versus sunitinib in patients with previously untreated metastatic renal cell carcinoma (IMmotion151): a multicentre, open-label, phase 3, randomised controlled trial</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">B</forename><forename type="middle">I</forename><surname>Rini</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Powles</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">B</forename><surname>Atkins</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">B</forename><surname>Escudier</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><forename type="middle">F</forename><surname>Mcdermott</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><surname>Suarez</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Lancet Oncol</title>
+		<imprint>
+			<biblScope unit="volume">19</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="51" to="64" />
+			<date type="published" when="2019" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<monogr>
+		<title level="m" type="main">Publisher&apos;s Note</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<monogr>
+		<title level="m">Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

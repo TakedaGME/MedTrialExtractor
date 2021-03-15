@@ -1,0 +1,1141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /data/rsg/nlp/juanmoo1/bin/grobid-0.6.1/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Pembrolizumab versus chemotherapy in recurrent, advanced urothelial cancer in Japanese patients: a subgroup analysis of the phase 3 KEYNOTE-045 trial</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+				<date type="published" when="2019-11-15">15 November 2019</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Hiroyuki</forename><surname>Nishiyama</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Yoshiaki</forename><surname>Yamamoto</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Naoto</forename><surname>Sassa</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="institution">Nagoya University Hospital</orgName>
+								<address>
+									<addrLine>65 Tsurumaicho, Showa Ward</addrLine>
+									<settlement>Nagoya</settlement>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<author role="corresp">
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Kazuo</forename><surname>Nishimura</surname></persName>
+							<email>nishiuro@md.tsukuba.ac.jp</email>
+							<affiliation key="aff2">
+								<orgName type="institution">Osaka International Cancer Institute</orgName>
+								<address>
+									<addrLine>3 Chome-1-6 9 Otemae, Chuo Ward</addrLine>
+									<settlement>Osaka</settlement>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Kiyohide</forename><surname>Fujimoto</surname></persName>
+							<affiliation key="aff3">
+								<orgName type="institution">Nara Medical University Hospital</orgName>
+								<address>
+									<addrLine>840 Shijocho</addrLine>
+									<settlement>Kashihara</settlement>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Satoshi</forename><surname>Fukasawa</surname></persName>
+							<affiliation key="aff4">
+								<orgName type="department">Chiba Cancer Center</orgName>
+								<address>
+									<postCode>666-2</postCode>
+									<settlement>Nitonacho, Chiba</settlement>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Minato</forename><surname>Yokoyama</surname></persName>
+							<affiliation key="aff5">
+								<orgName type="department">Medical Hospital</orgName>
+								<orgName type="institution">Tokyo Medical and Dental University</orgName>
+								<address>
+									<addrLine>1 Chome-5-45 Yushima</addrLine>
+									<settlement>Tokyo</settlement>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">•</forename><surname>Hideki Enokida</surname></persName>
+							<affiliation key="aff6">
+								<orgName type="institution">Kagoshima University Hospital</orgName>
+								<address>
+									<addrLine>8-35-1 Sakuragaoka</addrLine>
+									<settlement>Kagoshima</settlement>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Kenichi</forename><surname>Takahashi</surname></persName>
+							<affiliation key="aff7">
+								<orgName type="department">MSD K.K</orgName>
+								<orgName type="institution">Kitanomaru Square</orgName>
+								<address>
+									<addrLine>1-13-12, Kudan Kita</addrLine>
+									<settlement>Tokyo</settlement>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Yoshinobu</forename><surname>Tanaka</surname></persName>
+							<affiliation key="aff7">
+								<orgName type="department">MSD K.K</orgName>
+								<orgName type="institution">Kitanomaru Square</orgName>
+								<address>
+									<addrLine>1-13-12, Kudan Kita</addrLine>
+									<settlement>Tokyo</settlement>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Kentaro</forename><surname>Imai</surname></persName>
+							<affiliation key="aff8">
+								<orgName type="institution">Merck &amp; Co., Inc</orgName>
+								<address>
+									<addrLine>2000 Galloping Hill Rd</addrLine>
+									<settlement>Kenilworth</settlement>
+									<region>NJ</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Takashi</forename><surname>Shimamoto</surname></persName>
+							<affiliation key="aff7">
+								<orgName type="department">MSD K.K</orgName>
+								<orgName type="institution">Kitanomaru Square</orgName>
+								<address>
+									<addrLine>1-13-12, Kudan Kita</addrLine>
+									<settlement>Tokyo</settlement>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Rodolfo</forename><surname>Perini</surname></persName>
+							<affiliation key="aff8">
+								<orgName type="institution">Merck &amp; Co., Inc</orgName>
+								<address>
+									<addrLine>2000 Galloping Hill Rd</addrLine>
+									<settlement>Kenilworth</settlement>
+									<region>NJ</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Tara</forename><surname>Frenkl</surname></persName>
+							<affiliation key="aff8">
+								<orgName type="institution">Merck &amp; Co., Inc</orgName>
+								<address>
+									<addrLine>2000 Galloping Hill Rd</addrLine>
+									<settlement>Kenilworth</settlement>
+									<region>NJ</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">•</forename><surname>Dean Bajorin</surname></persName>
+							<affiliation key="aff9">
+								<orgName type="institution">Memorial Sloan Kettering Cancer Center</orgName>
+								<address>
+									<addrLine>1275 York Avenue</addrLine>
+									<settlement>New York</settlement>
+									<region>NY</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">•</forename><surname>Joaquim Bellmunt</surname></persName>
+							<affiliation key="aff10">
+								<orgName type="institution">PSMAR-IMIM Research Institute</orgName>
+								<address>
+									<addrLine>Carrer del Dr. Aiguader, 88</addrLine>
+									<settlement>Barcelona</settlement>
+									<country key="ES">Spain</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff11">
+								<orgName type="institution">Harvard Medical School</orgName>
+								<address>
+									<addrLine>25 Shattuck St</addrLine>
+									<settlement>Boston</settlement>
+									<region>MA</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff0">
+								<orgName type="institution">Yamaguchi University Hospital</orgName>
+								<address>
+									<addrLine>1 Chome-1-1 Minamikogush</addrLine>
+									<settlement>Ube</settlement>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Pembrolizumab versus chemotherapy in recurrent, advanced urothelial cancer in Japanese patients: a subgroup analysis of the phase 3 KEYNOTE-045 trial</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date type="published" when="2019-11-15">15 November 2019</date>
+						</imprint>
+					</monogr>
+					<idno type="DOI">10.1007/s10147-019-01545-4</idno>
+					<note type="submission">Received: 10 July 2019 / Accepted: 6 September 2019 /</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.6.1" ident="GROBID" when="2020-10-09T18:38+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>Pembrolizumab</term>
+					<term>Advanced urothelial cancer</term>
+					<term>Japanese</term>
+					<term>KEYNOTE-045</term>
+					<term>Immune checkpoint blockade</term>
+				</keywords>
+			</textClass>
+			<abstract>
+				<p>Background The open-label, randomized, active-controlled KEYNOTE-045 study (NCT02256436) showed that second-line pembrolizumab significantly improved overall survival (OS) of patients with advanced/metastatic urothelial cancer (UC) that progressed after first-line platinum-containing chemotherapy, compared with standard chemotherapy (paclitaxel, docetaxel, or vinflunine). Pembrolizumab is approved for patients with bladder cancer in Japan. Patients and methods Analysis was performed in the subgroup of Japanese patients enrolled in the KEYNOTE-045 study. Coprimary end points were OS and progression-free survival (PFS). Objective response rate (ORR) and safety were secondary end points. Results Fifty-two Japanese patients (pembrolizumab, n = 30; chemotherapy, n = 22) were followed up for a median of 26.1 months. Patients who received pembrolizumab compared with chemotherapy had a 19% lower risk for death (hazard ratio [HR] 0.81, 95% CI 0.44-1.50); after adjusting for baseline covariates, the HR for OS was 0.61 (95% CI 0.32-1.15). The 24-month OS rate was higher with pembrolizumab (26.9% vs 14.3%). PFS was 2.0 and 4.9 months for pembrolizumab and chemotherapy, respectively (HR 1.71, 95% CI 0.95-3.08). ORR was similar for pembrolizumab and chemotherapy (20.0% vs 18.2%); durability of response was higher with pembrolizumab: 67% and 33% of patients, respectively, maintained a response for &gt; 12 months. Treatment-related adverse events, including grade 3-5 events, occurred less frequently with pembrolizumab. Conclusions Pembrolizumab provided durable antitumor activity in patients with locally advanced/metastatic UC that progressed after platinum-containing chemotherapy in the overall population and in the Japanese subgroup; safety profile was consistent with that previously observed for pembrolizumab.</p>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Introduction</head><p>Urothelial cancers (UCs) include a variety of tumors from the urinary tract, renal pelvis, ureter, and urethra, but &gt; 90% of all UCs originate in the bladder <ref type="bibr" target="#b1">[1]</ref>. Bladder cancer is the tenth most common cancer worldwide, accounting for approximately 550,000 new cancer diagnoses annually, and the sixth most common cancer in men <ref type="bibr" target="#b2">[2]</ref>. In Japan, bladder cancer is the 13th most common cancer overall, and the eighth most common cancer in men <ref type="bibr" target="#b3">[3]</ref>. Although the incidence of bladder cancer is lower in Asia than in Western countries <ref type="bibr" target="#b2">[2]</ref>, its incidence in Japan (5.6 per 100,000) is among the highest in Asia <ref type="bibr" target="#b3">[3,</ref><ref type="bibr" target="#b4">4]</ref>. This might be because smoking is a major risk factor for bladder cancer; however, the prevalence of smoking among Japanese men decreased from 84% in 1965 to 30% in 2014 <ref type="bibr" target="#b5">[5]</ref>. It was expected that more than 20,000 cases would be diagnosed in 2018, with approximately three-quarters of those cases in men <ref type="bibr" target="#b6">[6]</ref>. The mortality rate for Japanese patients is 25%, and 5-year survival rates for patients diagnosed with bladder cancer are 76.5% in men and 64.4% in women <ref type="bibr" target="#b4">[4,</ref><ref type="bibr" target="#b7">7]</ref>.</p><p>Development of new antitumor agents for metastatic bladder cancer is an urgent priority in Japan <ref type="bibr" target="#b7">[7]</ref>. In 2009, the Japanese Urological Association issued guidelines for first-line treatment of bladder cancer, recommending methotrexate, vinblastine, doxorubicin, and cisplatin or gemcitabine plus cisplatin as systemic chemotherapy for metastatic bladder cancer, because these compounds have showed comparable efficacy in clinical trials <ref type="bibr" target="#b8">[8]</ref>. However, the gemcitabine plus cisplatin regimen is preferred because of a more favorable tolerability profile <ref type="bibr" target="#b8">[8]</ref>. No recommendation has been made regarding second-line treatment or treatment of patients ineligible for platinum-based therapy, and a variety of combination and single-agent treatments are used in the management of UC in clinical practice in Japan <ref type="bibr" target="#b8">[8]</ref><ref type="bibr" target="#b9">[9]</ref><ref type="bibr" target="#b10">[10]</ref>.</p><p>Bladder cancer is associated with a high mutation burden and is highly antigenic, which has been correlated with higher immunotherapy response rates in UC and in other cancers, such as melanoma and lung cancer <ref type="bibr" target="#b11">[11]</ref>. The potential of immunotherapy in bladder cancer treatment has been known for approximately 30 years, since the efficacy of using intravesical bacillus Calmette-Guérin to provoke an immune response to treat certain types of bladder cancer was identified <ref type="bibr" target="#b11">[11]</ref>. Programmed death ligand 1 (PD-L1) expression on tumor cells can suppress immune responses against tumors by binding to programmed death 1 (PD-1) receptors on T cells <ref type="bibr" target="#b11">[11,</ref><ref type="bibr" target="#b12">12]</ref>. Monoclonal antibodies against this pathway have been developed to promote antitumor immune responses in patients with advanced or metastatic cancers; results of phase 1/2 studies showed that monoclonal antibodies have promising efficacy and manageable tolerability in management of UC <ref type="bibr" target="#b13">[13]</ref><ref type="bibr" target="#b14">[14]</ref><ref type="bibr" target="#b15">[15]</ref><ref type="bibr" target="#b16">[16]</ref><ref type="bibr" target="#b17">[17]</ref>. As a result, 3 anti-PD-L1 and 2 anti-PD-1 antibodies have been approved by the US Food and Drug Administration for the treatment of patients with platinum-refractory bladder cancer <ref type="bibr" target="#b11">[11,</ref><ref type="bibr" target="#b12">12]</ref>.</p><p>The randomized phase 3 KEYNOTE-045 study is the only study that shows an overall survival (OS) benefit with pembrolizumab compared with chemotherapy. Use of pembrolizumab (vs chemotherapy) significantly improved OS and objective response rates (ORR) of patients with recurrent, advanced UC that progressed during or after platinumbased chemotherapy <ref type="bibr" target="#b18">[18]</ref>. This outcome was consistently observed independent of PD-L1 expression, presence of liver metastases, or type of chemotherapy comparator, and it has been confirmed after more than 2 years of followup <ref type="bibr" target="#b18">[18,</ref><ref type="bibr" target="#b19">19]</ref>. Compared with chemotherapy, pembrolizumab had a better safety profile and was associated with improved quality-of-life outcomes <ref type="bibr" target="#b18">[18]</ref><ref type="bibr" target="#b19">[19]</ref><ref type="bibr" target="#b20">[20]</ref>.</p><p>Pembrolizumab is currently the only immune checkpoint inhibitor approved in Japan for treating platinum-refractory UC <ref type="bibr" target="#b12">[12]</ref>. A subgroup analysis of the KEYNOTE-045 study was performed to compare pembrolizumab with chemotherapy in Japanese patients with progressive UC. The results of this subgroup analysis are presented herein.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Patients and methods</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Study design and patient population</head><p>A full description of the KEYNOTE-045 study has been published <ref type="bibr" target="#b18">[18,</ref><ref type="bibr" target="#b19">19]</ref>. Patients included in this subgroup analysis were enrolled in 20 study centers in Japan and had been diagnosed with transitional cell-predominant UC of the bladder, renal pelvis, ureter, or urethra, and experienced progressive disease after first-or second-line platinum-based chemotherapy or recurrence &lt; 12 months after perioperative platinum-based chemotherapy. Patients had an Eastern Cooperative Group performance status (ECOG PS) of 0, 1, or 2 and a tumor sample available for biomarker assessment.</p><p>This study was conducted in accordance with Good Clinical Practice guidelines and the Declaration of Helsinki, and the study protocol was approved by institutional review boards or ethics committees of all participating sites. All patients provided written informed consent to participate before enrollment, and the study was registered on Clinical-Trials.gov before enrollment of the first patient (ClinicalTrials.gov, NCT02256436).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Treatment and assessments</head><p>Patients were randomly assigned 1:1 to receive either intravenous (IV) pembrolizumab 200 mg every 3 weeks (Q3W) or investigator's choice of paclitaxel (175 mg/m 2 IV Q3W), docetaxel (75 mg/m 2 IV Q3W), or vinflunine (320 mg/m 2 IV Q3W). However, vinflunine was not an approved secondline treatment for bladder cancer in Japan at the time of this study; therefore, none of the patients in Japan received that treatment. Patients were stratified by ECOG PS score (0/1 vs 2), presence of liver metastases (yes vs no), hemoglobin concentration (&lt; 10 g/dL vs ≥ 10 g/dL), and time since the last dose of chemotherapy (&lt; 3 vs ≥ 3 months) before randomization. Patients were treated until disease progression, unacceptable toxicity, patient or investigator decision to discontinue treatment, or completion of 2 years of pembrolizumab treatment, whichever occurred first.</p><p>Tumor response was assessed by blinded, independent, central radiologic review per Response Evaluation Criteria in Solid Tumors (RECIST) v1.1 <ref type="bibr" target="#b21">[21]</ref>. The full assessment schedule is provided elsewhere <ref type="bibr" target="#b18">[18]</ref>. Adverse events (AEs) were assessed and graded per National Cancer Institute Common Terminology Criteria for Adverse Events, version 4.0 <ref type="bibr" target="#b22">[22]</ref>. All treatment-emergent AEs were evaluated for potential immunologic etiology.</p><p>Patients were followed up for at least 30 days after the last dose of study treatment or until initiation of a new line of treatment. Radiologic imaging for disease status continued per study post-treatment follow-up schedule for patients who discontinued therapy without documented disease progression.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Study end points</head><p>Study end points have been previously published <ref type="bibr" target="#b18">[18,</ref><ref type="bibr" target="#b19">19]</ref>. Coprimary end points included OS and progression-free survival (PFS). Additional coprimary end points assessed OS and PFS for patients with PD-L1-positive tumors (combined positive score [CPS] ≥ 10). Key secondary end points included ORR, duration of response (DOR), and safety and tolerability. Prespecified health-related quality-of-life (HRQOL) analysis was conducted using end points of time to traditional deterioration (TTD), defined as time to first onset of a ≥ 10-point decrease from baseline without confirmation under right-censoring rule (the last observation) and change from baseline in the European Organisation for Research and Treatment of Cancer Quality of Life Questionnaire Core 30 (EORTC QLQ-C30) global health status/QOL score at week 15.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Statistical analyses</head><p>Primary efficacy end points and safety end points were analyzed using data from the intention-to-treat (ITT) population and all-patients-as-treated population (all randomly assigned patients who received at least 1 dose of study treatment), respectively. Median OS and PFS were estimated using the Kaplan-Meier method. Multivariate Cox proportional hazards models were used to adjust the hazard ratio (HR) for OS, taking into consideration the following baseline covariates: ECOG PS (0 vs 1/2), visceral metastases (presence vs absence), hemoglobin level (≥ 10 g/dL vs &lt; 10 g/dL), and time from completion of most recent chemotherapy (&lt; 3 months vs ≥ 3 months). Median DOR was summarized descriptively using Kaplan-Meier analysis of the subset of patients who experience complete response or partial response. Additional details of the statistical analyses have been described previously <ref type="bibr" target="#b18">[18,</ref><ref type="bibr" target="#b19">19]</ref>. The stratified Cox model was used and the log-rank test was performed in the overall population; however, corresponding unstratified analyses were performed in the Japanese population because of the small sample size.</p><p>Change in baseline EORTC QLQ-C30 score at week 15 was assessed using pairwise comparisons. HRs for TTD were calculated using a Cox regression model with treatment as a covariate.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Results</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Patients</head><p>Enrolled Japanese patients (n = 52) were randomly assigned to receive either pembrolizumab (n = 30) or chemotherapy (n = 22; paclitaxel, n = 11; docetaxel, n = 11) (see <ref type="figure" target="#fig_1">Supplementary Fig. 1</ref>). Key differences in baseline characteristics between the pembrolizumab arm and the chemotherapy arm were the percentages of patients with lymph-node metastases only (17.7% vs 36.4%) or visceral metastases (83.3% vs 63.6%) at baseline ( <ref type="table" target="#tab_0">Table 1)</ref>. Twelve patients had tumors with PD-L1 CPS ≥ 10 (pembrolizumab, n = 4; chemotherapy, n = 8). The low number of patients and the imbalance between the arms precluded the inclusion of any meaningful analysis based on PD-L1 expression.</p><p>Median follow-up was 26.1 months (range 0.9-29.5 months) at data cutoff on October 26, 2017. At the time of analysis, all patients administered chemotherapy and 28 (93.3%) patients administered pembrolizumab had discontinued treatment. Two patients had completed the maximum 2 years of pembrolizumab treatment. Median (range) duration of treatment was 3.04 months (1 day-23.92 months) for pembrolizumab and 1.76 months (1 day-24.44 months) for chemotherapy.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Efficacy</head><p>Median OS was 7.9 months (95% CI 4.0-17.1) with pembrolizumab and 8.3 months (95% CI 4.0-16.2) with chemotherapy (HR 0.81, 95% CI 0.44-1.50, <ref type="figure" target="#fig_1">Fig. 1a)</ref>; patients who received pembrolizumab had a 19% lower risk for death than patients who received chemotherapy. Results of multivariate analysis showed that the HR for OS was 0.61 (95% CI 0.32-1.15) after adjusting for additional covariates. OS at 6 and 12 months was comparable between patient groups; 24-month OS rates were higher in the pembrolizumab group (26.9%) than in the chemotherapy group (14.3%). Median PFS was longer in the chemotherapy arm than in the pembrolizumab arm (4.9 months [95% CI 2.8-6.3] and 2.0 months [95% CI 1.9-2.2], respectively; HR 1.71, 95% CI 0.95-3.08, <ref type="figure" target="#fig_1">Fig. 1b</ref>).</p><p>ORRs for pembrolizumab and chemotherapy were similar (20.0% vs 18.2%; <ref type="table" target="#tab_2">Table 2</ref>). The disease control rate was 26.7% (stable disease, 6.7%) in the pembrolizumab arm and 63.6% (stable disease, 45.5%) in the chemotherapy arm. At data cutoff, median DOR had not been reached (range 4.2 to 23.5+ months) for responders in the pembrolizumab arm and was 4.4 months (range 1.4+ to 23.7+ months) for responders in the chemotherapy arm <ref type="figure" target="#fig_1">(Fig. 1c)</ref>. Responses were maintained for at least 12 months by 67% of responders to pembrolizumab therapy and by 33% of responders to chemotherapy.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Safety</head><p>Treatment-related AEs (TRAEs) of any grade and of grade 3-5 were reported in 56.7% and 16.7%, respectively, of TRAEs that occurred in &gt; 15% of patients in the chemotherapy arm were alopecia, decreased white blood cell count, decreased appetite, decreased neutrophil count, nausea, peripheral sensory neuropathy, anemia, neutropenia, fatigue, malaise, stomatitis, diarrhea, and dysgeusia ( <ref type="table" target="#tab_3">Table 3)</ref> Seven treatment-related serious AEs (SAEs) were reported among 5 (16.7%) patients administered pembrolizumab and 2 events were reported in 2 (9.1%) patients administered chemotherapy. No treatment-related SAEs were reported by more than 1 patient, except for interstitial lung disease in 2 patients in the pembrolizumab arm.    12 immune-mediated AEs were reported in 9 (30.0%) patients administered pembrolizumab; the most common were hypothyroidism (n = 4), hyperthyroidism (n = 2), and interstitial lung disease (n = 2). One patient with grade 1 or 2 and 4 patients with grade 3-5 immune-mediated AEs in the pembrolizumab arm received systemic corticosteroids. Single events were also reported for colitis, pneumonitis, rash, and type 1 diabetes. One immune-mediated AE of interstitial lung disease was reported in the chemotherapy arm. No deaths from TRAEs were reported.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>HRQOL</head><p>No significant difference in EORTC QLQ-C30 scores was observed at week 15 of treatment between the pembrolizumab (n = 18) and chemotherapy arms (n = 10; leastsquares mean change from baseline: + 2.14 vs -0.66 points). However, a trend toward a delay in TTD was observed for patients randomly assigned to receive pembrolizumab versus chemotherapy (20 vs 15 events; HR, 0.58, 95% CI, 0.29-1.16; <ref type="figure" target="#fig_2">Fig. 2</ref>).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Discussion</head><p>There is an unmet need for a safe and effective secondline treatment recommendation for Japanese patients with platinum-refractory advanced UC. Current second-line chemotherapy options include single agents docetaxel and paclitaxel; both have been associated with modest activity and hematologic AEs <ref type="bibr" target="#b23">[23]</ref>. The current subgroup analysis of KEYNOTE-045 is the first investigation of the safety and efficacy of pembrolizumab in Japanese patients with locally advanced/metastatic UC that progressed after platinumbased chemotherapy compared with standard chemotherapy.</p><p>Overall results of the ITT population in the KEYNOTE-045 study showed that pembrolizumab resulted in significantly longer OS-by approximately 3 months-than investigator's choice of docetaxel or vinflunine (10.1 vs 7.3 months; HR 0.70, 95% CI 0.57-0.85, p &lt; 0.001) <ref type="bibr" target="#b18">[18,</ref><ref type="bibr" target="#b19">19]</ref>. The benefit of pembrolizumab compared with chemotherapy was observed in the total population and among patients with tumors that expressed PD-L1 CPS ≥ 10 (HR 0.55, 95% CI 0.37-0.81, p = 0.001) <ref type="bibr" target="#b19">[19]</ref>. ORR was significantly higher in the pembrolizumab arm than in the chemotherapy arm (21.1 vs 11.0%) <ref type="bibr" target="#b18">[18,</ref><ref type="bibr" target="#b19">19]</ref>. In the overall population, pembrolizumab also had a better safety profile than chemotherapy.</p><p>The current analysis was conducted to assess the safety and efficacy of pembrolizumab and chemotherapy among Japanese patients enrolled in the KEYNOTE-045 study. Even with a higher percentage of Japanese patients with visceral disease in the pembrolizumab arm than in the control arm (83.3% vs 63.6%) at baseline, results showed that the risk for death was reduced by 19% in the pembrolizumab arm (HR 0.81). After adjusting for baseline covariates in the multivariate Cox model, the HR for OS improved to 0.61. With additional follow-up, there was a trend toward more favorable median OS in the pembrolizumab arm than in the chemotherapy arm (data not shown), and 24-month OS rates were higher with pembrolizumab (26.9%) than with chemotherapy (14.3%). In the Japanese subgroup, the proportions of patients with objective responses were similar between the pembrolizumab and chemotherapy arms but trended toward a more favorable response with pembrolizumab. At the time of analysis, 67% of patients in the pembrolizumab arm and 33% of patients in the chemotherapy arm maintained a response for &gt; 12 months. Because the presence of visceral disease is a negative prognostic factor for UC, greater proportions of patients with visceral disease in the pembrolizumab may contribute to the longer PFS observed in the chemotherapy arm.</p><p>A lack of improvement in PFS with simultaneous improvement in OS was also shown in the ITT population of KEYNOTE-045, which remains the only randomized trial of UC to show a survival benefit of immunotherapy compared with chemotherapy. This pattern of response, OS improvement but not PFS improvement, has also been reported in randomized trials with checkpoint inhibitors in other tumor types, continuing to suggest that PFS may not be a reliable surrogate end point for the clinical benefit of immunotherapy <ref type="bibr" target="#b24">[24]</ref><ref type="bibr" target="#b25">[25]</ref><ref type="bibr" target="#b26">[26]</ref><ref type="bibr" target="#b27">[27]</ref>.</p><p>In the current analysis, pembrolizumab was generally well tolerated in Japanese patients and had a better safety profile than chemotherapy. In the KEYNOTE-045 primary analysis population and in the Japanese subgroup, a lower percentage of patients who received pembrolizumab, compared with chemotherapy, experienced grade 3-5 TRAEs (15.0% vs 49.4% in the overall population and 16.7% vs 77.3% in the Japanese subgroup). Consistent with the known safety profile of pembrolizumab, immune-mediated AEs occurred more frequently with pembrolizumab than with chemotherapy. No deaths were attributed to TRAEs. Pembrolizumab may also result in improved QOL compared with chemotherapy. There was a trend toward a delay in TTD for Japanese patients who received pembrolizumab compared with chemotherapy. This outcome is supported by results of the HRQOL analysis of the overall population enrolled in the KEYNOTE-045 study, which showed that patients who received pembrolizumab had significantly longer TTD than patients who received chemotherapy (p = 0.004) <ref type="bibr" target="#b20">[20]</ref>.</p><p>According to the National Comprehensive Cancer Network, pembrolizumab is the preferred second-line therapy for patients with advanced/metastatic bladder cancer and may also be recommended as first-line therapy for patients whose tumors express PD-L1 CPS ≥ 10 or who are ineligible to receive platinum-based therapy <ref type="bibr" target="#b23">[23]</ref>. Pembrolizumab is approved for second-line treatment of patients with advanced/metastatic UC in Japan <ref type="bibr" target="#b12">[12]</ref>; however, there are no clear guidelines on choosing second-line therapy for these patients. In clinical practice, a variety of combination and single-agent therapies are prescribed <ref type="bibr" target="#b9">[9,</ref><ref type="bibr" target="#b10">10,</ref><ref type="bibr" target="#b28">28]</ref>. One small study was conducted to evaluate second-line combinations of gemcitabine and taxanes in Japanese patients with metastatic UC that progressed after platinum-based chemotherapy (N = 78) <ref type="bibr" target="#b28">[28]</ref>. Among 70 evaluable patients treated with gemcitabine combined with either docetaxel or paclitaxel, ORR was 8.6% and median PFS was 3.5 months. Median OS was 9.6 months, with no significant difference in survival between the regimens. The most commonly reported grade ≥ 3 hematologic AEs in the gemcitabine plus paclitaxel arm and the gemcitabine plus docetaxel arm were neutropenia (80.5% vs 59.5%), anemia (43.9% vs 10.8%), and thrombocytopenia (43.9% vs 29.7%). Although not recommended in international guidelines, some triplet regimens, including paclitaxel, ifosfamide, and nedaplatin <ref type="bibr" target="#b9">[9,</ref><ref type="bibr" target="#b10">10]</ref> or paclitaxel, cisplatin, and gemcitabine <ref type="bibr" target="#b29">[29]</ref>, are also used as second-line treatment regimens in real-world studies of bladder cancer in Japan. Both triplet regimens have been associated with development of grade 3-4 neutropenia <ref type="bibr" target="#b29">[29,</ref><ref type="bibr" target="#b30">30]</ref>. These studies highlight the need for more tolerable second-line therapies to treat patients with advanced UC.</p><p>The small sample size of the subgroup of Japanese patients in the KEYNOTE-045 study limits the comparison of the Japanese population with the overall study population and interpretation of the analyses presented herein. The study was not powered for formal efficacy comparisons in the Japanese subpopulation. Another limitation is that single-agent comparators, including vinflunine (not standard of care in Japan), may not be fully representative of secondline treatment options used in clinical practice in Japan. Regardless, the current analysis offers valuable information about the efficacy and safety of pembrolizumab in Japanese patients. Outcomes will be confirmed in the real-world clinical setting of patients treated in Japan.</p><p>In conclusion, the efficacy and safety profile of pembrolizumab as second-line treatment of advanced/metastatic UC in Japanese patients is consistent with the overall results of the international KEYNOTE-045 study. Pembrolizumab is an effective and well-tolerated treatment option that is recommended in international guidelines as the preferred second-line treatment for UC <ref type="bibr" target="#b23">[23]</ref>.</p><p>Open Access This article is distributed under the terms of the Creative Commons Attribution 4.0 International License (http://creat iveco mmons .org/licen ses/by/4.0/), which permits unrestricted use, distribution, and reproduction in any medium, provided you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons license, and indicate if changes were made.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head></head><label></label><figDesc>. The most common TRAEs in the pembrolizumab arm were pruritus (n = 6 [20.0%] patients), hypothyroidism (n = 4 [13.3%]), rash (n = 4 [13.3%]), nausea (n = 3 [10.0%]), and malaise (n = 3 [10.0%]).</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head>Fig. 1</head><label>1</label><figDesc>Kaplan-Meier estimates of a OS, b PFS, and c DOR a in Japanese patients (ITT population) with advanced or metastatic urothelial carcinoma treated with pembrolizumab (n = 30) or chemotherapy (n = 22). a DOR was assessed in patients who achieved an objective response of CR or PR. CI confidence interval, CR complete response, DOR duration of response, HR hazard ratio, ITT intention-to-treat, NR not reached, OS overall survival, PFS progression-free survival, PR partial response</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_2"><head>Fig. 2</head><label>2</label><figDesc>TTD in HRQoL in Japanese patients (ITT population) with advanced or metastatic urothelial carcinoma treated with pembrolizumab (n = 30) or chemotherapy (n = 22). HRQoL health-related quality of life, ITT intent-to-treat, TTD time to traditional deterioration</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>Table 1</head><label>1</label><figDesc>Patient baseline characteristics CPS combined positive score, ECOG PS Eastern Cooperative Oncology Group performance status, EORTC QLQ-C30 European Organisation for Research and Treatment of Cancer Quality of Life Questionnaire Core 30, PD-L1 programmed death ligand-1, QOL quality of life a Latest hemoglobin test value before or on randomization date Bellmunt risk factors of ECOG PS &gt; 0, hemoglobin level &lt; 10 g/dL, and liver metastases<ref type="bibr" target="#b31">[31]</ref> + time from prior chemotherapy &lt; 3 months<ref type="bibr" target="#b32">[32]</ref> </figDesc><table><row><cell>Characteristic</cell><cell>Pembrolizumab</cell><cell>Chemotherapy</cell></row><row><cell></cell><cell>N = 30</cell><cell>N = 22</cell></row><row><cell>Age (years), median (range)</cell><cell>72 (51-83)</cell><cell>70.5 (56-84)</cell></row><row><cell>Sex, n (%)</cell><cell></cell><cell></cell></row><row><cell>Male</cell><cell>24 (80.0)</cell><cell>16 (72.7)</cell></row><row><cell>Geographic location of disease, n (%)</cell><cell></cell><cell></cell></row><row><cell>Upper tract</cell><cell>12 (40.0)</cell><cell>5 (22.7)</cell></row><row><cell>Lower tract</cell><cell>18 (60.0)</cell><cell>17 (77.3)</cell></row><row><cell>ECOG PS, n (%)</cell><cell></cell><cell></cell></row><row><cell>0</cell><cell>23 (76.7)</cell><cell>14 (63.6)</cell></row><row><cell>1</cell><cell>7 (23.3)</cell><cell>7 (31.8)</cell></row><row><cell>2</cell><cell>0 (0)</cell><cell>1 (4.5)</cell></row><row><cell>Visceral disease, n (%)</cell><cell>25 (83.3)</cell><cell>14 (63.6)</cell></row><row><cell>Disease in lymph node only, n (%)</cell><cell>5 (17.7)</cell><cell>8 (36.4)</cell></row><row><cell>Liver metastases, n (%)</cell><cell>7 (23.3)</cell><cell>4 (18.2)</cell></row><row><cell>Hemoglobin &lt; 10 g/dL, a n (%)</cell><cell>8 (26.7)</cell><cell>4 (18.2)</cell></row><row><cell>Time since completion of most recent prior therapy, n (%)</cell><cell></cell><cell></cell></row><row><cell>≥ 3 months</cell><cell>17 (56.7)</cell><cell>10 (45.5)</cell></row><row><cell>&lt; 3 months</cell><cell>13 (43.3)</cell><cell>12 (54.5)</cell></row><row><cell>Setting of most recent prior therapy, n (%)</cell><cell></cell><cell></cell></row><row><cell>Neoadjuvant</cell><cell>1 (3.3)</cell><cell>2 (9.1)</cell></row><row><cell>Adjuvant</cell><cell>1 (3.3)</cell><cell>4 (18.2)</cell></row><row><cell>First line</cell><cell>24 (80.0)</cell><cell>12 (54.5)</cell></row><row><cell>Second line</cell><cell>4 (13.3)</cell><cell>4 (18.2)</cell></row><row><cell>Prior platinum-based therapy, n (%)</cell><cell></cell><cell></cell></row><row><cell>Cisplatin</cell><cell>24 (80.0)</cell><cell>18 (81.8)</cell></row><row><cell>Carboplatin</cell><cell>6 (20.0)</cell><cell>2 (9.1)</cell></row><row><cell>Other b</cell><cell>0 (0)</cell><cell>2 (9.1)</cell></row><row><cell>Smoking status, n (%)</cell><cell></cell><cell></cell></row><row><cell>Never</cell><cell>13 (43.3)</cell><cell>8 (36.4)</cell></row><row><cell>Former</cell><cell>15 (50.0)</cell><cell>12 (54.5)</cell></row><row><cell>Current</cell><cell>2 (6.7)</cell><cell>2 (9.1)</cell></row><row><cell>PD-L1 CPS ≥ 10, n (%)</cell><cell>4 (13.3)</cell><cell>8 (36.4)</cell></row><row><cell>Risk factors, c n (%)</cell><cell></cell><cell></cell></row><row><cell>0</cell><cell>8 (26.7)</cell><cell>4 (18.2)</cell></row><row><cell>1</cell><cell>13 (43.3)</cell><cell>10 (45.5)</cell></row><row><cell>2</cell><cell>5 (16.7)</cell><cell>6 (27.3)</cell></row><row><cell>3 or 4</cell><cell>4 (13.3)</cell><cell>2 (9.1)</cell></row><row><cell>EORTC QLQ-C30 global health status/QOL score</cell><cell>57.8 (25.4)</cell><cell>54.9 (27.4)</cell></row></table><note>b Oxaliplatin, nedaplatinc</note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_1"><head>Time, months a</head><label></label><figDesc></figDesc><table><row><cell>Overall Survival, %</cell><cell>20 40 60 80 100</cell><cell></cell><cell></cell><cell></cell><cell>40.0% 38.1%</cell><cell></cell><cell></cell><cell cols="3">Median (95% CI): 7.9 months (4.0-17.1) 8.3 months (4.0-16.2) 26.9% 14.3%</cell><cell>b</cell><cell>Progression-Free Survival, %</cell><cell>20 40 60 80 100</cell><cell></cell><cell></cell><cell></cell><cell>13.3% 23.9%</cell><cell></cell><cell></cell><cell>Median (95% CI): 2.0 months (1.9-2.2) 4.9 months (2.8-6.3) 12.4% 2.5%</cell></row><row><cell></cell><cell>0</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>0</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell></cell><cell></cell><cell>0</cell><cell>4</cell><cell>8</cell><cell>12</cell><cell>16</cell><cell>20</cell><cell>24</cell><cell>28</cell><cell>32</cell><cell></cell><cell></cell><cell></cell><cell>0</cell><cell>4</cell><cell>8</cell><cell>1 2</cell><cell>16</cell><cell>20</cell><cell>24</cell><cell>28</cell><cell>32</cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell cols="3">Time, months</cell></row><row><cell cols="2">Number at risk</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell cols="3">Number at risk</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell cols="2">Pembrolizumab</cell><cell>30</cell><cell>20</cell><cell>15</cell><cell>12</cell><cell>10</cell><cell>8</cell><cell>6</cell><cell>2</cell><cell>0</cell><cell cols="3">Pembrolizumab</cell><cell>30</cell><cell>6</cell><cell>5</cell><cell>4</cell><cell>3</cell><cell>3</cell><cell>2</cell><cell>0</cell><cell>0</cell></row><row><cell cols="2">Chemotherapy</cell><cell>22</cell><cell>15</cell><cell>1 1</cell><cell>8</cell><cell>7</cell><cell>2</cell><cell>2</cell><cell>1</cell><cell>0</cell><cell cols="3">Chemotherapy</cell><cell>22</cell><cell>11</cell><cell>6</cell><cell>5</cell><cell>4</cell><cell>1</cell><cell>1</cell><cell>0</cell><cell>0</cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell cols="2">Events, n</cell><cell cols="3">HR (95% CI) c</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell cols="2">Events, n</cell><cell cols="2">HR (95% CI) c</cell></row><row><cell></cell><cell></cell><cell cols="3">Pembrolizumab</cell><cell></cell><cell>22</cell><cell cols="3">0.81 (0.44-1.50)</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell cols="3">Pembrolizumab</cell><cell></cell><cell>27</cell><cell cols="2">1.71 (0.95-3.08)</cell></row><row><cell></cell><cell></cell><cell cols="3">Chemotherapy</cell><cell></cell><cell>19</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell cols="3">Chemotherapy</cell><cell></cell><cell>20</cell><cell></cell></row></table><note></note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_2"><head>Table 2</head><label>2</label><figDesc>Best overall response (ITT population)CI confidence interval, CR complete response, ITT intention-to-treat, PR partial response, SD stable disease</figDesc><table><row><cell>Best overall response</cell><cell cols="2">Pembrolizumab</cell><cell cols="2">Chemotherapy</cell></row><row><cell></cell><cell>N = 30</cell><cell></cell><cell>N = 22</cell><cell></cell></row><row><cell></cell><cell>n</cell><cell>% (95% CI) a</cell><cell>n</cell><cell>% (95% CI) a</cell></row><row><cell>Objective response rate (CR + PR)</cell><cell>6</cell><cell>20.0 (7.7-38.6)</cell><cell>4</cell><cell>18.2 (5.2-40.3)</cell></row><row><cell>CR</cell><cell>3</cell><cell>10.0 (2.1-26.5)</cell><cell>1</cell><cell>4.5 (0.1-22.8)</cell></row><row><cell>PR</cell><cell>3</cell><cell>10.0 (2.1-26.5)</cell><cell>3</cell><cell>13.6 (2.9-34.9)</cell></row><row><cell>SD</cell><cell>2</cell><cell>6.7 (0.8-22.1)</cell><cell>10</cell><cell>45.5 (24.4-67.8)</cell></row><row><cell>Disease control rate (CR + PR + SD)</cell><cell>8</cell><cell>26.7 (12.3-45.9)</cell><cell>14</cell><cell>63.6 (40.7-82.8)</cell></row><row><cell>Progressive disease</cell><cell>20</cell><cell>66.7 (47.2-82.7)</cell><cell>3</cell><cell>13.6 (2.9-34.9)</cell></row><row><cell>No assessment</cell><cell>0</cell><cell>6.7 (0.8-22.1)</cell><cell>3</cell><cell>9.1 (1.1-29.2)</cell></row><row><cell>Nonevaluable</cell><cell>2</cell><cell>0.0 (0.0-11.6)</cell><cell>2</cell><cell>13.6 (2.9-34.9)</cell></row><row><cell>Based on binomial exact CI method</cell><cell></cell><cell></cell><cell></cell><cell></cell></row></table><note>a</note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_3"><head>Table 3 TRAEs</head><label>3</label><figDesc></figDesc><table><row><cell>of any grade</cell></row><row><cell>and grade 3 or 4 occurring</cell></row><row><cell>in &gt; 5% of patients in either</cell></row><row><cell>treatment group (APaT</cell></row><row><cell>population)</cell></row></table><note></note></figure>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div xmlns="http://www.tei-c.org/ns/1.0" />
+			</div>
+
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Author contributions HN: acquisition of the data and interpretation of the results. YY: acquisition of the data and interpretation of the results. NS: acquisition of the data and interpretation of the results. KN: acquisition of the data. KF: acquisition of the data. SF: acquisition of the data and interpretation of the results. MY: acquisition of the data. HE: acquisition of the data. KT: analysis of the data and interpretation of the results. YT: acquisition of the data and interpretation of the results. KI: analysis and acquisition of the data, interpretation of the data, and drafting of the manuscript. TS: acquisition of the data and interpretation of the results. RP: conception, design or planning of the study, interpretation of the results, and drafting of the manuscript. TF: acquisition of the data, interpretation of the results, and drafting of the manuscript. DB: conception, design or planning of the study, and interpretation of the results. JB: conception, design or planning of the study, analysis and acquisition of the data, interpretation of the results, and provision of study materials/patients. All authors reviewed the manuscript for important intellectual content and approved the final version of the manuscript for submission.</p><p>Data availability statement Merck Sharp &amp; Dohme Corp., a subsidiary of Merck &amp; Co., Inc., Kenilworth, NJ, USA's, data sharing policy, including restrictions, is available at https ://engag ezone .msd.com/ ds_docum entat ion.php. Requests for access to the clinical study data can be submitted through the EngageZone site or via email to dataaccess@merck.com.  </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Compliance with ethical standards</head></div>			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">RP: Employee and stockholder of Merck Sharp &amp; Dohme Corp., a subsidiary of</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Msd</forename><forename type="middle">K K</forename><surname>Employee Of</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Japan</forename><surname>Tokyo</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Stockholder</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Co</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Inc</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Kenilworth</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Usa</forename><surname>Nj</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Msd</forename><forename type="middle">K K</forename><surname>Ki: Employee Of</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Japan</forename><surname>Tokyo</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Stockholder</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Co</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Inc</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Kenilworth</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Usa</forename><surname>Nj</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Msd</forename><forename type="middle">K K</forename><surname>Ts: Employee Of</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Japan</forename><surname>Tokyo</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Stockholder</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Co</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Inc</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Kenilworth</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Usa</forename><surname>Nj</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Fidia</forename><surname>Genentech</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Farmaceutici</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Roche</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Eli</forename><surname>Merck</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Lilly</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">received fees for promotional materials from Merck, received research funding from Merck and other (eg trips, travel or gifts) from Eli-Lilly. JB: Served in an advisory role for Genentech, Merck, AstraZeneca, and Bristol-Myers Squibb, patent royalties from UpToDate, honoraria from Merck and Bristol-Myers Squibb, research funding from Pfizer, and MSD Serono</title>
+		<meeting><address><addrLine>Kenilworth, NJ, USA; Kenilworth, NJ, USA. DB; AstraZeneca, Bristol Myers Squibb</addrLine></address></meeting>
+		<imprint>
+			<publisher>Merck &amp; Co., Inc</publisher>
+		</imprint>
+	</monogr>
+	<note>Served in an advisory role for Pfizer. and other (trips, travel or gifts) from Pfizer and Ipsen</note>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Bladder cancer</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><forename type="middle">E</forename><surname>Clark</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">N</forename><surname>Agarwal</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">C</forename><surname>Biagioli</surname></persName>
+		</author>
+		<idno type="DOI">10.6004/jnccn.2013.0059</idno>
+		<ptr target="https://doi.org/10.6004/jnccn.2013.0059" />
+	</analytic>
+	<monogr>
+		<title level="j">J Natl Compr Canc Netw</title>
+		<imprint>
+			<biblScope unit="volume">11</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="446" to="475" />
+			<date type="published" when="2013" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Global cancer statistics 2018: GLOBOCAN estimates of incidence and mortality worldwide for 36 cancers in 185 countries</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">F</forename><surname>Bray</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Ferlay</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">I</forename><surname>Soerjomataram</surname></persName>
+		</author>
+		<idno type="DOI">10.3322/caac.21492</idno>
+		<ptr target="https://doi.org/10.3322/caac.21492" />
+	</analytic>
+	<monogr>
+		<title level="j">Cancer J Clin</title>
+		<imprint>
+			<biblScope unit="volume">68</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page" from="394" to="424" />
+			<date type="published" when="2018" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Incidence rate for bladder cancer in Japanese in Japan and in the United States from the Cancer Incidence in Five Continents</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Matsuda</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Okuyama</surname></persName>
+		</author>
+		<idno type="DOI">10.1093/jjco/hyx017</idno>
+		<ptr target="https://doi.org/10.1093/jjco/hyx017" />
+	</analytic>
+	<monogr>
+		<title level="j">Jpn J Clin Oncol</title>
+		<imprint>
+			<biblScope unit="volume">47</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="284" to="285" />
+			<date type="published" when="2017" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Asia consensus statement on NCCN clinical practice guideline for bladder cancer</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><surname>Nishiyama</surname></persName>
+		</author>
+		<idno type="DOI">10.1093/jjco/hyx130</idno>
+		<ptr target="https://doi.org/10.1093/jjco/hyx130" />
+	</analytic>
+	<monogr>
+		<title level="j">Jpn J Clin Oncol</title>
+		<imprint>
+			<biblScope unit="volume">48</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="3" to="6" />
+			<date type="published" when="2018" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Cancer in Japan: prevalence, prevention and the role of heterocyclic amines in human carcinogenesis</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Nagao</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Tsugane</surname></persName>
+		</author>
+		<idno type="DOI">10.1186/s41021-016-0043-y</idno>
+		<ptr target="https://doi.org/10.1186/s41021-016-0043-y" />
+	</analytic>
+	<monogr>
+		<title level="j">Genes Environ</title>
+		<imprint>
+			<biblScope unit="volume">38</biblScope>
+			<biblScope unit="page">16</biblScope>
+			<date type="published" when="2016" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Projected cancer statistics</title>
+		<ptr target="https://ganjoho.jp/en/public/statistics/short_pred.html.Accessed" />
+	</analytic>
+	<monogr>
+		<title level="m">Center for Cancer Control and Information Services</title>
+		<meeting><address><addrLine>Tokyo, Japan</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2018-08-19" />
+		</imprint>
+	</monogr>
+	<note>National Cancer Center</note>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Urologic cancer in Japan: role of Japan at the frontier of issues in Asia</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><surname>Akaza</surname></persName>
+		</author>
+		<idno type="DOI">10.1093/jjco/hyv123</idno>
+		<ptr target="https://doi.org/10.1093/jjco/hyv123" />
+	</analytic>
+	<monogr>
+		<title level="j">Jpn J Clin Oncol</title>
+		<imprint>
+			<biblScope unit="volume">46</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="23" to="30" />
+			<date type="published" when="2016" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Essential content of evidencebased clinical practice guidelines for bladder cancer: the Japanese Urological Association 2015 update</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Y</forename><surname>Kubota</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">N</forename><surname>Nakaigawa</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/iju.13141</idno>
+		<ptr target="https://doi.org/10.1111/iju.13141" />
+	</analytic>
+	<monogr>
+		<title level="j">Int J Urol</title>
+		<imprint>
+			<biblScope unit="volume">23</biblScope>
+			<biblScope unit="issue">8</biblScope>
+			<biblScope unit="page" from="640" to="645" />
+			<date type="published" when="2016" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Outcome and prognostic factors in metastatic urothelial carcinoma patients receiving second-line chemotherapy: an analysis of real-world clinical practice data in Japan</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><surname>Matsumoto</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Abe</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Ishizaki</surname></persName>
+		</author>
+		<idno type="DOI">10.1093/jjco/hyy094</idno>
+		<ptr target="https://doi.org/10.1093/jjco/hyy094" />
+	</analytic>
+	<monogr>
+		<title level="j">Jpn J Clin Oncol</title>
+		<imprint>
+			<biblScope unit="volume">48</biblScope>
+			<biblScope unit="issue">8</biblScope>
+			<biblScope unit="page" from="771" to="776" />
+			<date type="published" when="2018" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Outcome of metastatic urothelial carcinoma treated by systemic chemotherapy: prognostic factors based on real-world clinical practice in Japan</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Abe</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Ishizaki</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><surname>Kikuchi</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.urolonc.2016.08.016</idno>
+		<ptr target="https://doi.org/10.1016/j.urolonc.2016.08.016" />
+	</analytic>
+	<monogr>
+		<title level="j">Urol Oncol</title>
+		<imprint>
+			<biblScope unit="volume">35</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="38" to="38" />
+			<date type="published" when="2017" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">PD1/PDL1 inhibitors for the treatment of advanced urothelial bladder cancer</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><forename type="middle">D</forename><surname>Stenehjem</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><surname>Tran</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">A</forename><surname>Nkrumah</surname></persName>
+		</author>
+		<idno type="DOI">10.2147/OTT.S135157</idno>
+		<ptr target="https://doi.org/10.2147/OTT.S135157" />
+	</analytic>
+	<monogr>
+		<title level="j">OncoTargets Ther</title>
+		<imprint>
+			<biblScope unit="volume">11</biblScope>
+			<biblScope unit="page" from="5973" to="5989" />
+			<date type="published" when="2018" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Recent advances in medical therapy for metastatic urothelial cancer</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Yuasa</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Urakami</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Yonese</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/s10147-018-1260-0</idno>
+		<ptr target="https://doi.org/10.1007/s10147-018-1260-0" />
+	</analytic>
+	<monogr>
+		<title level="j">Int J Clin Oncol</title>
+		<imprint>
+			<biblScope unit="volume">23</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="599" to="607" />
+			<date type="published" when="2018" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Nivolumab in metastatic urothelial carcinoma after platinum therapy (Check-Mate 275): a multicentre, single-arm, phase 2 trial</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><surname>Sharma</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Retz</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Siefker-Radtke</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/S1470-2045(17)30065-7</idno>
+		<ptr target="https://doi.org/10.1016/S1470-2045" />
+	</analytic>
+	<monogr>
+		<title level="j">Lancet Oncol</title>
+		<imprint>
+			<biblScope unit="volume">18</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="30065" to="30072" />
+			<date type="published" when="2017" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">Efficacy and safety of durvalumab in locally advanced or metastatic urothelial carcinoma: updated results from a phase 1/2 open-label study</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Powles</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><forename type="middle">H</forename><surname>O'donnell</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><surname>Massard</surname></persName>
+		</author>
+		<idno type="DOI">10.1001/jamaoncol.2017.2411</idno>
+		<ptr target="https://doi.org/10.1001/jamaoncol.2017.2411" />
+	</analytic>
+	<monogr>
+		<title level="j">JAMA Oncol</title>
+		<imprint>
+			<biblScope unit="volume">3</biblScope>
+			<biblScope unit="issue">9</biblScope>
+			<biblScope unit="page">172411</biblScope>
+			<date type="published" when="2017" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Atezolizumab in patients with locally advanced and metastatic urothelial carcinoma who have progressed following treatment with platinum-based chemotherapy: a single-arm, multicentre, phase 2 trial</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">E</forename><surname>Rosenberg</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Hoffman-Censits</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Powles</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/S0140-6736(16)00561-4</idno>
+		<ptr target="https://doi.org/10.1016/S0140-6736" />
+	</analytic>
+	<monogr>
+		<title level="j">Lancet</title>
+		<imprint>
+			<biblScope unit="volume">387</biblScope>
+			<biblScope unit="issue">16</biblScope>
+			<biblScope unit="page" from="561" to="565" />
+			<date type="published" when="2016" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Avelumab, an anti-programmed death-ligand 1 antibody, in patients with refractory metastatic urothelial carcinoma: results from a multicenter, phase Ib study</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><forename type="middle">B</forename><surname>Apolo</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">R</forename><surname>Infante</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Balmanoukian</surname></persName>
+		</author>
+		<idno type="DOI">10.1200/JCO.2016.71.6795</idno>
+		<ptr target="https://doi.org/10.1200/JCO.2016.71.6795" />
+	</analytic>
+	<monogr>
+		<title level="j">J Clin Oncol</title>
+		<imprint>
+			<biblScope unit="volume">35</biblScope>
+			<biblScope unit="page" from="2117" to="2124" />
+			<date type="published" when="2017" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Safety and activity of pembrolizumab in patients with locally advanced or metastatic urothelial cancer (KEYNOTE-012): a non-randomised, openlabel, phase 1b study</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><forename type="middle">R</forename><surname>Plimack</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Bellmunt</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Gupta</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/S1470-2045(17)30007-4</idno>
+		<ptr target="https://doi.org/10.1016/S1470-2045" />
+	</analytic>
+	<monogr>
+		<title level="j">Lancet Oncol</title>
+		<imprint>
+			<biblScope unit="volume">18</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="30007" to="30011" />
+			<date type="published" when="2017" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">Pembrolizumab as second-line therapy for advanced urothelial carcinoma</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Bellmunt</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><surname>De Wit</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><forename type="middle">J</forename><surname>Vaughn</surname></persName>
+		</author>
+		<idno type="DOI">10.1056/NEJMoa1613683</idno>
+		<ptr target="https://doi.org/10.1056/NEJMoa1613683" />
+	</analytic>
+	<monogr>
+		<title level="j">N Engl J Med</title>
+		<imprint>
+			<biblScope unit="volume">376</biblScope>
+			<biblScope unit="issue">11</biblScope>
+			<biblScope unit="page" from="1015" to="1026" />
+			<date type="published" when="2017" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">Randomized phase III KEYNOTE-045 trial of pembrolizumab versus paclitaxel, docetaxel, or vinflunine in recurrent advanced urothelial cancer: results of &gt; 2 years of follow-up</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Y</forename><surname>Fradet</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Bellmunt</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><forename type="middle">J</forename><surname>Vaughn</surname></persName>
+		</author>
+		<idno type="DOI">10.1093/annonc/mdz127</idno>
+		<ptr target="https://doi.org/10.1093/annonc/mdz127" />
+	</analytic>
+	<monogr>
+		<title level="j">Ann Oncol</title>
+		<imprint>
+			<biblScope unit="volume">30</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page" from="970" to="976" />
+			<date type="published" when="2019" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">Health-related quality-of-life analysis from KEYNOTE-045: a phase III study of pembrolizumab versus chemotherapy for previously treated advanced urothelial cancer</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><forename type="middle">J</forename><surname>Vaughn</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Bellmunt</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Y</forename><surname>Fradet</surname></persName>
+		</author>
+		<idno type="DOI">10.1200/JCO.2017.76.9562</idno>
+		<ptr target="https://doi.org/10.1200/JCO.2017.76.9562" />
+	</analytic>
+	<monogr>
+		<title level="j">J Clin Oncol</title>
+		<imprint>
+			<biblScope unit="volume">36</biblScope>
+			<biblScope unit="issue">16</biblScope>
+			<biblScope unit="page" from="1579" to="1587" />
+			<date type="published" when="2018" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">New response evaluation criteria in solid tumours: revised RECIST guideline (version 1.1)</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><forename type="middle">A</forename><surname>Eisenhauer</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><surname>Therasse</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Bogaerts</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.ejca.2008.10.026</idno>
+		<ptr target="https://doi.org/10.1016/j.ejca.2008.10.026" />
+	</analytic>
+	<monogr>
+		<title level="j">Eur J Can</title>
+		<imprint>
+			<biblScope unit="volume">45</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="228" to="247" />
+			<date type="published" when="2009" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<monogr>
+		<title level="m" type="main">Common terminology criteria for adverse events (CTCAE) version 4</title>
+		<ptr target="https://www.eortc.be/services/doc/ctc/CTCAE_4.03_2010-06-14_QuickReference_5x7" />
+		<imprint>
+			<date type="published" when="2010-08-19" />
+		</imprint>
+		<respStmt>
+			<orgName>National Cancer Institute</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title level="a" type="main">NCCN clinical practice guidelines in oncology: bladder cancer (version 5</title>
+	</analytic>
+	<monogr>
+		<title level="j">National Comprehensive Cancer Network</title>
+		<imprint>
+			<date type="published" when="2018" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title level="a" type="main">Atezolizumab versus docetaxel in patients with previously treated non-smallcell lung cancer (OAK): a phase 3, open-label, multicentre randomised controlled trial</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Rittmeyer</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">F</forename><surname>Barlesi</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><surname>Waterkamp</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/S0140-6736(16)32517-X</idno>
+		<ptr target="https://doi.org/10.1016/S0140-6736" />
+	</analytic>
+	<monogr>
+		<title level="j">Lancet</title>
+		<imprint>
+			<biblScope unit="volume">389</biblScope>
+			<biblScope unit="issue">16</biblScope>
+			<biblScope unit="page">32517</biblScope>
+			<date type="published" when="2017" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title level="a" type="main">Nivolumab versus docetaxel in advanced nonsquamous non-small-cell lung cancer</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><surname>Borghaei</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">L</forename><surname>Paz-Ares</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">L</forename><surname>Horn</surname></persName>
+		</author>
+		<idno type="DOI">10.1056/NEJMoa1507643</idno>
+		<ptr target="https://doi.org/10.1056/NEJMoa1507643" />
+	</analytic>
+	<monogr>
+		<title level="j">N Engl J Med</title>
+		<imprint>
+			<biblScope unit="volume">373</biblScope>
+			<biblScope unit="issue">17</biblScope>
+			<biblScope unit="page" from="1627" to="1639" />
+			<date type="published" when="2015" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title level="a" type="main">Pembrolizumab versus docetaxel for previously treated, PD-L1-positive, advanced nonsmall-cell lung cancer (KEYNOTE-010): a randomised controlled trial</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><forename type="middle">S</forename><surname>Herbst</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><surname>Baas</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><forename type="middle">W</forename><surname>Kim</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/S0140-6736(15)01281-7</idno>
+		<ptr target="https://doi.org/10.1016/S0140-6736" />
+	</analytic>
+	<monogr>
+		<title level="j">Lancet</title>
+		<imprint>
+			<biblScope unit="volume">387</biblScope>
+			<biblScope unit="issue">15</biblScope>
+			<biblScope unit="page" from="1281" to="1288" />
+			<date type="published" when="2016" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+		<title level="a" type="main">Nivolumab for recurrent squamous-cell carcinoma of the head and neck</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><forename type="middle">L</forename><surname>Ferris</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">G</forename><surname>Blumenschein</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Fayette</forename><forename type="middle">J</forename><surname>Jr</surname></persName>
+		</author>
+		<idno type="DOI">10.1056/NEJMoa1602252</idno>
+		<ptr target="https://doi.org/10.1056/NEJMoa1602252" />
+	</analytic>
+	<monogr>
+		<title level="j">N Engl J Med</title>
+		<imprint>
+			<biblScope unit="volume">375</biblScope>
+			<biblScope unit="page" from="1856" to="1867" />
+			<date type="published" when="2016" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<analytic>
+		<title level="a" type="main">Comparison of efficacy and toxicity of second-line combination chemotherapy regimens in patients with advanced urothelial carcinoma</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Y</forename><surname>Takeyama</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Kato</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><surname>Nishihara</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/s10147-018-1288-1</idno>
+		<ptr target="https://doi.org/10.1007/s10147-018-1288-1" />
+	</analytic>
+	<monogr>
+		<title level="j">Int J Clin Oncol</title>
+		<imprint>
+			<biblScope unit="volume">23</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page" from="944" to="950" />
+			<date type="published" when="2018" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<analytic>
+		<title level="a" type="main">Randomized phase III study comparing paclitaxel/cisplatin/gemcitabine and gemcitabine/cisplatin in patients with locally advanced or metastatic urothelial cancer without prior systemic therapy: EORTC Intergroup Study 30987</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Bellmunt</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><surname>Der Maase</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">G</forename><forename type="middle">M</forename><surname>Mead</surname></persName>
+		</author>
+		<idno type="DOI">10.1200/JCO.2011.38.6979</idno>
+		<ptr target="https://doi.org/10.1200/JCO.2011.38.6979" />
+	</analytic>
+	<monogr>
+		<title level="j">J Clin Oncol</title>
+		<imprint>
+			<biblScope unit="volume">30</biblScope>
+			<biblScope unit="issue">10</biblScope>
+			<biblScope unit="page" from="1107" to="1113" />
+			<date type="published" when="2012" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<analytic>
+		<title level="a" type="main">Clinical significance of a second-line chemotherapy regimen with paclitaxel, ifosfamide and nedaplatin for metastatic urothelial carcinoma after failure of cisplatin-based chemotherapy</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><surname>Kobayashi</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><surname>Matsuyama</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><surname>Shimizu</surname></persName>
+		</author>
+		<idno type="DOI">10.1093/jjco/hyw071</idno>
+		<ptr target="https://doi.org/10.1093/jjco/hyw071" />
+	</analytic>
+	<monogr>
+		<title level="j">Jpn J Clin Oncol</title>
+		<imprint>
+			<biblScope unit="volume">46</biblScope>
+			<biblScope unit="issue">8</biblScope>
+			<biblScope unit="page" from="775" to="780" />
+			<date type="published" when="2016" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<analytic>
+		<title level="a" type="main">Prognostic factors in patients with advanced transitional cell carcinoma of the urothelial tract experiencing treatment failure with platinumcontaining regimens</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Bellmunt</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><forename type="middle">K</forename><surname>Choueiri</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><surname>Fougeray</surname></persName>
+		</author>
+		<idno type="DOI">10.1200/JCO.2009.25.4599</idno>
+		<ptr target="https://doi.org/10.1200/JCO.2009.25.4599" />
+	</analytic>
+	<monogr>
+		<title level="j">J Clin Oncol</title>
+		<imprint>
+			<biblScope unit="volume">28</biblScope>
+			<biblScope unit="issue">11</biblScope>
+			<biblScope unit="page" from="1850" to="1855" />
+			<date type="published" when="2010" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<analytic>
+		<title level="a" type="main">Time from prior chemotherapy enhances prognostic risk grouping in the secondline setting of advanced urothelial carcinoma: a retrospective analysis of pooled, prospective phase 2 trials</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">G</forename><surname>Sonpavde</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">G</forename><forename type="middle">R</forename><surname>Pond</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><surname>Fougeray</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.eururo.2012.11.042</idno>
+		<ptr target="https://doi.org/10.1016/j.eururo.2012.11.042" />
+	</analytic>
+	<monogr>
+		<title level="j">Eur Urol</title>
+		<imprint>
+			<biblScope unit="volume">63</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="717" to="723" />
+			<date type="published" when="2013" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

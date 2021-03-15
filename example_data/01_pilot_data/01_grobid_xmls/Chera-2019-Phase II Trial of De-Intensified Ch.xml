@@ -1,0 +1,934 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /data/rsg/nlp/juanmoo1/bin/grobid-0.6.1/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Phase II Trial of De-Intensified Chemoradiotherapy for Human Papillomavirus-Associated Oropharyngeal Squamous Cell Carcinoma</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><roleName>MD</roleName><forename type="first">Bhishamjit</forename><forename type="middle">S</forename><surname>Chera</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="institution">Cardinal Health, Express Scripts</orgName>
+								<address>
+									<addrLine>Becton Dickinson</addrLine>
+									<settlement>Baxter, Merck, Pfizer, Stryker, Procter &amp; Gamble, Walgreens</settlement>
+									<region>Novartis, Zimmer</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><roleName>MD</roleName><forename type="first">Robert</forename><forename type="middle">J</forename><surname>Amdur</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="institution">Cardinal Health, Express Scripts</orgName>
+								<address>
+									<addrLine>Becton Dickinson</addrLine>
+									<settlement>Baxter, Merck, Pfizer, Stryker, Procter &amp; Gamble, Walgreens</settlement>
+									<region>Novartis, Zimmer</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><roleName>MSW</roleName><forename type="first">Rebecca</forename><surname>Green</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="institution">Cardinal Health, Express Scripts</orgName>
+								<address>
+									<addrLine>Becton Dickinson</addrLine>
+									<settlement>Baxter, Merck, Pfizer, Stryker, Procter &amp; Gamble, Walgreens</settlement>
+									<region>Novartis, Zimmer</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><roleName>MD, PhD</roleName><forename type="first">Colette</forename><surname>Shen</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="institution">Cardinal Health, Express Scripts</orgName>
+								<address>
+									<addrLine>Becton Dickinson</addrLine>
+									<settlement>Baxter, Merck, Pfizer, Stryker, Procter &amp; Gamble, Walgreens</settlement>
+									<region>Novartis, Zimmer</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><roleName>MD, PhD</roleName><forename type="first">Gaorav</forename><surname>Gupta</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="institution">Cardinal Health, Express Scripts</orgName>
+								<address>
+									<addrLine>Becton Dickinson</addrLine>
+									<settlement>Baxter, Merck, Pfizer, Stryker, Procter &amp; Gamble, Walgreens</settlement>
+									<region>Novartis, Zimmer</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><roleName>PhD</roleName><forename type="first">Xianming</forename><surname>Tan</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="institution">Cardinal Health, Express Scripts</orgName>
+								<address>
+									<addrLine>Becton Dickinson</addrLine>
+									<settlement>Baxter, Merck, Pfizer, Stryker, Procter &amp; Gamble, Walgreens</settlement>
+									<region>Novartis, Zimmer</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><roleName>ANP</roleName><forename type="first">Mary</forename><surname>Knowles</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="institution">Cardinal Health, Express Scripts</orgName>
+								<address>
+									<addrLine>Becton Dickinson</addrLine>
+									<settlement>Baxter, Merck, Pfizer, Stryker, Procter &amp; Gamble, Walgreens</settlement>
+									<region>Novartis, Zimmer</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><roleName>PhD</roleName><forename type="first">David</forename><surname>Fried</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="institution">Cardinal Health, Express Scripts</orgName>
+								<address>
+									<addrLine>Becton Dickinson</addrLine>
+									<settlement>Baxter, Merck, Pfizer, Stryker, Procter &amp; Gamble, Walgreens</settlement>
+									<region>Novartis, Zimmer</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><roleName>MPH</roleName><forename type="first">Neil</forename><surname>Hayes</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="institution">Cardinal Health, Express Scripts</orgName>
+								<address>
+									<addrLine>Becton Dickinson</addrLine>
+									<settlement>Baxter, Merck, Pfizer, Stryker, Procter &amp; Gamble, Walgreens</settlement>
+									<region>Novartis, Zimmer</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><roleName>MD</roleName><forename type="first">Jared</forename><surname>Weiss</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="institution">Cardinal Health, Express Scripts</orgName>
+								<address>
+									<addrLine>Becton Dickinson</addrLine>
+									<settlement>Baxter, Merck, Pfizer, Stryker, Procter &amp; Gamble, Walgreens</settlement>
+									<region>Novartis, Zimmer</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><roleName>MD</roleName><forename type="first">Juneko</forename><surname>Grilley-Olson</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="institution">Cardinal Health, Express Scripts</orgName>
+								<address>
+									<addrLine>Becton Dickinson</addrLine>
+									<settlement>Baxter, Merck, Pfizer, Stryker, Procter &amp; Gamble, Walgreens</settlement>
+									<region>Novartis, Zimmer</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><roleName>MD, PhD</roleName><forename type="first">Shetal</forename><surname>Patel</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="institution">Cardinal Health, Express Scripts</orgName>
+								<address>
+									<addrLine>Becton Dickinson</addrLine>
+									<settlement>Baxter, Merck, Pfizer, Stryker, Procter &amp; Gamble, Walgreens</settlement>
+									<region>Novartis, Zimmer</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><roleName>MD</roleName><forename type="first">Adam</forename><surname>Zanation</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="institution">Cardinal Health, Express Scripts</orgName>
+								<address>
+									<addrLine>Becton Dickinson</addrLine>
+									<settlement>Baxter, Merck, Pfizer, Stryker, Procter &amp; Gamble, Walgreens</settlement>
+									<region>Novartis, Zimmer</region>
+								</address>
+							</affiliation>
+							<affiliation key="aff0">
+								<orgName type="institution">Cardinal Health, Express Scripts</orgName>
+								<address>
+									<addrLine>Becton Dickinson</addrLine>
+									<settlement>Baxter, Merck, Pfizer, Stryker, Procter &amp; Gamble, Walgreens</settlement>
+									<region>Novartis, Zimmer</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><roleName>MD</roleName><forename type="first">Trevor</forename><surname>Hackman</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="institution">Cardinal Health, Express Scripts</orgName>
+								<address>
+									<addrLine>Becton Dickinson</addrLine>
+									<settlement>Baxter, Merck, Pfizer, Stryker, Procter &amp; Gamble, Walgreens</settlement>
+									<region>Novartis, Zimmer</region>
+								</address>
+							</affiliation>
+							<affiliation key="aff0">
+								<orgName type="institution">Cardinal Health, Express Scripts</orgName>
+								<address>
+									<addrLine>Becton Dickinson</addrLine>
+									<settlement>Baxter, Merck, Pfizer, Stryker, Procter &amp; Gamble, Walgreens</settlement>
+									<region>Novartis, Zimmer</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><roleName>MPH</roleName><forename type="first">Jose</forename><surname>Zevallos</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="institution">Cardinal Health, Express Scripts</orgName>
+								<address>
+									<addrLine>Becton Dickinson</addrLine>
+									<settlement>Baxter, Merck, Pfizer, Stryker, Procter &amp; Gamble, Walgreens</settlement>
+									<region>Novartis, Zimmer</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><roleName>MD</roleName><forename type="first">Jeffrey</forename><surname>Blumberg</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="institution">Cardinal Health, Express Scripts</orgName>
+								<address>
+									<addrLine>Becton Dickinson</addrLine>
+									<settlement>Baxter, Merck, Pfizer, Stryker, Procter &amp; Gamble, Walgreens</settlement>
+									<region>Novartis, Zimmer</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><roleName>MD</roleName><forename type="first">Samip</forename><surname>Patel</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="institution">Cardinal Health, Express Scripts</orgName>
+								<address>
+									<addrLine>Becton Dickinson</addrLine>
+									<settlement>Baxter, Merck, Pfizer, Stryker, Procter &amp; Gamble, Walgreens</settlement>
+									<region>Novartis, Zimmer</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><roleName>MD</roleName><forename type="first">Mohit</forename><surname>Kasibhatla</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="institution">Cardinal Health, Express Scripts</orgName>
+								<address>
+									<addrLine>Becton Dickinson</addrLine>
+									<settlement>Baxter, Merck, Pfizer, Stryker, Procter &amp; Gamble, Walgreens</settlement>
+									<region>Novartis, Zimmer</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><roleName>MD</roleName><forename type="first">Nathan</forename><surname>Sheets</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="institution">Cardinal Health, Express Scripts</orgName>
+								<address>
+									<addrLine>Becton Dickinson</addrLine>
+									<settlement>Baxter, Merck, Pfizer, Stryker, Procter &amp; Gamble, Walgreens</settlement>
+									<region>Novartis, Zimmer</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><roleName>MD</roleName><forename type="first">Mark</forename><surname>Weissler</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="institution">Cardinal Health, Express Scripts</orgName>
+								<address>
+									<addrLine>Becton Dickinson</addrLine>
+									<settlement>Baxter, Merck, Pfizer, Stryker, Procter &amp; Gamble, Walgreens</settlement>
+									<region>Novartis, Zimmer</region>
+								</address>
+							</affiliation>
+							<affiliation key="aff0">
+								<orgName type="institution">Cardinal Health, Express Scripts</orgName>
+								<address>
+									<addrLine>Becton Dickinson</addrLine>
+									<settlement>Baxter, Merck, Pfizer, Stryker, Procter &amp; Gamble, Walgreens</settlement>
+									<region>Novartis, Zimmer</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><roleName>MMHC</roleName><forename type="first">Wendell</forename><surname>Yarbrough</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="institution">Cardinal Health, Express Scripts</orgName>
+								<address>
+									<addrLine>Becton Dickinson</addrLine>
+									<settlement>Baxter, Merck, Pfizer, Stryker, Procter &amp; Gamble, Walgreens</settlement>
+									<region>Novartis, Zimmer</region>
+								</address>
+							</affiliation>
+							<affiliation key="aff0">
+								<orgName type="institution">Cardinal Health, Express Scripts</orgName>
+								<address>
+									<addrLine>Becton Dickinson</addrLine>
+									<settlement>Baxter, Merck, Pfizer, Stryker, Procter &amp; Gamble, Walgreens</settlement>
+									<region>Novartis, Zimmer</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><roleName>MD</roleName><forename type="first">William</forename><surname>Mendenhall</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="institution">Cardinal Health, Express Scripts</orgName>
+								<address>
+									<addrLine>Becton Dickinson</addrLine>
+									<settlement>Baxter, Merck, Pfizer, Stryker, Procter &amp; Gamble, Walgreens</settlement>
+									<region>Novartis, Zimmer</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><roleName>Medtronic</roleName><forename type="first">Johnson</forename><forename type="middle">&amp;</forename><surname>Johnson</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="institution">Cardinal Health, Express Scripts</orgName>
+								<address>
+									<addrLine>Becton Dickinson</addrLine>
+									<settlement>Baxter, Merck, Pfizer, Stryker, Procter &amp; Gamble, Walgreens</settlement>
+									<region>Novartis, Zimmer</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Allergan</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="institution">Cardinal Health, Express Scripts</orgName>
+								<address>
+									<addrLine>Becton Dickinson</addrLine>
+									<settlement>Baxter, Merck, Pfizer, Stryker, Procter &amp; Gamble, Walgreens</settlement>
+									<region>Novartis, Zimmer</region>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Phase II Trial of De-Intensified Chemoradiotherapy for Human Papillomavirus-Associated Oropharyngeal Squamous Cell Carcinoma</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<idno type="DOI">10.1200/JCO.19</idno>
+					<note type="submission">Accepted on July 19, 2019 and published at jco.org on August 14, 2019:</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.6.1" ident="GROBID" when="2020-10-09T18:38+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>Acclarent</term>
+					<term>Medtronic</term>
+					<term>Stryker</term>
+				</keywords>
+			</textClass>
+			<abstract>
+				<p>PURPOSE To report the results of a phase II clinical trial of de-intensified chemoradiotherapy for patients with human papillomavirus-associated oropharyngeal squamous cell carcinoma. MATERIALS AND METHODS Major inclusion criteria were (1) having American Joint Committee on Cancer (AJCC) 7th edition T0-T3, N0-N2c, M0 (AJCC 8th edition T0-T3, N0-N2, M0), (2) being p16 positive, and (3) reporting minimal or remote smoking history. Treatment was limited to 60 Gy intensity-modulated radiotherapy with concurrent intravenous cisplatin 30 mg/m 2 once per week. Patients with T0-T2 N0-1 (AJCC 7th edition) did not receive chemotherapy. All patients had a 10-to 12-week post-treatment positron emission tomography/ computed tomography to assess for neck dissection. The primary end point was 2-year progression-free survival. Secondary end points included 2-year local-regional control, distant metastasis-free survival and overall survival, and patient-reported outcomes (European Organisation for Research and Treatment of Cancer Quality of Life Questionnaire and the patient-reported outcomes version of the Common Terminology Criteria for Adverse Events). RESULTS One hundred fourteen patients were enrolled (median follow-up of 31.8 months), with 81% having a minimum follow-up of 2 years. Eighty percent of patients had 10 or fewer tobacco pack-years. Two-year localregional control, distant metastasis-free survival, progression-free survival, and overall survival were as follows: 95%, 91%, 86%, and 95%, respectively. Mean pre-and 2-year post-treatment European Organisation for Research and Treatment of Cancer quality of life scores were as follows: global, 79/84 (lower worse); swallowing, 8/9 (higher worse); and dry mouth, 14/45 (higher worse). Mean pre-and 2-year post-treatment patient-reported outcomes version of the Common Terminology Criteria for Adverse Events scores (0 to 4 scale, higher worse) were as follows: swallowing, 0.5/0.7, and dry mouth, 0.4/1.3. Thirty-four percent of patients required a feeding tube (median, 10.5 weeks; none permanent). There were no grade 3 or higher late adverse events. CONCLUSION Clinical outcomes with a de-intensified chemoradiotherapy regimen of 60 Gy intensity-modulated radiotherapy with concurrent low-dose cisplatin are favorable in patients with human papillomavirus-associated oropharyngeal squamous cell carcinoma. Neither neoadjuvant chemotherapy nor routine surgery is needed to obtain favorable results with de-escalation.</p>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>INTRODUCTION</head><p>Cancer control and survival are excellent in patients with human papillomavirus (HPV)-associated oropharyngeal squamous cell carcinoma (OPSCC), <ref type="bibr" target="#b0">1</ref> but standard chemoradiotherapy (CRT) regimens produce substantial toxicity. <ref type="bibr" target="#b1">2</ref> Over the past 10 years, there has been avid interest in evaluating less intensive treatment regimens with the goals of maintaining excellent cancer control and decreasing toxicity. Several different approaches to deintensify therapy have been or are being studied, with varying degrees of actual de-intensification. <ref type="bibr">[3]</ref><ref type="bibr" target="#b2">[4]</ref><ref type="bibr" target="#b3">[5]</ref><ref type="bibr" target="#b4">[6]</ref><ref type="bibr" target="#b5">[7]</ref><ref type="bibr" target="#b6">[8]</ref><ref type="bibr" target="#b7">[9]</ref> The most common approaches have been to (1) decrease the radiation dose while increasing the chemotherapy dose (ie, addition of neoadjuvant chemotherapy), (2) decrease the radiation dose by adding transoral surgery, or (3) substituting cetuximab for cisplatin. <ref type="bibr" target="#b2">4,</ref><ref type="bibr" target="#b6">8,</ref><ref type="bibr" target="#b8">[10]</ref><ref type="bibr" target="#b9">[11]</ref><ref type="bibr" target="#b10">[12]</ref> In 2011, we initiated a program of de-intensification with a reduction in radiation and chemotherapy dose without adding neoadjuvant chemotherapy or definitive surgery. Our de-intensified CRT regimen consisted of 60 Gy (2 Gy/fx, once per day) intensity-modulated radiotherapy (IMRT) with concurrent cisplatin 30 mg/m 2 (cumulative, 180 mg/m 2 ) once per week for 6 weeks. In our first phase II study, the primary end point was pathologic complete response (CR). <ref type="bibr" target="#b7">9</ref> All patients had a planned biopsy of the primary site and selective neck dissection. In 2011, the concept of de-intensification was so new that we designed our protocol with a pathologic end point so that we would know as quickly as possible if tumor control was being compromised. The results of the first phase II trial were as follows: a pathologic CR rate of 86% and 3-year progression-free survival (PFS) and overall survival (OS) rates of 100%. <ref type="bibr" target="#b7">9,</ref><ref type="bibr" target="#b11">13</ref> Patients reported favorable long-term quality of life (QOL), with swallowing function returning to baseline and continued improvement in xerostomia symptoms after 1 year. <ref type="bibr" target="#b7">9,</ref><ref type="bibr" target="#b11">13,</ref><ref type="bibr" target="#b12">14</ref> A major criticism and limitation of this trial was the possibility that the biopsy of the primary site and neck dissection was therapeutic (ie, patients were possibly receiving trimodality therapy). <ref type="bibr" target="#b13">15</ref> The next logical step was to conduct a second-generation study that did not mandate post-CRT biopsy and selective neck dissection. We conducted a second phase II study from 2014 to 2017 evaluating the same de-intensified CRT regimen but using the post-treatment (10 to 16 weeks) positron emission tomography (PET)/computed tomography (CT) assessment to guide the biopsy/surgical intervention. We herein report 2-year cancer control, survival, and patientreported outcomes.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>MATERIALS AND METHODS</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Study Design and Eligibility</head><p>This phase II study was registered with the National Cancer Institute and was approved by the institutional review boards at the participating centers. All patients provided written informed consent. Enrolling institutions included the University of North Carolina Hospitals (Chapel Hill, NC), University of Florida Hospitals (Gainesville, FL), Rex Hospital (Raleigh, NC), High Point Regional Cancer Center (High Point, NC), and Pardee Hospital (Hendersonville, NC).</p><p>Eligible patients had untreated, pathologically confirmed p16 positive squamous cell carcinoma of the oropharynx or from an unknown head and neck primary site; were 18 years of age or older; had American Joint Committee on Cancer (AJCC) 7th edition T0-T3, N0-N2c, M0 (AJCC 8th edition T0-T3, N0-N2, M0); reported 10 pack-years or less of smoking history or 30 pack-years or less and abstinence for the past 5 years; had an Eastern Cooperative Oncology Group performance status of 0 to 1; had adequate hematologic, renal, and liver function; and had no history of prior head and neck cancers. Human papilloma virus and p16 were analyzed per institutional standards by florescence in-situ hybridization or immune histochemistry; p16 positivity was defined as more than 70% of carcinoma cells showing nuclear reactivity.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Study Treatment</head><p>All patients had standard-of-care pretreatment evaluations and staging procedures, including (1) a complete history and physical examination (including fiber optic nasolaryngopharyngoscopy), (2) panendoscopy with directed biopsies and tonsillectomies if the primary was unknown,</p><p>(3) at least one diagnostic contrasted neck and chest CT, and (4) standard hematologic, liver, and renal blood studies. No patients had a definitive surgery (ie, transoral resection).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>De-Intensified CRT</head><p>All patients were treated with IMRT. The total dose to the high-risk regions was 60 Gy at 2 Gy per fraction, 30 fractions, 5 days a week, for 6 weeks. Fifty-four gray was delivered to anatomic regions at risk of subclinical disease as indicated (eg, ipsilateral levels 1B to 5, contralateral cervical levels 2 to 4, and retropharyngeal lymph node basins). Unilateral radiotherapy (RT) was permitted in patients with well-lateralized tonsil primaries.</p><p>Cisplatin 30 mg/m 2 once per week was the mandated firstchoice chemotherapy; however, alternative regimens once per week were permissible. Typical reasons for a patient not being able to receive cisplatin included renal insufficiency and history of hearing loss and/or tinnitus. The preferred second-, third-, and fourth-choice chemotherapies were (1) cetuximab 250 mg/m 2 , (2) carboplatin area under the curve 1.5 and paclitaxel 45 mg/m 2 , and (3) carboplatin area under the curve 3. Chemotherapy was given intravenously once per week, preferably on Mondays. Six weekly doses were given concurrently with radiation (ie once per week for 6 weeks). Dose modifications were allowed as needed per the treating medical oncologist's discretion. If a patient could not tolerate cisplatin for more than 1 week, he or she was switched to an alternative regimen. Chemotherapy was not given to patients with T0-2 N0-1 disease (AJCC 7th edition).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Post-CRT Assessment of Clinical Response</head><p>Clinical response to CRT was evaluated 10 to 16 weeks after CRT with a PET/CT and clinical examinations by the treating radiation oncologist and head and neck surgeon. Decisions for surgical intervention (ie, biopsy, neck dissection) were based on the PET/CT and clinical evaluations demonstrating suspicion of residual tumor.</p><p>Patients were observed clinically every 2 to 3 months for 2 years, then every 6 months for 3 additional years. Chest imaging was performed every 6 months for 2 years and then yearly.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Toxicity and QOL Assessments</head><p>Clinician assessments of toxicity (National Cancer Institute's Common Terminology Criteria for Adverse Events [CTCAE] version 4.03) and patient self-reported symptoms (patient-reported outcomes version of the CTCAE [PRO-CTCAE]) were collected before treatment, weekly during treatment, and during subsequent follow-up visits. <ref type="bibr">16,</ref><ref type="bibr" target="#b15">17</ref> Thirty head and neck-specific items were selected from the PRO-CTCAE. <ref type="bibr" target="#b16">18</ref> Patients also completed European Organisation for Research and Treatment of Cancer Quality of Life Questionnaire (EORTC QLQ) C30, EORTC QLQ H&amp;N35, and Eating Assessment Tool 10 questionnaires before treatment, weekly during treatment, and during subsequent follow-up visits. <ref type="bibr" target="#b17">[19]</ref><ref type="bibr" target="#b18">[20]</ref><ref type="bibr" target="#b19">[21]</ref> Modified barium swallow studies were performed before treatment, 6 to 8 weeks after treatment, and 6 months after treatment. The Rosenbek Penetration Aspiration Scale was used to quantify dysphagia. <ref type="bibr" target="#b20">22</ref> </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Study End Points and Statistical Analysis</head><p>The primary end point of this study was 2-year PFS. The reported PFS for patients with HPV-associated OPSCC treated with standard-intensity 70 Gy and cisplatin in RTOG 0129 was 74% (3 year) and in RTOG 1016 was 78% (5 year). 1 PFS was defined as the time from the beginning of treatment to cancer progression or death. Power calculations were based on the null hypothesis that the true 2-year PFS rate was 87%, with the alternative hypothesis being that the 2-year PFS rate was 0.80 (or less). For a planned total sample size of 90, the null hypothesis would have been rejected if 18 or more patients had a tumor recurrence or death, with a type 1 error of less than 0.05. A pathologically positive lymph node that was found on a neck dissection that was performed because of the results of the 3-month post-treatment PET/CT was not classified as a regional failure. This neck dissection was prespecified in the protocol design, outside of the trial is standard of care, and was considered a planned part of the treatment. Kaplan Meier estimates of local control, regional control, local-regional control (LRC), distant metastasis-free survival (DMFS), PFS, causespecific survival, and OS were calculated.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>RESULTS</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Patient Characteristics and Compliance With Study Treatment</head><p>One hundred fourteen patients were enrolled between August 22, 2014, and October 6, 2017, because of a higher than expected accrual rate. The median follow-up of all 114 patients was 31.8 months (range, 1.1 to 51.4 months), and 92 patients (81%) had a minimum of 2 years of follow-up. We herein present the analysis for all 114 patients <ref type="table" target="#tab_0">(Table 1)</ref>. Twenty-seven out of 114 patients (24%) had tonsillectomies as part of their pretreatment work-up. All patients received the intended radiation dose of 60 Gy. The mean radiation doses delivered to relevant organs at risk were as follows: 22 Gy (range, 5 to 45 Gy) to the contralateral parotid (n = 114 patients); 41 Gy (20 to 60 Gy) to the ipsilateral parotid (n = 114); 34 Gy (19 to 52 Gy) to the larynx (n = 114); 39 Gy (30 to 52 Gy) to the oral cavity (n = 90); and 51 Gy (34 to 58 Gy) to the pharyngeal constrictors (n = 97). Eighty-nine of the 114 patients (78%) received chemotherapy. Sixty-four percent (57 of 89) received all six doses of cisplatin, and 80% (71 of 89) received four or more weekly doses of cisplatin. Ten (11%) of the 89 patients received cetuximab upfront starting cycle 1 because of contraindications to cisplatin. One patient died during treatment secondary to neutropenic sepsis.   </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Cancer Control Outcomes</head><p>The post-treatment PET/CT CR rate was 93% at the primary site and 80% in the neck. Eleven patients had a neck dissection, with four having pathologic residual disease (all four are alive with no evidence of disease). Eight patients did not have a CR at the primary site: six were observed with no local recurrence and two had biopsy, with one having local persistence and who died. A total of 15 (fewer than 18) patients (out of 114 accrued patients, 92 with at least 2 years of follow-up) had disease recurrence or died, and we thus do not reject the null hypothesis that 2-year PFS is not less than 87%. There were four local failures, two regional failures, and nine distant failures.  <ref type="figure" target="#fig_1">Fig 1.</ref> We examined the association between time to disease recurrence and four relevant factors: T stage (AJCC 7th edition), N stage (AJCC 7th edition), tobacco packyears, and receipt of cetuximab, using both the logrank test and Cox proportional hazard regression. None of these factors showed statistical significance (minimal P value was .18), probably because of the small number of events.  Clinician-Reported Toxicity <ref type="table" target="#tab_5">Table 3</ref> lists the incidence of all acute grade 3 or higher clinician-reported toxicities (CTCAE version 4.0). Thirty-four percent of patients (38 of 113) required a feeding tube for a median duration of 10.5 weeks (range, 3 to 66 weeks), and none were permanent (1-year feeding tube dependence rate of 1%  <ref type="figure" target="#fig_1">1, 1.1, 1.</ref>3), and solid substances (1.0, 1.1, 1.0). There were no grade 3 or higher late adverse events.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Patient-Reported Outcomes</head><p>Pertinent patient-reported acute nonhematologic toxicity is listed in <ref type="table" target="#tab_5">Table 3</ref>. Complete EORTC QLQ C30 and EORTC QLQ H&amp;N-35 and Eating Assessment Tool 10 results are listed in Appendix <ref type="table" target="#tab_0">Table A1</ref> (online only). Selected domains and symptoms from these QLQs are shown in <ref type="figure">Fig 2.</ref> As expected, we observed declines in global QOL and an increase in symptom scores soon after the completion of treatment. All QOL items, domains, and symptom scores had returned to baseline by 6 months, with the exception of dry mouth and sticky saliva. There was continued improvement in these symptoms beyond 1 year. Notably, patients reported that their swallowing function returned to baseline.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>DISCUSSION</head><p>In this second-generation phase II evaluation of a deintensified CRT regimen of 60 Gy of IMRT and weekly low-dose cisplatin (30 mg/m 2 ), the clinical outcomes were favorable, with an observed 2-year and 3-year PFS of 86% and 85%, respectively, and an OS of 95%. These results compare favorably to the 70 Gy plus cisplatin arm in RTOG 1016 (5-year PFS of 78% and OS of 85%). A second prospective evaluation of 60 Gy plus weekly cisplatin was necessary to verify that a mandated biopsy and selective neck dissection could be safely omitted.</p><p>Patients reported favorable long-term QOL and low to moderate symptom burden <ref type="figure">(Fig 2 and</ref> Appendix <ref type="table" target="#tab_0">Table A1</ref>).</p><p>Patient-reported data should be interpreted with caution because patients may modify their conception of QOL and this may introduce measurement error (ie, response shift). <ref type="bibr" target="#b21">23</ref> This bias is not unique to this study; it is applicable to all patient-reported data. <ref type="bibr" target="#b22">24</ref> Global QOL returned to baseline <ref type="figure">(Fig 2A)</ref>, and long-term swallowing function was favorable, with patients reporting minimal to no worsening of their swallowing function over the long term <ref type="figure">(Figs 2A and 2B</ref>).</p><p>The greatest symptom burden was dry mouth, which patients reported to be most symptomatic at 6 to 8 weeks after de-intensified CRT. It continued to improve even after 1 year, although it never returned to baseline. This additional recovery of function after 1 year is longer than that observed after standard-intensity CRT, <ref type="bibr" target="#b23">25</ref> suggesting that in the long run, the symptomatic burden and bother of dry mouth will be less with de-intensified CRT.</p><p>Two phase II trials evaluating paclitaxel-based neoadjuvant chemotherapy followed by de-intensified CRT have been published. <ref type="bibr" target="#b6">8,</ref><ref type="bibr" target="#b8">10</ref> In both studies, the response to neoadjuvant chemotherapy was used to decide whether to de-intensify the RT dose. In the Eastern Cooperative Oncology Group trial 1308, 70% of patients had a CR at the primary site and 58% had a CR at the nodal sites. <ref type="bibr" target="#b8">10</ref> Patients received deintensified CRT (54 Gy plus cetuximab) to either the primary and/or the nodal sites if there was a CR after neoadjuvant chemotherapy. There were several protocol deviations (18 patients) concerning receipt of deintensified RT, and ultimately, 78% of patients received de-intensified CRT to the primary site. The 2-year PFS was 80%, and all treatment failures occurred in patients who reported more than 10 pack-years. Patients who received 54 Gy compared with those who received 70 Gy reported less difficulty with swallowing solids and less impaired nutrition at 12 months. A single institutional trial conducted by Chen et al <ref type="bibr" target="#b6">8</ref> at the University of California Davis similarly evaluated neoadjuvant chemotherapy followed by response-based RT de-escalation. Fifty-five percent of patients had a CR and received 54 Gy, and the remaining 45% received 60 Gy. The 2-year PFS was 92%. Only 14% required a feeding tube during treatment, and there were no patient-reported outcomes.</p><p>In comparison, we evaluated a de-intensified CRT approach that included neither transoral surgery nor neoadjuvant chemotherapy, and all patients received 60 Gy with or without chemotherapy. The data reported herein support the approach of de-intensified CRT without the need of neoadjuvant chemotherapy. Future studies of the neoadjuvant chemotherapy and transoral surgery approach should attempt a more radical reduction in RT dose to further reduce toxicity and improve QOL.</p><p>Two randomized phase III trials (RTOG 1016 and De-ESCALaTE) have evaluated the substitution of cetuximab for cisplatin concurrently with 70 Gy. <ref type="bibr" target="#b9">11,</ref><ref type="bibr" target="#b10">12</ref> The hypothesis was that cetuximab would result in less acute and long-term toxicity and morbidity and similar disease control. The control arm in both studies was 70 Gy with concurrent cisplatin 100 mg/m 2 (two cycles in RTOG 1016 and three cycles in Determination of Epidermal growth factor receptor-inhibitor (cetuximab) versus Standard Chemotherapy (cisplatin) early And Late Toxicity Events [De-ESCALaTE]). Both studies observed significantly inferior OS and PFS and no reduction in acute or late toxicities in the cetuximab experimental arms.</p><p>The overall occurrence of late grade 3 to 4 toxicity for both randomized trials was approximately 17% to 30%. Sixty to seventy percent of patients required a feeding tube, and the 1-year feeding tube dependence rate in RTOG 1016 was approximately 9%. In contrast, in the current study, no patient experienced late grade 3 or higher toxicity, 39%  required a feeding tube, and the 1-year feeding tube dependence rate was 1% (none were permanent). Limited QOL data were reported in RTOG 1016 and De-ESCALaTE.</p><p>These randomized trials validate cisplatin as the standardof-care concurrent chemotherapy regimen for patients with HPV-associated OPSCC. In the current study, the 10 Gy reduction in RT resulted in preservation of swallowing function and continued improvement in dry mouth symptoms beyond 1 year after treatment <ref type="figure">(Fig 2 and</ref> Appendix <ref type="table" target="#tab_0">Table A1</ref>). The dose-response of normal tissue toxicity rises steeply in the high dose range (50 to 70 Gy), so that modest decreases in total dose (as used in this study) can have a major impact on long-term toxicity. <ref type="bibr" target="#b24">26</ref> The interpretation of these two randomized trials with the data from our study suggests that radiation dose is the main determinate of long-term toxicity.</p><p>The results from the NRG oncology cooperative group HN002 phase II randomized trial of 60 Gy alone accelerated versus 60 Gy with concurrent weekly cisplatin 40 mg/m 2 are pending. <ref type="bibr">27</ref> It is hoped that this trial will report cancer control and QOL outcomes similar to that which we have observed in this trial and also answer the question of whether the addition of cisplatin to de-intensified 60 Gy RT is necessary. In addition, a randomized NRG phase III trial (HN005) of 60 Gy versus 70 Gy will soon be open for accrual (summer 2019).</p><p>Our trial was a single-arm phase II study in carefully selected patients with HPV-associated OPSCC. We did not perform a randomized study to make a direct comparison with standard-intensity therapy, but our results are encouraging. Although our toxicity analysis is robust, with extensive physician-and patient-reported data, we do not have a formal comparison group to prove decreased toxicity. Patients who reported more than 10 pack-years were eligible (limited to those with 30 pack-years or less with 5 years of abstinence), and although some would argue that these patients should not be offered de-intensification, we did not observe a correlation between tobacco pack-years and cancer recurrence. The median follow-up was just short of 3 years. Although most recurrence occurred within the first 2 years after treatment, late distant recurrences (beyond 2 to 3 years) can occur. Thus, our estimation of DMFS and PFS may decline with longer follow-up.</p><p>In conclusion, the cancer control and patient-reported outcomes are favorable with a de-intensified CRT regimen of 60 Gy IMRT with concurrent weekly low-dose cisplatin (30 mg/m 2 ) for patients with HPV-associated OPSCC. Neither neoadjuvant chemotherapy nor surgery is needed to obtain favorable results with de-escalation. Additional efforts are warranted to evaluate novel biomarkers to better optimize the selection of patients for deintensification.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head></head><label></label><figDesc>, American Joint Committee on Cancer; CRT, chemoradiotherapy; ed, edition; immuno, immunotherapy; IORT, intraoperative radiotherapy; PET, positron emission tomography; py, pack-years; RT, radiotherapy. *T stage was the same for AJCC 7th and 8th edition.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head>FIG 1 .</head><label>1</label><figDesc>Kaplan-Meier curves for (A) local-regional control (LRC), (B) distant metastasis-free survival (DMFS), (C) progression-free survival (PFS), and (D) overall survival (OS</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>TABLE 1 .</head><label>1</label><figDesc>Patient Characteristics (N = 114)</figDesc><table><row><cell>Characteristic</cell><cell>Patients</cell></row><row><cell>Age, years, mean (range)</cell><cell>(37-87)</cell></row><row><cell>Sex</cell><cell></cell></row><row><cell>Male</cell><cell>(84)</cell></row><row><cell>Female</cell><cell>(16)</cell></row><row><cell>Ethnicity</cell><cell></cell></row><row><cell>African American</cell><cell>(6)</cell></row><row><cell>White</cell><cell>(91)</cell></row><row><cell>Other</cell><cell>(1)</cell></row><row><cell>Unknown</cell><cell>(2)</cell></row><row><cell>Marital status</cell><cell></cell></row><row><cell>Married</cell><cell>(79)</cell></row><row><cell>Unmarried</cell><cell>(20)</cell></row><row><cell>Unknown</cell><cell>(1)</cell></row><row><cell>Tobacco use</cell><cell></cell></row><row><cell>Never smoked</cell><cell>(47)</cell></row><row><cell># 10 pack-years</cell><cell>(33)</cell></row><row><cell>. 10 pack-years</cell><cell>(19)</cell></row><row><cell>Primary tumor location</cell><cell></cell></row><row><cell>Tonsil</cell><cell>(46)</cell></row><row><cell>Base of tongue</cell><cell>(50)</cell></row><row><cell>Unknown primary</cell><cell>(4)</cell></row><row><cell>T stage*</cell><cell></cell></row><row><cell>T0</cell><cell>(4)</cell></row><row><cell>T1</cell><cell>(31)</cell></row><row><cell>T2</cell><cell>(54)</cell></row><row><cell>T3</cell><cell>(11)</cell></row><row><cell>N stage (AJCC 7th edition)</cell><cell></cell></row><row><cell>N0</cell><cell>(16)</cell></row><row><cell>N1</cell><cell>(14)</cell></row><row><cell>N2a</cell><cell>(4)</cell></row><row><cell>N2b</cell><cell>(50)</cell></row><row><cell>N2c</cell><cell>(16)</cell></row><row><cell>N stage (AJCC 8th edition)</cell><cell></cell></row><row><cell>N0</cell><cell>(16)</cell></row><row><cell>N1</cell><cell>(68)</cell></row><row><cell>N2</cell><cell>(16)</cell></row><row><cell>HPV/p16 status</cell><cell></cell></row><row><cell>HPV+/p16+</cell><cell>(40)</cell></row><row><cell>HPV2/p16+</cell><cell>(11)</cell></row><row><cell>HPV unknown/p16+</cell><cell>(49)</cell></row><row><cell cols="2">NOTE. Data are presented as No. (%) unless indicated otherwise.</cell></row><row><cell cols="2">Abbreviations: AJCC, American Joint Committee on Cancer; HPV,</cell></row><row><cell>human papillomavirus.</cell><cell></cell></row></table><note>*T stage was the same for AJCC 7th and 8th editions.</note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_1"><head>TABLE 2 .</head><label>2</label><figDesc>Clinical Characteristics of Patients With Recurrence</figDesc><table><row><cell>Clinical</cell><cell>Status</cell></row><row><cell></cell><cell>Salvage Treatment</cell></row><row><cell>Months to</cell><cell>Recurrence</cell></row><row><cell>Recurrence</cell><cell>Location</cell></row><row><cell>Chemotherapy</cell><cell>(No. of cycles)</cell></row><row><cell>Tumor Genomics</cell><cell>(mutations)</cell></row><row><cell>Tobacco</cell><cell>Use (py)</cell></row><row><cell>N Stage</cell><cell>(AJCC 8th ed)</cell></row><row><cell>N Stage</cell><cell>(AJCC 7th ed)</cell></row><row><cell>Patient</cell><cell>Age (years) T Stage*</cell></row></table><note></note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_2"><head>Table 2</head><label>2</label><figDesc></figDesc><table><row><cell>98.5%), 99% (95% CI, 93.1% to 99.9%), 95% (95% CI,</cell></row><row><cell>88.6% to 97.9%), 91% (95% CI, 83.9% to 95.4%), 86%</cell></row><row><cell>(95% CI, 77.5% to 91.3%), 97% (95% CI, 91.3% to</cell></row><row><cell>99.1%), and 95% (95% CI, 89.3% to 98.1%), re-</cell></row><row><cell>spectively. Three-year LRC, DMFS, PFS, and OS were as</cell></row><row><cell>follows: 94% (95% CI, 96.5% to 97.2%), 91% (95% CI,</cell></row><row><cell>83.4% to 95.4%), 85% (95% CI, 76.0% to 90.3%), and</cell></row><row><cell>95% (95% CI, 89.3% to 98.1%), respectively. Actuarial</cell></row><row><cell>LRC, DMFS, PFS, and OS are shown in</cell></row><row><cell>9% to</cell></row></table><note>lists the clinical characteristics of the patients who developed failure. Two-year local control, regional control, LRC, DMFS, PFS, cause-specific sur- vival, and OS were as follows: 96% (95% CI, 89.</note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_3"><head></head><label></label><figDesc>). Two-year LRC, DMFS, PFS, and OS were 95% (95% CI, 88.6% to 97.9%), 91% (95% CI, 83.9% to 95.4%), 86% (95% CI, 77.5% to 91.3%), and 95% (95% CI, 89.3% to 98.1%), respectively. Three-year LRC, DMFS, PFS, and OS were 94% (95% CI, 96.5% to 97.2%), 91% (95% CI, 83.4% to 95.4%), 85% (95% CI, 76.0% to 90.3%), and 95% (95% CI, 89.3% to 98.1%), respectively.</figDesc><table /><note></note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_5"><head>TABLE 3 .</head><label>3</label><figDesc>Clinician-and Patient-Reported Acute Toxicity</figDesc><table><row><cell></cell><cell>CTCAE Version 4.0 Grade</cell><cell>PRO-CTCAE Severe or</cell></row><row><cell>Toxicity</cell><cell>3 or Higher (%)</cell><cell>Very Severe (%)</cell></row><row><cell>Hematologic</cell><cell></cell><cell></cell></row><row><cell>Anemia</cell><cell>1</cell><cell>N/A</cell></row><row><cell>Neutropenia</cell><cell>2</cell><cell>N/A</cell></row><row><cell>Renal</cell><cell></cell><cell></cell></row><row><cell>Acute kidney injury</cell><cell>1</cell><cell>N/A</cell></row><row><cell>Nonhematologic</cell><cell></cell><cell></cell></row><row><cell>Xerostomia</cell><cell>2</cell><cell>60</cell></row><row><cell>Dysphagia</cell><cell>21</cell><cell>50</cell></row><row><cell>Mucositis (oral and/or</cell><cell>33</cell><cell>37</cell></row><row><cell>pharyngeal)</cell><cell></cell><cell></cell></row><row><cell>Nausea</cell><cell>8</cell><cell>22</cell></row><row><cell>Vomiting</cell><cell>2</cell><cell>14</cell></row><row><cell>Dermatitis radiation</cell><cell>2</cell><cell>30</cell></row><row><cell>Pain</cell><cell>12</cell><cell>45</cell></row><row><cell>Hoarseness</cell><cell>0</cell><cell>21</cell></row><row><cell>Fatigue</cell><cell>3</cell><cell>39</cell></row><row><cell>Anxiety</cell><cell>3</cell><cell>11</cell></row><row><cell>Depression</cell><cell>0</cell><cell>10</cell></row><row><cell>Appetite</cell><cell>25</cell><cell>59</cell></row><row><cell>Tinnitus</cell><cell>0</cell><cell>17</cell></row><row><cell cols="3">NOTE. There were no clinician-reported grade 3 or higher late toxicities.</cell></row><row><cell cols="3">Abbreviations: CTCAE, Common Terminology Criteria for Adverse Events; N/A,</cell></row><row><cell cols="3">not applicable; PRO-CTCAE, patient-reported outcomes version of the CTCAE.</cell></row></table><note></note></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot">Long-Term Outcomes of De-Intensified Chemoradiotherapy</note>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div xmlns="http://www.tei-c.org/ns/1.0" />
+			</div>
+
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>AFFILIATIONS</head><p>1 University of North Carolina School of Medicine, Chapel Hill, NC <ref type="bibr" target="#b1">2</ref> University of North Carolina Hospitals, Chapel Hill, NC 3 University of Florida Hospitals, Gainesville, FL <ref type="bibr" target="#b2">4</ref> University of Tennessee Health Science Center, Memphis, TN <ref type="bibr" target="#b3">5</ref> Washington University School of Medicine, St Louis, MO <ref type="bibr" target="#b4">6</ref> Rockingham/UNC Cancer Center, Eden, NC <ref type="bibr" target="#b5">7</ref> Rex/UNC Cancer Center, Raleigh, NC</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>CORRESPONDING AUTHOR</head><p>Bhishamjit S. Chera, MD, Department of Radiation Oncology, University of North Carolina Hospitals, 101 Manning Dr, CB 7512, Chapel Hill, NC 27599-7512; Twitter: @BhishamCheraMD, @UNC_Lineberger; e-mail: bchera@med.unc.edu.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>SUPPORT</head><p>Supported by the University of North Carolina School of Medicine, Department of Radiation Oncology, and by the University of Florida School of Medicine, Department of Radiation Oncology.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>AUTHORS' DISCLOSURES OF POTENTIAL CONFLICTS OF INTEREST AND DATA AVAILABILITY STATEMENT</head><p>Disclosures provided by the authors and data availability statement (if applicable) are available with this article at DOI https://doi.org/10.1200/ JCO. <ref type="bibr" target="#b17">19</ref>  Dysphagia, severity 0.5 (0.4-0.7) 1.1 (0.9-1.3) 1.3 (1.1-1.6) 0.9 (0.7-1.0) 0.7 (0.5-0.9)</p><p>Mucositis, oral and/or pharyngeal, severity 0. </p></div>			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Human papillomavirus and survival of patients with oropharyngeal cancer</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><forename type="middle">K</forename><surname>Ang</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Harris</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><surname>Wheeler</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">N Engl J Med</title>
+		<imprint>
+			<biblScope unit="volume">363</biblScope>
+			<biblScope unit="page" from="24" to="35" />
+			<date type="published" when="2010" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Factors associated with severe late toxicity after concurrent chemoradiation for locally advanced head and neck cancer: An RTOG analysis</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Machtay</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Moughan</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Trotti</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Clin Oncol</title>
+		<imprint>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="page" from="3582" to="3589" />
+			<date type="published" when="2008" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<monogr>
+		<title level="m" type="main">E3311 -Phase II randomized trial of transoral surgical resection followed by low-dose or standard-dose IMRT in resectable p16+ locally advanced oropharynx cancer</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Ecog-Acrin</surname></persName>
+		</author>
+		<ptr target="http://ecog-acrin.org/clinical-trials/e3311-educational-materials" />
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">E1308: Reduced-dose IMRT in human papilloma virus (HPV)-associated resectable oropharyngeal squamous carcinomas (OPSCC) after clinical complete response (cCR) to induction chemotherapy (IC)</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Cmelak</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Li</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Marur</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Clin Oncol</title>
+		<imprint>
+			<date type="published" when="2017-01-31" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Intensity modulated proton therapy versus intensity modulated photon radiation therapy for oropharyngeal cancer: First comparative results of patient-reported outcomes</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><forename type="middle">T</forename><surname>Sio</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><forename type="middle">K</forename><surname>Lin</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Q</forename><surname>Shi</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Int J Radiat Oncol Biol Phys</title>
+		<imprint>
+			<biblScope unit="volume">95</biblScope>
+			<biblScope unit="page" from="1107" to="1114" />
+			<date type="published" when="2016" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Protons for oropharyngeal cancer have not yet justified their promise</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">J</forename><surname>Beitler</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">B</forename><forename type="middle">S</forename><surname>Chera</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Int J Radiat Oncol Biol Phys</title>
+		<imprint>
+			<biblScope unit="volume">95</biblScope>
+			<biblScope unit="page" from="1115" to="1116" />
+			<date type="published" when="2016" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Reduced-dose radiotherapy for human papillomavirus-associated squamous-cell carcinoma of the oropharynx: A single-arm, phase 2 study</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><forename type="middle">M</forename><surname>Chen</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><surname>Felix</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><forename type="middle">C</forename><surname>Wang</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Lancet Oncol</title>
+		<imprint>
+			<biblScope unit="volume">18</biblScope>
+			<biblScope unit="page" from="803" to="811" />
+			<date type="published" when="2017" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Phase 2 trial of de-intensified chemoradiation therapy for favorable-risk human papillomavirus-associated oropharyngeal squamous cell carcinoma</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">B</forename><forename type="middle">S</forename><surname>Chera</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><forename type="middle">J</forename><surname>Amdur</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Tepper</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Int J Radiat Oncol Biol Phys</title>
+		<imprint>
+			<biblScope unit="volume">93</biblScope>
+			<biblScope unit="page" from="976" to="985" />
+			<date type="published" when="2015" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">E1308: Phase II trial of induction chemotherapy followed by reduced-dose radiation and weekly cetuximab in patients with HPVassociated resectable squamous cell carcinoma of the oropharynx-ECOG-ACRIN Cancer Research Group</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Marur</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Li</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><forename type="middle">J</forename><surname>Cmelak</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Clin Oncol</title>
+		<imprint>
+			<biblScope unit="volume">35</biblScope>
+			<biblScope unit="page" from="490" to="497" />
+			<date type="published" when="2017" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Radiotherapy plus cetuximab or cisplatin in human papillomavirus-positive oropharyngeal cancer (NRG Oncology RTOG 1016): A randomised, multicentre, non-inferiority trial</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">L</forename><surname>Gillison</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><forename type="middle">M</forename><surname>Trotti</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Harris</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Lancet</title>
+		<imprint>
+			<biblScope unit="volume">393</biblScope>
+			<biblScope unit="page" from="40" to="50" />
+			<date type="published" when="2019" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Radiotherapy plus cisplatin or cetuximab in low-risk human papillomavirus-positive oropharyngeal cancer (De-ESCALaTE HPV): An open-label randomised controlled phase 3 trial</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><surname>Mehanna</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Robinson</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Hartley</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Lancet</title>
+		<imprint>
+			<biblScope unit="volume">393</biblScope>
+			<biblScope unit="page" from="51" to="60" />
+			<date type="published" when="2019" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Mature results of a prospective study of deintensified chemoradiotherapy for low-risk human papillomavirus-associated oropharyngeal squamous cell carcinoma</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">B</forename><forename type="middle">S</forename><surname>Chera</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><forename type="middle">J</forename><surname>Amdur</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">E</forename><surname>Tepper</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Cancer</title>
+		<imprint>
+			<biblScope unit="volume">124</biblScope>
+			<biblScope unit="page" from="2347" to="2354" />
+			<date type="published" when="2018" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Quality of life for patients with favorable-risk HPV-associated oropharyngeal cancer after de-intensified chemoradiotherapy</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><forename type="middle">A</forename><surname>Pearlstein</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><surname>Wang</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><forename type="middle">J</forename><surname>Amdur</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Int J Radiat Oncol Biol Phys</title>
+		<imprint>
+			<biblScope unit="volume">103</biblScope>
+			<biblScope unit="page" from="646" to="653" />
+			<date type="published" when="2019" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Dose de-escalation in human papillomavirus-associated oropharyngeal cancer: First tracks on powder</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><forename type="middle">S</forename><surname>Yom</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">L</forename><surname>Gillison</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><forename type="middle">M</forename><surname>Trotti</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Int J Radiat Oncol Biol Phys</title>
+		<imprint>
+			<biblScope unit="volume">93</biblScope>
+			<biblScope unit="page" from="986" to="988" />
+			<date type="published" when="2015" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<monogr>
+		<title level="m" type="main">National Cancer Institute: Common Terminology Criteria for Adverse Events (CTCAE)</title>
+		<ptr target="http://ctep.cancer.gov/protocolDevelopment/electronic_applications/ctc.htm#ctc_40" />
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<monogr>
+		<title level="m" type="main">National Cancer Institute: Patient-Reported Outcomes Version of the Common Terminology Criteria for Adverse Events</title>
+		<ptr target="http://appliedresearch.cancer.gov/pro-ctcae/" />
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Recommended patient-reported core set of symptoms to measure in head and neck cancer treatment trials</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">B</forename><forename type="middle">S</forename><surname>Chera</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Eisbruch</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">B</forename><forename type="middle">A</forename><surname>Murphy</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Natl Cancer Inst</title>
+		<imprint>
+			<biblScope unit="volume">106</biblScope>
+			<biblScope unit="page">127</biblScope>
+			<date type="published" when="2014" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">The European Organization for Research and Treatment of Cancer QLQ-C30: A quality-of-life instrument for use in international clinical trials in oncology</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">N</forename><forename type="middle">K</forename><surname>Aaronson</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Ahmedzai</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">B</forename><surname>Bergman</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Natl Cancer Inst</title>
+		<imprint>
+			<biblScope unit="volume">85</biblScope>
+			<biblScope unit="page" from="365" to="376" />
+			<date type="published" when="1993" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">Quality of life in head and neck cancer patients: Validation of the European Organization for Research and Treatment of Cancer Quality of Life Questionnaire-H&amp;N35</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><surname>Bjordal</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><surname>Hammerlid</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Ahlner-Elmqvist</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Clin Oncol</title>
+		<imprint>
+			<biblScope unit="volume">17</biblScope>
+			<biblScope unit="page" from="1008" to="1019" />
+			<date type="published" when="1999" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">Validity and reliability of the Eating Assessment Tool (EAT-10)</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><forename type="middle">C</forename><surname>Belafsky</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><forename type="middle">A</forename><surname>Mouadeb</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><forename type="middle">J</forename><surname>Rees</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ann Otol Rhinol Laryngol</title>
+		<imprint>
+			<biblScope unit="volume">117</biblScope>
+			<biblScope unit="page" from="919" to="924" />
+			<date type="published" when="2008" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">A penetration-aspiration scale</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">C</forename><surname>Rosenbek</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">A</forename><surname>Robbins</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><forename type="middle">B</forename><surname>Roecker</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Dysphagia</title>
+		<imprint>
+			<biblScope unit="volume">11</biblScope>
+			<biblScope unit="page" from="93" to="98" />
+			<date type="published" when="1996" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">Survivorship and quality of life in head and neck cancer</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Ringash</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Clin Oncol</title>
+		<imprint>
+			<biblScope unit="volume">33</biblScope>
+			<biblScope unit="page" from="3322" to="3327" />
+			<date type="published" when="2015" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">Misuse of quality of life evaluation in oncology studies: Reification, adaptation, and the U-shaped curve</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><forename type="middle">J</forename><surname>Amdur</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">B</forename><forename type="middle">S</forename><surname>Chera</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Pract Radiat Oncol</title>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="page" from="191" to="192" />
+			<date type="published" when="2019" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title level="a" type="main">Parotid-sparing intensity modulated versus conventional radiotherapy in head and neck cancer (PARSPORT): A phase 3 multicentre randomised controlled trial</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><forename type="middle">M</forename><surname>Nutting</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">P</forename><surname>Morden</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><forename type="middle">J</forename><surname>Harrington</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Lancet Oncol</title>
+		<imprint>
+			<biblScope unit="volume">12</biblScope>
+			<biblScope unit="page" from="127" to="136" />
+			<date type="published" when="2011" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title level="a" type="main">Evaluation of the dose for postoperative radiation therapy of head and neck cancer: First report of a prospective randomized trial</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">L</forename><forename type="middle">J</forename><surname>Peters</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><surname>Goepfert</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><forename type="middle">K</forename><surname>Ang</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Int J Radiat Oncol Biol Phys</title>
+		<imprint>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="page" from="3" to="11" />
+			<date type="published" when="1993" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<monogr>
+		<title level="m" type="main">A randomized phase II trial for patients with p16 positive, non-smoking associated, locoregionally advanced oropharyngeal cancer</title>
+		<idno>27. NRG Oncology: NRG-HN002</idno>
+		<ptr target="https://clinicaltrials.gov/ct2/show/NCT02254278" />
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title/>
+		<idno>13-20) 17 (13-21</idno>
+	</analytic>
+	<monogr>
+		<title level="j">EORTC QLQ H&amp;N35 Pain</title>
+		<imprint>
+			<biblScope unit="volume">20</biblScope>
+			<biblScope unit="page" from="4" to="10" />
+		</imprint>
+		<respStmt>
+			<orgName>Oncology Long-Term Outcomes of De-Intensified Chemoradiotherapy</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

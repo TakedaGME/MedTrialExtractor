@@ -1,0 +1,1189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /data/rsg/nlp/juanmoo1/bin/grobid-0.6.1/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Randomised phase II trial of mFOLFOX6 plus bevacizumab versus mFOLFOX6 plus cetuximab as first-line treatment for colorectal liver metastasis (ATOM trial)</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+				<date type="published" when="2019-07-09">9 July 2019</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author role="corresp">
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Eiji</forename><surname>Oki</surname></persName>
+							<email>okieiji@surg2.med.kyushu-u.ac.jp</email>
+							<idno type="ORCID">0000-0002-9763-9366</idno>
+							<affiliation key="aff0">
+								<orgName type="department" key="dep1">Department of Surgery and Science</orgName>
+								<orgName type="department" key="dep2">Graduate School of Medical Sciences</orgName>
+								<orgName type="institution">Kyushu University</orgName>
+								<address>
+									<settlement>Fukuoka</settlement>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Yasunori</forename><surname>Emi</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="department">Department of Surgery</orgName>
+								<orgName type="institution">Saiseikai Fukuoka General Hospital</orgName>
+								<address>
+									<settlement>Fukuoka</settlement>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Takeharu</forename><surname>Yamanaka</surname></persName>
+							<affiliation key="aff2">
+								<orgName type="department">Department of Biostatistics</orgName>
+								<orgName type="institution">Yokohama City University</orgName>
+								<address>
+									<settlement>Yokohama</settlement>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Hiroyuki</forename><surname>Uetake</surname></persName>
+							<affiliation key="aff3">
+								<orgName type="department">Department of Surgical Oncology and Gastroenterology</orgName>
+								<orgName type="institution">Tokyo Medical and Dental University</orgName>
+								<address>
+									<settlement>Tokyo</settlement>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Kei</forename><surname>Muro</surname></persName>
+							<affiliation key="aff4">
+								<orgName type="department">Department of Clinical Oncology</orgName>
+								<orgName type="institution">Aichi Cancer Center Hospital</orgName>
+								<address>
+									<settlement>Nagoya</settlement>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Takao</forename><surname>Takahashi</surname></persName>
+							<affiliation key="aff5">
+								<orgName type="department">Department of Surgical Oncology</orgName>
+								<orgName type="institution">Gifu University Graduate School of Medicine</orgName>
+								<address>
+									<settlement>Gifu</settlement>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Takeshi</forename><surname>Nagasaka</surname></persName>
+							<affiliation key="aff6">
+								<orgName type="department" key="dep1">Department of Clinical Oncology</orgName>
+								<orgName type="department" key="dep2">Kawasaki Medical School</orgName>
+								<address>
+									<settlement>Kurashiki</settlement>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Etsuro</forename><surname>Hatano</surname></persName>
+							<affiliation key="aff7">
+								<orgName type="department">Department of Hepato-Biliary-Pancreatic Surgery</orgName>
+								<orgName type="institution">Hyogo College of Medicine</orgName>
+								<address>
+									<settlement>Nishinomiya</settlement>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Hitoshi</forename><surname>Ojima</surname></persName>
+							<affiliation key="aff8">
+								<orgName type="department">Department of Surgery</orgName>
+								<orgName type="institution">Gunma Prefectural Cancer Center</orgName>
+								<address>
+									<settlement>Ota</settlement>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Dai</forename><surname>Manaka</surname></persName>
+							<affiliation key="aff9">
+								<orgName type="department">Department of Surgery</orgName>
+								<orgName type="institution">Kyoto Katsura Hospital</orgName>
+								<address>
+									<settlement>Kyoto</settlement>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Tetsuya</forename><surname>Kusumoto</surname></persName>
+							<affiliation key="aff10">
+								<orgName type="department">Department of Surgery</orgName>
+								<orgName type="institution">National Kyushu Medical Center</orgName>
+								<address>
+									<settlement>Fukuoka</settlement>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Yu</forename><surname>Katayose</surname></persName>
+							<affiliation key="aff11">
+								<orgName type="department">Department of Hepatobiliary and Pancreatic</orgName>
+								<orgName type="institution">Tohoku Medical and Pharmaceutical University</orgName>
+								<address>
+									<settlement>Sendai</settlement>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Toshiyoshi</forename><surname>Fujiwara</surname></persName>
+							<affiliation key="aff12">
+								<orgName type="department" key="dep1">Department of Gastroenterological Surgery</orgName>
+								<orgName type="department" key="dep2">Dentistry, and Pharmaceutical Sciences</orgName>
+								<orgName type="institution">Okayama University Graduate School of Medicine</orgName>
+								<address>
+									<settlement>Okayama</settlement>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Kazuhiro</forename><surname>Yoshida</surname></persName>
+							<affiliation key="aff5">
+								<orgName type="department">Department of Surgical Oncology</orgName>
+								<orgName type="institution">Gifu University Graduate School of Medicine</orgName>
+								<address>
+									<settlement>Gifu</settlement>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Michiaki</forename><surname>Unno</surname></persName>
+							<affiliation key="aff13">
+								<orgName type="department" key="dep1">Department of Surgery</orgName>
+								<orgName type="department" key="dep2">Graduate School of Medicine</orgName>
+								<orgName type="institution">Tohoku University</orgName>
+								<address>
+									<settlement>Sendai</settlement>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Ichinosuke</forename><surname>Hyodo</surname></persName>
+							<affiliation key="aff14">
+								<orgName type="department" key="dep1">Division of Gastroenterology</orgName>
+								<orgName type="department" key="dep2">Faculty of Medicine</orgName>
+								<orgName type="institution">University of Tsukuba</orgName>
+								<address>
+									<settlement>Tsukuba</settlement>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Naohiro</forename><surname>Tomita</surname></persName>
+							<affiliation key="aff15">
+								<orgName type="department" key="dep1">Divison of Lower GI Surgery</orgName>
+								<orgName type="department" key="dep2">Department of Surgery</orgName>
+								<orgName type="institution">Hyogo College of Medicine</orgName>
+								<address>
+									<settlement>Nishinomiya</settlement>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Kenichi</forename><surname>Sugihara</surname></persName>
+							<affiliation key="aff3">
+								<orgName type="department">Department of Surgical Oncology and Gastroenterology</orgName>
+								<orgName type="institution">Tokyo Medical and Dental University</orgName>
+								<address>
+									<settlement>Tokyo</settlement>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Yoshihiko</forename><surname>Maehara</surname></persName>
+							<affiliation key="aff16">
+								<orgName type="department">Kyushu Central Hospital of the Mutual Aid Association of Public School Teachers</orgName>
+								<address>
+									<settlement>Fukuoka</settlement>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Randomised phase II trial of mFOLFOX6 plus bevacizumab versus mFOLFOX6 plus cetuximab as first-line treatment for colorectal liver metastasis (ATOM trial)</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date type="published" when="2019-07-09">9 July 2019</date>
+						</imprint>
+					</monogr>
+					<idno type="DOI">10.1038/s41416-019-0518-2</idno>
+					<note type="submission">Received: 16 March 2019 Revised: 12 June 2019 Accepted: 20 June 2019</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.6.1" ident="GROBID" when="2020-10-09T18:38+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<abstract>
+				<p>BACKGROUND: Chemotherapy with biologics followed by liver surgery improves the resection rate and survival of patients with colorectal liver metastasis (CRLM). However, no prospective study has compared the outcomes of chemotherapy with bevacizumab (BEV) versus cetuximab (CET). METHODS: The ATOM study is the first randomised trial comparing BEV and CET for initially unresectable CRLM. Patients were randomly assigned in a 1:1 ratio to receive mFOLFOX6 plus either BEV or CET. The primary endpoint was progression-free survival (PFS). RESULTS: Between May 2013 and April 2016, 122 patients were enrolled. Median PFS was 11.5 months (95% CI 9.2-13.3 months) in the BEV group and 14.8 months (95% CI 9.7-17.3 months) in the CET group (hazard ratio 0.803; P = 0.33). Patients with a smallernumber but larger-sized metastases did better in the CET group. In the BEV and CET groups, the response rates were 68.4% and 84.7% and the resection rates were 56.1% and 49.2%, respectively. CONCLUSION: Although CET achieved a better response rate than BEV for patients with a small number of large liver metastases, both biologics had similar efficacy regarding liver resection and acceptable safety profiles. To achieve optimal PFS, biologics should be selected in accordance with patient conditions. TRIAL REGISTRATION: This trial is registered at ClinicalTrials.gov (number NCT01836653), and UMIN Clinical Trials Registry (UMIN-CTR number UMIN000010209).</p>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>studies for initially unresectable CRLM with wild-type KRAS. <ref type="bibr" target="#b8">7,</ref><ref type="bibr" target="#b9">8,</ref><ref type="bibr" target="#b12">11</ref> Anti-VEGF antibody regimens, such as mFOLFOX6 or CAPEOX plus bevacizumab (BEV), have also showed high response and resection rates in phase II studies. <ref type="bibr" target="#b10">9,</ref><ref type="bibr" target="#b11">10,</ref><ref type="bibr" target="#b14">12</ref> These reports suggest that the combination of targeted agents and chemotherapy can increase liver resection rates and response rates, thus improving the progression-free survival (PFS) and OS of patients with CRLM. However, no studies have compared anti-VEGF agents and anti-EGFR agents for liver-limited RAS wt CRLM.</p><p>The present randomised phase II clinical study (the ATOM trial) aimed to compare mFOLFOX6 plus BEV versus mFOLFOX6 plus cetuximab (CET) in patients with liver-limited RAS wt CRLM. Declined to participate (N = 14) <ref type="figure">Fig. 1</ref> Consort flow diagram. Primary analysis was evaluated in the full analysis set (FAS), which was defined as all patients who were eligible for study inclusion, as well as those who received at least one dose of the protocol treatment</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>METHODS</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Patients</head><p>The ATOM trial was a multicentre, randomised phase II study designed to evaluate the efficacy and safety of mFOLFOX6 plus BEV and mFOLFOX6 plus CET in patients with liver-limited metastases from wild-type (K)RAS CRC. Eligible criteria for the study were (1) histopathologically confirmed CRC (adenocarcinoma), excluding appendix and anal cancers; (2) no metastasis other than to liver; (3) tumour tested to be KRASwt (between May 2013 and April 2015) or RASwt (between April 2015 and April 2016) (4) age between 20 and 80 years at the time of enrolment; (5) Eastern Cooperative Oncology Group performance status of 0 or 1; (6) life expectancy of ≥3 months at the time of enrolment; (7) sufficient organ function; and (8) signed informed consent. Furthermore, each patient had to satisfy at least one of the following criteria at enrolment: (a) ≥5 liver metastases, (b) a liver metastasis with a maximum diameter ≥5 cm, (c) technically inappropriate for resection in light of remaining hepatic function, (d) invasion into all hepatic veins or the inferior vena cava, or (e) invasion into both the right and left hepatic arteries or both of the portal veins. The study was approved by the local ethics committee of each participating centre and conducted in 63 Japanese institution.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Randomisation</head><p>Randomisation was based on dynamic allocation by a minimisation method in a centralised web-based system (EPS Corporation, Tokyo, Japan). Allocation factors included: (1) synchronous liver metastases with a primary lesion, synchronous liver metastases without a primary lesion, or metachronous liver metastases; (2) number of metastases (1-4 or ≥5); (3) maximum metastasis diameter (≤5 or &gt;5 cm); and (4) oxaliplatin used as adjuvant chemotherapy.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Procedures</head><p>Patients received either mFOLFOX6 plus BEV (BEV 5 mg/kg, followed by oxaliplatin 85 mg/m 2 , l-leucovorin 200 mg/m 2 and bolus infusion of fluorouracil 400 mg/m 2 on Day 1 and continuous fluorouracil infusion 2400 mg/m 2 on Day 1 through Day 2) or mFOLFOX6 plus CET (CET 400 mg/m 2 as the initial dose and 250 mg/m 2 as the subsequent doses on Days 1 and 8, followed by mFOLFOX6), no later than 2 weeks after enrolment in the study. Study treatments were continued in 2-week cycles until disease progression. In accordance with the Response Evaluation Criteria In Solid Tumours version 1.1, the same methods were used to perform tumour assessment at baseline and every subsequent 8 weeks using torso contrast-enhanced computed tomography (CT), liver contrast-enhanced magnetic resonance imaging, or whole-body non-contrast CT. The tumour histopathological response rate was defined as the proportion of patients with grade ≥Ib in accordance with the following definition: grade 0, no necrosis in the tumour; grade 1a, necrosis in &lt;33.3% of the tumour; grade 1b, necrosis in 33.3-66.6% of the tumour; grade 2, necrosis in 66.6-&lt;100% of the tumour; and grade 3, necrosis in 100% of the tumour.</p><p>Patients underwent liver resections if their metastases were considered resectable, based on tumour assessments performed after receiving at least 8 cycles of either protocol treatment. After liver resection, a total of 12 cycles of the same chemotherapy plus biologic agent as the preoperative treatment were recommended. Surgery was performed at least 42 days after the last dose of BEV.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Statistical analysis</head><p>The primary endpoint was PFS, as assessed by the Independent Central Review Committee (IRC). The cases were not censored at the time of liver resection. Recurrence was considered to be a PFS event in patients who underwent liver resection after protocol treatment. Secondary endpoints included response rate, tumour shrinkage at week 8, liver resection rate, time to treatment failure, OS, quality of life, and adverse events (AEs).</p><p>We employed a selection design based on the hazard ratio (HR). For 1-year PFS rates of the two arms to be 55% and 50% (which corresponds to a HR of 0.862 under exponential distribution), we needed 160 patients to select better treatment in terms of an HR with a probability of 75%. Therefore, the initial sample size was 160 in both arms. However, owing to slow accrual of patients, the independent data monitoring committee approved a reduction of the sample size in January 2015 to 120 patients in both arms; this would enable the observation of 84 PFS events, which would indicate a superior treatment with a probability of 70%.</p><p>HRs for progression or death for CET versus BEV were estimated using a Cox proportional-hazards model. Survival curves were estimated using the Kaplan-Meier method. Statistical analyses were performed using SAS version 9.4 (SAS Institute, Cary, USA).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>RESULTS</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Patients</head><p>Between May 2013 and April 2016, we screened 179 patients and enrolled 122 patients from 63 sites in Japan (61 patients in each arm). <ref type="figure">Figure 1</ref> shows the consort flow diagram. Five patients (two CET arm/three BEV arm) did not meet the criteria and a patient in the BEV arm cannot be treated because of rapid disease progression. Patient characteristics were well balanced between the two arms ( <ref type="table" target="#tab_0">Table 1)</ref>. Of the 116 patients, 2 patients in the BEV arm were found to have RAS mutations, while 1 patient in each arm did not undergo RAS testing due to insufficient tumour samples. , with a log-rank P value of 0.33. The PFS HR between the two arms was 0.803 (95% CI: 0.513-1.256; <ref type="figure" target="#fig_1">Fig. 2a)</ref>; PFS in accordance with the investigators' evaluations is shown in <ref type="figure">Supplementary Fig. S1</ref>. The median OS in the BEV arm was 30.4 months but was not achieved yet in Cmab arm (HR: 0.827, 95% CI: 0.437-1.564; <ref type="figure" target="#fig_1">Fig. 2b</ref>). Subgroup analyses for the IRC PFS are shown in <ref type="figure">Fig. 3</ref> Only in patient with 1-4 liver metastasis the CET arm showed significant HR, whereas PFS was better in the BEV arm among patients with ≥5 metastases. Kaplan-Meier curves of these subgroups are shown in <ref type="figure" target="#fig_1">Supplementary Fig. S2A</ref>, B. The overall response rate (ORR) for BEV was 68.4% (95% CI: 54.8%-80.1%), while the ORR for CET was 84.7% (95% CI: 73.0%-92.8%; P = 0.0483; <ref type="table" target="#tab_2">Table 2</ref>). Median tumour shrinkage rates at 8 weeks were 25.3% for BEV and 37.8% for CET. The waterfall plot showing the best change in target lesion based on central assessment is shown in <ref type="figure" target="#fig_2">Fig. 4</ref>. The overall resection rates including R2 were 56.1% (32/57) for BEV and 49.2% (29/59) for CET, and resection rates (R0+R1) were 49.1% (28/57) for BEV and 47.5% (28/59) for CET <ref type="table" target="#tab_2">(Table 2)</ref>. Median PFS was assessed for patients with R0/R1 status after study treatment followed by surgical resection; median PFS for BEV was 6.5 months (95% CI: 4.0-13.6), while that for CET it was 13.8 months (95% CI: 8.4-not reached), HR: 0.610 (95% CI: 0.298-1.245; <ref type="figure">Supplementary Fig. S3</ref>). Of the 57 tumours that were assessable for histopathological analysis, the tumour histopathological response rate (Grade 1b/2/3) was 66.6% (20/30) for BEV and 92.6% (25/27) for CET (P = 0.0229, <ref type="table" target="#tab_0">Supplementary Table S1</ref>).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Safety</head><p>Grade ≥3 subjective or objective toxicity events occurred in 40.4% of the patients who received BEV and 52.5% of the patients who received CET. The most frequently occurring AE of grade ≥3 was neutropenia, with an incidence of 36.8% in the BEV arm and 50.8% in the CET arm. Other AEs are presented in <ref type="table" target="#tab_2">Supplementary Table S2</ref>. AEs that caused discontinuation occurred in 8 patients (13.1%) in the BEV arm and 6 (9.8%) in the CET arm. No patient died from treatment-related AEs. In the surgical safety population (n = 33 in the BEV arm and n = 29 in the CET arm), all-grade surgery-related AEs according to the Clavien-Dindo classification were reported in 8 patients (24.2%) in the BEV arm and 12 (41.4%) in the CET arm. The most frequent surgical AE was bile leakage, with an incidence of 18.2% in the BEV arm and 24.1% in the CET arm. No grade 5 AEs were reported ( <ref type="table">Supplementary Table S3</ref>). </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>DISCUSSION</head><p>The anti-VEGF antibody BEV has an anti-angiogenic effect, which elicits a specific morphologic tumour response of enhanced necrosis, thus increasing the survival benefit of chemotherapy. <ref type="bibr" target="#b15">13</ref> Because of these benefits, some pivotal clinical studies reported that combined therapy with cytotoxic drugs could potentially improve CRC prognosis. <ref type="bibr" target="#b11">10</ref> A phase II study of patients with CRLM reported that the anti-EGFR antibody CET was associated with an improved response rate and a high liver resection rate. <ref type="bibr" target="#b8">7,</ref><ref type="bibr" target="#b16">[14]</ref><ref type="bibr" target="#b17">[15]</ref><ref type="bibr" target="#b18">[16]</ref><ref type="bibr" target="#b19">[17]</ref> Although a few head-to-head randomised studies compared the two antibodies in the whole population of patients with advanced CRC, none of them led to a clear conclusion as to which agent was better for the liver-limited CRLM. <ref type="bibr" target="#b17">15,</ref><ref type="bibr" target="#b19">[17]</ref><ref type="bibr" target="#b20">[18]</ref><ref type="bibr" target="#b21">[19]</ref> Our trial aimed to evaluate the effect of an anti-EGFR antibody versus an anti-VEGF antibody in patients with CRLM. In our analysis, the median PFS (as assessed by the IRC) tended to be better in the CET arm than in the BEV arm, but this difference was not statistically significant. The ORR was also better in the CET arm (84.7%) than the BEV arm (68.4%). However, despite the higher ORR in the CET arm compared with the BEV arm, the overall resection rate was similar in both arms. Although the main results were equivocal, we can consider the results from various angles.</p><p>Resection rate is often used as the primary endpoint for phase II studies evaluating chemotherapy for CRLM. Previous studies have reported similar resection rates to those achieved in our study. One study reported a liver resection rate and ORR of FOLFOXIRI +BEV of 51% and 81%, respectively, 10 while the CELIM trial reported that the resection rates of FOLFOX+CET and FOLFIRI +CET were 51% and 49%, respectively. <ref type="bibr" target="#b8">7</ref> Furthermore, a review of data from previous studies reported that response and resection rates were positively correlated in CRLM and found the liver resection rate to be 50-60% when the ORR is 80%. <ref type="bibr" target="#b6">5</ref> This correlation is applicable to recent reports, including our study. However, increasing the response rate &gt;80% is a clinical challenge. Therefore, the resection rate might not be an adequate surrogate endpoint in further clinical studies of CRLM.</p><p>Subset analysis showed that, among patients with fewer metastases (1-4), the CET group had better survival than the BEV group (HR: 0.260, 95% CI: 0.084-0.811) but conversely among patients with ≥5 metastases. Our inclusion criteria required that patients with ≥5 metastases had tumours ≥5 cm in size. Therefore, the presence of fewer but larger metastases might be a good indication for the use of anti-EGFR antibody. Resection after shrinkage of a large tumour is the ideal clinical course for CETtreated patients. The New EPOC trial could not show any benefit of adding CET to standard chemotherapy in patients with resectable CRLM. <ref type="bibr" target="#b22">20</ref> However, this may be because CET is not effective for small resectable liver metastases but seems suitable for patients with fewer but larger metastases.  <ref type="figure">Fig. 3</ref> Forest plots show hazard ratios for progression-free survival in patients with colorectal to liver metastases, using mFOLFOX6 +bevacizumab and mFOLFOX6+cetuximab Tumour sidedness is also an important characteristic of metastatic CRC. Although previous studies indicated no survival benefit for CET in metastatic right-sided CRC, <ref type="bibr" target="#b23">21</ref> the PFS of patients with right-sided tumours in our trial showed similar or better results with CET as those with left-sided tumours. CET reportedly reduces tumour size better than BEV, even in right-sided colon cancer. <ref type="bibr" target="#b24">22</ref> Therefore, in cases with metastatic CRC limited to the liver, sidedness might not be relevant for PFS, as half of the metastatic site will be surgically resected.</p><p>A previous study reported a higher pathological response rate for BEV than for CET. <ref type="bibr" target="#b25">23</ref> In contrast, the present study showed a higher pathological response rate for CET than for BEV, which had some effect on the survival of the patients who underwent surgery. In fact, the median PFS of patients with surgical conversion was 13.8 months (95% CI: 8.4-not reached) in the CET arm and 6.5 months (95% CI: 4.0-13.6) in the BEV arm ( <ref type="figure">Supplementary Fig. S3)</ref>. This difference will have some impact on final overall survival. We will investigate tumour regression grade (TRG), modified TRG, dangerous halo, and morphological response as exploratory endpoints. These analyses will elucidate as to what is the best pathological assessment of prognosis for CRLM.</p><p>The present trial was limited by its small sample size, and so the statistical power was insufficient to enable the comparison of the two biologic agents. Furthermore, the OS is immature and needs longer-term follow-up. In addition, the inclusion criteria for initially unresectable CRLM are controversial. We followed the criteria used in previous studies, which included patients with CRLM with &lt;5 metastases but with tumour(s) &gt;5 cm in diameter. <ref type="bibr" target="#b12">11,</ref><ref type="bibr" target="#b14">12</ref> Some of these cases might have been resectable without chemotherapy, and this may have confounded the results.</p><p>In conclusion, CET showed a higher response rate than BEV among patients with initially unresectable liver-limited metastases and resulted in good PFS, especially for patients with fewer but larger metastases. However, there were no significant differences between BEV and CET in efficacy regarding resection rate, and both biologic agents had acceptable safety profiles. Both agents are viable treatment options for liver metastases with suboptimal resectability. </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>AUTHOR CONTRIBUTIONS</head></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head>Fig. 2</head><label>2</label><figDesc>803 (95% Cl 0.513-1.256), P = 0.3333 HR = 0.827 (95% Cl 0.437-1.564), P = 0Kaplan-Meier estimates of a progression-free survival by central assessment and b overall survival. Solid black line: mFOLFOX6 +bevacizumab, dotted black line: mFOLFOX6+cetuximab</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_2"><head>Fig. 4</head><label>4</label><figDesc>Y.E., E.O., K.M., T.Y., and Y.M. participated in the study conception and design. E.O., Y.E., H.U., K.M., T.T., T.N., E.H., H.O., D.M., T.K., Y.K., T.F. and K.Y. provided study materials or recruited patients. E.O., Y.E., T.Y., H.U., K.M., M.U., I.H., N.T., K.S. and Y.M. were Waterfall plot shows the best change in target lesion size for individual patients by central assessment. CR complete response, NE not evaluable, PD progressive disease, PR partial response, SD stable disease. a mFOLFOX6+bevacizumab and b mFOLFOX6+cetuximab</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>Table 1 .</head><label>1</label><figDesc>Patient characteristics</figDesc><table><row><cell>Variables</cell><cell></cell><cell>mFOLFOX6</cell><cell>mFOLFOX6</cell><cell>P</cell></row><row><cell></cell><cell></cell><cell>+BEV</cell><cell>+CET</cell><cell></cell></row><row><cell>Age (years)</cell><cell cols="4">Median (range) 64 (32.0-80.0) 65 (42.0-79.0) 0.328</cell></row><row><cell>Sex</cell><cell>Male</cell><cell>34 (59.6%)</cell><cell>34 (57.6%)</cell><cell>0.825</cell></row><row><cell></cell><cell>Female</cell><cell>23 (40.4%)</cell><cell>25 (42.4%)</cell><cell></cell></row><row><cell>ECOG PS</cell><cell>0</cell><cell>51 (89.5%)</cell><cell>51 (86.4%)</cell><cell>0.616</cell></row><row><cell></cell><cell>1</cell><cell>6 (10.5%)</cell><cell>8 (13.6%)</cell><cell></cell></row><row><cell>Adjuvant</cell><cell>Yes</cell><cell>3 (5.3%)</cell><cell>2 (3.4%)</cell><cell>0.619</cell></row><row><cell>chemotherapy</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell cols="2">Prior oxaliplatin Yes</cell><cell>1 (1.8%)</cell><cell>2 (3.4%)</cell><cell>0.579</cell></row><row><cell>Location</cell><cell>Right</cell><cell>9 (15.8%)</cell><cell>14 (23.7%)</cell><cell>0.284</cell></row><row><cell>of tumour</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell></cell><cell>Left</cell><cell>48 (84.2%)</cell><cell>45 (76.3%)</cell><cell></cell></row><row><cell cols="2">Tumour status Synchro/</cell><cell>13 (22.8%)</cell><cell>15 (25.4%)</cell><cell>0.771</cell></row><row><cell></cell><cell>primary tumour</cell><cell></cell><cell></cell><cell></cell></row><row><cell></cell><cell>Synchro/no</cell><cell>39 (68.4%)</cell><cell>39 (66.1%)</cell><cell></cell></row><row><cell></cell><cell>primary</cell><cell></cell><cell></cell><cell></cell></row><row><cell></cell><cell>tumour a</cell><cell></cell><cell></cell><cell></cell></row><row><cell></cell><cell>Metachronous</cell><cell>5 (8.8%)</cell><cell>5 (8.5%)</cell><cell></cell></row><row><cell>Number of liver</cell><cell>&lt;5</cell><cell>15 (26.3%)</cell><cell>18 (30.5%)</cell><cell>0.617</cell></row><row><cell>metastases</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell></cell><cell>≥5</cell><cell>42 (73.7%)</cell><cell>41 (69.5%)</cell><cell></cell></row><row><cell>Diameter of</cell><cell>≤5 cm</cell><cell>20 (35.1%)</cell><cell>19 (32.2%)</cell><cell>0.742</cell></row><row><cell>liver metastases</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell></cell><cell>&gt;5 cm</cell><cell>37 (64.9%)</cell><cell>40 (67.8%)</cell><cell></cell></row></table><note>mFOLFOX6 5-fluorouracil/folinic acid, oxaliplatin, BEV bevacizumab, CET cetuximab, ECOG PS Eastern Cooperative Oncology Group performance statusa Synchro/no primary tumour: metastatic tumour diagnosed within 6 months after resection of primary tumour Efficacy On March 31, 2017, the median follow-up time was 24.3 months. The median PFS assessed by the IRC for the CET arm was 14.8 months (95% confidence interval (CI): 9.7-17.3 months), while for the BEV arm it was 11.5 months (95% CI: 9.2-13.3 months)</note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_2"><head>Table 2 .</head><label>2</label><figDesc>Overall response rates and liver resection rate BEV bevacizumab, CET cetuximab, CR complete response, mFOLFOX6 5fluorouracil/folinic acid, oxaliplatin, NE not evaluable, PD progressive disease, PR partial response, SD stable disease</figDesc><table><row><cell></cell><cell cols="2">Overall response rates</cell><cell>P</cell></row><row><cell></cell><cell cols="2">mFOLFOX6+BEV mFOLFOX6+CET</cell><cell></cell></row><row><cell>CR (%)</cell><cell>1 (1.8%)</cell><cell>1 (1.7%)</cell><cell>-</cell></row><row><cell>PR (%)</cell><cell>38 (66.7%)</cell><cell>49 (83.1%)</cell><cell>-</cell></row><row><cell>SD (%)</cell><cell>18 (31.6%)</cell><cell>6 (10.2%)</cell><cell>-</cell></row><row><cell>PD (%)</cell><cell>0 (0.0%)</cell><cell>2 (3.4%)</cell><cell>-</cell></row><row><cell>NE</cell><cell>0 (0.0%)</cell><cell>1 (1.7%)</cell><cell>-</cell></row><row><cell cols="2">Overall response rate 68.4%</cell><cell>84.7%</cell><cell>0.0483</cell></row><row><cell>Disease control rate</cell><cell>100%</cell><cell>94.9%</cell><cell>0.2437</cell></row><row><cell></cell><cell>Liver resection rate</cell><cell></cell><cell></cell></row><row><cell></cell><cell>mFOLFOX6+BEV</cell><cell>mFOLFOX6+CET</cell><cell></cell></row><row><cell>R0+R1</cell><cell>28 (49.1%)</cell><cell>28 (47.5%)</cell><cell></cell></row><row><cell>R0</cell><cell>25 (43.9%)</cell><cell>22 (37.3%)</cell><cell></cell></row><row><cell>R1</cell><cell>3 (5.3%)</cell><cell>6 (10.2%)</cell><cell></cell></row><row><cell>R2</cell><cell>4 (7.0%)</cell><cell>1 (1.7%)</cell><cell></cell></row><row><cell>All</cell><cell>32 (56.1%)</cell><cell>29 (49.2%)</cell><cell></cell></row><row><cell>Reasons for R2</cell><cell>Ablation: 2</cell><cell cols="2">Ablation and Residual: 1</cell></row><row><cell></cell><cell>Residual: 2</cell><cell></cell><cell></cell></row></table><note></note></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="1234567890">();,:</note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot">Randomised phase II trial of mFOLFOX6 plus bevacizumab versus mFOLFOX6. . . E Oki et al.</note>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>ACKNOWLEDGEMENTS</head><p>We thank all the patients, their families, and the investigators involved in this study. We also thank Marla Brunker and Kelly Zammit from Edanz Group (www. edanzediting.com/ac) for editing a draft of this manuscript.</p></div>
+			</div>
+
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>involved in data analysis and interpretation and writing and development of the manuscript. All authors approved final draft.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>ADDITIONAL INFORMATION</head><p>Supplementary information is available for this paper at https://doi.org/10.1038/ s41416-019-0518-2.</p><p>Ethics approval and consent to participate: All patients provided informed consent (IC) to enter the study at the time of enrolment. The study was conducted in compliance with the principles of the Declaration of Helsinki, the international conference on harmonisation of technical requirements for registration of pharmaceuticals for human use guidelines and local ethical and legal requirements. The protocol and IC document were approved by the independent institutional review boards of all participating institutions. The names of all institutions are listed in the Supplementary Data.</p><p>Funding: This work was supported by EPS Corporation, with research contract funding from Chugai Pharmaceutical Co. Ltd, Japan.</p><p>Data availability: The data sets used and/or analysed during the current study are available from the corresponding author on reasonable request.</p><p>Publisher's note: Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.</p></div>			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Merck Serono Co., Ltd., and Yakult Honsha Co., Ltd., grants from Kyowa Hakko Kirin, grants and personal fees from Nippon Kayaku Co., Ltd. during the conduct of the study, grants and personal fees from</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Ltd</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Co</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Eli</forename><surname>Ltd</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Lilly</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Yakult</forename><surname>Bayer Japan</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Honsha Co</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Ltd</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Takeda Pharmaceutical</forename><surname>Merck Serono</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Co</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="middle">Y E</forename><surname>Ltd</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Taiho</forename><surname>Takeda</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Merck</forename><surname>Grants From Pfizer</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Astra</forename><surname>Serono</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Yakult</forename><surname>Zeneca</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Bristol</forename><surname>Honsha</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Myers Squibb</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Gilead</forename><surname>Daiichi-Sankyo</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Huya</forename><surname>Sciences</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Biosciences</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Bayer</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="middle">H</forename><surname>Sysmex</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Daiichi</forename><surname>Msd</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Sankyo</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Kyowa</forename><surname>Shionogi</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Gilead</forename><surname>Hakko Kirin</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Sciences</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Pfizer</forename><surname>Sanofi</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Merck</forename><surname>Serono</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Taiho</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Takeda</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Eli</forename><surname>Bayer</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Lilly ; Takeda Pharm</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Taiho</forename><surname>Sanofi</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Merck</forename><surname>Pharm</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Yakult</forename><surname>Serono</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="middle">T F</forename><surname>Honsha</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Asahi</forename><surname>Novatis</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Kasei</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Teijin</forename><surname>Pfizer</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Pharm</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Daiichi</forename><surname>Eisai</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Sankyo</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">&amp;</forename><surname>Johnson</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Boston</forename><surname>Johnson</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Scientific</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">and Intuitive Surgical. M.U. received grants from Chugai, Yakult Honsha, and Takeda and received personal fees from Merck Serono, Chugai, Yakult Honsha, and Takeda during the conduct of the study, grants from Taiho</title>
+		<editor>Taiho Pharma, Chugai Pharma, Daiichi-Sankyo Pharma, Yakult-Honsha Pharma, Lilly, Takeda Pharma</editor>
+		<meeting><address><addrLine>Sanofi; Novartis, Asahi Kasei, Asteras, Toyama Chem</addrLine></address></meeting>
+		<imprint>
+			<publisher>Abbott Japan, Otsuka Pharma Co., Ltd</publisher>
+		</imprint>
+	</monogr>
+	<note>Otsuka Pharmaceutical Co.. and Ono Pharma. N.T. received grants from Taiho Pharmaceutical Co. and Chugai Pharmaceutical Co., outside the submitted work. K</note>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<monogr>
+		<title level="m" type="main">Yakult Honsha Co., Ltd., and Merck Serono Co. Ltd. during the conduct of the study and grants from Taiho Pharmaceutical Co</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Chugai</forename><surname>Pharm</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Taiho</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Merck</forename><surname>Takeda</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Yakult</forename><surname>Serono</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Honsha</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Bristol-Meyers Japan</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Eli</forename><forename type="middle">Lilly</forename><surname>Bayer Yakuhin</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Co</surname></persName>
+		</author>
+		<editor>Ltd., Ono Pharmaceutical Co., Ltd., Eli Lilly Japan K.K., Otsuka Pharmaceutical Co., Ltd., DAIICHI SANKYO COMPANY, LIMITED.</editor>
+		<imprint>
+			<publisher>Shionogi &amp; Co., Ltd</publisher>
+		</imprint>
+	</monogr>
+	<note>and received grants from Chugai, Taiho and Takeda. Y.M. received grants from Chugai Pharmaceutical Co., Ltd. and Novartis Pharma K.K. The other authors declare no competing interests</note>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Cancer incidence and mortality worldwide: sources, methods and major patterns in GLOBOCAN 2012</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Ferlay</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">I</forename><surname>Soerjomataram</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><surname>Dikshit</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Eser</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><surname>Mathers</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Rebelo</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Int. J. Cancer</title>
+		<imprint>
+			<biblScope unit="volume">136</biblScope>
+			<biblScope unit="page" from="359" to="386" />
+			<date type="published" when="2015" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Therapeutic results for hepatic metastasis of colorectal cancer with special reference to effectiveness of hepatectomy: analysis of prognostic factors for 763 cases recorded at 18 institutions</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Kato</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><surname>Yasui</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Hirai</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Y</forename><surname>Kanemitsu</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Mori</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><surname>Sugihara</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Dis. Colon Rectum</title>
+		<imprint>
+			<biblScope unit="volume">46</biblScope>
+			<biblScope unit="page" from="22" to="31" />
+			<date type="published" when="2003" />
+		</imprint>
+	</monogr>
+	<note>Suppl</note>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<monogr>
+		<ptr target="https://ganjoho.jp/reg_stat/statistics/brochure/backnumber/2016_jp.html" />
+		<title level="m">Cancer statistics in JAPAN-2016</title>
+		<imprint>
+			<date type="published" when="2018" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Rescue surgery for unresectable colorectal liver metastases downstaged by chemotherapy: a model to predict long-term survival</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><surname>Adam</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">V</forename><surname>Delvart</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">G</forename><surname>Pascal</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Valeanu</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><surname>Castaing</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><surname>Azoulay</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ann. Surg</title>
+		<imprint>
+			<biblScope unit="volume">240</biblScope>
+			<biblScope unit="page" from="644" to="657" />
+			<date type="published" when="2004" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Neoadjuvant treatment of unresectable colorectal liver metastases: correlation between tumour response and resection rates</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">G</forename><surname>Folprecht</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Grothey</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Alberts</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><forename type="middle">R</forename><surname>Raab</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><forename type="middle">H</forename><surname>Kohne</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ann. Oncol</title>
+		<imprint>
+			<biblScope unit="volume">16</biblScope>
+			<biblScope unit="page" from="1311" to="1319" />
+			<date type="published" when="2005" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Oxaliplatin, fluorouracil, and leucovorin for patients with unresectable liver-only metastases from colorectal cancer: a North Central Cancer Treatment Group phase II study</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><forename type="middle">R</forename><surname>Alberts</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">W</forename><forename type="middle">L</forename><surname>Horvath</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">W</forename><forename type="middle">C</forename><surname>Sternfeld</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><forename type="middle">M</forename><surname>Goldberg</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">R</forename><surname>Mahoney</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><forename type="middle">R</forename><surname>Dakhil</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Clin. Oncol</title>
+		<imprint>
+			<biblScope unit="volume">23</biblScope>
+			<biblScope unit="page" from="9243" to="9249" />
+			<date type="published" when="2005" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Tumour response and secondary resectability of colorectal liver metastases following neoadjuvant chemotherapy with cetuximab: the CELIM randomised phase 2 trial</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">G</forename><surname>Folprecht</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Gruenberger</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">W</forename><forename type="middle">O</forename><surname>Bechstein</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><forename type="middle">R</forename><surname>Raab</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">F</forename><surname>Lordick</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">T</forename><surname>Hartmann</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Lancet Oncol</title>
+		<imprint>
+			<biblScope unit="volume">11</biblScope>
+			<biblScope unit="page" from="38" to="47" />
+			<date type="published" when="2010" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Cetuximab plus chronomodulated irinotecan, 5-fluorouracil, leucovorin and oxaliplatin as neoadjuvant chemotherapy in colorectal liver metastases: POCHER trial</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><surname>Garufi</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Torsello</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Tumolo</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">G</forename><forename type="middle">M</forename><surname>Ettorre</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Zeuli</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><surname>Campanella</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Br. J. Cancer</title>
+		<imprint>
+			<biblScope unit="volume">103</biblScope>
+			<biblScope unit="page" from="1542" to="1547" />
+			<date type="published" when="2010" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Bevacizumab plus mFOLFOX-6 or FOLFOXIRI in patients with initially unresectable liver metastases from colorectal cancer: the OLIVIA multinational randomised phase II trial</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Gruenberger</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Bridgewater</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">I</forename><surname>Chau</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><surname>Garcia Alfonso</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Rivoire</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Mudan</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ann. Oncol</title>
+		<imprint>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="page" from="702" to="708" />
+			<date type="published" when="2015" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">A multicentre study of capecitabine, oxaliplatin plus bevacizumab as perioperative treatment of patients with poor-risk colorectal liver-only metastases not selected for upfront resection</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><surname>Wong</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><surname>Cunningham</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Y</forename><surname>Barbachano</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><surname>Saffery</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Valle</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Hickish</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ann. Oncol</title>
+		<imprint>
+			<biblScope unit="volume">22</biblScope>
+			<biblScope unit="page" from="2042" to="2048" />
+			<date type="published" when="2011" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<monogr>
+		<title level="m" type="main">Phase II trial of S-1 and oxaliplatin plus cetuximab for colorectal cancer patients with initially unresectable or not optimally resectable liver metastases</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><surname>Oki</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Y</forename><surname>Emi</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Y</forename><surname>Miyamoto</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Kabashima</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><surname>Higashi</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Y</forename><surname>Ogata</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1002" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title/>
+	</analytic>
+	<monogr>
+		<title level="j">Ann. Surg. Oncol</title>
+		<imprint>
+			<biblScope unit="volume">22</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="1067" to="1074" />
+			<date type="published" when="2015" />
+		</imprint>
+	</monogr>
+	<note>Suppl</note>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">Liver resectability of advanced liver-limited colorectal liver metastases following mFOL-FOX6 with bevacizumab (KSCC0802 Study)</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Beppu</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Y</forename><surname>Emi</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Tokunaga</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><surname>Oki</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><surname>Shirabe</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Ueno</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Anticancer Res</title>
+		<imprint>
+			<biblScope unit="volume">34</biblScope>
+			<biblScope unit="page" from="6655" to="6662" />
+			<date type="published" when="2014" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Optimal morphologic response to preoperative chemotherapy: an alternate outcome end point before resection of hepatic colorectal metastases</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Shindoh</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><forename type="middle">M</forename><surname>Loyer</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Kopetz</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><surname>Boonsirikamchai</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><forename type="middle">M</forename><surname>Maru</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Y</forename><forename type="middle">S</forename><surname>Chun</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Clin. Oncol</title>
+		<imprint>
+			<biblScope unit="volume">30</biblScope>
+			<biblScope unit="page" from="4566" to="4572" />
+			<date type="published" when="2012" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Conversion to complete resection with mFOLFOX6 with bevacizumab or cetuximab based on Kras status for unresectable colorectal liver metastasis (BECK study)</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><surname>Hatano</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Okuno</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><surname>Nakamura</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Ishii</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Seo</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><surname>Taura</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Hepatobiliary Pancreat. Sci</title>
+		<imprint>
+			<biblScope unit="volume">22</biblScope>
+			<biblScope unit="page" from="634" to="645" />
+			<date type="published" when="2015" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">FOLFIRI plus cetuximab versus FOLFIRI plus bevacizumab for metastatic colorectal cancer (FIRE-3): a post-hoc analysis of tumour dynamics in the final RAS wild-type subgroup of this randomised open-label phase 3 trial</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Stintzing</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><forename type="middle">P</forename><surname>Modest</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">L</forename><surname>Rossius</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">M</forename><surname>Lerch</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">L</forename><forename type="middle">F</forename><surname>Von Weikersthal</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Decker</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Lancet Oncol</title>
+		<imprint>
+			<biblScope unit="volume">17</biblScope>
+			<biblScope unit="page" from="1426" to="1434" />
+			<date type="published" when="2016" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">Cetuximab and chemotherapy as initial treatment for metastatic colorectal cancer</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><surname>Van Cutsem</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><forename type="middle">H</forename><surname>Kohne</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><surname>Hitre</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Zaluski</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><forename type="middle">R</forename><surname>Chang Chien</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Makhson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">N. Engl. J. Med</title>
+		<imprint>
+			<biblScope unit="volume">360</biblScope>
+			<biblScope unit="page" from="1408" to="1417" />
+			<date type="published" when="2009" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">PEAK: a randomized, multicenter phase II study of panitumumab plus modified fluorouracil, leucovorin, and oxaliplatin (mFOLFOX6) or bevacizumab plus mFOLFOX6 in patients with previously untreated, unresectable, wild-type KRAS exon 2 metastatic colorectal cancer</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">L</forename><forename type="middle">S</forename><surname>Schwartzberg</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">F</forename><surname>Rivera</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Karthaus</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">G</forename><surname>Fasola</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">L</forename><surname>Canon</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">R</forename><surname>Hecht</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Clin. Oncol</title>
+		<imprint>
+			<biblScope unit="volume">32</biblScope>
+			<biblScope unit="page" from="2240" to="2247" />
+			<date type="published" when="2014" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">FOLFIRI plus cetuximab versus FOLFIRI plus bevacizumab as first-line treatment for patients with metastatic colorectal cancer (FIRE-3): a randomised, open-label</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">V</forename><surname>Heinemann</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">L</forename><forename type="middle">F</forename><surname>Von Weikersthal</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Decker</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Kiani</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">U</forename><surname>Vehling-Kaiser</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><forename type="middle">E</forename><surname>Al-Batran</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Lancet Oncol</title>
+		<imprint>
+			<biblScope unit="volume">15</biblScope>
+			<biblScope unit="page" from="1065" to="1075" />
+			<date type="published" when="2014" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">Effect of first-line chemotherapy combined with cetuximab or bevacizumab on overall survival in patients with KRAS wild-type advanced or metastatic colorectal cancer: a randomized clinical trial</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><forename type="middle">P</forename><surname>Venook</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><surname>Niedzwiecki</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><forename type="middle">J</forename><surname>Lenz</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">F</forename><surname>Innocenti</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">B</forename><surname>Fruth</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">A</forename><surname>Meyerhardt</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">JAMA</title>
+		<imprint>
+			<biblScope unit="volume">317</biblScope>
+			<biblScope unit="page" from="2392" to="2401" />
+			<date type="published" when="2017" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">Systemic chemotherapy with or without cetuximab in patients with resectable colorectal liver metastasis: the New EPOC randomised controlled trial</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Primrose</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Falk</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Finch-Jones</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Valle</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><surname>O'reilly</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Siriwardena</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Lancet Oncol</title>
+		<imprint>
+			<biblScope unit="volume">15</biblScope>
+			<biblScope unit="page" from="601" to="611" />
+			<date type="published" when="2014" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title level="a" type="main">Highlights in gastrointestinal (colorectal) cancer treatment: the primary tumor sidedness debate and advances in immunotherapy</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><forename type="middle">K</forename><surname>Ciombor</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><forename type="middle">M</forename><surname>Goldberg</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">JAMA Oncol</title>
+		<imprint>
+			<biblScope unit="volume">2</biblScope>
+			<biblScope unit="page" from="1537" to="1538" />
+			<date type="published" when="2016" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title level="a" type="main">No benefit from the addition of anti-EGFR antibody in all right-sided metastatic colorectal cancer?</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Y</forename><surname>Sunakawa</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Tsuji</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Fujii</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">W</forename><surname>Ichikawa</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ann. Oncol</title>
+		<imprint>
+			<biblScope unit="volume">28</biblScope>
+			<biblScope unit="page" from="2030" to="2031" />
+			<date type="published" when="2017" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title level="a" type="main">Bevacizumab improves pathologic response and protects against hepatic injury in patients treated with oxaliplatin-based chemotherapy for colorectal liver metastases</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><surname>Ribero</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><surname>Wang</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Donadon</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><surname>Zorzi</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">B</forename><surname>Thomas</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><surname>Eng</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Cancer</title>
+		<imprint>
+			<biblScope unit="volume">110</biblScope>
+			<biblScope unit="page" from="2761" to="2767" />
+			<date type="published" when="2007" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

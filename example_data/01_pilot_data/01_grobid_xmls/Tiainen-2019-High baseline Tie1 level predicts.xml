@@ -1,0 +1,1315 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /data/rsg/nlp/juanmoo1/bin/grobid-0.6.1/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">High baseline Tie1 level predicts poor survival in metastatic breast cancer</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author role="corresp">
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Leena</forename><surname>Tiainen</surname></persName>
+							<email>leena.tiainen@pshp.fi</email>
+							<affiliation key="aff0">
+								<orgName type="department" key="dep1">Department of Oncology</orgName>
+								<orgName type="department" key="dep2">Faculty of Medicine and Health Technology</orgName>
+								<orgName type="department" key="dep3">Tays Cancer Centre</orgName>
+								<orgName type="institution">Tampere University</orgName>
+								<address>
+									<postBox>P.O. Box 100</postBox>
+									<postCode>FI-33014</postCode>
+									<settlement>Tampere</settlement>
+									<country key="FI">Finland</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="department">Department of Oncology</orgName>
+								<orgName type="institution">Tampere University Hospital</orgName>
+								<address>
+									<postBox>P.O. Box 2000</postBox>
+									<postCode>FI-33521</postCode>
+									<settlement>Tampere</settlement>
+									<country key="FI">Finland</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Emilia</forename><forename type="middle">A</forename><surname>Korhonen</surname></persName>
+							<idno type="ORCID">0000-0003-4247-8523</idno>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Veli-Matti</forename><surname>Leppänen</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Tiina</forename><surname>Luukkaala</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Mari</forename><surname>Hämäläinen</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Minna</forename><surname>Tanner</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department" key="dep1">Department of Oncology</orgName>
+								<orgName type="department" key="dep2">Faculty of Medicine and Health Technology</orgName>
+								<orgName type="department" key="dep3">Tays Cancer Centre</orgName>
+								<orgName type="institution">Tampere University</orgName>
+								<address>
+									<postBox>P.O. Box 100</postBox>
+									<postCode>FI-33014</postCode>
+									<settlement>Tampere</settlement>
+									<country key="FI">Finland</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="department">Department of Oncology</orgName>
+								<orgName type="institution">Tampere University Hospital</orgName>
+								<address>
+									<postBox>P.O. Box 2000</postBox>
+									<postCode>FI-33521</postCode>
+									<settlement>Tampere</settlement>
+									<country key="FI">Finland</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Outi</forename><surname>Lahdenperä</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Pia</forename><surname>Vihinen</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Arja</forename><surname>Jukkola</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Peeter</forename><surname>Karihtala</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Sonja</forename><surname>Aho</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department" key="dep1">Department of Oncology</orgName>
+								<orgName type="department" key="dep2">Faculty of Medicine and Health Technology</orgName>
+								<orgName type="department" key="dep3">Tays Cancer Centre</orgName>
+								<orgName type="institution">Tampere University</orgName>
+								<address>
+									<postBox>P.O. Box 100</postBox>
+									<postCode>FI-33014</postCode>
+									<settlement>Tampere</settlement>
+									<country key="FI">Finland</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="department">Department of Oncology</orgName>
+								<orgName type="institution">Tampere University Hospital</orgName>
+								<address>
+									<postBox>P.O. Box 2000</postBox>
+									<postCode>FI-33521</postCode>
+									<settlement>Tampere</settlement>
+									<country key="FI">Finland</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Eeva</forename><surname>Moilanen</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Kari</forename><surname>Alitalo</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Pirkko-Liisa</forename><surname>Kellokumpu-Lehtinen</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department" key="dep1">Department of Oncology</orgName>
+								<orgName type="department" key="dep2">Faculty of Medicine and Health Technology</orgName>
+								<orgName type="department" key="dep3">Tays Cancer Centre</orgName>
+								<orgName type="institution">Tampere University</orgName>
+								<address>
+									<postBox>P.O. Box 100</postBox>
+									<postCode>FI-33014</postCode>
+									<settlement>Tampere</settlement>
+									<country key="FI">Finland</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="department">Department of Oncology</orgName>
+								<orgName type="institution">Tampere University Hospital</orgName>
+								<address>
+									<postBox>P.O. Box 2000</postBox>
+									<postCode>FI-33521</postCode>
+									<settlement>Tampere</settlement>
+									<country key="FI">Finland</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">High baseline Tie1 level predicts poor survival in metastatic breast cancer</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<idno type="DOI">10.1186/s12885-019-5959-8</idno>
+					<note type="submission">Received: 20 September 2018 Accepted: 19 July 2019</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.6.1" ident="GROBID" when="2020-10-09T18:38+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>Tie1</term>
+					<term>Angiopoietin-2</term>
+					<term>Angiogenesis</term>
+					<term>Metastatic breast cancer</term>
+					<term>Prognostic marker</term>
+				</keywords>
+			</textClass>
+			<abstract>
+				<p>Background: Angiopoietin growth factors (Angs) regulate angiogenesis and lymphangiogenesis by binding to the endothelial Tie2 receptor. Ang2 expression is elevated in tissue hypoxia and inflammation, which also induce cleavage of the extracellular domain of the orphan Tie1 receptor. Here we have examined if the concentrations of Ang2 and the soluble extracellular domain of Tie1 in patient plasma are associated with the prognosis of patients with metastatic breast cancer. Methods: Plasma Tie1 and Ang2 levels were measured in metastatic breast cancer patients treated in a phase II trial with a taxane-bevacizumab combination chemotherapy in the first-line treatment setting. They were analyzed before treatment, after 6 weeks and 6 months of treatment, and at the final study visit. Using the median concentrations as cutoffs, Tie1 and Ang2 data were dichotomized into low and high concentration groups. Additionally, we analyzed Tie1 concentrations in plasma from 10 healthy women participating in a breast cancer primary prevention study. Results: Plasma samples were available from 58 (89%) of the 65 patients treated in the trial. The baseline Tie1 levels of the healthy controls were significantly lower than those of the metastatic patients (p &lt; 0.001). The overall survival of the patients with a high baseline Tie1 level was significantly shorter (multivariate HR 3.07, 95% CI 1.39-6.79, p = 0.005). Additionally, the progression-free survival was shorter for patients with a high baseline Tie1 level (multivariate HR 3.78, 95% CI 1.57-9.09, p = 0.003). In contrast, the baseline Ang2 levels had no prognostic impact in a multivariate Cox proportional hazard regression analysis. The combined analysis of baseline Tie1 and Ang2 levels revealed that patients with both high Tie1 and high Ang2 baseline levels had a significantly shorter overall survival than the patients with low baseline levels of both markers (multivariate HR for overall survival 4.32, 95% CI 1.44-12.94, p = 0.009). Conclusions: This is the first study to demonstrate the prognostic value of baseline Tie1 plasma concentration in patients with metastatic breast cancer. Combined with the results of the Ang2 analyses, the patients with both high Tie1 and Ang2 levels before treatment had the poorest survival.</p>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Background</head><p>Several drugs targeting the vascular endothelial growth factor (VEGF) and VEGF receptors (VEGFR) are currently used as treatment of various cancer types in clinics <ref type="bibr" target="#b0">[1]</ref>. VEGF targeting antibodies alleviate age-related macular degeneration, but in cancer therapy, they provide only limited benefits. For this reason, a significant interest has emerged in the targeting of the more recently characterized Ang/Tie endothelial growth factor system, which has essential functions in embryonic development, the regeneration of the mature vasculature, tissue inflammation and tumor angiogenesis <ref type="bibr" target="#b1">[2]</ref><ref type="bibr" target="#b2">[3]</ref><ref type="bibr" target="#b3">[4]</ref><ref type="bibr" target="#b4">[5]</ref><ref type="bibr" target="#b5">[6]</ref>. Angiopoietin growth factors (Ang1-4) bind to the Tie2 receptor. The homologous Tie1 protein does not bind angiopoietins directly, although it participates in the Ang-Tie2 signal transduction complex <ref type="bibr" target="#b1">[2,</ref><ref type="bibr" target="#b5">[6]</ref><ref type="bibr" target="#b6">[7]</ref><ref type="bibr" target="#b7">[8]</ref>.</p><p>Ang1 stabilizes the vasculature after angiogenesis and is a more potent Tie2 agonist than Ang2, which can act as an agonist or antagonist of the Tie2 receptor, depending on a number of other factors <ref type="bibr" target="#b8">[9]</ref><ref type="bibr" target="#b9">[10]</ref><ref type="bibr" target="#b10">[11]</ref>. In normal homeostasis, Ang2 levels are low, but the Ang2/Ang1 ratio is increased in inflamed tissues, e.g. in sepsis and in malignancies, including breast cancer <ref type="bibr" target="#b11">[12,</ref><ref type="bibr" target="#b12">13]</ref>. High Ang2 levels are associated with poor patient survival in multiple malignancies, breast cancer among others <ref type="bibr" target="#b13">[14]</ref><ref type="bibr" target="#b14">[15]</ref><ref type="bibr" target="#b15">[16]</ref><ref type="bibr" target="#b16">[17]</ref><ref type="bibr" target="#b17">[18]</ref><ref type="bibr" target="#b18">[19]</ref>. Some of the Ang/Tie system targeted antibodies have already been evaluated in clinical trials, but so far, the effects of anti-Ang2 monotherapy have been modest <ref type="bibr" target="#b19">[20]</ref><ref type="bibr" target="#b20">[21]</ref><ref type="bibr" target="#b21">[22]</ref>. A better understanding of Ang function is clearly needed for the rational development of effective Ang-pathway targeted therapies. Although Tie1 expression in endothelial cells is increased in tumor vessels and deletion of the Tie1 gene in tumor-bearing mice decreased tumor growth and angiogenesis in preclinical experiments <ref type="bibr" target="#b3">[4,</ref><ref type="bibr" target="#b22">23]</ref>, the significance of Tie1 in tumor progression is also unclear. Tie1 ectodomain cleavage occurs in vivo in association with acute <ref type="bibr" target="#b10">[11]</ref> and chronic inflammation <ref type="bibr" target="#b23">[24]</ref>, leading to increased concentration of the soluble extracellular domain in the serum of patients with severe viral infections <ref type="bibr" target="#b10">[11]</ref>. Furthermore, Tie1 deletion in a murine metastasis model tightened endothelial barrier and therefore, reduced metastatic foci <ref type="bibr" target="#b24">[25]</ref>.</p><p>In the present study, we investigated the prognostic value of the circulating levels of Tie1 and Ang2 in patients who received first-line taxane-bevacizumab combination -chemotherapy combination for the treatment of metastatic breast cancer. Additionally, we explored if a combined analysis of Tie1 and Ang2 levels would help to identify the patients with poor prognosis in need of novel treatment approaches.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Methods</head><p>All together 65 patients with histologically verified HER2-negative advanced breast cancer were enrolled into the single-arm, prospective, phase 2 study in three Finnish university cancer clinics between May 2009 and October 2013 (NCT00979641). The method of patient recruitment, the study design and the clinical trial results were previously published <ref type="bibr" target="#b25">[26]</ref>. Briefly, patients included in the study received a taxane (paclitaxel 90 mg/m 2 on days 1, 8 and 15 or docetaxel 50 mg/m 2 on days 1 and 15) with bevacizumab (10 mg/kg on days 1 and 15) on a treatment cycle of 4 weeks as the first-line chemotherapy for metastatic breast cancer. Docetaxel was given to 32 patients and 33 patients received paclitaxel.</p><p>Bevacizumab 15 mg/kg every three weeks was continued as maintenance therapy for those patients with non-progressive disease after taxane discontinuation. In addition to bevacizumab, patients with hormone receptor-positive disease received endocrine therapy. Furthermore, bevacizumab could be continued with second-line chemotherapy. All patients provided written informed consent and the regional Ethics Committee approved the study protocol (R08142M).</p><p>Blood samples were obtained from the patients during treatment. EDTA samples for plasma analysis were obtained at the baseline, every 6 weeks during the bevacizumab-taxane combination, at the discontinuation of taxane treatment, during the bevacizumab maintenance therapy, first every three weeks for the first two months and thereafter every 12 weeks, and at the final study visit.</p><p>Healthy control samples were obtained from 10 women participating in a mammography screening program at the Hatanpää Breast Clinic in Tampere. These women voluntarily participated in a breast cancer primary prevention study currently in progress at the University of Tampere and, as a part of the accepted protocol, blood samples were drawn for scientific purposes. All participants gave their written informed consent and the regional Ethics Committee approved the study (R15023).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Measurement of plasma Tie1 and Ang2 levels by ELISA assay</head><p>Tie1 and Ang2 levels were measured in patient plasma samples using a modified hTie1 and hAng2 ELISA protocol (R&amp;D Systems Europe Ltd., Abingdon, UK, Duoset, DY5907 and DY623, respectively). Briefly, a 96well plate was coated with 100 μl of diluted capture antibody (1:180 in PBS) per well and incubated o/n at room temperature (RT). The wells were washed three times with PBS-0.05% Tween 20, followed by blocking with 300 μl/well of the Reagent Diluent 2 (R&amp;D, Y995) for 1.5 h at RT on an orbital shaker for Tie1 or with 250 μl/ well of 1% BSA in PBS for 1 h at RT for Ang2. The wells were washed 3 x with PBS-0.05% Tween 20. For Tie1, 50 μl/well of the reagent RD1-89 (R&amp;D, DILUENT08) was added. Standards and samples diluted in the RD5-17 reagent (R&amp;D, RD508) were pipetted into the wells at 100 μl/well and incubated for 2 h at RT on an orbital shaker. For Ang2, 100 μl of a sample or standards in diluent reagent (1% BSA in PBS) was added to the wells, and incubated for 2 h at RT. The wells were washed 3 x with PBS-0.05% Tween 20 and 100 μl of detection antibody diluted 1:180 in diluent reagent (Reagent Diluent 2, R&amp;D, for Tie1, 1% BSA in PBS for Ang2) was added and incubated for 2 h at RT on an orbital shaker for Tie1 and for 1.5 h at RT for Ang2. After washing 3 x with PBS-0.05% Tween 20, 100 ul of SA-HRP solution per well (in Reagent Diluent 2 for Tie1, and in 1% BSA in PBS for Ang2) was added before incubating for 20 min at RT. The wells were washed 3 x with PBS-0.05% Tween 20. Then a mixture of Color Reagent A and Color Reagent B for Tie1 (R&amp;D, DY999) and BioFX®TMB substrate solution for Ang2 (SurModics, Eden Prairie, MN, USA) was added at 100 μl/well and incubated for 20 min in the dark at RT. Stop solution (50 μl of 1 M HCl) was added, and the absorbance of each well was measured within 20-30 min using a microplate reader with the filter set to 450 nm and the correction wavelength set to 540 nm. The interassay coefficients of variation for Tie1 and Ang2 were 11.4 and 7.1%, respectively.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Patient characteristics</head><p>The patient population and the analyzed plasma samples were identical to our previous paper focusing on plasma interleukin-8 levels as a prognostic marker <ref type="bibr" target="#b26">[27]</ref>. At the baseline, plasma samples were available from 53 patients (82%). Overall, plasma samples were available from 58 (89%) of the 65 patients treated in the study. Key characteristics of the study population and the main efficacy outcomes are presented in <ref type="table" target="#tab_0">Table 1</ref>. Plasma samples for Tie1 and Ang2 were analyzed at four time points: at the baseline, six weeks after the treatment initiation, six months after the treatment initiation and at the final visit. The number of patients that had plasma samples analyzed and the reasons for exclusions are presented in a flow chart <ref type="figure">(Fig. 1</ref>). Six weeks' and six months' samples were available only for those patients that were still on study treatment at that time point.</p><p>The median progression-free survival (PFS) and overall survival (OS) were similar for patients treated with docetaxel or paclitaxel (PFS: p = 0.47, OS: p = 0.77). The median OS for patients with triple-negative breast cancer was 17.9 months (95% CI 8.5-26.9). Furthermore, the median OS for patients with hormone receptor positive metastatic breast cancer was 45.0 months (95% CI 30.2-51.3).</p><p>The mean age of the ten healthy controls was 57.8 years (range 54-67).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Statistical analysis</head><p>The statistical plan for the biomarker analysis was exploratory. Tie1 and Ang2 were dichotomized as low or high for each patient using the median value as the cutoff. Sensitivity, specificity and area under curve (AUC) for plasma Tie1 concentration were determined using receiver operator characteristic (ROC) analysis. Baseline Tie1 or Ang2 levels as independent prognostic factors (below/above median) were evaluated using Cox proportional hazard regression analysis. Multivariate analysis was performed using the Cox model, and it was adjusted by age (continuous), menopausal status (yes/no), hormone receptor status (negative/positive), presence of visceral metastasis (yes/no), number of metastatic lesions (cut-off of three metastatic lesions) and extent of the disease (cutoff of three metastatic sites). The Mann-Whitney U test </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Results</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Tie1 and Ang2 plasma levels</head><p>For the study population, the median Tie1 level at baseline was 21.0 ng/ml (95% CI 17.8-23.3, <ref type="figure" target="#fig_0">Fig. 2a</ref>), and the median Ang2 level at baseline was 1.29 ng/ml (95% CI 1.03-1.52, <ref type="figure" target="#fig_0">Fig. 2b</ref>). The baseline Tie1 levels were significantly lower in the healthy controls than in the metastatic breast cancer patients <ref type="figure" target="#fig_0">(Fig. 2a)</ref>. The median Tie1 level for healthy controls was 12.8 ng/ml (95% CI 10.4-16.5, <ref type="figure" target="#fig_0">Fig. 2a</ref>). The most optimal cut-off value (16.0 ng/ml) for plasma Tie1 concentration had a sensitivity of 77.4%, but a specificity of only 30.0%, for distinguishing metastatic breast cancer patients from healthy controls with an AUC 0.917 (95% CI 0.839-0.995, p &lt; 0.001).</p><p>There were no statistically significant differences in baseline Tie1 or Ang2 levels between groups with different baseline characteristics, including menopausal status (p = 0.09 for Tie1, p = 0.13 for Ang2), hormone receptor status (p = 0.80 for Tie1, p = 0.14 for Ang2), number of metastatic lesions (p = 0.69 for Tie1, p = 0.37 for Ang2) or visceral disease (p = 0.92 for Tie1, p = 0.15 for Ang2). Only the patients with more than three metastatic sites had significantly higher baseline Tie1 levels than the patients with fewer metastatic sites (median Tie1 23.7 ng/ml, 95% CI 21.0-29.0 vs. 17.8 ng/ml, 95% CI 16.0-21.1, p = 0.002). Similarly, the patients with more than three metastatic sites had significantly higher baseline Ang2 levels (median Ang2 1.08 ng/ml, 95% CI 0.66-1.36 vs. 1.54 ng/ml, 95% CI 1.23-2.29, p = 0.008).</p><p>Differences in Tie1 and Ang2 concentrations between baseline and week six samples were analyzed to evaluate the treatment effect. The median baseline Tie1 level was 21.0 ng/ml (95% CI 17.8-23.3), which was significantly higher than the median Tie1 level at six weeks (15.4 ng/ml [95% CI 14.1-17.1], p &lt; 0.001, <ref type="figure" target="#fig_0">Fig. 2a</ref>). The median decrease in the Tie1 level between these two time points was 22.9% (95% CI 20.9-27.4). The median baseline Ang2 level was 1.29 ng/ml (95% CI 1.03-1.52) and the median Ang2 level at six weeks was 0.62 ng/ml (95% CI 0.57-0.84). The median decrease in the levels of Ang2 from the baseline to six weeks, 47.0% (95% CI 34.5-52.9), was also statistically significant (p &lt; 0.001, <ref type="figure" target="#fig_0">Fig. 2b</ref>).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Effect of Tie1 or Ang2 levels on survival</head><p>Median progression-free survival was longer for patients in the low baseline Tie1 level group than for the patients in the high baseline Tie1 group <ref type="figure" target="#fig_1">(Fig. 3a</ref>, <ref type="table" target="#tab_2">Table 2</ref>). No difference was observed in progression-free survival in relation to baseline Ang2 levels <ref type="figure" target="#fig_1">(Fig. 3b</ref>, <ref type="table" target="#tab_2">Table 2</ref>).</p><p>The overall survival was significantly shorter for patients with a high baseline Tie1 concentration <ref type="figure" target="#fig_1">(Fig. 3c</ref>, <ref type="table" target="#tab_1">Table 3</ref>). Additionally, patients with high baseline Ang2 levels had shorter overall survival when analyzed by the age-adjusted Cox hazard regression model <ref type="table" target="#tab_1">(Table 3)</ref>. However, in a multivariate Cox model adjusted by age, menopausal status, hormone receptor status, presence of visceral metastases, number of metastatic lesions and extent of disease, a high baseline levels of Ang2 alone was not a significant factor for poor prognosis <ref type="figure" target="#fig_1">(Fig. 3d</ref>, <ref type="table" target="#tab_1">Table 3</ref>).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Effect of combined analysis of Tie1 and Ang2 levels on survival</head><p>For progression-free survival, the combined analysis of baseline Tie1 and Ang2 levels did not add any value compared to the Tie1 analysis on its own <ref type="figure" target="#fig_0">(Fig. 4a, Table 2</ref>). However, the combined analysis for high or low baseline <ref type="figure">Fig. 1</ref> Flow diagram of study patient plasma samples analyzed at baseline, after six weeks' treatment, after six months' treatment and at final visit. Final plasma samples were taken at the final study visit and the reasons for discontinuation are presented in the chart Tie1 and Ang2 levels was more effective in the selection of patients with better overall survival <ref type="figure">(Fig. 4b</ref>, <ref type="table" target="#tab_1">Table 3</ref>). The median overall survival for patients with low baseline levels of both Tie1 and Ang2 was 46.8 months (95% CI 23.8-79.8). In contrast, the median overall survival for patients with high baseline levels of both Tie1 and Ang2 was only 21.5 months (95% CI 8.8-34.7).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Changes in plasma tie 1 or Ang2 levels and prognosis</head><p>The median decline in Ang2 levels between baseline and week six was 47.0%. The patients with Ang2 level decline higher than the median value had significantly worse prognoses. Multivariate Hazard Ratio (HR) for overall survival was 4.53 (95% CI 1.82-11.27, p = 0.001). In contrast, a high Tie1 decline during the first six weeks of treatment was not prognostic. The median Tie1 decline during this time period was 22.9%. The patients had similar survival whether they had Tie1 decline higher or lower than median value between baseline and week six (multivariate HR for overall survival 1.04, 95% CI 0.46-2.33, p = 0.921).</p><p>Only seven patients, i.e. 14% of the patients whose final samples were available, had at least 30% increased Tie1 plasma concentrations at their final visits, when compared to the previous measurements in each patient. For all these patients, the reason for study discontinuation was disease progression. Nevertheless, these patients had a similar overall survival as the patients with stable or declining Tie1 levels (multivariate HR 2.30, 95% CI 0.90-5.85, p = 0.078). At least 30% increased Ang2 concentration was observed in 24 patients at their final visits (48% of the patients whose final samples were available). The overall survival of these patients was significantly worse than in the patients with stable or declining Ang2 values (multivariate HR 2.17, 95% CI 1.09-4.31, p = 0.027).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Discussion</head><p>The baseline concentration of the extracellular fragment of the orphan Tie1 receptor in bevacizumab plus taxane-treated breast carcinoma patients was found to be associated with both their overall survival and their progression-free survival (multivariate HR for overall survival 3.07, 95% CI 1.39-6.79, p = 0.005, multivariate HR for progression-free survival 3.78, 95% CI 1.57-9.09, p = 0.003). Previous studies have reported strong Tie1 expression in malignant tissues, including breast cancer <ref type="bibr" target="#b22">[23,</ref><ref type="bibr" target="#b27">[28]</ref><ref type="bibr" target="#b28">[29]</ref><ref type="bibr" target="#b29">[30]</ref>. In gastric cancer, patients with Tie1 expression in their formalin-embedded tissue specimens had worse survival than the patients without Tie1 expression <ref type="bibr" target="#b29">[30]</ref>. However, the prognostic value of circulating Tie1 levels has not been previously studied in malignant diseases.</p><p>Metastatic breast cancer patients had significantly higher baseline plasma Tie1 levels than the healthy controls (p &lt; 0.001). However, circulating Ang2 levels are known to be higher on cancer patients <ref type="bibr" target="#b30">[31]</ref> and therefore, we did not analyze plasma Ang2 levels on healthy controls.</p><p>Previous studies have indicated that the high concentration of the circulating Tie2 ligand Ang2 is associated with poor patient prognosis <ref type="bibr" target="#b15">[16]</ref><ref type="bibr" target="#b16">[17]</ref><ref type="bibr" target="#b17">[18]</ref><ref type="bibr" target="#b18">[19]</ref>, and Ang2/Tie system-targeting antibodies and tyrosine kinase inhibitors are currently in clinical trials, including in those focused on breast cancer <ref type="bibr" target="#b19">[20,</ref><ref type="bibr" target="#b21">22]</ref>. In our study however, the a b baseline Ang2 level was not a significant prognostic marker for either progression-free survival or overall survival. However, it has been reported that an increase in serum Ang2 concentration during anti-VEGF treatment contributes to acquired drug resistance <ref type="bibr" target="#b31">[32]</ref>. In our study, for the final plasma samples, a cut-off point of 30% was chosen because it was considered as a clinically meaningful change. In half of the patients of our study, the Ang2 plasma concentration was the highest at their final visit, and these patients had poor overall survival (multivariate HR 2.17, 95% CI 1.09-4.31, p = 0.027), perhaps because of increased acquired tumor chemoresistance <ref type="bibr" target="#b31">[32]</ref>.</p><p>Targeting of both Tie1 and Ang2 would be an interesting trial approach in the future for the treatment of breast cancer. In our study, high baseline Tie1 and Ang2 concentrations were associated with median overall survival of only 21.5 months (95% CI 8.8-34.7). This was significantly less than in the patients who had low plasma concentrations of both Tie1 and Ang2 (46.8 months, 95% CI 23.8-79.8, p = 0.009). Interestingly, additive inhibition of tumor growth was observed when angiopoietin activity was blocked in Tie1-deficient mice <ref type="bibr" target="#b3">[4]</ref>. The possible synergistic effect of dual inhibition of Tie1 and Ang2 might be due to Ang2 influencing earlier phase in tumor growth than Tie1 <ref type="bibr" target="#b24">[25]</ref>. According to our study, high baseline Tie1 level appears to be the best way to find the patients with short progression-free survival. In fact, the baseline Ang2 level and the combined analysis of Tie1 and Ang2 baseline levels do not provide additional information in terms of progression-free survival compared to Tie1 levels alone.</p><p>The Tie1 levels in healthy individuals were lower than in patients with metastatic disease before chemotherapy. During the bevacizumab and taxane therapy, the Tie1 levels declined substantially. However, the decline in Tie1 concentration was not related to the patient survival. Only the decrease in Ang2 concentration was prognostic, with a multivariate hazard ratio of 4.53 (95% CI 1.82-11.27, p = 0.001).</p><p>Bevacizumab has been investigated in several phase III trials as treatment of metastatic breast cancer. However, none of the trials has proven overall survival advantage for patients treated with bevacizumab <ref type="bibr" target="#b32">[33]</ref>. Therefore, bevacizumab in only recommended for the treatment of highly selected patients with a need of a tumor response more commonly achieved with bevacizumab <ref type="bibr" target="#b32">[33,</ref><ref type="bibr" target="#b33">34]</ref>. All of our study patients were treated with bevacizumab. However, the effect of bevacizumab to Tie1 levels remains unexplored in this study. However, the main finding of our study was the prognostic value of pretreatment circulating Tie1 levels and bevacizumab did not confound this analysis.</p><p>Although, to our knowledge, this is the first study to evaluate the prognostic role of plasma Tie1 levels in  breast cancer patients, the study has some limitations.</p><p>Our study is a single-arm study with no control arm, and thus, the impact of bevacizumab on patient survival and the Tie1 and Ang2 concentrations during therapy cannot be evaluated. Furthermore, the study population size is limited, and therefore, our findings must be validated in a larger patient cohort.</p><p>Although immunohistochemical staining of Tie1 in tumor samples is associated with poor patient survival in breast cancer <ref type="bibr" target="#b34">[35]</ref>, the availability of tissue samples from metastatic tumors varies depending on tumor location, tumor load and the clinical need to accept the complication risks and discomfort related to needle aspirations. Circulating prognostic markers are more useful, and thus, high baseline circulating Tie1 and Ang2 levels before and during the treatment can be an additional way to identify patients with poor prognoses in this patient population, regardless of standard clinical characteristics. Most such patients do not derive a long-term benefit from the current chemotherapy treatment options. Novel treatment approaches, for example immunotherapies, are entering the clinics for many malignant diseases, and patients with poor prognoses should increasingly be referred to clinical trials. In preclinical studies, anti-angiogenic drugs and immune checkpoint inhibitors have demonstrated synergistic benefits <ref type="bibr" target="#b35">[36]</ref>, and they should be further studied in prospective clinical trials.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Conclusions</head><p>High baseline plasma Tie1 level is a promising prognostic marker for both poor progression-free survival and for poor overall survival in metastatic breast patients treated with bevacizumab-taxane combination. The predictive value of circulating Tie1 levels should be evaluated in prospective clinical trials.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>Fig. 2</head><label>2</label><figDesc>Plasma Tie1 and Ang2 levels. a Tie1 levels of healthy controls compared to the Tie1 levels of patients with metastatic breast cancer at baseline and at week six after treatment. b Ang2 levels of patients with metastatic breast cancer at baseline and at week six after treatment. mBCa = metastatic breast cancer</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head>Fig. 3</head><label>3</label><figDesc>Progression-free survivals and overall survivals grouped by baseline plasma Tie1 or Ang2 levels a Progression-free survival for patients with high or low plasma Tie1 at baseline. b Progression-free survival for patients with high or low plasma Ang2 at baseline. c Overall survival for patients with high or low plasma Tie1 at baseline. d Overall survival for patients with high or low plasma Ang2 at baseline. Cox regression analysis adjusted by age, menopausal status, hormone receptor status, presence of visceral metastasis, number of metastatic lesions and extent of the disease</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>Table 1</head><label>1</label><figDesc>Baseline characteristics and the efficacy outcomes of the plasma biomarker population compared to the overall study population</figDesc><table><row><cell></cell><cell>Plasma biomarker</cell><cell>Overall study</cell></row><row><cell></cell><cell>population (n = 58)</cell><cell>population (n = 65)</cell></row><row><cell>Age, years</cell><cell></cell><cell></cell></row><row><cell>Median (range)</cell><cell>58 (32-75)</cell><cell>57 (32-75)</cell></row><row><cell>Menopausal status, n (%)</cell><cell></cell><cell></cell></row><row><cell>Pre-menopausal</cell><cell>9 (15.5)</cell><cell>10 (15.4)</cell></row><row><cell>Post-menopausal</cell><cell>49 (84.5)</cell><cell>55 (84.6)</cell></row><row><cell>History of early stage disease,</cell><cell>52 (89.7)</cell><cell>57 (87.7)</cell></row><row><cell>n (%)</cell><cell></cell><cell></cell></row><row><cell>Disease free interval, n (%)</cell><cell></cell><cell></cell></row><row><cell>≤ 24 months</cell><cell>10 (19.2)</cell><cell>11 (19.3)</cell></row><row><cell>&gt; 24 months</cell><cell>42 (80.8)</cell><cell>46 (80.7)</cell></row><row><cell>Hormone receptor status, n (%)</cell><cell></cell><cell></cell></row><row><cell>ER+ and/or PR+</cell><cell>47 (81.0)</cell><cell>53 (81.5)</cell></row><row><cell>ER-and PR-</cell><cell>11 (19.0)</cell><cell>12 (18.5)</cell></row><row><cell cols="2">Number of metastatic lesions, n (%)</cell><cell></cell></row><row><cell>≤ 3</cell><cell>11 (19.0)</cell><cell>14 (21.5)</cell></row><row><cell>&gt; 3</cell><cell>47 (81.0)</cell><cell>51 (78.5)</cell></row><row><cell>Extent of disease</cell><cell></cell><cell></cell></row><row><cell>&lt; 3 sites</cell><cell>36 (62.1)</cell><cell>39 (60.0)</cell></row><row><cell>≥ 3 sites</cell><cell>22 (37.9)</cell><cell>26 (40.0)</cell></row><row><cell>Site of metastatic disease, n (%)</cell><cell></cell><cell></cell></row><row><cell>Visceral disease</cell><cell>46 (79.3)</cell><cell>53 (81.5)</cell></row><row><cell>Non-visceral disease</cell><cell>12 (20.7)</cell><cell>12 (18.5)</cell></row><row><cell>Median overall survival,</cell><cell>37.5 (25.4-49.6)</cell><cell>35.1 (22.2-50.3)</cell></row><row><cell>months (95% CI)</cell><cell></cell><cell></cell></row><row><cell>Median progression-free</cell><cell>11.3 (8.3-14.4)</cell><cell>11.3 (9.7-16.0)</cell></row><row><cell>survival, months (95% CI)</cell><cell></cell><cell></cell></row><row><cell>Response to treatment</cell><cell></cell><cell></cell></row><row><cell>Complete response/partial</cell><cell>38 (71.7)</cell><cell>40 (61.5)</cell></row><row><cell>response</cell><cell></cell><cell></cell></row><row><cell>Stable disease</cell><cell>13 (24.5)</cell><cell>15 (23.1)</cell></row><row><cell>Progressive disease</cell><cell>2 (3.8)</cell><cell>3 (4.6)</cell></row></table><note>P-values under 0.05 were considered statisti- cally significant. Statistical analyses were performed using SPSS version 23 statistical software package (SPSS Inc., Chicago, IL, USA).</note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_1"><head>Table 3</head><label>3</label><figDesc>Cox regression analysis for overall survival</figDesc><table><row><cell></cell><cell>N</cell><cell>n</cell><cell>Overall survival</cell><cell></cell><cell></cell><cell></cell></row><row><cell></cell><cell></cell><cell></cell><cell>Age-adjusted HR [95% CI]</cell><cell>p value</cell><cell>multivariate HR a [95% CI]</cell><cell>p value</cell></row><row><cell>Baseline Tie1</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Low</cell><cell>27</cell><cell>15</cell><cell>1</cell><cell></cell><cell>1</cell><cell></cell></row><row><cell>High</cell><cell>26</cell><cell>24</cell><cell>2.82 [1.41-5.66]</cell><cell>0.003</cell><cell>3.07 [1.39-6.79]</cell><cell>0.005</cell></row><row><cell>Baseline Ang2</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Low</cell><cell>27</cell><cell>15</cell><cell>1</cell><cell></cell><cell>1</cell><cell></cell></row><row><cell>High</cell><cell>26</cell><cell>24</cell><cell>2.33 [1.20-4.54]</cell><cell>0.012</cell><cell>1.58 [0.72-3.46]</cell><cell>0.246</cell></row><row><cell>Combined analysis</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Tie1 and Ang2 low</cell><cell>18</cell><cell>8</cell><cell>1</cell><cell></cell><cell>1</cell><cell></cell></row><row><cell>Tie1 low, Ang2 high</cell><cell>9</cell><cell>7</cell><cell>2.21 [0.78-6.25]</cell><cell>0.135</cell><cell>1.34 [0.42-4.22]</cell><cell>0.612</cell></row><row><cell>Tie1 high, Ang2 low</cell><cell>9</cell><cell>7</cell><cell>2.77 [0.95-8.09]</cell><cell>0.062</cell><cell>2.73 [0.88-8.46]</cell><cell>0.080</cell></row><row><cell>Tie1 and Ang2 high</cell><cell>17</cell><cell>17</cell><cell>4.79 [1.93-11.90]</cell><cell>0.001</cell><cell>4.32 [1.44-12.94]</cell><cell>0.009</cell></row></table><note>Abbreviations: N number of patients, n number of events, HR hazard ratio, CI confidence interval. Statistically significant results are highlighted in bolda Hazard ratio adjusted by age, menopausal status, hormone receptor status, presence of visceral metastasis, number of metastatic lesions and extent of the disease</note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_2"><head>Table 2</head><label>2</label><figDesc>Cox regression analysis for progression-free survivalAbbreviations: N number of patients, n number of events, HR hazard ratio, CI confidence interval. Statistically significant results are highlighted in bold a Hazard ratio adjusted by age, menopausal status, hormone receptor status, presence of visceral metastasis, number of metastatic lesions and extent of the disease</figDesc><table><row><cell></cell><cell>N</cell><cell>n</cell><cell>Progression-free survival</cell><cell></cell><cell></cell><cell></cell></row><row><cell></cell><cell></cell><cell></cell><cell>Age-adjusted HR [95% CI]</cell><cell>p value</cell><cell>multivariate HR a [95% CI]</cell><cell>p value</cell></row><row><cell>Baseline Tie1</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Low</cell><cell>27</cell><cell>16</cell><cell>1</cell><cell></cell><cell>1</cell><cell></cell></row><row><cell>High</cell><cell>26</cell><cell>15</cell><cell>2.13 [1.02-4.46]</cell><cell>0.043</cell><cell>3.78 [1.57-9.09]</cell><cell>0.003</cell></row><row><cell>Baseline Ang2</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Low</cell><cell>27</cell><cell>14</cell><cell>1</cell><cell></cell><cell>1</cell><cell></cell></row><row><cell>High</cell><cell>26</cell><cell>17</cell><cell>1.21 [0.59-2.47]</cell><cell>0.597</cell><cell>1.22 [0.54-2.77]</cell><cell>0.620</cell></row><row><cell>Combined analysis</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Tie1 and Ang2 low</cell><cell>18</cell><cell>9</cell><cell>1</cell><cell></cell><cell>1</cell><cell></cell></row><row><cell>Tie1 low, Ang2 high</cell><cell>9</cell><cell>7</cell><cell>1.27 [0.47-3.43]</cell><cell>0.632</cell><cell>1.16 [0.39-3.39]</cell><cell>0.783</cell></row><row><cell>Tie1 high, Ang2 low</cell><cell>9</cell><cell>5</cell><cell>3.86 [1.18-12.57]</cell><cell>0.025</cell><cell>4.45 [1.25-15.79]</cell><cell>0.021</cell></row><row><cell>Tie1 and Ang2 high</cell><cell>17</cell><cell>10</cell><cell>2.02 [0.80-5.07]</cell><cell>0.133</cell><cell>3.88 [1.25-12.06]</cell><cell>0.019</cell></row></table><note></note></figure>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Acknowledgements</head><p>We thank Riitta Kauppinen and Heini Sood for their excellent technical assistance. The authors would like to thank the study patients for their consent to participate in the study and the study nurses and Irja Kolehmainen for their contributions to the study.</p></div>
+			</div>
+
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Abbreviations</head><p>Ang: Angiopoietin; Ang2: Angiopoietin-2; CI: Confidence interval; HR: Hazard ratio; RT: Room temperature; VEGF: Vascular endothelial growth factor; VEGFR: Vascular endothelial growth factor receptor Authors' contributions LT analyzed and interpreted the data and wrote the manuscript. KA suggested the study. EAK, and VML designed and performed the Tie1 analysis. MH and EM performed the Ang2 analysis. TL contributed to the statistical data analysis. MT, OL, PV, AJ, PK and PLKL planned the original clinical study design and treated the patients in the study. PLKL and SA were responsible for the breast cancer primary prevention study and provided the healthy control samples. PLKL, the principal investigator, was responsible for the study design, interpreted the data and revised the manuscript. All authors read, revised and approved the final manuscript.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Funding</head><p>This work was funded by the Pirkanmaa Hospital District Science Center and Seppo Nieminen funds (LT, PLKL), the Sigrid Juselius Foundation (KA), the Cancer Society of Finland (KA) and the Orion Research Foundation (EAK). Ang2 analysis was supported financially by Roche Inc. (PLKL). The design of the study, collection, analysis and interpretation of the data was done solely by the authors. The authors were also exclusively responsible for writing the manuscript. </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Availability of data and materials</head><p>The datasets used and analyzed during the current study are available from the corresponding author upon reasonable request.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Ethics approval and consent to participate</head><p>The Ethics Committee of Tampere University Hospital approved the study protocol (R08142M). The trial identifier is NCT00979641. All study patients gave their written informed consent. In addition, the participants in the breast cancer primary prevention study gave their written informed consent for their blood samples to be used for scientific purposes, and this study was also approved by the Ethics Committee of Tampere University Hospital (R15023).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Consent for publication Not applicable</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Competing interests</head><p>The authors declare that they have no competing interests. </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Author details</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Publisher's Note</head><p>Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.</p></div>			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Ten years of anti-vascular endothelial growth factor therapy</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">N</forename><surname>Ferrara</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><forename type="middle">P</forename><surname>Adamis</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nat Rev Drug Discov</title>
+		<imprint>
+			<biblScope unit="volume">15</biblScope>
+			<biblScope unit="page" from="385" to="403" />
+			<date type="published" when="2016" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Control of vascular morphogenesis and homeostasis through the angiopoietin-tie system</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><forename type="middle">G</forename><surname>Augustin</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Young</forename><surname>Koh</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">G</forename><surname>Thurston</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">G</forename><surname>Alitalo</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nat Rev Mol Cell Biol</title>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="page" from="165" to="77" />
+			<date type="published" when="2009" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">The TIE receptor family</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><surname>Saharinen</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Jeltsch</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">M</forename><surname>Santoyo</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">V-M</forename><surname>Leppänen</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><surname>Alitalo</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Receptor Tyrosine Kinases: Family and Subfamilies</title>
+		<editor>Wheeler DL, editor. Yarden Y</editor>
+		<imprint>
+			<publisher>Springer International Publishing</publisher>
+			<date type="published" when="2015" />
+			<biblScope unit="page" from="743" to="75" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Tie1 deletion inhibits tumor growth and improves angiopoietin antagonist therapy</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">G</forename><surname>D'amico</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><forename type="middle">A</forename><surname>Korhonen</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Anisimov</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">G</forename><surname>Zarkada</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Olopainen</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><surname>Hägerling</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Clin Invest</title>
+		<imprint>
+			<biblScope unit="volume">124</biblScope>
+			<biblScope unit="page" from="824" to="858" />
+			<date type="published" when="2014" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Targeting the ANG2/TIE2 Axis inhibits tumor growth and metastasis by impairing angiogenesis and disabling rebounds of proangiogenic myeloid cells</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><surname>Mazzieri</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">F</forename><surname>Pucci</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><surname>Moi</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><surname>Zonari</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Ranghetti</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Berti</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Cancer Cell</title>
+		<imprint>
+			<biblScope unit="volume">19</biblScope>
+			<biblScope unit="page" from="512" to="538" />
+			<date type="published" when="2011" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Therapeutic targeting of the angiopoietin-TIE pathway</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><surname>Saharinen</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">L</forename><surname>Eklund</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><surname>Alitalo</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nat Rev Drug Discov</title>
+		<imprint>
+			<biblScope unit="volume">16</biblScope>
+			<biblScope unit="page" from="635" to="61" />
+			<date type="published" when="2017" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Angiopoietin signaling in the vasculature</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">L</forename><surname>Eklund</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><surname>Saharinen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Exp Cell Res</title>
+		<imprint>
+			<biblScope unit="volume">319</biblScope>
+			<biblScope unit="page" from="1271" to="80" />
+			<date type="published" when="2013" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Multiple angiopoietin recombinant proteins activate the Tie1 receptor tyrosine kinase and promote its interaction with Tie2</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><surname>Saharinen</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><surname>Kerkelä</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">N</forename><surname>Ekman</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Marron</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">N</forename><surname>Brindle</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">G</forename><forename type="middle">M</forename><surname>Lee</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Cell Biol</title>
+		<imprint>
+			<biblScope unit="volume">169</biblScope>
+			<biblScope unit="page" from="239" to="282" />
+			<date type="published" when="2005" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Angiopoietin-2, a Natural Antagonist for Tie2 That Disrupts in vivo Angiogenesis</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><forename type="middle">C</forename><surname>Maisonpierre</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><surname>Suri</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><forename type="middle">F</forename><surname>Jones</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Bartunkova</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><forename type="middle">J</forename><surname>Wiegand</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><surname>Radziejewski</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Science</title>
+		<imprint>
+			<biblScope unit="volume">277</biblScope>
+			<biblScope unit="page" from="55" to="60" />
+			<date type="published" when="1997" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Structural basis of Tie2 activation and Tie2/Tie1 heterodimerization</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">V-M</forename><surname>Leppänen</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><surname>Saharinen</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><surname>Alitalo</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Proc Natl Acad Sci</title>
+		<imprint>
+			<biblScope unit="volume">114</biblScope>
+			<biblScope unit="page" from="4376" to="81" />
+			<date type="published" when="2017" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Tie1 controls angiopoietin function in vascular remodeling and inflammation</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><forename type="middle">A</forename><surname>Korhonen</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Lampinen</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><surname>Giri</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Anisimov</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Kim</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">B</forename><surname>Allen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Clin Invest</title>
+		<imprint>
+			<biblScope unit="volume">126</biblScope>
+			<biblScope unit="page" from="3495" to="510" />
+			<date type="published" when="2016" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Angiopoietin-2 may contribute to multiple organ dysfunction and death in sepsis*</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>David</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Mukherjee</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><forename type="middle">C</forename><surname>Ghosh</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Yano</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><forename type="middle">V</forename><surname>Khankin</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">B</forename><surname>Wenger</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Crit Care Med</title>
+		<imprint>
+			<biblScope unit="volume">40</biblScope>
+			<biblScope unit="page" from="3034" to="3075" />
+			<date type="published" when="2012" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Angiopoietins 1 and 2 and Tie-2 receptor expression in human ductal breast disease</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><forename type="middle">A</forename><surname>Staton</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">L</forename><surname>Hoh</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Baldwin</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">L</forename><surname>Shaw</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Globe</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><forename type="middle">S</forename><surname>Cross</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Histopathology</title>
+		<imprint>
+			<biblScope unit="volume">59</biblScope>
+			<biblScope unit="page" from="256" to="63" />
+			<date type="published" when="2011" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Diagnostic and prognostic potential of serum angiopoietin-2 expression in human breast cancer</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><surname>Li</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Q</forename><surname>He</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><surname>Luo</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">L</forename><surname>Qian</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Int J Clin Exp Pathol</title>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="page" from="660" to="664" />
+			<date type="published" when="2015" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">Angiopoietin-2 expression in breast cancer correlates with lymph node invasion and short survival</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><surname>Sfiligoi</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">De</forename><surname>Luca</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Cascone</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">I</forename><surname>Sorbello</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">V</forename><surname>Fuso</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">L</forename><surname>Ponzone</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Int J Cancer</title>
+		<imprint>
+			<biblScope unit="volume">103</biblScope>
+			<biblScope unit="page" from="466" to="74" />
+			<date type="published" when="2003" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Angiopoietin-2 levels are associated with disease progression in metastatic malignant melanoma</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">I</forename><surname>Helfrich</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">L</forename><surname>Edler</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Sucker</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Thomas</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Christian</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><surname>Schadendorf</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Clin Cancer Res</title>
+		<imprint>
+			<biblScope unit="volume">15</biblScope>
+			<biblScope unit="page" from="1384" to="92" />
+			<date type="published" when="2009" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Identification of serum angiopoietin-2 as a biomarker for clinical outcome of colorectal cancer patients treated with bevacizumab-containing therapy</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">V</forename><surname>Goede</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">O</forename><surname>Coutelle</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Neuneier</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Reinacher-Schick</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><surname>Schnell</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><forename type="middle">C</forename><surname>Koslowsky</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Br J Cancer</title>
+		<imprint>
+			<biblScope unit="volume">103</biblScope>
+			<biblScope unit="page" from="1407" to="1421" />
+			<date type="published" when="2010" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Angiogenesis-and hypoxia-associated proteins as early indicators of the outcome in patients with metastatic breast Cancer given first-line bevacizumab-based therapy</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><forename type="middle">W</forename><surname>Lam</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">N</forename><forename type="middle">M</forename><surname>Nota</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Jager</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Mmemem</forename><surname>Bos</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Van Den Bosch</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Amtt</forename><surname>Van Der Velden</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Clin Cancer Res</title>
+		<imprint>
+			<biblScope unit="volume">22</biblScope>
+			<biblScope unit="page" from="1611" to="1631" />
+			<date type="published" when="2016" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">Evaluation of Angiopoietin-2 as a biomarker in gastric cancer: results from the randomised phase III AVAGAST trial</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">U</forename><forename type="middle">T</forename><surname>Hacker</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">L</forename><surname>Escalona-Espinosa</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">N</forename><surname>Consalvo</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">V</forename><surname>Goede</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">L</forename><surname>Schiffmann</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><forename type="middle">J</forename><surname>Scherer</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Br J Cancer</title>
+		<imprint>
+			<biblScope unit="volume">114</biblScope>
+			<biblScope unit="page" from="855" to="62" />
+			<date type="published" when="2016" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">Targeting the angiopoietin/Tie2 pathway: cutting tumor vessels with a double-edged sword?</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Cascone</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">V</forename><surname>Heymach</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Clin Oncol</title>
+		<imprint>
+			<biblScope unit="volume">30</biblScope>
+			<biblScope unit="page" from="441" to="445" />
+			<date type="published" when="2012" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">Final results of a phase 3 study of trebananib plus weekly paclitaxel in recurrent ovarian cancer (TRINOVA-1): long-term survival, impact of ascites, and progression-free survival-2</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">B</forename><forename type="middle">J</forename><surname>Monk</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Poveda</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">I</forename><surname>Vergote</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">F</forename><surname>Raspagliesi</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><surname>Fujiwara</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><forename type="middle">S</forename><surname>Bae</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Gynecol Oncol</title>
+		<imprint>
+			<biblScope unit="volume">143</biblScope>
+			<biblScope unit="page" from="27" to="34" />
+			<date type="published" when="2016" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">AMG 386) plus weekly paclitaxel with or without bevacizumab as first-line therapy for HER2-negative locally recurrent or metastatic breast cancer: a phase 2 randomized study</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">V</forename><surname>Diéras</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><surname>Wildiers</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Jassem</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">L</forename><forename type="middle">Y</forename><surname>Dirix</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J-P</forename><surname>Guastalla</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><surname>Bono</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Breast</title>
+		<imprint>
+			<biblScope unit="volume">24</biblScope>
+			<biblScope unit="page" from="182" to="90" />
+			<date type="published" when="2015" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">Enhanced expression of the tie receptor tyrosine kinase mesenger RNA in the vascular endothelium of metastatic melanomas</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Kaipainen</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Vlaykova</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><surname>Hatva</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Böhling</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Jekunen</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Pyrhönen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Cancer Res</title>
+		<imprint>
+			<biblScope unit="volume">54</biblScope>
+			<biblScope unit="page" from="6571" to="6578" />
+			<date type="published" when="1994" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title level="a" type="main">Opposing actions of angiopoietin-2 on Tie2 signaling and FOXO1 activation</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Kim</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">B</forename><surname>Allen</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><forename type="middle">A</forename><surname>Korhonen</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Nitschké</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><forename type="middle">W</forename><surname>Yang</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><surname>Baluk</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Clin Invest</title>
+		<imprint>
+			<biblScope unit="volume">126</biblScope>
+			<biblScope unit="page" from="3511" to="3536" />
+			<date type="published" when="2016" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title level="a" type="main">Endothelial Tie1-mediated angiogenesis and vascular abnormalization promote tumor progression and metastasis</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">La</forename><surname>Porta</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Roth</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">L</forename><surname>Singhal</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Mogler</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><surname>Spegg</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><surname>Schieb</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">B</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Clin Invest</title>
+		<imprint>
+			<biblScope unit="volume">128</biblScope>
+			<biblScope unit="page" from="834" to="879" />
+			<date type="published" when="2018" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title level="a" type="main">Bevacizumab combined with docetaxel or paclitaxel as first-line treatment of HER2-negative metastatic breast Cancer</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">L</forename><surname>Tiainen</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Tanner</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">O</forename><surname>Lahdenpera</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><surname>Vihinen</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Jukkola</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><surname>Karihtala</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Anticancer Res</title>
+		<imprint>
+			<biblScope unit="volume">36</biblScope>
+			<biblScope unit="page" from="6431" to="6439" />
+			<date type="published" when="2016" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<monogr>
+		<title level="m" type="main">Low plasma IL-8 levels during chemotherapy are predictive of excellent long-term survival in metastatic breast Cancer. Clin Breast Cancer</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">L</forename><surname>Tiainen</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Hamalainen</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Luukkaala</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Tanner</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">O</forename><surname>Lahdenpera</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><surname>Vihinen</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.clbc.2019.03.006</idno>
+		<ptr target="https://doi.org/10.1016/j.clbc.2019.03.006" />
+		<imprint>
+			<date type="published" when="2019" />
+		</imprint>
+	</monogr>
+	<note>Epub ahead of print</note>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+		<title level="a" type="main">Overexpression of the receptor tyrosine kinase tie-1 intracellular domain in breast cancer</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">X</forename><forename type="middle">H</forename><surname>Yang</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><forename type="middle">A</forename><surname>Hand</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><forename type="middle">A</forename><surname>Livasy</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">W</forename><forename type="middle">G</forename><surname>Cance</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><forename type="middle">J</forename><surname>Craven</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Tumor Biol</title>
+		<imprint>
+			<biblScope unit="volume">24</biblScope>
+			<biblScope unit="page" from="61" to="70" />
+			<date type="published" when="2003" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<analytic>
+		<title level="a" type="main">Elevated expression of Tie1 is accompanied by acquisition of cancer stemness properties in colorectal cancer</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Torigata</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><surname>Yamakawa</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">N</forename><surname>Takakura</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Cancer Med</title>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="page" from="1378" to="88" />
+			<date type="published" when="2017" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<analytic>
+		<title level="a" type="main">Tie-1 protein tyrosine kinase: a novel independent prognostic marker for gastric cancer</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">W</forename><forename type="middle">C</forename><surname>Lin</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><forename type="middle">F</forename><surname>Li</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><forename type="middle">W</forename><surname>Chi</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">W</forename><forename type="middle">W</forename><surname>Chung</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><forename type="middle">L</forename><surname>Huang</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">W</forename><forename type="middle">Y</forename><surname>Lui</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Clin Cancer Res</title>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="page" from="1745" to="51" />
+			<date type="published" when="1999" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<analytic>
+		<title level="a" type="main">The role of angiopoietins as potential therapeutic targets in renal cell carcinoma</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">X</forename><surname>Wang</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><forename type="middle">J</forename><surname>Bullock</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">L</forename><surname>Zhang</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">L</forename><surname>Wei</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><surname>Yu</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><surname>Mahagaokar</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Transl Oncol</title>
+		<imprint>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="page" from="188" to="95" />
+			<date type="published" when="2014" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<analytic>
+		<title level="a" type="main">Role of angiopoietin-2 in adaptive tumor resistance to VEGF signaling blockade</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">N</forename><surname>Rigamonti</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><surname>Kadioglu</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">I</forename><surname>Keklikoglou</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Wyser</forename><surname>Rmili</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><surname>Leow</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><forename type="middle">C</forename></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">De</forename><surname>Palma</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Cell Rep</title>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="page" from="696" to="706" />
+			<date type="published" when="2014" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<analytic>
+		<title level="a" type="main">First-line bevacizumab in combination with chemotherapy for HER2-negative metastatic breast cancer: pooled and subgroup analyses of data from 2447 patients</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><forename type="middle">W</forename><surname>Miles</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">V</forename><surname>Dieras</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Cortes</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A-A</forename><surname>Duenne</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Yi</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">O</forename><surname>Shaughnessy</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ann Oncol</title>
+		<imprint>
+			<biblScope unit="volume">24</biblScope>
+			<biblScope unit="page" from="2773" to="80" />
+			<date type="published" when="2013" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<analytic>
+		<title level="a" type="main">4th ESO-ESMO international consensus guidelines for advanced breast Cancer (ABC 4) †</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">F</forename><surname>Cardoso</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><surname>Senkus</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Costa</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><surname>Papadopoulos</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Aapro</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">F</forename><surname>André</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ann Oncol</title>
+		<imprint>
+			<biblScope unit="volume">29</biblScope>
+			<biblScope unit="page" from="1634" to="57" />
+			<date type="published" when="2018" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<analytic>
+		<title level="a" type="main">Tie-1 tyrosine kinase is an independent prognostic indicator for invasive breast cancer</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">L</forename><forename type="middle">M</forename><surname>Tseng</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><forename type="middle">Y</forename><surname>Hsu</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><forename type="middle">C</forename><surname>Wang</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">M</forename><surname>Liu</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><forename type="middle">M</forename><surname>Chang</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><forename type="middle">S</forename><surname>Lo</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Anticancer Res</title>
+		<imprint>
+			<biblScope unit="volume">21</biblScope>
+			<biblScope unit="issue">3C</biblScope>
+			<biblScope unit="page" from="2163" to="70" />
+			<date type="published" when="2001" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b35">
+	<analytic>
+		<title level="a" type="main">Dual angiopoietin-2 and VEGFA inhibition elicits antitumor immunity that is enhanced by PD-1 checkpoint blockade</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Schmittnaegel</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">N</forename><surname>Rigamonti</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><surname>Kadioglu</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Cassará</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><surname>Wyser Rmili</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Kiialainen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Sci Transl Med</title>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<date type="published" when="2017" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

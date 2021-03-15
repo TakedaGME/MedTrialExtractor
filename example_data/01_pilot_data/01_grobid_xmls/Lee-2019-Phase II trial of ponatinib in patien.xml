@@ -1,0 +1,934 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /data/rsg/nlp/juanmoo1/bin/grobid-0.6.1/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Phase II trial of ponatinib in patients with bevacizumabrefractory glioblastoma</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author role="corresp">
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Eudocia</forename><forename type="middle">Q</forename><surname>Lee</surname></persName>
+							<email>eqlee@partners.org</email>
+							<affiliation key="aff0">
+								<orgName type="department">Dana-Farber/Brigham and Women&apos;s Cancer Center</orgName>
+								<address>
+									<settlement>Boston</settlement>
+									<region>Massachusetts</region>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="institution">Harvard Medical School</orgName>
+								<address>
+									<settlement>Boston</settlement>
+									<region>Massachusetts</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Alona</forename><surname>Muzikansky</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="institution">Harvard Medical School</orgName>
+								<address>
+									<settlement>Boston</settlement>
+									<region>Massachusetts</region>
+								</address>
+							</affiliation>
+							<affiliation key="aff2">
+								<orgName type="institution">Massachusetts General Hospital</orgName>
+								<address>
+									<settlement>Boston</settlement>
+									<region>Massachusetts</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Dan</forename><forename type="middle">G</forename><surname>Duda</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="institution">Harvard Medical School</orgName>
+								<address>
+									<settlement>Boston</settlement>
+									<region>Massachusetts</region>
+								</address>
+							</affiliation>
+							<affiliation key="aff2">
+								<orgName type="institution">Massachusetts General Hospital</orgName>
+								<address>
+									<settlement>Boston</settlement>
+									<region>Massachusetts</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Sarah</forename><surname>Gaffey</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Dana-Farber/Brigham and Women&apos;s Cancer Center</orgName>
+								<address>
+									<settlement>Boston</settlement>
+									<region>Massachusetts</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">|</forename><forename type="middle">Jorg</forename><surname>Dietrich</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="institution">Harvard Medical School</orgName>
+								<address>
+									<settlement>Boston</settlement>
+									<region>Massachusetts</region>
+								</address>
+							</affiliation>
+							<affiliation key="aff2">
+								<orgName type="institution">Massachusetts General Hospital</orgName>
+								<address>
+									<settlement>Boston</settlement>
+									<region>Massachusetts</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Lakshmi</forename><surname>Nayak</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Dana-Farber/Brigham and Women&apos;s Cancer Center</orgName>
+								<address>
+									<settlement>Boston</settlement>
+									<region>Massachusetts</region>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="institution">Harvard Medical School</orgName>
+								<address>
+									<settlement>Boston</settlement>
+									<region>Massachusetts</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Ugonma</forename><forename type="middle">N</forename><surname>Chukwueke</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Dana-Farber/Brigham and Women&apos;s Cancer Center</orgName>
+								<address>
+									<settlement>Boston</settlement>
+									<region>Massachusetts</region>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="institution">Harvard Medical School</orgName>
+								<address>
+									<settlement>Boston</settlement>
+									<region>Massachusetts</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Rameen</forename><surname>Beroukhim</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Dana-Farber/Brigham and Women&apos;s Cancer Center</orgName>
+								<address>
+									<settlement>Boston</settlement>
+									<region>Massachusetts</region>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="institution">Harvard Medical School</orgName>
+								<address>
+									<settlement>Boston</settlement>
+									<region>Massachusetts</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Lisa</forename><surname>Doherty</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Dana-Farber/Brigham and Women&apos;s Cancer Center</orgName>
+								<address>
+									<settlement>Boston</settlement>
+									<region>Massachusetts</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Caroline</forename><forename type="middle">Kane</forename><surname>Laub</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Dana-Farber/Brigham and Women&apos;s Cancer Center</orgName>
+								<address>
+									<settlement>Boston</settlement>
+									<region>Massachusetts</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Debra</forename><surname>Lafrankie</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Dana-Farber/Brigham and Women&apos;s Cancer Center</orgName>
+								<address>
+									<settlement>Boston</settlement>
+									<region>Massachusetts</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Brittney</forename><surname>Fontana</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Dana-Farber/Brigham and Women&apos;s Cancer Center</orgName>
+								<address>
+									<settlement>Boston</settlement>
+									<region>Massachusetts</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Jennifer</forename><surname>Stefanik</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Dana-Farber/Brigham and Women&apos;s Cancer Center</orgName>
+								<address>
+									<settlement>Boston</settlement>
+									<region>Massachusetts</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Sandra</forename><surname>Ruland</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Dana-Farber/Brigham and Women&apos;s Cancer Center</orgName>
+								<address>
+									<settlement>Boston</settlement>
+									<region>Massachusetts</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Victoria</forename><surname>Caruso</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Dana-Farber/Brigham and Women&apos;s Cancer Center</orgName>
+								<address>
+									<settlement>Boston</settlement>
+									<region>Massachusetts</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Jennifer</forename><surname>Bruno</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Dana-Farber/Brigham and Women&apos;s Cancer Center</orgName>
+								<address>
+									<settlement>Boston</settlement>
+									<region>Massachusetts</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">|</forename><forename type="middle">Keith</forename><surname>Ligon</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Dana-Farber/Brigham and Women&apos;s Cancer Center</orgName>
+								<address>
+									<settlement>Boston</settlement>
+									<region>Massachusetts</region>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="institution">Harvard Medical School</orgName>
+								<address>
+									<settlement>Boston</settlement>
+									<region>Massachusetts</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">David</forename><forename type="middle">A</forename><surname>Reardon</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Dana-Farber/Brigham and Women&apos;s Cancer Center</orgName>
+								<address>
+									<settlement>Boston</settlement>
+									<region>Massachusetts</region>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="institution">Harvard Medical School</orgName>
+								<address>
+									<settlement>Boston</settlement>
+									<region>Massachusetts</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Patrick</forename><forename type="middle">Y</forename><surname>Wen</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Dana-Farber/Brigham and Women&apos;s Cancer Center</orgName>
+								<address>
+									<settlement>Boston</settlement>
+									<region>Massachusetts</region>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="institution">Harvard Medical School</orgName>
+								<address>
+									<settlement>Boston</settlement>
+									<region>Massachusetts</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff3">
+								<orgName type="department" key="dep1">Dana-Farber Cancer Institute</orgName>
+								<orgName type="department" key="dep2">Center for Neuro-Oncology</orgName>
+								<address>
+									<addrLine>450 Brookline Avenue</addrLine>
+									<postCode>02215</postCode>
+									<settlement>Boston</settlement>
+									<region>MA</region>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Phase II trial of ponatinib in patients with bevacizumabrefractory glioblastoma</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<idno type="DOI">10.1002/cam4.2505</idno>
+					<note type="submission">Received: 5 August 2019 | Accepted: 6 August 2019</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.6.1" ident="GROBID" when="2020-10-09T18:38+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<abstract>
+				<p>This is an open access article under the terms of the Creative Commons Attribution License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.</p>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>| 5989</head><p>LEE Et aL</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="1">| INTRODUCTION</head><p>Glioblastomas (GBMs) often develop resistance to treatment targeting vascular endothelial growth factor (VEGF) within months of starting therapy. <ref type="bibr" target="#b0">1</ref> Treatment options for tumors that progress despite bevacizumab are limited. In a phase II study, adding chemotherapy to bevacizumab in patients whose tumors already progressed on bevacizumab monotherapy was associated with little to no benefit. <ref type="bibr" target="#b1">2</ref> Mechanisms underlying resistance to antiangiogenesis agents in GBM are inadequately understood, but may include upregulation of alternative pro-angiogenic pathways, vessel co-option, increased invasiveness, and immune activation. <ref type="bibr" target="#b2">3</ref> Plasma levels of basic fibroblast growth factor (bFGF) increase in GBM patients treated with anti-VEGF receptor (VEGFR) at the time of tumor progression, suggest that signaling by bFGF may play a role in resistance to antiangiogenesis agents. <ref type="bibr" target="#b3">4,</ref><ref type="bibr" target="#b4">5</ref> In addition, preclinical evidence suggests that activation of Src family kinases plays an important role in glioma invasion. <ref type="bibr" target="#b5">6,</ref><ref type="bibr" target="#b6">7</ref> Multikinase inhibitors targeting not only VEGFR but also fibroblast growth factor receptor (FGFR) and Src may potentially help overcome some of the putative mechanisms of resistance and result in increased antitumor effects.</p><p>Ponatinib is potent oral tyrosine kinase inhibitor that targets VEGFR, FGFR, Src, and platelet-derived growth factor receptor (PDGFR). It is approved by the Food and Drug Administration in the United States for use in chronic myelogenous leukemia and Philadelphia chromosome-positive acute lymphoblastic leukemia based on its ability to block BCR-ABL (a mutation that is formed by the fusion of two genes, known as BCR and ABL) and other proteins. In U87 malignant glioma cell lines, ponatinib reduces cell viability, induces cell apoptosis, and suppresses migration and invasion. <ref type="bibr" target="#b7">8</ref> In a mouse xenograft model using U87MG, ponatinib reduced tumor growth in a dose-dependent fashion by inducing cell apoptosis in vivo. <ref type="bibr" target="#b7">8</ref> We performed a single arm, open label, phase II and biomarker study of ponatinib in patients with bevacizumab-refractory GBM.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2">| MATERIALS AND METHODS</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.1">| Patient eligibility</head><p>Eligible patients included adults (age ≥ 18 years old) with histologically confirmed GBM or variants who progressed following an anti-VEGF(R) containing regimen. Any number of prior relapses on non-anti-VEGF(R) containing regimens were allowed, although only one prior relapse on a bevacizumab or anti-VEGF(R) containing regimen was allowed. Additional inclusion criteria included Karnofsky performance score (KPS) ≥60; adequate bone marrow, renal, and hepatic function; and measurable disease at baseline. Exclusion criteria included known coagulopathy, history of grade ≥3 hemorrhage within 30 days prior to study entry, poorly controlled diabetes defined as HgbA1c ≥7.0%, grade 3 ≥peripheral motor or sensory neuropathy, medications or substances that are moderate and strong inhibitors or inducers of CYP3A4, known Torsades de Pointes or QT prolongation, uncontrolled hypertriglyceridemia defined as triglycerides ≥450 mg/dL, history of acute pancreatitis, history of alcohol abuse, uncontrolled hypertension, and history of a clinically significant, uncontrolled, or active cardiovascular disease.</p><p>The study was approved by the institutional review board of Dana-Farber/Harvard Cancer Center and conducted in accordance with institutional and federal guidelines for human investigations. All participants were informed of the investigational nature of this study and provided institutional review board-approved informed consent before enrollment. The study was registered on clini caltr ials.gov (NCT02478164). The data that support the findings of this study are available on request from the corresponding author. The data are not publicly available due to privacy or ethical restrictions.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.2">| Treatment plan</head><p>Patients received ponatinib 45 mg daily in treatment cycles 28 days in length. For patients with stable disease (SD) or better at the end of Cycle 6, as determined by Response Assessment for Neuro-Oncology criteria for high-grade glioma, <ref type="bibr" target="#b8">9</ref> the dose of ponatinib was reduced to 30 mg daily due to the cumulative risk of vascular occlusive events observed in patients using ponatinib. <ref type="bibr" target="#b9">10</ref> Patients were evaluated every cycle. Brain magnetic resonance imaging (MRI) with contrast was obtained prior to the initiation of treatment and prior to every even numbered cycle including prior to cycle 2 (ie, after 28 days on therapy). Ponatinib was supplied by Takeda Oncology. Treatment continued until progressive disease or unacceptable toxicity.</p><p>The primary endpoint was 3-month progression-free survival (PFS3). Secondary objectives included radiographic response rate (RR), overall survival (OS), progression-free survival (PFS), and safety. Survival analysis was based on Kaplan-Meier estimates. Toxic effects were graded according to the National Cancer Institute Common Toxicity Criteria, version 4.0. In exploratory studies, we examined changes in plasma angiogenic biomarkers after therapy and their associations with outcomes.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>K E Y W O R D S</head><p>angiogenesis, bevacizumab-refractory, FGFR, glioblastoma, VEGFR</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.3">| Correlative studies</head><p>Blood collection for plasma angiogenic biomarkers was mandatory for all participants. Samples were collected at various time points: baseline (prior to starting therapy on Day 1), on Day 2 (prior to the second dose of ponatinib), on Day 1 of subsequent cycles, and off-treatment. Plasma protein measurements were performed using multiplex array (Meso-Scale Discovery) or standard ELISA kits (R&amp;D Systems) in the Clinical Laboratory Improvement Amendments (CLIA)-certified facility of the Steele Laboratories at Massachusetts General Hospital as previously described. <ref type="bibr" target="#b10">11</ref> Tumor genotyping was performed as part of routine clinical care in the CLIA-certified facilities at Dana-Farber Cancer Institute and/or Massachusetts General Hospital using methods as previously described. 12,13</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.4">| Statistical analysis</head><p>The primary objective of the study was to determine the efficacy of ponatinib in participants with recurrent GBM who have progressed on a bevacizumab-containing regimen as measured by PFS3. Three-month progression-free survival was chosen since agents with anti-VEGFR activity may produce pseudoresponses, making response a less reliable endpoint. Based on retrospective data, PFS3 rate among recurrent GBM patients who received a second bevacizumab-containing regimen after failing bevacizumab treatment once is 15%. 14 This trial enrolled enough patients to discriminate between a 15% and 35% PFS3 rate. A Simon optimal two-stage design was used to permit early termination of the study in case of futility. The first stage accrued 15 participants. If at least five or more of the first 15 participants achieved PFS3, accrual was increased to 12 more participants for a total of 27 participants. The study would have been declared successful if at least 10 or more out of 27 participants achieve PFS at 3 months. This design archives alpha error of 0.10 and beta error of 0.2. The probability of early termination if the drug was ineffective was 69%.</p><p>Plasma biomarker changes from baseline were expressed as percent change, reported as median with interquartile intervals. The significance of the change from baseline to Day 2 and end of treatment was assessed by the Wilcoxon Sign-Rank test.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3">| RESULTS</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.1">| Patient characteristics, efficacy, and safety</head><p>We enrolled 15 patients with GBM or variants in Stage 1 <ref type="table">(Table 1)</ref> between July 2015 and June 2017. Median age was 61 (range 27-74) and median KPS was 80 (range 70-90). The median number of prior therapies was 2 (range 2-4) and the median time between last bevacizumab dose and first ponatinib dose was 34 days (range 20-92). At the time of study enrollment, GBM with oligodendroglial features (GBMO) was a recognized GBM variant by the World Health Organization (WHO) Classification of Tumors. Upon central review, one patient had a GBMO with 1p/19q loss (which would be classified as an anaplastic oligodendroglioma by updated WHO 2016 criteria <ref type="bibr" target="#b14">15</ref> ).</p><p>As none of the patients achieved PFS3, the study was permanently closed after the first stage ( <ref type="table">Table 2</ref>). The longest time to progression observed was 84 days. Median PFS was 28 days [95% CI 27, 30] and median OS was 98 days [95% CI 56, 257]. There were no complete or partial responses seen and SD was the best response in two patients (13.7%). Toxicities on study were as expected for ponatinib with fatigue, increased lipase, and hypertension as the most common AEs <ref type="table">(Table 3)</ref>. Two patients were dose reduced, one due to grade 3 lipase and the other due to recurrent grade 2 diarrhea. One patient was taken off study due to unacceptable toxicity (grade 3 bullous dermatitis occurring during the first cycle). Another patient withdrew consent from study participation, also during the first cycle of treatment. </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>T A B L E 1</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.2">| Plasma biomarkers</head><p>The concentration of several plasma biomarkers of angiogenesis changed significantly after treatment with ponatinib (see <ref type="table">Table 4</ref>). Ponatinib induced changes in pharmacodynamic biomarkers associated with anti-VEGFR activity, such as decreased sVEGFR2 and increased sTIE2 and VEGF at the end of treatment. In addition, ponatinib treatment significantly and durably increased plasma concentration of sVEGFR1 and inflammatory cytokines including soluble IFN-g, tumor necrosis factor alpha (TNF-α), IL-6, IL-8, and IL-10 (day 2 and end of treatment).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="4">| DISCUSSION</head><p>Ponatinib was associated with minimal activity in bevacizumab-refractory GBM patients. The study closed early after the first stage for lack of efficacy. The preclinical models of ponatinib in GBM utilized only a single cell line (U87MG), which is suboptimal. Nevertheless, to date, no treatment has shown survival benefit in GBM patients who progress on bevacizumab. Evofosfamide plus bevacizumab, <ref type="bibr" target="#b15">16,</ref><ref type="bibr" target="#b16">17</ref> dianhydrogalactitol (VAL-083), <ref type="bibr" target="#b17">18</ref> and salvage re-irradiation <ref type="bibr" target="#b18">19,</ref><ref type="bibr" target="#b19">20</ref> have shown modest preliminary activity, although further studies are required to confirm their potential benefit. Circulating biomarker data indicate that ponatinib has potent anti-VEGFR activity as expected. Interestingly, Carbonic anhydrase IX (CAIX) (a biomarker of hypoxia) shows a nonsignificant trend for increase at day 2, but no change at the end of treatment. Increases in multiple inflammatory cytokines, including plasma soluble IFN-g, TNF-a, IL-6, IL-8, and IL-10, at day 2 and end of treatment suggest immunomodulation after ponatinib treatment. Taken together, resistance to ponatinib may not be primarily related to hypoxia-induced by vascular rarefaction after VEGFR/FGFR inhibition-but rather to increased inflammatory cytokines. Indeed, some preclinical data suggest that certain immune cytokines may play a role in resistance to anti-angiogenic therapy. <ref type="bibr" target="#b2">3</ref> Another possible explanation for ponatinib's lack of efficacy in bevacizumab-refractory GBM is poor drug distribution into the tumor. Comparison between a heterotopic model (flank) and an orthotopic (intracranial) model of GBM demonstrated that a daily oral dose of ponatinib (30 mg/kg) was effective in reducing tumor growth of the flank tumor but not the intracranial tumor, which may be due to the regional differences in drug exposure across the intracranial tumor. <ref type="bibr" target="#b20">21</ref> Indeed, the total drug concentrations in the invasive rim of the intracranial tumor did not consistently exceed the in vitro cytotoxic concentration (IC 50 ). <ref type="bibr" target="#b20">21</ref> There are limited data on the blood-brain barrier penetration of ponatinib in humans. <ref type="bibr" target="#b21">22</ref> Rebound tumor progression has been reported following bevacizumab cessation. <ref type="bibr" target="#b22">23</ref> Whether rebound tumor progression due to cessation of bevacizumab contributed to poor RR and PFS3 and possible early discontinuation of treatment with ponatinib is unclear. The median time between last bevacizumab dose and first ponatinib dose on study was 34 days, and the first protocol brain MRI occurred after 28 days on ponatinib, so rebound tumor progression is conceivable. However, the poor median OS of patients on study suggests that these poor outcomes occurred regardless of potential rebound effects from bevacizumab discontinuation.</p><p>In addition to targeting VEGFR, PDGFR, and Src, ponatinib is also a potent pan-FGFR inhibitor. Approximately 3.1% of patients with GBM harbor oncogenic chromosomal translocations that fuse the tyrosine kinase coding domains of FGFR genes to the transforming acidic coiled-coil (TACC) coding domains. <ref type="bibr" target="#b23">24</ref> The FGFR-TACC fusion protein demonstrates oncogenic activity and inhibition of this with use of an FGFR inhibitor has shown prolonged survival in mice with intracranial glioma harboring the FGFR3-TACC3 fusion. <ref type="bibr" target="#b24">25</ref> Although we had hoped to study the effects of ponatinib in this molecular subgroup, none of the 12 patients enrolled on study with molecular testing by sequencing or array   Note: Medians and interquartile range for circulating plasma biomarker levels at baseline and percent changes after ponatinib treatment (significant changes are in bold, P-values by Sign-Rank test). Abbreviations: bFGF, basic fibroblast growth factor; CAIX, Carbonic anhydrase IX; IFN-γ, interferon gamma; IL, interleukin; PIGF, Placental growth factor; sFLT, soluble fms-like tyrosine kinase; sTIE, soluble form of the Tie receptor; TNF-α, tumor necrosis factor alpha; VEGF, vascular endothelial growth factor; VEGF-D, vascular endothelial growth factor D; VEGFR, vascular endothelial growth factor receptor.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>| 5993</head><p>LEE Et aL comparative genomic hybridization harbored evidence of FGFR-TACC fusions. In summary, ponatinib has limited efficacy in patients with bevacizumab-resistant GBM. The circulating biomarker data suggest that immunomodulation may have played a role in resistance to treatment, although further studies are needed to clarify the interplay between angiogenesis and these immune cytokines. It is unclear if ponatinib could be beneficial in bevacizumab-naïve patients or in patients whose GBM harbors a FGFR-TACC fusion as neither of these populations were examined in this study. Given ponatinib's cumulative cardiovascular toxicity, potentially limited penetration across the blood-brain barrier, and the recent drug development of selective brain penetrant FGFR inhibitors, further evaluation of ponatinib in GBMs with FGFR-TACC fusion is not recommended.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>T A B L E 3</head><label>3</label><figDesc>Grade ≥3 toxicities possibly, probably, or definitely , alanine aminotransferase; AST, aspartate aminotransferase; GGT, Gamma-glutamyl transferase.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_2"><head></head><label></label><figDesc>6.909.20 [6430.70, 8099.20] −3.89 [−6.70, 5.17] −6.66 [−20.72, −0.71]</figDesc><table><row><cell>P-value</cell><cell>N/A</cell><cell>.30</cell><cell>.04</cell></row><row><cell>CAIX</cell><cell></cell><cell></cell><cell></cell></row><row><cell>Median</cell><cell>76.84 [47.94, 132.93]</cell><cell>9.56 [−8.39, 30.14]</cell><cell>25.78 [−39.07, 59.72]</cell></row><row><cell>P-value</cell><cell>N/A</cell><cell>.10</cell><cell>.58</cell></row><row><cell>bFGF</cell><cell></cell><cell></cell><cell></cell></row><row><cell>Median</cell><cell>46.77 [8.90, 68.90]</cell><cell>−13.96 [−44.98, 62.59]</cell><cell>48.36 [1.05, 243.67]</cell></row><row><cell>P-value</cell><cell>N/A</cell><cell>.71</cell><cell>.06</cell></row><row><cell>PIGF</cell><cell></cell><cell></cell><cell></cell></row><row><cell>Median</cell><cell>79.55 [71.78, 92.74]</cell><cell>8.28 [−4.68, 21.41]</cell><cell>10.44 [−1.30, 35.74]</cell></row><row><cell>P-value</cell><cell>N/A</cell><cell>.09</cell><cell>.06</cell></row><row><cell>sFLT1 (sVEGFR1)</cell><cell></cell><cell></cell><cell></cell></row><row><cell>Median</cell><cell>18.35 [13.41, 25.88]</cell><cell>22.40 [12.23, 43.66]</cell><cell>45.95 [36.23, 104.62]</cell></row><row><cell>P-value</cell><cell>N/A</cell><cell>.001</cell><cell>.001</cell></row><row><cell>sTIE2</cell><cell></cell><cell></cell><cell></cell></row><row><cell>Median</cell><cell>4029.25 [3513.49, 5235.16]</cell><cell>2.78 [−4.59, 9.21]</cell><cell>14.11 [5.90, 21.52]</cell></row><row><cell>P-value</cell><cell>N/A</cell><cell>.50</cell><cell>.002</cell></row><row><cell>VEGF</cell><cell></cell><cell></cell><cell></cell></row><row><cell>Median</cell><cell>64.00 [64.00, 85.68]</cell><cell>0.00 [0.00, 10.27]</cell><cell>49.23 [30.20, 100.51]</cell></row><row><cell>P-value</cell><cell>N/A</cell><cell>.20</cell><cell>.002</cell></row><row><cell>VEGF-D</cell><cell></cell><cell></cell><cell></cell></row><row><cell>Median</cell><cell>864.37 [775.50, 1111.77]</cell><cell>2.20 [−11.13, 5.16]</cell><cell>-5.67 [−23.54, 13.52]</cell></row><row><cell>P-value</cell><cell>N/A</cell><cell>.95</cell><cell>.58</cell></row><row><cell>IFN-γ</cell><cell></cell><cell></cell><cell></cell></row><row><cell>Median</cell><cell>1.92 [1.35, 2.94]</cell><cell>110.36 [32.82, 183.48]</cell><cell>305.05 [−35.29, 1173.84]</cell></row><row><cell>P-value</cell><cell>N/A</cell><cell>.001</cell><cell>.04</cell></row><row><cell>IL-10</cell><cell></cell><cell></cell><cell></cell></row><row><cell>Median</cell><cell>0.34 [0.23, 1.03]</cell><cell>75.56 [7.37, 182.28]</cell><cell>38.15 [−10.11, 417.95]</cell></row><row><cell>P-value</cell><cell>N/A</cell><cell>.004</cell><cell>.07</cell></row><row><cell>IL-2</cell><cell></cell><cell></cell><cell></cell></row><row><cell>Median</cell><cell>0.35 [0.35, 0.62]</cell><cell>0.00 [0.00, 0.00]</cell><cell>0.00 [−10.75, 0.00]</cell></row><row><cell>P-value</cell><cell>N/A</cell><cell>.88</cell><cell>.38</cell></row><row><cell>IL-6</cell><cell></cell><cell></cell><cell></cell></row><row><cell>Median</cell><cell>1.01 [0.51, 1.36]</cell><cell>65.52 [24.09, 102.68]</cell><cell>69.93 [−19.42, 346.59]</cell></row><row><cell>P-value</cell><cell>N/A</cell><cell>.002</cell><cell>.05</cell></row><row><cell>IL-8</cell><cell></cell><cell></cell><cell></cell></row><row><cell>Median</cell><cell>4.49 [4.09, 6.44]</cell><cell>23.45 [4.84, 82.14]</cell><cell>80.56 [4.41, 114.69]</cell></row><row><cell>P-value</cell><cell>N/A</cell><cell>.02</cell><cell>.02</cell></row><row><cell>TNF-α</cell><cell></cell><cell></cell><cell></cell></row><row><cell>Median</cell><cell>2.16 [1.73, 2.47]</cell><cell>18.97 [4.63, 53.50]</cell><cell>22.57 [−18.84, 89.11]</cell></row><row><cell>P-value</cell><cell>N/A</cell><cell>.01</cell><cell>.24</cell></row></table><note></note></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot">Abbreviations: GBM, glioblastoma; IDH, Isocitrate dehydrogenase; KPS, Karnofsky performance score.</note>
+		</body>
+		<back>
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>CONFLICT OF INTEREST</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>AUTHOR CONTRIBUTIONS</head><p>EQL, DGD, PYW have contributed to the concept and design of the study. EQL, JD, LN, UNC, RB, LD, CKL, DL, BF, JS, SR, VC, JB, DAR, PYW have contributed to the implementation of the data. EQL, AM, DGD, SG, PYW have contributed to the data analysis and interpretation. All authors were involved in the writing of the manuscript at draft and any revision stages and have read and approved the final version.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>ETHICAL APPROVAL</head><p>All procedures performed in studies involving human participants were in accordance with the ethical standards of the institutional and/or national research committee (include name of committee + reference number) and with the 1964 Helsinki Declaration and its later amendments or comparable ethical standards.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>DATA AVAILABILITY STATEMENT</head><p>The data that support the findings of this study are available on request from the corresponding author. The data are not publicly available due to privacy or ethical restrictions.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>ORCID</head><p>Eudocia Q. Lee https://orcid.org/0000-0003-3355-5179</p></div>			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Lomustine and bevacizumab in progressive glioblastoma</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">W</forename><surname>Wick</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Gorlia</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Bendszus</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">N Engl J Med</title>
+		<imprint>
+			<biblScope unit="volume">377</biblScope>
+			<biblScope unit="page" from="1954" to="1963" />
+			<date type="published" when="2017" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Phase II trial of single-agent bevacizumab followed by bevacizumab plus irinotecan at tumor progression in recurrent glioblastoma</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><forename type="middle">N</forename><surname>Kreisl</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">L</forename><surname>Kim</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><surname>Moore</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Clin Oncol</title>
+		<imprint>
+			<biblScope unit="volume">27</biblScope>
+			<biblScope unit="page" from="740" to="745" />
+			<date type="published" when="2009" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">New directions in anti-angiogenic therapy for glioblastoma</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">N</forename><surname>Wang</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><forename type="middle">K</forename><surname>Jain</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><forename type="middle">T</forename><surname>Batchelor</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Neurotherapeutics</title>
+		<imprint>
+			<biblScope unit="volume">14</biblScope>
+			<biblScope unit="page" from="321" to="332" />
+			<date type="published" when="2017" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">A phase II trial of AZD2171 (cediranib), an oral pan-VEGF receptor tyrosine kinase inhibitor, in patients with recurrent glioblastoma</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Batchelor</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><forename type="middle">G</forename><surname>Sorensen</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Ancukiewicz</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Clin Oncol</title>
+		<imprint>
+			<biblScope unit="volume">25</biblScope>
+			<date type="published" when="2001" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Drug resistance by evasion of antiangiogenic targeting of VEGF signaling in latestage pancreatic islet tumors</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">O</forename><surname>Casanovas</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><forename type="middle">J</forename><surname>Hicklin</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">G</forename><surname>Bergers</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><surname>Hanahan</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Cancer Cell</title>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="page" from="299" to="309" />
+			<date type="published" when="2005" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Lyn kinase activity is the predominant cellular SRC kinase activity in glioblastoma tumor cells</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">R</forename><surname>Stettner</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">W</forename><surname>Wang</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">L</forename><forename type="middle">B</forename><surname>Nabors</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Cancer Res</title>
+		<imprint>
+			<biblScope unit="volume">65</biblScope>
+			<biblScope unit="page" from="5535" to="5543" />
+			<date type="published" when="2005" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Bead-based profiling of tyrosine kinase phosphorylation identifies SRC as a potential target for glioblastoma therapy</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Du</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><surname>Bernasconi</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><forename type="middle">R</forename><surname>Clauser</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nat Biotechnol</title>
+		<imprint>
+			<biblScope unit="volume">27</biblScope>
+			<biblScope unit="page" from="77" to="83" />
+			<date type="published" when="2009" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">The effects of ponatinib, a multitargeted tyrosine kinase inhibitor, against human U87 malignant glioblastoma cells</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Zhang</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Q</forename><surname>Zhou</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">G</forename><surname>Gao</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Onco Targets Ther</title>
+		<imprint>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="page" from="2013" to="2019" />
+			<date type="published" when="2014" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Updated response assessment criteria for high-grade gliomas: response assessment in neuro-oncology working group</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><forename type="middle">Y</forename><surname>Wen</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><forename type="middle">R</forename><surname>Macdonald</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><forename type="middle">A</forename><surname>Reardon</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Clin Oncol</title>
+		<imprint>
+			<biblScope unit="volume">28</biblScope>
+			<biblScope unit="page" from="1963" to="1972" />
+			<date type="published" when="2010" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Arterial occlusive events (AOEs) in the phase 2 ponatinib PACE trial: 5-year update in heavily treated patients (Pts) with chronic-phase chronic myeloid leukemia (CP-CML)</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">E</forename><surname>Cortes</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">F</forename><forename type="middle">E</forename><surname>Nicolini</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Hochhaus</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Blood</title>
+		<imprint>
+			<biblScope unit="volume">130</biblScope>
+			<biblScope unit="page" from="2896" to="2896" />
+			<date type="published" when="2017" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Phase II study of cediranib, an oral pan-vascular endothelial growth factor receptor tyrosine kinase inhibitor, in patients with recurrent glioblastoma</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><forename type="middle">T</forename><surname>Batchelor</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><forename type="middle">G</forename><surname>Duda</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><surname>Di Tomaso</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Clin Oncol</title>
+		<imprint>
+			<biblScope unit="volume">28</biblScope>
+			<biblScope unit="page" from="2817" to="2823" />
+			<date type="published" when="2010" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Buparlisib in patients with recurrent glioblastoma harboring phosphatidylinositol 3-kinase pathway activation: an open-label, multicenter, multi-arm, phase II trial</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><forename type="middle">Y</forename><surname>Wen</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Touat</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">B</forename><forename type="middle">M</forename><surname>Alexander</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Clin Oncol</title>
+		<imprint>
+			<biblScope unit="volume">37</biblScope>
+			<biblScope unit="page" from="741" to="750" />
+			<date type="published" when="2019" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Prospective, highthroughput molecular profiling of human gliomas</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><forename type="middle">S</forename><surname>Chi</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><forename type="middle">T</forename><surname>Batchelor</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><surname>Dias-Santagata</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Neurooncol</title>
+		<imprint>
+			<biblScope unit="volume">110</biblScope>
+			<biblScope unit="page" from="89" to="98" />
+			<date type="published" when="2012" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Role of a second chemotherapy in recurrent malignant glioma patients who progress on bevacizumab</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><forename type="middle">C</forename><surname>Quant</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><forename type="middle">D</forename><surname>Norden</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Drappatz</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Neuro Oncol</title>
+		<imprint>
+			<biblScope unit="volume">11</biblScope>
+			<biblScope unit="page" from="550" to="555" />
+			<date type="published" when="2009" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">The 2016 World Health Organization classification of tumors of the central nervous system: a summary</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><forename type="middle">N</forename><surname>Louis</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Perry</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">G</forename><surname>Reifenberger</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Acta Neuropathol</title>
+		<imprint>
+			<biblScope unit="volume">131</biblScope>
+			<biblScope unit="page" from="803" to="820" />
+			<date type="published" when="2016" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Hypoxia-activated evofosfamide for treatment of recurrent bevacizumab-refractory glioblastoma: a phase I surgical study</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Brenner</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><surname>Zuniga</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">D</forename><surname>Sun</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Neuro Oncol</title>
+		<imprint>
+			<biblScope unit="volume">20</biblScope>
+			<biblScope unit="page" from="1231" to="1239" />
+			<date type="published" when="2018" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Actr-17. Evophosphamide (th-302) for recurrent GBM following bevacizumab failure, final results of a multicenter phase II study</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><forename type="middle">J</forename><surname>Brenner</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><surname>Reardon</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><surname>Wen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Neuro Oncol</title>
+		<imprint>
+			<biblScope unit="volume">20</biblScope>
+			<biblScope unit="page" from="14" to="15" />
+			<date type="published" when="2018" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Dianhydrogalactitol in bevacizumab-refractory GBM: further analysis of a phase 1-2 trial</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><forename type="middle">C</forename><surname>Shih</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">R</forename><surname>Patel</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">N</forename><forename type="middle">A</forename><surname>Butowski</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Clin Oncol</title>
+		<imprint>
+			<biblScope unit="volume">36</biblScope>
+			<biblScope unit="page" from="2061" to="2061" />
+			<date type="published" when="2018" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">The role of salvage radiation in recurrent glioblastoma after bevacizumab failure</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">N</forename><surname>Sarmey</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><forename type="middle">T</forename><surname>Chao</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><forename type="middle">S</forename><surname>Murphy</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Clin Oncol</title>
+		<imprint>
+			<biblScope unit="volume">33</biblScope>
+			<biblScope unit="page" from="2048" to="2048" />
+			<date type="published" when="2015" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">Large volume reirradiation as salvage therapy for glioblastoma after progression on bevacizumab</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">W</forename><surname>Magnuson</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Ian</forename><surname>Robins</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><surname>Mohindra</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><surname>Howard</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Neurooncol</title>
+		<imprint>
+			<biblScope unit="volume">117</biblScope>
+			<biblScope unit="page" from="133" to="139" />
+			<date type="published" when="2014" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">Heterogeneous binding and central nervous system distribution of the multitargeted kinase inhibitor ponatinib restrict orthotopic efficacy in a patient-derived xenograft model of glioblastoma</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">K</forename><surname>Laramy</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Kim</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><forename type="middle">K</forename><surname>Gupta</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Pharmacol Exp Ther</title>
+		<imprint>
+			<biblScope unit="volume">363</biblScope>
+			<biblScope unit="page" from="136" to="147" />
+			<date type="published" when="2017" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">Does ponatinib cross the blood-brain barrier?</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">B</forename><surname>Abid</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">De</forename><surname>Mel</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Br J Haematol</title>
+		<imprint>
+			<biblScope unit="volume">179</biblScope>
+			<biblScope unit="page" from="497" to="498" />
+			<date type="published" when="2017" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">Rebound tumour progression after the cessation of bevacizumab therapy in patients with recurrent high-grade glioma</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><forename type="middle">M</forename><surname>Zuniga</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><surname>Torcuator</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><surname>Jain</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Neurooncol</title>
+		<imprint>
+			<biblScope unit="volume">99</biblScope>
+			<biblScope unit="page" from="237" to="242" />
+			<date type="published" when="2010" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title level="a" type="main">Ponatinib (AP24534), a multitargeted pan-FGFR inhibitor with activity in multiple FGFR-amplified or mutated cancer models</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">M</forename><surname>Gozgit</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">J</forename><surname>Wong</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">L</forename><surname>Moran</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Mol Cancer Ther</title>
+		<imprint>
+			<biblScope unit="volume">11</biblScope>
+			<biblScope unit="page" from="690" to="699" />
+			<date type="published" when="2012" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title level="a" type="main">Transforming fusions of FGFR and TACC genes in human glioblastoma</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><surname>Singh</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">M</forename><surname>Chan</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><surname>Zoppoli</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Science</title>
+		<imprint>
+			<biblScope unit="volume">337</biblScope>
+			<biblScope unit="page" from="1231" to="1235" />
+			<date type="published" when="2012" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

@@ -1,0 +1,1485 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /data/rsg/nlp/juanmoo1/bin/grobid-0.6.1/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">A phase Ib study of capecitabine and zivaflibercept followed by a phase II singlearm expansion cohort in chemotherapy refractory metastatic colorectal cancer</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+				<date type="published" when="2016-01">January 2016</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author role="corresp">
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">John</forename><forename type="middle">H</forename><surname>Strickler</surname></persName>
+							<email>john.strickler@duke.edu</email>
+							<idno type="ORCID">0000-0001-7579-1175</idno>
+							<affiliation key="aff1">
+								<orgName type="department">Duke University Medical Center</orgName>
+								<address>
+									<addrLine>30 Duke Medicine Circle, Room #0050, Durham</addrLine>
+									<postBox>Box 3216</postBox>
+									<postCode>27705</postCode>
+									<region>NC</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff3">
+								<orgName type="department">Duke University Medical Center</orgName>
+								<address>
+									<addrLine>30 Duke Medicine Circle, Room #0050, Durham</addrLine>
+									<postBox>Box 3216</postBox>
+									<postCode>27705</postCode>
+									<region>NC</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Christel</forename><forename type="middle">N</forename><surname>Rushing</surname></persName>
+							<idno type="ORCID">0000-0001-7579-1175</idno>
+							<affiliation key="aff6">
+								<orgName type="department" key="dep1">Duke Cancer Institute Biostatistics and Bioinformatics</orgName>
+								<orgName type="department" key="dep2">Duke University Medical Center</orgName>
+								<address>
+									<postCode>27705</postCode>
+									<settlement>Durham</settlement>
+									<region>NC</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Donna</forename><surname>Niedzwiecki</surname></persName>
+							<affiliation key="aff6">
+								<orgName type="department" key="dep1">Duke Cancer Institute Biostatistics and Bioinformatics</orgName>
+								<orgName type="department" key="dep2">Duke University Medical Center</orgName>
+								<address>
+									<postCode>27705</postCode>
+									<settlement>Durham</settlement>
+									<region>NC</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Abigail</forename><surname>Mcleod</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="department">Duke University Medical Center</orgName>
+								<address>
+									<addrLine>30 Duke Medicine Circle, Room #0050, Durham</addrLine>
+									<postBox>Box 3216</postBox>
+									<postCode>27705</postCode>
+									<region>NC</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff3">
+								<orgName type="department">Duke University Medical Center</orgName>
+								<address>
+									<addrLine>30 Duke Medicine Circle, Room #0050, Durham</addrLine>
+									<postBox>Box 3216</postBox>
+									<postCode>27705</postCode>
+									<region>NC</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Ivy</forename><surname>Altomare</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="department">Duke University Medical Center</orgName>
+								<address>
+									<addrLine>30 Duke Medicine Circle, Room #0050, Durham</addrLine>
+									<postBox>Box 3216</postBox>
+									<postCode>27705</postCode>
+									<region>NC</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff3">
+								<orgName type="department">Duke University Medical Center</orgName>
+								<address>
+									<addrLine>30 Duke Medicine Circle, Room #0050, Durham</addrLine>
+									<postBox>Box 3216</postBox>
+									<postCode>27705</postCode>
+									<region>NC</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Hope</forename><forename type="middle">E</forename><surname>Uronis</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="department">Duke University Medical Center</orgName>
+								<address>
+									<addrLine>30 Duke Medicine Circle, Room #0050, Durham</addrLine>
+									<postBox>Box 3216</postBox>
+									<postCode>27705</postCode>
+									<region>NC</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff3">
+								<orgName type="department">Duke University Medical Center</orgName>
+								<address>
+									<addrLine>30 Duke Medicine Circle, Room #0050, Durham</addrLine>
+									<postBox>Box 3216</postBox>
+									<postCode>27705</postCode>
+									<region>NC</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><forename type="middle">David</forename><surname>Hsu</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="department">Duke University Medical Center</orgName>
+								<address>
+									<addrLine>30 Duke Medicine Circle, Room #0050, Durham</addrLine>
+									<postBox>Box 3216</postBox>
+									<postCode>27705</postCode>
+									<region>NC</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff3">
+								<orgName type="department">Duke University Medical Center</orgName>
+								<address>
+									<addrLine>30 Duke Medicine Circle, Room #0050, Durham</addrLine>
+									<postBox>Box 3216</postBox>
+									<postCode>27705</postCode>
+									<region>NC</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Yousuf Zafar</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="department">Duke University Medical Center</orgName>
+								<address>
+									<addrLine>30 Duke Medicine Circle, Room #0050, Durham</addrLine>
+									<postBox>Box 3216</postBox>
+									<postCode>27705</postCode>
+									<region>NC</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff3">
+								<orgName type="department">Duke University Medical Center</orgName>
+								<address>
+									<addrLine>30 Duke Medicine Circle, Room #0050, Durham</addrLine>
+									<postBox>Box 3216</postBox>
+									<postCode>27705</postCode>
+									<region>NC</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Michael</forename><forename type="middle">A</forename><surname>Morse</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="department">Duke University Medical Center</orgName>
+								<address>
+									<addrLine>30 Duke Medicine Circle, Room #0050, Durham</addrLine>
+									<postBox>Box 3216</postBox>
+									<postCode>27705</postCode>
+									<region>NC</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff3">
+								<orgName type="department">Duke University Medical Center</orgName>
+								<address>
+									<addrLine>30 Duke Medicine Circle, Room #0050, Durham</addrLine>
+									<postBox>Box 3216</postBox>
+									<postCode>27705</postCode>
+									<region>NC</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">David</forename><forename type="middle">Z</forename><surname>Chang</surname></persName>
+							<affiliation key="aff4">
+								<orgName type="department">Virginia Oncology Associates</orgName>
+								<address>
+									<postCode>23666</postCode>
+									<settlement>Hampton</settlement>
+									<region>VA</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">James</forename><forename type="middle">L</forename><surname>Wells</surname></persName>
+							<affiliation key="aff5">
+								<orgName type="department">Lexington Oncology Associates</orgName>
+								<address>
+									<postCode>29169</postCode>
+									<region>West Columbia, SC</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Kimberly</forename><forename type="middle">L</forename><surname>Blackwell</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="department">Duke University Medical Center</orgName>
+								<address>
+									<addrLine>30 Duke Medicine Circle, Room #0050, Durham</addrLine>
+									<postBox>Box 3216</postBox>
+									<postCode>27705</postCode>
+									<region>NC</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff3">
+								<orgName type="department">Duke University Medical Center</orgName>
+								<address>
+									<addrLine>30 Duke Medicine Circle, Room #0050, Durham</addrLine>
+									<postBox>Box 3216</postBox>
+									<postCode>27705</postCode>
+									<region>NC</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><forename type="middle">Kelly</forename><surname>Marcom</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="department">Duke University Medical Center</orgName>
+								<address>
+									<addrLine>30 Duke Medicine Circle, Room #0050, Durham</addrLine>
+									<postBox>Box 3216</postBox>
+									<postCode>27705</postCode>
+									<region>NC</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff3">
+								<orgName type="department">Duke University Medical Center</orgName>
+								<address>
+									<addrLine>30 Duke Medicine Circle, Room #0050, Durham</addrLine>
+									<postBox>Box 3216</postBox>
+									<postCode>27705</postCode>
+									<region>NC</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Christy</forename><surname>Arrowood</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="department">Duke University Medical Center</orgName>
+								<address>
+									<addrLine>30 Duke Medicine Circle, Room #0050, Durham</addrLine>
+									<postBox>Box 3216</postBox>
+									<postCode>27705</postCode>
+									<region>NC</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff3">
+								<orgName type="department">Duke University Medical Center</orgName>
+								<address>
+									<addrLine>30 Duke Medicine Circle, Room #0050, Durham</addrLine>
+									<postBox>Box 3216</postBox>
+									<postCode>27705</postCode>
+									<region>NC</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Emily</forename><surname>Bolch</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="department">Duke University Medical Center</orgName>
+								<address>
+									<addrLine>30 Duke Medicine Circle, Room #0050, Durham</addrLine>
+									<postBox>Box 3216</postBox>
+									<postCode>27705</postCode>
+									<region>NC</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff3">
+								<orgName type="department">Duke University Medical Center</orgName>
+								<address>
+									<addrLine>30 Duke Medicine Circle, Room #0050, Durham</addrLine>
+									<postBox>Box 3216</postBox>
+									<postCode>27705</postCode>
+									<region>NC</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Sherri</forename><surname>Haley</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="department">Duke University Medical Center</orgName>
+								<address>
+									<addrLine>30 Duke Medicine Circle, Room #0050, Durham</addrLine>
+									<postBox>Box 3216</postBox>
+									<postCode>27705</postCode>
+									<region>NC</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff3">
+								<orgName type="department">Duke University Medical Center</orgName>
+								<address>
+									<addrLine>30 Duke Medicine Circle, Room #0050, Durham</addrLine>
+									<postBox>Box 3216</postBox>
+									<postCode>27705</postCode>
+									<region>NC</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Fatima</forename><forename type="middle">A</forename><surname>Rangwala</surname></persName>
+							<affiliation key="aff7">
+								<orgName type="department">Shattuck Labs</orgName>
+								<address>
+									<addrLine>Research Triangle Park, Durham</addrLine>
+									<postCode>27709</postCode>
+									<region>NC</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Ace</forename><forename type="middle">J</forename><surname>Hatch</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="department">Duke University Medical Center</orgName>
+								<address>
+									<addrLine>30 Duke Medicine Circle, Room #0050, Durham</addrLine>
+									<postBox>Box 3216</postBox>
+									<postCode>27705</postCode>
+									<region>NC</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff3">
+								<orgName type="department">Duke University Medical Center</orgName>
+								<address>
+									<addrLine>30 Duke Medicine Circle, Room #0050, Durham</addrLine>
+									<postBox>Box 3216</postBox>
+									<postCode>27705</postCode>
+									<region>NC</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Andrew</forename><forename type="middle">B</forename><surname>Nixon</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="department">Duke University Medical Center</orgName>
+								<address>
+									<addrLine>30 Duke Medicine Circle, Room #0050, Durham</addrLine>
+									<postBox>Box 3216</postBox>
+									<postCode>27705</postCode>
+									<region>NC</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff3">
+								<orgName type="department">Duke University Medical Center</orgName>
+								<address>
+									<addrLine>30 Duke Medicine Circle, Room #0050, Durham</addrLine>
+									<postBox>Box 3216</postBox>
+									<postCode>27705</postCode>
+									<region>NC</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Herbert</forename><forename type="middle">I</forename><surname>Hurwitz</surname></persName>
+							<affiliation key="aff8">
+								<orgName type="department">Genentech, Inc</orgName>
+								<address>
+									<postCode>94080</postCode>
+									<settlement>South San Francisco</settlement>
+									<region>CA</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff0">
+								<orgName type="department">Duke University Medical Center Gastrointestinal Cancer Symposium</orgName>
+								<address>
+									<postCode>21 st</postCode>
+									<settlement>San Francisco</settlement>
+									<region>CA</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff2">
+								<orgName type="department">AstraZeneca/MedImmune, Eureka Therapeutics, Genentech</orgName>
+								<orgName type="laboratory">HTG Molecular Diagnostics, Leadiant Biosciences, MedPacto Inc., Novartis, Seattle Genetics, and Tracon Pharma. Dr. Strickler discloses receiving research funding from Seattle Genetics, Exelixis, Amgen, AbbVie, Genentech/Roche, and Sanofi Genzyme. Additionally, Dr. Strickler performs consulting and honoraria work for Amgen</orgName>
+								<address>
+									<settlement>Amgen, Bayer, Chengdu, Genentech/ Roche</settlement>
+									<region>Kanghong Biotechnology</region>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">A phase Ib study of capecitabine and zivaflibercept followed by a phase II singlearm expansion cohort in chemotherapy refractory metastatic colorectal cancer</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date type="published" when="2016-01">January 2016</date>
+						</imprint>
+					</monogr>
+					<idno type="DOI">10.1186/s12885-019-6234-8</idno>
+					<note type="submission">Received: 28 February 2019 Accepted: 2 October 2019</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.6.1" ident="GROBID" when="2020-10-09T18:38+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>Capecitabine</term>
+					<term>Ziv-aflibercept</term>
+					<term>Metastatic colorectal cancer</term>
+					<term>Advanced solid tumors</term>
+					<term>McKesson</term>
+					<term>Discern</term>
+					<term>LLC</term>
+					<term>and Quintiles Corporation</term>
+				</keywords>
+			</textClass>
+			<abstract>
+				<p>Background: Patients with chemotherapy refractory metastatic colorectal cancer (CRC) have a poor prognosis and limited therapeutic options. In this phase Ib/II clinical trial, we established the maximum tolerated dose (MTD) and recommended phase II dose (RPTD) for the combination of capecitabine and ziv-aflibercept, and then we evaluated the efficacy of the combination in patients with chemotherapy refractory metastatic CRC. Methods: All patients were required to have a Karnofsky Performance Status &gt; 70% and adequate organ function. The phase Ib dose escalation cohort included patients with advanced solid tumors who had progressed on all standard therapies. Using a standard 3 + 3 design, we identified the MTD and RPTD for the combination. Fifty patients with metastatic CRC who had progressed on or were intolerant of a fluoropyrimidine, oxaliplatin, irinotecan, and bevacizumab were then enrolled in a single-arm phase II expansion cohort, and were treated at the RPTD. Prior EGFR antibody therapy was required for subjects with RAS wildtype tumors. The primary endpoint for the expansion cohort was progression-free survival (PFS) at two months. Secondary endpoints included objective response rate (ORR) and overall survival (OS). Results: A total of 63 patients were enrolled and evaluable for toxicity (13 dose escalation; 50 expansion). The MTD and RPTD were: capecitabine 850 mg/m2, P.O. bid, days 1-14, and ziv-aflibercept 6 mg/kg I.V., day 1, of each 21-day cycle. In the expansion cohort, 72% of patients were progression-free at two months (95% confidence interval [CI], 60-84%). Median PFS and OS were 3.9 months (95% CI, 2.3-4.5) and 7.1 months (95% CI: 5.8-10.0), respectively. Among all patients evaluable for toxicity, the most common treatment related adverse events (all grade [%]; grade ≥ 3 [%]) included palmar-plantar erythrodysesthesia (41%; 6%), hypertension (33%; 22%), and mucositis (19%; 5%). RNA was isolated from archived tumor specimens and gene expression analyses revealed no association between angiogenic biomarkers and clinical outcomes.</p>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Introduction</head><p>Colorectal cancer (CRC) is the fourth leading cause of cancer death in men and the third leading cause of cancer death in women worldwide <ref type="bibr" target="#b0">[1]</ref>. Once a patient with metastatic CRC has experienced progression on first and second-line chemotherapy and biological therapies, the survival benefit of remaining therapies is limited <ref type="bibr" target="#b1">[2,</ref><ref type="bibr" target="#b2">3]</ref>. In addition, therapeutic options may be constrained by patient comorbidities, age, or performance status. Novel therapeutic regimens are needed that are both tolerable and provide meaningful clinical benefit. Ziv-aflibercept is a recombinant fusion protein containing portions of the extracellular domains of VEGFR1 (also known as Flt-1) and VEGFR2 (also known as KDR or Flk-1). Ziv-aflibercept binds vascular endothelial growth factor (VEGF)-A, VEGF-B, and placental growth factor (PlGF), thereby inhibiting VEGF-mediated angiogenesis <ref type="bibr" target="#b3">[4]</ref>. Ziv-aflibercept is approved by the United Stated Food and Drug Administration (FDA) and the European Medicines Agency (EMA) for use in combination with Fluorouracil (5-FU), leucovorin, and irinotecan (FOLFIRI) for the second line treatment of metastatic CRC <ref type="bibr" target="#b4">[5]</ref>. In the phase III VELOUR trial, the addition of ziv-aflibercept to FOLFIRI in patients with metastatic CRC resulted in a survival of 13.5 months, compared to 12.1 months for FOLFIRI alone (hazard ratio [HR], 0.82; 95% confidence interval [CI], 0.71-0.94; P &lt; 0.01) <ref type="bibr" target="#b5">[6]</ref>.</p><p>Capecitabine is an oral fluoropyrimidine carbamate indicated for the treatment of metastatic CRC <ref type="bibr" target="#b6">[7]</ref>. Capecitabine is considered interchangeable with intravenous 5-FU based on its similar efficacy and safety <ref type="bibr" target="#b7">[8]</ref><ref type="bibr" target="#b8">[9]</ref><ref type="bibr" target="#b9">[10]</ref><ref type="bibr" target="#b10">[11]</ref><ref type="bibr" target="#b11">[12]</ref>. In the chemotherapy refractory setting (3rd line and beyond), capecitabine monotherapy has a median time to progression of 2 months <ref type="bibr" target="#b12">[13]</ref>. Prior studies combining capecitabine with the anti-VEGF monoclonal antibody bevacizumab have shown that the combination is clinically active and tolerable, even among patients with advanced age or comorbidities <ref type="bibr" target="#b13">[14,</ref><ref type="bibr" target="#b14">15]</ref>. Since anti-VEGF therapies are active for patients with metastatic CRC in the first-line <ref type="bibr" target="#b15">[16]</ref>, second-line <ref type="bibr" target="#b16">[17,</ref><ref type="bibr" target="#b17">18]</ref>, and beyond <ref type="bibr" target="#b1">[2]</ref>, we hypothesized that the combination of capecitabine and ziv-aflibercept would be tolerable, and would exceed the PFS of historical controls.</p><p>In this phase Ib/II clinical trial, we assessed the safety, tolerability, and efficacy of capecitabine in combination with ziv-aflibercept. The primary objective was to establish a maximum tolerated dose (MTD) and a recommended phase two dose (RPTD) in patients with advanced solid tumors. We then enrolled 50 patients with chemotherapy refractory metastatic CRC in a single-arm phase II expansion cohort to establish the safety and efficacy of the RPTD.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Patients and methods</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Study design</head><p>This multi-center phase Ib/II clinical trial was conducted at Duke University Medical Center (Durham, North Carolina), Duke Cancer Network clinical sites, Virginia Oncology Associates (Hampton, Virginia), and Lexington Medical Center (West Columbia, South Carolina). This study was performed after approval by the Institutional Review Boards of participating centers. All patients provided written informed consent prior to any study-related procedure. This study was conducted in accordance with guidelines of the Helsinki Declaration, and is registered with ClinicalTrials. gov (NCT01661972).</p><p>This study consisted of a Phase Ib (dose escalation) cohort followed by a Phase II expansion cohort. In the Phase Ib dose escalation cohort, we utilized a standard "3 + 3" design to identify the MTD and RPTD of the combination of capecitabine (Genentech, South San Francisco, CA, USA) and ziv-aflibercept (Sanofi-Aventis, Bridgewater, NJ, USA) in patients with advanced solid tumors. The MTD was defined around toxicity occuring in the first cycle. The RPTD was selected based on safety and tolerability in all cycles.</p><p>In the Phase II expansion cohort, we treated 50 subjects with chemotherapy refractory metastatic CRC to determine the safety, tolerability, and clinical activity of capecitabine in combination with ziv-aflibercept. The dose and schedule of each therapy was based on the RPTD from the Phase Ib dose escalation cohort, and are listed in <ref type="table" target="#tab_0">Table 1</ref>. Treatment was continued for all patients until disease progression, unacceptable toxicity, or death.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Patients</head><p>Eligibility for the dose escalation cohort included patients with a histologically or cytologically confirmed malignant solid tumor that was refractory to all standard therapies. Eligibility for the expansion cohort included patients with metastatic CRC who had progressed on, were intolerant of, or were inappropriate for all standard therapies. Subjects must have been treated with a fluoropyrimidine (e.g., 5-fluorouracil or capecitabine), oxaliplatin, irinotecan and bevacizumab or have contraindication to such treatment. Prior epidermal growth factor receptor (EGFR)-targeting agent (cetuximab or panitumumab) was required for subjects with RAS wildtype tumors. Patients in the dose escalation cohort were not required to have measurable disease by RECIST version 1.1. Patients in the expansion cohort were required to have measurable disease by RECIST version 1.1. Inclusion criteria for all subjects in the dose escalation and the expansion cohorts included Karnofsky performance status (KPS) equal to or greater than 70%, life expectancy of at least 3 months, and adequate organ and marrow function.</p><p>Exclusion criteria for all subjects in the dose escalation and expansion cohorts included systolic blood pressure greater than 150 mmHg and/or diastolic blood pressure greater than 90 mmHg, history of arterial thromboembolic events or symptomatic pulmonary embolism within 6 months of study enrollment, anti-coagulation with warfarin, history of fistula, history of gastrointestinal perforation, and history of any major bleeding within 6 months of enrollment. Prior treatment with zivaflibercept was permitted.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Safety and DLT assessment</head><p>The National Cancer Institute Common Toxicity Criteria version 4.0 (NCI-CTC; version 4.0) was used to assess adverse events (AEs). Enrolled patients were considered evaluable for toxicity if they received any treatment. Patients in the dose escalation cohort were evaluable for DLT if they completed cycle one or experienced a DLT in cycle one. Patients not evaluable for DLT were replaced. The following treatment related adverse events (TRAEs) were considered DLT in cycle 1: any grade 4 neutropenia, thrombocytopenia, or anemia or grade 3 neutropenia or thrombocytopenia lasting more than 7 days; any grade 3 thrombocytopenia associated with bleeding; neutropenic fever; nausea, vomiting or diarrhea grade ≥ 3 and lasting ≥4 days despite supportive measures; grade ≥ 3 bilirubin, ALT or AST elevation &gt; 7 days; other non-hematologic toxicity grade ≥ 3 excluding alopecia, anorexia, fatigue, hypertension, isolated lab abnormalities (not clinically significant) and rare, idiosyncratic reactions to any of the study drugs; inability to receive at least 80% of scheduled doses of each study drug due to treatmentrelated toxicity; any treatment-related death or treatment-related hospitalization. Anorexia, fatigue, and hypertension were considered dose-limiting if they were unmanageable or were grade 4 in severity.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Clinical and radiographic assessment</head><p>All patients received a clinical assessment at baseline and then every 3 weeks before treatment with ziv-aflibercept. These assessments included vital signs, performance status, and routine laboratory studies. Urinalysis or urine protein to creatinine ratio (UPC) was obtained every 3 weeks (each cycle). In the dose escalation cohort, physical examination and clinical assessment occurred weekly during cycle one.</p><p>Radiographic disease assessments were performed using either contrast-enhanced computed tomography (CT) or magnetic resonance imaging (MRI) of the chest, abdomen, and pelvis. These radiographic assessments were completed within 4 weeks prior to the start of therapy and repeated every 3 cycles (9 weeks). Tumors were evaluated using RECIST version 1.1.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Statistical analysis</head><p>The primary study objective of the phase Ib dose escalation cohort was to determine the MTD and RPTD of capecitabine in combination with ziv-aflibercept and to describe any non-dose limiting and dose limiting toxicities. The primary objective of the phase II expansion cohort was to estimate clinical activity. The primary endpoint was 2-month PFS. Secondary endpoints included tumor response, PFS, and OS. Based on historical results the null hypothesis was a 2-month PFS of 48% for capecitabine alone <ref type="bibr" target="#b12">[13]</ref> tested against the alternative of a 2-month PFS of 65%. Two-month PFS and its 95% CI were estimated as a binomial proportion. The criterion for success was an observed proportion of at least 30 of 50 patients progression free at 2 months (α = 0.06; β = </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Real-time PCR</head><p>Of the 63 patients that accrued to the study, a total of 31 tumor samples yielded sufficient RNA for reverse-transcription. Expression levels of VEGF-A, VEGF-C, VEGF-D, PlGF, NRP1, and NRP2 were quantified using preformulated TaqMan real-time PCR assays and TaqMan Gene Expression Master Mix (Applied Biosystems, Foster City, CA) in 10 μl reactions according to the manufacturer's instructions. All assays were run in duplicate. If the standard deviation (SD) in cycle thresholds (CT) between replicate wells was &gt; 0.5 then the reaction was rerun. If the rerun data improved replicate consistency (SD &lt; 0.5), then the rerun data was used. Gene expressions levels were normalized to β-actin using the ΔCT method. Gene-specific assays are listed in Additional file 1: <ref type="table" target="#tab_0">Table S1</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Results</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Patient characteristics</head><p>Subject accrual occurred between September 2012 and October 2015. Sixty-three patients received at least one dose of capecitabine and ziv-aflibercept and were considered evaluable for toxicity. Patient demographics are summarized in <ref type="table" target="#tab_1">Table 2</ref>. The median age in this study was 57.2 years (range 35.8-80.7 years); 59% of patients were male. Among 13 patients enrolled and treated in the dose escalation cohort, seven patients had received 3 or more prior lines of treatment. Various tumor types were included in the dose escalation cohort, including colon cancer (5 patients), breast cancer (4 patients), gastric and esophageal cancers (3 patients), and other GI malignancies (1 patient). Fifty patients with metastatic colon and rectal cancer were enrolled and treated in the expansion cohort. Twelve of these patients (24%) received two or fewer prior treatments for metastatic disease. Seventeen patients (34%) received 3 prior treatments, and twelve (24%) received four prior treatments for metastatic disease. Nine patients (18%) received five or more prior treatments. Within the expansion cohort, 46 patients (92%) had received prior 5-FU, twenty-six patients (52%) had received prior capecitabine, and twenty-two patients (44%) had received both capecitabine and 5-FU. Among the patients who received capecitabine prior to enrollment, 81% had experienced disease progression. Among the patients who received 5-FU prior to enrollment, 83% had experienced disease progression. Forty-eight patients (96%) had experienced progression on either 5-FU or capecitabine prior to enrollment. All enrolled patients in the expansion cohort had received prior anti-VEGF therapy (bevacizumab).</p><p>Within the expansion cohort, forty-five patients (90%) had experienced disease progression on bevacizumab prior to enrollment. One patient had received ziv-aflibercept prior to enrollment (in combination with FOLFIRI), and this patient experienced disease progression.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Dose escalation and RP2D determination</head><p>Thirteen patients were enrolled and treated in the Dose Escalation Cohort. In Dose Level 1 (capecitabine 850 mg/m 2 p.o. bid, days 1-14; ziv-aflibercept 6 mg/kg I.V. day 1 of each 21-day cycle), one subject experienced a DLT event (Grade 3 colonic perforation). One patient in this cohort was not evaluable for DLT assessment due to disease-related intercurrent illness. Capecitabine was then increased to 1000 mg/m 2 , and two of six patients experienced DLT events. These DLT events included grade 2 intolerable fatigue (n = 1) and grade 3 oral mucositis (n = 1). Based on one DLT among six evaluable patients, Dose Level 1 was established as the MTD and RPTD.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Efficacy</head><p>Of the 10 subjects evaluable for tumor response in the dose escalation cohort, seven patients had stable disease (SD) and 3 patients had progressive disease (PD). Within the expansion cohort, one subject experienced a partial response (PR), with an overall response rate (ORR) of 2% <ref type="figure" target="#fig_0">(Fig. 1)</ref>. In the expansion cohort, 72% of patients were progression-free at two months (95% CI, 60-84%), significantly greater than the historical control (48%). Median PFS was 3.9 months (95% CI, 2.3-4.5) ( <ref type="figure">Fig. 2a</ref>).</p><p>Ten patients in the expansion cohort had PFS greater than six months. Overall survival was 7.1 months (95% CI, 5.8-10.0) <ref type="figure">(Fig. 2b)</ref>. <ref type="table">Table 3</ref> summarizes treatment related adverse events (TRAEs). Grade 1 AEs were not recorded. Of all the patients treated, 52 patients (83%) experienced at least one TRAE. The most common TRAEs of any grade were palmar-plantar erythrodysesthesia syndrome (PPE) (41%), hypertension (33%), oral mucositis (19%), fatigue (16%), and proteinuria (14%). Most AEs were moderate (grade 2) and resolved with supportive clinical care and protocolspecified treatment suspension and dose reductions. 32 patients (51%) experienced a grade 3 or greater TRAE. The most common grade 3 or 4 TRAEs were hypertension (22%), PPE (6%), and mucositis (5%). One patient experienced a Grade 4 intracranial hemorrhage probably related to study treatment (ziv-aflibercept). There was one death from respiratory failure (Death NOS), thought to be related to progressive disease, although a contribution from zivaflibercept cannot be excluded.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Safety</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Correlative studies</head><p>To determine whether the expression of angiogenic ligands correlated with clinical benefit, real-time PCR was performed to evaluate baseline levels of VEGF-A, VEGF-C, VEGF-D, PlGF, NRP1, and NRP2 expression. VEGF-D was excluded from this analysis as it could not be reliably detected in these samples. No associations were observed between gene expression levels (ΔCt) and survival outcomes (PFS and OS). Furthermore, when patients with PR/SD were compared to patients with PD, gene expression did not significantly differ between the responder and nonresponder groups (Additional file 1: <ref type="table" target="#tab_1">Table S2</ref>). </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Discussion</head><p>Angiogenesis plays a vital role in mediating embryonic development, wound healing, and vascular permeability, but can also be co-opted by tumors to promote growth and metastasis <ref type="bibr" target="#b18">[19,</ref><ref type="bibr" target="#b19">20]</ref>. Ziv-aflibercept-which binds ligands for VEGFR1 and VEGFR2 and prevents receptor activation-is a potent angiogenesis inhibitor. Although the survival benefit of ziv-aflibercept is well established for the second line treatment of metastatic CRC, its activity is not well established in patients treated in the third line setting and beyond. In this phase Ib/II study, we established the MTD/ RPTD of capecitabine and ziv-aflibercept in patients with refractory advanced solid tumors. The MTD/ RPTD of capecitabine in this study (850 mg/m 2 , p.o. bid, days 1-14 of each 21 day cycle) is lower than the dosage listed in the capecitabine prescribing information (1250 mg/m 2 , p.o. bid, days 1-14 of each 21 day cycle) <ref type="bibr" target="#b20">[21]</ref>. It is possible that this lower RPTD of capecitabine reflects the heavily pretreated patient population. Additionally, regional variation in capecitabine tolerability may have impacted the RPTD <ref type="bibr" target="#b21">[22]</ref>. Alternatively, ziv-aflibercept may have potentiated the effects of chemotherapy, thereby reducing the tolerability of capecitabine. The phase III VELOUR study noted greater rates of chemotherapy-related toxicity in patients receiving ziv-aflibercept, including diarrhea, stomatitis, PPE, and neutropenia <ref type="bibr" target="#b5">[6]</ref>. However, even with the lower RPTD of capecitabine, this study suggests that efficacy was not compromised. As shown in a prior study, capecitabine dosage and schedule may impact toxicity, but response rate-a surrogate for clinical benefit-remains similar <ref type="bibr" target="#b22">[23]</ref>.</p><p>In the expansion cohort, the combination of capecitabine and ziv-aflibercept had acceptable tolerability at the RPTD. Treatment related grade 4/5 AEs were rare (3%). The most common TRAEs-PPE, hypertension, and oral mucositis-were anticipated, and were in most cases successfully managed with treatment suspension and dose modifications. Only 9% of patients (5/57) treated at the RPTD discontinued treatment due to toxicity. Given the favorable tolerability of capecitabine and zivaflibercept compared to available alternatives, this may be a regimen well suited to patients with advanced age or comorbidities.</p><p>In this study, the combination of capecitabine and zivaflibercept met its primary goal to demonstrate a 2-month PFS statistically greater than 48%. The median PFS observed in this study-3.9 months (95% CI, 2.3-4.6)-compares favorably to historical controls from standard of care therapies, including TAS-102 (median PFS = 1.9 months), regorafenib (median PFS = 1.9 months), and capecitabine monotherapy (median time to progression = 2 months) <ref type="bibr" target="#b1">[2,</ref><ref type="bibr" target="#b2">3,</ref><ref type="bibr" target="#b12">13]</ref>. Additionally, the median OS of 7.1 months (95% CI, 5.8-10.0) observed in this study is similar to historical controls from TAS-102, regorafenib, and capecitabine monotherapy <ref type="bibr" target="#b1">[2,</ref><ref type="bibr" target="#b2">3,</ref><ref type="bibr" target="#b12">13]</ref>. Although only one patient achieved a confirmed RECIST partial response, the ORR of TAS-102 and regorafenib are also less than 2% <ref type="bibr" target="#b1">[2,</ref><ref type="bibr" target="#b2">3]</ref>. The primary clinical benefit of capecitabine and ziv-aflibercept observed in this study was disease stabilization, which occurred in the majority (60%) of 45 evaluable patients with metastatic CRC. Disease stabilization occurred despite prior progression on 5FU or Xeloda in 96% of enrolled patients, and prior progression on bevacizumab in 90% of enrolled patients. Given the absence of a control population and limited number of participating sites, these results will need confirmation in a larger randomized study. Recent evidence further supports the clinical benefit of oral cytotoxic chemotherapy combined with an anti-VEGF monoclonal antibody. A randomized study in patients with chemotherapy refractory metastatic CRC demonstrated improved PFS for TAS-102 and bevacizumab compared with TAS-102 alone (Median PFS, 5.9 months versus 2.9 months; P &lt; 0.05) <ref type="bibr" target="#b23">[24]</ref>. These results support the therapeutic approach, and offer a potential cytotoxic chemotherapy partner (TAS-102) for future investigation.</p><p>In this study, some patients experienced exceptional clinical benefit. This benefit occurred despite prior treatment with anti-VEGF targeting therapies. In the dose escalation cohort, a patient with metastatic breast cancer who had received 12 lines of prior therapy-including capecitabine/ bevacizumab-experienced significant reduction in symptomatic ascites, and stable disease for over 6 months. A second subject with treatment refractory breast cancer experienced stable disease for over 8 months. Within the expansion cohort, two subjects experienced stable disease lasting longer than 6 months. Correlative analyses did not identify an association between the expression of angiogenesis-associated genes and patient outcomes. Assays of additional genes may yet identify actionable predictive biomarkers. This analysis-with its limited number of samples and genes assayed-highlights the challenges of identifying predictors of benefit from anti-VEGF therapies.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Conclusion</head><p>The combination of capecitabine and ziv-aflibercept was tolerable and met its pre-specified target for clinical efficacy. Additional study in a prospective randomized clinical trial is warranted. Further study is needed to better define the role of biomarkers in predicting sensitivity and resistance to anti-VEGF therapy.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Additional file</head><p>Additional file 1: <ref type="table" target="#tab_0">Table S1</ref>. Taqman Gene Expression Primers and <ref type="table" target="#tab_1">Table S2</ref>. Association of angiogenic ligand expression with clinical outcomes. </p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>Fig. 1</head><label>1</label><figDesc>Best response for evaluable subjects (n = 45). PR = Partial Response; SD = Stable Disease; PD = Progressive Disease</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head>Fig.</head><label></label><figDesc>Kaplan-Meier curves for (a) progression free survival and (b) overall survival</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_2"><head>Abbreviations 5 -</head><label>5</label><figDesc>FU: 5-Fluorouracil; AE: Adverse event; ALT: Alanine aminotransferase; AST: Aspartate aminotransferase; CBC: Complete blood count; CI: Confidence interval; CNS: Central nervous system; CRC: Colorectal cancer; CT: Computed tomography; CT: Cycle thresholds; DLT: Dose limiting toxicity; DNA: Deoxyribonucleic acid; EGFR: Epidermal growth factor receptor; EMA: European Medicines Agency; FDA: Food and Drug Administration; FFPE: Formalin-fixed, paraffin-embedded; FLK1: Fetal Liver Kinase 1; FLT1: fms related tyrosine kinase 1; FOLFIRI: 5-Fluorouracil, leucovorin, and irinotecan; GI: Gastrointestinal; H&amp;E: Hematoxylin and eosin; HR: Hazard ratio; I.V.: Intravenous; KDR: Kinase insert domain receptor; KPS: Karnofsky Performance Status; mmHg: Millimeters of mercury; MRI: Magnetic resonance imaging; MTD: Maximum tolerated dose; NCI-CTC: National Cancer Institute Common Toxicity Criteria; NRP1: Neuropilin 1; NRP2: Neuropilin 2; ORR: Objective response rate; OS: Overall survival; P.O.: Per os (by mouth); PCR: Polymerase chain reaction; PD: Progressive disease; PFS: Progression-free survival; PlGF: Placental growth factor; PPE-palmar: Plantar erythrodysesthesia; PR: Partial response; RAS wild-type: Negative for mutations in KRAS or NRAS exons 2, 3, or 4; RECIST: Response evaluation criteria in solid tumors; RNA: Ribonucleic acid; RPTD: Recommended phase II dose (RPTD); SD: Stable disease; SD: Standard deviation; TRAE: Treatment related adverse events; UPC: Urine protein to creatinine ratio; VEGF-A: Vascular endothelial growth factor-A; VEGF-C: Vascular endothelial growth factor-C; VEGFR1: Vascular endothelial growth factor receptor 1; VEGFR2: Vascular endothelial growth factor receptor 2; β-HCG: Beta-human chorionic gonadotropin</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>Table 1</head><label>1</label><figDesc>Dose and schedule of Capecitabine and Ziv-aflibercept 0.19). Median PFS and OS were estimated by the Kaplan-Meier method. For tumor response, the frequency of best response (complete response + partial response) over the treatment period was tabulated and its 95% CI was computed.</figDesc><table><row><cell>Cohort</cell><cell># Evaluable Subjects</cell><cell>Capecitabine</cell><cell>Ziv-Aflibercept</cell></row><row><cell></cell><cell></cell><cell>P.O. (mg/m 2 )</cell><cell>I.V. (mg/kg)</cell></row><row><cell></cell><cell></cell><cell>BID, Days 1-14</cell><cell>Q3 weeks, Day 1</cell></row><row><cell>Phase Ib (dose escalation)</cell><cell></cell><cell></cell><cell></cell></row><row><cell>Cohort 1</cell><cell>7</cell><cell>850</cell><cell>6</cell></row><row><cell>Cohort 2</cell><cell>6</cell><cell>1000</cell><cell>6</cell></row><row><cell>Phase II (expansion)</cell><cell>50</cell><cell>850</cell><cell>6</cell></row></table><note></note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_1"><head>Table 2</head><label>2</label><figDesc>Baseline demographics and patient characteristics overall and by cohort</figDesc><table><row><cell>Characteristic</cell><cell>Dose escalation cohort</cell><cell>Expansion cohort</cell><cell>Overall</cell></row><row><cell></cell><cell>(n = 13)</cell><cell>(n = 50)</cell><cell>(n = 63)</cell></row><row><cell>Age, year</cell><cell></cell><cell></cell><cell></cell></row><row><cell>Mean</cell><cell>58.1</cell><cell>57.7</cell><cell>57.8</cell></row><row><cell>Median</cell><cell>55.1</cell><cell>57.2</cell><cell>57.2</cell></row><row><cell>Range</cell><cell>40.7-80.7</cell><cell>35.8-75.5</cell><cell>35.8-80.7</cell></row><row><cell>Gender, n (%)</cell><cell></cell><cell></cell><cell></cell></row><row><cell>Male</cell><cell>7 (54)</cell><cell>30 (60)</cell><cell>37 (59)</cell></row><row><cell>Female</cell><cell>6 (46)</cell><cell>20 (40)</cell><cell>26 (41)</cell></row><row><cell>Race</cell><cell></cell><cell></cell><cell></cell></row><row><cell>White</cell><cell>11 (85)</cell><cell>29 (58)</cell><cell>40 (63)</cell></row><row><cell>Black</cell><cell>2 (15)</cell><cell>14 (28)</cell><cell>16 (25)</cell></row><row><cell>Other / unknown</cell><cell>0</cell><cell>7 (14)</cell><cell>7 (11)</cell></row><row><cell>Performance status, KPS (%)</cell><cell></cell><cell></cell><cell></cell></row><row><cell>100</cell><cell>1 (8)</cell><cell>5 (10)</cell><cell>6 (9)</cell></row><row><cell>90</cell><cell>7 (54)</cell><cell>18 (36)</cell><cell>25 (40)</cell></row><row><cell>80</cell><cell>3 (23)</cell><cell>24 (48)</cell><cell>27 (43)</cell></row><row><cell>70</cell><cell>2 (15)</cell><cell>3 (6)</cell><cell>5 (8)</cell></row><row><cell># of prior treatments (%)</cell><cell></cell><cell></cell><cell></cell></row><row><cell>1</cell><cell>1 (8)</cell><cell>2 (4)</cell><cell>3 (5)</cell></row><row><cell>2</cell><cell>5 (38)</cell><cell>10 (20)</cell><cell>15 (24)</cell></row><row><cell>3</cell><cell>6 (46)</cell><cell>17 (34)</cell><cell>23 (31)</cell></row><row><cell>4</cell><cell>0</cell><cell>12 (24)</cell><cell>12 (19)</cell></row><row><cell>≥ 5</cell><cell>1 (8)</cell><cell>9 (18)</cell><cell>10 (16)</cell></row><row><cell>Tumor Type, n (%)</cell><cell></cell><cell></cell><cell></cell></row><row><cell>Breast</cell><cell>4 (31)</cell><cell>0</cell><cell>4 (6)</cell></row><row><cell>Colon</cell><cell>5 (38)</cell><cell>41 (82)</cell><cell>46 (73)</cell></row><row><cell>Esophagus</cell><cell>1 (8)</cell><cell>0</cell><cell>1 (2)</cell></row><row><cell>Gastric</cell><cell>2 (15)</cell><cell>0</cell><cell>2 (3)</cell></row><row><cell>GI</cell><cell>1 (8)</cell><cell>0</cell><cell>1 (2)</cell></row><row><cell>Rectum</cell><cell>0</cell><cell>9 (18)</cell><cell>9 (14)</cell></row></table><note></note></figure>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Acknowledgments</head><p>We gratefully acknowledge the invaluable contributions of the patients and their families as well as the Duke University Phase I and GI Oncology Clinical Trials Teams. We thank Dr. Francisco Javier Cordero for his medical writing contribution to this manuscript.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Financial support</head><p>This research was supported by Sanofi Genzyme who provided study drug and trial funding.</p></div>
+			</div>
+
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Authors' contributions All authors contributed significantly to the manuscript. First draft writing: JHS, AJH, ABN, HIH, AM, CNR. Revision of manuscript: JHS, AJH, ABN. Clinical data collection: JHS, HEU, SDH, SYZ, MAM, DZC, JLW, KLB, PKM, FAR, AJH, HIH, SH. Data analysis and Statistics: JHS, CNR, DN, SH, IA. Study Conception and Design: JHS, FAR, AJH, ABN, CA, EB, HIH. All authors read and approved the final manuscript.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Funding</head><p>This study was funded by Sanofi Genzyme. Sponsors did not play any role in the design, data collection, analysis, interpretation, writing and decision to publish the manuscript.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Availability of data and materials</head><p>The data that support the findings of this study are available from the corresponding author upon reasonable request.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Ethics approval and consent to participate</head><p>This study was approved by the Duke Institutional Review Board and following the guidelines of the Helsinki Declaration. All patients provided informed written consent prior to any study-related procedure and were treated at Duke Cancer Institute. Consent for publication Not applicable.</p><p>Competing interests</p></div>			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Regional, and National Cancer Incidence, Mortality, Years of Life Lost, Years Lived With Disability, and Disability-Adjusted Life-years for 32 Cancer Groups</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Global</forename><surname>Burden Of Disease Cancer</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><surname>Fitzmaurice</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><surname>Allen</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><surname>Barber</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><forename type="middle">M</forename><surname>Barregard</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">L</forename><surname>Bhutta</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Z</forename><forename type="middle">A</forename><surname>Brenner</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><surname>Dicker</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><forename type="middle">J</forename><surname>Chimed-Orchir</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">O</forename><surname>Dandona</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">JAMA Oncol</title>
+		<imprint>
+			<biblScope unit="volume">3</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="524" to="572" />
+			<date type="published" when="1990" />
+		</imprint>
+	</monogr>
+	<note>: a systematic analysis for the global burden of disease study</note>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Regorafenib monotherapy for previously treated metastatic colorectal cancer (CORRECT): an international, multicentre, randomised, placebo-controlled, phase 3 trial</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Grothey</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><surname>Van Cutsem</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Sobrero</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Siena</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Falcone</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Ychou</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Y</forename><surname>Humblet</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">O</forename><surname>Bouche</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">L</forename><surname>Mineur</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><surname>Barone</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Lancet</title>
+		<imprint>
+			<biblScope unit="volume">381</biblScope>
+			<biblScope unit="issue">9863</biblScope>
+			<biblScope unit="page" from="303" to="315" />
+			<date type="published" when="2013" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Randomized trial of TAS-102 for refractory metastatic colorectal cancer</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><forename type="middle">J</forename><surname>Mayer</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><surname>Van Cutsem</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Falcone</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Yoshino</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><surname>Garcia-Carbonero</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">N</forename><surname>Mizunuma</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><surname>Yamazaki</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Y</forename><surname>Shimada</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Tabernero</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Y</forename><surname>Komatsu</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">N Engl J Med</title>
+		<imprint>
+			<biblScope unit="volume">372</biblScope>
+			<biblScope unit="issue">20</biblScope>
+			<biblScope unit="page" from="1909" to="1928" />
+			<date type="published" when="2015" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">VEGF-trap: a VEGF blocker with potent antitumor effects</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Holash</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Davis</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">N</forename><surname>Papadopoulos</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><forename type="middle">D</forename><surname>Croll</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">L</forename><surname>Ho</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Russell</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><surname>Boland</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><surname>Leidich</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><surname>Hylton</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><surname>Burova</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Proc Natl Acad Sci</title>
+		<imprint>
+			<biblScope unit="volume">99</biblScope>
+			<biblScope unit="issue">17</biblScope>
+			<biblScope unit="page" from="11393" to="11401" />
+			<date type="published" when="2002" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<monogr>
+		<title level="m">Zaltrap Prescribing Information. In.: © 2016 sanofi-aventis</title>
+		<meeting><address><addrLine>U.S. LLC</addrLine></address></meeting>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Addition of aflibercept to fluorouracil, leucovorin, and irinotecan improves survival in a phase III randomized trial in patients with metastatic colorectal cancer previously treated with an oxaliplatin-based regimen</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><surname>Van Cutsem</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Tabernero</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><surname>Lakomy</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><surname>Prenen</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Prausova</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Macarulla</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><surname>Ruff</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">G</forename><forename type="middle">A</forename><surname>Van Hazel</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">V</forename><surname>Moiseyenko</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><surname>Ferry</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Clin Oncol</title>
+		<imprint>
+			<biblScope unit="volume">30</biblScope>
+			<biblScope unit="issue">28</biblScope>
+			<biblScope unit="page" from="3499" to="506" />
+			<date type="published" when="2012" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Design of a novel oral fluoropyrimidine carbamate, capecitabine, which generates 5-fluorouracil selectively in tumours by enzymes concentrated in human liver and cancer tissue</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Miwa</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Ura</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Nishida</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">N</forename><surname>Sawada</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Ishikawa</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><surname>Mori</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">N</forename><surname>Shimma</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">I</forename><surname>Umeda</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><surname>Ishitsuka</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Eur J Cancer</title>
+		<imprint>
+			<biblScope unit="volume">34</biblScope>
+			<biblScope unit="issue">8</biblScope>
+			<biblScope unit="page" from="1274" to="81" />
+			<date type="published" when="1998" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Bevacizumab in combination with oxaliplatin-based chemotherapy as first-line therapy in metastatic colorectal cancer: a randomized phase III study</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">L</forename><forename type="middle">B</forename><surname>Saltz</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Clarke</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><surname>Diaz-Rubio</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">W</forename><surname>Scheithauer</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Figer</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><surname>Wong</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Koski</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Lichinitser</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><forename type="middle">S</forename><surname>Yang</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">F</forename><surname>Rivera</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Clin Oncol</title>
+		<imprint>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="issue">12</biblScope>
+			<biblScope unit="page" from="2013" to="2022" />
+			<date type="published" when="2008" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Randomized phase III study of capecitabine plus oxaliplatin compared with fluorouracil/folinic acid plus oxaliplatin as first-line therapy for metastatic colorectal cancer</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Cassidy</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Clarke</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><surname>Diaz-Rubio</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">W</forename><surname>Scheithauer</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Figer</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><surname>Wong</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Koski</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Lichinitser</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><forename type="middle">S</forename><surname>Yang</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">F</forename><surname>Rivera</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Clin Oncol</title>
+		<imprint>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="issue">12</biblScope>
+			<biblScope unit="page" from="2006" to="2018" />
+			<date type="published" when="2008" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Capecitabine versus 5-fluorouracil/folinic acid as adjuvant therapy for stage III colon cancer: final results from the X-ACT trial with analysis by age and preliminary evidence of a pharmacodynamic marker of efficacy</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><surname>Twelves</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">W</forename><surname>Scheithauer</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Mckendrick</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">F</forename><surname>Seitz</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Van</forename><surname>Hazel</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">G</forename><surname>Wong</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Diaz-Rubio</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><surname>Gilberg</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">F</forename><surname>Cassidy</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ann Oncol</title>
+		<imprint>
+			<biblScope unit="volume">23</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page" from="1190" to="1197" />
+			<date type="published" when="2012" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Comparison of oral capecitabine versus intravenous fluorouracil plus leucovorin as first-line treatment in 605 patients with metastatic colorectal cancer: results of a randomized phase III study</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><forename type="middle">M</forename><surname>Hoff</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><surname>Ansari</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">G</forename><surname>Batist</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Cox</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">W</forename><surname>Kocha</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Kuperminc</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Maroun</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><surname>Walde</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><surname>Weaver</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><surname>Harrison</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Clin Oncol</title>
+		<imprint>
+			<biblScope unit="volume">19</biblScope>
+			<biblScope unit="issue">8</biblScope>
+			<biblScope unit="page" from="2282" to="92" />
+			<date type="published" when="2001" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Oral capecitabine vs intravenous 5-fluorouracil and leucovorin: integrated efficacy data and novel analyses from two large, randomised, phase III trials</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><surname>Van Cutsem</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><forename type="middle">M</forename><surname>Hoff</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><surname>Harper</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><forename type="middle">M</forename><surname>Bukowski</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><surname>Cunningham</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><surname>Dufour</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">U</forename><surname>Graeven</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Lokich</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Madajewicz</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">A</forename><surname>Maroun</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Br J Cancer</title>
+		<imprint>
+			<biblScope unit="volume">90</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page" from="1190" to="1197" />
+			<date type="published" when="2004" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Randomized placebo-controlled phase II trial of perifosine plus capecitabine as second-or third-line therapy in patients with metastatic colorectal cancer</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">C</forename><surname>Bendell</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Nemunaitis</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><forename type="middle">J</forename><surname>Vukelja</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><surname>Hagenstad</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">L</forename><forename type="middle">T</forename><surname>Campos</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><forename type="middle">C</forename><surname>Hermann</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><surname>Sportelli</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">L</forename><surname>Gardner</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><forename type="middle">A</forename><surname>Richards</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Clin Oncol</title>
+		<imprint>
+			<biblScope unit="volume">29</biblScope>
+			<biblScope unit="issue">33</biblScope>
+			<biblScope unit="page" from="4394" to="400" />
+			<date type="published" when="2011" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Capecitabine, bevacizumab, and mitomycin in first-line treatment of metastatic colorectal cancer: results of the Australasian gastrointestinal trials group randomized phase III MAX study</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">N</forename><forename type="middle">C</forename><surname>Tebbutt</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><surname>Wilson</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">V</forename><forename type="middle">J</forename><surname>Gebski</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">M</forename><surname>Cummins</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><surname>Zannino</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">G</forename><forename type="middle">A</forename><surname>Van Hazel</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Robinson</forename><forename type="middle">B</forename><surname>Broad</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Ganju</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">V</forename><surname>Ackland</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><forename type="middle">P</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Clin Oncol</title>
+		<imprint>
+			<biblScope unit="volume">28</biblScope>
+			<biblScope unit="page" from="3191" to="3199" />
+			<date type="published" when="2010" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">Bevacizumab plus capecitabine versus capecitabine alone in elderly patients with previously untreated metastatic colorectal cancer (AVEX): an open-label, randomised phase 3 trial</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><surname>Cunningham</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">I</forename><surname>Lang</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><surname>Marcuello</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">V</forename><surname>Lorusso</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Ocvirk</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><forename type="middle">B</forename><surname>Shin</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><surname>Jonker</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Osborne</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">N</forename><surname>Andre</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><surname>Waterkamp</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Lancet Oncol</title>
+		<imprint>
+			<biblScope unit="volume">14</biblScope>
+			<biblScope unit="issue">11</biblScope>
+			<biblScope unit="page" from="1077" to="85" />
+			<date type="published" when="2013" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Bevacizumab plus irinotecan, fluorouracil, and leucovorin for metastatic colorectal cancer</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><surname>Hurwitz</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">L</forename><surname>Fehrenbacher</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">W</forename><surname>Novotny</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Cartwright</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Hainsworth</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">W</forename><surname>Heim</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Berlin</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Baron</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Griffing</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><surname>Holmgren</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">N Engl J Med</title>
+		<imprint>
+			<biblScope unit="volume">350</biblScope>
+			<biblScope unit="issue">23</biblScope>
+			<biblScope unit="page" from="2335" to="2377" />
+			<date type="published" when="2004" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Bevacizumab (BEV) plus chemotherapy (CT) continued beyond first progression in patients with metastatic colorectal cancer (mCRC) previously treated with BEV plus CT: Results of a randomized phase III intergroup study (TML study)</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><surname>Arnold</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Andre</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Bennouna</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Sastre</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><forename type="middle">J</forename><surname>Osterlund</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><surname>Greil</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><forename type="middle">V</forename><surname>Cutsem</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><forename type="middle">V</forename><surname>Moos</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">I</forename><surname>Reyes-Rivera</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">B</forename><surname>Bendahmane</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Clin Oncol</title>
+		<imprint>
+			<biblScope unit="volume">2012</biblScope>
+		</imprint>
+	</monogr>
+	<note>suppl; abstr CRA3503</note>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Eastern cooperative oncology group study E: Bevacizumab in combination with oxaliplatin, fluorouracil, and leucovorin (FOLFOX4) for previously treated metastatic colorectal cancer: results from the eastern cooperative oncology group study E3200</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">B</forename><forename type="middle">J</forename><surname>Giantonio</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><forename type="middle">J</forename><surname>Catalano</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">N</forename><forename type="middle">J</forename><surname>Meropol</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">O</forename><surname>Dwyer</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><forename type="middle">J</forename><surname>Mitchell</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><forename type="middle">P</forename><surname>Alberts</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><forename type="middle">R</forename><surname>Schwartz</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">A</forename><surname>Benson</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><forename type="middle">B</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Clin Oncol</title>
+		<imprint>
+			<biblScope unit="volume">25</biblScope>
+			<biblScope unit="issue">12</biblScope>
+			<biblScope unit="page" from="1539" to="1583" />
+			<date type="published" when="2007" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">Angiogenesis as a therapeutic target</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">N</forename><surname>Ferrara</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><forename type="middle">S</forename><surname>Kerbel</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nature</title>
+		<imprint>
+			<biblScope unit="volume">438</biblScope>
+			<biblScope unit="issue">7070</biblScope>
+			<biblScope unit="page" from="967" to="74" />
+			<date type="published" when="2005" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">The contribution of angiogenesis to the process of metastasis</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><forename type="middle">R</forename><surname>Bielenberg</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">B</forename><forename type="middle">R</forename><surname>Zetter</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Cancer J</title>
+		<imprint>
+			<biblScope unit="volume">21</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="267" to="73" />
+			<date type="published" when="2015" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title/>
+	</analytic>
+	<monogr>
+		<title level="j">Capecitabine Prescribing Information. In. Edited by Genentech I</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">Potential regional differences for the tolerability profiles of fluoropyrimidines</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><forename type="middle">G</forename><surname>Haller</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Cassidy</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><forename type="middle">J</forename><surname>Clarke</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><surname>Cunningham</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><surname>Van Cutsem</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><forename type="middle">M</forename><surname>Hoff</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">L</forename><surname>Rothenberg</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">L</forename><forename type="middle">B</forename><surname>Saltz</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><forename type="middle">J</forename><surname>Schmoll</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><surname>Allegra</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Clin Oncol</title>
+		<imprint>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="issue">13</biblScope>
+			<biblScope unit="page" from="2118" to="2141" />
+			<date type="published" when="2008" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">Capecitabine, an oral fluoropyrimidine carbamate with substantial activity in advanced colorectal cancer: results of a randomized phase II study</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><surname>Van Cutsem</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Findlay</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">B</forename><surname>Osterwalder</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">W</forename><surname>Kocha</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><surname>Dalley</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><surname>Pazdur</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Cassidy</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">L</forename><surname>Dirix</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><surname>Twelves</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><surname>Allman</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Clin Oncol</title>
+		<imprint>
+			<biblScope unit="volume">18</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page" from="1337" to="1382" />
+			<date type="published" when="2000" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title level="a" type="main">Randomized study evaluating trifluridine/tipiracil (TAS-102) versus + trifluridine/tipiracil + bevacizumab as last-line therapy in patients with chemorefractory unresectable metastatic colorectal cancer (mCRC)</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><surname>Pfeiffer</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">K</forename><surname>Yilmaz</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Moller</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">L</forename><surname>Maltha</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Krogh</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><surname>Zitnjak</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><forename type="middle">L</forename><surname>Szameitat</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">F</forename><surname>Hejlesen</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">G</forename><forename type="middle">T</forename><surname>Thomsen</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><surname>Qvortrup</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Clin Oncol</title>
+		<imprint>
+			<biblScope unit="volume">37</biblScope>
+			<biblScope unit="issue">4_suppl</biblScope>
+			<biblScope unit="page">637</biblScope>
+			<date type="published" when="2019" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<monogr>
+		<title level="m" type="main">Publisher&apos;s Note</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<monogr>
+		<title level="m">Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

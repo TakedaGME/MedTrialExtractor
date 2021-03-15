@@ -1,0 +1,1862 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /data/rsg/nlp/juanmoo1/bin/grobid-0.6.1/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Fostering efficacy of anti-PD-1-treatment: Nivolumab plus radiotherapy in advanced non-small cell lung cancer -study protocol of the FORCE trial</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Farastuk</forename><surname>Bozorgmehr</surname></persName>
+							<idno type="ORCID">0000-0001-8058-8884</idno>
+							<affiliation key="aff2">
+								<orgName type="department">Department of Thoracic Oncology, Thoraxklinik at University Hospital of Heidelberg</orgName>
+								<address>
+									<addrLine>Röntgenstraße 1</addrLine>
+									<postCode>69126</postCode>
+									<settlement>Heidelberg</settlement>
+									<country key="DE">Germany</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff3">
+								<orgName type="department">Translational Lung Research Center Heidelberg TLRCH, Member of the German Center for Lung Research DZL</orgName>
+								<address>
+									<addrLine>Im Neuenheimer Feld 156</addrLine>
+									<postCode>69120</postCode>
+									<settlement>Heidelberg</settlement>
+									<country key="DE">Germany</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Adriane</forename><surname>Hommertgen</surname></persName>
+							<idno type="ORCID">0000-0001-8058-8884</idno>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Radiation Oncology</orgName>
+								<orgName type="institution">University Hospital of Heidelberg</orgName>
+								<address>
+									<addrLine>Im Neuenheimer Feld 400</addrLine>
+									<postCode>69120</postCode>
+									<settlement>Heidelberg</settlement>
+									<country key="DE">Germany</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="institution">Heidelberg Institute of Radiation Oncology HIRO</orgName>
+								<address>
+									<addrLine>Im Neuenheimer Feld 280</addrLine>
+									<postCode>69120</postCode>
+									<settlement>Heidelberg</settlement>
+									<country key="DE">Germany</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff4">
+								<orgName type="department">Department of Radiation Oncology</orgName>
+								<orgName type="institution">University Hospital of Heidelberg</orgName>
+								<address>
+									<addrLine>Im Neuenheimer Feld 400</addrLine>
+									<postCode>69120</postCode>
+									<settlement>Heidelberg</settlement>
+									<country key="DE">Germany</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff5">
+								<orgName type="department">German Cancer Research Center, Abteilung für Molekulare Radioonkologie</orgName>
+								<address>
+									<addrLine>Im Neuenheimer Feld 280</addrLine>
+									<postCode>69120</postCode>
+									<settlement>Heidelberg</settlement>
+									<country key="DE">Germany</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff6">
+								<orgName type="department">Heidelberg Institute of Radiation Oncology HIRO</orgName>
+								<address>
+									<addrLine>Im Neuenheimer Feld 280</addrLine>
+									<postCode>69120</postCode>
+									<settlement>Heidelberg</settlement>
+									<country key="DE">Germany</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Johannes</forename><surname>Krisam</surname></persName>
+							<affiliation key="aff7">
+								<orgName type="department">Institute of Medical Biometry and Informatics</orgName>
+								<orgName type="institution">University Hospital of Heidelberg</orgName>
+								<address>
+									<addrLine>Im Neuenheimer Feld 130.3</addrLine>
+									<postCode>69120</postCode>
+									<settlement>Heidelberg</settlement>
+									<country key="DE">Germany</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Felix</forename><surname>Lasitschka</surname></persName>
+							<affiliation key="aff3">
+								<orgName type="department">Translational Lung Research Center Heidelberg TLRCH, Member of the German Center for Lung Research DZL</orgName>
+								<address>
+									<addrLine>Im Neuenheimer Feld 156</addrLine>
+									<postCode>69120</postCode>
+									<settlement>Heidelberg</settlement>
+									<country key="DE">Germany</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff8">
+								<orgName type="department">Institute of Pathology</orgName>
+								<orgName type="institution">University Hospital of Heidelberg</orgName>
+								<address>
+									<addrLine>Im Neuenheimer Feld 430, Germany. 8 AIO-Studien gGmbH</addrLine>
+									<postCode>69120</postCode>
+									<settlement>Heidelberg, Berlin</settlement>
+									<country key="DE">Germany</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Jonas</forename><surname>Kuon</surname></persName>
+							<affiliation key="aff2">
+								<orgName type="department">Department of Thoracic Oncology, Thoraxklinik at University Hospital of Heidelberg</orgName>
+								<address>
+									<addrLine>Röntgenstraße 1</addrLine>
+									<postCode>69126</postCode>
+									<settlement>Heidelberg</settlement>
+									<country key="DE">Germany</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Martin</forename><surname>Maenz</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Peter</forename><forename type="middle">E</forename><surname>Huber</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="institution">Heidelberg Institute of Radiation Oncology HIRO</orgName>
+								<address>
+									<addrLine>Im Neuenheimer Feld 280</addrLine>
+									<postCode>69120</postCode>
+									<settlement>Heidelberg</settlement>
+									<country key="DE">Germany</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff5">
+								<orgName type="department">German Cancer Research Center, Abteilung für Molekulare Radioonkologie</orgName>
+								<address>
+									<addrLine>Im Neuenheimer Feld 280</addrLine>
+									<postCode>69120</postCode>
+									<settlement>Heidelberg</settlement>
+									<country key="DE">Germany</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff6">
+								<orgName type="department">Heidelberg Institute of Radiation Oncology HIRO</orgName>
+								<address>
+									<addrLine>Im Neuenheimer Feld 280</addrLine>
+									<postCode>69120</postCode>
+									<settlement>Heidelberg</settlement>
+									<country key="DE">Germany</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Laila</forename><surname>König</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Radiation Oncology</orgName>
+								<orgName type="institution">University Hospital of Heidelberg</orgName>
+								<address>
+									<addrLine>Im Neuenheimer Feld 400</addrLine>
+									<postCode>69120</postCode>
+									<settlement>Heidelberg</settlement>
+									<country key="DE">Germany</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="institution">Heidelberg Institute of Radiation Oncology HIRO</orgName>
+								<address>
+									<addrLine>Im Neuenheimer Feld 280</addrLine>
+									<postCode>69120</postCode>
+									<settlement>Heidelberg</settlement>
+									<country key="DE">Germany</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff4">
+								<orgName type="department">Department of Radiation Oncology</orgName>
+								<orgName type="institution">University Hospital of Heidelberg</orgName>
+								<address>
+									<addrLine>Im Neuenheimer Feld 400</addrLine>
+									<postCode>69120</postCode>
+									<settlement>Heidelberg</settlement>
+									<country key="DE">Germany</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff6">
+								<orgName type="department">Heidelberg Institute of Radiation Oncology HIRO</orgName>
+								<address>
+									<addrLine>Im Neuenheimer Feld 280</addrLine>
+									<postCode>69120</postCode>
+									<settlement>Heidelberg</settlement>
+									<country key="DE">Germany</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Meinhard</forename><surname>Kieser</surname></persName>
+							<affiliation key="aff7">
+								<orgName type="department">Institute of Medical Biometry and Informatics</orgName>
+								<orgName type="institution">University Hospital of Heidelberg</orgName>
+								<address>
+									<addrLine>Im Neuenheimer Feld 130.3</addrLine>
+									<postCode>69120</postCode>
+									<settlement>Heidelberg</settlement>
+									<country key="DE">Germany</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Juergen</forename><surname>Debus</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Radiation Oncology</orgName>
+								<orgName type="institution">University Hospital of Heidelberg</orgName>
+								<address>
+									<addrLine>Im Neuenheimer Feld 400</addrLine>
+									<postCode>69120</postCode>
+									<settlement>Heidelberg</settlement>
+									<country key="DE">Germany</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="institution">Heidelberg Institute of Radiation Oncology HIRO</orgName>
+								<address>
+									<addrLine>Im Neuenheimer Feld 280</addrLine>
+									<postCode>69120</postCode>
+									<settlement>Heidelberg</settlement>
+									<country key="DE">Germany</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff4">
+								<orgName type="department">Department of Radiation Oncology</orgName>
+								<orgName type="institution">University Hospital of Heidelberg</orgName>
+								<address>
+									<addrLine>Im Neuenheimer Feld 400</addrLine>
+									<postCode>69120</postCode>
+									<settlement>Heidelberg</settlement>
+									<country key="DE">Germany</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff5">
+								<orgName type="department">German Cancer Research Center, Abteilung für Molekulare Radioonkologie</orgName>
+								<address>
+									<addrLine>Im Neuenheimer Feld 280</addrLine>
+									<postCode>69120</postCode>
+									<settlement>Heidelberg</settlement>
+									<country key="DE">Germany</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff6">
+								<orgName type="department">Heidelberg Institute of Radiation Oncology HIRO</orgName>
+								<address>
+									<addrLine>Im Neuenheimer Feld 280</addrLine>
+									<postCode>69120</postCode>
+									<settlement>Heidelberg</settlement>
+									<country key="DE">Germany</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Michael</forename><surname>Thomas</surname></persName>
+							<affiliation key="aff2">
+								<orgName type="department">Department of Thoracic Oncology, Thoraxklinik at University Hospital of Heidelberg</orgName>
+								<address>
+									<addrLine>Röntgenstraße 1</addrLine>
+									<postCode>69126</postCode>
+									<settlement>Heidelberg</settlement>
+									<country key="DE">Germany</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff3">
+								<orgName type="department">Translational Lung Research Center Heidelberg TLRCH, Member of the German Center for Lung Research DZL</orgName>
+								<address>
+									<addrLine>Im Neuenheimer Feld 156</addrLine>
+									<postCode>69120</postCode>
+									<settlement>Heidelberg</settlement>
+									<country key="DE">Germany</country>
+								</address>
+							</affiliation>
+						</author>
+						<author role="corresp">
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Stefan</forename><surname>Rieken</surname></persName>
+							<email>stefan.rieken@med.uni-heidelberg.de</email>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Radiation Oncology</orgName>
+								<orgName type="institution">University Hospital of Heidelberg</orgName>
+								<address>
+									<addrLine>Im Neuenheimer Feld 400</addrLine>
+									<postCode>69120</postCode>
+									<settlement>Heidelberg</settlement>
+									<country key="DE">Germany</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="institution">Heidelberg Institute of Radiation Oncology HIRO</orgName>
+								<address>
+									<addrLine>Im Neuenheimer Feld 280</addrLine>
+									<postCode>69120</postCode>
+									<settlement>Heidelberg</settlement>
+									<country key="DE">Germany</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff4">
+								<orgName type="department">Department of Radiation Oncology</orgName>
+								<orgName type="institution">University Hospital of Heidelberg</orgName>
+								<address>
+									<addrLine>Im Neuenheimer Feld 400</addrLine>
+									<postCode>69120</postCode>
+									<settlement>Heidelberg</settlement>
+									<country key="DE">Germany</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff6">
+								<orgName type="department">Heidelberg Institute of Radiation Oncology HIRO</orgName>
+								<address>
+									<addrLine>Im Neuenheimer Feld 280</addrLine>
+									<postCode>69120</postCode>
+									<settlement>Heidelberg</settlement>
+									<country key="DE">Germany</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Fostering efficacy of anti-PD-1-treatment: Nivolumab plus radiotherapy in advanced non-small cell lung cancer -study protocol of the FORCE trial</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<idno type="DOI">10.1186/s12885-019-6205-0</idno>
+					<note type="submission">Received: 30 October 2018 Accepted: 25 September 2019</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.6.1" ident="GROBID" when="2020-10-09T18:38+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>Non-small cell lung cancer</term>
+					<term>Immunotherapy</term>
+					<term>Radioimmunotherapy</term>
+					<term>Abscopal effect</term>
+					<term>PD-1</term>
+					<term>Nivolumab</term>
+					<term>Palliative radiotherapy</term>
+				</keywords>
+			</textClass>
+			<abstract>
+				<p>Background: Hypofractionated palliative radiotherapy for metastatic lung cancer patients is frequently used in order to ease pain, to increase bone stability, to treat local mass effects, or to prolong progression-free survival at critical sites. Recently introduced, immunotherapy for patients with non-squamous non-small cell lung carcinoma (NSCLC) has significantly improved outcome in this cohort. Preclinical and early clinical data suggest that the combination of photon radiation with programmed death-1 (PD-1) targeting immunotherapies may promote a strong and durable immune response against tumor manifestations both within and beyond radiation targets. Methods/design: In the present prospective, two-group, non-randomized, open-label phase II trial, 130 patients with stage IV non-squamous NSCLC in 2nd-line or 3rd-line treatment will be included. 65 patients with a clinical indication for palliative radiotherapy to non-cerebral/non-pulmonary metastatic sites will receive 240 mg nivolumab followed by palliative radiotherapy with 5 × 4 Gray (Gy) = 20 Gy photon radiation, which will be initiated within 72 h after first nivolumab administration (Group A). 65 patients without an indication for radiotherapy will only receive nivolumab (Group B). Nivolumab will be further administered every two weeks in both groups and will be continued until progression and loss of clinical benefit or until occurrence of limiting toxicities. The primary endpoint will be the objective response rate (ORR) according to response evaluation criteria in solid tumors (RECIST) 1.1. Secondary endpoints will be progression-free survival (PFS) according to RECIST 1.1, overall survival, descriptive subgroup analyses according to PD-L1 expression, toxicity and quality of life. Since response patterns following immunotherapies differ from those after conventional cytostatic agents, both objective response rate and progression-free survival will additionally be assessed according to immunerelated RECIST (irRECIST) criteria.</p>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Background</head><p>Despite continuously evolving treatment innovations, NSCLC remains to be one of the most lethal cancer diagnoses. In metastatic patients, radiotherapy is frequently administered for several reasons, for instance to ease tumor pain, to increase bone stability or to mitigate localized disease symptoms and conditions from mass effects to tumor infiltrations such as bleeding, ulceration or organ compressions <ref type="bibr" target="#b0">[1]</ref>. Recently, immunotherapies have been introduced as new treatment modalities aiming for the disinhibition of the natural antitumoral immune response. Significant benefits translating into tremendously improved progression-free survival and overall survival rates have been described for patients with stage IV renal cell carcinoma and melanoma and lately also for patients with squamous or non-squamous NSCLC <ref type="bibr" target="#b1">[2]</ref><ref type="bibr" target="#b2">[3]</ref><ref type="bibr" target="#b3">[4]</ref><ref type="bibr" target="#b4">[5]</ref>. Among the many potential molecular structures that may be targeted pharmacologically, treatments directed against the PD-1/ PD-L1 immune checkpoint have improved survival at the cost of only modest toxicity for NSCLC patients in both 1st-and 2nd-line treatment situations. However, response rates range around only 20% in previously treated patients, and also frontline administration of PD-1 inhibitors results in no tumor response in approximately half of the treated patients <ref type="bibr" target="#b3">[4,</ref><ref type="bibr" target="#b5">6,</ref><ref type="bibr" target="#b6">7]</ref>. In order to identify patients more likely to respond to PD-1 blockade the expression of PD-L1 on tumor cells has been introduced as a biomarker. The utility of PD-L1 as a predictive biomarker, however, is still under debate, and alternatives such as tumor mutation burden (TMB) are now taken into account <ref type="bibr" target="#b6">[7]</ref><ref type="bibr" target="#b7">[8]</ref><ref type="bibr" target="#b8">[9]</ref>.</p><p>Radiotherapy has been the predominant local treatment for tumor metastases for more than five decades and occasionally an interplay between photon radiation and tumordirected immune responses has been described <ref type="bibr" target="#b9">[10]</ref><ref type="bibr" target="#b10">[11]</ref><ref type="bibr" target="#b11">[12]</ref><ref type="bibr" target="#b12">[13]</ref>. Specifically, photon radiation to one metastatic site has been observed to elicit a response to non-irradiated tumor sitescommonly referred to as the abscopal effect, which was first described in 1953 <ref type="bibr" target="#b13">[14]</ref>. Radiation is known to induce immunogenic cell death, which is a unique expression pattern of cell damage-derived proteins from both tumor and stromal cells that may activate the immune system and promote the recognition of tumor-associated/−specific proteins elsewhere in the body <ref type="bibr" target="#b9">[10,</ref><ref type="bibr" target="#b14">15,</ref><ref type="bibr" target="#b15">16]</ref>.</p><p>However, when radiation is applied as a sole treatment modality, this phenomenon is soon suppressed by regulatory signalling pathways that inhibit auto−/ tumor-immune responses within and outside the tumor microenvironment <ref type="bibr" target="#b12">[13,</ref><ref type="bibr" target="#b16">17,</ref><ref type="bibr" target="#b17">18]</ref>. Thus, the clinical observation of any abscopal effect with radiation alone has always been a rare finding. With the advent of agents that target PD-1/PD-L1 and therefore disinhibit tumor-directed immune responses, the potential of inducing an abscopal effect through combined radio-immunotherapies has gained renewed attention. Interestingly, a secondary analysis of a clinical landmark trial has identified 98 patients, who had received photon radiotherapy prior to immunotherapy <ref type="bibr" target="#b18">[19]</ref>. These patients showed significantly improved PFS and OSirrespective of the expression of PD-L1. This finding hasonce again nourished the hope that the combination of pharmacological disinhibition of the immune system through medical immunotherapies and tumor-antigen-exposing photon radiation may be a beneficial combination. However, to date results from prospective clinical trials investigating this hypothesis in lung cancer patients are not available.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Methods/design</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Study design</head><p>This is an interventional two-group, non-randomized, open-label phase II trial ( <ref type="figure" target="#fig_0">Fig. 1</ref>) <ref type="bibr" target="#b19">[20]</ref>.</p><p>Patients with necessity of radiotherapy of a metastatic site (e.g. bone) will be assigned to study group A. Patients without the necessity of radiotherapy will be assigned to study group B.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Study setting</head><p>The FORCE trial is a multicenter trial recruiting patients from 16 sites across Germany. A full list of sites can be obtained at clinicaltrials.gov (NCT03044626). Recruitment started in March 2017 (First Patient In) and will be completed in December 2019. As of August 2019, 104 patients have been screened, of whom 94 have been included in the trial. Overall, data from 100 participants (50 patients per treatment arm) are expected to be available for statistical analysis.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Study objectives Primary objective</head><p>The primary objective is to investigate clinical efficacy of a nivolumab-radiotherapy combination treatment.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Secondary objectives</head><p>Secondary objectives are to collect information on feasibility, safety and tolerability of nivolumab by measurement of incidence and severity of adverse events (AEs) and specific laboratory abnormalities in all treated subjects by treatment strata and groups. Additionally, further efficacy data will be collected in patients without necessity of radiotherapy as well as information on individual, patient reported and investigator-assessed quality of life.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Exploratory objectives</head><p>Exploratory objectives aim to investigate potential predictors of response to nivolumab in conjunction with radiotherapy. To this end, tissue collection and blood sampling will be performed before and whilst course of disease/treatment. Exploratory analysis on blood samples and tissue will be performed to search for markers of immune response under radio-immunotherapy.</p><p>The following exploratory objectives will be investigated:</p><p>Biomarker assessment of tumor tissue by immunohistochemistry (IHC) beyond PD-L1 Phenotypical analysis of lymphocytes Functional analysis of T-cells Analysis of T-cell receptor specificities Soluble pro-and anti-inflammatory markers Analysis of biomarker data will include correlation with clinical phenotype and tumor PD-L1 expression.</p><p>Furthermore, to address the role of radiotherapy in the context of immune modulation, several aspects of radiation planning and treatment will be explored. This includes both the location and composition of radiation targets and the anatomical profile of abscopally responding lesions. Therefore, treatment-related aspects characterizing the irradiated targets and abscopally responding target lesions will be documented by the treating radiation oncologist and radiologist. Documentation of these aspects will help to substantiate the phenomenon of radiation-induced abscopal effects and to improve the option of radiation triggered systemic response through identification and possible prediction of both eligible targets for irradiation and probable lesion of abscopal response.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Characteristics of participants</head><p>One hundred thirty patients with metastatic non-small cell lung cancer (non-squamous histology) in 2nd-line and 3rd-line treatment will be included. Patients who might be eligible for this clinical trial will be approached and asked to participate as they come into the clinic.</p><p>Key inclusion criteria contain age ≥ 18 years, nonsquamous NSCLC with available (recent or archival) paraffin-embedded tissue blocks for PD-L1-expression evaluation, failure after platinum-based 1st-line or 2nd-line treatment, and adequate clinical performance (ECOG 0-1). Patients in group A must present with a clinical indication for palliative radiotherapy to noncerebral/non-pulmonary metastatic sites with the additional presence of at least one non-irradiated measurable site of disease. Patients in group B must not present with any indication for radiotherapy. Key exclusion criteria contain ongoing systemic steroid treatment (&gt; 10 mg/day of prednisone equivalents), prior immunotherapy, an active or recent history of a known or suspected autoimmune disease, or any medical conditions conflicting with the study interventions. Patients with brain metastases requiring local or corticosteroidal treatment cannot be included. For a full list of the inclusion an exclusion criteria see <ref type="table" target="#tab_0">Table 1</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Study procedures</head><p>This study will enroll patients with metastatic non-squamous NSCLC suitable for 2nd-line and 3rd-line treatment. Study subject may have a necessity for radiotherapy of a metastatic site (study group A) or not (group B).</p><p>This is an open-label, two-group study. During screening and after written informed consent, patients will be stratified to either the radiotherapy/nivolumab treatment (group A) or nivolumab only treatment (group B), depending on necessity of radiation of a metastatic site.</p><p>An overview of all study procedures is presented in <ref type="table" target="#tab_1">Table 2</ref>. For each patient enrolled, an electronic case report form (eCRF) must be completed by the principal investigator or authorized delegate from the study staff. For patients in group A, non-measurable and measurable lesions may be chosen for irradiation. However, in order to allow for evaluation of abscopal effects, patients in group A must have at least one measurable lesion beside the lesion planned to be irradiated. Lesions planned to be irradiated may not be defined as a measurable target lesion. Radiographic tumor assessment must be performed within 28 days before initiation of study treatment. • Target Lesions may be located in a previously irradiated field if there is documented (radiographic) disease progression in that site.</p><p>• Patients with metastatic non-squamous NSCLC in 2nd-line and 3rd-line treatment and a) no necessity of radiotherapy or b) the necessity of radiotherapy of a metastatic bone lesion or soft tissue lesion.</p><p>• Patients with intrathoracic metastases or intrathoracic progressive disease will be included if radiotherapy of the lung parenchyma is NOT required.</p><p>• Subjects with symptomatic brain metastases are eligible if metastases have been treated and treatment has been completed at least 12 weeks before inclusion in this study for group B and 2 weeks for group A. Moreover, there must be no MRI evidence of progression within 28 days prior to the first dose of nivolumab administration. There must also be no requirement for immunosuppressive doses of systemic corticosteroids (&gt; 10 mg/day prednisone equivalents) for at least 2 weeks prior to study drug administration. Patients with stable/asymptomatic brain metastases that do not require local therapy with irradiation (whole brain irradiation or stereotactic brain irradiation) can be included. In ambiguous cases, consultation with the LKP or his/her delegate is advised. • An FFPE tumor tissue block (archival or recent) or a minimum of 15 unstained slides of tumor sample must be available for biomarker (PD-L1) evaluation.</p><p>• Prior therapies and surgeries are allowed if completed 2 weeks for minor surgery (group A and B) or 12 weeks for any previous radiotherapy for group B, respectively prior to start of treatment and patient recovered from toxic effects. For group A, any prior radiotherapy not involving the lungs must be completed 2 weeks prior to start of treatment. A prior radiotherapy involving the lungs must be completed 12 weeks prior to start of treatment. • Subjects must have recovered from the effects of major surgery or significant traumatic injury at least 14 days before the first dose of study treatment.</p><p>• Adequate blood count, liver-enzymes, and renal function (obtained no later than 14 days prior to start of treatment):</p><p>• Women of childbearing potential (WOCBP) must use appropriate method(s) of contraception and must have a negative serum pregnancy test within 24 h prior to the start of nivolumab. • Men who are sexually active with WOCBP must use any contraceptive method with a failure rate of less than 1% per year.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Exclusion criteria</head><p>• Previous malignancy (other than NSCLC), which either progresses or requires active treatment.</p><p>• Subjects with previous malignancies (except non-melanoma skin cancers, and the following in situ cancers: bladder, gastric, colon, cervical/dysplasia, endometrial, melanoma, or breast) are excluded unless a complete remission was achieved at least 2 years prior to study entry AND no additional therapy is required or anticipated to be required during the study period. • Brain metastases mandating active treatment in terms of irradiation (whole brain irradiation or stereotactic brain irradiation).</p><p>• Known activating EGFR mutation or a known ALK translocation.</p><p>• Prior therapy with anti-tumor vaccines or other immuno-stimulatory antitumor agents. This also applies to records for those patients who fail to complete the study. If a patient withdraws from the study, the reason must be noted in the eCRF. Subjects who are permanently discontinued from the study medication will be followed for safety unless consent is withdrawn or the subject is lost to follow-up or enrolled in another clinical study. All subjects will be followed for survival. Subjects who decline to return to the site for evaluations will be offered follow-up by phone every 3 months as an alternative.</p><p>Data management and data quality assurance are conducted following the Standard Operational Procedures of the Institut für Klinische Forschung (IKF) (Frankfurt, Germany).</p><p>Treatment emergent adverse events (AEs) according to common terminology criteria for adverse events (CTCAE) version 4.03 will be recorded in the eCRF using a recognized medical term or diagnosis that accurately reflects the event. Adverse events will be assessed by the investigator for severity, relationship to the investigational product, possible etiologies, and whether the event meets criteria of a serious adverse event (SAE) and therefore requires immediate notification to the CRO. AEs and SAEs will be recorded during the entire study duration, including the regular 30 day safety follow-up period after the end-of-treatment (EOT) visit. Subsequently, subjects will be followed for ongoing study treatment-related adverse events until resolved, return <ref type="table" target="#tab_0">Table 1</ref> Complete list of inclusion and exclusion criteria (Continued) immunodeficiency syndrome (AIDS).</p><p>• History of severe hypersensitivity reactions to other monoclonal antibodies or any excipient.</p><p>• Female subjects who are pregnant, breast-feeding or male or female patients of reproductive potential, who are not employing an effective method of birth control (failure rate of less than 1% per year)</p><p>• Receipt of the last dose of anti-cancer therapy (chemotherapy, immunotherapy, endocrine therapy, targeted therapy, biologic therapy, tumor embolization, monoclonal antibodies, other investigational agent) ≤ 14 days prior to the first dose of study treatment • Any other serious or uncontrolled medical disorder, active infection, physical examining, laboratory finding, altered mental status, or psychiatric condition that, in the opinion of the investigator, would limit a subject's ability to comply with the study requirements, substantially increase risk to the subject, or impact the interpretability of study results • History of solid organ or tissue transplantation including allogenic hematopoietic stem cell transplantation • Previous enrollment in the present study • Involvement in the planning and/or conduct of the study (applies to both BMS staff and/or staff of sponsor and study site)</p><p>• Patient, who might be dependent on the sponsor, site or the investigator • Patient, who has been incarcerated or involuntarily institutionalized by court order or by the authorities § 40 Abs. 1 S. 3 Nr. 4 AMG to baseline or deemed irreversible, until lost to followup, or withdrawal of study consent. Furthermore, only new and ongoing SAEs deemed related to study treatment will be collected and recorded for an additional 70 days. The investigator is responsible for ensuring that all adverse events observed by the investigator or reported by patient are properly captured in the patients' medical records. During the course of the study all AEs and SAEs should be proactively followed up for each subject. Every effort should be made to obtain a resolution for all events, even if the events continue after discontinuation/study completion.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Immunotherapy</head><p>Nivolumab will be given every two weeks at a dose of 240 mg to be administered as a 60 min IV infusion. Treatment regimen depends on study group: in study group A, nivolumab will be given on day 1 of the first cycle and continued to be given every two weeks. The first fraction of radiotherapy has to be delivered within 72 h after cycle 1 day 1.</p><p>In study group B, nivolumab will be given on day 1 of the first cycle and continued to be given every two weeks.</p><p>In both groups, nivolumab treatment will be continued until progression or until limiting toxicities occur.</p><p>Nivolumab administration will be delayed in case of any AE, laboratory abnormality or intercurrent illness which, in the judgment of the investigator, warrants delaying the dose of study medication.</p><p>Subjects may continue to receive treatment beyond confirmed progression in the absence of clinically significant deterioration and if investigators expect continual benefit from the treatment. For statistical analyses, these subjects will be considered to have investigator-assessed progressive disease at the time of the initial progression event.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Radiotherapy</head><p>Radiotherapy planning will be based on computed tomography (CT) images with minimal 5 mm slices. For robust and reproducible patient positioning during both planning and treatment, all positioning aids (e.g. masks, cushions, vacuum beds) are allowed.</p><p>For irradiation, tumor lesions in all non-cerebral/nonpulmonary locations can be included if radiotherapy is indicated and prescribed according to common good clinical practice (e.g. bone, soft tissue, lymph nodes). Internal organ metastases (such as in liver, pancreas, adrenal glands) or brain metastases should not be irradiated. Patients with thoracic lesions (e.g. thoracic spine, chest wall) or mediastinal lymph nodes will be included if the planning target volume (PTV) for irradiation does not directly intersect with the contoured lungs.</p><p>Gross tumor volumes (GTV) are contoured on the planning CT, considering additional co-registered imaging techniques such as magnetic resonance imaging (MRI) or positron emission tomography (PET), if available. Derived from the GTV, clinical (CTV) and planning target volumes (PTV) are created using common institutional margins to confidently cover radiation targets and simultaneously spare organs at risk (OAR). Contouring of relevant OAR is only necessary in cases of close vicinity or anticipated critical radiation exposure. In case of thoracic target volumes, both lungs will be contoured to monitor lung dose exposure, which is required to be as low as reasonably achievable. In cases of subtotal lung registration, the OAR "both partial lungs" will be generated.</p><p>Radiation delivery must be planned 3D-conformally and CT-based with either photons or electrons including step-and-shoot/helical/volumetric intensity-modulated, stereotactic or conventional techniques using linear accelerators. Radiotherapy is delivered on workdays in 5 single fractions of 4 Gy up to a total dose of 20 Gy. Therefore, radiotherapy is expected to last no longer than 2 weeks. Dose specification follows the requirements of the reports 50, 62, and 83 of the International Commission of Radiation Units and Measurements.</p><p>Adequate patient positioning and correct isocenter localisation are verified radiologically making use of either kV/MV-cone/fan-beam-CTs or conventional Xray-documentation of either isocenter or radiation fields. If positioning corrections are necessary, they must be documented in the radiotherapy protocol.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Tissue and blood collection for exploratory endpoints</head><p>Tissue collection For each patient a formalin-fixed, paraffin-embedded (FFPE) tumor tissue block (archival or recent) or a minimum of 15 unstained slides of tumor sample (2-3 μm sections; slices must be recent and collected on slides provided by the sponsor) must be available for biomarker (PD-L1) evaluation as stated in the inclusion criteria. Biopsy should be excisional, incisional or core-needle. Fine-needle aspiration is insufficient. Tumor PD-L1 assessment for retrospective sub-group analysis will be performed centrally according to institutional standards using the PD-L1 IHC 28-8 pharmDx assay.</p><p>It will be at the discretion of the investigator to determine whether a re-biopsy of a patient is required. The decision to re-biopsy shall be based on clinical judgment and necessity and should follow local guidelines and standards. If a recent biopsy has been collected and submitted, submission of archival tissue, if available, is still highly encouraged. In cases where retrospective haematoxylin and eosin staining by the central lab determines insufficient amounts of tumor tissue for the biomarker analyses, additional archived tissue may be requested by the sponsor, if available. If a re-biopsy after progression under study treatment is performed, submission of this tumor material is highly valued.</p><p>Blood collection Participation of patients in the biomarker program is voluntary and must be documented in the informed consent form.</p><p>Routine haematological analysis of red and white blood cells and platelets are part of the scheduled patient assessments under therapy and are not a specific part of the exploratory biomarker program. However, their results are mandatory baseline information as absolute cell counts for further investigations.</p><p>Blood samples are planned to be taken in the context of study inclusion and before any therapeutic intervention, and serve as baseline controls. Furthermore, second blood samples are collected in group A on cycle 1, day 8 (visit 2) after completion of radiotherapy to assess early radiogenic immune response in combination with nivolumab. The second blood sample in group B is also collected on cycle 1, day 8 (visit 2) to assess early nivolumab-related immune response without radiotherapy. A third blood sample will be taken for both groups on cycle 3, day 1 (visit 4), when radiotherapy is completed in group A and when all patients (groups A and B) have received two doses of nivolumab. A fourth and final blood sample will be collected for both groups either on cycle 7, day 1 or upon end of treatment, whichever occurs first.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Study endpoints Primary endpoint</head><p>The primary endpoint will be the objective response rate (ORR) according to RECIST criteria 1.1.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Secondary endpoints</head><p>Secondary endpoints will be:</p><p>-PFS -PFS and ORR using assessment according to irRECIST -OS -1-year OS rate -Descriptive sub-group analyses of efficacy in relation to PD-L1 expression levels (e.g. cut-off 1, 5, 10%) -Treatment emergent adverse events according to common terminology criteria for adverse events (CTCAE) version 4.03 -Frequency of abnormal laboratory parameters -Quality of Life [FACT-L, validated in <ref type="bibr" target="#b20">[21]</ref> Exploratory endpoints Radiation-induced tumor-specific immune effects can explain events of tumor regression upon radiation treatment both within and beyond the irradiated fields and the immune system can be further stimulated by administration of a PD-1 blocking antibody such as nivolumab. The translational research accompanying this trial aims to elucidate the synergistic, immunostimulatory effects of radiotherapy and checkpoint inhibition that underlie these observations by covering the following aspects.</p><p>Exploratory analysis on radiation planning and dose administration Exploratory analysis on radiation planning and dose administration will help to substantiate the phenomenon of radiation-induced abscopal effects. It will improve the option of radiation triggered systemic response through identification and possible prediction of both eligible targets for irradiation and probable lesion of abscopal response. To this end, both the location and composition of radiation targets and the anatomical profile of abscopally responding lesion must be carefully studied.</p><p>The following endpoints will address these questions: Radiation oncology endpoints:</p><p>- Exploratory analysis on tissue samples Tumor PD-L1 assessments will be performed as part of the clinical study. The results will be used both retrospectively for patient sub-grouping and within the biomarker program for correlation analysis. The PD-L1 IHC 28-8 pharmDx assay will be used. In addition, the immune infiltrate associated with the tumor will be analyzed to identity different subsets of immune cells. To this end, tissue slides will be subjected to a panel of IHC markers capable of identifying various types of immune cells. Depending on the availability of tumor material, tissue samples will also be analyzed with respect to microsatellite instability.</p><p>Exploratory analysis on blood samples Blood samples that are collected at different time points will be used to characterize the immune response and investigate biological processes before, during and after the administration of the treatment. Briefly, phenotypic fluorescence activated cell sorter (FACS) analysis will be used to analyze whole blood samples with respect to the changes in the T-cell composition. Furthermore, specific T-cell responses to a panel of putative lung cancer-associated antigens will be measured by IFN-γ enzyme linked immunospot technique using frozen peripheral blood mononuclear cells. T-cell receptor sequencing will be performed for 2 visits per patient (baseline and end of study time point), in order to elucidate whether and, if so, which of the T-cell clones will be expanded during treatment. Abundances of immunostimulatory cytokines will be quantified by measuring serum cytokines. Finally, changes in lymphocyte gene signature arising from the synergistic treatment of patients with radiotherapy and nivolumab will be monitored by mRNA expression profiling using mRNA isolated from whole blood and using the human HT-12 v4 Expression Bead-Chip Kit.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Statistical analysis Sample size calculation</head><p>The primary endpoint will be the ORR according to RECIST criteria 1.1. Based on the results from the Checkmate 057 trial (ClinicalTrials.gov Identifier: NCT01673867; <ref type="bibr" target="#b4">[5]</ref>), the ORR in group B is assumed to be 19%. Moreover, in the population with high PD-L1 expression (PD-L1 &gt; 10%) an ORR of 37% was observed <ref type="bibr" target="#b4">[5]</ref>. It is hypothesized that by combining nivolumab and radiotherapy an ORR of 35% can be achieved in both PD-L1-negative and -positive patients.</p><p>The study requires n = 50 subjects (in group A) to detect whether the responding proportion (ORR) is higher than 19% by applying a binomial test at a one-sided significance level of 0.05 with a probability of 1-beta = 0.8, assuming an actual response rate of 35%.</p><p>Due to the fact that a retrospective PD-L1 analysis will be crucial to reach the study objectives, the PD-L1 status should be available for at least 50 patients per treatment group. Practical experiences indicate that at a rate of 20-30% tumor tissue samples do not contain sufficient material for a PD-L1 IHC assessment. By taking this and also potential patient dropouts into account, the total number of patients enrolled will be n = 65 per group to ascertain the required sample number for the PD-L1 sub-group analysis and to achieve a sufficient statistical power for the primary analysis in case of patient dropouts.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Methods of statistical analysis</head><p>Statistical analysis is based on the International Conference on Harmonization Guidelines "Structure and Content of Clinical Study Reports" and "Statistical Principles for Clinical Trials". The primary analysis set for all efficacy outcomes will be the intention-to-treat (ITT) population, while the per-protocol (PP) population will be used for sensitivity analyses.</p><p>The primary endpoint ORR will be evaluated by reporting absolute and relative frequencies for both treatment groups. For group A, a binomial test will be conducted at a one-sided significance level of α = 0.05 in order to assess if the ORR exceeds 19%. Furthermore, one-sided 95%-confidence intervals will be calculated for the ORR in both groups.</p><p>For the secondary time-to-event outcomes OS and PFS, median survival times and 1-year rates will be given with 95% confidence intervals and Kaplan-Meier curves will be calculated for both treatment groups.</p><p>Descriptive sub-group analyses with regard to PD-L1 status will be conducted assessing the primary and secondary outcomes separately for the patient strata PD-L1 high/low (e.g. cutoffs 1, 5, and 10%) by reporting the same statistical measures as described before for both treatment groups. Safety analysis will be done for all patients who received at least one dose of study medication and according to the treatment actually received. It includes a tabulation of relative and absolute frequencies for adverse and serious adverse events. After 25 patients have been treated in group A, a descriptive safety report will be generated and evaluated by the Data Safety Monitoring Board.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Trial status</head><p>The first patient was enrolled in March 2017. The FORCE trial is currently recruiting patients.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Discussion</head><p>Lung cancer is the most common cause of cancer death worldwide with approximately 85% of patients suffering from NSCLC. Until recent years, treatment of NSCLC has been limited to chemotherapy with a sparse impact on median progression-free survival times ranging from 3 to 4 months. The therapeutic concept of restoring the patients' antitumor immunity by inhibition of immune checkpoints such as PD-1/PD-L1 has been a groundbreaking advancement. Currently, PD-1/PD-L1-targeting checkpoint inhibition has even advanced up to 1st-line treatment, either as a monotherapy or in combination with chemotherapy. Despite this important progress a crucial remaining question is how T-cell-mediated antitumor immune responses upon checkpoint inhibition can be activated in non-responders, which account for approximately half of the patients <ref type="bibr" target="#b2">[3,</ref><ref type="bibr" target="#b3">4,</ref><ref type="bibr" target="#b5">6,</ref><ref type="bibr" target="#b21">22]</ref>.</p><p>Palliative radiotherapy is a frequent therapeutic necessity in metastatic lung cancer. Preclinical studies, single patient reports, and retrospective analysis have shown that the combination of immunotherapy and radiotherapy can exert independent antineoplastic effects and simultaneously promote and perpetuate the radiation-associated abscopal effect <ref type="bibr" target="#b18">[19,</ref><ref type="bibr" target="#b22">[23]</ref><ref type="bibr" target="#b23">[24]</ref><ref type="bibr" target="#b24">[25]</ref>. However, prospective studies investigating these observations are scarce. In a large phase III trial with patients with metastatic prostate cancer, no benefit of cytotoxic T-lymphocyte-associated antigen-4 (CTLA-4) blockade after radiotherapy was observed <ref type="bibr" target="#b25">[26]</ref>. Consistent with these results, all reported preclinical and clinical cases of the combination have occurred with radiation therapy given either concomitantly or following CTLA-4 blockade <ref type="bibr" target="#b26">[27]</ref>. Thus, it is a rational approach to prospectively investigate the potential benefit of PD-1/PD-L1 blockade concurrent with radiotherapy. This trial aims to recruit patients into group A with a clinical necessity for a radio-oncologic treatment. The appropriate palliation of metastatic disease is a governing treatment goal in these patients and must be performed with diligence. Therefore, no dose finding for the radiation dose will be performed since the risk of sub-or supratherapeutic dose regimens cannot be justified ethically or clinically. The FORCE trial will employ a radiotherapy regimen, which on its own is demonstrably efficacious and safe <ref type="bibr" target="#b27">[28]</ref>.</p><p>The fractionation regimen of 5 × 4 Gy (total dose 20 Gy) aligns with current standard-of-care practices. Compared to more hypofractionated regimens (i.e. less fractions at higher single doses), the FORCE regimen reduces the risk for re-irradiations to become necessary for symptom control (FORCE 10% vs other regimens 23%) <ref type="bibr" target="#b28">[29]</ref>. Furthermore, higher single doses (i.e. 1 × 8 Gy) are associated with an increased incidence of pathologic bone fractures (3.2% vs. 2.8%) or spinal compression events (2.8% vs. 1.9%) <ref type="bibr" target="#b27">[28]</ref>.</p><p>The hypofractionated dose regimen chosen for radiotherapy in this trial is known to augment antigen presentation to cells of the anti-tumoral immune system and augment adaptive upregulation of PD-L1 by tumor cells <ref type="bibr" target="#b29">[30,</ref><ref type="bibr" target="#b30">31]</ref>. Compared to less hypofractionated regimens (e.g. 10 × 3 Gy) the FORCE regimen significantly reduces the treatment duration, hence allows to reach the treatment goal of local control of metastasis faster without compromising general patient safety.</p><p>Due to the scarcity of data from prospective clinical trials addressing radio-immunological treatments in NSCLC patients, it is difficult to predict the treatmentrelated toxicity. Especially for PD-1/PD-L1 targeting approaches, there are no clinical studies in lung cancer patients that provide reliable safety and toxicity data. Apart from mere toxicity, missing the optimal radiotherapy fractionation regime to be combined with pharmacological immunotherapy appears to be an issue of concern. A recent report about patients with metastatic solid tumors showed abscopal responses in as many as 22% of NSCLC patients when hypofractionated radiotherapy (single dose: 3.5 Gy) was combined with granulocyte-macrophage colony-stimulating factor based immunotherapy <ref type="bibr" target="#b23">[24]</ref>. In this study, grade 3-4 toxicity occurred in about 20% of all patients. Additionally, one patient suffered from grade 4 pulmonary embolism. Van den Heuvel et al investigated the effect of irradiation of NSCLC metastasis in conjunction with an immunestimulating fusion peptide (NHS-Interleukin-2) <ref type="bibr" target="#b31">[32]</ref>. The radiation dose regimen was identical to the FORCE trial (5 × 4 Gy), and no toxicity was observed that could not be explained by the safety profile of Interleukin-2 (e.g. grade I-II thyroiditis in 25% of study subjects). Most clinical data about toxicity from combined modality regimes are derived from retrospective CTLA-4-targeting melanoma series and comprise autoimmune phenomena (e.g. hypophysitis) andin case of cerebral radiotherapy brain necroses <ref type="bibr" target="#b32">[33]</ref><ref type="bibr" target="#b33">[34]</ref><ref type="bibr" target="#b34">[35]</ref>. In a retrospective study on patients with brain metastasis treated with radio-surgical ablative doses (1 x &gt; 16 Gy) and concomitant PD-L1 immune-checkpoint blockade (nivolumab) no toxicities ≥ grade II were observed, although the brain is a radiosensitive organ <ref type="bibr" target="#b35">[36]</ref>. Nevertheless, in the context of the FORCE trial irradiation of vulnerable organs such as brain and lung will not be permitted for safety reasons.</p><p>The significance of PD-L1 expression of the tumor is a contentious issue. Data from clinical trials indicate that efficacy may correlate with the PD-L1 expression in the primary tumor, whereas other studies report no correlation <ref type="bibr" target="#b8">[9]</ref>. To date, marketing approval of nivolumab for squamous and non-squamous NSCLC does not mandate PD-L1 expression testing, whereas pembrolizumab monotherapy requires testing, and a companion diagnostic has been approved by the FDA. Therefore, further investigation of the role and impact of PD-L1 expressionincorporating the current knowledgeis warranted.</p><p>Closely connected to the PD-L1 expression are the underlying immune-biological mechanisms of PD-L1 targeting and the potential immune-stimulating effect of radiotherapy. To this end, a systematic exploration to better understand the immune-mediated tumor-host interactionand thereby the potential impact of PD-1/ PD-L1 antibody-treatmentin a true clinical setting is pivotal. The role of tumor-infiltrating lymphocytes and their functional contribution, the biological prerequisites for an immune-mediated tumor-host interaction, and the general notion of an "inflammatory preponderance" of the tissue surrounding the tumor are questions of immense interest to understand the effect of checkpoint inhibitor treatment <ref type="bibr" target="#b36">[37,</ref><ref type="bibr" target="#b37">38]</ref>. An extensive exploratory translational research program attached to this trial will focus on these potential mechanisms of action and the identification of potential biomarkers.</p><p>In summary, the rationale of the FORCE trial can be synthesized into three interconnected goals:</p><p>to determine the safety and feasibility of the radio-immunological treatment approach; to increase PD-1 checkpoint inhibitor efficacy in metastatic non-squamous NSCLC by inducing an immune-sensitizing effect (abscopal-like effect) with radiotherapy; to explore the fundamental immunological principles that underlie checkpoint inhibitor efficacy and the immune-stimulating effect of radiotherapy in order to elucidate tumor-host biology and to find potential novel biomarkers. </p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>Fig. 1</head><label>1</label><figDesc>FORCE patient allocation and efficacy analysis strategy</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head>•</head><label></label><figDesc>Patients with interstitial lung disease.• Any previous treatment with an anti-PD-1, anti-PD-L1, anti-PD-L2, anti-CTLA-4 antibody, or any other antibody or drug specifically targeting T cell co-stimulation or immune checkpoint pathways. • All toxicities attributed to prior anti-cancer therapy other than alopecia and fatigue must have resolved to grade 1 (CTCAE version 4) or baseline before administration of study drug.• Patients should be excluded if they have an active, known or suspected autoimmune disease. Subjects are permitted to enroll if they have vitiligo, type I diabetes mellitus, residual hypothyroidism due to autoimmune condition only requiring hormone replacement, psoriasis not requiring systemic treatment, or conditions not expected to recur in the absence of an external trigger. • Patients should be excluded if they have a condition requiring systemic treatment with either corticosteroids (&gt; 10 mg daily prednisone equivalents) or other immunosuppressive medications within 14 days of study drug administration. • Patients should be excluded if they are positively tested for hepatitis B virus surface antigen (HBV sAg) or hepatitis C virus ribonucleic acid (HCV antibody) indicating acute or chronic infection. • Patients should be excluded if they have known history of testing positive for human immunodeficiency virus (HIV) or known acquired</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_2"><head>Abbreviations</head><label></label><figDesc>AE: Adverse event; AIO: Arbeitsgemeinschaft Internistische Onkologie; CRF / eCRF: Case report form/electronic case report form; CT: Computed tomography; CTCAE: Common terminology criteria for adverse events; CTLA: T-lymphocyte-associated antigen; CTV: Clinical target volume; ECOG: Eastern Cooperative Oncology Group; EOT: End of treatment; FACS: Fluorescence activated cell sorter; FFPE: Formalin-fixed, paraffinembedded; GTV: Gross tumor volumes; Gy: Gray; HBV: Hepatitis B virus; HCV: Hepatitis C virus; IHC: Immunohistochemistry; irRECIST: Immune-related response evaluation criteria in solid tumors; ITT: Intention-to-treat; MRI: Magnetic resonance imaging; NSCLC: Non-small cell lung cancer; OAR: Organs at risk; ORR: Objective response rate; OS: Overall survival; PD-1: Programmed death-1; PD-L1: Programmed death-ligand 1; PET: Positron emission tomography; PFS: Progression free survival; PP: Per-protocol population; PTV: Planning target volume; QoL: Quality of life; RECIST: Response evaluation criteria in solid tumors; SAE: Severe adverse event</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>Table 1</head><label>1</label><figDesc>Complete list of inclusion and exclusion criteria</figDesc><table><row><cell>Inclusion criteria</cell></row><row><cell>• Written informed consent and any locally-required authorization (EU Data Privacy Directive in the EU) obtained from the subject prior to performing</cell></row><row><cell>any protocol-related procedures, including screening evaluations.</cell></row><row><cell>• Subject is willing and able to coxmply with the protocol for the duration of the study including undergoing treatment and scheduled visits and</cell></row><row><cell>examinations including follow up.</cell></row><row><cell>• Age ≥ 18 years at time of study entry.</cell></row><row><cell>• ECOG performance status 0-1.</cell></row><row><cell>• Patients with measurable disease (at least one uni-dimensionally measurable target lesion by CT-scan or MRI) according to RECIST 1.1 are eligible.</cell></row></table><note></note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_1"><head>Table 2</head><label>2</label><figDesc>Schedule of assessments</figDesc><table><row><cell cols="2">Procedure/Point in Time</cell><cell cols="3">Screening Treatment</cell><cell></cell><cell></cell><cell>Follow-up</cell></row><row><cell></cell><cell></cell><cell cols="2">Inclusion Cycle 1</cell><cell></cell><cell>Every further</cell><cell cols="2">End of treatment Safety follow-up Survival follow-up</cell></row><row><cell></cell><cell></cell><cell></cell><cell cols="2">Day 1 Day 8</cell><cell>cycle (q2w)</cell><cell></cell></row><row><cell cols="2">Informed consent, eligibility criteria, demographics,</cell><cell>x</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell cols="2">medical and disease history</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell cols="2">FFPE tumor tissue (PD-L1)</cell><cell>x</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell cols="2">Vital signs, physical examination, ECOG</cell><cell>x</cell><cell>x</cell><cell>x</cell><cell>x</cell><cell>x</cell><cell>x</cell></row><row><cell cols="3">Hematology, serum chemistry, liver function tests x</cell><cell>x</cell><cell>x</cell><cell>x</cell><cell>x</cell><cell>x</cell></row><row><cell>HBV, HCV</cell><cell></cell><cell>x</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Thyroid function test</cell><cell></cell><cell>x</cell><cell>x</cell><cell></cell><cell>x a</cell><cell>x</cell><cell>x</cell></row><row><cell>Pregnancy test</cell><cell></cell><cell>x</cell><cell></cell><cell></cell><cell>x a</cell><cell></cell></row><row><cell>AEs/SAEs</cell><cell></cell><cell>x</cell><cell cols="2">continuously</cell><cell></cell><cell></cell><cell>x</cell></row><row><cell cols="2">Concomitant medication</cell><cell>x</cell><cell cols="2">continuously</cell><cell></cell><cell></cell><cell>x</cell><cell>x</cell></row><row><cell>QoL</cell><cell></cell><cell>x</cell><cell>x</cell><cell></cell><cell>x b</cell><cell>x</cell><cell>x</cell><cell>x</cell></row><row><cell>Biomarker sample</cell><cell></cell><cell>x</cell><cell></cell><cell>x</cell><cell>x</cell><cell>x</cell></row><row><cell cols="2">Radiographic tumor assessments</cell><cell>x</cell><cell></cell><cell></cell><cell>x a</cell><cell></cell><cell>x</cell><cell>x</cell></row><row><cell cols="2">Survival information, subsequent therapies</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>x</cell></row><row><cell>Group A</cell><cell>Nivolumab</cell><cell></cell><cell>x</cell><cell></cell><cell>x</cell><cell></cell></row><row><cell></cell><cell>Radiotherapy</cell><cell></cell><cell>x</cell><cell>(x)</cell><cell></cell><cell></cell></row><row><cell>Group B</cell><cell>Nivolumab</cell><cell></cell><cell>x</cell><cell></cell><cell>x</cell><cell></cell></row></table><note>a : every 3rd cycle (every 6 weeks)b : every other cycle (every 4 weeks)</note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_2"><head></head><label></label><figDesc>Specific anatomical location of irradiated targets -Specific characteristics and composition of irradiated targets (e.g. bone metastasis [met.] vs. soft connective tissue met. vs. soft parenchymatous tissue met. vs. lymph node met.) -Absolute size of GTV, CTV and PTV -Dose-volume histogram parameters such as D2%, D50%, and D98% within the PTV -Radiation technique (e.g. 3D conventional vs.intensity-modulated radiotherapy) and beam energy</figDesc><table><row><cell>Radiology endpoints:</cell></row><row><cell>-Specific anatomical location of abscopally</cell></row><row><cell>responding target lesions</cell></row><row><cell>-Specific characteristics and composition of</cell></row><row><cell>abscopally responding target lesions (e.g. bone</cell></row><row><cell>metastasis [met.] vs. soft connective tissue met.</cell></row><row><cell>vs. soft parenchymatous tissue met. vs. lymph</cell></row><row><cell>node met.)</cell></row><row><cell>-Characteristics of abscopal response (size reduction</cell></row><row><cell>[RECIST] vs. tissue density vs. contrast</cell></row><row><cell>enhancement/perfusion vs. other signs of response)</cell></row></table><note></note></figure>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Acknowledgements</head><p>The authors would like to thank the members of the Protocol Board and the Data Safety and Monitoring Board. They would also like to thank Inn Chung for comments on the manuscript. This trial is conducted by the Young Medical Oncologists (YMO) Group in cooperation with the Thoracic Oncology Working Group of the Arbeitsgemeinschaft Internistische Onkologie (AIO) within the German Cancer Society.</p></div>
+			</div>
+
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Authors' contributions FB, MT and SR developed the study idea, wrote the protocol and coordinated funding, regulatory permission and approval processes. FB is lead investigator of this study; JK2 is deputy lead investigator and coordinates study treatment at the lead site (Thoraxklinik Heidelberg). AH and PH developed preclinical, translational and biomarker exploratory projects, derived from FORCE. MK and JK1 calculated (bio-) statistical models for sample size, study hypothesis, and endpoint determinations. FL developed tissue-based biomarker evaluation strategies and will perform all respective analysis. MM is representative of the AIO-Studien gGmbH (Kuno-Fischer-Str. 8, 14,057 Berlin, Germany, info@aio-stu dien-ggmbh.de) and substantially contributed to conception, design and preparation of study protocol. The AIO-Studien gGmbH is sponsor of the study and responsible for study management, logistics and counselled in study design. LK and JD will perform and supervise all radiation treatments. All authors have read and approved the current version of the manuscript.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Funding</head><p>The non-profit AIO-Studien gGmbH (Berlin, Germany) acts as the legal sponsor of this investigator-initiated trial and contributed to conception, design and preparation of the study protocol. Funding for this trial is provided by Bristol-Myers Squibb GmbH &amp; Co.KGaA (BMS). Additional financial support is provided by a grant from the Federal Ministry of Education and Research within the BMBF / NCT 3.0 program. Neither BMS nor the Federal Ministry of Education and Research have been involved in study design, data collection, management, data analysis and interpretation, or manuscript preparation.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Availability of data and materials</head><p>Not applicableas no primary data are contained, generated or analysed.</p><p>Ethics approval and consent to participate Ethical approval by the Ethics Committee of the Medical Faculty of the University of Heidelberg was obtained (AFmu-339/2016 / 02 December 2016). Written informed consent is obtained from all participants. Furthermore, the DEGRO expert panel reviewed the radiation regimen to rule out that permission of radiation administered would have to be requested from the BfS (Federal office of radiation protection; "Anfrage 98 / 16 July2015"). Additionally, the Paul Ehrlich Institute (competent authority for approval of clinical trials using medicinal products for human use in Germany) approved the study (no. 2828/01, 31 October 2016).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Consent for publication</head><p>Not applicableas no individual patient data are contained in this manuscript.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Competing interests</head><p>The FORCE trial received funding from Bristol-Myers Squibb GmbH &amp; Co.K-GaA (BMS). BMS has not been involved in the study design, and has no role in data collection, management, data analysis and interpretation, or in the decision to submit this protocol for publication. All authors declare that there are no competing conflicts of interest.</p></div>			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Non-small cell lung Cancer, version 6</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><forename type="middle">S</forename><surname>Ettinger</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><forename type="middle">E</forename><surname>Wood</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">W</forename><surname>Akerley</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">L</forename><forename type="middle">A</forename><surname>Bazhenova</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><surname>Borghaei</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><forename type="middle">R</forename><surname>Camidge</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><forename type="middle">T</forename><surname>Cheney</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">L</forename><forename type="middle">R</forename><surname>Chirieac</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><surname>'amico</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><forename type="middle">A</forename><surname>Demmy</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><forename type="middle">L</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Natl Compr Cancer Netw</title>
+		<imprint>
+			<biblScope unit="volume">13</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page" from="515" to="539" />
+			<date type="published" when="2015" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Nivolumab versus Docetaxel in advanced squamous-cell non-small-cell lung Cancer</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Brahmer</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><forename type="middle">L</forename><surname>Reckamp</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><surname>Baas</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">L</forename><surname>Crino</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">W</forename><forename type="middle">E</forename><surname>Eberhardt</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><surname>Poddubskaya</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Antonia</forename><forename type="middle">S</forename><surname>Pluzanski</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Vokes</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><forename type="middle">E</forename><surname>Holgado</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">N Engl J Med</title>
+		<imprint>
+			<biblScope unit="volume">373</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="123" to="158" />
+			<date type="published" when="2015" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Pembrolizumab versus chemotherapy for PD-L1-positive non-small-cell lung Cancer</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Reck</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><surname>Rodriguez-Abreu</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><forename type="middle">G</forename><surname>Robinson</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><surname>Hui</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Csoszi</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Fulop</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Gottfried</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">N</forename><surname>Peled</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Tafreshi</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Cuffe</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">N Engl J Med</title>
+		<imprint>
+			<biblScope unit="volume">375</biblScope>
+			<biblScope unit="page" from="1823" to="1856" />
+			<date type="published" when="2016" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Immune checkpoint inhibitors in non-small cell lung cancer (NSCLC): approaches on special subgroups and unresolved burning questions</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Remon</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">N</forename><surname>Vilarino</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">N</forename><surname>Reguart</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Cancer Treat Rev</title>
+		<imprint>
+			<biblScope unit="volume">64</biblScope>
+			<biblScope unit="page" from="21" to="30" />
+			<date type="published" when="2018" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Nivolumab versus Docetaxel in advanced nonsquamous non-small-cell lung Cancer</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><surname>Borghaei</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">L</forename><surname>Paz-Ares</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">L</forename><surname>Horn</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><forename type="middle">R</forename><surname>Spigel</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Steins</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">N</forename><forename type="middle">E</forename><surname>Ready</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">L</forename><forename type="middle">Q</forename><surname>Chow</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><forename type="middle">E</forename><surname>Vokes</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><surname>Felip</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><surname>Holgado</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">N Engl J Med</title>
+		<imprint>
+			<biblScope unit="volume">373</biblScope>
+			<biblScope unit="issue">17</biblScope>
+			<biblScope unit="page" from="1627" to="1666" />
+			<date type="published" when="2015" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Nivolumab plus ipilimumab as first-line treatment for advanced non-small-cell lung cancer (CheckMate 012): results of an open-label, phase 1, multicohort study</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">D</forename><surname>Hellmann</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">N</forename><forename type="middle">A</forename><surname>Rizvi</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">W</forename><surname>Goldman</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><forename type="middle">N</forename><surname>Gettinger</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><surname>Borghaei</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">R</forename><surname>Brahmer</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">N</forename><forename type="middle">E</forename><surname>Ready</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><forename type="middle">E</forename><surname>Gerber</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">L</forename><forename type="middle">Q</forename><surname>Chow</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><forename type="middle">A</forename><surname>Juergens</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Lancet Oncol</title>
+		<imprint>
+			<biblScope unit="volume">18</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="31" to="41" />
+			<date type="published" when="2017" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Nivolumab plus Ipilimumab in lung Cancer with a high tumor mutational burden</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">D</forename><surname>Hellmann</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><forename type="middle">E</forename><surname>Ciuleanu</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Pluzanski</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">S</forename><surname>Lee</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">G</forename><forename type="middle">A</forename><surname>Otterson</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><surname>Audigier-Valette</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><surname>Minenza</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><surname>Linardou</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Burgers</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><surname>Salman</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">N Engl J Med</title>
+		<imprint>
+			<biblScope unit="volume">378</biblScope>
+			<biblScope unit="issue">22</biblScope>
+			<biblScope unit="page" from="2093" to="104" />
+			<date type="published" when="2018" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Genomic features of response to combination immunotherapy in patients with advanced nonsmall-cell lung Cancer</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">D</forename><surname>Hellmann</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Nathanson</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><surname>Rizvi</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">B</forename><forename type="middle">C</forename><surname>Creelan</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">F</forename><surname>Sanchez-Vega</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Ahuja</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Ni</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">B</forename><surname>Novik</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Lmb</forename><surname>Mangarin</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Abu-Akeel</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Cancer Cell</title>
+		<imprint>
+			<biblScope unit="volume">33</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page" from="843" to="52" />
+			<date type="published" when="2018" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">PD-L1 expression in advanced NSCLC: insights into risk stratification and treatment selection from a systematic literature review</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><surname>Brody</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Y</forename><surname>Zhang</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Ballas</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">K</forename><surname>Siddiqui</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><surname>Gupta</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><surname>Barker</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Midha</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Walker</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Lung Cancer</title>
+		<imprint>
+			<biblScope unit="volume">112</biblScope>
+			<biblScope unit="page" from="200" to="215" />
+			<date type="published" when="2017" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Radiotherapy in combination with immune checkpoint inhibitors</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><surname>De Ruysscher</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><surname>Reynders</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><surname>Van Limbergen</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Lambrecht</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Curr Opin Oncol</title>
+		<imprint>
+			<biblScope unit="volume">29</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="105" to="116" />
+			<date type="published" when="2017" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Combination therapy of radiotherapy and anti-PD-1/PD-L1 treatment in nonsmall-cell lung Cancer: a mini-review</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Takamori</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">G</forename><surname>Toyokawa</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><surname>Takada</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">F</forename><surname>Shoji</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Okamoto</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Y</forename><surname>Maehara</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Clin Lung Cancer</title>
+		<imprint>
+			<biblScope unit="volume">19</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="12" to="18" />
+			<date type="published" when="2018" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Sequential tracking of PD-L1 expression and RAD50 induction in circulating tumor and stromal cells of lung Cancer patients undergoing radiotherapy</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><forename type="middle">L</forename><surname>Adams</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><forename type="middle">K</forename><surname>Adams</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>He</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">N</forename><surname>Kalhor</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Zhang</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Xu</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><surname>Gao</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">M</forename><surname>Reuben</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Y</forename><surname>Qiao</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><surname>Komaki</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Clin Cancer Res</title>
+		<imprint>
+			<biblScope unit="volume">23</biblScope>
+			<biblScope unit="page" from="5948" to="58" />
+			<date type="published" when="2017" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">The tumour microenvironment after radiotherapy: mechanisms of resistance and recurrence</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><forename type="middle">E</forename><surname>Barker</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">T</forename><surname>Paget</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><forename type="middle">A</forename><surname>Khan</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><forename type="middle">J</forename><surname>Harrington</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nat Rev Cancer</title>
+		<imprint>
+			<biblScope unit="volume">15</biblScope>
+			<biblScope unit="issue">7</biblScope>
+			<biblScope unit="page" from="409" to="434" />
+			<date type="published" when="2015" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Whole body irradiation; radiobiology or medicine?</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><forename type="middle">H</forename><surname>Mole</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Br J Radiol</title>
+		<imprint>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="issue">305</biblScope>
+			<biblScope unit="page" from="234" to="275" />
+			<date type="published" when="1953" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">Immunologic correlates of the abscopal effect in a patient with melanoma</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">A</forename><surname>Postow</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">K</forename><surname>Callahan</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><forename type="middle">A</forename><surname>Barker</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Y</forename><surname>Yamada</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Yuan</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Kitano</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Z</forename><surname>Mu</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Rasalan</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Adamow</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><surname>Ritter</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">N Engl J Med</title>
+		<imprint>
+			<biblScope unit="volume">366</biblScope>
+			<biblScope unit="issue">10</biblScope>
+			<biblScope unit="page" from="925" to="956" />
+			<date type="published" when="2012" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Radiation therapy and PD-1/ PD-L1 blockade: the clinical development of an evolving anticancer combination</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Gong</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><forename type="middle">Q</forename><surname>Le</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><surname>Massarelli</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><forename type="middle">E</forename><surname>Hendifar</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><surname>Tuli</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Immunother Cancer</title>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page">46</biblScope>
+			<date type="published" when="2018" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Combining immunotherapy and radiotherapy in lung cancer</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">N</forename><surname>Bhalla</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><surname>Brooker</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Brada</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Thorac Dis</title>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="issue">13</biblScope>
+			<biblScope unit="page" from="1447" to="60" />
+			<date type="published" when="2018" />
+		</imprint>
+	</monogr>
+	<note>Suppl</note>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Combinations of immunotherapy and radiation in cancer therapy</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><forename type="middle">E</forename><surname>Vatner</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">B</forename><forename type="middle">T</forename><surname>Cooper</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><surname>Vanpouille-Box</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Demaria</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><forename type="middle">C</forename><surname>Formenti</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Front Oncol</title>
+		<imprint>
+			<biblScope unit="volume">4</biblScope>
+			<biblScope unit="page">325</biblScope>
+			<date type="published" when="2014" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">Previous radiotherapy and the clinical activity and toxicity of pembrolizumab in the treatment of non-small-cell lung cancer: a secondary analysis of the KEYNOTE-001 phase 1 trial</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">N</forename><surname>Shaverdian</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><forename type="middle">E</forename><surname>Lisberg</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><surname>Bornazyan</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><surname>Veruttipong</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">W</forename><surname>Goldman</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><forename type="middle">C</forename><surname>Formenti</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><forename type="middle">B</forename><surname>Garon</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><surname>Lee</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Lancet Oncol</title>
+		<imprint>
+			<biblScope unit="volume">18</biblScope>
+			<biblScope unit="issue">7</biblScope>
+			<biblScope unit="page" from="895" to="903" />
+			<date type="published" when="2017" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">Fostering efficacy of anti-PD-1-treatment: Nivolumab plus radiotherapy in advanced non-small cell lung cancer: The FORCE trial</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">F</forename><surname>Bozorgmehr</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Hommertgen</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">F</forename><surname>Lasitschka</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Krisam</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Debus</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">R</forename><surname>Fischer</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Bischof</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Atmaca</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Wetzel</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Faehling</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ann Oncol</title>
+		<imprint>
+			<biblScope unit="volume">29</biblScope>
+			<date type="published" when="2018" />
+		</imprint>
+	</monogr>
+	<note>Suppl. 8)</note>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">Reliability and validity of the functional assessment of Cancer therapy-lung (FACT-L) quality of life instrument</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><forename type="middle">F</forename><surname>Cella</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><forename type="middle">E</forename><surname>Bonomi</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><forename type="middle">R</forename><surname>Lloyd</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><forename type="middle">S</forename><surname>Tulsky</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><surname>Kaplan</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><surname>Bonomi</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Lung Cancer</title>
+		<imprint>
+			<biblScope unit="volume">12</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="199" to="220" />
+			<date type="published" when="1995" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">Pembrolizumab plus chemotherapy in metastatic non-small-cell lung Cancer</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">L</forename><surname>Gandhi</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><surname>Rodriguez-Abreu</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Gadgeel</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Esteban</forename><forename type="middle">E</forename><surname>Felip</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">De</forename><surname>Angelis</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">F</forename><surname>Domine</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Clingan</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><surname>Hochmair</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">J</forename><surname>Powell</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><forename type="middle">F</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">N Engl J Med</title>
+		<imprint>
+			<biblScope unit="volume">378</biblScope>
+			<biblScope unit="issue">22</biblScope>
+			<biblScope unit="page" from="2078" to="92" />
+			<date type="published" when="2018" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">Acquired resistance to fractionated radiotherapy can be overcome by concurrent PD-L1 blockade</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><forename type="middle">J</forename><surname>Dovedi</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><forename type="middle">L</forename><surname>Adlard</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">G</forename><surname>Lipowska-Bhalla</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><surname>Mckenna</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Jones</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><forename type="middle">J</forename><surname>Cheadle</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">I</forename><forename type="middle">J</forename><surname>Stratford</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><surname>Poon</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Morrow</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><surname>Stewart</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Cancer Res</title>
+		<imprint>
+			<biblScope unit="volume">74</biblScope>
+			<biblScope unit="page" from="5458" to="68" />
+			<date type="published" when="2014" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title level="a" type="main">Local radiotherapy and granulocyte-macrophage colony-stimulating factor to generate abscopal responses in patients with metastatic solid tumours: a proof-of-principle trial</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><forename type="middle">B</forename><surname>Golden</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Chhabra</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Chachoua</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Adams</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Donach</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Fenton-Kerimian</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><surname>Friedman</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">F</forename><surname>Ponzo</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">S</forename><surname>Babb</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Goldberg</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Lancet Oncol</title>
+		<imprint>
+			<biblScope unit="volume">16</biblScope>
+			<biblScope unit="issue">7</biblScope>
+			<biblScope unit="page" from="795" to="803" />
+			<date type="published" when="2015" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title level="a" type="main">Radiotherapy Rescue of a Nivolumab-Refractory Immune Response in a patient with PD-L1-negative metastatic squamous cell carcinoma of the lung</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Z</forename><surname>Yuan</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Fromm</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><forename type="middle">A</forename><surname>Ahmed</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">G</forename><forename type="middle">D</forename><surname>Grass</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">G</forename><forename type="middle">Q</forename><surname>Yang</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><forename type="middle">E</forename><surname>Oliver</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><forename type="middle">J</forename><surname>Dilling</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><forename type="middle">J</forename><surname>Antonia</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">B</forename><forename type="middle">A</forename><surname>Perez</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Thorac Oncol</title>
+		<imprint>
+			<biblScope unit="volume">12</biblScope>
+			<biblScope unit="issue">9</biblScope>
+			<biblScope unit="page" from="135" to="141" />
+			<date type="published" when="2017" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title level="a" type="main">Ipilimumab versus placebo after radiotherapy in patients with metastatic castration-resistant prostate cancer that had progressed after docetaxel chemotherapy (CA184-043): a multicentre, randomised, double-blind, phase 3 trial</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><forename type="middle">D</forename><surname>Kwon</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><forename type="middle">G</forename><surname>Drake</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><forename type="middle">I</forename><surname>Scher</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><surname>Fizazi</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Bossi</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><forename type="middle">J</forename><surname>Van Den Eertwegh</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Krainer</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">N</forename><surname>Houede</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><surname>Santos</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><surname>Mahammedi</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Lancet Oncol</title>
+		<imprint>
+			<biblScope unit="volume">15</biblScope>
+			<biblScope unit="issue">7</biblScope>
+			<biblScope unit="page" from="700" to="712" />
+			<date type="published" when="2014" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title level="a" type="main">Radiation therapy and immunotherapy: growing pains</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><forename type="middle">B</forename><surname>Golden</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><forename type="middle">C</forename><surname>Formenti</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Int J Radiat Oncol Biol Phys</title>
+		<imprint>
+			<biblScope unit="volume">91</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="252" to="256" />
+			<date type="published" when="2015" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+		<title level="a" type="main">Palliative radiotherapy trials for bone metastases: a systematic review</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><surname>Chow</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><surname>Harris</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">G</forename><surname>Fan</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Tsao</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">W</forename><forename type="middle">M</forename><surname>Sze</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Clin Oncol</title>
+		<imprint>
+			<biblScope unit="volume">25</biblScope>
+			<biblScope unit="issue">11</biblScope>
+			<biblScope unit="page" from="1423" to="1459" />
+			<date type="published" when="2007" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<analytic>
+		<title level="a" type="main">8 Gy single fraction radiotherapy for the treatment of metastatic skeletal pain: randomised comparison with a multifraction schedule over 12 months of patient follow-up. Bone pain trial working party</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">R</forename><surname>Yarnold</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Radiother Oncol</title>
+		<imprint>
+			<biblScope unit="volume">52</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="111" to="132" />
+			<date type="published" when="1999" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<analytic>
+		<title level="a" type="main">The abscopal effect of local radiotherapy: using immunotherapy to make a rare event clinically relevant</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><surname>Reynders</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Illidge</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Siva</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">Y</forename><surname>Chang</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">De</forename><surname>Ruysscher</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Cancer Treat Rev</title>
+		<imprint>
+			<biblScope unit="volume">41</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page" from="503" to="513" />
+			<date type="published" when="2015" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<analytic>
+		<title level="a" type="main">PD-1 restrains radiotherapy-induced Abscopal effect</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><forename type="middle">S</forename><surname>Park</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><surname>Dong</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">X</forename><surname>Liu</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><forename type="middle">M</forename><surname>Harrington</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><forename type="middle">J</forename><surname>Krco</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">P</forename><surname>Grams</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><forename type="middle">S</forename><surname>Mansfield</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><forename type="middle">M</forename><surname>Furutani</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><forename type="middle">R</forename><surname>Olivier</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><forename type="middle">D</forename><surname>Kwon</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Cancer Immunol Res</title>
+		<imprint>
+			<biblScope unit="volume">3</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page" from="610" to="619" />
+			<date type="published" when="2015" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<analytic>
+		<title level="a" type="main">NHS-IL2 combined with radiotherapy: preclinical rationale and phase Ib trial results in metastatic non-small cell lung cancer following first-line chemotherapy</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">M</forename><surname>Van Den Heuvel</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Verheij</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><surname>Boshuizen</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Belderbos</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><forename type="middle">M</forename><surname>Dingemans</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><surname>De Ruysscher</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Laurent</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><surname>Tighe</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Haanen</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Quaratino</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Transl Med</title>
+		<imprint>
+			<biblScope unit="volume">13</biblScope>
+			<biblScope unit="page">32</biblScope>
+			<date type="published" when="2015" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<analytic>
+		<title level="a" type="main">Concurrent radiotherapy and ipilimumab immunotherapy for patients with melanoma</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><forename type="middle">A</forename><surname>Barker</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">A</forename><surname>Postow</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><forename type="middle">A</forename><surname>Khan</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><surname>Beal</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><forename type="middle">K</forename><surname>Parhar</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Y</forename><surname>Yamada</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">N</forename><forename type="middle">Y</forename><surname>Lee</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">D</forename><surname>Wolchok</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Cancer Immunol Res</title>
+		<imprint>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="92" to="100" />
+			<date type="published" when="2013" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<analytic>
+		<title level="a" type="main">Radiation necrosis of the brain in melanoma patients successfully treated with ipilimumab, three case studies</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Du Four</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Wilgenhof</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Duerinck</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Michotte</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Van Binst</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">De</forename><surname>Ridder</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Neyns</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">B</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Eur J Cancer</title>
+		<imprint>
+			<biblScope unit="volume">48</biblScope>
+			<biblScope unit="issue">16</biblScope>
+			<biblScope unit="page" from="3045" to="51" />
+			<date type="published" when="2012" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<analytic>
+		<title level="a" type="main">Abscopal effects of radiotherapy on advanced melanoma patients who progressed after ipilimumab immunotherapy</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><forename type="middle">M</forename><surname>Grimaldi</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><surname>Simeone</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><surname>Giannarelli</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><surname>Muto</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Falivene</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">V</forename><surname>Borzillo</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">F</forename><forename type="middle">M</forename><surname>Giugliano</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">F</forename><surname>Sandomenico</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Petrillo</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Curvietto</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Oncoimmunology</title>
+		<imprint>
+			<biblScope unit="volume">3</biblScope>
+			<biblScope unit="page">28780</biblScope>
+			<date type="published" when="2014" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b35">
+	<analytic>
+		<title level="a" type="main">Clinical outcomes of melanoma brain metastases treated with stereotactic radiation and anti-PD-1 therapy</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><forename type="middle">A</forename><surname>Ahmed</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><forename type="middle">G</forename><surname>Stallworth</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Y</forename><surname>Kim</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><forename type="middle">A</forename><surname>Johnstone</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">L</forename><forename type="middle">B</forename><surname>Harrison</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">J</forename><surname>Caudell</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><forename type="middle">H</forename><surname>Yu</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><forename type="middle">B</forename><surname>Etame</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">S</forename><surname>Weber</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">G</forename><forename type="middle">T</forename><surname>Gibney</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ann Oncol</title>
+		<imprint>
+			<biblScope unit="volume">27</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="434" to="475" />
+			<date type="published" when="2016" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b36">
+	<analytic>
+		<title level="a" type="main">Sequential metastases of colorectal cancer: Immunophenotypes and spatial distributions of infiltrating immune cells in relation to time and treatments</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Keim</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">I</forename><surname>Zoernig</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Spille</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">B</forename><surname>Lahrmann</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><surname>Brand</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><surname>Herpel</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">N</forename><surname>Grabe</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><surname>Jager</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">N</forename><surname>Halama</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Oncoimmunology</title>
+		<imprint>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page" from="593" to="602" />
+			<date type="published" when="2012" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b37">
+	<analytic>
+		<title level="a" type="main">Bridging the scales: semantic integration of quantitative SBML in graphical multi-cellular models and simulations with EPISIM and COPASI</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Sutterlin</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><surname>Kolb</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><surname>Dickhaus</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><surname>Jager</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">N</forename><surname>Grabe</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Bioinformatics</title>
+		<imprint>
+			<biblScope unit="volume">29</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="223" to="232" />
+			<date type="published" when="2013" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b38">
+	<monogr>
+		<title level="m" type="main">Publisher&apos;s Note</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b39">
+	<monogr>
+		<title level="m">Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

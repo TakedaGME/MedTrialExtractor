@@ -1,0 +1,1513 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /data/rsg/nlp/juanmoo1/bin/grobid-0.6.1/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">A phase 2 study of trametinib for patients with pediatric glioma or plexiform neurofibroma with refractory tumor and activation of the MAPK/ERK pathway: TRAM-01</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author role="corresp">
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Sébastien</forename><surname>Perreault</surname></persName>
+							<email>s.perreault@umontreal.ca</email>
+							<idno type="ORCID">0000-0002-4417-7698</idno>
+							<affiliation key="aff0">
+								<orgName type="department" key="dep1">Division of Child Neurology</orgName>
+								<orgName type="department" key="dep2">Department of Pediatrics</orgName>
+								<orgName type="institution" key="instit1">CHU Sainte-Justine</orgName>
+								<orgName type="institution" key="instit2">Université de Montréal</orgName>
+								<address>
+									<addrLine>3175 Chemin de la Côte-Sainte-Catherine</addrLine>
+									<postCode>H3T 1C5</postCode>
+									<settlement>Montreal</settlement>
+									<region>QC</region>
+									<country key="CA">Canada</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="department" key="dep1">Division of Child Neurology</orgName>
+								<orgName type="department" key="dep2">Department of Pediatrics</orgName>
+								<orgName type="institution" key="instit1">CHU Sainte-Justine</orgName>
+								<orgName type="institution" key="instit2">Université de Montréal</orgName>
+								<address>
+									<addrLine>3175 Chemin de la Côte-Sainte-Catherine</addrLine>
+									<postCode>H3T 1C5</postCode>
+									<settlement>Montreal</settlement>
+									<region>QC</region>
+									<country key="CA">Canada</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Valérie</forename><surname>Larouche</surname></persName>
+							<idno type="ORCID">0000-0002-4417-7698</idno>
+							<affiliation key="aff2">
+								<orgName type="department" key="dep1">Division of Hemato-Oncology</orgName>
+								<orgName type="department" key="dep2">Department of Pediatrics</orgName>
+								<orgName type="laboratory">Centre Hospitalier Universitaire de Québec-Université Laval</orgName>
+								<address>
+									<settlement>Quebec City</settlement>
+									<region>QC</region>
+									<country key="CA">Canada</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Uri</forename><surname>Tabori</surname></persName>
+							<affiliation key="aff3">
+								<orgName type="department" key="dep1">Division of Hemato-Oncology</orgName>
+								<orgName type="department" key="dep2">Department of Pediatrics, Hospital for Sick Children</orgName>
+								<address>
+									<settlement>Toronto</settlement>
+									<region>ON</region>
+									<country key="CA">Canada</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Cynthia</forename><surname>Hawkin</surname></persName>
+							<affiliation key="aff4">
+								<orgName type="department">Department of Pathology, Hospital for Sick Children</orgName>
+								<address>
+									<settlement>Toronto</settlement>
+									<region>ON</region>
+									<country key="CA">Canada</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Sarah</forename><surname>Lippé</surname></persName>
+							<affiliation key="aff5">
+								<orgName type="department">CHU Sainte-Justine Research Center</orgName>
+								<orgName type="institution" key="instit1">CHU Sainte-Justine</orgName>
+								<orgName type="institution" key="instit2">Université de Montréal</orgName>
+								<address>
+									<settlement>Montreal</settlement>
+									<region>QC</region>
+									<country key="CA">Canada</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Benjamin</forename><surname>Ellezam</surname></persName>
+							<affiliation key="aff6">
+								<orgName type="department">Department of Pathology</orgName>
+								<orgName type="institution" key="instit1">CHU Sainte-Justine</orgName>
+								<orgName type="institution" key="instit2">Université de Montréal</orgName>
+								<address>
+									<settlement>Montreal</settlement>
+									<region>QC</region>
+									<country key="CA">Canada</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Jean-Claude</forename><surname>Décarie</surname></persName>
+							<affiliation key="aff7">
+								<orgName type="department">Department of Radiology</orgName>
+								<orgName type="institution" key="instit1">CHU Sainte-Justine</orgName>
+								<orgName type="institution" key="instit2">Université de Montréal</orgName>
+								<address>
+									<settlement>Montreal</settlement>
+									<region>QC</region>
+									<country key="CA">Canada</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Yves</forename><surname>Théoret</surname></persName>
+							<affiliation key="aff8">
+								<orgName type="department" key="dep1">Department of Pharmacology</orgName>
+								<orgName type="department" key="dep2">CHU Sainte-Justine</orgName>
+								<orgName type="institution">Université de Montréal</orgName>
+								<address>
+									<settlement>Montreal</settlement>
+									<region>QC</region>
+									<country key="CA">Canada</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Marie-Élaine</forename><surname>Métras</surname></persName>
+							<affiliation key="aff8">
+								<orgName type="department" key="dep1">Department of Pharmacology</orgName>
+								<orgName type="department" key="dep2">CHU Sainte-Justine</orgName>
+								<orgName type="institution">Université de Montréal</orgName>
+								<address>
+									<settlement>Montreal</settlement>
+									<region>QC</region>
+									<country key="CA">Canada</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Serge</forename><surname>Sultan</surname></persName>
+							<affiliation key="aff5">
+								<orgName type="department">CHU Sainte-Justine Research Center</orgName>
+								<orgName type="institution" key="instit1">CHU Sainte-Justine</orgName>
+								<orgName type="institution" key="instit2">Université de Montréal</orgName>
+								<address>
+									<settlement>Montreal</settlement>
+									<region>QC</region>
+									<country key="CA">Canada</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Édith</forename><surname>Cantin</surname></persName>
+							<affiliation key="aff9">
+								<orgName type="department">Division of Neuropsychology</orgName>
+								<orgName type="laboratory">Centre Hospitalier Universitaire de Québec-Université Laval</orgName>
+								<address>
+									<settlement>Quebec City</settlement>
+									<region>QC</region>
+									<country key="CA">Canada</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Marie-Ève</forename><surname>Routhier</surname></persName>
+							<affiliation key="aff9">
+								<orgName type="department">Division of Neuropsychology</orgName>
+								<orgName type="laboratory">Centre Hospitalier Universitaire de Québec-Université Laval</orgName>
+								<address>
+									<settlement>Quebec City</settlement>
+									<region>QC</region>
+									<country key="CA">Canada</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Maxime</forename><surname>Caru</surname></persName>
+							<affiliation key="aff5">
+								<orgName type="department">CHU Sainte-Justine Research Center</orgName>
+								<orgName type="institution" key="instit1">CHU Sainte-Justine</orgName>
+								<orgName type="institution" key="instit2">Université de Montréal</orgName>
+								<address>
+									<settlement>Montreal</settlement>
+									<region>QC</region>
+									<country key="CA">Canada</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Geneviève</forename><surname>Legault</surname></persName>
+							<affiliation key="aff10">
+								<orgName type="department" key="dep1">Division of Neurology</orgName>
+								<orgName type="department" key="dep2">Department of Pediatrics</orgName>
+								<orgName type="department" key="dep3">Montreal Children&apos;s Hospital</orgName>
+								<orgName type="institution">McGill University Health Center</orgName>
+								<address>
+									<settlement>Montreal</settlement>
+									<region>QC</region>
+									<country key="CA">Canada</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Éric</forename><surname>Bouffet</surname></persName>
+							<affiliation key="aff3">
+								<orgName type="department" key="dep1">Division of Hemato-Oncology</orgName>
+								<orgName type="department" key="dep2">Department of Pediatrics, Hospital for Sick Children</orgName>
+								<address>
+									<settlement>Toronto</settlement>
+									<region>ON</region>
+									<country key="CA">Canada</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Lucie</forename><surname>Lafay-Cousin</surname></persName>
+							<affiliation key="aff11">
+								<orgName type="department" key="dep1">Departments of Oncology and Pediatrics</orgName>
+								<orgName type="department" key="dep2">Alberta Children&apos;s Hospital</orgName>
+								<orgName type="department" key="dep3">Cumming School of Medicine</orgName>
+								<orgName type="institution">University of Calgary</orgName>
+								<address>
+									<settlement>Calgary</settlement>
+									<region>AB</region>
+									<country key="CA">Canada</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Juliette</forename><surname>Hukin</surname></persName>
+							<affiliation key="aff12">
+								<orgName type="department">Division of Child Neurology and Oncology, BC Children&apos;s Hospital</orgName>
+								<orgName type="institution">University of British Columbia</orgName>
+								<address>
+									<addrLine>BC, Vancouver, British Columbia</addrLine>
+									<country key="CA">Canada</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Craig</forename><surname>Erker</surname></persName>
+							<affiliation key="aff13">
+								<orgName type="department" key="dep1">Division of Hemato-Oncology</orgName>
+								<orgName type="department" key="dep2">Department of Pediatrics, IWK Health Centre</orgName>
+								<orgName type="institution">Dalhousie University</orgName>
+								<address>
+									<settlement>Halifax</settlement>
+									<region>NS</region>
+									<country key="CA">Canada</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Nada</forename><surname>Jabado</surname></persName>
+							<affiliation key="aff14">
+								<orgName type="department" key="dep1">Division of Hemato-Oncology</orgName>
+								<orgName type="department" key="dep2">Department of Pediatrics</orgName>
+								<orgName type="department" key="dep3">Montreal Children&apos;s Hospital</orgName>
+								<orgName type="institution">McGill University Health Center</orgName>
+								<address>
+									<settlement>Montreal</settlement>
+									<region>QC</region>
+									<country key="CA">Canada</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">A phase 2 study of trametinib for patients with pediatric glioma or plexiform neurofibroma with refractory tumor and activation of the MAPK/ERK pathway: TRAM-01</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<idno type="DOI">10.1186/s12885-019-6442-2</idno>
+					<note type="submission">Received: 10 October 2019 Accepted: 8 December 2019</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.6.1" ident="GROBID" when="2020-10-09T18:38+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<abstract>
+				<p>Background: Pediatric low-grade gliomas (PLGG) are the most frequent brain tumors in children. Up to 50% will be refractory to conventional chemotherapy. It is now known that the majority of PLGG have activation of the MAPK/ ERK pathway. The same pathway is also activated in plexiform neurofibromas (PNs) which are low-grade tumors involving peripheral nerves in patients with neurofibromatosis type 1 (NF1). These lesions are known to be refractory to chemotherapy. Specific MEK inhibitors such as trametinib are now available and have been approved for other cancers harboring mutations in the MAPK/ERK pathway such as melanoma. We have observed significant responses to trametinib in patients with refractory PLGG in our institutions and results from the phase I study are promising. The treatment appears not only efficacious but is also usually well tolerated. We hypothesize that we will observe responses in the majority of refractory PLGG and PN treated with trametinib in this phase 2 study. Methods: The primary objective is to determine the objective response rate of trametinib as a single agent for treatment of progressing/refractory tumors with MAPK/ERK pathway activation. The TRAM-01 study is a phase II multicentric open-label basket trial including four groups. Group 1 includes NF1 patients with progressing/refractory glioma. Group 2 includes NF1 patients with plexiform neurofibroma. Group 3 includes patients with progressing/ refractory glioma with KIAA1549-BRAF fusion. Group 4 includes other patients with progressing/refractory glioma with activation of the MAPK/ERK pathway. Eligible patients for a given study group will receive daily oral trametinib at full dose for a total of 18 cycles of 28 days. A total of 150 patients will be enrolled in seven Canadian centers. Secondary objectives include the assessment of progression-free survival, overall survival, safety and tolerability of trametinib, serum levels of trametinib and evaluation of quality of life during treatment.</p>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>(Continued from previous page)</head><p>Discussion: Trametinib will allow us to target directly and specifically the MAPK/ERK pathway. We expect to observe a significant response in most patients. Following our study, trametinib could be integrated into standard treatment of PLGG and PN.</p><p>Trial registration: ClinicalTrials.gov Identifier: NCT03363217 December 6, 2017.</p><p>Keywords: Trametinib, Glioma, Plexiform neurofibroma, Neurofibromatosis type 1, BRAF, MEK inhibitor</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Background</head><p>Pediatric low-grade gliomas Pediatric low grade gliomas (PLGG) which include pilocytic astrocytoma (PA) are the most frequent brain tumors and represent 25-30% of central nervous system tumors in children <ref type="bibr" target="#b0">[1]</ref>. While some patients can be cured with surgery alone, more than 70% need complimentary treatments due to the location of tumors that preclude resection <ref type="bibr" target="#b1">[2]</ref>. Standard therapy for PLGG includes chemotherapy with a combination of intravenous carboplatin and vincristine, or weekly vinblastine for 70 weeks. Unfortunately, more than 50% of patients will have progressive disease despite conventional treatment(s) <ref type="bibr" target="#b2">[3]</ref>  <ref type="bibr" target="#b3">[4]</ref>. Radiotherapy remains an option, but this approach has significant long-term side effects including cognitive dysfunction, endocrinopathies and vasculopathies <ref type="bibr" target="#b4">[5]</ref>. Several clinical trials have focused on treatments of refractory PLGG but have failed to show significant efficacy and there is currently no standard therapy.</p><p>Recently, it has been found that the majority of PLGG have an activation of the MAPK/ERK pathway throughout various genetic mutations and alterations <ref type="bibr" target="#b5">[6]</ref>. The signaling cascade culminates with ERK translocating to the nucleus, where it activates transcription factors that result in gene expression promoting growth and mitosis <ref type="bibr" target="#b6">[7]</ref>. PLGG presents three major genetic alterations resulting in the activation of the MAPK pathway: NF1 mutation, BRAF fusion and BRAF mutation V600E <ref type="bibr" target="#b5">[6]</ref>.</p><p>NF1 mutations are mainly found in patients with neurofibromatosis type 1 (NF1). NF1 is one of the most frequent autosomal dominant diseases and affects 1 in 3000 individuals. Patients with NF1 have a susceptibility to develop tumor including plexiform neurofibroma (PN) and PLGG <ref type="bibr" target="#b7">[8]</ref>. Up to 20% of NF1 patients will develop optic pathway glioma (OPG) and most of them will require treatment in order to preserve visual integrity <ref type="bibr" target="#b8">[9]</ref>. NF1 patients can also develop PA in various locations such as the brainstem and subcortical areas <ref type="bibr" target="#b9">[10]</ref>.</p><p>The BRAF V600E mutation lies in the kinase domain and results in a constitutive activation of the MAPK/ERK pathway. The V600E mutation is positive in 5-10% of PA usually involving the brainstem and deep gray nuclei <ref type="bibr" target="#b10">[11]</ref>  <ref type="bibr" target="#b11">[12]</ref>.</p><p>The fusion between KIAA1549 (an uncharacterized gene) and the BRAF oncogene was reported to be a common feature of PA <ref type="bibr" target="#b12">[13]</ref>. This fusion results in a constitutive activation of BRAF kinase activity with the loss of the BRAF N-terminal autoregulatory domain <ref type="bibr" target="#b13">[14]</ref>. The KIAA1549:BRAF fusion is found in up to 77% of PA <ref type="bibr" target="#b14">[15]</ref>.</p><p>Finally, other mutations in PLGG were also found to activate the MAPK pathway through rare BRAF fusions or mutations, kinase domain duplications of FGFR1, and fusions of the NTRK gene (reviewed in Sturm et al., JCO 2017) <ref type="bibr" target="#b5">[6,</ref><ref type="bibr" target="#b15">16,</ref><ref type="bibr" target="#b16">17]</ref>. Clinical implication of each mutation in terms of progression and response rate is currently unknown.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>NF1 with Plexiform Neurofibroma</head><p>Up to 50% of NF1 patients will develop plexiform neurofibromas (PNs) which affect large peripheral nerves <ref type="bibr" target="#b17">[18,</ref><ref type="bibr" target="#b18">19]</ref>. Despite distinctive histology and location of PNs when compared to PLGG, there is also an activation of the MAPK/ ERK pathway through NF1 mutations.</p><p>PNs usually progress relentlessly during childhood, adolescence and adulthood causing lifelong disfigurement, disability, and mortality <ref type="bibr" target="#b17">[18]</ref>. PNs can compress vital organs and create an array of morbidities.</p><p>Treatment of PNs consists primarily of symptoms management and/or surgical resection. However, the tumor's close involvement with nerve, vasculature, or other viscera complicates surgery with ensuing frequently incomplete resection followed by tumor re-growth, or morbidity. Although several molecularly targeted compounds are in preclinical and clinical studies, but there is currently no approved medical therapy or cure for PNs.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Targeting the MAPK/ERK pathway</head><p>Because of its key activation in PLGG, targeting the MAPK/ERK with small molecules offers new therapeutic possibilities.</p><p>Dabrafenib, a selective BRAF inhibitor, was shown to be effective in PLGG with BRAF V600E mutations <ref type="bibr" target="#b19">[20]</ref>. Additionally, a phase II clinical trial with dabrafenib and trametinib for patients with PLGG and high-grade glioma with V600E mutation is underway (NCT02684058). However, patients that hold BRAF fusions treated with sorafenib alone had an acceleration of tumor growth likely related to paradoxical ERK upregulation <ref type="bibr" target="#b20">[21]</ref>. As such, MEK inhibitors, which act further down in the molecular pathway, may be a better treatment alternative for these patients.</p><p>Recently, phase I and II study with selumetinib (another MEK inhibitor) showed promising antitumor activity in PLGG <ref type="bibr" target="#b21">[22]</ref>  <ref type="bibr" target="#b22">[23]</ref> and Dombi et al. demonstrated dramatic responses in patients with PN treated with selumetinib <ref type="bibr" target="#b23">[24]</ref>. However, this agent is still under investigation, is not available in Canada and has not been approved yet for treatment of PN or PLGG.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Trametinib</head><p>Trametinib is a reversible, highly selective allosteric inhibitor of MEK1/MEK2 activation and kinase activity. It has good oral bioavailabily (72%). Food can decrease trametinib AUC by 24% and Cmax by 70%, so it is recommended to be administered under fasting conditions, either 1 h before or 2 h after a meal. It is highly bound to plasma proteins (97%). It is metabolized mainly via deacetylation alone (non-CYP mediated) or with mono-oxygenation in combination with glucuronidation. In vitro, trametinib is an inhibitor of CYP2C8, an inducer of CYP3A4 and a substrate of P-gp, but no significant drug interaction has been identified. It is mainly eliminated via the feces (≥ 80%), and to a lesser extent in urine (&lt; 20%), mainly as inactive metabolites. Less than 0.1% of the parent drug is recovered in the feces and the urine. Ouellet et al. observed that trametinib oral clearance was lower in women compared to men (1.26-fold) and increased with body weight <ref type="bibr" target="#b24">[25]</ref>. The half-life of trametinib is 5.3 days after a single dose administration and steady state is achieved by day 15. So far, all pharmacokinetics data are coming from adult studies, but there are ongoing studies evaluating pharmacokinetics data in pediatric populations. Available formulations and strengths are trametinib 0.5 mg tablets, trametinib 2 mg tablets and trametinib powder for oral solution (0.05 mg/mL). Cox et al. evaluated the bioavailability of the oral solution compared with the tablet formulation. They found similar AUCs, but the Cmax of the oral solution was higher and the Tmax earlier compared to the tablet formulation <ref type="bibr" target="#b25">[26]</ref>. In Canada, trametinib was approved as monotherapy in 2013 and in combination with dabrafenib in 2016 for the treatment of adult patients with unresectable or metastatic melanoma with a BRAF V600E mutation <ref type="bibr" target="#b26">[27]</ref>  <ref type="bibr" target="#b27">[28]</ref>.</p><p>Grossauer et al. demonstrated the efficacy of trametinib in murine xenografts with V600E high grade glioma <ref type="bibr" target="#b11">[12]</ref>. Recently, Geoerger et al. presented results of their phase I for safety and tolerability of trametinib in pediatric patients with refractory solid tumors <ref type="bibr" target="#b28">[29]</ref>. Overall, trametinib was well tolerated with relatively few side effects. Among patients treated with trametinib monotherapy, hyponatremia (n = 2) and pyrexia (n = 2) were the only treatment-related serious adverse events (SAEs) reported in &gt; 1 patients. The recommended dose was 0.025 mg/kg daily for patients of 6 years and older and 0.032 mg/kg for patients younger than 6 years old. This study was not designed to assess efficacy of trametinib but it was reported that in 40 of the patients with LGG or NF1-related PN, 7 showed partial response (PR), 21 patients had stable disease (SD) and only 4 had progressive disease (PD). Seven patients were not evaluable. It is not reported at this date how many patients with SD were considered having a minor response (MR) (decrease in lesion size of &gt; 25% to ≤50%).</p><p>In case reports, tumors with KIAA1549:BRAF fusion were found to be very sensitive to trametinib <ref type="bibr" target="#b29">[30]</ref>. In our series of six patients treated with trametinib, one showed PR, four had MR and only one had PD <ref type="bibr" target="#b30">[31]</ref>. Our observations are in line with what Geoerger reported in their phase I study <ref type="bibr" target="#b28">[29]</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Study rationale</head><p>Since there is no standard treatment for refractory PLGG and limited conventional chemotherapy regimens, we developed a study to target the MAPK/ERK pathway. Trametinib was selected because of its bioavailability, long half-life and availability in a liquid oral solution (currently only available for clinical trial). This drug has also been used on a compassionate basis for PLGG patients over the years in our centers. While designing this study, we included a specific group for NF1 patients with PN since treatment with trametinib is also promising for this population. A classical randomized clinical trial could not be conducted since there is no standard efficacious secondline treatment and the use of a placebo would not be ethical in this situation. We therefore designed an open label modified phase II basket trial with four patient groups.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Methods/design</head><p>Objectives The primary objective is to determine the response rate of daily trametinib as a single agent for treatment of progressing/refractory tumors with MAPK/ERK pathway activation. The response rate is defined as the proportion of patients with stable disease (SD), minor response (MR), partial response (PR) and complete response (CR) as the best response on study.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Secondary objectives include:</head><p>Determine efficacy outcome defined as time to progression (TTP), progression free survival (PFS) and overall survival (OS) up to three years following completion of treatment. Determine the safety and tolerability of trametinib. Adverse events (AE) and severe adverse events (SAE) will be monitored. Analyse the serum levels of trametinib. Analysis of trough level will be done twice (at day 22, and before starting cycle 16 or at progression whichever comes first).</p><p>Assess changes in quality of life over treatment phases and compare pre and post changes across groups. Evaluations of quality of daily life will be recorded at inclusion and every six months with the Pediatric Quality of Life Inventory (PedsQL) (Generic Core Scales/Brain tumor modules/Infant Scales).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Exploratory objectives include:</head><p>Determine if there are cognitive changes in patients with NF1 during treatment with trametinib. Neurocognitive assessment will be performed at inclusion and at completion of treatment using: Bayley-III, D-KEFS, WPPSIV, WISC-V and WAIS-IV depending on the age of patients with NF1.</p><p>To investigate and correlate biological features to tumor response. Gene expression profiling will be done on fresh frozen tissue and mutational analysis on paraffin-embedded tissue. Circulating tumor DNA in blood (ctDNA) will be assessed throughout treatment.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Study design</head><p>The TRAM-01 study is a phase II open-label basket trial. A total of seven pediatric academic hospitals will be participating. Four groups of patients will be included. Group 1 includes NF1 patients with progressing/refractory glioma. Group 2 includes NF1 patients with plexiform neurofibroma. Group 3 includes patients with progressing/refractory glioma with KIAA1549-BRAF fusion. Group 4 includes other patients with progressing/ refractory glioma with activation of the MAPK/ERK pathway. Mutational status is determined locally in participating institutions and will be confirmed centrally.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Ethical consideration</head><p>Full ethical approval for the study was obtained from the Research Ethics Committee from CHU Sainte-Justine. The TRAM-01 study will be conducted according to the principles of the Declaration of Helsinki. Written consent to participate will be obtain from participant or parents/legal guardians for minors. Data management, monitoring and reporting of the study will be performed in accordance with the ICP-GCP guidelines. </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Participants must have normal organ and marrow function as defined below:</head><p>Total leukocytes ≥3000/μL Absolute neutrophil count (ANC) ≥ 1000/μL Hemoglobin &gt; 80 g/l (transfusion independent within last 2 weeks) Platelet count ≥100,000/μL (transfusion independent within last 2 weeks) Total bilirubin ≤1. <ref type="bibr" target="#b4">5</ref>  </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Sample size</head><p>We expect to recruit a total of 150 (Group 1 and 3 = 42 patients each, Group 2 = 46 patients and Group 4 = 20 patients). Sample size was calculated based on the assumption that trametinib will be considered inactive if the true response rate is 40% or less; however, if the true response rate is 60% or more, then this treatment would be considered worthy of further study. Therefore, set H0: response rate = 0.40 (lower limit) versus HA: response rate = 0.60. Simon optimal model was used. For Groups 1, 2 and 3 a minimum of 39 patients is needed in order to support or reject H0. Since 42 patients will be enrolled in Groups 1 and 3 and 46 patients in Group 2 this will account for non-compliance and loss to follow-up of 7 and 15% respectively. Group 4 will be looking at the feasibility to include and treat patients without NF1 and KIAA1549-BRAF fusion. If the recruitment cannot be completed for any reason, participants in Groups 1, 3 and 4 can be pooled to test H0 for PLGG.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Intervention</head><p>During the treatment phase, patients will receive trametinib at a fixed dose of 0.025 mg/kg (patients ≥6 years) or 0.032 mg/kg (patients &lt; 6 years) with no dose escalation.</p><p>Trametinib will be administered for up to 18 cycles of 28 days to assess the efficacy and safety in patients with PLGG or PN. Patients weighting &lt; 33 kg or who cannot swallow tablets will receive the oral solution. Available formulations and strengths are trametinib 0.5 mg tablets, trametinib 2 mg tablets and trametinib powder for oral solution (0.05 mg/mL). For toxicity related to trametinib, one dose reduction will be accepted. The need for a second dose reduction will lead to the permanent discontinuation of study treatment. Specific guidelines are available in the protocol for management of toxicity.</p><p>Follow-up phase</p><p>Patients will be followed every six months for up to 3 years post-treatment or progression. They will be followed for overall survival, further progression and information on further lines of anti-cancer treatments; if known, dates of initiation and end dates will be collected.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Data collection</head><p>All data for the TRAM-01 study is entered in a customized Electronic Data Capture system developed by Information Management Systems (IMS) at the Lady Davis Institution.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Radiological evaluation</head><p>MRI will be done at screening and every 3 cycles during treatment phase and every six months during the followup period. Baseline lesions and responses for Groups 1, 3 and 4 will be evaluated using the modified Response Assessment in Neuro-Oncology (RANO). Target lesion(s) must measure at least 10 mm by 5 mm.</p><p>Complete Response (CR) -No radiological evidence of tumor on MRI scans. Partial Response (PR) -Greater than 50% reduction in the sum of the product of the greatest tumor diameter and its perpendicular diameter taking as reference the baseline measurements by MRI scan. Minor Response (MR) -25-50% reduction in the sum of the product of the greatest tumor diameter and its perpendicular diameter taking as reference the baseline measurements by MRI scan. Stable Disease (SD) -Less than a 25% decrease or ≤ 25% increase in the sum of the product of the greatest tumor perpendicular diameters taking as reference the smallest measurement since treatment started by MRI scan. Progressive Disease (PD) -Greater than a 25% increase in the sum of the product of the greatest tumor perpendicular diameters in the tumour size by MRI taking as reference the smallest measurement since treatment started by MRI scan, or appearance of one or more new tumoral lesion in a previously uninvolved area on MRI scan.</p><p>Baseline lesions and responses for Group 2 will be evaluated using a modified Response Evaluation Criteria in Solid Tumors (RECIST 1.1). Target lesion(s) must measure at least 30 mm in on direction.</p><p>Complete Response (CR)-No radiological evidence of tumor on MRI scans. Partial Response (PR) -Greater than 50% reduction in the sum of the greatest tumors diameters on MRI scan taking as reference baseline measurements. Minor Response (MR) -25-50% reduction in the sum of the greatest tumors diameters on MRI scan taking as reference baseline measurements. Stable Disease (SD) -Less than a 25% decrease or ≤ 25% increase in the sum of the greatest tumors diameters taking as reference the smallest measurement since treatment started. Progressive Disease (PD) -Greater than a 25% increase in the sum of the greatest tumors diameters taking as reference the smallest measurement since treatment started or appearance of one or more new tumoral lesion in a previously uninvolved area.</p><p>All treatment responses throughout this study will be centrally reviewed by an independent radiologist.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Neuropsychological evaluation</head><p>Neuropsychological evaluations will be conducted to assess cognitive function at start of treatment +/− 28 days, and at the end of treatment (between cycle 17 and the end of cycle 18) for NF1 patients (Groups 1 and 2 patients only). Testing battery will depend on age at inclusion (Bayley III &lt; 3 years old, WPPSIV ≥3 to 5 years old, WISC-V ≥ 6 to 16 years old, WAIS-IV for ≥17 years old and D-KEFS for ≥8 years old).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Quality of life evaluation</head><p>To document the quality of life of patients, the PedsQL Generic scale and Brain Tumor module <ref type="bibr" target="#b31">[32]</ref><ref type="bibr" target="#b32">[33]</ref><ref type="bibr" target="#b33">[34]</ref>. The measures are available over the age span with an infant scale for patients under 2 years will be used to assess the physical, mental, social health dimensions, as well as the cognitive development of children <ref type="bibr" target="#b34">[35]</ref>. The PedsQL integrates the generic and disease-specific approaches with child selfreports and parent proxy-reports <ref type="bibr" target="#b35">[36]</ref>. Thus, both questionnaires will be completed by the patient and one caregiver.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Biological study</head><p>To determine study group, the NF1 diagnosis will be confirmed clinically based on NIH criteria or by genetic testing. KIAA1549-fusion will be confirmed by FISH or CGH in local institution. V600E mutation will be excluded by immunohistochemistry staining or RT-PCR. Next generation sequencing will be done in the form of RNAseq and as needed a targeted panel (if no alteration is identified in RNAseq). All genetic alterations will be validated. DNA methylation assay using the 850 K array will be performed.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Statistical analysis</head><p>A two-stage assessment during recruitment will be conducted.</p><p>For Objective responses will be listed by patient and timepoint; best response on study, TTP, PFS, and OS will be reported by patient. Descriptive summary statistics for each group will be presented for TTP, PFS, and OS. Curves for PFS, TTP, and OS may be estimated using Kaplan-Meier methods.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Safety</head><p>Scientific evaluation was done at Sainte-Justine by an independent committee prior to submission to research ethics board (REB). The first ethical review was conducted at CHU Sainte-Justine.</p><p>An independent and outside ARO (academic research organization), Exactis Innovation, has been assigned for the management of this study. Exactis will be responsible for overseeing the regulatory aspects and, monitoring of sites, verify compliance and conduct site visits.</p><p>We will record all AEs and SAEs to better evaluate tolerability. The descriptions and grading scales found in the revised CTCAE version 5.0 will be used. Management of AEs of special interest is well described in the protocol. In order to detect early signs of toxicities, surveillance exams will include regular ophthalmologic evaluations, EKG, echocardiogram and X-ray of the growth plate. All SAEs must be reported within 24 h after the Investigator is made aware.</p><p>A Data Safety Monitoring Board (DSMB) was created following the study approval. DSMB will be tasked with determining safe and effective conduct of the study and with recommending the date for the conclusion of the trial based upon whether significant benefits or risks have developed. All members composing the DSMB are independent from the research team and free of any conflicts of interest.</p><p>A Data Monitoring Committee (DMC) will receive and review the progress and accrual data of this trial and will safeguard the interests of trial participants, periodically review and evaluate the accumulated study data for participant safety and efficacy and monitor the progress and overall conduct of the clinical trial. The DMC has access to quarterly study reports, raw study data so that they can see any emerging risks such as frequent or severe adverse events.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Discussion</head><p>Based on ongoing phases I and II trial with MEK inhibitors and case series, trametinib is a potential efficacious therapy for PLGG with activation of the MAPK/ERK <ref type="bibr" target="#b29">[30,</ref><ref type="bibr" target="#b30">31]</ref>  <ref type="bibr" target="#b28">[29]</ref>. We designed this study to confirm trametinib efficacy, safety and assess the duration of response once the trametinib is stopped. There is currently no other similar or competing clinical trial for patients with PLGG. In fact, this is the first and only phase II clinical trial to use trametinib as a single agent for low grade glioma and/or plexiform neurofibroma. We decided to subdivide our glioma cohort into three distinct groups since response rate might vary depending on the molecular alteration. For example, NF1 patients might present a better response to trametinib compared to KIAA1549-BRAF fusion patients. Our group 4 includes patients with a MAPK/ERK activation (not NF1, KIAA1549-BRAF, or BRAF V600E) who could benefit from a MEK inhibitor. This group can include patients with KRAS mutation, rare fusion or BRAF mutation for example. This group will be heterogeneous in terms of molecular profile and will be exploratory.</p><p>Patients with NF1 and a plexiform neurofibroma are also likely to respond to trametinib. These patients will be included in a specific subgroup. However, dosing, duration of treatment, surveillance and management of side effects are essentially the same than in patients with glioma and this population was therefore included in this study.</p><p>During this study, we will evaluate not only standard response and toxicity, but we also include important outcomes such as quality of life. Indeed, late psychological-related effects have been demonstrated in pediatric low-grade gliomas, such as the reduction of health-related quality of life (HRQOL) <ref type="bibr" target="#b36">[37]</ref>. Surveillance of HRQOL during treatments is essential, especially as brain tumor patients have reported a poor HRQOL <ref type="bibr" target="#b33">[34]</ref>. In our experience, daily oral trametinib is better tolerated than weekly vinblastine or vincristine/carboplatin regimen.</p><p>Neurocognitive assessment of patients with NF1 receiving trametinib will be conducted. Based on our experiences we believe that young patients with NF1 might show improvement in their development milestones while receiving trametinib. Our study is not powered to specifically answer this hypothesis but these investigations may give us data supporting a future clinical trial dedicated to this important issue.</p><p>Finally, molecular analysis will allow us to better understand why most patients respond to treatment whereas a minority progress. Gliomas with specific mutations or methylation profiles might have better and more sustained response to trametinib.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>Groups 1 and 3 ,</head><label>3</label><figDesc>assuming alpha = 0.05 and power = 0.70: During Stage 1, 11 patients will be accrued. Group will continue to Stage 2 if ≥6 patients have an objective response (total of best responses = SD + MR + PR + CR). During Stage 2, if ≤21 patients have an objective response, the treatment will be deemed inactive. For Group 2, assuming alpha = 0.05 and power = 0.80: During Stage 1, 16 patients will be accrued. Group will continue to Stage 2 if ≥8 patients have an objective response (total of best responses = SD + MR + PR + CR). During Stage 2, if ≤23 patients have an objective response, the treatment will be deemed inactive.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head></head><label></label><figDesc>Assent. Assent from minor participants will be sought 3. Study activities compliance. Participants must be willing and able to comply with scheduled visits, treatment schedule, laboratory testing, and other requirements of the study, including disease assessment by contrast-enhanced MRI 4. Age. Patients must be aged ≥1 month (corrected age) to ≤25 years at the time of study enrollment 5. Study group. Participants must belong to one of the following groups to be eligible Group 1: NF1 with progressing/refractory LGG Tumor Tissue. Sample Tumor tissue will be required for all patients (fresh tissue recommended when available). Patients with NF1 and LGG or PN can still be enrolled without tissue if no surgery or biopsy was conducted. 7. Previous MRI. At least two previous MRI for Group 1, 3, 4 and one previous MRI for Group 2 must be available for central review.</figDesc><table><row><cell>Inclusion criteria 1. Consent. Signed written informed consent prior to study participation 2. Group 2: NF1 with PN Group 3: Progressing/refractory LGG with KIAA1549-BRAF fusion. Group 4: Progressing/refractory glioma with activation of the MAPK/ERK pathway who do not meet criteria for other study groups. 6. last dose of any biologic agents including monoclonal antibody treatment, immunotherapy, viral therapy and other investigational agent is required prior to starting trametinib. An interval of at least 84 days after the end of radiation therapy is required prior to starting trametinib. An interval of at least 48 h for short-acting colony stimulating factor agents and 10 days interval for long-acting colony stimulating factor</cell></row><row><cell>agents are required prior to starting trametinib.</cell></row></table><note>8. Prior therapy. Participants must have failed at least one line of treatment including chemotherapy and/ or radiation therapy except for plexiform neurofibroma (since there is no recognized standard treatment for this tumor). 9. Prior therapy toxicity. Patients must have recovered to grade ≤ 1 from acute toxic effects of all prior chemotherapy, immunotherapy or radiotherapy prior to enrollment. Toxicities will be graded as per the National Cancer Institute Common Terminology Criteria for Adverse Events (CTCAE), version 5.0. 10. Prior therapy timeline. Participants having previously received a chemotherapy agent(s) and/or radiation must conform to the timeline described below. There is no limitation on the number of previous treatments or cycles received. An interval of at least 28 days after the last dose of a myelosuppressive chemotherapy, and at least 42 days after the last dose of Nitrosoureas is required prior to starting trametinib. An interval of at least 28 days after the11. Life expectancy. Patients must have a life expectancy of greater than 6 months. 12. Performance level. Patients must have a performance status corresponding to a Lansky/ Karnofsky score ≥ 50. 13. Organ Function Requirements.</note></figure>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Acknowledgements</head><p>We acknowledge Daniel Vincent for the development of the protocol and logistic support.</p><p>We acknowledge Dimitri Bruneau for his dedication to this clinical trial. We acknowledge Exactis team members for their support in study management including Anna Schab, Sophie Mathieu, Suzan McNamara, Linda Dighenakis, Touhidur Rashid Opu and Melanie Fon Sing.</p></div>
+			</div>
+
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Appendix I</head><p>Planned Participating centres with local investigator in alphabetical order.</p><p>Alberta Children's Hospital, Calgary, AB (Lucie Lafay-Cousin MD).</p><p>BC Children's Hospital, Vancouver, BC (Juliette Hukin MD).</p><p>CHU Sainte-Justine, Montréal, QC (Sébastien Perreault MD).</p><p>CHU de Québec, Québec City, QC (Valérie Larouche MD).</p><p>Hospital for Sick Children's-SickKids, Toronto, ON (Eric Bouffet MD).</p><p>IWK Health Centre, Halifax, NS (Craig Erker MD).</p><p>McGill University Health Centre, Montreal, QC (Geneviève Legault MD). collection, management, analysis, and interpretation of data; writing of the report; and the decision to submit the report for publication. Study sponsor (CHU Sainte-Justine/Principal investigator Sébastien Perreault and co-authors) have full authority in study design; collection, management, analysis, and interpretation of data; writing of the report; and the decision to submit the report for publication.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Appendix II</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Availability of data and materials</head><p>The data that support the findings of this study are available from the authors but restrictions apply to the availability of these data, which were used under license for the current study, and so are not publicly available. Data are however available from the authors upon reasonable request and with permission of Novartis.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Ethics approval and consent to participate</head><p>This study protocol and inform consent has been approved by CHU Sainte-Justine ethic committee on May 7 2018 MP-21-2018-1742. Written consent to participate will be obtain from participant or parents/legal guardians for minors.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Consent for publication N/A</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Competing interests</head><p>The authors declare that they have no competing interests</p></div>			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Pediatric low-grade gliomas</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><forename type="middle">J</forename><surname>Sievert</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">J</forename><surname>Fisher</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Child Neurol</title>
+		<imprint>
+			<biblScope unit="volume">24</biblScope>
+			<biblScope unit="issue">11</biblScope>
+			<biblScope unit="page" from="1397" to="408" />
+			<date type="published" when="2009" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Neurosurgical treatment of low-grade cerebellar astrocytoma in children and adolescents: a single consecutive institutional series of 100 patients</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">B</forename><forename type="middle">J</forename><surname>Due-Tonnessen</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Lundar</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Egge</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><surname>Scheie</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Neurosurg Pediatr</title>
+		<imprint>
+			<biblScope unit="volume">11</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="245" to="254" />
+			<date type="published" when="2013" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Phase II weekly vinblastine for chemotherapy-naive children with progressive low-grade Glioma: a Canadian pediatric brain tumor consortium study</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Lassaletta</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><surname>Scheinemann</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><forename type="middle">M</forename><surname>Zelcer</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Hukin</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">B</forename><forename type="middle">A</forename><surname>Wilson</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">N</forename><surname>Jabado</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Clin Oncol</title>
+		<imprint>
+			<biblScope unit="volume">34</biblScope>
+			<biblScope unit="issue">29</biblScope>
+			<biblScope unit="page" from="3537" to="3580" />
+			<date type="published" when="2016" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Randomized study of two chemotherapy regimens for treatment of lowgrade glioma in young children: a report from the Children&apos;s oncology group</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">L</forename><surname>Ater</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Zhou</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><surname>Holmes</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><forename type="middle">M</forename><surname>Mazewski</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><forename type="middle">N</forename><surname>Booth</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><forename type="middle">R</forename><surname>Freyer</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Clin Oncol</title>
+		<imprint>
+			<biblScope unit="volume">30</biblScope>
+			<biblScope unit="issue">21</biblScope>
+			<biblScope unit="page" from="2641" to="2648" />
+			<date type="published" when="2012" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Late effects of conformal radiation therapy for pediatric patients with low-grade glioma: prospective evaluation of cognitive, endocrine, and hearing deficits</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><forename type="middle">E</forename><surname>Merchant</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><forename type="middle">M</forename><surname>Conklin</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Wu</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><forename type="middle">H</forename><surname>Lustig</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">X</forename><surname>Xiong</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Clin Oncol</title>
+		<imprint>
+			<biblScope unit="volume">27</biblScope>
+			<biblScope unit="issue">22</biblScope>
+			<biblScope unit="page" from="3691" to="3698" />
+			<date type="published" when="2009" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">MAPK pathway activation in pilocytic astrocytoma</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><forename type="middle">T</forename><surname>Jones</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Gronych</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><surname>Lichter</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">O</forename><surname>Witt</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><forename type="middle">M</forename><surname>Pfister</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Cell Mol Life Sci</title>
+		<imprint>
+			<biblScope unit="volume">69</biblScope>
+			<biblScope unit="issue">11</biblScope>
+			<biblScope unit="page" from="1799" to="811" />
+			<date type="published" when="2012" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Mutations of the BRAF gene in human cancer</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><surname>Davies</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">G</forename><forename type="middle">R</forename><surname>Bignell</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><surname>Cox</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><surname>Stephens</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Edkins</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Clegg</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nat</title>
+		<imprint>
+			<biblScope unit="volume">417</biblScope>
+			<biblScope unit="issue">6892</biblScope>
+			<biblScope unit="page" from="949" to="54" />
+			<date type="published" when="2002" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Neurofibromatosis type 1 and malignancy in childhood</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Varan</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><surname>Sen</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">B</forename><surname>Aydin</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">B</forename><surname>Yalcin</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Kutluk</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><surname>Akyuz</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Clin Genet</title>
+		<imprint>
+			<biblScope unit="volume">89</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="341" to="346" />
+			<date type="published" when="2016" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Optic gliomas in children with neurofibromatosis type 1</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><surname>Listernick</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Charrow</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">J</forename><surname>Greenwald</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">N</forename><forename type="middle">B</forename><surname>Esterly</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Pediatr</title>
+		<imprint>
+			<biblScope unit="volume">114</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page" from="788" to="92" />
+			<date type="published" when="1989" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">A multi-institutional study of brainstem gliomas in children with neurofibromatosis type 1</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Mahdi</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><forename type="middle">C</forename><surname>Shah</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Sato</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><forename type="middle">M</forename><surname>Morris</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><forename type="middle">C</forename><surname>Mckinstry</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><surname>Listernick</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Neurol</title>
+		<imprint>
+			<biblScope unit="volume">88</biblScope>
+			<biblScope unit="issue">16</biblScope>
+			<biblScope unit="page" from="1584" to="1593" />
+			<date type="published" when="2017" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Analysis of BRAF V600E mutation in 1,320 nervous system tumors reveals high mutation frequencies in pleomorphic xanthoastrocytoma, ganglioglioma and extra-cerebellar pilocytic astrocytoma</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">G</forename><surname>Schindler</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><surname>Capper</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Meyer</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">W</forename><surname>Janzarik</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><surname>Omran</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><surname>Herold-Mende</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Acta Neuropathol</title>
+		<imprint>
+			<biblScope unit="volume">121</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="397" to="405" />
+			<date type="published" when="2011" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Concurrent MEK targeted therapy prevents MAPK pathway reactivation during BRAFV600E targeted inhibition in a novel syngeneic murine glioma model</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Grossauer</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><surname>Koeck</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">N</forename><forename type="middle">E</forename><surname>Murphy</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">I</forename><forename type="middle">D</forename><surname>Meyers</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Daynac</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">N</forename><surname>Truffaux</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Oncotarget</title>
+		<imprint>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="issue">46</biblScope>
+			<biblScope unit="page" from="75839" to="53" />
+			<date type="published" when="2016" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Frequent gains at chromosome 7q34 involving BRAF in pilocytic astrocytoma</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><forename type="middle">E</forename><surname>Bar</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Lin</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Tihan</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><forename type="middle">C</forename><surname>Burger</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><forename type="middle">G</forename><surname>Eberhart</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Neuropathol Exp Neurol</title>
+		<imprint>
+			<biblScope unit="volume">67</biblScope>
+			<biblScope unit="issue">9</biblScope>
+			<biblScope unit="page" from="878" to="87" />
+			<date type="published" when="2008" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Tandem duplication producing a novel oncogenic BRAF fusion gene defines the majority of pilocytic astrocytomas</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><forename type="middle">T</forename><surname>Jones</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Kocialkowski</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">L</forename><surname>Liu</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><forename type="middle">M</forename><surname>Pearson</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">L</forename><forename type="middle">M</forename><surname>Backlund</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><surname>Ichimura</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Cancer Res</title>
+		<imprint>
+			<biblScope unit="volume">68</biblScope>
+			<biblScope unit="issue">21</biblScope>
+			<biblScope unit="page" from="8673" to="8680" />
+			<date type="published" when="2008" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">Activation of the ERK/MAPK pathway: a signature genetic defect in posterior fossa pilocytic astrocytomas</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Forshew</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><forename type="middle">G</forename><surname>Tatevossian</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><forename type="middle">R</forename><surname>Lawson</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Ma</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">G</forename><surname>Neale</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">B</forename><forename type="middle">W</forename><surname>Ogunkolade</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Pathol</title>
+		<imprint>
+			<biblScope unit="volume">218</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="172" to="81" />
+			<date type="published" when="2009" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Recurrent somatic alterations of FGFR1 and NTRK2 in pilocytic astrocytoma</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><forename type="middle">T</forename><surname>Jones</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">B</forename><surname>Hutter</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">N</forename><surname>Jager</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Korshunov</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Kool</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><forename type="middle">J</forename><surname>Warnatz</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nat Genet</title>
+		<imprint>
+			<biblScope unit="volume">45</biblScope>
+			<biblScope unit="issue">8</biblScope>
+			<biblScope unit="page" from="927" to="959" />
+			<date type="published" when="2013" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Pediatric Gliomas: current concepts on diagnosis, biology, and clinical management</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><surname>Sturm</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><forename type="middle">M</forename><surname>Pfister</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Dtw</forename><surname>Jones</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Clin Oncol</title>
+		<imprint>
+			<biblScope unit="volume">35</biblScope>
+			<biblScope unit="issue">21</biblScope>
+			<biblScope unit="page" from="2370" to="2377" />
+			<date type="published" when="2017" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">NF1 plexiform neurofibroma growth rate by volumetric MRI: relationship to age and body weight</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><surname>Dombi</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Solomon</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><forename type="middle">J</forename><surname>Gillespie</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><surname>Fox</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">F</forename><forename type="middle">M</forename><surname>Balis</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">N</forename><surname>Patronas</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Neurol</title>
+		<imprint>
+			<biblScope unit="volume">68</biblScope>
+			<biblScope unit="issue">9</biblScope>
+			<biblScope unit="page" from="643" to="650" />
+			<date type="published" when="2007" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">Cell of origin and microenvironment contribution for NF1-associated dermal neurofibromas</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">L</forename><forename type="middle">Q</forename><surname>Le</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Shipman</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><forename type="middle">K</forename><surname>Burns</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">L</forename><forename type="middle">F</forename><surname>Parada</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Cell Stem Cell</title>
+		<imprint>
+			<biblScope unit="volume">4</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page" from="453" to="63" />
+			<date type="published" when="2009" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">Profound clinical and radiological response to BRAF inhibition in a 2-month-old diencephalic child with hypothalamic/ chiasmatic glioma</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Lassaletta</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Guerreiro</forename><surname>Stucklin</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Ramaswamy</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">V</forename><surname>Zapotocky</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Mckeown</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Hawkins</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Pediatr Blood Cancer</title>
+		<imprint>
+			<biblScope unit="volume">63</biblScope>
+			<biblScope unit="issue">11</biblScope>
+			<biblScope unit="page" from="2038" to="2079" />
+			<date type="published" when="2016" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">Phase II study of sorafenib in children with recurrent or progressive lowgrade astrocytomas</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">A</forename><surname>Karajannis</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">G</forename><surname>Legault</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">J</forename><surname>Fisher</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><forename type="middle">S</forename><surname>Milla</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><forename type="middle">J</forename><surname>Cohen</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">H</forename><surname>Wisoff</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Neurooncol</title>
+		<imprint>
+			<biblScope unit="volume">16</biblScope>
+			<biblScope unit="issue">10</biblScope>
+			<biblScope unit="page" from="1408" to="1424" />
+			<date type="published" when="2014" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">A phase I trial of the MEK inhibitor selumetinib (AZD6244) in pediatric patients with recurrent or refractory low-grade glioma: a pediatric brain tumor consortium (PBTC) study</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Banerjee</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><forename type="middle">I</forename><surname>Jakacki</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Onar-Thomas</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Wu</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Nicolaides</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Young</forename><surname>Poussaint</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Neurooncol</title>
+		<imprint>
+			<biblScope unit="volume">19</biblScope>
+			<biblScope unit="issue">8</biblScope>
+			<biblScope unit="page" from="1135" to="1179" />
+			<date type="published" when="2017" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">Selumetinib in paediatric patients with BRAF-aberrant or neurofibromatosis type 1-associated recurrent, refractory, or progressive lowgrade glioma: a multicentre, phase 2 trial</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Fangusaro</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Onar-Thomas</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Young</forename><surname>Poussaint</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Wu</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Ligon</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><forename type="middle">H</forename><surname>Lindeman</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">N</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Lancet Oncol</title>
+		<imprint>
+			<biblScope unit="volume">20</biblScope>
+			<biblScope unit="issue">7</biblScope>
+			<biblScope unit="page" from="1011" to="1033" />
+			<date type="published" when="2019" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title level="a" type="main">Activity of Selumetinib in Neurofibromatosis type 1-related Plexiform Neurofibromas</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><surname>Dombi</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Baldwin</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">L</forename><forename type="middle">J</forename><surname>Marcus</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">J</forename><surname>Fisher</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">B</forename><surname>Weiss</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Kim</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">N Engl J Med</title>
+		<imprint>
+			<biblScope unit="volume">375</biblScope>
+			<biblScope unit="issue">26</biblScope>
+			<biblScope unit="page" from="2550" to="60" />
+			<date type="published" when="2016" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title level="a" type="main">Population pharmacokinetics and exposure-response of trametinib, a MEK inhibitor, in patients with BRAF V600 mutation-positive melanoma</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><surname>Ouellet</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">N</forename><surname>Kassir</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Chiu</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">S</forename><surname>Mouksassi</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><surname>Leonowens</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><surname>Cox</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Cancer Chemother Pharmacol</title>
+		<imprint>
+			<biblScope unit="volume">77</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="807" to="824" />
+			<date type="published" when="2016" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title level="a" type="main">Relative bioavailability of pediatric oral solution and tablet formulations of trametinib in adult patients with solid tumors</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><forename type="middle">S</forename><surname>Cox</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Allred</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Y</forename><surname>Zhou</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">R</forename><surname>Infante</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">S</forename><surname>Gordon</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Bendell</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Clin Pharmacol Drug Dev</title>
+		<imprint>
+			<biblScope unit="volume">4</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="287" to="94" />
+			<date type="published" when="2015" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title level="a" type="main">Combined BRAF and MEK inhibition in melanoma with BRAF V600 mutations</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><forename type="middle">T</forename><surname>Flaherty</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">R</forename><surname>Infante</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Daud</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><surname>Gonzalez</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><forename type="middle">F</forename><surname>Kefford</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Sosman</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">N Engl J Med</title>
+		<imprint>
+			<biblScope unit="volume">367</biblScope>
+			<biblScope unit="issue">18</biblScope>
+			<biblScope unit="page" from="1694" to="703" />
+			<date type="published" when="2012" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+		<title level="a" type="main">Promises from trametinib in RAF active tumors</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><forename type="middle">A</forename><surname>Sausville</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">N Engl J Med</title>
+		<imprint>
+			<biblScope unit="volume">367</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="171" to="173" />
+			<date type="published" when="2012" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<analytic>
+		<title level="a" type="main">Phase 1 trial of trametinib alone and in combination with dabrafenib in children and adolescents with relapsed solid tumors or neurofibromatosis type 1 (NF1) progressive plexiform neurofibromas (PN)</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Clm</forename><surname>Bg</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Whitlock</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">G</forename><forename type="middle">B</forename><surname>Mccowage</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">W</forename><surname>Kieran</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Broniscer</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><forename type="middle">R</forename><surname>Hargrave</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><surname>Hingorani</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">L</forename><forename type="middle">B</forename><surname>Kilburn</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Mueller</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">L</forename><surname>Tseng</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">N</forename><surname>Nebot</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><surname>Dasgupta</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">W</forename><surname>Russo</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><surname>Fox</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Clin Oncol</title>
+		<imprint>
+			<biblScope unit="volume">36</biblScope>
+			<date type="published" when="2018" />
+		</imprint>
+	</monogr>
+	<note>suppl; abstr 10537</note>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<analytic>
+		<title level="a" type="main">Report of effective trametinib therapy in 2 children with progressive hypothalamic optic pathway pilocytic astrocytoma: documentation of volumetric response</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><surname>Miller</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><surname>Guillaume</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><surname>Dusenbery</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><forename type="middle">B</forename><surname>Clark</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><surname>Moertel</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Neurosurg Pediatr</title>
+		<imprint>
+			<biblScope unit="volume">19</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="319" to="343" />
+			<date type="published" when="2017" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<analytic>
+		<title level="a" type="main">Trametinib for progressive pediatric low-grade gliomas</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Kondyli</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">V</forename><surname>Larouche</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><surname>Saint-Martin</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">B</forename><surname>Ellezam</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">L</forename><surname>Pouliot</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><surname>Sinnett</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Neuro-Oncol</title>
+		<imprint>
+			<date type="published" when="2018" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<analytic>
+		<title level="a" type="main">The PedsQL in pediatric cancer: reliability and validity of the pediatric quality of life inventory generic Core scales, multidimensional fatigue scale, and Cancer module</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">W</forename><surname>Varni</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><forename type="middle">M</forename><surname>Burwinkle</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><forename type="middle">R</forename><surname>Katz</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><surname>Meeske</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><surname>Dickinson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Cancer</title>
+		<imprint>
+			<biblScope unit="volume">94</biblScope>
+			<biblScope unit="issue">7</biblScope>
+			<biblScope unit="page" from="2090" to="106" />
+			<date type="published" when="2002" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<analytic>
+		<title level="a" type="main">PedsQL 4.0: reliability and validity of the pediatric quality of life inventory version 4.0 generic core scales in healthy and patient populations</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">W</forename><surname>Varni</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Seid</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><forename type="middle">S</forename><surname>Kurtin</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Med Care</title>
+		<imprint>
+			<biblScope unit="volume">39</biblScope>
+			<biblScope unit="issue">8</biblScope>
+			<biblScope unit="page" from="800" to="812" />
+			<date type="published" when="2001" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<monogr>
+		<title level="m" type="main">The PedsQL™ brain tumor module: initial reliability and validity. Pediatr Blood Cancer</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">N</forename><surname>Palmer</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Meeske</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><surname>Katz</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Burwinkle</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">W</forename><surname>Varni</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2007" />
+			<biblScope unit="volume">49</biblScope>
+			<biblScope unit="page" from="287" to="93" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<analytic>
+		<title level="a" type="main">The PedsQL infant scales: feasibility, internal consistency reliability, and validity in healthy and ill infants</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">W</forename><surname>Varni</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><forename type="middle">A</forename><surname>Limbers</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><surname>Neighbors</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><surname>Schulz</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">E</forename><surname>Lieu</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><forename type="middle">W</forename><surname>Heffer</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Qual Life Res</title>
+		<imprint>
+			<biblScope unit="volume">20</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="45" to="55" />
+			<date type="published" when="2011" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b35">
+	<analytic>
+		<title level="a" type="main">The PedsQL: measurement model for the pediatric quality of life inventory</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">W</forename><surname>Varni</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Seid</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><forename type="middle">A</forename><surname>Rode</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Med Care</title>
+		<imprint>
+			<biblScope unit="volume">37</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="126" to="165" />
+			<date type="published" when="1999" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b36">
+	<analytic>
+		<title level="a" type="main">Pediatric low-grade gliomas and the need for new options for therapy: why and how?</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">I</forename><surname>Qaddoumi</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">I</forename><surname>Sultan</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Broniscer</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Cancer Biol Ther</title>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="4" to="10" />
+			<date type="published" when="2009" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b37">
+	<monogr>
+		<title level="m" type="main">Publisher&apos;s Note</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b38">
+	<monogr>
+		<title level="m">Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

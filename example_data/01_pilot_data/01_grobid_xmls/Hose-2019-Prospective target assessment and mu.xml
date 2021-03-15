@@ -1,0 +1,2398 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /data/rsg/nlp/juanmoo1/bin/grobid-0.6.1/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Prospective target assessment and multimodal prediction of survival for personalized and risk-adapted treatment strategies in multiple myeloma in the GMMG-MM5 multicenter trial</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Dirk</forename><surname>Hose</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="laboratory">Labor für Myelomforschung</orgName>
+								<orgName type="institution">Universitätsklinikum Heidelberg</orgName>
+								<address>
+									<settlement>Heidelberg</settlement>
+									<country key="DE">Germany</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="department">Medizinische Klinik V</orgName>
+								<orgName type="institution">Universitätsklinikum Heidelberg</orgName>
+								<address>
+									<settlement>Heidelberg</settlement>
+									<country key="DE">Germany</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff2">
+								<orgName type="department">Labor für Myelomforschung</orgName>
+								<orgName type="institution">Universitätsklinikum Heidelberg</orgName>
+								<address>
+									<settlement>Heidelberg</settlement>
+									<country key="DE">Germany</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff3">
+								<orgName type="department">Medizinische Klinik V</orgName>
+								<orgName type="institution">Universitätsklinikum Heidelberg</orgName>
+								<address>
+									<settlement>Heidelberg</settlement>
+									<country key="DE">Germany</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Susanne</forename><surname>Beck</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="laboratory">Labor für Myelomforschung</orgName>
+								<orgName type="institution">Universitätsklinikum Heidelberg</orgName>
+								<address>
+									<settlement>Heidelberg</settlement>
+									<country key="DE">Germany</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="department">Medizinische Klinik V</orgName>
+								<orgName type="institution">Universitätsklinikum Heidelberg</orgName>
+								<address>
+									<settlement>Heidelberg</settlement>
+									<country key="DE">Germany</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff2">
+								<orgName type="department">Labor für Myelomforschung</orgName>
+								<orgName type="institution">Universitätsklinikum Heidelberg</orgName>
+								<address>
+									<settlement>Heidelberg</settlement>
+									<country key="DE">Germany</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff3">
+								<orgName type="department">Medizinische Klinik V</orgName>
+								<orgName type="institution">Universitätsklinikum Heidelberg</orgName>
+								<address>
+									<settlement>Heidelberg</settlement>
+									<country key="DE">Germany</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Hans</forename><surname>Salwender</surname></persName>
+							<affiliation key="aff4">
+								<orgName type="department">Department of Internal Medicine II, Asklepios Klinik Altona</orgName>
+								<address>
+									<settlement>Hamburg</settlement>
+									<country key="DE">Germany</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Martina</forename><surname>Emde</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="laboratory">Labor für Myelomforschung</orgName>
+								<orgName type="institution">Universitätsklinikum Heidelberg</orgName>
+								<address>
+									<settlement>Heidelberg</settlement>
+									<country key="DE">Germany</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="department">Medizinische Klinik V</orgName>
+								<orgName type="institution">Universitätsklinikum Heidelberg</orgName>
+								<address>
+									<settlement>Heidelberg</settlement>
+									<country key="DE">Germany</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff2">
+								<orgName type="department">Labor für Myelomforschung</orgName>
+								<orgName type="institution">Universitätsklinikum Heidelberg</orgName>
+								<address>
+									<settlement>Heidelberg</settlement>
+									<country key="DE">Germany</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff3">
+								<orgName type="department">Medizinische Klinik V</orgName>
+								<orgName type="institution">Universitätsklinikum Heidelberg</orgName>
+								<address>
+									<settlement>Heidelberg</settlement>
+									<country key="DE">Germany</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Uta</forename><surname>Bertsch</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="department">Medizinische Klinik V</orgName>
+								<orgName type="institution">Universitätsklinikum Heidelberg</orgName>
+								<address>
+									<settlement>Heidelberg</settlement>
+									<country key="DE">Germany</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff3">
+								<orgName type="department">Medizinische Klinik V</orgName>
+								<orgName type="institution">Universitätsklinikum Heidelberg</orgName>
+								<address>
+									<settlement>Heidelberg</settlement>
+									<country key="DE">Germany</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Christina</forename><surname>Kunz</surname></persName>
+							<affiliation key="aff5">
+								<orgName type="department">Deutsches Krebsforschungszentrum, Abteilung für Biostatistik</orgName>
+								<address>
+									<settlement>Heidelberg</settlement>
+									<country key="DE">Germany</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Christoph</forename><surname>Scheid</surname></persName>
+							<affiliation key="aff6">
+								<orgName type="department">Department I of Internal Medicine</orgName>
+								<orgName type="institution">University of Cologne</orgName>
+								<address>
+									<settlement>Cologne</settlement>
+									<country key="DE">Germany</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Mathias</forename><surname>Hänel</surname></persName>
+							<affiliation key="aff7">
+								<orgName type="department">Department of Internal Medicine III</orgName>
+								<orgName type="institution">Klinikum Chemnitz GmbH</orgName>
+								<address>
+									<settlement>Chemnitz</settlement>
+									<country key="DE">Germany</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Katja</forename><surname>Weisel</surname></persName>
+							<affiliation key="aff8">
+								<orgName type="department">Department of Hematology, Oncology and Immunology</orgName>
+								<orgName type="institution">University of Tübingen</orgName>
+								<address>
+									<settlement>Tübingen</settlement>
+									<country key="DE">Germany</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Thomas</forename><surname>Hielscher</surname></persName>
+							<affiliation key="aff5">
+								<orgName type="department">Deutsches Krebsforschungszentrum, Abteilung für Biostatistik</orgName>
+								<address>
+									<settlement>Heidelberg</settlement>
+									<country key="DE">Germany</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Marc</forename><forename type="middle">S</forename><surname>Raab</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="department">Medizinische Klinik V</orgName>
+								<orgName type="institution">Universitätsklinikum Heidelberg</orgName>
+								<address>
+									<settlement>Heidelberg</settlement>
+									<country key="DE">Germany</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff3">
+								<orgName type="department">Medizinische Klinik V</orgName>
+								<orgName type="institution">Universitätsklinikum Heidelberg</orgName>
+								<address>
+									<settlement>Heidelberg</settlement>
+									<country key="DE">Germany</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Hartmut</forename><surname>Goldschmidt</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="department">Medizinische Klinik V</orgName>
+								<orgName type="institution">Universitätsklinikum Heidelberg</orgName>
+								<address>
+									<settlement>Heidelberg</settlement>
+									<country key="DE">Germany</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff3">
+								<orgName type="department">Medizinische Klinik V</orgName>
+								<orgName type="institution">Universitätsklinikum Heidelberg</orgName>
+								<address>
+									<settlement>Heidelberg</settlement>
+									<country key="DE">Germany</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff9">
+								<orgName type="department">Nationales Centrum für Tumorerkrankungen</orgName>
+								<address>
+									<settlement>Heidelberg</settlement>
+									<country key="DE">Germany</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Anna</forename><surname>Jauch</surname></persName>
+							<affiliation key="aff10">
+								<orgName type="department">Institut für Humangenetik</orgName>
+								<orgName type="institution">Universität Heidelberg</orgName>
+								<address>
+									<settlement>Heidelberg</settlement>
+									<country key="DE">Germany</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Jérôme</forename><surname>Moreaux</surname></persName>
+							<affiliation key="aff11">
+								<orgName type="institution" key="instit1">IGH</orgName>
+								<orgName type="institution" key="instit2">CNRS</orgName>
+								<orgName type="institution" key="instit3">University of Montpellier</orgName>
+								<address>
+									<settlement>Montpellier</settlement>
+									<country key="FR">France</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff12">
+								<orgName type="department">Department of Biological Hematology, CHU Montpellier</orgName>
+								<address>
+									<settlement>Montpellier</settlement>
+									<country key="FR">France</country>
+								</address>
+							</affiliation>
+						</author>
+						<author role="corresp">
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Anja</forename><surname>Seckinger</surname></persName>
+							<email>anja.seckinger@med.uni-heidelberg.de</email>
+							<affiliation key="aff0">
+								<orgName type="laboratory">Labor für Myelomforschung</orgName>
+								<orgName type="institution">Universitätsklinikum Heidelberg</orgName>
+								<address>
+									<settlement>Heidelberg</settlement>
+									<country key="DE">Germany</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="department">Medizinische Klinik V</orgName>
+								<orgName type="institution">Universitätsklinikum Heidelberg</orgName>
+								<address>
+									<settlement>Heidelberg</settlement>
+									<country key="DE">Germany</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff2">
+								<orgName type="department">Labor für Myelomforschung</orgName>
+								<orgName type="institution">Universitätsklinikum Heidelberg</orgName>
+								<address>
+									<settlement>Heidelberg</settlement>
+									<country key="DE">Germany</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff3">
+								<orgName type="department">Medizinische Klinik V</orgName>
+								<orgName type="institution">Universitätsklinikum Heidelberg</orgName>
+								<address>
+									<settlement>Heidelberg</settlement>
+									<country key="DE">Germany</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Prospective target assessment and multimodal prediction of survival for personalized and risk-adapted treatment strategies in multiple myeloma in the GMMG-MM5 multicenter trial</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<idno type="DOI">10.1186/s13045-019-0750-5</idno>
+					<note type="submission">Received: 29 March 2019 Accepted: 12 June 2019</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.6.1" ident="GROBID" when="2020-10-09T18:38+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>Multiple myeloma</term>
+					<term>Risk</term>
+					<term>Metascoring</term>
+					<term>Reporting</term>
+					<term>Survival</term>
+				</keywords>
+			</textClass>
+			<abstract>
+				<p>Background: Personalized and risk-adapted treatment strategies in multiple myeloma prerequisite feasibility of prospective assessment, reporting of targets, and prediction of survival probability in clinical routine. Our aim was first to set up and prospectively test our experimental and analysis strategy to perform advanced molecular diagnostics, i.e., interphase fluorescence in-situ hybridization (iFISH) in ≥ 90% and gene expression profiling (GEP) in ≥ 80% of patients within the first cycle of induction chemotherapy in a phase III trial, seen as prerequisite for target expression-based personalized treatment strategies. Secondly, whether the assessment of risk based on the integration of clinical, cytogenetic, and expression-based parameters (&quot;metascoring&quot;) is possible in this setting and superior to the use of single prognostic factors. Methods: We prospectively performed plasma cell purification, GEP using DNA-microarrays, and iFISH within our randomized multicenter GMMG-MM5-trial recruiting 604 patients between July 2010 and November 2013. Patient data were analyzed using our published gene expression report (GEP-R): after quality and identity control, integrated risk assessment (HM metascore) and targets were reported in clinical routine as pdf-document.</p>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Background</head><p>Multiple myeloma is a malignant hematological disease characterized by accumulation of clonal plasma cells in the bone marrow and associated clinical signs and symptoms, especially those related to the displacement of normal hematopoiesis and generation of osteolytic bone disease <ref type="bibr" target="#b0">[1]</ref>.</p><p>Introduction of high-dose melphalan followed by autologous stem cell transplantation, proteasome inhibitors, immunomodulatory drugs, and monoclonal antibodies improved survival <ref type="bibr" target="#b1">[2]</ref><ref type="bibr" target="#b2">[3]</ref><ref type="bibr" target="#b3">[4]</ref><ref type="bibr" target="#b4">[5]</ref> without curing a significant fraction of patients. Prognosis of individual patients is highly heterogeneous: current treatment algorithms do well for some patient groups with a median survival of more than 10 years, while a significant proportion of patients shows median survival of 2 years or even below <ref type="bibr" target="#b5">[6,</ref><ref type="bibr" target="#b6">7]</ref>. This frequently prompts the suggestion to treat the latter patients differently, most often more aggressively, in other terms to perform risk-adapted treatment, e.g., UAMS total therapy <ref type="bibr" target="#b7">[8]</ref>, mSMART by the Mayo Clinic <ref type="bibr" target="#b8">[9]</ref>, or the GMMG-CONCEPT trial (NCT03104842).</p><p>Risk stratifications in clinical routine are usually performed by combination of presence of high-risk chromosomal aberrations as detected by interphase fluorescence in-situ hybridization (iFISH) and the International Staging System (ISS) as exemplified by the revised ISS score (rISS) and others <ref type="bibr" target="#b9">[10]</ref><ref type="bibr" target="#b10">[11]</ref><ref type="bibr" target="#b11">[12]</ref>. At the same time, prognostic power can be increased by assessing gene expression, i.e., proliferation <ref type="bibr" target="#b12">[13]</ref> and high risk scores <ref type="bibr" target="#b13">[14]</ref><ref type="bibr" target="#b14">[15]</ref><ref type="bibr" target="#b15">[16]</ref><ref type="bibr" target="#b16">[17]</ref><ref type="bibr" target="#b17">[18]</ref><ref type="bibr" target="#b18">[19]</ref><ref type="bibr" target="#b19">[20]</ref>, e.g., by DNAmicroarrays (gene expression profiling, GEP). This is, however, rarely used prospectively in clinical routine or in a clinical trial setting. In turn, ending up with a variety of clinical and molecular prognostic factors, it is necessary to integrate different factors into a single prognostic information (metascoring).</p><p>Besides risk stratification, assessment of gene expression allows investigation of aberrantly or overexpressed targets exemplified by Aurora-kinase A (AURKA) <ref type="bibr" target="#b20">[21]</ref> or insulin-like growth factor 1 receptor (IGF1R) <ref type="bibr" target="#b21">[22]</ref>. Expression of these targets, in turn, is associated with adverse survival <ref type="bibr" target="#b20">[21,</ref><ref type="bibr" target="#b21">22]</ref>. For potential personalized treatment, the addition of clinical grade inhibitors to a backbone treatment only in those patients whose myeloma cells actually express the respective target could be envisioned. Whereas the number of actionable targets in multiple myeloma is currently largely limited, it is very likely that the advent of immunotherapy will change this.</p><p>Both personalized and risk-adapted treatment strategies prerequisite the feasibility of prospective assessment and reporting of targets and prediction of survival probability in clinical routine in a high enough percentage of patients. For phase III trial strategies, e.g., selecting an add-on treatment, the necessary threshold based on power calculations and clinical feasibility could be estimated as 80% of the actual population of patients included in the trial. It is interesting to denote that, despite of course iFISH and GEP have been used in an academic setting or using commercial providers <ref type="bibr" target="#b7">[8,</ref><ref type="bibr" target="#b16">17,</ref><ref type="bibr" target="#b22">[23]</ref><ref type="bibr" target="#b23">[24]</ref><ref type="bibr" target="#b24">[25]</ref><ref type="bibr" target="#b25">[26]</ref><ref type="bibr" target="#b26">[27]</ref><ref type="bibr" target="#b27">[28]</ref>, the question has yet not been answered if this is possible in terms of a prospective molecular analysis and reporting, as opposed to being conducted in a prospective clinical trial. Our study group sees such a proof as prerequisite for indeed planning a clinical trial based on molecular diagnostics such as GEP or RNA-sequencing.</p><p>Aims of this study were thus: (i) set up a sampling, experimental and analysis strategy to perform iFISH in ≥ 90% and GEP in ≥ 80% of patients within the first cycle of induction chemotherapy. (ii) Report to patients and physicians within this time to be able to draw a clinical consequence. (iii) Prospectively validate this strategy in the randomized phase III multicenter GMMG-MM5-trial including assessment of potential targets (based on GEP) and multimodal assessment of risk using clinical, cytogenetic, and gene expression-based prognostic factors and their integration into a metascore in clinical routine.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Methods</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Patients</head><p>Six hundred and four patients were included in the prospective, open-label, randomized multicenter phase III clinical trial (EudraCT no. 2010-019173-16) between July 2010 and November 2013. A total of 31 transplant centers and 75 associated sites throughout Germany are participating in this trial initiated by the GMMG and approved by ethics committees of the University of Heidelberg and all participating sites. The MM5 trial was conducted according to the European Clinical Trial Directive (2005) and the Declaration of Helsinki. Patients were equally randomized to each of the four treatment arms (A1, A2, B1, and B2) using block randomization, stratified by ISS stage. Treatment consisted of either three 4-week cycles of PAd (A1+B1) or three 3-week cycles of VCD (A2+B2). Thereafter, standard intensification according to local protocols (GMMG standard) was performed, including stem cell mobilization and leukapheresis followed by single high-dose therapy or, for patients not achieving near complete response (nCR) or better, tandem high-dose therapy. Subsequently, consolidation therapy consisting of two cycles of lenalidomide (25 mg, days 1-21) followed by lenalidomide maintenance (for the first 3 months, 10 mg/day continuously and thereafter 15 mg/day continuously) for either 2 years (A1+A2) or until CR (B1+B2) was applied. Patients were followed until April 2017. Trial results regarding the primary endpoint, i.e., non-inferiority of VCD vs. PAd induction treatment have already been published <ref type="bibr" target="#b28">[29]</ref>, or are currently under review. With written informed consent as depicted above, patients were simultaneously included in the pre-planned prospective conducting of advanced molecular diagnostics, i.e., iFISH and GEP.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Sampling strategy</head><p>Sixty to 80 ml of heparinized bone marrow (i.e., 3-4 × 18 ml of bone marrow plus 2 ml of heparin per syringe, aspirated with three bone marrow punctures within one anesthetized region) were drawn before the start of chemotherapy and sent to the Multiple Myeloma Research Laboratory Heidelberg by overnight express. For in-house samples, technicians of the Multiple Myeloma Research Laboratory attended the bone marrow aspiration providing assistance to the physician and allowing the fastest possible processing of the samples. Plasma cell purification including quality control and preparation of samples for iFISH (i.e., cytospins) and GEP (see below for details) were performed centrally according to our laboratory SOP immediately after the arrival of the sample. Sample submitting centers were informed electronically about the quality of the aspirate and the results of the plasma cell purification.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Purification of CD138 + plasma cells</head><p>Density gradient centrifugation of bone marrow aspirates over Ficoll Hypaque (Biochrom, Berlin, Germany) was performed to separate mononuclear cells by standard protocol. CD138 + plasma cells were isolated using anti-CD138 immunobeads and an autoMACS Pro Separator (Miltenyi Biotec, Bergisch Gladbach, Germany) as published <ref type="bibr" target="#b12">[13,</ref><ref type="bibr" target="#b20">21,</ref><ref type="bibr" target="#b29">[30]</ref><ref type="bibr" target="#b30">[31]</ref><ref type="bibr" target="#b31">[32]</ref><ref type="bibr" target="#b32">[33]</ref><ref type="bibr" target="#b33">[34]</ref><ref type="bibr" target="#b34">[35]</ref>. Purity was assessed by flow cytometry (Becton Dickinson, Heidelberg, Germany) using antibodies against CD38 (clone HB-7, FITClabeled; Becton Dickinson) and CD138 (clone B-B4, PElabeled; Miltenyi Biotec). Aliquots of CD138 + malignant plasma cells were subjected to cytospin preparation with 5000 cells per dot for iFISH analysis (n = 556 patients) and RNA/DNA extraction for gene expression profiling (n = 458).</p><p>Interphase fluorescence in situ hybridization iFISH analysis was conducted on CD138-purified plasma cells using probes for numerical changes of the chromosome regions 1q21, 5p15, 5q31 or 5q35, 8p21, 9q34, 11q22.3 or 11q23, 13q14.3, 15q22, 17p13, and 19q13, as well as translocations t(4;14)(p16.3;q32.3), t(11;14)(q13; q32.3), and t(14;16)(q32.3;q23) or any other IgH rearrangement with unknown translocation partner, according to the manufacturer's instructions (Kreatech, Amsterdam, The Netherlands and MetaSystems, Altlussheim, Germany) and data were analyzed as published <ref type="bibr" target="#b35">[36]</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Analysis of gene expression</head><p>RNA was extracted using the Qiagen AllPrep DNA/ RNA kit (Qiagen, Hilden, Germany) according to the manufacturer's instructions. Quality control and quantification of total RNA was performed using an Agilent 2100 bioanalyzer (Agilent, Frankfurt, Germany).</p><p>Gene expression profiling using U133 2.0 plus arrays (Affymetrix, Santa Clara, CA, USA) was performed as published <ref type="bibr" target="#b12">[13,</ref><ref type="bibr" target="#b31">32,</ref><ref type="bibr" target="#b32">33]</ref>. Expression data are deposited in ArrayExpress under accession number E-MTAB-2299.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Reporting of GEP-R</head><p>Our gene expression report (GEP-R) <ref type="bibr" target="#b30">[31]</ref> is a noncommercial software framework developed within the open source software environments R <ref type="bibr" target="#b36">[37]</ref> and Bioconductor <ref type="bibr" target="#b37">[38]</ref> that can be adapted to other parameters or disease entities. It includes classifications of myeloma, i.e., TC <ref type="bibr" target="#b38">[39]</ref>-, EC <ref type="bibr" target="#b39">[40]</ref>-, and molecular classification <ref type="bibr" target="#b40">[41]</ref>, risk stratification, i.e., UAMS GEP70 <ref type="bibr" target="#b13">[14]</ref>-and IFM 15gene score <ref type="bibr" target="#b14">[15]</ref>, and our gene expression-based proliferation index (GPI) <ref type="bibr" target="#b12">[13]</ref>, and assessment of target gene expression, e.g., for immunotherapeutic or individualized treatment approaches, into one report. The GEP-R runs a quality and identity control; the latter is based on prediction analysis for microarrays (PAM) <ref type="bibr" target="#b41">[42]</ref> predictors for sex, IgL (lambda, kappa), and IgH type (IgA, IgG, IgD). Results are reported as pdf document consisting of a two pages report given to the treating physician and an appendix containing details regarding the quality and identity control, as well as the assessment of gene expression. Within the GEP-R, the implemented HM metascore integrates gene expression-based and conventional prognostic factors into one prognostic classification <ref type="bibr" target="#b30">[31]</ref>. The HM metascore has already been validated by crossvalidation and an external validation cohort <ref type="bibr" target="#b30">[31]</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Statistical analysis</head><p>Effects were considered statistically significant if the Pvalue of corresponding statistical tests was below 5%. Overall (OS) and progression-free survival (PFS) were investigated using Cox's proportional hazard model as published <ref type="bibr" target="#b42">[43,</ref><ref type="bibr" target="#b43">44]</ref>. Survival curves were computed with nonparametric survival estimates for censored data using the Kaplan-Meier method <ref type="bibr" target="#b44">[45,</ref><ref type="bibr" target="#b45">46]</ref>. Difference between the curves was tested using the G-rho Log-rank test <ref type="bibr" target="#b46">[47]</ref>. A subset of 451 patients with complete prediction information was used within a 73 months period for evaluating the performance of the risk prediction models in OS analysis. Cox's proportional hazard models were used as input; for cross-validation, subsampling parameter of 301 and bootstrapping parameter of 150 were chosen. The integrated Brier score was used to assess prediction accuracy <ref type="bibr" target="#b47">[48]</ref><ref type="bibr" target="#b48">[49]</ref><ref type="bibr" target="#b49">[50]</ref>. For statistical testing, the van de Wiel test was used <ref type="bibr" target="#b49">[50]</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Results</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Feasibility of sampling and plasma cell purification</head><p>Six hundred and four patients were included in the GMMG multicenter MM5-trial between July 2010 and November 2013, with a total of 31 participating transplant centers and 75 associated sites throughout Germany. In accordance with the pre-planned prospective protocol, bone marrow aspirates at the time of inclusion in the study, i.e., before start of treatment, were available for n = 573 patients (94.9%) with a median volume of 75 ml (standard deviation (SD): 23.4), of whom we were able to successfully perform plasma cell purification followed by quality control using flow cytometry for n = 559 patients (97.6%) according to our laboratory SOP. The 31 lacking samples (5.1%) were due to patients declining the bone marrow aspiration (2.5%) or punctio sicca (2.5%) ( <ref type="figure">Fig. 1</ref>). Median purity according to CD38/ CD138 double staining was 87.9% (SD 16.5%) with a median cell number of 1.2 × 10 6 cells (SD 8.5 × 10 6 ).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Feasibility of iFISH and GEP</head><p>iFISH using cytospins from CD138-purified plasma cells was performed centrally for the trial (Multiple Myeloma Research Laboratory and Department of Human Genetics).</p><p>Cytospins were prepared with 5000 cells per dot on the day of purification and hybridized immediately thereafter. Data could be obtained for 556/573 patients with available bone marrow aspirates (97%) and 556/559 patients with available CD138-purified plasma cells, respectively (99.5%; <ref type="figure">Fig. 1</ref>). The median proportion of malignant plasma cells as per iFISH, i.e., the highest percentage of a chromosomal aberration, was 95% (SD 20%).</p><p>Samples for RNA extraction followed by quality control were collected over 2 weeks each and then subjected to gene expression profiling by DNA-microarrays. In total, n = 458 transcriptome datasets are available; i.e., 81.9% of patients with available CD138-purified plasma cells. Of these, two patients were excluded from further analysis as they did not fulfill the inclusion criteria of the trial. Gene expression profiling could not be performed in 53 cases due to low RNA quality (9.5%) and further 48 cases (8.6%) in which not enough RNA was available <ref type="figure">(Fig. 1</ref>). Gene expression data were then analyzed and reported using our previously published GEP-R <ref type="bibr" target="#b30">[31]</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Identity and quality control</head><p>In the 456 GEP-R from the intention-to-treat population, we exclude an interchange of samples using the implemented identity control. Predictors for light and heavy chain type (overall error rate 2.2% and 1.6%, respectively) as well as the sex of the patient (5.5% overall error rate, in agreement with frequent loss of the Ychromosome <ref type="bibr" target="#b50">[51]</ref>; being "female" can be predicted without error) showed comparable results in this prospectively analyzed cohort of patients if compared to the original publication (retrospectively on the validation cohort: 6%, 1%, and 4%, respectively <ref type="bibr" target="#b30">[31]</ref>). False predictions were found in 3/93 patients with IgA myeloma (3.2%) and 3/269 patients with IgG (1%) as well as 4/308 patients with kappa light chains (1.3%) and 6/148 patients with light chains type lambda (4%; Additional file 1: <ref type="table">Table S1</ref>). No sample failed in all three criteria.</p><p>As per the implemented quality control with a total of 7 quality parameters, the majority of patients showed no abnormality (339, 74.4%), 110 had a warning in one minor criterion (24.1%), 6 patients in 2 (1.3%), and 1 patient in 3 (0.2%). No patient fulfilled one of the major exclusion criteria based on previously performed QC analysis.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Risk assessment and classifications of myeloma</head><p>Fifty-three patients were predicted using the GEP-R to have a t <ref type="figure" target="#fig_2">(4;14)</ref>, corresponding to 11.6% of the total cohort with available GEP data. In five patients, iFISH and GEP showed discrepant results with the alteration being not found in iFISH. In conservative estimation, we considered the PAM-based predictor to have an overall error rate of 1.1%. Three of these patients had a clonal IgHtranslocation with an unknown translocation partner, one patient had a clonal t <ref type="bibr">(11;14)</ref>, and one patient did not have a detectable translocation involving the IgHlocus. Predicted t(4;14) status delineated significantly different median PFS of 40 vs. 26 months (P = 0.008) and median OS of not reached (NR) vs. 56 months (P = 0.003; Additional file 2: <ref type="figure">Figure S1</ref>).</p><p>Regarding the GEP70 score, 113 patients were attributed as being high risk (24.8%) and 343 (75.2%) as low risk which transmitted into significantly different median PFS of 23 vs. 43 months (P &lt; 0.001) and median OS of 41 months vs. NR (P &lt; 0.001; Additional file 2: <ref type="figure">Figure S1</ref>). The same holds true for the IFM15 score with 106 patients being high risk (23.2%) and 350 patients (76.8%) being low risk transmitting into median PFS of 25 vs. 44 months (P &lt; 0.001) and OS of 57 months vs. NR (P &lt; 0.001; Additional file 2: <ref type="figure">Figure  S1</ref>). Regarding myeloma cell proliferation, 36 (7.9%), 191 (41.9%), and 229 (50.2%) patients were attributed as being GPI high , GPI medium , and GPI low , respectively with significantly different median PFS of 18 vs. 33 vs. 49 months (P &lt; 0.001) and median OS of 33 vs. 76 months vs. NR (P &lt; 0.001; Additional file 2: <ref type="figure">Figure S1</ref>).</p><p>The percentages of patients identified as being of high risk by conventional prognostic factors, gene expressionbased risk scores or proliferation (GPI), as well as metascores and the overlap of the respective groups of patients are shown in <ref type="table">Table 1</ref> and <ref type="figure" target="#fig_0">Fig. 2</ref>.</p><p>For the results of grouping myeloma into different subentities, see Additional file 2: <ref type="figure" target="#fig_0">Figure S2</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Target assessment</head><p>Expression height and presence/absence of expression were assessed for (i) examples of potential "target genes." As the aim of our manuscript was prospective testing of the GEP-R, these examples include AURKA, FGFR3, and IGF1R, for which at that time potential clinical grade inhibitors were foreseen, (ii) potential targets for immunotherapy, i.e., cancer testis antigens like CTAG1, MAGE1, and HM1.24, and (iii) genes frequently <ref type="figure">Fig. 1</ref> Feasibility of plasma cell purification, iFISH, and gene expression profiling within the GMMG-MM5 trial. Percentages are given for feasibility of plasma cell purification (ALL) as well as performing of interphase fluorescence in situ hybridization (iFISH) and gene expression profiling (GEP) using DNA-microarrays. For the latter two, columns refer to both all patients and those for which purified plasma cells were available. BM(A), bone marrow (aspiration); na, not available <ref type="table">Table 1</ref> Delineation of "high-risk" patients by the respective variables and scores</p><p>The percentages of patients identified as being of high risk (first column) and the overlap of the respective groups of patients are shown GPI, gene expression-based proliferation index; (r)ISS, (revised) International Staging System aberrantly or differentially expressed in myeloma. In our cohort of 456 patients from the intention-to-treat population for which a GEP-R is available, 197 were found to express AURKA (43.2%), 151 IGF1R (33.1%), and 50 FGFR3 (11%), respectively. In the same way, candidates for personalized treatment approaches, given the availability of respective inhibitors, could be addressed.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Metascoring</head><p>The HM metascore had already been validated on an external cohort as part of its initial set up <ref type="bibr" target="#b30">[31]</ref>. In prospective testing, 58 myeloma patients were classified as being low risk (12.7%), 352 as medium risk (77.2%), and 46 were attributed as being high risk (10.1%). This transmitted into significant different median PFS of NR vs. 39 vs. 15 months (P &lt; 0.001) and OS of NR vs. NR vs. 41 months (P &lt; 0.001). At 5 years, survival rate was 98% vs. 68% vs. 25% and 57 (98.2%) vs. 253 (71.8%) vs. 15 (32.6%) patients were still alive <ref type="figure" target="#fig_1">(Fig. 3)</ref>.</p><p>Applying the rISS as the current gold standard, 150 patients were classified as being rISS I (27.8%), 317 as rISS II (58.9%), and 71 were attributed as rISS III (13.2%), respectively, transmitting into significant different median PFS of 54 vs. 37 vs. 22 months (P &lt; 0.001) and median OS of NR vs. NR vs. 41 months (P&lt; 0.001). Five-year PFS and OS-rates for rISS I/II/III were 44/30/18% and 86/65/40%, respectively <ref type="figure" target="#fig_1">(Fig. 3)</ref>. Forest plots summarizing the prognostic impact of individual factors and metascores (i.e., rISS and HM metascore) can be found in <ref type="figure" target="#fig_2">Fig. 4</ref>.</p><p>An integrated Brier score was calculated to assess prediction accuracy. The overall predictive value for OS from 0 to 73 months is best for the HM metascore (0.132) compared to rISS (0.137) or other GEP-based scores, i.e., the GEP70-(0.139), IFM15 models (0.14), or Reference (0.148), respectively <ref type="figure" target="#fig_3">(Fig. 5)</ref>. Differences between the HM metascore and the other models were, however, not statistically significant. Likewise, differences between the "conventional" ISS and rISS were not significantly different.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Discussion</head><p>Personalized and risk-adapted treatment strategies in multiple myeloma prerequisite the feasibility of prospective assessment, reporting of targets and prediction of survival probability in clinical routine-in a "high enough" percentage of patients. Besides, they also necessitate the availability of treatment options that can indeed be applied in a personalized manner (see below). Based on statistical power calculations for subsequent trials, we defined the thresholds as 90% for iFISH and 80% for GEP-based assessment.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Can you do it in clinical routine?</head><p>Despite iFISH, GEP and RNA-sequencing have been used in academic setting or using commercial providers, to the best of our knowledge, no data is available regarding a prospective molecular analysis and reporting in clinical routine in a way that this could be used for personalized and risk-adapted treatment strategies, e.g., during the first cycle of induction chemotherapy. This is a different setting from being able to run advanced molecular diagnostics in a prospective trial in a subpopulation of patients which has frequently been shown by others and us <ref type="bibr" target="#b7">[8,</ref><ref type="bibr" target="#b16">17,</ref><ref type="bibr" target="#b22">[23]</ref><ref type="bibr" target="#b23">[24]</ref><ref type="bibr" target="#b24">[25]</ref><ref type="bibr" target="#b25">[26]</ref><ref type="bibr" target="#b26">[27]</ref><ref type="bibr" target="#b27">[28]</ref>.</p><p>In our GMMG-MM5 trial, consenting to bone marrow aspiration and molecular analyses was not a prerequisite to participate in the trial, in contrast, e.g., to the total therapy 4 and 5 trial with mandatory GEP data <ref type="bibr" target="#b7">[8,</ref><ref type="bibr" target="#b22">23]</ref>, as it did not imply any up-front clinical consequences. Nonetheless, 95% of patients agreed to bone marrow aspiration at inclusion in the trial. This rate was driven by a high motivation of participating centers and physicians to explain patients planned analyses and the usefulness of translational research in multiple myeloma, and a concomitant intrinsic willingness of patients to participate. At the same time, we motivated participating  <ref type="table">Table 1</ref> for details and further prognostic factors. rISS, International Staging System; GPI, gene expression-based proliferation index centers by direct feedback of sample quality and result of purification, as well as iFISH and GEP (see below). The set-up of our sampling and analysis strategy allowed performing iFISH in 97% and GEP in 80% of patients with available bone marrow samples. This compares favorably to iFISH results reported by the EMN02/HOVON95-trial (74.1%) <ref type="bibr" target="#b51">[52]</ref>, IFM2009-trial (73.6%) <ref type="bibr" target="#b52">[53]</ref>, DSMM XI-trial (73.7%) <ref type="bibr" target="#b53">[54]</ref>, SWOG S0777-trial (60.2%) <ref type="bibr" target="#b54">[55]</ref>, or a pooled analysis of three PETHEMA/GEM clinical trials, i.e., GEM2000, GEM2005MENOS65, and GEM2010MAS65 (60.8%) <ref type="bibr" target="#b55">[56]</ref>, which were conducted during a comparable time frame. We have therefore for the first time validated prospectively in a randomized phase III multicenter trial the possibility to perform not only cytogenetic (including rISS) but also gene expression-based risk stratification and reporting in &gt; 80% of patients during the first cycle of induction chemotherapy as-potentially-molecular riskadapted, personalized treatment strategy.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Why would you want to do it?</head><p>Besides risk stratification which can be done by both iFISH and GEP <ref type="bibr" target="#b19">[20]</ref>, the specific benefit of gene expression profiling, either by DNA-microarrays as in this trial or by RNA-sequencing, lies in the additional ability to identify target gene expression. In our analysis, this was intended for immunological targets and those for which small molecules or antibodies existed, e.g., Aurorakinase A (VX-680 <ref type="bibr" target="#b20">[21]</ref>), IGF1-receptor (e.g., AVE1642 <ref type="bibr" target="#b56">[57]</ref>), or FGF3R (e.g., CHIR-258 <ref type="bibr" target="#b57">[58]</ref>). AURKA was selected at this point in time when the GEP-R was developed as we had previously shown it to be expressed in approx. 30% of previously untreated myeloma patients and is associated with adverse survival <ref type="bibr" target="#b20">[21]</ref>. IGF1R-inhibition was selected due to its importance as myeloma growth factor and impact on patient survival <ref type="bibr" target="#b21">[22,</ref><ref type="bibr" target="#b58">59]</ref>. As our aim was the prospective testing of our approach, we retained both factors also in the HM metascore, even given that neither will in 2019 be used as a clinical target. Here, it was our intention to give the proof-of-principle for prospective advanced molecular diagnostics of targets and reporting in clinical routine; in this way, the GEP-R is depicted and should be interpreted. Novel targets for which clinical grade inhibitors become available or immunological targets can be added to the assessment due to the adaptable surface of our reporting tool (GEP-R) <ref type="bibr" target="#b30">[31]</ref>. Without a doubt, actual implementation necessitates standardization and either commercial or academic development of an actual molecular diagnostics test. Although this is beyond the scope of our manuscript, we show here that such a strategy is in principle feasible.</p><p>Alongside the principle possibility of running advanced molecular profiling and depiction of potential targets for individualized treatment, assessment of risk was the third main objective of our study. Here, many prognostic factors have been described with the ongoing discussion of which to include <ref type="bibr" target="#b18">[19,</ref><ref type="bibr" target="#b19">20]</ref>. This leaves the treating physician with a plethora of information that is difficult to consolidate intending counseling patients and drawing a clinical conclusion. Metascoring appears as an appropriate strategy <ref type="bibr" target="#b17">[18,</ref><ref type="bibr" target="#b30">31,</ref><ref type="bibr" target="#b59">60,</ref><ref type="bibr" target="#b60">61]</ref> to overcome this, and we show that this is likewise possible in a randomized clinical trial setting. Regarding the molecular techniques used in the metascore, i.e., iFISH and GEP, we choose to include both due to in part non-overlapping prognostic information, e.g., it is not possible to predict del17p13 at a high-enough accuracy by GEP <ref type="bibr" target="#b61">[62]</ref>. The actual (good) prediction result of our metascore per se is thereby not the main focus of our analysis. Nonetheless, even with this "2010 choice" regarding risk factors and target genes, metascoring including GEPbased risk assessment is superior in numbers to rISS, although not statistically so. The same however holds true for a comparison of rISS to ISS even on our comparably large cohort of patients.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Can we do better?</head><p>For a molecular diagnostics-based trial, bone marrow assessment, submission of bone marrow of sufficient quality and quantity are mandatory prerequisites. Based on our optimized protocol, data in terms of purity and cell number could be further improved within the prospective multicenter GMMG-HD6 trial (NCT02495922) recruiting 564 patients between June 2015 and September 2017 to a median purity of 94.5% (SD 13.2%) and 1.4 × 10 6 (SD 34.8 × 10 6 ) purified plasma cells. Future directions comprise the optimization of patient recruitment and sampling strategy in terms of mandatory bone marrow aspiration as inclusion criterion as defined above and replacement of GEP by RNA-sequencing, currently tested in our BMBF-funded CLIOMMICS-project. RNAsequencing has several advantages over GEP using microarrays <ref type="bibr" target="#b62">[63,</ref><ref type="bibr" target="#b63">64]</ref>: (i) it provides quantification of levels of transcripts without significant saturation effects, (ii) it does not prerequisite a priori definition of sequences to be analyzed (as are, e.g., Affymetrix "probesets") and thus allows detection of mutated transcripts, e.g., targetable BRAF-mutations. Likewise, transcripts, for which initially incorrect sequences were assumed, and thus corresponding probesets do not interrogate the transcript of interest, can be analyzed. (iii) RNA-sequencing enables the analysis of splice variants, as well as (iv) the investigation of other RNA types, for example, miRNAs <ref type="bibr" target="#b64">[65]</ref>, and (v) it can routinely be performed from as low input as 10 pg of total RNA compared to about 100 ng for microarrays and a double amplification protocol <ref type="bibr" target="#b62">[63]</ref>. The latter is especially important, as the amount of RNA did not permit an analysis by GEP in approx. ten percent of patients in the GMMG-MM5 trial. Despite these advantages, there are also several caveats and challenges including data storage and handling due to the large size of RNAsequencing raw datasets, time-consuming bioinformatics analysis, and less standardization <ref type="bibr" target="#b63">[64,</ref><ref type="bibr" target="#b65">66,</ref><ref type="bibr" target="#b66">67]</ref>. </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Conclusion</head><p>In conclusion, using an elaborated sampling, experimental and analysis strategy as reported here, we show for the first time that it is possible to prospectively perform and report molecular analyses in a randomized phase III multicenter trial in over 90% (iFISH) and 80% (GEP) of patients, respectively, within the first cycle of induction chemotherapy. Therefore, we validate that a trial strategy using either of the methods is possible, including reporting of potentially actionable targets. Risk assessment using our HM metascore allows to stratify patients with excellent/intermediate/adverse PFS and OS with survival rates of 98% vs. 68% vs. 25%, respectively, after 5 years. In comparison to the rates by rISS of 86% vs. 65% vs. 40%, respectively, both groups with better as well as more adverse survival are delineated by the HM metascore.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>Fig. 2</head><label>2</label><figDesc>Overlap of patients identified as being of high risk by conventional prognostic factors, gene expression-based risk scores or proliferation, and metascores. Venn diagrams showing overlap of patients identified as being of high risk by a gene expression-based risk scores or proliferation, i.e., GEP70, IFM15 scores, and GPI, as well as HM metascore and b GEP70, IFM15 scores, GPI, and rISS. See</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head>Fig. 3</head><label>3</label><figDesc>Prognostic impact of HM metascore and rISS. Shown are progression-free (PFS) and overall survival (OS) for a our HM metacore as well as b the revised International Staging System (rISS)</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_2"><head>Fig. 4</head><label>4</label><figDesc>Forest plots. Forest plots summarizing the prognostic impact of individual factors and metascores (i.e., revised International Staging System (rISS) and HM metascore) in terms of a progression-free and b overall survival. GPI, gene expression-based proliferation index. The hazard ratios are shown on a log scale</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_3"><head>Fig. 5</head><label>5</label><figDesc>Brier score. Integrated Brier score assessing accuracy of prediction for HM metascore vs. a revised International Staging System (rISS), b GEP70 score, and c IFM15 score compared to the reference. Brier scores (prediction error) as well as P values for the different comparisons are given (bottom right, respectively) for overall survival are given</figDesc></figure>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Acknowledgements</head><p>The authors thank Maria Dörner, Ewelina Nickel, and Birgit Schneiders for technical assistance in the enrichment of CD138-positive plasma cells, Tine Borowski, Michaela Brough, Michelle Ebentheuer, Marie-Christine Meffert, and Stephanie Pschowski-Zuck for technical assistance in iFISH, Véronique Pantesco for performing DNA-microarrays, Sybille Seyfried for assistance in patient documentation, as well as the Transcriptomics Platform at INSERM Montpellier.</p></div>
+			</div>
+
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Additional files</head><p>Additional file 1: <ref type="table">Table S1</ref>. PAM-based prediction error for light and heavy chain type as well as the sex of the patient. (PDF 1187 kb) Additional file 2: <ref type="figure">Figure S1</ref>. Gene expression-based risk assessment as implemented in the GEP-R. <ref type="figure">Figure S2</ref>. Grouping myeloma into different subentities as implemented in the GEP-R. (PDF 1044 kb)</p><p>Authors' contributions AS and DH contributed to conception and design. UB gave administrative support. HS, MH, CS, KW, MSR, HG, and DH were responsible for the provision of study materials or patients. DH, SB, ME, UB, TH, CK, AJ, JM, and AS helped in the collection and assembly of data. AS, SB, and DH helped in the data analysis and interpretation, and manuscript writing. All authors read and approved the final manuscript.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Funding</head><p>This work was supported by the German Federal Ministry of Education (BMBF) "CAMPSIMM" (01ES1103).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Availability of data and materials</head><p>The dataset supporting the conclusions of this article is available in the ArrayExpress repository under accession number E-MTAB-2299.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Ethics approval and consent to participate</head><p>The GMMG-MM5 trial was approved by ethics committees of the University of Heidelberg and all participating sites. It was conducted according to the European Clinical Trial Directive (2005) and the Declaration of Helsinki.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Consent for publication</head><p>Not applicable.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Competing interests</head><p>The authors declare that they have no competing interest.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Publisher's Note</head><p>Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.</p></div>			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Multiple myeloma</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><forename type="middle">A</forename><surname>Kyle</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><forename type="middle">V</forename><surname>Rajkumar</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">N Engl J Med</title>
+		<imprint>
+			<biblScope unit="volume">351</biblScope>
+			<biblScope unit="page" from="1860" to="73" />
+			<date type="published" when="2004" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Bortezomib induction and maintenance treatment in patients with newly diagnosed multiple myeloma: results of the randomized phase III HOVON-65/ GMMG-HD4 trial</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><surname>Sonneveld</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">I</forename><forename type="middle">G</forename><surname>Schmidt-Wolf</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">B</forename><surname>Van Der Holt</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">El</forename><surname>Jarari</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">L</forename><surname>Bertsch</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">U</forename><surname>Salwender</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Clin Oncol</title>
+		<imprint>
+			<biblScope unit="volume">30</biblScope>
+			<biblScope unit="page" from="2946" to="55" />
+			<date type="published" when="2012" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Updated outcomes and impact of age with lenalidomide and low-dose dexamethasone or melphalan, prednisone, and thalidomide in the randomized, phase III FIRST Trial</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><surname>Hulin</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Belch</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><surname>Shustik</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">T</forename><surname>Petrucci</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">U</forename><surname>Duhrsen</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Lu</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Clin Oncol</title>
+		<imprint>
+			<biblScope unit="volume">34</biblScope>
+			<biblScope unit="page" from="3609" to="3626" />
+			<date type="published" when="2016" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Targeting CD38 with daratumumab monotherapy in multiple myeloma</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><forename type="middle">M</forename><surname>Lokhorst</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Plesner</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">P</forename><surname>Laubach</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><surname>Nahi</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><surname>Gimsing</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Hansson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">N Engl J Med</title>
+		<imprint>
+			<biblScope unit="volume">373</biblScope>
+			<biblScope unit="page" from="1207" to="1226" />
+			<date type="published" when="2015" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Highdose chemotherapy with hematopoietic stem-cell rescue for multiple myeloma</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">A</forename><surname>Child</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">G</forename><forename type="middle">J</forename><surname>Morgan</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">F</forename><forename type="middle">E</forename><surname>Davies</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><forename type="middle">G</forename><surname>Owen</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><forename type="middle">E</forename><surname>Bell</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><surname>Hawkins</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">N Engl J Med</title>
+		<imprint>
+			<biblScope unit="volume">348</biblScope>
+			<biblScope unit="page" from="1875" to="83" />
+			<date type="published" when="2003" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Curing myeloma at last: defining criteria and providing the evidence</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">B</forename><surname>Barlogie</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Mitchell</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">F</forename><surname>Van Rhee</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Epstein</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">G</forename><forename type="middle">J</forename><surname>Morgan</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Crowley</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Blood</title>
+		<imprint>
+			<biblScope unit="volume">124</biblScope>
+			<biblScope unit="page" from="3043" to="51" />
+			<date type="published" when="2014" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Bortezomib before and after high-dose therapy in myeloma: long-term results from the phase III HOVON-65/GMMG-HD4 trial</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><surname>Goldschmidt</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><forename type="middle">M</forename><surname>Lokhorst</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><forename type="middle">K</forename><surname>Mai</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">B</forename><surname>Van Der Holt</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">I</forename><forename type="middle">W</forename><surname>Blau</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Zweegman</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Leukemia</title>
+		<imprint>
+			<biblScope unit="volume">32</biblScope>
+			<biblScope unit="page" from="383" to="90" />
+			<date type="published" when="2018" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Dose-dense and less dose-intense total therapy 5 for gene expression profiling-defined high-risk multiple myeloma</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Y</forename><surname>Jethava</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Mitchell</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Zangari</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Waheed</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><surname>Schinke</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Thanendrarajan</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Blood Cancer J</title>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="page">471</biblScope>
+			<date type="published" when="2016" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Management of newly diagnosed symptomatic multiple myeloma: updated Mayo Stratification of Myeloma and Risk-Adapted Therapy (mSMART) consensus guidelines</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><forename type="middle">K</forename><surname>Kumar</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">R</forename><surname>Mikhael</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">F</forename><forename type="middle">K</forename><surname>Buadi</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><surname>Dingli</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Dispenzieri</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><surname>Fonseca</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Mayo Clin Proc</title>
+		<imprint>
+			<biblScope unit="volume">84</biblScope>
+			<biblScope unit="page" from="1095" to="110" />
+			<date type="published" when="2009" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Revised international staging system for multiple myeloma: a report from International Myeloma Working Group</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Palumbo</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><surname>Avet-Loiseau</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Oliva</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><forename type="middle">M</forename><surname>Lokhorst</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><surname>Goldschmidt</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">L</forename><surname>Rosinol</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Clin Oncol</title>
+		<imprint>
+			<biblScope unit="volume">33</biblScope>
+			<biblScope unit="page" from="2863" to="2872" />
+			<date type="published" when="2015" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Combining information regarding chromosomal aberrations t(4;14) and del(17p13) with the International Staging System classification allows stratification of myeloma patients undergoing autologous stem cell transplantation</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><surname>Neben</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Jauch</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">U</forename><surname>Bertsch</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><surname>Heiss</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Hielscher</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Seckinger</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Haematologica</title>
+		<imprint>
+			<biblScope unit="volume">95</biblScope>
+			<biblScope unit="page" from="1150" to="1157" />
+			<date type="published" when="2010" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Combining fluorescent in situ hybridization data with ISS staging improves risk assessment in myeloma: an International Myeloma Working Group collaborative project</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><surname>Avet-Loiseau</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">B</forename><forename type="middle">G</forename><surname>Durie</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Cavo</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Attal</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">N</forename><surname>Gutierrez</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Haessler</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Leukemia</title>
+		<imprint>
+			<biblScope unit="volume">27</biblScope>
+			<biblScope unit="page" from="711" to="718" />
+			<date type="published" when="2013" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Proliferation is a central independent prognostic factor and target for personalized and risk adapted treatment in multiple myeloma</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><surname>Hose</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Reme</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Hielscher</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Moreaux</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Meissner</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Seckinger</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Haematologica</title>
+		<imprint>
+			<biblScope unit="volume">96</biblScope>
+			<biblScope unit="page" from="87" to="95" />
+			<date type="published" when="2011" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">A validated gene expression model of high-risk multiple myeloma is defined by deregulated expression of genes mapping to chromosome 1</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">D</forename><surname>Shaughnessy</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">F</forename><surname>Zhan</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">B</forename><forename type="middle">E</forename><surname>Burington</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Y</forename><surname>Huang</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Colla</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">I</forename><surname>Hanamura</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Blood</title>
+		<imprint>
+			<biblScope unit="volume">109</biblScope>
+			<biblScope unit="page" from="2276" to="84" />
+			<date type="published" when="2007" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">Prediction of survival in multiple myeloma based on gene expression profiles reveals cell cycle and chromosomal instability signatures in high-risk patients and hyperdiploid signatures in low-risk patients: a study of the Intergroupe Francophone du Myélome</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">O</forename><surname>Decaux</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">L</forename><surname>Lodé</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">F</forename><surname>Magrangeas</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><surname>Charbonnel</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">W</forename><surname>Gouraud</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><surname>Jézéquel</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Clin Oncol</title>
+		<imprint>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="page" from="4798" to="805" />
+			<date type="published" when="2008" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Modeling risk stratification in human cancer</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Reme</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><surname>Hose</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><surname>Theillet</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">B</forename><surname>Klein</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Bioinformatics</title>
+		<imprint>
+			<biblScope unit="volume">29</biblScope>
+			<biblScope unit="page" from="1149" to="57" />
+			<date type="published" when="2013" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">A gene expression signature for high-risk multiple myeloma</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><surname>Kuiper</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Broyl</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Y</forename><surname>De Knegt</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">H</forename><surname>Van Vliet</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><forename type="middle">H</forename><surname>Van Beers</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">B</forename><surname>Van Der Holt</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Leukemia</title>
+		<imprint>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="page" from="2406" to="2419" />
+			<date type="published" when="2012" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Gene signature combinations improve prognostic stratification of multiple myeloma patients</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">W</forename><forename type="middle">J</forename><surname>Chng</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><forename type="middle">H</forename><surname>Chung</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Kumar</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Usmani</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">N</forename><surname>Munshi</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><surname>Avet-Loiseau</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Leukemia</title>
+		<imprint>
+			<biblScope unit="volume">30</biblScope>
+			<biblScope unit="page" from="1071" to="1079" />
+			<date type="published" when="2016" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">IMWG consensus on risk stratification in multiple myeloma</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">W</forename><forename type="middle">J</forename><surname>Chng</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Dispenzieri</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><forename type="middle">S</forename><surname>Chim</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><surname>Fonseca</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><surname>Goldschmidt</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Lentzsch</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Leukemia</title>
+		<imprint>
+			<biblScope unit="volume">28</biblScope>
+			<biblScope unit="page" from="269" to="77" />
+			<date type="published" when="2014" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">International Myeloma Working Group molecular classification of multiple myeloma: spotlight review</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><surname>Fonseca</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><forename type="middle">L</forename><surname>Bergsagel</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Drach</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Shaughnessy</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">N</forename><surname>Gutierrez</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><forename type="middle">K</forename><surname>Stewart</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Leukemia</title>
+		<imprint>
+			<biblScope unit="volume">23</biblScope>
+			<biblScope unit="page" from="2210" to="2231" />
+			<date type="published" when="2009" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">Inhibition of aurora kinases for tailored risk-adapted treatment of multiple myeloma</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><surname>Hose</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Rème</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Meissner</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Moreaux</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Seckinger</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Lewis</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Blood</title>
+		<imprint>
+			<biblScope unit="volume">113</biblScope>
+			<biblScope unit="page" from="4331" to="4371" />
+			<date type="published" when="2009" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">The role of IGF-1 as a major growth factor for myeloma cell lines and the prognostic relevance of the expression of its receptor</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><forename type="middle">C</forename><surname>Sprynski</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><surname>Hose</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">L</forename><surname>Caillot</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Reme</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">D</forename><surname>Shaughnessy</surname><genName>Jr</genName></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">B</forename><surname>Barlogie</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Blood</title>
+		<imprint>
+			<biblScope unit="volume">113</biblScope>
+			<biblScope unit="page" from="4614" to="4640" />
+			<date type="published" when="2009" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">Adverse metaphase cytogenetics can be overcome by adding bortezomib and thalidomide to fractionated melphalan transplants</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Y</forename><forename type="middle">S</forename><surname>Jethava</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Mitchell</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Epstein</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Zangari</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Yaccoby</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><surname>Tian</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Clin Cancer Res</title>
+		<imprint>
+			<biblScope unit="volume">23</biblScope>
+			<biblScope unit="page" from="2665" to="72" />
+			<date type="published" when="2017" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title level="a" type="main">Administration of bortezomib before and after autologous stem cell transplantation improves outcome in multiple myeloma patients with deletion 17p</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><surname>Neben</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><forename type="middle">M</forename><surname>Lokhorst</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Jauch</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">U</forename><surname>Bertsch</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Hielscher</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">B</forename><surname>Van Der Holt</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Blood</title>
+		<imprint>
+			<biblScope unit="volume">119</biblScope>
+			<biblScope unit="page" from="940" to="948" />
+			<date type="published" when="2012" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title level="a" type="main">Development and validation of a cytogenetic prognostic index predicting survival in multiple myeloma</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Perrot</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">V</forename><surname>Lauwers-Cances</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><surname>Tournay</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><surname>Hulin</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">L</forename><surname>Chretien</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">B</forename><surname>Royer</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Clin Oncol</title>
+		<imprint>
+			<biblScope unit="page">1800776</biblScope>
+			<date type="published" when="2019" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title level="a" type="main">Differential effect of upfront intensification treatment in genetically defined myeloma risk groups-a combined analysis of ISS, Del17p and SKY92 Scores in the EMN-02/HOVON-95 MM Trial</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Hofste</forename><surname>Op Bruinink</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><surname>Van Duin</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Beksac</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Driessen</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><surname>Ludwig</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><surname>Vermeulen</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Blood</title>
+		<imprint>
+			<biblScope unit="volume">132</biblScope>
+			<biblScope unit="page">3186</biblScope>
+			<date type="published" when="2018" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title level="a" type="main">Improving outcomes for patients with high-risk myeloma via prospective trial evidence: The Myeloma UK &lt;em&gt;Nine Optimum&lt;/em&gt; Trial</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><forename type="middle">L</forename><surname>Sherborne</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">V</forename><surname>Shah</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Ellis</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">F</forename><surname>Begum</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Kendall</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><forename type="middle">C</forename><surname>Johnson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Blood</title>
+		<imprint>
+			<biblScope unit="volume">130</biblScope>
+			<biblScope unit="page">1767</biblScope>
+			<date type="published" when="2017" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+		<title level="a" type="main">Mmprofiler with SKY92 Combined with ISS Identifies High and Low Risk Multiple Myeloma in the VTD Arm of Gimema-MMY-3006</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><forename type="middle">H</forename><surname>Van Beers</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><surname>Terragna</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Martello</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><surname>Zamagni</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Cavo</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">H</forename><surname>Van Vliet</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Blood</title>
+		<imprint>
+			<biblScope unit="volume">130</biblScope>
+			<biblScope unit="page">4358</biblScope>
+			<date type="published" when="2017" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<analytic>
+		<title level="a" type="main">Phase III trial of bortezomib, cyclophosphamide and dexamethasone (VCD) versus bortezomib, doxorubicin and dexamethasone (PAd) in newly diagnosed myeloma</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><forename type="middle">K</forename><surname>Mai</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">U</forename><surname>Bertsch</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Durig</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><surname>Kunz</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Haenel</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">I</forename><forename type="middle">W</forename><surname>Blau</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Leukemia</title>
+		<imprint>
+			<biblScope unit="volume">29</biblScope>
+			<biblScope unit="page" from="1721" to="1730" />
+			<date type="published" when="2015" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<analytic>
+		<title level="a" type="main">Induction of angiogenesis by normal and malignant plasma cells</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><surname>Hose</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Moreaux</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Meissner</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Seckinger</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><surname>Goldschmidt</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Benner</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Blood</title>
+		<imprint>
+			<biblScope unit="volume">114</biblScope>
+			<biblScope unit="page" from="128" to="171" />
+			<date type="published" when="2009" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<analytic>
+		<title level="a" type="main">Gene expression profiling in multiple myeloma-reporting of entities, risk, and targets in clinical routine</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Meißner</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Seckinger</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Rème</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Hielscher</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Möhler</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><surname>Neben</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Clin Cancer Res</title>
+		<imprint>
+			<biblScope unit="volume">17</biblScope>
+			<biblScope unit="page" from="7240" to="7247" />
+			<date type="published" when="2011" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<analytic>
+		<title level="a" type="main">Target expression, generation, preclinical activity, and Pharmacokinetics of the BCMA-T cell bispecific antibody EM801 for multiple myeloma treatment</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Seckinger</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">A</forename><surname>Delgado</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Moser</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">L</forename><surname>Moreno</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">B</forename><surname>Neuber</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Grab</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Cancer Cell</title>
+		<imprint>
+			<biblScope unit="volume">31</biblScope>
+			<biblScope unit="page" from="396" to="410" />
+			<date type="published" when="2017" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<analytic>
+		<title level="a" type="main">Clinical and prognostic role of annexin A2 in multiple myeloma</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Seckinger</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Meißner</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Moreaux</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><surname>Depeweg</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Hillengass</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><surname>Hose</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Blood</title>
+		<imprint>
+			<biblScope unit="volume">120</biblScope>
+			<biblScope unit="page" from="1087" to="94" />
+			<date type="published" when="2012" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<analytic>
+		<title level="a" type="main">Bone morphogenic protein 6: a member of a novel class of prognostic factors expressed by normal and malignant plasma cells inhibiting proliferation and angiogenesis</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Seckinger</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Meissner</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Moreaux</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><surname>Goldschmidt</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">G</forename><forename type="middle">M</forename><surname>Fuhler</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Benner</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Oncogene</title>
+		<imprint>
+			<biblScope unit="volume">28</biblScope>
+			<biblScope unit="page" from="3866" to="79" />
+			<date type="published" when="2009" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<analytic>
+		<title level="a" type="main">CD38 as Immunotherapeutic target in light chain amyloidosis and multiple myeloma-association with molecular entities, risk, survival, and mechanisms of upfront resistance</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Seckinger</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Hillengass</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Emde</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Beck</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><surname>Kimmich</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Dittrich</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Frontiers in Immunology</title>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<date type="published" when="2018" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b35">
+	<analytic>
+		<title level="a" type="main">Progression in smoldering myeloma is independently determined by the chromosomal abnormalities del(17p), t(4;14), Gain 1q, Hyperdiploidy, and Tumor Load</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><surname>Neben</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Jauch</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Hielscher</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Hillengass</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">N</forename><surname>Lehners</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Seckinger</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Clin Oncol</title>
+		<imprint>
+			<biblScope unit="volume">31</biblScope>
+			<biblScope unit="page" from="4325" to="4357" />
+			<date type="published" when="2013" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b36">
+	<monogr>
+		<title level="m" type="main">R: A language and environment for statistical computing. Vienna: R Foundation for Statistical Computing</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R-Development-Core-Team</forename></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2008" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b37">
+	<analytic>
+		<title level="a" type="main">Bioconductor: open software development for computational biology and bioinformatics</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><forename type="middle">C</forename><surname>Gentleman</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">V</forename><forename type="middle">J</forename><surname>Carey</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><forename type="middle">M</forename><surname>Bates</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">B</forename><surname>Bolstad</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Dettling</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Dudoit</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Genome Biol</title>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="page">80</biblScope>
+			<date type="published" when="2004" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b38">
+	<analytic>
+		<title level="a" type="main">Cyclin D dysregulation: an early and unifying pathogenic event in multiple myeloma</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><forename type="middle">L</forename><surname>Bergsagel</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">W</forename><forename type="middle">M</forename><surname>Kuehl</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">F</forename><surname>Zhan</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Sawyer</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">B</forename><surname>Barlogie</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Shaughnessy</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Blood</title>
+		<imprint>
+			<biblScope unit="volume">106</biblScope>
+			<biblScope unit="page" from="296" to="303" />
+			<date type="published" when="2005" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b39">
+	<analytic>
+		<title level="a" type="main">Molecular classification of multiple myeloma (MM) based on gene expression profiling (GEP) and fluorescence in situ hybridisation (FISH) is an independent predictor for event free survival (EFS)</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><surname>Hose</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J-F</forename><surname>Rossi</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><surname>Ittrich</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Devos</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Ršme</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Benner</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Blood</title>
+		<imprint>
+			<biblScope unit="volume">106</biblScope>
+			<biblScope unit="page">150</biblScope>
+			<date type="published" when="2005" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b40">
+	<analytic>
+		<title level="a" type="main">The molecular classification of multiple myeloma</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">F</forename><surname>Zhan</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Y</forename><surname>Huang</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Colla</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">P</forename><surname>Stewart</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">I</forename><surname>Hanamura</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Gupta</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Blood</title>
+		<imprint>
+			<biblScope unit="volume">108</biblScope>
+			<biblScope unit="page" from="2020" to="2028" />
+			<date type="published" when="2006" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b41">
+	<analytic>
+		<title level="a" type="main">Diagnosis of multiple cancer types by shrunken centroids of gene expression</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><surname>Tibshirani</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Hastie</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">B</forename><surname>Narasimhan</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">G</forename><surname>Chu</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Proc Natl Acad Sci U S A</title>
+		<imprint>
+			<biblScope unit="volume">99</biblScope>
+			<biblScope unit="page" from="6567" to="72" />
+			<date type="published" when="2002" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b42">
+	<monogr>
+		<title level="m" type="main">Modeling survival data: extending the Cox model</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><forename type="middle">M</forename><surname>Therneau</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><forename type="middle">M</forename><surname>Grambsch</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2000" />
+			<publisher>Springer-Verlag</publisher>
+			<biblScope unit="page">350</biblScope>
+			<pubPlace>New York</pubPlace>
+		</imprint>
+	</monogr>
+	<note>Modeling Survival Data: Extending the Cox Model</note>
+</biblStruct>
+
+<biblStruct xml:id="b43">
+	<analytic>
+		<title level="a" type="main">Cox&apos;s Regression Model for Counting Processes: A Large Sample Study</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><forename type="middle">K</forename><surname>Andersen</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><forename type="middle">D</forename><surname>Gill</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Annals of Statistics</title>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="page" from="1100" to="1120" />
+			<date type="published" when="1982" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b44">
+	<analytic>
+		<title level="a" type="main">Nonparametric estimation of the survival distribution in censored data</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><forename type="middle">R</forename><surname>Fleming</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><forename type="middle">P</forename><surname>Harrington</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Comm in Stat Theory and Methods</title>
+		<imprint>
+			<biblScope unit="volume">13</biblScope>
+			<biblScope unit="page" from="2469" to="86" />
+			<date type="published" when="1984" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b45">
+	<analytic>
+		<title level="a" type="main">Nonparametric estimation from incomplete observations</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><forename type="middle">L</forename><surname>Kaplan</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><surname>Meier</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of the American Statistical Association</title>
+		<imprint>
+			<biblScope unit="volume">53</biblScope>
+			<biblScope unit="page" from="457" to="81" />
+			<date type="published" when="1958" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b46">
+	<analytic>
+		<title level="a" type="main">A class of rank test procedures for censored survival data</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><forename type="middle">P</forename><surname>Harrington</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><forename type="middle">R</forename><surname>Fleming</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Biometrika</title>
+		<imprint>
+			<biblScope unit="volume">69</biblScope>
+			<biblScope unit="page" from="553" to="66" />
+			<date type="published" when="1982" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b47">
+	<analytic>
+		<title level="a" type="main">How to assess prognostic models for survival data: a case study in oncology</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Schumacher</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><surname>Graf</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Gerds</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Methods Inf Med</title>
+		<imprint>
+			<biblScope unit="volume">42</biblScope>
+			<biblScope unit="page" from="564" to="71" />
+			<date type="published" when="2003" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b48">
+	<analytic>
+		<title level="a" type="main">Evaluating random forests for survival analysis using prediction error curves</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">U</forename><forename type="middle">B</forename><surname>Mogensen</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><surname>Ishwaran</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><forename type="middle">A</forename><surname>Gerds</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of statistical software</title>
+		<imprint>
+			<biblScope unit="volume">50</biblScope>
+			<biblScope unit="page" from="1" to="23" />
+			<date type="published" when="2012" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b49">
+	<analytic>
+		<title level="a" type="main">Testing the prediction error difference between 2 predictors</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">A</forename><surname>Van De Wiel</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Berkhof</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">W</forename><forename type="middle">N</forename><surname>Van Wieringen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Biostatistics</title>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="page" from="550" to="60" />
+			<date type="published" when="2009" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b50">
+	<analytic>
+		<title level="a" type="main">A pooled analysis of karyotypic patterns, breakpoints and imbalances in 783 cytogenetically abnormal multiple myelomas reveals frequently involved chromosome segments as well as significant age-and sex-related differences</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Nilsson</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Hoglund</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Lenhoff</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">L</forename><surname>Rylander</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">I</forename><surname>Turesson</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Westin</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Br J Haematol</title>
+		<imprint>
+			<biblScope unit="volume">120</biblScope>
+			<biblScope unit="page" from="960" to="969" />
+			<date type="published" when="2003" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b51">
+	<analytic>
+		<title level="a" type="main">Intensification therapy with bortezomib-melphalan-prednisone versus autologous stem cell transplantation for newly diagnosed multiple myeloma: an intergroup, multicenter, phase III study of the European Myeloma Network (EMN02/HO95 MM Trial)</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Cavo</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Beksac</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">A</forename><surname>Dimopoulos</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">L</forename><surname>Pantani</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">F</forename><surname>Gay</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><surname>Hájek</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Blood</title>
+		<imprint>
+			<biblScope unit="volume">128</biblScope>
+			<biblScope unit="page">673</biblScope>
+			<date type="published" when="2016" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b52">
+	<analytic>
+		<title level="a" type="main">Lenalidomide, bortezomib, and dexamethasone with transplantation for myeloma</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Attal</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">V</forename><surname>Lauwers-Cances</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><surname>Hulin</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">X</forename><surname>Leleu</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><surname>Caillot</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Escoffre</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">N Engl J Med</title>
+		<imprint>
+			<biblScope unit="volume">376</biblScope>
+			<biblScope unit="page" from="1311" to="1331" />
+			<date type="published" when="2017" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b53">
+	<analytic>
+		<title level="a" type="main">Phase II study of bortezomib, cyclophosphamide and dexamethasone as induction therapy in multiple myeloma: DSMM XI trial</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><surname>Einsele</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Engelhardt</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><surname>Tapprich</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Muller</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><surname>Liebisch</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><surname>Langer</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Br J Haematol</title>
+		<imprint>
+			<biblScope unit="volume">179</biblScope>
+			<biblScope unit="page" from="586" to="97" />
+			<date type="published" when="2017" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b54">
+	<analytic>
+		<title level="a" type="main">Bortezomib with lenalidomide and dexamethasone versus lenalidomide and dexamethasone alone in patients with newly diagnosed myeloma without intent for immediate autologous stem-cell transplant (SWOG S0777): a randomised, open-label, phase 3 trial</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">B</forename><forename type="middle">G</forename><surname>Durie</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Hoering</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">H</forename><surname>Abidi</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><forename type="middle">V</forename><surname>Rajkumar</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Epstein</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><forename type="middle">P</forename><surname>Kahanic</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Lancet</title>
+		<imprint>
+			<biblScope unit="volume">389</biblScope>
+			<biblScope unit="page" from="519" to="546" />
+			<date type="published" when="2017" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b55">
+	<analytic>
+		<title level="a" type="main">Depth of Response in Multiple Myeloma: A Pooled Analysis of Three PETHEMA/ GEM Clinical Trials</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">J</forename><surname>Lahuerta</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">B</forename><surname>Paiva</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">B</forename><surname>Vidriales</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">L</forename><surname>Cordon</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">T</forename><surname>Cedena</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">N</forename><surname>Puig</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Clin Oncol</title>
+		<imprint>
+			<biblScope unit="volume">35</biblScope>
+			<biblScope unit="page" from="2900" to="2910" />
+			<date type="published" when="2017" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b56">
+	<analytic>
+		<title level="a" type="main">Phase I study of the anti insulin-like growth factor 1 receptor (IGF-1R) monoclonal antibody, AVE1642, as single agent and in combination with bortezomib in patients with relapsed multiple myeloma</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><surname>Moreau</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">F</forename><surname>Cavallo</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">X</forename><surname>Leleu</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><surname>Hulin</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Amiot</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">G</forename><surname>Descamps</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Leukemia</title>
+		<imprint>
+			<biblScope unit="volume">25</biblScope>
+			<biblScope unit="page" from="872" to="876" />
+			<date type="published" when="2011" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b57">
+	<analytic>
+		<title level="a" type="main">CHIR-258, a novel, multitargeted tyrosine kinase inhibitor for the potential treatment of t(4;14) multiple myeloma</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Trudel</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Z</forename><forename type="middle">H</forename><surname>Li</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><surname>Wei</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Wiesmann</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><surname>Chang</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><surname>Chen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Blood</title>
+		<imprint>
+			<biblScope unit="volume">105</biblScope>
+			<biblScope unit="page" from="2941" to="2949" />
+			<date type="published" when="2005" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b58">
+	<analytic>
+		<title level="a" type="main">Insulin is a potent myeloma cell growth factor through insulin/IGF-1 hybrid receptor activation</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><forename type="middle">C</forename><surname>Sprynski</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><surname>Hose</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Kassambara</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">L</forename><surname>Vincent</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Jourdan</forename><forename type="middle">M</forename><surname>Rossi</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">F</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Leukemia</title>
+		<imprint>
+			<biblScope unit="volume">24</biblScope>
+			<biblScope unit="page" from="1940" to="50" />
+			<date type="published" when="2010" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b59">
+	<analytic>
+		<title level="a" type="main">Prediction of high-and low-risk multiple myeloma based on gene expression and the International Staging System</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><surname>Kuiper</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Van Duin</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">H</forename><surname>Van Vliet</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Broijl</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">B</forename><surname>Van Der Holt</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">El</forename><surname>Jarari</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">L</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Blood</title>
+		<imprint>
+			<biblScope unit="volume">126</biblScope>
+			<biblScope unit="page" from="1996" to="2004" />
+			<date type="published" when="2015" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b60">
+	<analytic>
+		<title level="a" type="main">Identifying ultra-high risk myeloma by integrated molecular genetic and gene expression profiling</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><forename type="middle">L</forename><surname>Sherborne</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><forename type="middle">B</forename><surname>Begum</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Price</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><forename type="middle">C</forename><surname>Johnson</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Ellis</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><surname>Smith</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Blood</title>
+		<imprint>
+			<biblScope unit="volume">128</biblScope>
+			<biblScope unit="page">4407</biblScope>
+			<date type="published" when="2016" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b61">
+	<analytic>
+		<title level="a" type="main">Prediction of cytogenetic abnormalities with gene expression profiles</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Y</forename><surname>Zhou</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Q</forename><surname>Zhang</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">O</forename><surname>Stephens</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><forename type="middle">J</forename><surname>Heuck</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><surname>Tian</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">R</forename><surname>Sawyer</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Blood</title>
+		<imprint>
+			<biblScope unit="volume">119</biblScope>
+			<biblScope unit="page" from="148" to="150" />
+			<date type="published" when="2012" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b62">
+	<analytic>
+		<title level="a" type="main">RNA-Sequencing from Low-Input Material in Multiple Myeloma for Application in Clinical Routine</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Seckinger</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Bähr-Ivacevic</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">V</forename><surname>Benes</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><surname>Hose</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Methods Molecular Biology</title>
+		<editor>Heuck C, Weinhold, N., editor</editor>
+		<imprint>
+			<date type="published" when="2018" />
+			<publisher>Humana Press</publisher>
+		</imprint>
+	</monogr>
+	<note>Multiple Myeloma -Methods and Protocols</note>
+</biblStruct>
+
+<biblStruct xml:id="b63">
+	<analytic>
+		<title level="a" type="main">The FDAʼs experience with emerging genomics technologies-past, present, and future</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Xu</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Thakkar</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">B</forename><surname>Gong</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">W</forename><surname>Tong</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">AAPS J</title>
+		<imprint>
+			<biblScope unit="volume">18</biblScope>
+			<biblScope unit="page" from="814" to="822" />
+			<date type="published" when="2016" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b64">
+	<analytic>
+		<title level="a" type="main">miRNAs in multiple myeloma-a survival relevant complex regulator of gene expression</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Seckinger</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Meissner</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Moreaux</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">V</forename><surname>Benes</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Hillengass</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Castoldi</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Oncotarget</title>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="page" from="39165" to="83" />
+			<date type="published" when="2015" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b65">
+	<analytic>
+		<title level="a" type="main">A survey of best practices for RNA-seq data analysis</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Conesa</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><surname>Madrigal</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Tarazona</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><surname>Gomez-Cabrero</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Cervera</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Mcpherson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Genome Biol</title>
+		<imprint>
+			<biblScope unit="volume">17</biblScope>
+			<biblScope unit="page">13</biblScope>
+			<date type="published" when="2016" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b66">
+	<analytic>
+		<title level="a" type="main">RNA-Seq differential expression analysis: an extended review and a software tool</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Costa-Silva</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><surname>Domingues</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">F</forename><forename type="middle">M</forename><surname>Lopes</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">PLoS One</title>
+		<imprint>
+			<biblScope unit="volume">12</biblScope>
+			<biblScope unit="page">190152</biblScope>
+			<date type="published" when="2017" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

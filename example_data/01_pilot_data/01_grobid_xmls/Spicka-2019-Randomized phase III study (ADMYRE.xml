@@ -1,0 +1,1912 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /data/rsg/nlp/juanmoo1/bin/grobid-0.6.1/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Randomized phase III study (ADMYRE) of plitidepsin in combination with dexamethasone vs. dexamethasone alone in patients with relapsed/refractory multiple myeloma</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+				<date type="published" when="2019-06-25">25 June 2019</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Ivan</forename><surname>Spicka</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="department" key="dep1">Department of Medicine</orgName>
+								<orgName type="department" key="dep2">Faculty of Medicine</orgName>
+								<orgName type="institution">Charles University and General Hospital</orgName>
+								<address>
+									<settlement>Prague</settlement>
+									<country key="CZ">Czech Republic</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="department" key="dep1">Department of Medicine</orgName>
+								<orgName type="department" key="dep2">Faculty of Medicine</orgName>
+								<orgName type="institution">Charles University and General Hospital</orgName>
+								<address>
+									<settlement>Prague</settlement>
+									<country key="CZ">Czech Republic</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Enrique</forename><forename type="middle">M</forename><surname>Ocio</surname></persName>
+							<affiliation key="aff2">
+								<orgName type="department">Department of Hematology, University Hospital Marqués de Valdecilla/IDIVAL</orgName>
+								<orgName type="institution">University of Cantabria</orgName>
+								<address>
+									<settlement>Santander</settlement>
+									<country key="ES">Spain</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff2">
+								<orgName type="department">Department of Hematology, University Hospital Marqués de Valdecilla/IDIVAL</orgName>
+								<orgName type="institution">University of Cantabria</orgName>
+								<address>
+									<settlement>Santander</settlement>
+									<country key="ES">Spain</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Heather</forename><forename type="middle">E</forename><surname>Oakervee</surname></persName>
+							<affiliation key="aff3">
+								<orgName type="department">Department of Haemato-Oncology, St Bartholomew&apos;s Cancer Centre</orgName>
+								<orgName type="institution">Barts Health NHS Trust</orgName>
+								<address>
+									<settlement>London</settlement>
+									<country key="GB">UK</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff3">
+								<orgName type="department">Department of Haemato-Oncology, St Bartholomew&apos;s Cancer Centre</orgName>
+								<orgName type="institution">Barts Health NHS Trust</orgName>
+								<address>
+									<settlement>London</settlement>
+									<country key="GB">UK</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Richard</forename><surname>Greil</surname></persName>
+							<affiliation key="aff4">
+								<orgName type="department" key="dep1">3rd Medical Department</orgName>
+								<orgName type="department" key="dep2">Salzburg Cancer Research Institute, Cancer Cluster Salzburg</orgName>
+								<orgName type="institution">Paracelsus Medical University Salzburg</orgName>
+								<address>
+									<settlement>Salzburg</settlement>
+									<country key="AT">Austria</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff4">
+								<orgName type="department" key="dep1">3rd Medical Department</orgName>
+								<orgName type="department" key="dep2">Salzburg Cancer Research Institute, Cancer Cluster Salzburg</orgName>
+								<orgName type="institution">Paracelsus Medical University Salzburg</orgName>
+								<address>
+									<settlement>Salzburg</settlement>
+									<country key="AT">Austria</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Raymond</forename><forename type="middle">H</forename><surname>Banh</surname></persName>
+							<affiliation key="aff5">
+								<orgName type="department">Department of Clinical Haematology, Mater Health Services</orgName>
+								<address>
+									<settlement>Brisbane</settlement>
+									<country key="AU">Australia</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff5">
+								<orgName type="department">Department of Clinical Haematology, Mater Health Services</orgName>
+								<address>
+									<settlement>Brisbane</settlement>
+									<country key="AU">Australia</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Shang-Yi</forename><surname>Huang</surname></persName>
+							<affiliation key="aff6">
+								<orgName type="department">Department of Medicine</orgName>
+								<orgName type="institution">National Taiwan University Hospital</orgName>
+								<address>
+									<settlement>Taipei</settlement>
+									<country key="TW">Taiwan</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff6">
+								<orgName type="department">Department of Medicine</orgName>
+								<orgName type="institution">National Taiwan University Hospital</orgName>
+								<address>
+									<settlement>Taipei</settlement>
+									<country key="TW">Taiwan</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">James</forename><forename type="middle">M</forename><surname>D'rozario</surname></persName>
+							<affiliation key="aff7">
+								<orgName type="department">Department of Hematology, Canberra Hospital and Health Service</orgName>
+								<address>
+									<settlement>Canberra</settlement>
+									<country key="AU">Australia</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff7">
+								<orgName type="department">Department of Hematology, Canberra Hospital and Health Service</orgName>
+								<address>
+									<settlement>Canberra</settlement>
+									<country key="AU">Australia</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">&amp;</forename><surname>Meletios</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Dimopoulos</surname></persName>
+							<affiliation key="aff8">
+								<orgName type="department">Department of Clinical Therapeutics</orgName>
+								<orgName type="institution">Alexandra General Hospital</orgName>
+								<address>
+									<settlement>Athens</settlement>
+									<country key="GR">Greece</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff8">
+								<orgName type="department">Department of Clinical Therapeutics</orgName>
+								<orgName type="institution">Alexandra General Hospital</orgName>
+								<address>
+									<settlement>Athens</settlement>
+									<country key="GR">Greece</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Sara</forename><surname>Martínez</surname></persName>
+							<affiliation key="aff9">
+								<orgName type="department">Clinical R&amp;D</orgName>
+								<address>
+									<addrLine>Pharma Mar, Colmenar Viejo</addrLine>
+									<settlement>Madrid</settlement>
+									<country key="ES">Spain</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff9">
+								<orgName type="department">Clinical R&amp;D</orgName>
+								<address>
+									<addrLine>Pharma Mar, Colmenar Viejo</addrLine>
+									<settlement>Madrid</settlement>
+									<country key="ES">Spain</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Sonia</forename><surname>Extremera</surname></persName>
+							<affiliation key="aff9">
+								<orgName type="department">Clinical R&amp;D</orgName>
+								<address>
+									<addrLine>Pharma Mar, Colmenar Viejo</addrLine>
+									<settlement>Madrid</settlement>
+									<country key="ES">Spain</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff9">
+								<orgName type="department">Clinical R&amp;D</orgName>
+								<address>
+									<addrLine>Pharma Mar, Colmenar Viejo</addrLine>
+									<settlement>Madrid</settlement>
+									<country key="ES">Spain</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Carmen</forename><surname>Kahatt</surname></persName>
+							<affiliation key="aff9">
+								<orgName type="department">Clinical R&amp;D</orgName>
+								<address>
+									<addrLine>Pharma Mar, Colmenar Viejo</addrLine>
+									<settlement>Madrid</settlement>
+									<country key="ES">Spain</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff9">
+								<orgName type="department">Clinical R&amp;D</orgName>
+								<address>
+									<addrLine>Pharma Mar, Colmenar Viejo</addrLine>
+									<settlement>Madrid</settlement>
+									<country key="ES">Spain</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Vicente</forename><surname>Alfaro</surname></persName>
+							<affiliation key="aff9">
+								<orgName type="department">Clinical R&amp;D</orgName>
+								<address>
+									<addrLine>Pharma Mar, Colmenar Viejo</addrLine>
+									<settlement>Madrid</settlement>
+									<country key="ES">Spain</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff9">
+								<orgName type="department">Clinical R&amp;D</orgName>
+								<address>
+									<addrLine>Pharma Mar, Colmenar Viejo</addrLine>
+									<settlement>Madrid</settlement>
+									<country key="ES">Spain</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Angelo</forename><forename type="middle">M</forename><surname>Carella</surname></persName>
+							<affiliation key="aff10">
+								<orgName type="department">Department of Hematology</orgName>
+								<orgName type="laboratory">IRCCS Azienda Ospedaliera Universitaria San Martino, IST Istituto Nazionale per la Ricerca sul Cancro</orgName>
+								<address>
+									<settlement>Genoa</settlement>
+									<country key="IT">Italy</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff10">
+								<orgName type="department">Department of Hematology</orgName>
+								<orgName type="laboratory">IRCCS Azienda Ospedaliera Universitaria San Martino, IST Istituto Nazionale per la Ricerca sul Cancro</orgName>
+								<address>
+									<settlement>Genoa</settlement>
+									<country key="IT">Italy</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Nathalie</forename><surname>Meuleman</surname></persName>
+							<affiliation key="aff11">
+								<orgName type="department" key="dep1">Department of Hematology</orgName>
+								<orgName type="department" key="dep2">Institut Jules Bordet (ULB)</orgName>
+								<address>
+									<settlement>Brussels</settlement>
+									<country key="BE">Belgium</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff11">
+								<orgName type="department" key="dep1">Department of Hematology</orgName>
+								<orgName type="department" key="dep2">Institut Jules Bordet (ULB)</orgName>
+								<address>
+									<settlement>Brussels</settlement>
+									<country key="BE">Belgium</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Roman</forename><surname>Hájek</surname></persName>
+							<affiliation key="aff12">
+								<orgName type="department" key="dep1">Department of Hematology-Oncology</orgName>
+								<orgName type="department" key="dep2">Faculty of Medicine</orgName>
+								<orgName type="institution">University Hospital Ostrava</orgName>
+								<address>
+									<settlement>Ostrava</settlement>
+									<country key="CZ">Czech Republic</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff12">
+								<orgName type="department" key="dep1">Department of Hematology-Oncology</orgName>
+								<orgName type="department" key="dep2">Faculty of Medicine</orgName>
+								<orgName type="institution">University Hospital Ostrava</orgName>
+								<address>
+									<settlement>Ostrava</settlement>
+									<country key="CZ">Czech Republic</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Argiris</forename><surname>Symeonidis</surname></persName>
+							<affiliation key="aff13">
+								<orgName type="department" key="dep1">Hematology Division</orgName>
+								<orgName type="department" key="dep2">Department of Internal Medicine</orgName>
+								<orgName type="department" key="dep3">Medical School</orgName>
+								<orgName type="institution">University of Patras</orgName>
+								<address>
+									<settlement>Patras</settlement>
+									<country key="GR">Greece</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff13">
+								<orgName type="department" key="dep1">Hematology Division</orgName>
+								<orgName type="department" key="dep2">Department of Internal Medicine</orgName>
+								<orgName type="department" key="dep3">Medical School</orgName>
+								<orgName type="institution">University of Patras</orgName>
+								<address>
+									<settlement>Patras</settlement>
+									<country key="GR">Greece</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Chang-Ki</forename><surname>Min</surname></persName>
+							<affiliation key="aff14">
+								<orgName type="department" key="dep1">Department of Blood and Marrow Transplantation</orgName>
+								<orgName type="department" key="dep2">Seoul St. Mary&apos;s Hospital</orgName>
+								<orgName type="institution">The Catholic University of Korea</orgName>
+								<address>
+									<settlement>Seoul</settlement>
+									<country key="KR">South Korea</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff14">
+								<orgName type="department" key="dep1">Department of Blood and Marrow Transplantation</orgName>
+								<orgName type="department" key="dep2">Seoul St. Mary&apos;s Hospital</orgName>
+								<orgName type="institution">The Catholic University of Korea</orgName>
+								<address>
+									<settlement>Seoul</settlement>
+									<country key="KR">South Korea</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Paul</forename><surname>Cannell</surname></persName>
+							<affiliation key="aff15">
+								<orgName type="department">Department of Medicine</orgName>
+								<orgName type="institution">Royal Perth Hospital</orgName>
+								<address>
+									<settlement>Perth</settlement>
+									<country key="AU">Australia</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff15">
+								<orgName type="department">Department of Medicine</orgName>
+								<orgName type="institution">Royal Perth Hospital</orgName>
+								<address>
+									<settlement>Perth</settlement>
+									<country key="AU">Australia</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Heinz</forename><surname>Ludwig</surname></persName>
+							<affiliation key="aff16">
+								<orgName type="department">Department of Medicine, Center for Oncology, Hematology and Palliative Care</orgName>
+								<orgName type="institution" key="instit1">Wilhelminen Cancer Research Institute</orgName>
+								<orgName type="institution" key="instit2">Wilhelminen Hospital</orgName>
+								<address>
+									<settlement>Vienna</settlement>
+									<country key="AT">Austria</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff16">
+								<orgName type="department">Department of Medicine, Center for Oncology, Hematology and Palliative Care</orgName>
+								<orgName type="institution" key="instit1">Wilhelminen Cancer Research Institute</orgName>
+								<orgName type="institution" key="instit2">Wilhelminen Hospital</orgName>
+								<address>
+									<settlement>Vienna</settlement>
+									<country key="AT">Austria</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Pieter</forename><surname>Sonneveld</surname></persName>
+							<affiliation key="aff17">
+								<orgName type="department">Department of Hematology, Erasmus MC Cancer Institute</orgName>
+								<address>
+									<settlement>Rotterdam</settlement>
+									<country key="NL">The Netherlands</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff17">
+								<orgName type="department">Department of Hematology, Erasmus MC Cancer Institute</orgName>
+								<address>
+									<settlement>Rotterdam</settlement>
+									<country key="NL">The Netherlands</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">&amp;</forename><surname>María</surname></persName>
+						</author>
+						<author role="corresp">
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Victoria</forename><surname>Mateos</surname></persName>
+							<email>mvmateos@usal.es</email>
+							<affiliation key="aff18">
+								<orgName type="department">Department of Hematology, University Hospital of Salamanca/ IBSAL</orgName>
+								<address>
+									<settlement>Salamanca</settlement>
+									<country key="ES">Spain</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff19">
+								<orgName type="department">Departamento de Hematología, Hospital Universitario de Salamanca</orgName>
+								<address>
+									<addrLine>Paseo de San Vicente, 58-182</addrLine>
+									<postCode>37007</postCode>
+									<settlement>Salamanca</settlement>
+									<country key="ES">Spain</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff18">
+								<orgName type="department">Department of Hematology, University Hospital of Salamanca/ IBSAL</orgName>
+								<address>
+									<settlement>Salamanca</settlement>
+									<country key="ES">Spain</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff19">
+								<orgName type="department">Departamento de Hematología, Hospital Universitario de Salamanca</orgName>
+								<address>
+									<addrLine>Paseo de San Vicente, 58-182</addrLine>
+									<postCode>37007</postCode>
+									<settlement>Salamanca</settlement>
+									<country key="ES">Spain</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff0">
+								<orgName type="institution">María Victoria Mateos</orgName>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Randomized phase III study (ADMYRE) of plitidepsin in combination with dexamethasone vs. dexamethasone alone in patients with relapsed/refractory multiple myeloma</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date type="published" when="2019-06-25">25 June 2019</date>
+						</imprint>
+					</monogr>
+					<idno type="DOI">10.1007/s00277-019-03739-2</idno>
+					<note type="submission">Received: 9 January 2019 / Accepted: 12 June 2019 /</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.6.1" ident="GROBID" when="2020-10-09T18:38+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>Multiple myeloma</term>
+					<term>Plitidepsin</term>
+					<term>Dexamethasone</term>
+					<term>Relapsed</term>
+					<term>Refractory</term>
+				</keywords>
+			</textClass>
+			<abstract>
+				<p>The randomized phase III ADMYRE trial evaluated plitidepsin plus dexamethasone (DXM) versus DXM alone in patients with relapsed/refractory multiple myeloma after at least three but not more than six prior regimens, including at least bortezomib and lenalidomide or thalidomide. Patients were randomly assigned (2:1) to receive plitidepsin 5 mg/m 2 on D1 and D15 plus DXM 40 mg on D1, D8, D15, and D22 (arm A, n = 171) or DXM 40 mg on D1, D8, D15, and D22 (arm B, n = 84) q4wk. The primary endpoint was progression-free survival (PFS). Median PFS without disease progression (PD) confirmation (IRC assessment) was 2.6 months (arm A) and 1.7 months (arm B) (HR = 0.650; p = 0.0054). Median PFS with PD confirmation (investigator&apos;s assessment) was 3.8 months (arm A) and 1.9 months (arm B) (HR = 0.611; p = 0.0040). Median overall survival (OS, intention-to-treat analysis) was 11.6 months (arm A) and 8.9 months (arm B) (HR = 0.797; p = 0.1261). OS improvement favoring arm A was found when discounting a crossover effect (37 patients crossed over from arm B to arm A) (two-stage method; HR = 0.622; p = 0.0015). The most common grade 3/4 treatment-related adverse events (% of patients arm A/arm B) were fatigue (10.8%/1.2%), myalgia (5.4%/0%), and nausea (3.6%/1.2%), being usually transient and reversible. The safety profile does not overlap with the toxicity observed with other agents used in multiple myeloma. In conclusion, efficacy data, the reassuring safety profile, and the novel mechanism of action of plitidepsin suggest that this combination can be an alternative option in patients with relapsed/refractory multiple myeloma after at least three prior therapy lines.</p>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Introduction</head><p>The prognosis for patients with multiple myeloma (MM) who are refractory to both proteasome inhibitors (PIs) and immunomodulatory drugs (IMiDs) is poor: with further treatment, the median survival is 9 months and 3 months in patients without further treatment <ref type="bibr" target="#b0">[1]</ref>. Furthermore, treatment options for MM decrease with each relapse and outcomes with subsequent treatment using standard therapies are characterized by short duration of response and increasing drug resistance <ref type="bibr" target="#b1">[2]</ref>. Therefore, there is a need for alternative antimyeloma treatments for patients with advanced illness following refractory/ multiply relapsed disease.</p><p>Plitidepsin is a cyclic depsipeptide, originally isolated from a Mediterranean marine tunicate, Aplidium albicans, which is currently produced by total synthesis. Plitidepsin effects are related to the induction of early oxidative stress, which induces the sustained activation of c-Jun N-terminal kinase (JNK) and p38MAPK and finally apoptosis <ref type="bibr" target="#b2">[3,</ref><ref type="bibr" target="#b3">4]</ref>. The eukaryotic translation elongation factor 1 alpha 2 (eEF1A2), a protein which is overexpressed in MM, has been identified as the primary target for plitidepsin <ref type="bibr" target="#b4">[5]</ref>. In vitro studies showed antiproliferative activity against several human MM cell lines <ref type="bibr" target="#b5">[6,</ref><ref type="bibr" target="#b6">7]</ref>. In vivo studies showed an antitumour effect of plitidepsin in xenograft MM models as a single agent or in combination with dexamethasone (DXM) <ref type="bibr" target="#b5">[6]</ref>. Plitidepsin plus DXM showed activity in a phase II clinical trial conducted in relapsed/refractory MM patients <ref type="bibr" target="#b7">[8]</ref>. Based on the data from the randomized phase III ADMYRE trial, which compared plitidepsin plus DXM with DXM alone, this plitidepsin combination has been recently approved in Australia for the treatment of patients with relapsed/refractory MM who have received at least three prior treatment regimens, including both a PI and an IMiD. Plitidepsin plus DXM has been also approved for its use after two prior lines of therapy in the case of patients refractory and/or intolerant to both a PI and an IMiD. Efficacy and safety results from the ADMYRE trial are presented here.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Methods</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Patients</head><p>Patients were recruited worldwide at 61 investigational sites from 17 countries. The study protocol received protocol assistance by the Committee for Medicinal Products for Human Use (CHMP), was approved by the Independent Local Ethics Committee of each participating center, and was conducted in accordance with the Declaration of Helsinki, Good Clinical Practice guidelines, and local regulations on clinical trials. Signed informed consent was obtained from all patients prior to any study-specific procedure (ClinicalTrials.gov identifier: NCT01102426).</p><p>Eligibility criteria included the following: patients ≥ 18 years old with relapsed/refractory MM after at least three, but not more than six, prior therapeutic regimens, including at least bortezomib and lenalidomide or thalidomide; measurable disease; Eastern Cooperative Oncology Group performance status (ECOG PS) ≤ 2; life expectancy ≥ 3 months; and adequate major organ function. Patients were excluded if they had the following: a concomitant unstable or serious medical condition (e.g., myocardial infarction, angina, congestive heart failure, severe dyspnea or oxygen requirement, active uncontrolled infection, immune deficiency, or myopathy), grade &gt; 2 peripheral neuropathy, myelodysplasia and/or postchemotherapy aplasia, or mood disturbance associated with previous steroid-based therapy.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Treatment</head><p>In 2009, at the time of designing the ADMYRE trial, no standard treatment existed for the intended population (MM patients relapsed/refractory to all standard available therapy) that could be considered a gold standard comparator, and treatment options were limited. DXM was an active compound widely used as a single agent as well as part of combination regimens for treatment of MM patients in different settings. For that reason, the European Society of Medical Oncology recommendations included DXM added to these agents as treatment for relapsed/refractory MM <ref type="bibr" target="#b8">[9]</ref>. On this basis, the choice of the control arm (low-dose DXM) was agreed with the health authorities (European Medicines Agency and Food and Drug Administration of the USA).</p><p>Patients were stratified according to their ECOG PS score (0 and 1 vs. 2) and Durie-Salmon stage (I/II vs. III) and were randomly assigned (with a 2:1 ratio) to receive plitidepsin 5 mg/m 2 on D1 and D15 intravenously (i.v.) over 3 h plus DXM 40 mg orally on D1, D8, D15, and D22 (arm A) or DXM 40 mg orally on D1, D8, D15, and D22 (arm B), every 4 weeks (q4wk). Patients in the control arm (DXM alone, arm B) with documented disease progression after a minimum of 8 weeks from randomization could crossover to the combination arm (arm A).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Efficacy assessment</head><p>The primary efficacy endpoint was progression-free survival (PFS), which was assessed according to an Independent Review Committee (IRC) per the International Myeloma Working Group (IMWG) criteria current at the time of study protocol design (i.e., without requiring PD confirmation for assigning a PFS event) <ref type="bibr" target="#b1">[2]</ref>. Furthermore, a preplanned sensitivity analysis of PFS by an investigator's assessment was performed following the revised IMWG criteria (i.e., with PD confirmation required for assigning a PFS event) <ref type="bibr" target="#b9">[10]</ref>. Secondary efficacy endpoints were objective response rate (ORR; ≥ partial response) according to the IMWG criteria, duration of response, and overall survival (OS).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Safety assessment</head><p>Safety was evaluated in all patients who received at least one dose of the study treatment by assessment of adverse events (AEs), clinical laboratory test results, physical examinations, and vital signs. AEs were recorded and coded with the Medical Dictionary for Regulatory Activities (MedDRA) v.16.0. AEs and laboratory values were graded according to the National Cancer Institute-Common Toxicity Criteria for Adverse Events (NCI-CTCAE) v.4. All patients were followed until recovery from any treatment-related AE. Follow-up was longer in arm A partly because it included patients that had crossed over from arm B.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Statistical methods</head><p>The number of randomized patients required was calculated on the basis of PFS estimates from the previous phase II study in MM <ref type="bibr" target="#b7">[8]</ref>. Approximately 210 progression or death events were required to reject the equality of hazard rates (HR) between both treatment arms, assuming a HR of 0.625 in favor of the combination arm (90% power, 1-sided 2.5% significance level). A futility analysis was done once 40 patients in arm A were evaluable for response. ORR including minor response (MR) was 37.8% (planned threshold was 30%), and therefore patient accrual was resumed. The final PFS analysis was done with data obtained in November 2015.</p><p>The unstratified log-rank test was used to compare PFS. Cox regression was used to calculate the risk reduction in PFS. Binomial estimates with exact 95% confidence intervals (CIs) were calculated for the analysis of ORR. Fisher's exact test was used to compare ORR.</p><p>The study was powered for the evaluation of the main endpoint, PFS, and for ascertaining if a trend in OS is observed in favor of the experimental arm. The final OS analysis was done according to the Kaplan-Meier method 2 years after the last patient inclusion (May 2017). Nevertheless, the potential to detect statistically significant differences in OS was hampered by crossover: 44.0% of patients from arm B crossed over to arm A <ref type="figure" target="#fig_1">(Fig. 1</ref>). Then, a post hoc sensitivity analysis based on the two-stage method proposed by Latimer et al. <ref type="bibr" target="#b10">[11]</ref>, which was previously reported when evaluating OS in another MM trial <ref type="bibr" target="#b11">[12]</ref>, was performed.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Results</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Patient characteristics</head><p>A total of 255 patients were randomized (2:1) between June 2010 and May 2015: 171 in arm A and 84 in arm B. Of these, 167 patients were treated in arm A and 83 in arm B <ref type="figure" target="#fig_1">(Fig. 1)</ref>. Baseline characteristics were well balanced between treatment arms ( <ref type="table">Table 1</ref>). The median number of lines of previous therapy was 4 in both treatment arms. In both arms, around 74% of patients had refractory or relapsed and refractory disease to the last line (38-39% of them relapsed and refractory to lenalidomide/thalidomide and bortezomib).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Efficacy</head><p>The primary efficacy analysis, with blinded IRC assessment of all randomized patients done without PD confirmation, showed statistically significant longer PFS for patients treated with plitidepsin plus DXM. Median PFS was 2.6 months (95% CI, 1.9-3.0 months) in arm A (plitidepsin plus DXM) and 1.7 months (95% CI, 1.1-2.0 months) in arm B (DXM) (log-rank p = 0.0054) <ref type="figure" target="#fig_2">(Fig. 2)</ref>. The relative risk of progression or death was reduced by 35.0% in patients treated with Relapsed MM was defined as previously treated myeloma that progressed and required the initiation of salvage therapy but did not meet the criteria for either "refractory" or "relapsed and refractory" myeloma categories plitidepsin plus DXM (HR = 0.650; 95% CI 0.477-0.885, p = 0.0062). PFS analysis requiring PD confirmation by an investigator's assessment showed a median PFS of 3.8 months (95% CI, 2.9-5.6 months) in arm A (plitidepsin plus DXM) and 1.9 months (95% CI, 1.1-2.7 months) in arm B (DXM), with a relative risk of progression or death reduced by 38.9% in patients treated with plitidepsin plus DXM (HR = 0.611; p = 0.0048).</p><p>ORR according to the IRC in evaluable patients was 13.8% (95% CI, 8.3-21.2%) in arm A (plitidepsin plus DXM; n = 123), which included two very good partial responses and 15 partial responses (median duration of response was 12.0 months), and 1.7% (95% CI, 0.04-9.1%) in arm B (DXM; n = 59) (one patient with partial response; duration of 1.8 months) (p &lt; 0.0080).</p><p>The clinical benefit rate, defined as patients with response (including MR) or stable disease (SD), was 48.0% (95% CI, 40.3-55.7%) in arm A (plitidepsin plus DXM) and 28.6% (95% CI, 19.2-39.5%) in arm B (DXM) (p &lt; 0.0044).</p><p>The final intention-to-treat OS analysis was based on 195 death events (76.5% of the 255 randomized patients). Median OS was 11.6 months (95% CI, 9.2-16.1 months) in arm A (plitidepsin plus DXM) and 8.9 months (95% CI, 6.0-15.4 months) in arm B (DXM) (log-rank p = 0.1261) <ref type="figure" target="#fig_3">(Fig. 3a)</ref>. Despite crossover, relative risk of death was reduced by 20.3% in patients treated with plitidepsin plus DXM (HR = 0.797; p = 0.1273). Median OS for patients with response or clinical benefit in arm A (plitidepsin plus DXM) was 37.8 months and 30.3 months, respectively <ref type="figure">(Fig. 4)</ref>.</p><p>A two-stage OS analysis, which mitigates the effect of crossover, showed a statistically significant difference in favor of arm A (plitidepsin plus DXM). Median OS remained as 11.6 months (95% CI, 9.2-16.1 months) in arm A (plitidepsin plus DXM) and was estimated as 6.4 months (95% CI, 5.1-8.3 months) in arm B (DXM) (log-rank p = 0.0015) <ref type="figure" target="#fig_3">(Fig. 3b)</ref>. Relative risk of death was reduced by 37.8% in patients treated with plitidepsin plus DXM (HR = 0.622; p = 0.0016).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Safety</head><p>All treated patients were evaluable for safety. The median (range) of cycles received was 3 (1-33) in arm A (plitidepsin plus DXM; total cycles = 842) and 2 (1-21) in arm B (DXM; total cycles = 251). Median time on treatment was 12.3 weeks (1.3-137.1 weeks) in arm A and 8.3 weeks (1.4-85.3 weeks) in arm B. Fifteen patients (9.0%) discontinued treatment because of treatment-related AEs in arm A and eight patients (9.6%) in arm B.</p><p>In arm A (plitidepsin plus DXM), the most common AEs (all grades) related to the study treatment (or with unknown causality) were nausea (37.1% of patients), fatigue (36.5%), vomiting (16.8%), diarrhea (14.4%), myalgia (14.4%), peripheral edema (12.0%), decreased appetite (12.6%), and  <ref type="table" target="#tab_1">Table 2</ref>). Other grade 3/4 AEs of specific interest were as follows: creatine phosphokinase (CPK) increase (20.0%), alanine aminotransferase (ALT) increase (14.5%), peripheral sensory neuropathy (0.6%), and infection/pneumonia (2.4%). One patient died following a treatment-related AE (grade 4 myopathy) after having received one cycle (n = 1/167 patients; 0.6%).</p><p>In arm B (DXM), the most common AEs (all grades) related to the study treatment (or with unknown causality) were nausea (10.8%), fatigue (8.4%), and insomnia (9.6%). All grade 3/4 AEs occurred in one (1.2% of  <ref type="table" target="#tab_1">Table 2</ref>). One patient died following a treatment-related AE (grade 4 respiratory tract infection) after having received two cycles (n = 1/83 patients; 1.2%).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Discussion</head><p>The ADMYRE study met its primary endpoint, demonstrating a 35% reduction in the relative risk of progression or death for the combination of plitidepsin plus DXM compared with DXM alone in relapsed/refractory MM patients pretreated with at least three regimens, including bortezomib and either lenalidomide or thalidomide. Short PFS values reported in the primary PFS analysis (2.6 months in arm A; 1.7 months in arm B) can be explained by the conservative adjudication of PD time points, which were calculated according to the IMWG criteria version current when the study was planned and designed <ref type="bibr" target="#b1">[2]</ref>, but also to the advanced stage of the heavily pretreated population, who generally had exhausted most available therapies. A preplanned sensitivity analysis of PFS in line with updated IMWG criteria <ref type="bibr" target="#b9">[10]</ref>, which require confirmation of PD in two consecutive assessments, showed a longer PFS value for the combination (3.8 months), with the difference between treatments reaching almost 2 months.</p><p>The reduction in the relative risk of death observed with mature survival data (23.5% of patients censored) was 20.3% despite the substantial crossover rate (44.0% of patients). The finding of a similar outcome in survival, a secondary but robust endpoint, when discounting the effect of crossover in the twostage method (statistically significant 37.8% reduction in the risk of death relative to the control arm) supports the benefit demonstrated in PFS, the primary study endpoint (statistically significant 35.0% reduction in the relative risk of progression or death). Survival results for patients with response (median OS of 37.8 months, with a median duration of response of 12.0 months) or clinical benefit (median OS of 30.3 months) are of interest in the setting of a pretreated MM patient population (expected median survival is about 9 months).</p><p>Several drugs (carfilzomib, ixazomib, pomalidomide, daratumumab, elotuzumab, and panobinostat) have been more recently approved for the treatment of patients in whom the use of bortezomib and lenalidomide has been exhausted. Beyond these, there are few options for salvage treatment, which are limited to re-challenge with a previously used treatment (alone or in combination with corticosteroids or other novel agents), use of older drugs (e.g., thalidomide, melphalan, vincristine, doxorubicin, etoposide, bendamustine, and carmustine), or enrolment in a clinical trial <ref type="bibr" target="#b0">[1]</ref>.</p><p>Carfilzomib (a new irreversible PI) was evaluated in a phase II trial in patients pretreated with five lines of therapy (95% of whom had disease refractory to the last therapy) <ref type="bibr" target="#b12">[13]</ref>. Median PFS was 3.7 months, and median OS in patients refractory to both bortezomib and lenalidomide was 15.6 months. The data from the ADMYRE study was obtained in a population less heavily pretreated (four prior lines; 74% of patients with refractory disease). Nevertheless, a median PFS of 3.8 months (updated IMWG criteria) <ref type="bibr" target="#b9">[10]</ref> and a median OS of 11.6 months observed with plitidepsin plus DXM confirm a level of activity close to that observed for carfilzomib.</p><p>Daratumumab, a human monoclonal IgG1 antibody that binds to the CD38 myelomatous cell surface antigen, was evaluated in a phase II study (SIRIUS) in patients who had received at least three prior lines of therapy or were refractory to the most recent PI and IMiD combination <ref type="bibr" target="#b13">[14]</ref>. The median duration of response was 7.4 months and median PFS was 3.7 months. In the ADMYRE study, conducted in a heavily pretreated and largely refractory population, the median duration of response was longer (12.0 months) in patients achieving VGPR or PR, and median PFS (updated IMWG criteria) was similar (3.8 months).</p><p>Pomalidomide plus low-dose DXM was evaluated in a randomized phase III study (MM-003) in MM patients pretreated with a median of five previous regimens (82% of them with refractory disease status) <ref type="bibr" target="#b14">[15]</ref>. The median PFS (4.0 months) and median OS (12.7 months) were quite similar to the ADMYRE results. <ref type="figure">Fig. 4</ref> Progression-free survival, post-progression survival, and overall survival according to the response observed. IRC, Independent Review Committee; MR, minor response; PFS, progression-free survival; PR, partial response; SD, stable disease Plitidepsin plus DXM showed a low incidence of toxicities that are common with available agents used in the treatment of relapsed/refractory MM, such as venous thromboembolism, neurotoxicity, neutropenia and associated infections, thrombocytopenia and associated bleeding, or cardiac events <ref type="bibr" target="#b12">[13]</ref><ref type="bibr" target="#b13">[14]</ref><ref type="bibr" target="#b14">[15]</ref><ref type="bibr" target="#b15">[16]</ref><ref type="bibr" target="#b16">[17]</ref><ref type="bibr" target="#b17">[18]</ref><ref type="bibr" target="#b18">[19]</ref>, which represents a favorable safety profile in a disease setting of heavily pretreated patients. Most of the toxicities observed with plitidepsin plus DXM were transient, noncumulative laboratory abnormalities that usually occur in the first two cycles of treatment and are controlled by dose adjustment (cycle delay, dose omission, and in ultimate instance, dose reduction). eEF1A2 is overexpressed in MM <ref type="bibr" target="#b19">[20]</ref> and has been identified as the primary intracellular target of plitidepsin <ref type="bibr" target="#b4">[5,</ref><ref type="bibr" target="#b20">21]</ref>. eEF1A2 is responsible for the enzymatic delivery of aminoacyl-tRNAs to the ribosome, but also has pro-oncogenic activities including regulation of oxidative stress <ref type="bibr" target="#b21">[22]</ref>, inhibition of apoptosis <ref type="bibr" target="#b22">[23]</ref>, or control of unfolded protein degradation by the proteasome <ref type="bibr" target="#b23">[24]</ref>. All recently introduced new myeloma drugs have mechanisms of activity not targeting eEF1A2; this fact, together with the favorable safety profile and the lack of overlapping toxicities with commonly used agents, places plitidepsin as an alternative option for designing combinations or even for its administration after relapse in patients treated with immunotherapy.</p><p>In conclusion, the combination of plitidepsin and DXM has shown antimyeloma activity compared with DXM alone, introduces a new agent with a novel mechanism of action into the MM therapeutic armamentarium, has an acceptable safety profile different from that of PIs, IMiDs, or histone deacetylase inhibitors, and could thus be considered an alternative treatment option for patients with relapsed/refractory MM. </p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head></head><label></label><figDesc>Data was presented in part at the American Society of Hematology (ASH) 59th Annual Meeting, Atlanta, GA, December 9-12, 2017 (Blood vol. 130, Suppl. 1, abstract no. 18869, 2017), and at the American Society of Clinical Oncology (ASCO) 2018 Annual Meeting, Chicago, IL (J Clin Oncol 36, 2018 [suppl; abstract 8018]).</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head>Fig. 1</head><label>1</label><figDesc>Study flow chart. AE, adverse event; DXM, dexamethasone Table 1 Patient baseline characteristics Arm A (plitidepsin plus DXM) (n = 171) Arm B (DXM) (n = 84) Data shown are randomized patients; n (%) or median (range) a One patient in arm A had ECOG PS = 1 at randomization but ECOG PS = 3 before starting the study treatment b Five patients had no MM type defined at baseline: three in arm A and two in arm B. No marked differences were found between the two treatment arms, at both diagnosis and baseline c High risk: patients with translocations such as t(4;14), t(14;16), t(14;20), del 17, and del 13 or single alterations such as + 1q or + 1p. Standard risk: patients with translocations such as t(11;14), t(6;14) or other, as well as patients with single alterations of trisomies 3, 5, 6, 9, 11, 15, 19, or 21 d</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_2"><head>Fig. 2</head><label>2</label><figDesc>Kaplan-Meier curve for progression-free survival by the Independent Review Committee. A, arm A (plitidepsin plus DXM); B, arm B (DXM); C, censored; DXM; dexamethasone; N, number of patients muscular weakness (9.6%). The most common grade 3/4 treatment-related (or with unknown causality) AEs were fatigue (10.8%), myalgia (5.4%), muscular weakness (3.6%), and nausea (3.6%) (</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_3"><head>Fig. 3</head><label>3</label><figDesc>Kaplan-Meier curves for overall survival in all randomized patients (a) and all randomized patients (two-stage method) (b). A, arm A (plitidepsin plus DXM); B, arm B (DXM); C, censored; DXM, dexamethasone; N, number of patients patients) or two patients (2.4%) each (</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_1"><head>Table 2</head><label>2</label><figDesc>The most common laboratory abnormalities (regardless of relationship) and treatment-related adverse events (≥ 10% of patients) Percentages based on total patients with laboratory data available ALP alkaline phosphatase, ALT alanine aminotransferase, AST aspartate aminotransferase, CPK creatine phosphokinase, DXM dexamethasone, NCI-CTCAE National Cancer Institute-Common Terminology Criteria for Adverse Events</figDesc><table><row><cell></cell><cell cols="6">Arm A (plitidepsin plus DXM) (n = 167)</cell><cell cols="4">Arm B (DXM) (n = 83) a</cell><cell></cell><cell></cell></row><row><cell></cell><cell cols="3">NCI-CTCAE grade</cell><cell></cell><cell></cell><cell></cell><cell cols="3">NCI-CTCAE grade</cell><cell></cell><cell></cell><cell></cell></row><row><cell></cell><cell>All</cell><cell></cell><cell>3</cell><cell></cell><cell>4</cell><cell></cell><cell>All</cell><cell></cell><cell>3</cell><cell></cell><cell>4</cell><cell></cell></row><row><cell></cell><cell>n</cell><cell>%</cell><cell>n</cell><cell>%</cell><cell>n</cell><cell>%</cell><cell>n</cell><cell>%</cell><cell>n</cell><cell>%</cell><cell>n</cell><cell>%</cell></row><row><cell cols="6">Hematological abnormalities (regardless of relationship) b</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Anemia</cell><cell>157</cell><cell>98.1</cell><cell>48</cell><cell>30.0</cell><cell>2</cell><cell>1.3</cell><cell cols="5">77 97.5 26 32.9 2</cell><cell>2.5</cell></row><row><cell>Lymphopenia</cell><cell>110</cell><cell>68.8</cell><cell>32</cell><cell>20.0</cell><cell>5</cell><cell>3.1</cell><cell cols="3">54 69.2 11</cell><cell cols="2">14.1 2</cell><cell>2.6</cell></row><row><cell>Thrombocytopenia</cell><cell>95</cell><cell>59.4</cell><cell>21</cell><cell>13.1</cell><cell>14</cell><cell>8.8</cell><cell cols="3">53 67.1 9</cell><cell>11.4</cell><cell cols="2">13 16.5</cell></row><row><cell>Leukopenia</cell><cell>84</cell><cell>52.5</cell><cell>14</cell><cell>8.8</cell><cell>2</cell><cell>1.3</cell><cell cols="3">37 46.8 2</cell><cell>2.5</cell><cell>.</cell><cell>.</cell></row><row><cell>Neutropenia</cell><cell>76</cell><cell>47.5</cell><cell>22</cell><cell>13.8</cell><cell>3</cell><cell>1.9</cell><cell cols="3">33 42.3 3</cell><cell>3.8</cell><cell>1</cell><cell>1.3</cell></row><row><cell cols="5">Biochemical abnormalities (regardless of relationship) b</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Increased ALT</cell><cell>135</cell><cell>84.9</cell><cell>20</cell><cell>12.6</cell><cell>3</cell><cell>1.9</cell><cell cols="3">16 20.3 .</cell><cell>.</cell><cell>.</cell><cell>.</cell></row><row><cell cols="2">Increased creatinine 132</cell><cell>82.5</cell><cell>2</cell><cell>1.3</cell><cell>1</cell><cell>0.6</cell><cell cols="3">70 88.6 2</cell><cell>2.5</cell><cell>1</cell><cell>1.3</cell></row><row><cell>Increased AST</cell><cell>103</cell><cell>66.0</cell><cell>13</cell><cell>8.3</cell><cell>1</cell><cell>0.6</cell><cell cols="3">19 24.4 .</cell><cell>.</cell><cell>.</cell><cell>.</cell></row><row><cell>Increased CPK</cell><cell>69</cell><cell>44.5</cell><cell>13</cell><cell>8.4</cell><cell>18</cell><cell>11.6</cell><cell>3</cell><cell>4.3</cell><cell>.</cell><cell>.</cell><cell>.</cell><cell>.</cell></row><row><cell>Increased ALP</cell><cell>49</cell><cell>31.0</cell><cell>2</cell><cell>1.3</cell><cell>1</cell><cell>0.6</cell><cell cols="3">10 13.0 .</cell><cell>.</cell><cell>.</cell><cell>.</cell></row><row><cell>Increased bilirubin</cell><cell>18</cell><cell>11.3</cell><cell>3</cell><cell>1.9</cell><cell>.</cell><cell>.</cell><cell>7</cell><cell>8.9</cell><cell>.</cell><cell>.</cell><cell>.</cell><cell>.</cell></row><row><cell cols="7">Adverse events (treatment-related or with unknown relationship)</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Nausea</cell><cell>62</cell><cell>37.1</cell><cell>6</cell><cell>3.6</cell><cell>.</cell><cell>.</cell><cell>9</cell><cell cols="2">10.8 1</cell><cell>1.2</cell><cell>.</cell><cell>.</cell></row><row><cell>Fatigue</cell><cell>61</cell><cell>36.5</cell><cell>17</cell><cell>10.2</cell><cell>1</cell><cell>0.6</cell><cell>7</cell><cell>8.4</cell><cell>1</cell><cell>1.2</cell><cell>.</cell><cell>.</cell></row><row><cell>Myalgia</cell><cell>24</cell><cell>14.4</cell><cell>7</cell><cell>4.2</cell><cell>2</cell><cell>1.2</cell><cell>2</cell><cell>2.4</cell><cell>.</cell><cell>.</cell><cell>.</cell><cell>.</cell></row><row><cell>Vomiting</cell><cell>28</cell><cell>16.8</cell><cell>3</cell><cell>1.8</cell><cell>.</cell><cell>.</cell><cell>2</cell><cell>2.4</cell><cell>1</cell><cell>1.2</cell><cell>.</cell><cell>.</cell></row><row><cell>Diarrhea</cell><cell>24</cell><cell>14.4</cell><cell>2</cell><cell>1.2</cell><cell>.</cell><cell>.</cell><cell>2</cell><cell>2.4</cell><cell>.</cell><cell>.</cell><cell>.</cell><cell>.</cell></row><row><cell>Peripheral edema</cell><cell>20</cell><cell>12.0</cell><cell>2</cell><cell>1.2</cell><cell>.</cell><cell>.</cell><cell>2</cell><cell>2.4</cell><cell>.</cell><cell>.</cell><cell>.</cell><cell>.</cell></row><row><cell>Decreased appetite</cell><cell>21</cell><cell>12.6</cell><cell>1</cell><cell>0.6</cell><cell>.</cell><cell>.</cell><cell>2</cell><cell>2.4</cell><cell>.</cell><cell>.</cell><cell>.</cell><cell>.</cell></row><row><cell cols="2">Data shown are n (%) of patients</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Ordered by frequency</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row></table><note>a Events occurring after crossover are excluded from this tableb</note></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot">Ann Hematol (2019) 98:2139-2150</note>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Acknowledgments The authors wish to thank the patients, their families, and the clinical research teams for their time and trust and for enabling this clinical trial and associated research.</p></div>
+			</div>
+
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Author contributions IS and MAD designed the study. IS, EMO, HEO, RG, RHB, SYH, JMDR, MAD, SM, AMC, NM, CKM, and PC collected and assemble the data. IS, EMO, RHB, MAD, SM, SE, CK, VA, NM, RH, AS, HL, PS, and MVM developed the analytical plan and/or interpreted the data. MVM and VA co-wrote the first draft of the paper; all authors contributed to the further writing of the paper and approved the final version.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Compliance with ethical standards</head><p>Conflict of interest IS has honoraria (Amgen, Takeda, Janssen-Cilag, BMS, Celgene); consulting or advisory role (Amgen, Takeda, Janssen-Cilag, Celgene); speakers' bureau (Amgen, BMS Celgene, Jansen-Cilag); and travel, accommodation, or expenses (Celgene, Amgen, Jansen-Cilag) to disclose.</p><p>EMO has honoraria (Novartis, Takeda, Celgene, Amgen, BMS, Janssen); consulting or advisory role (Novartis, Takeda, Celgene, AbbVie, Pharma Mar, Seattle Genetics, Amgen); speakers' bureau (Takeda); research funding to his institution (Celgene, Amgen, Array, Mundipharma, Sanofi, MSD); patents, royalties, or other intellectual properties (Pharma Mar, Mundipharma, IDP); and travel, accommodation, or expenses (Celgene, Janssen, Takeda) to disclose.</p><p>HEO has a leadership role (Vertex, Astenas); stock ownership (Vertex); research funding (BMS, Pharma Mar); and travel, accommodation, or expenses (Novartis) to disclose.</p><p>RG has honoraria (Celgene, Roche, Merck, Takeda, Astra Zeneca, Novartis, Amgen, BMS, MSD, Sandoz); consulting or advisory role (Celgene, Novartis, Roche, BMS, Takeda, AbbVie, Astra Zeneca, Janssen); research funding (Celgene, Roche, Merck, Takeda, Astra Zeneca, Novartis, Amgen, BMS, MSD, Sandoz); and travel, accommodation, or expenses (Roche, Amgen, Janssen, Astra Zeneca) to disclose.</p><p>RHB has a consulting or advisory role (Specialised Therapeutics, Pharma Mar, BMS); research funding (Acerta, Pharma Mar, Celgene, Gilead, Novotech, Pharmacyclics, Roche); and travel, accommodation, or expenses (Roche, Janssen) to disclose.</p><p>JMDR has honoraria (Alexion, Roche); consulting or advisory role (Alexion, Roche); and travel, accommodation, or expenses (Pharma Mar, Alexion) to disclose.</p><p>Meletios A. Dimopoulos has honoraria (Amgen, Takeda, Janssen, Celgene, BMS) to disclose. SM, SE, CK, and VA are employees of Pharma Mar S.A. SE, CK, and VA have stock ownerships (Pharma Mar). RH has honoraria (Amgen, BMS, Takeda, Celgene, Janssen); consulting or advisory role (Amgen, BMS, Takeda, Celgene, Janssen); research funding to his institution (Takeda, Novartis, Amgen, Janssen, Celgene); travel, accommodation, or expenses (Amgen, BMS, Celgene, Janssen, Takeda) to disclose.</p><p>AS has honoraria (AbbVie, Amgen, Celgene, Janssen, Gilead, MSD, Novartis, Pfizer, Roche, Sanofi, Takeda, WinMedica); consulting or advisory role (AbbVie, Amgen, Celgene, Janssen, Gilead, MSD, Novartis, Pfizer, Roche, Sanofi, Takeda); speakers' bureau (AbbVie, Amgen, Celgene, Janssen, Gilead, MSD, Novartis, Pfizer, Roche, Sanofi, Takeda, WinMedica); research funding to his institution (AbbVie, Actelion, Alexion, Amgen, Astellas, Bayer, Bristol, Celgene, Demo/ApoPharma, Enorasis, Faran, Gilead, Janssen, MSD, Novartis, Pharmaten, Pfizer, Rafarm, Roche, Sanofi, Takeda, Teva, Vianex, WinMedica); and travel, accommodation, or expenses (AbbVie, Amgen, Celgene, Janssen, Gilead, Roche, Sanofi, Takeda) to disclose.</p><p>PC has travel, accommodations, or expenses (Amgen, Roche, BMSconference attendance sponsorship) to disclose. HL has a consulting or advisory role (Pharma Mar); speakers' bureau (Takeda, Amgen, Celgene, Janssen, BMS); and research funding (Takeda, Amgen) to disclose.</p><p>PS has honoraria (Janssen, Celgene, Amgen, Takeda); expert testimony (Pharma Mar); and research funding (Janssen, Celgene, Amgen, Takeda) to disclose.</p><p>MVM has honoraria to disclose from Pharma Mar because of the involvement in advisory boards.</p><p>All other authors declare that they have no competing interests.</p><p>Research involving human participants All procedures performed in studies involving human participants were in accordance with the ethical standards of the institutional and/or national research committee and with the 1964 Helsinki declaration and its later amendments or comparable ethical standards. This article does not contain any studies with animals performed by any of the authors.</p><p>Informed consent Informed consent was obtained from all individual participants included in the study.</p><p>Affiliations</p></div>			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">International Myeloma Working G (2012) Risk of progression and survival in multiple myeloma relapsing after therapy with IMiDs and bortezomib: a multicenter international myeloma working group study</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><forename type="middle">K</forename><surname>Kumar</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">H</forename><surname>Lee</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">J</forename><surname>Lahuerta</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">G</forename><surname>Morgan</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><forename type="middle">G</forename><surname>Richardson</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Crowley</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Haessler</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Feather</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Hoering</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><surname>Moreau</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">X</forename><surname>Leleu</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><surname>Hulin</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><forename type="middle">K</forename><surname>Klein</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><surname>Sonneveld</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><surname>Siegel</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Blade</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><surname>Goldschmidt</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Jagannath</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">S</forename><surname>Miguel</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><surname>Orlowski</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Palumbo</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">O</forename><surname>Sezer</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><forename type="middle">V</forename><surname>Rajkumar</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">B</forename><forename type="middle">G</forename><surname>Durie</surname></persName>
+		</author>
+		<idno type="DOI">10.1038/leu.2011.196</idno>
+		<ptr target="https://doi.org/10.1038/leu.2011.196" />
+	</analytic>
+	<monogr>
+		<title level="j">Leukemia</title>
+		<imprint>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="149" to="157" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Clinically relevant end points and new drug approvals for myeloma</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><forename type="middle">C</forename><surname>Anderson</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><forename type="middle">A</forename><surname>Kyle</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><forename type="middle">V</forename><surname>Rajkumar</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><forename type="middle">K</forename><surname>Stewart</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><surname>Weber</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><surname>Richardson</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Afpcem</forename><surname>Myeloma</surname></persName>
+		</author>
+		<idno type="DOI">10.1038/sj.leu.2405016</idno>
+		<ptr target="https://doi.org/10.1038/sj.leu.2405016" />
+	</analytic>
+	<monogr>
+		<title level="j">Leukemia</title>
+		<imprint>
+			<biblScope unit="volume">22</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="231" to="239" />
+			<date type="published" when="2008" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Aplidin induces apoptosis in human cancer cells via glutathione depletion and sustained activation of the epidermal growth factor receptor, Src, JNK, and p38 MAPK</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Cuadrado</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">L</forename><forename type="middle">F</forename><surname>Garcia-Fernandez</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">L</forename><surname>Gonzalez</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Y</forename><surname>Suarez</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Losada</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">V</forename><surname>Alcaide</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Martinez</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">M</forename><surname>Fernandez-Sousa</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">M</forename><surname>Sanchez-Puelles</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Munoz</surname></persName>
+		</author>
+		<idno type="DOI">10.1074/jbc.M201010200</idno>
+		<ptr target="https://doi.org/10.1074/jbc.M201010200" />
+	</analytic>
+	<monogr>
+		<title level="j">J Biol Chem</title>
+		<imprint>
+			<biblScope unit="volume">278</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="241" to="250" />
+			<date type="published" when="2003" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">JNK activation is critical for Aplidin-induced apoptosis</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Cuadrado</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">L</forename><surname>Gonzalez</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Y</forename><surname>Suarez</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Martinez</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Munoz</surname></persName>
+		</author>
+		<idno type="DOI">10.1038/sj.onc.1207636</idno>
+		<ptr target="https://doi.org/10.1038/sj.onc.1207636" />
+	</analytic>
+	<monogr>
+		<title level="j">Oncogene</title>
+		<imprint>
+			<biblScope unit="volume">23</biblScope>
+			<biblScope unit="issue">27</biblScope>
+			<biblScope unit="page" from="4673" to="4680" />
+			<date type="published" when="2004" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Translation elongation factor eEF1A2 is a novel anticancer target for the marine natural product plitidepsin</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Losada</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">J</forename><surname>Munoz-Alonso</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><surname>Garcia</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><forename type="middle">A</forename><surname>Sanchez-Murcia</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">F</forename><surname>Martinez-Leal</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">M</forename><surname>Dominguez</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">P</forename><surname>Lillo</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">F</forename><surname>Gago</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><forename type="middle">M</forename><surname>Galmarini</surname></persName>
+		</author>
+		<idno type="DOI">10.1038/srep35100</idno>
+		<ptr target="https://doi.org/10.1038/srep35100" />
+	</analytic>
+	<monogr>
+		<title level="j">Sci Rep</title>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="page">35100</biblScope>
+			<date type="published" when="2016" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Aplidin, a marine organism-derived compound with potent antimyeloma activity in vitro and in vivo</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><forename type="middle">S</forename><surname>Mitsiades</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><forename type="middle">M</forename><surname>Ocio</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Pandiella</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><surname>Maiso</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><surname>Gajate</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Garayoa</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><surname>Vilanova</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">C</forename><surname>Montero</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">N</forename><surname>Mitsiades</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><forename type="middle">J</forename><surname>Mcmullan</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">N</forename><forename type="middle">C</forename><surname>Munshi</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Hideshima</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><surname>Chauhan</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><surname>Aviles</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">G</forename><surname>Otero</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">G</forename><surname>Faircloth</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">V</forename><surname>Mateos</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><forename type="middle">G</forename><surname>Richardson</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">F</forename><surname>Mollinedo</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">F</forename><surname>San-Miguel</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><forename type="middle">C</forename><surname>Anderson</surname></persName>
+		</author>
+		<idno type="DOI">10.1158/0008-5472.CAN-07-5725</idno>
+		<ptr target="https://doi.org/10.1158/0008-5472.CAN-07-5725" />
+	</analytic>
+	<monogr>
+		<title level="j">Cancer Res</title>
+		<imprint>
+			<biblScope unit="volume">68</biblScope>
+			<biblScope unit="issue">13</biblScope>
+			<biblScope unit="page" from="5216" to="5225" />
+			<date type="published" when="2008" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">In vitro activity of aplidine, a new marinederived anti-cancer compound, on freshly explanted clonogenic human tumour cells and haematopoietic precursor cells</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><surname>Depenbrock</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><surname>Peter</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">G</forename><forename type="middle">T</forename><surname>Faircloth</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">I</forename><surname>Manzanares</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Jimeno</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><forename type="middle">R</forename><surname>Hanauske</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Br J Cancer</title>
+		<imprint>
+			<biblScope unit="volume">78</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page" from="739" to="744" />
+			<date type="published" when="1998" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Phase II clinical and pharmacokinetic study of plitidepsin 3-hour infusion every two weeks alone or with dexamethasone in relapsed and refractory multiple myeloma</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">V</forename><surname>Mateos</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">T</forename><surname>Cibeira</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><forename type="middle">G</forename><surname>Richardson</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">F</forename><surname>Prosper</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Oriol</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>De La Rubia</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">J</forename><surname>Lahuerta</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><surname>Garcia-Sanz</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Extremera</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Szyldergemajn</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><surname>Corrado</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><surname>Singer</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><forename type="middle">S</forename><surname>Mitsiades</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><forename type="middle">C</forename><surname>Anderson</surname></persName>
+		</author>
+		<idno type="DOI">10.1158/1078-0432.CCR-10-0469</idno>
+		<ptr target="https://doi.org/10.1158/1078-0432.CCR-10-0469" />
+	</analytic>
+	<monogr>
+		<title level="j">Clin Cancer Res</title>
+		<imprint>
+			<biblScope unit="volume">16</biblScope>
+			<biblScope unit="issue">12</biblScope>
+			<biblScope unit="page" from="3260" to="3269" />
+			<date type="published" when="2010" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Multiple myeloma: ESMO Clinical Practice Guidelines for diagnosis, treatment and follow-up</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><surname>Moreau</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">San</forename><surname>Miguel</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Ludwig</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><surname>Schouten</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><surname>Mohty</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Dimopoulos</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Dreyling</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Group</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Egw</forename></persName>
+		</author>
+		<idno type="DOI">10.1093/annonc/mdt297</idno>
+		<ptr target="https://doi.org/10.1093/annonc/mdt297" />
+	</analytic>
+	<monogr>
+		<title level="j">Ann Oncol</title>
+		<imprint>
+			<biblScope unit="volume">24</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page" from="133" to="137" />
+			<date type="published" when="2013" />
+		</imprint>
+	</monogr>
+	<note>Suppl</note>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><forename type="middle">V</forename><surname>Rajkumar</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">L</forename><surname>Harousseau</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">B</forename><surname>Durie</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><forename type="middle">C</forename><surname>Anderson</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Dimopoulos</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><surname>Kyle</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Blade</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><surname>Richardson</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><surname>Orlowski</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><surname>Siegel</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Jagannath</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Facon</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><surname>Avet-Loiseau</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Lonial</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Palumbo</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Zonder</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><surname>Ludwig</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><surname>Vesole</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">O</forename><surname>Sezer</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">N</forename><forename type="middle">C</forename><surname>Munshi</surname></persName>
+		</author>
+		<idno type="DOI">10.1182/blood-2010-10-299487</idno>
+		<ptr target="https://doi.org/10.1182/blood-2010-10-299487" />
+	</analytic>
+	<monogr>
+		<title level="m">International Myeloma Workshop Consensus P (2011) Consensus recommendations for the uniform reporting of clinical trials: report of the International Myeloma Workshop Consensus Panel</title>
+		<meeting><address><addrLine>San Miguel J</addrLine></address></meeting>
+		<imprint>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="page" from="4691" to="4695" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Adjusting survival time estimates to account for treatment switching in randomized controlled trials-an economic evaluation context: methods, limitations, and recommendations</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">N</forename><forename type="middle">R</forename><surname>Latimer</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><forename type="middle">R</forename><surname>Abrams</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><forename type="middle">C</forename><surname>Lambert</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">J</forename><surname>Crowther</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><forename type="middle">J</forename><surname>Wailoo</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">P</forename><surname>Morden</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><forename type="middle">L</forename><surname>Akehurst</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">J</forename><surname>Campbell</surname></persName>
+		</author>
+		<idno type="DOI">10.1177/0272989X13520192</idno>
+		<ptr target="https://doi.org/10.1177/0272989X13520192" />
+	</analytic>
+	<monogr>
+		<title level="j">Med Decis Mak</title>
+		<imprint>
+			<biblScope unit="volume">34</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="387" to="402" />
+			<date type="published" when="2014" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Overall survival of relapsed and refractory multiple myeloma patients after adjusting for crossover in the MM-003 trial for pomalidomide plus low-dose dexamethasone</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">G</forename><surname>Morgan</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Palumbo</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Dhanasiri</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><surname>Lee</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><surname>Weisel</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Facon</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Delforge</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Oriol</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Zaki</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">X</forename><surname>Yu</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">L</forename><surname>Sternas</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><surname>Jacques</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><surname>Akehurst</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">F</forename><surname>Offner</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">A</forename><surname>Dimopoulos</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/bjh.13227</idno>
+		<ptr target="https://doi.org/10.1111/bjh.13227" />
+	</analytic>
+	<monogr>
+		<title level="j">Br J Haematol</title>
+		<imprint>
+			<biblScope unit="volume">168</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page" from="820" to="823" />
+			<date type="published" when="2015" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">A phase 2 study of single-agent carfilzomib (PX-171-003-A1) in patients with relapsed and refractory multiple myeloma</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><forename type="middle">S</forename><surname>Siegel</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Martin</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Wang</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><surname>Vij</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><forename type="middle">J</forename><surname>Jakubowiak</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Lonial</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Trudel</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">V</forename><surname>Kukreti</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">N</forename><surname>Bahlis</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Alsina</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Chanan-Khan</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">F</forename><surname>Buadi</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">F</forename><forename type="middle">J</forename><surname>Reu</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">G</forename><surname>Somlo</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Zonder</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><surname>Song</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><forename type="middle">K</forename><surname>Stewart</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><surname>Stadtmauer</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">L</forename><surname>Kunkel</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Wear</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><forename type="middle">F</forename><surname>Wong</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><forename type="middle">Z</forename><surname>Orlowski</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Jagannath</surname></persName>
+		</author>
+		<idno type="DOI">10.1182/blood-2012-05-425934</idno>
+		<ptr target="https://doi.org/10.1182/blood-2012-05-425934" />
+	</analytic>
+	<monogr>
+		<title level="j">Blood</title>
+		<imprint>
+			<biblScope unit="volume">120</biblScope>
+			<biblScope unit="issue">14</biblScope>
+			<biblScope unit="page" from="2817" to="2825" />
+			<date type="published" when="2012" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Daratumumab monotherapy in patients with treatment-refractory multiple myeloma (SIRIUS): an open-label, randomised, phase 2 trial</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Lonial</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">B</forename><forename type="middle">M</forename><surname>Weiss</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><forename type="middle">Z</forename><surname>Usmani</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Singhal</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Chari</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">N</forename><forename type="middle">J</forename><surname>Bahlis</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Belch</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Krishnan</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><forename type="middle">A</forename><surname>Vescio</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">V</forename><surname>Mateos</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Mazumder</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><forename type="middle">Z</forename><surname>Orlowski</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><forename type="middle">J</forename><surname>Sutherland</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Blade</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><forename type="middle">C</forename><surname>Scott</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Oriol</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Berdeja</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Gharibo</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><forename type="middle">A</forename><surname>Stevens</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><surname>Leblanc</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Sebag</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">N</forename><surname>Callander</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Jakubowiak</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><surname>White</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>De La Rubia</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><forename type="middle">G</forename><surname>Richardson</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Lisby</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><surname>Feng</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><forename type="middle">M</forename><surname>Uhlar</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">I</forename><surname>Khan</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Ahmadi</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><forename type="middle">M</forename><surname>Voorhees</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/S0140-6736(15)01120-4</idno>
+		<ptr target="https://doi.org/10.1016/S0140-6736" />
+	</analytic>
+	<monogr>
+		<title level="j">Lancet</title>
+		<imprint>
+			<biblScope unit="volume">387</biblScope>
+			<biblScope unit="issue">15</biblScope>
+			<biblScope unit="page" from="1120" to="1124" />
+			<date type="published" when="2016" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">Pomalidomide plus low-dose dexamethasone versus high-dose dexamethasone alone for patients with relapsed and refractory multiple myeloma (MM-003): a randomised, open-label, phase 3 trial</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>San Miguel</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><surname>Weisel</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><surname>Moreau</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Lacy</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><surname>Song</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Delforge</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">L</forename><surname>Karlin</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><surname>Goldschmidt</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Banos</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Oriol</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Alegre</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><surname>Chen</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Cavo</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">L</forename><surname>Garderet</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">V</forename><surname>Ivanova</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Martinez-Lopez</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Belch</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Palumbo</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Schey</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><surname>Sonneveld</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">X</forename><surname>Yu</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">L</forename><surname>Sternas</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><surname>Jacques</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Zaki</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Dimopoulos</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/S1470-2045(13)70380-2</idno>
+		<ptr target="https://doi.org/10.1016/S1470-2045(13)70380-2" />
+	</analytic>
+	<monogr>
+		<title level="j">Lancet Oncol</title>
+		<imprint>
+			<biblScope unit="volume">14</biblScope>
+			<biblScope unit="issue">11</biblScope>
+			<biblScope unit="page" from="1055" to="1066" />
+			<date type="published" when="2013" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Multiple Myeloma Study I (2007) Lenalidomide plus dexamethasone for relapsed or refractory multiple myeloma</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Dimopoulos</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Spencer</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Attal</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><forename type="middle">M</forename><surname>Prince</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">L</forename><surname>Harousseau</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Dmoszynska</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">San</forename><surname>Miguel</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Hellmann</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Facon</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Foa</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><surname>Corso</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Masliak</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Z</forename><surname>Olesnyckyj</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Yu</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Z</forename><surname>Patin</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Zeldis</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">B</forename><surname>Knight</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><forename type="middle">D</forename></persName>
+		</author>
+		<idno type="DOI">10.1056/NEJMoa070594</idno>
+		<ptr target="https://doi.org/10.1056/NEJMoa070594" />
+	</analytic>
+	<monogr>
+		<title level="j">N Engl J Med</title>
+		<imprint>
+			<biblScope unit="volume">357</biblScope>
+			<biblScope unit="issue">21</biblScope>
+			<biblScope unit="page" from="2123" to="2132" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Bortezomib or high-dose dexamethasone for relapsed multiple myeloma</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><forename type="middle">G</forename><surname>Richardson</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><surname>Sonneveld</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">W</forename><surname>Schuster</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><surname>Irwin</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><forename type="middle">A</forename><surname>Stadtmauer</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Facon</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">L</forename><surname>Harousseau</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><surname>Ben-Yehuda</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Lonial</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><surname>Goldschmidt</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><surname>Reece</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">F</forename><surname>San-Miguel</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Blade</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Boccadoro</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Cavenagh</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">W</forename><forename type="middle">S</forename><surname>Dalton</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><forename type="middle">L</forename><surname>Boral</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><forename type="middle">L</forename><surname>Esseltine</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">B</forename><surname>Porter</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><surname>Schenkein</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><forename type="middle">C</forename><surname>Anderson</surname></persName>
+		</author>
+		<idno type="DOI">10.1056/NEJMoa043445</idno>
+		<ptr target="https://doi.org/10.1056/NEJMoa043445" />
+	</analytic>
+	<monogr>
+		<title level="j">N Engl J Med</title>
+		<imprint>
+			<biblScope unit="volume">352</biblScope>
+			<biblScope unit="issue">24</biblScope>
+			<biblScope unit="page" from="2487" to="2498" />
+			<date type="published" when="2005" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">PANORAMA 2: panobinostat in combination with bortezomib and dexamethasone in patients with relapsed and bortezomib-refractory myeloma</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><forename type="middle">G</forename><surname>Richardson</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><forename type="middle">L</forename><surname>Schlossman</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Alsina</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><forename type="middle">M</forename><surname>Weber</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><forename type="middle">E</forename><surname>Coutre</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><surname>Gasparetto</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Mukhopadhyay</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">S</forename><surname>Ondovik</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Khan</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><forename type="middle">S</forename><surname>Paley</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Lonial</surname></persName>
+		</author>
+		<idno type="DOI">10.1182/blood-2013-01-481325</idno>
+		<ptr target="https://doi.org/10.1182/blood-2013-01-481325" />
+	</analytic>
+	<monogr>
+		<title level="j">Blood</title>
+		<imprint>
+			<biblScope unit="volume">122</biblScope>
+			<biblScope unit="issue">14</biblScope>
+			<biblScope unit="page" from="2331" to="2337" />
+			<date type="published" when="2013" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">Panobinostat plus bortezomib and dexamethasone in previously treated multiple myeloma: outcomes by prior treatment</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><forename type="middle">G</forename><surname>Richardson</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Vtm</forename><surname>Hungria</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S-S</forename><surname>Yoon</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Beksac</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">A</forename><surname>Dimopoulos</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Elghandour</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">W</forename><forename type="middle">W</forename><surname>Jedrzejczak</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Guenther</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><forename type="middle">N</forename><surname>Nakorn</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">N</forename><surname>Siritanaratkul</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><forename type="middle">L</forename><surname>Schlossman</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Hou</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><surname>Moreau</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Lonial</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">H</forename><surname>Lee</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><surname>Einsele</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Sopala</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">B-R</forename><surname>Bengoudifa</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><surname>Corrado</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">F</forename><surname>Binlich</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">F</forename><surname>San-Miguel</surname></persName>
+		</author>
+		<idno type="DOI">10.1182/blood-2015-09-665018</idno>
+		<ptr target="https://doi.org/10.1182/blood-2015-09-665018" />
+	</analytic>
+	<monogr>
+		<title level="j">Blood</title>
+		<imprint>
+			<biblScope unit="volume">127</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page" from="713" to="721" />
+			<date type="published" when="2016" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">Eef1a2 promotes cell growth, inhibits apoptosis and activates JAK/STAT and AKT signaling in mouse plasmacytomas</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Z</forename><surname>Li</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><forename type="middle">F</forename><surname>Qi</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><forename type="middle">M</forename><surname>Shin</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Zingone</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><forename type="middle">J</forename><surname>Newbery</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><forename type="middle">L</forename><surname>Kovalchuk</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><forename type="middle">M</forename><surname>Abbott</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><forename type="middle">C</forename><surname>Morse</surname></persName>
+		</author>
+		<idno type="DOI">10.1371/journal.pone.0010755</idno>
+		<ptr target="https://doi.org/10.1371/journal.pone.0010755" />
+	</analytic>
+	<monogr>
+		<title level="j">PLoS One</title>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page">10755</biblScope>
+			<date type="published" when="2010" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">Plitidepsin: a potential new treatment for relapsed/refractory multiple myeloma</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Leisch</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Egle</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><surname>Greil</surname></persName>
+		</author>
+		<idno type="DOI">10.2217/fon-2018-0492</idno>
+		<ptr target="https://doi.org/10.2217/fon-2018-0492" />
+	</analytic>
+	<monogr>
+		<title level="j">Future Oncol</title>
+		<imprint>
+			<biblScope unit="volume">15</biblScope>
+			<biblScope unit="page" from="109" to="120" />
+			<date type="published" when="2018" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">Mouse translation elongation factor eEF1A-2 interacts with Prdx-I to protect cells against apoptotic death induced by oxidative stress</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><surname>Chang</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><surname>Wang</surname></persName>
+		</author>
+		<idno type="DOI">10.1002/jcb.20969</idno>
+		<ptr target="https://doi.org/10.1002/jcb.20969" />
+	</analytic>
+	<monogr>
+		<title level="j">J Cell Biochem</title>
+		<imprint>
+			<biblScope unit="volume">100</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="267" to="278" />
+			<date type="published" when="2007" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">Upregulation of eEF1A2 promotes proliferation and inhibits apoptosis in prostate cancer</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Y</forename><surname>Sun</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><surname>Du</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">B</forename><surname>Wang</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Y</forename><surname>Zhang</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">X</forename><surname>Liu</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">G</forename><surname>Ren</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.bbrc.2014.05.045</idno>
+		<ptr target="https://doi.org/10.1016/j.bbrc.2014.05.045" />
+	</analytic>
+	<monogr>
+		<title level="j">Biochem Biophys Res Commun</title>
+		<imprint>
+			<biblScope unit="volume">450</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="1" to="6" />
+			<date type="published" when="2014" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title level="a" type="main">Interaction of the eukaryotic elongation factor 1A with newly synthesized polypeptides</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Y</forename><surname>Hotokezaka</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">U</forename><surname>Tobben</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><surname>Hotokezaka</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><surname>Van Leyen</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Beatrix</forename><forename type="middle">B</forename><surname>Smith</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><forename type="middle">H</forename><surname>Nakamura</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Wiedmann</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename></persName>
+		</author>
+		<idno type="DOI">10.1074/jbc.M201022200</idno>
+		<ptr target="https://doi.org/10.1074/jbc.M201022200" />
+	</analytic>
+	<monogr>
+		<title level="j">J Biol Chem</title>
+		<imprint>
+			<biblScope unit="volume">277</biblScope>
+			<biblScope unit="issue">21</biblScope>
+			<biblScope unit="page" from="18545" to="18551" />
+			<date type="published" when="2002" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<monogr>
+		<title level="m" type="main">Publisher&apos;s note Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

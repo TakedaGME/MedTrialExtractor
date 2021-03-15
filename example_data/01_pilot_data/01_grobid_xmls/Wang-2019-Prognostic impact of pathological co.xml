@@ -1,0 +1,1403 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /data/rsg/nlp/juanmoo1/bin/grobid-0.6.1/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Prognostic impact of pathological complete remission after preoperative irradiation in patients with locally advanced head and neck squamous cell carcinoma: re-analysis of a phase 3 clinical study</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+				<date type="published" when="2014-03-05">05 Mar, 2014</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Kai</forename><surname>Wang</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Radiation Oncology</orgName>
+								<orgName type="institution" key="instit1">National Cancer Center/Cancer Hospital</orgName>
+								<orgName type="institution" key="instit2">Chinese Academy of Medical Sciences and Peking Union Medical College</orgName>
+								<address>
+									<settlement>Beijing</settlement>
+									<country key="CN">China</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="department">Department of Radiation Oncology, National Cancer Center/Cancer Hospital, Chinese Academy of Medical Sciences and Peking Union Medical College</orgName>
+								<address>
+									<settlement>Beijing</settlement>
+									<country key="CN">China</country>
+								</address>
+							</affiliation>
+						</author>
+						<author role="corresp">
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Junlin</forename><surname>Yi</surname></persName>
+							<email>yijunlin1969@163.com</email>
+							<idno type="ORCID">0000-0002-7083-0216</idno>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Radiation Oncology</orgName>
+								<orgName type="institution" key="instit1">National Cancer Center/Cancer Hospital</orgName>
+								<orgName type="institution" key="instit2">Chinese Academy of Medical Sciences and Peking Union Medical College</orgName>
+								<address>
+									<settlement>Beijing</settlement>
+									<country key="CN">China</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="department">Department of Radiation Oncology, National Cancer Center/Cancer Hospital, Chinese Academy of Medical Sciences and Peking Union Medical College</orgName>
+								<address>
+									<settlement>Beijing</settlement>
+									<country key="CN">China</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Xiaodong</forename><surname>Huang</surname></persName>
+							<idno type="ORCID">0000-0002-7083-0216</idno>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Radiation Oncology</orgName>
+								<orgName type="institution" key="instit1">National Cancer Center/Cancer Hospital</orgName>
+								<orgName type="institution" key="instit2">Chinese Academy of Medical Sciences and Peking Union Medical College</orgName>
+								<address>
+									<settlement>Beijing</settlement>
+									<country key="CN">China</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="department">Department of Radiation Oncology, National Cancer Center/Cancer Hospital, Chinese Academy of Medical Sciences and Peking Union Medical College</orgName>
+								<address>
+									<settlement>Beijing</settlement>
+									<country key="CN">China</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Yuan</forename><surname>Qu</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Radiation Oncology</orgName>
+								<orgName type="institution" key="instit1">National Cancer Center/Cancer Hospital</orgName>
+								<orgName type="institution" key="instit2">Chinese Academy of Medical Sciences and Peking Union Medical College</orgName>
+								<address>
+									<settlement>Beijing</settlement>
+									<country key="CN">China</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="department">Department of Radiation Oncology, National Cancer Center/Cancer Hospital, Chinese Academy of Medical Sciences and Peking Union Medical College</orgName>
+								<address>
+									<settlement>Beijing</settlement>
+									<country key="CN">China</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Jingwei</forename><surname>Luo</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Radiation Oncology</orgName>
+								<orgName type="institution" key="instit1">National Cancer Center/Cancer Hospital</orgName>
+								<orgName type="institution" key="instit2">Chinese Academy of Medical Sciences and Peking Union Medical College</orgName>
+								<address>
+									<settlement>Beijing</settlement>
+									<country key="CN">China</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="department">Department of Radiation Oncology, National Cancer Center/Cancer Hospital, Chinese Academy of Medical Sciences and Peking Union Medical College</orgName>
+								<address>
+									<settlement>Beijing</settlement>
+									<country key="CN">China</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Jianping</forename><surname>Xiao</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Shiping</forename><surname>Zhang</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Radiation Oncology</orgName>
+								<orgName type="institution" key="instit1">National Cancer Center/Cancer Hospital</orgName>
+								<orgName type="institution" key="instit2">Chinese Academy of Medical Sciences and Peking Union Medical College</orgName>
+								<address>
+									<settlement>Beijing</settlement>
+									<country key="CN">China</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="department">Department of Radiation Oncology, National Cancer Center/Cancer Hospital, Chinese Academy of Medical Sciences and Peking Union Medical College</orgName>
+								<address>
+									<settlement>Beijing</settlement>
+									<country key="CN">China</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Yuan</forename><surname>Tang</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Radiation Oncology</orgName>
+								<orgName type="institution" key="instit1">National Cancer Center/Cancer Hospital</orgName>
+								<orgName type="institution" key="instit2">Chinese Academy of Medical Sciences and Peking Union Medical College</orgName>
+								<address>
+									<settlement>Beijing</settlement>
+									<country key="CN">China</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="department">Department of Radiation Oncology, National Cancer Center/Cancer Hospital, Chinese Academy of Medical Sciences and Peking Union Medical College</orgName>
+								<address>
+									<settlement>Beijing</settlement>
+									<country key="CN">China</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Weixin</forename><surname>Liu</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Radiation Oncology</orgName>
+								<orgName type="institution" key="instit1">National Cancer Center/Cancer Hospital</orgName>
+								<orgName type="institution" key="instit2">Chinese Academy of Medical Sciences and Peking Union Medical College</orgName>
+								<address>
+									<settlement>Beijing</settlement>
+									<country key="CN">China</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="department">Department of Radiation Oncology, National Cancer Center/Cancer Hospital, Chinese Academy of Medical Sciences and Peking Union Medical College</orgName>
+								<address>
+									<settlement>Beijing</settlement>
+									<country key="CN">China</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff2">
+								<orgName type="department">Department of Radiation Oncology, Peking University Cancer Hospital and Institute</orgName>
+								<address>
+									<settlement>Beijing</settlement>
+									<country key="CN">China</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Guozhen</forename><surname>Xu</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Radiation Oncology</orgName>
+								<orgName type="institution" key="instit1">National Cancer Center/Cancer Hospital</orgName>
+								<orgName type="institution" key="instit2">Chinese Academy of Medical Sciences and Peking Union Medical College</orgName>
+								<address>
+									<settlement>Beijing</settlement>
+									<country key="CN">China</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="department">Department of Radiation Oncology, National Cancer Center/Cancer Hospital, Chinese Academy of Medical Sciences and Peking Union Medical College</orgName>
+								<address>
+									<settlement>Beijing</settlement>
+									<country key="CN">China</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Li</forename><surname>Gao</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Radiation Oncology</orgName>
+								<orgName type="institution" key="instit1">National Cancer Center/Cancer Hospital</orgName>
+								<orgName type="institution" key="instit2">Chinese Academy of Medical Sciences and Peking Union Medical College</orgName>
+								<address>
+									<settlement>Beijing</settlement>
+									<country key="CN">China</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="department">Department of Radiation Oncology, National Cancer Center/Cancer Hospital, Chinese Academy of Medical Sciences and Peking Union Medical College</orgName>
+								<address>
+									<settlement>Beijing</settlement>
+									<country key="CN">China</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Zhengang</forename><surname>Xu</surname></persName>
+							<affiliation key="aff3">
+								<orgName type="department" key="dep1">Department of Head and Neck Surgery</orgName>
+								<orgName type="department" key="dep2">National Cancer Center/Cancer HospitalChinese Academy of Medical Sciences and Peking Union Medical College</orgName>
+								<address>
+									<settlement>Beijing</settlement>
+									<country key="CN">China</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Shaoyan</forename><surname>Liu</surname></persName>
+							<affiliation key="aff3">
+								<orgName type="department" key="dep1">Department of Head and Neck Surgery</orgName>
+								<orgName type="department" key="dep2">National Cancer Center/Cancer HospitalChinese Academy of Medical Sciences and Peking Union Medical College</orgName>
+								<address>
+									<settlement>Beijing</settlement>
+									<country key="CN">China</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Xiaolei</forename><surname>Wang</surname></persName>
+							<affiliation key="aff3">
+								<orgName type="department" key="dep1">Department of Head and Neck Surgery</orgName>
+								<orgName type="department" key="dep2">National Cancer Center/Cancer HospitalChinese Academy of Medical Sciences and Peking Union Medical College</orgName>
+								<address>
+									<settlement>Beijing</settlement>
+									<country key="CN">China</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Prognostic impact of pathological complete remission after preoperative irradiation in patients with locally advanced head and neck squamous cell carcinoma: re-analysis of a phase 3 clinical study</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date type="published" when="2014-03-05">05 Mar, 2014</date>
+						</imprint>
+					</monogr>
+					<idno type="DOI">10.1186/s13014-019-1428-4</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.6.1" ident="GROBID" when="2020-10-09T18:38+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>Head and neck squamous cell carcinoma</term>
+					<term>Preoperative radiotherapy</term>
+					<term>Concurrent chemoradiotherapy</term>
+					<term>Pathological complete remission</term>
+					<term>Prognosis</term>
+				</keywords>
+			</textClass>
+			<abstract>
+				<p>Purpose: The purpose of this study was to determine the associations between pathological complete remission (pCR) and clinical outcomes in patients with locally advanced head and neck squamous cell carcinoma (HNSCC) who received preoperative radiotherapy or chemoradiotherapy in a phase 3 clinical study. Methods: A total of 222 newly diagnostic stage III/IVM0 HNSCC patients were randomly assigned to a preoperative concurrent chemoradiotherapy group (n = 104) or preoperative radiotherapy alone group (n = 118). Over a mean follow-up of 59 months, 72 patients were defined as non-responders to preoperative therapy and subsequently underwent resection of the primary lesion with or without neck dissection. The relationship between the pathological tumor response of the primary lesion and treatment prognosis was analyzed. Kaplan-Meier and Cox regression multivariate analyses were performed to evaluate the impact of pCR on local control (LC), overall survival (OS), progression-free survival (PFS), and distant metastasis-free survival (DMFS). Results: Among the 72 non-responders, 25 patients, 10 in the chemotherapy group and 15 in the radiotherapy group, achieved pCR. The 5-year LC, OS, PFS, and DMFS of pCR patients and non-pCR patients were 93.2% vs. 67.7% (p = 0.007), 83.3% vs. 39.7% (p = 0.0006), 76.1% vs. 44.0% (p = 0.009), and 90.4% vs. 56.3% (p = 0.005), respectively. In multivariate analysis, pCR is also an independent prognostic factor in prognosis, with statistically significant differences. Conclusion: pCR after preoperative radiotherapy or concurrent chemoradiotherapy is a good prognostic factor in locally advanced HNSCC.</p>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Introduction</head><p>Although surgery followed by radiotherapy and/or concurrent chemoradio-therapy has been the major treatment choice recommended by the NCCN guideline for treating locally advanced head and neck squamous cell carcinoma (HNSCC) for many years <ref type="bibr" target="#b0">[1]</ref>, the outcome with this regimen is still limited by a low 5-year survival rate, which remains &lt; 40% <ref type="bibr" target="#b1">[2,</ref><ref type="bibr" target="#b2">3]</ref>. In recent years, several researches have suggested that preoperative radiotherapy and preoperative concurrent chemoradiotherapy may improve the overall survival (OS) compared to surgery alone in patients with head and neck cancer <ref type="bibr" target="#b3">[4]</ref><ref type="bibr" target="#b4">[5]</ref><ref type="bibr" target="#b5">[6]</ref>. The advantages of preoperative radiotherapy or preoperative concurrent chemoradiotherapy for head and neck cancer include down-staging, increased resectability rate, etc. Further evidence from several phase 2 studies have shown that preoperative concurrent chemoradiotherapy provides excellent treatment outcomes by leading to a pathological complete response rate ranging from 35 to 61% and an increased 5-year OS rate of up to 70-81.5% <ref type="bibr" target="#b4">[5]</ref><ref type="bibr" target="#b5">[6]</ref><ref type="bibr" target="#b6">[7]</ref><ref type="bibr" target="#b7">[8]</ref>.</p><p>Several authors have suggested that the pathological response to preoperative radiotherapy or chemoradiotherapy is a valuable prognostic factor for local control and OS <ref type="bibr" target="#b8">[9,</ref><ref type="bibr" target="#b9">10]</ref>. In one of our randomized phase 3 studies, we evaluated the role of adding concurrent cisplatin to preoperative radiotherapy in the treatment of locally advanced HNSCC <ref type="bibr" target="#b10">[11]</ref>. In this study, 222 eligible patients were randomly assigned to a preoperative radiotherapy group (n = 118) or a preoperative concurrent chemoradiotherapy group (n = 104). The results revealed that preoperative concurrent chemoradiotherapy led to a significantly improved distant metastasis-free survival (DMFS) compared to preoperative radiotherapy alone. According to the protocol, non-responders (defined by &lt; 80% reduction of the primary lesion after preoperative treatment), subsequently underwent resection of the primary lesion with or without neck dissection depending on the nodal status. In total, 72 non-responders (33.8%) were observed in this phase 3 study.</p><p>In the present study, we analyzed the relationships between pathological complete remission (pCR) and clinical outcomes in these 72 non-responder patients.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Materials and methods</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Patients</head><p>The details of the study design and data collection have been published in our previous study <ref type="bibr" target="#b10">[11]</ref>. In brief, from September 2002 to May 2012, a total of 222 HNSCC patients were enrolled in this phase 3 study, among which 104 patients were assigned to the preoperative concurrent chemoradiotherapy group and 118 patients were assigned to the preoperative radiotherapy group.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Treatment</head><p>All these patients received radiotherapy with either twodimensional or intensity-modulated radiotherapy (IMRT). Patients assigned to the chemoradiotherapy group additionally received concurrent chemotherapy with 30 mg/ m 2 cisplatin weekly. The tumor response was assessed by computed tomography (CT) and/or magnetic resonance imaging (MRI) and endoscopy examination at the end of the 5th week (50 Gy). Non-responders (defined as &lt; 80% reduction of the primary lesion volume) underwent resection of the primary tumor and modified neck dissection within 4-6 weeks after the completion of preoperative treatment. Seventy-two patients were non-responders, including 35 patients in the preoperative radiotherapy group and 37 patients in the chemoradiotherapy group.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Pathological response analysis</head><p>The surgical samples of all clinical non-responders were assessed pathologically, and patients were classified according to the pathological response as the pCR group and non-pCR group, depending on whether residual tumor cells remained in the surgical sample or not.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Follow-up</head><p>After completion of the treatment plan, patients were followed up for a minimum of 5 years or until death, with a regular frequency: at 1 month, every 3 months for the first 2 years, every 6 months for the 2-5 years after treatment, and every year thereafter.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Statistical analysis</head><p>In our previous study, we revealed that in a subset of patients with primary tumors of the larynx-hypopharynx, preoperative chemoradiotherapy significantly improved the PFS and DMFS, and also provided a borderline benefit in OS in compared with preoperative radiotherapy. Therefore, in the current study, a sub-analysis comparing clinical outcomes in patients with larynxhypopharynx primary tumors was performed.</p><p>Log-rank test was applied to compare the differences in baseline characteristics between pCR and non-pCR patients. The LC, OS, PFS and DMFS were calculated by the Kaplan-Meier method. The multivariate analysis were by Cox regressive analysis. All tests were two-sided and p &lt; 0.05 was considered statistically significant. All analyses were conducted using SPSS 21.0 software (IBM Corporation, Armonk, New York, U.S).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Results</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Baseline characteristic between different pathological responses</head><p>The total of 72 non-responders included 37 patients in the preoperative concurrent chemoradiotherapy group (n = 104) and 35 patients in the preoperative radiotherapy group (n = 118). Among these 72 non-responders, 25 patients (34.7%) achieved pCR, including 10 patients (10/37) in the chemoradiotherapy group and 15 patients (15/25) in the radiotherapy group <ref type="table" target="#tab_0">(Table 1</ref>). There were no significant differences between the pCR and non-pCR groups in terms of primary tumor site, tumor staging (T, N stage), grades of clinical group, and treatment technique (all p &gt; 0.05).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Univariate analysis of prognostic impact of pCR for treatment outcomes</head><p>Over a median follow-up of 24 months (range, 3-122 months), the 5-year estimated LC, OS, PFS, and DMFS for pCR patients and non-pCR patients were 93.2% vs. 67.7% (p = 0.007), 83.3% vs. 39.7% (p = 0.0006), 76.1% vs. 44.0% (p = 0.003), and 90.4% vs. 56.3% (p = 0.005), respectively ( <ref type="figure">Fig. 1</ref>).</p><p>There were 46 non-responders with larynxhypopharynx primary tumors, 17 of whom achieved pCR of the primary lesion. The 5-year estimated LC, OS, PFS, and DMFS for these pCR and non-pCR patients were 100% vs. 81.4% (p = 0.068), 94.7% vs. 50.1% (p = 0.008), 81.9% vs. 51.2% (p = 0.03), and 94.1% vs. 61.1% (p = 0.02), respectively <ref type="figure">(Fig. 2</ref>).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Multivariate analysis of prognostic impact of pCR for treatment outcomes</head><p>In multivariate analysis, pCR was an independent prognostic factors of LC(p = 0.002) ( <ref type="table" target="#tab_1">Table 2</ref>) and OSwith statistically significant differences (p&lt;0.001) ( <ref type="table" target="#tab_2">Table 3</ref>). And pCR also played an significant role in DMFS and PFS (Additional file 1: <ref type="table" target="#tab_0">Table S1</ref>). In addition, the degree of pathological differentiation, primary lesion in hypopharynx/larynx and N stage were also independent prognostic factors for OS. Other factors such as gender, age, T stage, technology of radiation and chemotherapy were not independent prognostic factors for OS.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Discussion</head><p>The current analysis revealed that clinical outcomes including local control, OS, PFS, and DMFS were statistically better in patients with locally advanced HNSCC who achieved pCR than in those who did not. These results indicate that pCR could be used as a potential prognostic factor for patients with locally advanced HNSCC after preoperative irradiation.</p><p>Non-response after preoperative treatment was defined by a reduction in the primary lesion of less than 80% at the end of 50 Gy irradiation with or without chemotherapy as evaluated by CT/MRI and endoscopy examination. We identified 25 out of 72 (34.7%) patients who achieved pCR among those who were nonresponders to preoperative treatment. In the study by Kirita et al. <ref type="bibr" target="#b11">[12]</ref>, 48 patients with oral cavity cancer received cisplatin-or carboplatin-based preoperative concurrent chemoradiotherapy (RT 40 Gy), and the clinical CR and pCR rates were 60.4 and 50%, respectively. The lower pCR rate found in our study can primarily be attributed to the fact that only non-responding patients received surgical treatment in our study. In our phase 3 study, of the 222 patients enrolled, only 72 were nonresponders based on imaging examination after 50 Gy irradiation with or without chemotherapy and underwent surgery. The other 150 patients who showed a good response received non-surgical therapy, and it is reasonable to expect that if they had been treated with surgery,  the pCR rate would be higher in the 150 good responders than in the 72 non-responders.</p><p>Although planned preoperative concurrent chemoradiotherapy in head and neck cancer is not as popular as in esophageal cancer, rectal cancer, breast cancer, and non-small cell lung cancer, the relationship between pathological response and clinical outcome after preoperative radiotherapy has also been well studied. Friesland et al. <ref type="bibr" target="#b12">[13]</ref> reported that among 167 patients with tonsillar carcinoma treated by radiotherapy with or without surgery, 28% of patients received surgery for the primary site and/or neck dissection after radiotherapy, and the 5-year OS for patients with pCR was 43%, whereas that for patients with non-pCR was 9% (p &lt; 0.0001). The long-term prognostic value of achieving clinical CR, especially pCR in oral cancer was reported by Kirita et al <ref type="bibr" target="#b11">[12]</ref>, who found that the 10-year PFS of patients with pCR was better than that of patients with extensive residual tumor (87.5% vs. 40%). In addition, patients who showed good histopathology responses had superior survival (p = 0.012). The same results were found in patients with tongue carcinoma <ref type="bibr" target="#b13">[14]</ref>; the PFS rates according to tumor regression rate were 33.3% for patients with less than 50% tumor regression, 66.7% for patients with 50-75% regression, 100% for patients with 75-100% regression, and 96.0% for patients with complete regression. The survival rate was statistically different between patients who achieved a regression rate of 75% or higher and those who did not (p &lt; 0.0001). Other authors also reported significant differences in treatment outcomes between good and poor responders, with 5-year survival rates of 68-84% versus 24-32% <ref type="bibr" target="#b9">[10,</ref><ref type="bibr" target="#b14">15]</ref>.</p><p>Recently, preoperative concurrent chemoradiotherapy has been used increasingly more frequently in esophagogastric cancer, non-small cell lung cancer, rectal cancer, and breast cancer, and it was found that a good pathologic response to preoperative chemoradiotherapy correlates with better long-term survival in these cancers <ref type="bibr" target="#b15">[16]</ref><ref type="bibr" target="#b16">[17]</ref><ref type="bibr" target="#b17">[18]</ref><ref type="bibr" target="#b18">[19]</ref><ref type="bibr" target="#b19">[20]</ref><ref type="bibr" target="#b20">[21]</ref><ref type="bibr" target="#b21">[22]</ref><ref type="bibr" target="#b22">[23]</ref><ref type="bibr" target="#b23">[24]</ref><ref type="bibr" target="#b24">[25]</ref>. Even in resectable non-small cell lung cancer, the major pathological response was suggested to be a surrogate endpoint for survival in future neoadjuvant trials <ref type="bibr" target="#b22">[23]</ref>. Based on the results obtained in studies of esophagogastric cancer and rectal cancer, planned preoperative concurrent chemoradiotherapy may play an important role in the treatment of locally advanced head and neck cancer.</p><p>The relationship between clinical response and pathological response is still controversial. In our study, 25  (34.7%) clinical non-responders' achieved pCR for the primary lesion. For gastric-esophagus conjunction carcinoma, Cheedella et al. <ref type="bibr" target="#b17">[18]</ref> reported that the specificity of clinical CR for pCR is too low to be used for clinical decision-making regarding the delay or avoidance of surgery. The same finding was reported in rectal cancer treated with preoperative chemoradiotherapy <ref type="bibr" target="#b25">[26]</ref>. Accurately predicting pCR after preoperative treatment and thereby avoiding surgery is difficult. This issue has been the focus of many efforts in recent years, and functional imaging has been suggested to resolve this problem. Hatakenaka et al. <ref type="bibr" target="#b26">[27]</ref> found that pretreatment apparent diffusion coefficient (ADC) of the primary lesion correlated with local failure in 38 primary HNSCC patients treated with chemoradiotherapy or radiotherapy. Vandecaveye et al. <ref type="bibr" target="#b27">[28]</ref> compared the change in ADC between before and 3 weeks after CRT (ΔADC) in 29 HNSCC patients and found that the negative predictive value of ΔADC in terms of tumor response for the primary lesion was 100%, and diffusion-weighted imaging (DWI) was better than anatomical imaging in predicting tumor response. Jacobs et al. <ref type="bibr" target="#b28">[29]</ref> also found that the ΔADC during chemoradiotherapy and 4 weeks postchemoradiotherapy were the best predictive parameters for pathological good response. Ceulemans et al. <ref type="bibr" target="#b29">[30]</ref> investigated the role of fluorodeoxy glucose positron emission tomography PET/CT during radiotherapy (47 Gy) and 4 months after radiotherapy in 40 HNSCC patients and found that PET/CT at both times had a high specificity and positive predictive value for the evaluation of tumor response, suggesting that it might be used as an indicator for avoiding unnecessary salvage surgery in patients with CR, although PET/CT at 4 months after radiotherapy had the strongest predictive power. Hur et al. <ref type="bibr" target="#b30">[31]</ref> reported a biomarker-based scoring system for predicting tumor response after preoperative chemoradiotherapy in rectal cancer. They found that the mRNA expression levels of four biomarkers (p53, p21, Ki67, and CD133) significantly correlated with tumor regression grade and pathologic complete response. Radiogenomics, which links different imaging features with diverse genomic events, is a new and exciting field within radiology, and imaging genomic linkages can help in monitoring treatment response. This method now is widely investigated in many types of tumors such as brain tumor, rectal cancer, and head and neck cancer <ref type="bibr" target="#b31">[32,</ref><ref type="bibr" target="#b32">33]</ref>.</p><p>In summary, for locally advanced HNSCC, a multidisciplinary treatment modality was the mainstay treatment choice. Achievement of pCR after preoperative treatment is associated with good treatment outcomes. At present, induction chemotherapy followed by concurrent chemoradiotherapy or concurrent chemoradiotherapy, with surgery as salvage therapy, is used with increasing frequency in the treatment of locally advanced HNSCC.</p><p>Determining how to assess the tumor response accurately after preoperative treatment is very important, and for patients who achieved pCR, surgery may be avoidable, which improves organ function preservation. Moreover, it is reasonable to expect that the tumor response after preoperative treatment will help to predict outcome even more accurately when combined with clinical characteristics based on functional imaging, biomarkers, and genomics.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>Fig. 1 Fig. 2</head><label>12</label><figDesc>Differences in treatment outcomes between pCR and non-pCR patients among the whole cohort of patients: a local control, b overall survival, c progression-free survival, and d distant metastasis-free survival Differences in treatment outcomes between the pCR and non-pCR patients who had primary tumors of the larynx-hypopharynx: a local control, b overall survival, c progression-free survival, and d distant metastasis-free survival</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>Table 1</head><label>1</label><figDesc>Baseline characteristics of 72 patients with locally advanced head and neck squamous cell carcinoma according to whether they achieved pathological complete remission (pCR)</figDesc><table><row><cell>Characteristic</cell><cell cols="2">pCR (n = 25)</cell><cell cols="2">Non-pCR (n = 47)</cell><cell>p-</cell></row><row><cell></cell><cell>n</cell><cell>%</cell><cell>n</cell><cell>%</cell><cell>value</cell></row><row><cell>Gender</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Male</cell><cell>22</cell><cell>35.5</cell><cell>40</cell><cell>64.5</cell><cell>0.735</cell></row><row><cell>Female</cell><cell>3</cell><cell>30.0</cell><cell>7</cell><cell>70.0</cell><cell></cell></row><row><cell>Median age (years)</cell><cell>55</cell><cell></cell><cell>55</cell><cell></cell><cell></cell></row><row><cell>Primary site</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Oral cavity</cell><cell>4</cell><cell>30.8</cell><cell>9</cell><cell>69.2</cell><cell>0.869</cell></row><row><cell>Oropharynx</cell><cell>4</cell><cell>30.8</cell><cell>9</cell><cell>69.2</cell><cell></cell></row><row><cell>Larynx/Hypopharynx</cell><cell>17</cell><cell>37.0</cell><cell>29</cell><cell>63.0</cell><cell></cell></row><row><cell>T stage</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>T1</cell><cell>1</cell><cell>50.0</cell><cell>1</cell><cell>50.0</cell><cell>0.218</cell></row><row><cell>T2</cell><cell>7</cell><cell>63.6</cell><cell>4</cell><cell>36.4</cell><cell></cell></row><row><cell>T3</cell><cell>7</cell><cell>35.0</cell><cell>13</cell><cell>65.0</cell><cell></cell></row><row><cell>T4a</cell><cell>9</cell><cell>26.5</cell><cell>25</cell><cell>73.5</cell><cell></cell></row><row><cell>T4b</cell><cell>1</cell><cell>20.0</cell><cell>4</cell><cell>80.0</cell><cell></cell></row><row><cell>N stage</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>N0</cell><cell>2</cell><cell>25.0</cell><cell>6</cell><cell>75.0</cell><cell>0.266</cell></row><row><cell>N1</cell><cell>1</cell><cell>10.0</cell><cell>9</cell><cell>90.0</cell><cell></cell></row><row><cell>N2</cell><cell>18</cell><cell>40.9</cell><cell>26</cell><cell>59.1</cell><cell></cell></row><row><cell>N3</cell><cell>4</cell><cell>40.0</cell><cell>6</cell><cell>60.0</cell><cell></cell></row><row><cell>Clinical group</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>III</cell><cell>1</cell><cell>14.3</cell><cell>6</cell><cell>85.7</cell><cell>0.463</cell></row><row><cell>IVA</cell><cell>9</cell><cell>22.5</cell><cell>31</cell><cell>77.5</cell><cell></cell></row><row><cell>IVB</cell><cell>5</cell><cell>33.3</cell><cell>10</cell><cell>66.7</cell><cell></cell></row><row><cell>Concurrent chemotherapy</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Yes</cell><cell>10</cell><cell>27.0</cell><cell>27</cell><cell>73.0</cell><cell>0.158</cell></row><row><cell>No</cell><cell>15</cell><cell>42.9</cell><cell>20</cell><cell>57.1</cell><cell></cell></row><row><cell>Radiotherapy technique</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>2D</cell><cell>14</cell><cell>29.8</cell><cell>33</cell><cell>70.2</cell><cell>0.228</cell></row><row><cell>IMRT</cell><cell>11</cell><cell>44.0</cell><cell>14</cell><cell>56.0</cell><cell></cell></row></table><note>2D Two dimensional, IMRT Intensity-modulated radiotherapy</note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_1"><head>Table 2</head><label>2</label><figDesc>Multivariate analysis for the local control</figDesc><table><row><cell>B</cell><cell>SE</cell><cell>p</cell><cell>HR (95% CI)</cell></row></table><note></note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_2"><head>Table 3</head><label>3</label><figDesc>Multivariate analysis for the overall survival</figDesc><table><row><cell>B</cell><cell>SE</cell><cell>p</cell><cell>HR (95% CI)</cell></row></table><note></note></figure>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Acknowledgements</head><p>The authors thank all patients who participated in the present study. </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Authors' contributions</head></div>
+			</div>
+
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Supplementary information</head><p>Supplementary information accompanies this paper at https://doi.org/10. 1186/s13014-019-1428-4.</p><p>Additional file 1: <ref type="table">Table S1</ref>. Multivariate analysis for DMFS and PFS. </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Availability of data and materials</head><p>The datasets used and/or analyzed during the current study are available from the corresponding author on reasonable request.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Ethics approval and consent to participate</head><p>This is re-analysis of a phase 3 clinical study. The prospective study was approved by National Cancer Center/Cancer Hospital, Chinese Academy of Medical Science and Peking Union Medical College (No.CAMSCHRTOG2002-1) Institutional Review Board. All patients provided written informed consent prior to treatment, and all information was anonymized prior to analysis.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Consent for publication</head><p>Not applicable.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Competing interests</head><p>The authors declare that they have no competing interests. </p></div>			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">NCCN practice guidelines for head and neck cancers</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><forename type="middle">G</forename><surname>Pfister</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><surname>Ang</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">B</forename><surname>Brockstein</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><forename type="middle">D</forename><surname>Colevas</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Ellenhorn</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><surname>Goepfert</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Oncology</title>
+		<imprint>
+			<biblScope unit="volume">14</biblScope>
+			<biblScope unit="issue">11A</biblScope>
+			<biblScope unit="page" from="163" to="94" />
+			<date type="published" when="2000" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Combined radiation therapy and surgery in the management of advanced head and neck cancer: final report of study 73-03 of the radiation therapy oncology group</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Kramer</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><forename type="middle">D</forename><surname>Gelber</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">B</forename><surname>Snow</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">V</forename><forename type="middle">A</forename><surname>Marcial</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">L</forename><forename type="middle">D</forename><surname>Lowry</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">L</forename><forename type="middle">W</forename><surname>Davis</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Head Neck Surg</title>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="19" to="30" />
+			<date type="published" when="1987" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Treatment of the neck in patients with squamous cell carcinoma of the head and neck</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><forename type="middle">H</forename><surname>Jesse</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">G</forename><forename type="middle">H</forename><surname>Fletcher</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Cancer</title>
+		<imprint>
+			<biblScope unit="volume">39</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="868" to="72" />
+			<date type="published" when="1977" />
+		</imprint>
+	</monogr>
+	<note>Suppl</note>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Low-dose preoperative chemoradiation therapy compared with surgery alone with or without postoperative radiotherapy in patients with head and neck carcinoma</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Mucke</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Konen</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Wagenpfeil</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">R</forename><surname>Kesting</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><forename type="middle">D</forename><surname>Wolff</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">F</forename><surname>Holzle</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ann Surg Oncol</title>
+		<imprint>
+			<biblScope unit="volume">18</biblScope>
+			<biblScope unit="issue">10</biblScope>
+			<biblScope unit="page" from="2739" to="2786" />
+			<date type="published" when="2011" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Preoperative simultaneous chemoradiotherapy in locally advanced cancer of the oral cavity and oropharynx</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">M</forename><surname>Del Campo</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><surname>Felip</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Giralt</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">G</forename><surname>Raspall</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Bescos</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Casado</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Am J Clin Oncol</title>
+		<imprint>
+			<biblScope unit="volume">20</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="97" to="100" />
+			<date type="published" when="1997" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Preoperative induction chemotherapy followed by concurrent chemoradiotherapy in advanced carcinoma of the oral cavity and oropharynx</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">L</forename><surname>Giralt</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Gonzalez</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">M</forename><surname>Del Campo</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Maldonado</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">X</forename><surname>Sanz</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Pamias</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Cancer</title>
+		<imprint>
+			<biblScope unit="volume">89</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page" from="939" to="984" />
+			<date type="published" when="2000" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Preoperative simultaneous cisplatin-or carboplatin-based chemotherapy and radiotherapy for squamous cell carcinoma of the oral cavity</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Kirita</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><surname>Ohgi</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Tsuyuki</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">N</forename><surname>Kamikaido</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><surname>Yamamoto</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Sugimura</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Surg Oncol</title>
+		<imprint>
+			<biblScope unit="volume">63</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="240" to="248" />
+			<date type="published" when="1996" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Preoperative concurrent chemoradiotherapy for stages II-IV oral squamous cell carcinoma: a retrospective analysis and the future possibility of this treatment strategy</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Kirita</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Y</forename><surname>Yamanaka</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Y</forename><surname>Imai</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">N</forename><surname>Yamakawa</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><surname>Aoki</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Y</forename><surname>Nakagawa</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Int J Oral Maxillofac Surg</title>
+		<imprint>
+			<biblScope unit="volume">41</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="421" to="429" />
+			<date type="published" when="2012" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Preoperative chemoradiotherapy in the management of oral cancer: a review</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><surname>Klug</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><surname>Berzaczy</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Voracek</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">W</forename><surname>Millesi</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Cranio-maxillo-facial Surg</title>
+		<imprint>
+			<biblScope unit="volume">36</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="75" to="88" />
+			<date type="published" when="2008" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Predictive factors for the histologic response to preoperative radiotherapy in advanced oral cancer</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><surname>Onizawa</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><surname>Yoshida</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><surname>Ohara</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Noguchi</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Oral Maxillofac Surg</title>
+		<imprint>
+			<biblScope unit="volume">64</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="81" to="87" />
+			<date type="published" when="2006" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Phase III randomized trial of preoperative concurrent chemoradiotherapy versus preoperative radiotherapy for patients with locally advanced head and neck squamous cell carcinoma</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Yi</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">X</forename><surname>Huang</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Z</forename><surname>Xu</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Liu</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">X</forename><surname>Wang</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">X</forename><surname>He</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Oncotarget</title>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="issue">27</biblScope>
+			<biblScope unit="page" from="44842" to="50" />
+			<date type="published" when="2017" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Preoperative concurrent chemoradiotherapy plus radical surgery for advanced squamous cell carcinoma of the oral cavity: an analysis of longterm results</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Kirita</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><surname>Ohgi</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><surname>Shimooka</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Y</forename><surname>Yamanaka</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Tatebayashi</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><surname>Yamamoto</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Oral Oncol</title>
+		<imprint>
+			<biblScope unit="volume">35</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page" from="597" to="606" />
+			<date type="published" when="1999" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Prognostic impact of complete remission after preoperative irradiation of tonsillar carcinoma: a retrospective analysis of the radiumhemmet data, 1980-1995</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Friesland</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">O</forename><surname>Fernberg</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">G</forename><surname>Lundell</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><surname>Munck-Wikland</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><surname>Strander</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><surname>Lewensohn</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Int J Radiat Oncol Biol Phys</title>
+		<imprint>
+			<biblScope unit="volume">45</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page" from="1259" to="66" />
+			<date type="published" when="1999" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<monogr>
+		<title level="m" type="main">Prognostic value of response to preoperative chemoradiotherapy and residual tumor grades in tongue carcinoma. Oral Surg Oral Med Oral Pathol Oral Radiol Endod</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Kirita</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><surname>Shimooka</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Y</forename><surname>Yamanaka</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Tatebayashi</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><surname>Yamamoto</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Nishimine</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2001" />
+			<biblScope unit="volume">91</biblScope>
+			<biblScope unit="page" from="293" to="300" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">Prognostic value of histopathological response to radiotherapy and microvessel density in oral squamous cell carcinomas</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><surname>Brun</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">U</forename><surname>Zatterstrom</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><surname>Kjellen</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><surname>Wahlberg</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><surname>Willen</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Brun</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Acta Oncol</title>
+		<imprint>
+			<biblScope unit="volume">40</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="491" to="497" />
+			<date type="published" when="2001" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Pathological complete remission in patients with oesophagogastric cancer receiving preoperative 5-fluorouracil, oxaliplatin and docetaxel</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">N</forename><surname>Homann</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><surname>Pauligk</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><surname>Luley</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Werner</forename><surname>Kraus</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Bruch</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><forename type="middle">P</forename><surname>Atmaca</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Int J Cancer</title>
+		<imprint>
+			<biblScope unit="volume">130</biblScope>
+			<biblScope unit="issue">7</biblScope>
+			<biblScope unit="page" from="1706" to="1719" />
+			<date type="published" when="2012" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Response to neoadjuvant chemotherapy best predicts survival after curative resection of gastric cancer</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><forename type="middle">M</forename><surname>Lowy</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><forename type="middle">F</forename><surname>Mansfield</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><forename type="middle">D</forename><surname>Leach</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><surname>Pazdur</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><surname>Dumas</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">A</forename><surname>Ajani</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ann Surg</title>
+		<imprint>
+			<biblScope unit="volume">229</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="303" to="311" />
+			<date type="published" when="1999" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Association between clinical complete response and pathological complete response after preoperative chemoradiation in patients with gastroesophageal cancer: analysis in a large cohort</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">N</forename><forename type="middle">K</forename><surname>Cheedella</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Suzuki</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">L</forename><surname>Xiao</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">W</forename><forename type="middle">L</forename><surname>Hofstetter</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><forename type="middle">M</forename><surname>Maru</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Taketa</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ann Oncol</title>
+		<imprint>
+			<biblScope unit="volume">24</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page" from="1262" to="1268" />
+			<date type="published" when="2013" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">Impact of pathologic complete response on disease-free survival in patients with esophagogastric adenocarcinoma receiving preoperative docetaxel-based chemotherapy</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Lorenzen</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><surname>Thuss-Patience</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><forename type="middle">E</forename><surname>Al-Batran</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">F</forename><surname>Lordick</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">B</forename><surname>Haller</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Schuster</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ann Oncol</title>
+		<imprint>
+			<biblScope unit="volume">24</biblScope>
+			<biblScope unit="issue">8</biblScope>
+			<biblScope unit="page" from="2068" to="73" />
+			<date type="published" when="2013" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">Tumor regression grading after preoperative chemoradiotherapy for locally advanced rectal carcinoma revisited: updated results of the CAO/ARO/AIO-94 trial</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><surname>Fokas</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Liersch</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><surname>Fietkau</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">W</forename><surname>Hohenberger</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Beissbarth</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><surname>Hess</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Clin Oncol</title>
+		<imprint>
+			<biblScope unit="volume">32</biblScope>
+			<biblScope unit="issue">15</biblScope>
+			<biblScope unit="page" from="1554" to="62" />
+			<date type="published" when="2014" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">The prognostic value of tumour regression grade following neoadjuvant chemoradiation therapy for rectal cancer</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><forename type="middle">I</forename><surname>Abdul-Jalil</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><forename type="middle">M</forename><surname>Sheehan</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Kehoe</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><surname>Cummins</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">O'</forename><surname>Grady</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Mcnamara</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><forename type="middle">A</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Color Dis</title>
+		<imprint>
+			<biblScope unit="volume">16</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="16" to="25" />
+			<date type="published" when="2014" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">Complete clinical response to neoadjuvant chemoradiation in rectal cancers: can surgery be avoided?</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Ayloor</forename><surname>Seshadri</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><surname>Kondaveeti</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><forename type="middle">S</forename><surname>Jayanand</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><forename type="middle">B</forename><surname>John</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Rajendranath</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><surname>Arumugam</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">V</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Hepatogastroenterology</title>
+		<imprint>
+			<biblScope unit="volume">60</biblScope>
+			<biblScope unit="issue">123</biblScope>
+			<biblScope unit="page" from="410" to="414" />
+			<date type="published" when="2013" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">Pathological response after neoadjuvant chemotherapy in resectable nonsmall-cell lung cancers: proposal for the use of major pathological response as a surrogate endpoint</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">D</forename><surname>Hellmann</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">E</forename><surname>Chaft</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">W</forename><forename type="middle">N</forename><surname>William</surname><genName>Jr</genName></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">V</forename><surname>Rusch</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><forename type="middle">M</forename><surname>Pisters</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">N</forename><surname>Kalhor</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Lancet Oncol</title>
+		<imprint>
+			<biblScope unit="volume">15</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="42" to="50" />
+			<date type="published" when="2014" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title level="a" type="main">Pathological response and survival after neoadjuvant therapy for breast cancer: a 30-year study</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Guiu</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">L</forename><surname>Arnould</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">F</forename><surname>Bonnetain</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><surname>Dalban</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">L</forename><surname>Favier</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">I</forename><surname>Desmoulins</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Breast</title>
+		<imprint>
+			<biblScope unit="volume">22</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="301" to="309" />
+			<date type="published" when="2013" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title level="a" type="main">Meta-analysis confirms achieving pathological complete response after neoadjuvant chemotherapy predicts favourable prognosis for breast cancer patients</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">X</forename><surname>Kong</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">S</forename><surname>Moran</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">N</forename><surname>Zhang</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">B</forename><surname>Haffty</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Q</forename><surname>Yang</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Eur J Cancer</title>
+		<imprint>
+			<biblScope unit="volume">47</biblScope>
+			<biblScope unit="issue">14</biblScope>
+			<biblScope unit="page" from="2084" to="90" />
+			<date type="published" when="2011" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title level="a" type="main">Clinical criteria underestimate complete pathological response in rectal cancer treated with neoadjuvant chemoradiotherapy</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">F</forename><forename type="middle">M</forename><surname>Smith</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><surname>Wiland</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Mace</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><forename type="middle">K</forename><surname>Pai</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">F</forename><surname>Kalady</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Dis Colon Rectum</title>
+		<imprint>
+			<biblScope unit="volume">57</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="311" to="316" />
+			<date type="published" when="2014" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title level="a" type="main">Pretreatment apparent diffusion coefficient of the primary lesion correlates with local failure in head-and-neck cancer treated with chemoradiotherapy or radiotherapy</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Hatakenaka</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><surname>Nakamura</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><surname>Yabuuchi</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Y</forename><surname>Shioyama</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Y</forename><surname>Matsuo</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><surname>Ohnishi</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Int J Radiat Oncol Biol Phys</title>
+		<imprint>
+			<biblScope unit="volume">81</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="339" to="384" />
+			<date type="published" when="2011" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+		<title level="a" type="main">Diffusion-weighted magnetic resonance imaging early after chemoradiotherapy to monitor treatment response in head-and-neck squamous cell carcinoma</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">V</forename><surname>Vandecaveye</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><surname>Dirix</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">De</forename><surname>Keyzer</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">F</forename></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Op</forename><surname>De Beeck</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><surname>Vander Poorten</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">V</forename><surname>Hauben</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Int J Radiat Oncol Biol Phys</title>
+		<imprint>
+			<biblScope unit="volume">82</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="1098" to="107" />
+			<date type="published" when="2012" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<analytic>
+		<title level="a" type="main">Diffusion-weighted MRI for early prediction of treatment response on preoperative Chemoradiotherapy for patients with locally advanced rectal Cancer: a feasibility study</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">L</forename><surname>Jacobs</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Intven</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">N</forename><surname>Van Lelyveld</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Philippens</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Burbach</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><surname>Seldenrijk</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ann Surg</title>
+		<imprint>
+			<biblScope unit="volume">263</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="522" to="530" />
+			<date type="published" when="2016" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<analytic>
+		<title level="a" type="main">Can 18-FDG-PET during radiotherapy replace post-therapy scanning for detection/demonstration of tumor response in head-and-neck cancer?</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">G</forename><surname>Ceulemans</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Voordeckers</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Farrag</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><surname>Verdries</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">G</forename><surname>Storme</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><surname>Everaert</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Int J Radiat Oncol Biol Phys</title>
+		<imprint>
+			<biblScope unit="volume">81</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="938" to="980" />
+			<date type="published" when="2011" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<analytic>
+		<title level="a" type="main">Biomarker-based scoring system for prediction of tumor response after preoperative Chemoradiotherapy in rectal Cancer by reverse transcriptase polymerase chain reaction analysis</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><surname>Hur</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">I</forename><surname>Tulina</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">S</forename><surname>Cho</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">B</forename><forename type="middle">S</forename><surname>Min</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">W</forename><forename type="middle">S</forename><surname>Koom</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">S</forename><surname>Lim</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Dis Colon Rectum</title>
+		<imprint>
+			<biblScope unit="volume">59</biblScope>
+			<biblScope unit="issue">12</biblScope>
+			<biblScope unit="page" from="1174" to="82" />
+			<date type="published" when="2016" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<monogr>
+		<title level="m" type="main">From K-space to nucleotide: insights into the Radiogenomics of brain tumors. Top Magnet Reson Imaging : TMRI</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">N</forename><surname>Elshafeey</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">I</forename><surname>Hassan</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><forename type="middle">O</forename><surname>Zinn</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><forename type="middle">R</forename><surname>Colen</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2017" />
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="page" from="33" to="41" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<analytic>
+		<title level="a" type="main">Unravelling tumour heterogeneity using next-generation imaging: radiomics, radiogenomics, and habitat imaging</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><surname>Sala</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><surname>Mema</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Y</forename><surname>Himoto</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><surname>Veeraraghavan</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">D</forename><surname>Brenton</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Snyder</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Clin Radiol</title>
+		<imprint>
+			<biblScope unit="volume">72</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="3" to="10" />
+			<date type="published" when="2017" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<monogr>
+		<title level="m" type="main">Publisher&apos;s Note</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<monogr>
+		<title level="m">Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

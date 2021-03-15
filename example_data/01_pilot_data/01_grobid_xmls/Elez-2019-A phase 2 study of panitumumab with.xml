@@ -1,0 +1,1325 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /data/rsg/nlp/juanmoo1/bin/grobid-0.6.1/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">A phase 2 study of panitumumab with irinotecan as salvage therapy in chemorefractory KRAS exon 2 wild-type metastatic colorectal cancer patients</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+				<date type="published" when="2019-07-31">31 July 2019</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Elena</forename><surname>Elez</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Medical Oncology</orgName>
+								<orgName type="institution" key="instit1">Vall d&apos;Hebron Institute of Oncology</orgName>
+								<orgName type="institution" key="instit2">Hospital Universitari Vall d&apos;Hebron</orgName>
+								<orgName type="institution" key="instit3">Universitat Autònoma de Barcelona</orgName>
+								<address>
+									<settlement>Barcelona</settlement>
+									<country key="ES">Spain</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Carles</forename><surname>Pericay</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="department">Department of Medical Oncology</orgName>
+								<orgName type="institution">C.S. Parc Tauli</orgName>
+								<address>
+									<settlement>Barcelona</settlement>
+									<country key="ES">Spain</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Manuel</forename><surname>Valladares-Ayerbes</surname></persName>
+							<affiliation key="aff2">
+								<orgName type="department">Department of Medical Oncology</orgName>
+								<orgName type="institution">Complejo Hospitalario Universitario A Coruña, A Coruña</orgName>
+								<address>
+									<country key="ES">Spain</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Inmaculada</forename><surname>Bando</surname></persName>
+							<affiliation key="aff3">
+								<orgName type="institution" key="instit1">Laboratory Hospital Clínico San Carlos</orgName>
+								<orgName type="institution" key="instit2">Instituto de Investigación Hospital Clínico San Carlos (IdISSC)</orgName>
+								<orgName type="institution" key="instit3">University Complutense</orgName>
+								<address>
+									<settlement>Madrid</settlement>
+									<country key="ES">Spain</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff4">
+								<orgName type="institution">CIBERONC</orgName>
+								<address>
+									<settlement>Madrid</settlement>
+									<country key="ES">Spain</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Maria</forename><forename type="middle">Jose</forename><surname>Safont</surname></persName>
+							<affiliation key="aff5">
+								<orgName type="department">Department of Medical Oncology</orgName>
+								<orgName type="institution">General Universitario de Valencia Hospital</orgName>
+								<address>
+									<settlement>Valencia</settlement>
+									<country key="ES">Spain</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Javier</forename><surname>Gallego</surname></persName>
+							<affiliation key="aff6">
+								<orgName type="department">Department of Medical Oncology</orgName>
+								<orgName type="institution">General Universitario de Elche Hospital</orgName>
+								<address>
+									<settlement>Alicante</settlement>
+									<country key="ES">Spain</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Cristina</forename><surname>Grávalos</surname></persName>
+							<affiliation key="aff7">
+								<orgName type="department">Department of Medical Oncology</orgName>
+								<orgName type="institution">Universitario Doce de Octubre Hospital</orgName>
+								<address>
+									<settlement>Madrid</settlement>
+									<country key="ES">Spain</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Antonio</forename><surname>Arrivi</surname></persName>
+							<affiliation key="aff8">
+								<orgName type="department">Department of Medical Oncology</orgName>
+								<orgName type="institution">Son Llàtzer Hospital</orgName>
+								<address>
+									<settlement>Palma de Mallorca</settlement>
+									<country key="ES">Spain</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Alfredo</forename><surname>Carrato</surname></persName>
+							<affiliation key="aff9">
+								<orgName type="department">Department of Medical Oncology</orgName>
+								<orgName type="institution" key="instit1">IRYCIS</orgName>
+								<orgName type="institution" key="instit2">CIBERONC</orgName>
+								<orgName type="institution" key="instit3">Alcalá University</orgName>
+								<address>
+									<settlement>Hospital</settlement>
+								</address>
+							</affiliation>
+							<affiliation key="aff10">
+								<orgName type="institution">Universitario Ramón y Cajal</orgName>
+								<address>
+									<settlement>Madrid</settlement>
+									<country key="ES">Spain</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Verónica</forename><surname>Conde</surname></persName>
+							<affiliation key="aff11">
+								<orgName type="department">Department of Medical Oncology</orgName>
+								<orgName type="institution">Virgen de las Nieves Hospital</orgName>
+								<address>
+									<settlement>Granada</settlement>
+									<country key="ES">Spain</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Maria</forename><forename type="middle">José</forename><surname>Ortiz</surname></persName>
+							<affiliation key="aff12">
+								<orgName type="institution" key="instit1">IMIBIC</orgName>
+								<orgName type="institution" key="instit2">Reina Sofía Hospital</orgName>
+								<orgName type="institution" key="instit3">University of Córdoba</orgName>
+								<orgName type="institution" key="instit4">CIBERONC</orgName>
+								<orgName type="institution" key="instit5">Instituto de Salud Carlos III</orgName>
+								<address>
+									<settlement>Córdoba</settlement>
+									<country key="ES">Spain</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Carlos</forename><surname>López</surname></persName>
+							<affiliation key="aff13">
+								<orgName type="department">Department of Medical Oncology</orgName>
+								<orgName type="institution">Marqués de Valdecilla Hospital</orgName>
+								<address>
+									<settlement>Santander</settlement>
+									<country key="ES">Spain</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Beatriz</forename><surname>Alonso</surname></persName>
+							<affiliation key="aff14">
+								<orgName type="department">Department of Medical Oncology</orgName>
+								<orgName type="institution">Universitario de Canarias Hospital</orgName>
+								<address>
+									<settlement>Tenerife</settlement>
+									<country key="ES">Spain</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Inmaculada</forename><surname>Ruiz De Mena</surname></persName>
+							<affiliation key="aff15">
+								<orgName type="laboratory">Spanish Cooperative Group for the Treatment of Digestive Tumours (TTD)</orgName>
+								<address>
+									<settlement>Madrid</settlement>
+									<country key="ES">Spain</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Eduardo</forename><surname>Díaz-Rubio</surname></persName>
+							<affiliation key="aff3">
+								<orgName type="institution" key="instit1">Laboratory Hospital Clínico San Carlos</orgName>
+								<orgName type="institution" key="instit2">Instituto de Investigación Hospital Clínico San Carlos (IdISSC)</orgName>
+								<orgName type="institution" key="instit3">University Complutense</orgName>
+								<address>
+									<settlement>Madrid</settlement>
+									<country key="ES">Spain</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff4">
+								<orgName type="institution">CIBERONC</orgName>
+								<address>
+									<settlement>Madrid</settlement>
+									<country key="ES">Spain</country>
+								</address>
+							</affiliation>
+						</author>
+						<author role="corresp">
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Josep</forename><surname>Tabernero</surname></persName>
+							<email>jtabernero@vhio.net</email>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Medical Oncology</orgName>
+								<orgName type="institution" key="instit1">Vall d&apos;Hebron Institute of Oncology</orgName>
+								<orgName type="institution" key="instit2">Hospital Universitari Vall d&apos;Hebron</orgName>
+								<orgName type="institution" key="instit3">Universitat Autònoma de Barcelona</orgName>
+								<address>
+									<settlement>Barcelona</settlement>
+									<country key="ES">Spain</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Enrique</forename><surname>Aranda</surname></persName>
+							<affiliation key="aff12">
+								<orgName type="institution" key="instit1">IMIBIC</orgName>
+								<orgName type="institution" key="instit2">Reina Sofía Hospital</orgName>
+								<orgName type="institution" key="instit3">University of Córdoba</orgName>
+								<orgName type="institution" key="instit4">CIBERONC</orgName>
+								<orgName type="institution" key="instit5">Instituto de Salud Carlos III</orgName>
+								<address>
+									<settlement>Córdoba</settlement>
+									<country key="ES">Spain</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff16">
+								<orgName type="department" key="dep1">IMIBIC, Reina Sofía Hospital</orgName>
+								<orgName type="department" key="dep2">CIBERONC, Instituto de Salud Carlos III</orgName>
+								<orgName type="institution">University of Córdoba</orgName>
+								<address>
+									<settlement>Córdoba</settlement>
+									<country key="ES">Spain</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff17">
+								<orgName type="institution">Clínica Rotger</orgName>
+								<address>
+									<addrLine>Balearic Islands</addrLine>
+									<settlement>Palma</settlement>
+									<country key="ES">Spain</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">A phase 2 study of panitumumab with irinotecan as salvage therapy in chemorefractory KRAS exon 2 wild-type metastatic colorectal cancer patients</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date type="published" when="2019-07-31">31 July 2019</date>
+						</imprint>
+					</monogr>
+					<idno type="DOI">10.1038/s41416-019-0537-z</idno>
+					<note type="submission">Received: 7 December 2018 Accepted: 11 July 2019</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.6.1" ident="GROBID" when="2020-10-09T18:38+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<abstract>
+				<p>BACKGROUND: Targeted agents are standard treatment for RAS wild-type metastatic colorectal cancer in the firstand second-line settings. This phase 2 study determined the benefit of targeting the epidermal growth factor receptor (EGFR) with panitumumab plus irinotecan in irinotecan-refractory patients. METHODS: KRAS exon-2 wild-type patients failing prior irinotecan received panitumumab (6 mg/kg) and irinotecan (180 mg/m²) every 2 weeks. The primary endpoint was the overall response rate (ORR). Secondary endpoints included safety, progression-free survival (PFS) and overall survival (OS). KRAS exon-2 status was evaluated centrally, along with NRAS, BRAF mutations, epiregulin, amphiregulin, PTEN and EGFR copy number status, and correlated with efficacy. RESULTS: Sixty-one patients were treated. Among the 46 wild-type RAS patients, the ORR was 15.2% (seven partial responses), with median PFS of 3.8 months (95% CI 2.7-4.3) and median OS of 12.5 months (95% CI 6.7-15.9). Wild-type BRAF patients showed a 13.0% response rate. No significant correlations between response and baseline biomarker expression were identified. Common grade 3-4 adverse events were diarrhoea and rash (18.0% each), hypomagnesaemia and asthenia (8.2% each). CONCLUSIONS: The addition of panitumumab to irinotecan as salvage therapy is feasible but has limited activity in irinotecanrefractory metastatic colorectal cancer. No biomarkers predictive of response were identified.</p>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>wild-type mCRC, is greatest in patients with left-sided tumours, <ref type="bibr" target="#b7">7</ref> with similar effects in later lines. <ref type="bibr" target="#b8">8,</ref><ref type="bibr" target="#b9">9</ref> Few options exist for patients with irinotecan-refractory mCRC. Over a decade ago, the pivotal BOND study demonstrated that the addition of EGFR-targeted cetuximab to irinotecan restored chemotherapy sensitivity in a patient population previously treated with irinotecan, most of whom had received at least two prior therapy lines. <ref type="bibr" target="#b10">10</ref> A significantly higher response rate was seen for the combination (22.9% versus 10.8% with irinotecan alone, p = 0.007), along with improved PFS (4.1 versus 1.5 months, respectively; hazard ratio 0.54 [95% CI, 0.42-0.71], p &lt; 0.001).</p><p>In the current study, we report the results of a single-arm phase 2 study evaluating the effect on efficacy of the addition of panitumumab to irinotecan as salvage therapy in wild-type KRAS exon-2 mCRC patients progressing on irinotecan-based therapy. Efficacy was analysed in terms of response rate, PFS and OS, along with evaluation of patient characteristics and genetic alterations as potential biomarkers predictive of benefit.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>METHODS</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Patients</head><p>Adult patients aged ≥18 years with histologically-confirmed metastatic adenocarcinoma of the colon or rectum and wildtype KRAS (codons 12 and 13; allelic discrimination, investigatorevaluated) were eligible. Patients had to have progressed (by radiographic imaging) during or within 3 months after irinotecanbased therapy, either 180 mg/m² every 2 weeks (single-agent or FOLFIRI) or 350 mg/m² every 3 weeks (single-agent), and have received irinotecan for at least 6 weeks, with no more than two dose reductions. In addition, one or more measurable lesion, a Karnofsky performance status of at least 70%, adequate haematological, hepatic and renal function, and serum magnesium and calcium levels within normal limits were required. Prior anti-EGFR therapy was not permitted. Patients provided written informed consent prior to enrolment.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Study design</head><p>This phase 2 single-arm, open-label study was performed in 12 Spanish centres. Patients received panitumumab (6 mg/kg, 60-min infusion) followed by irinotecan (180 mg/m², 90-min infusion) every 2 weeks. For patients who had received a reduced dose with prior irinotecan therapy, this dose was maintained, and for patients who had received 350 mg/m² irinotecan every 3 weeks, the equivalent every-2-weeks dose was used. In the event of grade 3-4 related events or skin or nail toxicity requiring treatment or considered intolerable, panitumumab was withheld and the dose reduced (to 4.8 then 3.2 mg/kg), while irinotecan was maintained. If irinotecan was delayed, panitumumab was also delayed (maximum of 1 month). Panitumumab monotherapy was permitted after irinotecan discontinuation but not vice versa. Patients who underwent curative metastatic resection could continue in the study 4 weeks later. Patients continued treatment until progression or unacceptable toxicity.</p><p>Efficacy and safety assessments Tumour response was evaluated by computerised tomography scan and/or magnetic resonance imaging according to the modified Response Evaluation Criteria in Solid Tumours (m-RECIST). <ref type="bibr" target="#b11">11</ref> Response was assessed every 6 weeks during the first 6 months and every 2 months thereafter until progression or withdrawal. Responses were confirmed at least 1 month after the criteria were first met. After discontinuation, patients without progression were followed-up every 6 weeks until progression, and progressing patients were followed-up every 3 months. Adverse events (AEs) were graded according to NCI-CTCAE v3.0.</p><p>Biomarker analysis Tumour blocks were reviewed centrally. DNA and RNA were extracted using QIAamp ® DNA FFPE Tissue and RNeasy ® FFPE kits and analysed with a Nanodrop ® ND1000. Mutations in KRAS codons 61, 117 and 146, and NRAS codons 12, 13, 61, 117 and 146 were detected by pyrosequencing. Mutations in BRAF (V600E) and PIK3CA (R88Q, N345k, C420R, E542K, E545D, E545K, M1043I, H1047R and H1047Y) were detected by real-time PCR cobas ® Mutation Tests. Amphiregulin and epiregulin mRNA expression was evaluated by real-time PCR with TaqMan ® Gene Expression assays. ROC curves were used to determine cut-off values for high versus low expression. PTEN protein expression was assessed with the 17. A mouse monoclonal antibody. PTEN-negative was defined as no or weak staining and positive as moderate or strong. EGFR was analysed by fluorescence in situ hybridisation by two blinded pathologists using an EGFR-specific probe (orange signal) and a control chromosome probe 7 (green signal); two orange and green signals per tumour cell or a ratio ≤1 was considered to be no EGFR amplification, more than two orange and green signals with a ratio greater than 2 or a ratio of 1.5 in ≥10% cells was considered amplification, four orange and green signals in ≥10% tumour cells was polysomy. See also Supplementary Methods.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Statistical analysis</head><p>A two-stage Simon model was used to test the null hypothesis that P 0 ≤ 0.15 12 versus true activity with P 1 ≥30%, and assuming α = 0.1 and β = 0.1. Accordingly, if responses were seen in at least six of the first 34 evaluable patients, a further 19 evaluable patients were included. If overall, at least 16 patients achieved an objective response, the combination was considered sufficiently active. Sixty wild-type KRAS patients were planned, allowing for a 10% non-evaluable rate.</p><p>The primary endpoint was the overall response rate (ORR) in the intention-to-treat (ITT) population. Secondary endpoints included disease control rate, PFS, OS, and safety. PFS and OS were analysed by the Kaplan-Meier method. Efficacy was also analysed in terms of candidate predictive molecular markers (RAS, BRAF, PI3K and PTEN mutations, EGFR amplification, PTEN loss-offunction, and epiregulin and amphiregulin levels) using log-rank tests, and baseline patient and disease covariates using logistic regression with univariate and multivariate proportional hazard models. Analyses were performed with SAS version 9.4.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>RESULTS</head><p>A total of 61 patients with KRAS exon 2 wild-type CRC tumours were enrolled between July 2009 and June 2012 and received a median of 78 days of treatment (range, 1-279). Patient demographics and disease characteristics are shown in <ref type="table" target="#tab_0">Table 1</ref>. All patients had received one or two prior lines of treatment for metastatic disease, all of whom had received prior irinotecan, 92% of patients had received prior oxaliplatin and 62% had been treated with at least one prior line of bevacizumab. Extended RAS analysis was performed in 57 patients, 46 of whom were confirmed to be wild-type.</p><p>Anti-tumour activity At the cut-off date of 27 February 2014, median follow-up was 11 months (95% CI 6.7-14.8). In the overall population, eight patients had partial responses giving an ORR of 13.1% (95% CI, 4.6-21.6%) in the 61 ITT patients ( <ref type="table" target="#tab_1">Table 2</ref>). The disease control rate was 62.3% (95% CI, 50.1-74.5%), including 30 patients with stable disease, lasting a median of 3.0 months (95% CI, 2.1-3.4 months). Median PFS was 3.7 months (95% CI, 2.7-4.2 months) and median OS was 11.1 months (95% CI, 7.1-14.8 months). None of the candidate predictive factors evaluated by regression analysis (sex, performance status, age, number of previous lines of therapy, tumour location, lactate dehydrogenase levels) affected survival parameters or the response rate.</p><p>Efficacy was also analysed among the 46 RAS wild-type patients, seven of whom had partial response versus 1 of the 11 RASmutated patients, giving ORRs of 15.2% <ref type="table" target="#tab_1">(Table 2</ref>) versus 9.1%, in these two populations, respectively. Disease control in the wildtype population was 67.4% (95% CI, 53.8-80.4%). This translated into only small differences in survival, with a median PFS in wildtype patients of 3.8 months (95% CI, 2.7-4.3 months) versus 2.9 months (95% CI, 1.4-4.6 months) in RAS-mutated patients <ref type="figure" target="#fig_0">(Fig. 1)</ref>. Median OS was 12.5 months (95% CI, 6.7-15.9 months) in wild-type patients versus 11.1 months (95% CI, 4.2-23.9 months) in mutated patients. Efficacy was further analysed in this subpopulation according to prior bevacizumab treatment, showing similar trends to the overall wild-type population ( <ref type="table" target="#tab_1">Table 2)</ref>. Although ORR was improved in patients who had received prior bevacizumab compared to those who had not (20.7% vs 5.9%, respectively), this did not translate into any obvious differences in terms of disease control (69.0% vs 64.7%, respectively) or median PFS (3.8 vs 3.9 months, respectively).</p><p>Efficacy was also analysed according to several candidate predictive biomarkers, comparing subpopulations with and without mutations or amplifications in key molecular pathways (BRAF, PI3KCA, PTEN and EGFR) and with high versus low expression (amphiregulin and epiregulin). No significant associations between the presence of these biomarkers and response were found, although analyses suggested some minor trends towards improved efficacy in patients with wild-type BRAF, wild-type PI3KCA, high epiregulin or amphiregulin expression and/or without EGFR amplification.</p><p>Among the 54 patients with wild-type BRAF status, seven had a partial response, giving a response rate of 13.0% versus 25.0% in mutated patients (one response among four patients). PFS was 3.7 months (95% CI, 2.7-4.2) versus 1.8 months (95% CI, 0.7-6.4), respectively. Analysis of the all-RAS/all-BRAF wild-type population gave similar outcomes to each of the individual contributing wildtype populations with an ORR of 14.3%, disease control of 71.4% (95% CI 57.8-85.1%) and median PFS of 4.0 months (95% CI, 2.7-4.6 months). Of the 49 wild-type PI3KCA patients, seven had partial response, giving a response rate of 14.3% versus 12.5% in mutated tumours. PFS was 3.9 months (95% CI, 2.9-4.3) versus 2.7 months (95% CI, 0.7-5.7) respectively.</p><p>Epiregulin was analysed in 35 patients; partial responses were seen in three of the 18 high expression patients and two of the 17 low expression patients, giving 16.7% and 11.8% response rates, respectively. Median PFS was 3.9 months (95% CI, 2.7-4.6) and  Among the 32 patients evaluable for PTEN, none of the nine patients expressing PTEN responded, while five non-expressing patients had a partial response (21.7%). Median PFS was 4.1 months (95% CI, 0.7-4.9) in patients with PTEN and 3.0 months (95% CI, 1.6-4.1) in patients without. Among the 34 patients evaluable for EGFR amplification status, three patients showed amplification, all of whom had presented stable disease, compared with five partial responses among the 31 EGFR-negative patients (16.1%). PFS was 2.9 months (95% CI, 2.7-3.6) versus 3.7 months (95% CI, 1.6-4.6).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Safety</head><p>As anticipated, the most common treatment-related AEs were gastrointestinal and dermatological, including diarrhoea (62.3%), rash (59.0%), asthenia (50.8%), hypomagnesaemia (44.3%), mucosal inflammation (29.5%), vomiting (26.2%) and nausea (24.6%) ( <ref type="table" target="#tab_2">Table 3)</ref>. Dry skin, paronychia and acne were reported in 26.2%, 21.3% and 18.0% of patients, respectively. The profile of grade 3-4 related AEs was similar with lower frequency, including diarrhoea and rash (18.0%), and hypomagnesaemia and asthenia (8.2% each). One patient died as a result of sepsis considered related to irinotecan, with concurrent pneumonia and grade 4 febrile neutropenia. Eleven patients (18.0%) had a related AE leading to treatment discontinuation, five patients stopped panitumumab and six patients stopped irinotecan due to related toxicity.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>DISCUSSION</head><p>In this single-arm combination study, the addition of panitumumab to irinotecan in irinotecan-refractory wild-type KRAS exon-2 mCRC patients gave a 15% response rate. This falls well short of the protocol's statistical hypothesis threshold of 30% (reflecting 16 responses out of 53 patients), which was considered to demonstrate an efficacy benefit. It is also notably lower than the 35% response rate reported in heavily pre-treated patients harbouring wild-type KRAS (codon 12 and 13) treated with panitumumab and irinotecan in the one-arm phase 2 French GERCOR study, as was PFS (6.3 months in the GERCOR versus 3.8 months in our study). <ref type="bibr" target="#b13">13</ref> This response rate was also slightly lower than that reported in an equivalent approach and setting in a phase 2 Japanese study, TOPIC, in which the response rate was 23%, <ref type="bibr" target="#b14">14</ref> and was also lower than the 26% rate reported in a preliminary evaluation of another phase 2 randomised Japanese study, WJOG6510G, comparing this EGFR combination with the equivalent cetuximab combination. <ref type="bibr" target="#b15">15</ref> Median PFS and OS in our study (3.8 and 12.5 months, respectively) were also shorter than those reported in the WJOG6510G study (5.4 and 14.9 months, respectively), but in contrast were improved compared to the TOPIC study (2.7 and 7.3 months, respectively). Differences in irinotecan regimens may have influenced response rates in each of these studies, as suggested from analyses performed in the TOPIC study.</p><p>The 15% response rate with the combination therapy is also lower than the 22% rate reported for single-agent panitumumab in the phase 3 ASPECCT study in a comparison with single-agent cetuximab in chemotherapy-refractory wild-type KRAS exon 2 mCRC patients, <ref type="bibr" target="#b16">16</ref> although more patients in our study had received prior bevacizumab. Median PFS and OS in our study were similar to those reported in the ASPECCT study (4.1 and 10.4 months, respectively), as well as to those reported in KRAS wild-type patients treated with panitumumab and best supportive care in a phase 3 study (response rate 27%, median PFS 3.8 months, median OS 10.0 months). <ref type="bibr" target="#b17">17</ref> In light of all these studies, our results suggest that the addition of panitumumab to irinotecan as salvage therapy did not offer a meaningful efficacy advantage in the setting of our study.  It is important to bear in mind that since 2015, recommendations for treatment of mCRC patients have included that EGFR inhibitors should not be administered in cases of NRAS-mutated tumours. <ref type="bibr" target="#b18">18</ref> However as this had not yet been formally implemented at the time of patient accrual during the current study (2009-2012), NRAS-mutated patients were included and treated. The absence of biomarkers for response other than KRAS, is a pressing issue that needs to be resolved in order to move ahead with the approach of optimising the choice of therapy, and to ensure avoiding unnecessary drug exposure and to overcome resistance developing after treatment with targeted therapies. The recent phase 2 randomised AGITG ICECREAM trial evaluated the addition of irinotecan to cetuximab in chemorefractory mCRC patients, and demonstrated a 36% response rate in patients who were quadruple wild-type for KRAS, NRAS, BRAF and PI3KCA after treatment with irinotecan and cetuximab, and a 6-month PFS rate of 41%. <ref type="bibr" target="#b19">19</ref> Accumulating evidence suggests that response to panitumumab in advanced CRC correlates with wild-type BRAF, <ref type="bibr" target="#b20">20</ref> EFGR copy number, <ref type="bibr" target="#b21">21</ref> epiregulin and amphiregulin levels, <ref type="bibr" target="#b22">22</ref> while BRAF, NRAS and PIK3CA mutations and non-functional PTEN have all been associated with resistance to anti-EGFR therapies. <ref type="bibr" target="#b23">23</ref> Although minor non-significant trends in this study suggested a greater benefit in patients with wild-type BRAF, wild-type PI3KCA, high epiregulin or amphiregulin expression and/or without EGFR amplification, none of the members of the RAS/RAF/ERK and PI3K/ PTEN pathways were definitively identified as potential predictive biomarkers. Nonetheless the French GERCOR study argues for the value of salvage panitumumab with irinotecan in patients wildtype for multiple EGFR markers, in light of the 46% response rate and the median PFS of 8.7 months seen in patients without mutations in any of the rare KRAS, NRAS and BRAF genes, while no responses were seen in patients with confirmed mutations. <ref type="bibr" target="#b13">13</ref> At the time this study was launched, none of the salvage therapies used were considered standard of care in mCRC patients who had failed the classic chemotherapeutic treatments of fluoropyrimidine, irinotecan and oxaliplatin in combination with targeted therapies. In the most recent consensus guidelines for managing mCRC, <ref type="bibr" target="#b1">1,</ref><ref type="bibr" target="#b24">24</ref> cetuximab combined with irinotecan is recommended in irinotecan-refractory patients. The multitargeted kinase inhibitor regorafenib has recently been approved for salvage therapy given the significant survival advantage seen over best supportive care. <ref type="bibr" target="#b25">25</ref> Similarly, the trifluridine/tipiracil combination is also recommended in the salvage setting, following results suggesting a similar benefit with less toxicity. <ref type="bibr" target="#b26">26</ref> The toxicity profile of the combination was as expected, with effects similar to those reported previously for panitumumab addition to irinotecan <ref type="bibr" target="#b3">3,</ref><ref type="bibr" target="#b4">4,</ref><ref type="bibr" target="#b13">13,</ref><ref type="bibr" target="#b14">14</ref> as well as that reported in the BOND study when cetuximab was co-administered with irinotecan in this setting. <ref type="bibr" target="#b10">10</ref> Dermatological toxicity frequently associated with EGFR blockade was prevalent, but was generally well managed with dose modifications.</p><p>It should be acknowledged that the use of a single-arm design and the relatively small sample size (and small number of responses) limit interpretation of the current study, notably in terms of identification of predictive and pharmacodynamic biomarkers. Future studies in this setting should exploit the addition of other targeted therapies to panitumumab. The use of circulating cell-free DNA in liquid biopsies is now widely considered a reliable method for determining KRAS and BRAF gene mutations in mCRC. <ref type="bibr" target="#b27">27</ref> Use of liquid biopsies is becoming increasingly widespread, to facilitate routine and prospective biomarker testing in clinical studies, and to overcome the difficulties associated with obtaining biopsies of adequate quality or serial biopsies.</p><p>In conclusion, the addition of panitumumab to irinotecan was feasible as salvage therapy in a heavily pre-treated population of mCRC, in which most patients had received at least two prior lines of therapy including the anti-angiogenic agent bevacizumab.</p><p>Nonetheless, the value of the panitumumab/irinotecan combination over single-agent panitumumab appears limited.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>Fig. 1</head><label>1</label><figDesc>Progression-free survival in RAS wild-type and mutated ITT patients, by Kaplan-Meier estimate</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>Table 1 .</head><label>1</label><figDesc>Patient, tumour and treatment characteristics, ITT population</figDesc><table><row><cell>N = 61</cell></row></table><note>a Missing data for four patientsb Missing data for six patientsc Extended RAS analysis was performed in 57 patients</note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_1"><head>Table 2 .</head><label>2</label><figDesc>Tumour response (m-RECIST) and survival, ITT patients</figDesc><table><row><cell></cell><cell>All patients N = 61</cell><cell>Wild-type RAS N = 46</cell><cell>Wild-type RAS with prior bevacizumab N = 29</cell></row><row><cell>Objective response, N (%)</cell><cell></cell><cell></cell><cell></cell></row><row><cell>Partial response</cell><cell>8 (13.1%)</cell><cell>7 (15.2%)</cell><cell>6 (20.7%)</cell></row><row><cell>Stable disease</cell><cell>30 (49.2%)</cell><cell>24 (52.2%)</cell><cell>14 (48.3%)</cell></row><row><cell>Progressive disease</cell><cell>17 (27.9%)</cell><cell>12 (26.1%)</cell><cell>8 (27.6%)</cell></row><row><cell>Not evaluable/not done</cell><cell>6 (9.8%)</cell><cell>3 (6.5%)</cell><cell>1 (3.5%)</cell></row><row><cell>Overall response rate [95% CI]</cell><cell>13.1% [4.6-21.6%]</cell><cell>15.2% [4.8-25.6%]</cell><cell>20.7% [6.0-35.4%]</cell></row><row><cell>Disease control, N (%) [95% CI]</cell><cell>38 (62.3%) [50.1-74.5%]</cell><cell>31 (67.4%) [53.8-80.4%]</cell><cell>20 (69.0%) [52.1-85.8%]</cell></row><row><cell>PFS (months)</cell><cell></cell><cell></cell><cell></cell></row><row><cell>Median [95% CI]</cell><cell>3.7 [2.7-4.2]</cell><cell>3.8 [2.7-4.3]</cell><cell>3.8 [2.4-4.6]</cell></row><row><cell>N events/censored</cell><cell>60/1</cell><cell>45/1</cell><cell>29/0</cell></row><row><cell>OS (months)</cell><cell></cell><cell></cell><cell></cell></row><row><cell>Median [95% CI]</cell><cell>11.1 [7.1-14.8]</cell><cell>12.5 [6.7-15.9]</cell><cell>14.8 [6.7-16.7]</cell></row><row><cell>N events/censored</cell><cell>56/5</cell><cell>42/4</cell><cell>28/1</cell></row></table><note></note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_2"><head>Table 3 .</head><label>3</label><figDesc>Main</figDesc><table><row><cell cols="4">treatment-related adverse events (NCI-CTCAE) (N = 61)</cell></row><row><cell></cell><cell>Grade 1-4</cell><cell>Grade 3</cell><cell>Grade 4</cell></row><row><cell>Diarrhoea</cell><cell>38 (62.3%)</cell><cell>9 (14.8%)</cell><cell>2 (3.3%)</cell></row><row><cell>Rash</cell><cell>36 (59.0%)</cell><cell>11 (18.0%)</cell><cell></cell></row><row><cell>Asthenia</cell><cell>31 (50.8%)</cell><cell>5 (8.2%)</cell><cell></cell></row><row><cell>Hypomagnesaemia</cell><cell>27 (44.3%)</cell><cell>3 (4.9%)</cell><cell>2 (3.3%)</cell></row><row><cell>Mucosal inflammation</cell><cell>18 (29.5%)</cell><cell></cell><cell></cell></row><row><cell>Dry skin</cell><cell>16 (26.2%)</cell><cell>2 (3.3%)</cell><cell></cell></row><row><cell>Vomiting</cell><cell>16 (26.2%)</cell><cell></cell><cell></cell></row><row><cell>Nausea</cell><cell>15 (24.6%)</cell><cell></cell><cell></cell></row><row><cell>Paronychia</cell><cell>13 (21.3%)</cell><cell>1 (1.6%)</cell><cell></cell></row><row><cell>Alopecia</cell><cell>12 (19.7%)</cell><cell>1 (1.6%)</cell><cell></cell></row><row><cell>Acne</cell><cell>11 (18.0%)</cell><cell></cell><cell></cell></row><row><cell>Neutropenia</cell><cell>9 (14.8%)</cell><cell>2 (3.3%)</cell><cell>2 (3.3%)</cell></row><row><cell>Decreased appetite</cell><cell>7 (11.5%)</cell><cell>1 (1.6%)</cell><cell></cell></row><row><cell>Anaemia</cell><cell>6 (9.8%)</cell><cell>1 (1.6%)</cell><cell></cell></row><row><cell>Erythema</cell><cell>6 (9.8%)</cell><cell></cell><cell></cell></row><row><cell>Abdominal pain</cell><cell>5 (8.2%)</cell><cell>1 (1.6%)</cell><cell></cell></row><row><cell>Conjunctivitis</cell><cell>5 (8.2%)</cell><cell>1 (1.6%)</cell><cell></cell></row><row><cell>Hypokalaemia</cell><cell>4 (6.6%)</cell><cell>1 (1.6%)</cell><cell></cell></row><row><cell>Gastrointestinal toxicity</cell><cell>3 (4.9%)</cell><cell>1 (1.6%)</cell><cell></cell></row><row><cell>Back pain</cell><cell>2 (3.3%)</cell><cell>1 (1.6%)</cell><cell></cell></row><row><cell>Keratitis</cell><cell>1 (1.6%)</cell><cell></cell><cell>1 (1.6%)</cell></row><row><cell>Acute respiratory distress</cell><cell>1 (1.6%)</cell><cell>1 (1.6%)</cell><cell></cell></row><row><cell>Bacterial infection</cell><cell>1 (1.6%)</cell><cell>1 (1.6%)</cell><cell></cell></row><row><cell>Dermatitis acneiform</cell><cell>1 (1.6%)</cell><cell>1 (1.6%)</cell><cell></cell></row><row><cell>Intestinal obstruction</cell><cell>1 (1.6%)</cell><cell>1 (1.6%)</cell><cell></cell></row><row><cell>Infusion reaction</cell><cell>1 (1.6%)</cell><cell>1 (1.6%)</cell><cell></cell></row><row><cell>Toxic skin eruption</cell><cell>1 (1.6%)</cell><cell>1 (1.6%)</cell><cell></cell></row></table><note></note></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="1234567890">();,:</note>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>ACKNOWLEDGEMENTS</head><p>The authors thank the following physicians for their cooperation and support: Study Chairs: J. <ref type="table">Tabernero</ref>  , and B. Alonso (Universitario de Canarias Hospital, Tenerife). We also thank the following groups who contributed to the study: the biomarker analysis laboratory (E. Díaz-Rubio and T. Caldes, HCSC, Madrid), the TTD Data Centre (Inmaculada Ruiz de Mena and Susana Rodriguez), monitoring, statistics and data management (Lucía Monar and Elisabet Molina at TFS Trial Form Support, Spain). Amgen provided support for third-party writing assistance for this manuscript, furnished by Sarah MacKenzie PhD.</p></div>
+			</div>
+
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>AUTHOR CONTRIBUTIONS</head><p>Study conception: J.T. and E.A.; Study design: J.T. and E.A.; Data acquisition: All authors; Data analysis and interpretation: J.T., E.E. and E.A.; Manuscript preparation: J. T., E.E. and E.A.; Manuscript editing: J.T., E.E. and E.A.; Manuscript review: All authors.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>ADDITIONAL INFORMATION</head><p>Supplementary information is available for this paper at https://doi.org/10.1038/ s41416-019-0537-z.</p><p>Ethics approval and consent to participate: This study was approved by the local ethics committee (the independent ethics committee of hospital Universitari Vall d'Hebrón, as the Clinical Research Ethics Committee Coordinating Center) and the Spanish Health Authorities and was conducted in accordance with the principles of the Declaration of Helsinki. Patients were instructed about the experimental procedures of the study and enrolled after signature of the informed consent.</p><p>Funding: This work was supported by Amgen S.A, who did not have any role in study design; collection, analysis and interpretation of data; writing the report, or the decision to submit the report for publication. Publisher's note: Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.</p></div>			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Biocartis, Foundation Medicine, HalioDX SAS and Roche Diagnostics. E.D.R. has received honoraria for advisory roles or speaker from Roche</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Sanofi</forename><surname>Merck</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Servier</forename><surname>Bayer</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">;</forename><surname>Roche</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Bayer</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Celgene</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Merck</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Roche</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">.</forename><forename type="middle">E</forename><surname>Sanofi</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">F</forename><surname>Merck Serono</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Hoffmann-La Roche Ltd</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Sanofi</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Amgen</forename><forename type="middle">J</forename><surname>Servier</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Astrazeneca</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Bayer</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Boehringer</forename><surname>Beigene</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Ingelheim</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Chugai</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Inc</forename><surname>Genentech</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Genmab A/S</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Imugene</forename><surname>Halozyme</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><forename type="middle">L</forename><surname>Limited ; Proteodesign</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Rafael</forename><surname>Pharmaceuticals</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">F</forename><surname>Hoffmann-La Roche Ltd</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Sanofi</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Seattle</forename><surname>Seagen</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Genetics</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Servier</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Symphogen</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Taiho</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Biosciences ; Amgen</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Msd</forename><surname>Bayer</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Genomica</forename><surname>Research Funding From Roche ; Roche</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Merc</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Sanofi</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Novartis</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Pfizer</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Eisai</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Ipsen</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Bayer</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Astrazeneca</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Servier</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Amgen</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">,</forename><surname>Bayer</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Celgene</forename><surname>Msd</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Amgen, Astra Zeneca. C.L. has received honoraria from</title>
+		<meeting><address><addrLine>Ipsen, Kura Oncology, Lilly, MSD, Menarini, Merck Serono, Merrimack, Merus, Molecular Partners, Novartis, Peptomyc, Pfizer, Pharmacyclics</addrLine></address></meeting>
+		<imprint/>
+	</monogr>
+	<note>Merck-Serono. The remaining authors declare no competing interests</note>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">ESMO consensus guidelines for the management of patients with metastatic colorectal cancer</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><surname>Van Cutsem</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Cervantes</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><surname>Adam</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Sobrero</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">H</forename><surname>Van Krieken</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><surname>Aderka</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ann. Oncol</title>
+		<imprint>
+			<biblScope unit="volume">27</biblScope>
+			<biblScope unit="page" from="1386" to="1422" />
+			<date type="published" when="2016" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">EPIC: phase III trial of cetuximab plus irinotecan after fluoropyrimidine and oxaliplatin failure in patients with metastatic colorectal cancer</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><forename type="middle">F</forename><surname>Sobrero</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Maurel</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">L</forename><surname>Fehrenbacher</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">W</forename><surname>Scheithauer</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Y</forename><forename type="middle">A</forename><surname>Abubakr</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">P</forename><surname>Lutz</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Clin. Oncol</title>
+		<imprint>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="page" from="2311" to="2319" />
+			<date type="published" when="2008" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Randomized phase III study of panitumumab with fluorouracil, leucovorin, and irinotecan (FOLFIRI) compared with FOLFIRI alone as second-line treatment in patients with metastatic colorectal cancer</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Peeters</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><forename type="middle">J</forename><surname>Price</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Cervantes</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><forename type="middle">F</forename><surname>Sobrero</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Ducreux</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Y</forename><surname>Hotko</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Clin. Oncol</title>
+		<imprint>
+			<biblScope unit="volume">28</biblScope>
+			<biblScope unit="page" from="4706" to="4713" />
+			<date type="published" when="2010" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Panitumumab and irinotecan versus irinotecan alone for patients with KRAS wild-type, fluorouracil-resistant advanced colorectal cancer (PICCOLO): a prospectively stratified randomised trial</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">T</forename><surname>Seymour</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><forename type="middle">R</forename><surname>Brown</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">G</forename><surname>Middleton</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Maughan</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Richman</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Gwyther</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Lancet Oncol</title>
+		<imprint>
+			<biblScope unit="volume">14</biblScope>
+			<biblScope unit="page" from="749" to="759" />
+			<date type="published" when="2013" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">K-ras mutations and benefit from cetuximab in advanced colorectal cancer</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><forename type="middle">S</forename><surname>Karapetis</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Khambata-Ford</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><forename type="middle">J</forename><surname>Jonker</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><forename type="middle">J</forename><surname>O'callaghan</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><surname>Tu</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">N</forename><forename type="middle">C</forename><surname>Tebbutt</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">N. Engl. J. Med</title>
+		<imprint>
+			<biblScope unit="volume">359</biblScope>
+			<biblScope unit="page" from="1757" to="1765" />
+			<date type="published" when="2008" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Panitumumab-FOLFOX4 treatment and RAS mutations in colorectal cancer</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J.-Y</forename><surname>Douillard</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><forename type="middle">S</forename><surname>Oliner</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Siena</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Tabernero</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><surname>Burkes</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Barugel</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">N. Engl. J. Med</title>
+		<imprint>
+			<biblScope unit="volume">369</biblScope>
+			<biblScope unit="page" from="1023" to="1034" />
+			<date type="published" when="2013" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Prognostic and predictive value of primary tumour side in patients with RAS wildtype metastatic colorectal cancer treated with chemotherapy and EGFR directed antibodies in six randomized trials †</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><surname>Arnold</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">B</forename><surname>Lueza</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J.-Y</forename><surname>Douillard</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Peeters</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H.-J</forename><surname>Lenz</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Venook</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ann. Oncol</title>
+		<imprint>
+			<biblScope unit="volume">28</biblScope>
+			<biblScope unit="page" from="1713" to="1729" />
+			<date type="published" when="2017" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Primary tumor site is a useful predictor of cetuximab efficacy in the third-line or salvage treatment of KRAS wild-type (exon 2 non-mutant) metastatic colorectal cancer: a nationwide cohort study</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K.-H</forename><surname>Chen</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Y.-Y</forename><surname>Shao</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H.-M</forename><surname>Chen</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Y.-L</forename><surname>Lin</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Z.-Z</forename><surname>Lin</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M.-S</forename><surname>Lai</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">BMC Cancer</title>
+		<imprint>
+			<biblScope unit="volume">16</biblScope>
+			<biblScope unit="page">327</biblScope>
+			<date type="published" when="2016" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Effect of primary tumor location on second-or later-line treatment outcomes in patients with RAS wild-type metastatic colorectal cancer and all treatment lines in patients with RAS mutations in four randomized panitumumab studies</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">N</forename><surname>Boeckx</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><surname>Koukakis</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><forename type="middle">O</forename><surname>Beeck</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>De</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><surname>Rolfo</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">G</forename><forename type="middle">V</forename><surname>Camp</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Siena</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Clin. Colorectal Cancer</title>
+		<imprint>
+			<biblScope unit="volume">17</biblScope>
+			<biblScope unit="page" from="170" to="178" />
+			<date type="published" when="2018" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Cetuximab monotherapy and cetuximab plus irinotecan in irinotecan-refractory metastatic colorectal cancer</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><surname>Cunningham</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Y</forename><surname>Humblet</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Siena</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><surname>Khayat</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><surname>Bleiberg</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Santoro</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">N. Engl. J. Med</title>
+		<imprint>
+			<biblScope unit="volume">351</biblScope>
+			<biblScope unit="page" from="337" to="345" />
+			<date type="published" when="2004" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">New guidelines to evaluate the response to treatment in solid tumors. European Organization for Research and Treatment of Cancer, National Cancer Institute of the United States, National Cancer Institute of Canada</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><surname>Therasse</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><forename type="middle">G</forename><surname>Arbuck</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><forename type="middle">A</forename><surname>Eisenhauer</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Wanders</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><forename type="middle">S</forename><surname>Kaplan</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">L</forename><surname>Rubinstein</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Natl Cancer Inst</title>
+		<imprint>
+			<biblScope unit="volume">92</biblScope>
+			<biblScope unit="page" from="205" to="216" />
+			<date type="published" when="2000" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Wild-type KRAS is required for panitumumab efficacy in patients with metastatic colorectal cancer</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><forename type="middle">G</forename><surname>Amado</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Wolf</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Peeters</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><surname>Van Cutsem</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Siena</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><forename type="middle">J</forename><surname>Freeman</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Clin. Oncol</title>
+		<imprint>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="page" from="1626" to="1634" />
+			<date type="published" when="2008" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Panitumumab combined with irinotecan for patients with KRAS wild-type metastatic colorectal cancer refractory to standard chemotherapy: a GERCOR efficacy, tolerance, and translational molecular study</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>André</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><surname>Blons</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Mabro</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">B</forename><surname>Chibaudel</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J.-B</forename><surname>Bachet</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><surname>Tournigand</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ann. Oncol. Esmo</title>
+		<imprint>
+			<biblScope unit="volume">24</biblScope>
+			<biblScope unit="page" from="412" to="419" />
+			<date type="published" when="2013" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">Phase II trial of panitumumab with irinotecan as salvage therapy for patients with advanced or recurrent colorectal cancer (TOPIC study)</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Nishi</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Y</forename><surname>Hamamoto</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Nagase</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Denda</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><surname>Yamaguchi</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><surname>Amagai</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Oncol. Lett</title>
+		<imprint>
+			<biblScope unit="volume">11</biblScope>
+			<biblScope unit="page" from="4049" to="4054" />
+			<date type="published" when="2016" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Randomized phase II study of panitumumab (Pmab) + irinotecan (CPT-11) versus cetuximab (Cmab) + CPT-11 in patients (pts) with KRAS wild-type (WT) metastatic colorectal cancer (mCRC) after fluoropyrimidine (FU), CPT-11, and oxaliplatin (L-OHP) failure: WJOG6510G (abstract)</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">N</forename><surname>Sugimoto</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><surname>Sakai</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Tamura</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><surname>Hara</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Nishina</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Esaki</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Clin. Oncol</title>
+		<imprint>
+			<biblScope unit="volume">35</biblScope>
+			<biblScope unit="page">661</biblScope>
+			<date type="published" when="2017" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Panitumumab versus cetuximab in patients with chemotherapy-refractory wild-type KRAS exon 2 metastatic colorectal cancer (ASPECCT): a randomised, multicentre, open-label, non-inferiority phase 3 study</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><forename type="middle">J</forename><surname>Price</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Peeters</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><forename type="middle">W</forename><surname>Kim</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Li</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Cascinu</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><surname>Ruff</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Lancet Oncol</title>
+		<imprint>
+			<biblScope unit="volume">15</biblScope>
+			<biblScope unit="page" from="569" to="579" />
+			<date type="published" when="2014" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">A phase 3 trial evaluating panitumumab plus best supportive care vs best supportive care in chemorefractory wild-type KRAS or RAS metastatic colorectal cancer</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><forename type="middle">W</forename><surname>Kim</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Elme</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Z</forename><surname>Kusic</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">O</forename><surname>Park</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><forename type="middle">A</forename><surname>Udrea</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><forename type="middle">Y</forename><surname>Kim</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Br. J. Cancer</title>
+		<imprint>
+			<biblScope unit="volume">115</biblScope>
+			<biblScope unit="page" from="1206" to="1214" />
+			<date type="published" when="2016" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">Extended RAS Gene mutation testing in metastatic colorectal carcinoma to predict response to anti-epidermal growth factor receptor monoclonal antibody therapy</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><forename type="middle">J</forename><surname>Allegra</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><forename type="middle">B</forename><surname>Rumble</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><forename type="middle">R</forename><surname>Hamilton</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><forename type="middle">B</forename><surname>Mangu</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">N</forename><surname>Roach</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Hantel</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Clin. Oncol</title>
+		<imprint>
+			<biblScope unit="volume">34</biblScope>
+			<biblScope unit="page" from="179" to="185" />
+			<date type="published" when="2015" />
+			<publisher>American Society</publisher>
+		</imprint>
+	</monogr>
+	<note>of Clinical Oncology Provisional Clinical Opinion Update</note>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">Results of the Quad wild type arm of the AGITG ICECREAM study: a randomised phase II study of cetuximab alone or in combination with irinotecan in patients with refractory metastatic colorectal cancer with no mutations in KRAS, NRAS, BRAF or PIK3CA (abstract)</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">D</forename><surname>Shapiro</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Thavaneswaran</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><surname>Underhill</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><forename type="middle">P</forename><surname>Robledo</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><forename type="middle">S</forename><surname>Karapetis</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">F</forename><forename type="middle">L</forename><surname>Day</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Clin. Oncol</title>
+		<imprint>
+			<biblScope unit="volume">35</biblScope>
+			<biblScope unit="page">3572</biblScope>
+			<date type="published" when="2017" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">Wild-type BRAF is required for response to panitumumab or cetuximab in metastatic colorectal cancer</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Di</forename><surname>Nicolantonio</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">F</forename><surname>Martini</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Molinari</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">F</forename><surname>Sartore-Bianchi</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Arena</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Saletti</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Clin. Oncol</title>
+		<imprint>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="page" from="5705" to="5712" />
+			<date type="published" when="2008" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">EGFR gene copy number as a prognostic marker in colorectal cancer patients treated with cetuximab or panitumumab: a systematic review and meta analysis</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Z</forename><surname>Jiang</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><surname>Li</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">F</forename><surname>Li</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">X</forename><surname>Wang</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">PloS ONE</title>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="page">56205</biblScope>
+			<date type="published" when="2013" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">Combined epiregulin and amphiregulin expression levels as a predictive biomarker for panitumumab therapy benefit or lack of benefit in patients with RAS wild-type advanced colorectal cancer</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">F</forename><surname>Seligmann</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">F</forename><surname>Elliott</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><forename type="middle">D</forename><surname>Richman</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">B</forename><surname>Jacobs</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">G</forename><surname>Hemmings</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Brown</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">JAMA Oncol</title>
+		<imprint>
+			<biblScope unit="volume">2</biblScope>
+			<biblScope unit="page" from="633" to="642" />
+			<date type="published" when="2016" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title level="a" type="main">The predictive value of KRAS, NRAS, BRAF, PIK3CA and PTEN for anti-EGFR treatment in metastatic colorectal cancer: a systematic review and meta-analysis</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><surname>Therkildsen</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><forename type="middle">K</forename><surname>Bergmann</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Henrichsen-Schnack</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Ladelund</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Nilbert</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Acta Oncol</title>
+		<imprint>
+			<biblScope unit="volume">53</biblScope>
+			<biblScope unit="page" from="852" to="864" />
+			<date type="published" when="2014" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title level="a" type="main">NCCN guidelines insights: colon cancer, Version 2</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><forename type="middle">B</forename><surname>Benson</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><forename type="middle">P</forename><surname>Venook</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">M</forename><surname>Al-Hawary</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">L</forename><surname>Cederquist</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Y.-J</forename><surname>Chen</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><forename type="middle">K</forename><surname>Ciombor</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Natl Compr. Canc Netw</title>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="page" from="359" to="369" />
+			<date type="published" when="2018" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title level="a" type="main">Regorafenib monotherapy for previously treated metastatic colorectal cancer (CORRECT): an international, multicentre, randomised, placebo-controlled</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Grothey</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><surname>Van Cutsem</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Sobrero</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Siena</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Falcone</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Ychou</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Lancet</title>
+		<imprint>
+			<biblScope unit="volume">381</biblScope>
+			<biblScope unit="page" from="303" to="312" />
+			<date type="published" when="2013" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title level="a" type="main">Randomized trial of TAS-102 for refractory metastatic colorectal cancer</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><forename type="middle">J</forename><surname>Mayer</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><surname>Van Cutsem</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Falcone</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Yoshino</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><surname>Garcia-Carbonero</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">N</forename><surname>Mizunuma</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">N. Engl. J. Med</title>
+		<imprint>
+			<biblScope unit="volume">372</biblScope>
+			<biblScope unit="page" from="1909" to="1919" />
+			<date type="published" when="2015" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+		<title level="a" type="main">Evaluation of Emergent Mutations in circulating cell-free DNA and clinical outcomes in patients with metastatic colorectal cancer treated with panitumumab in the ASPECCT study</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Peeters</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Price</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Boedigheimer</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><forename type="middle">W</forename><surname>Kim</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><surname>Ruff</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><surname>Gibbs</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Clin. Cancer Res</title>
+		<imprint>
+			<biblScope unit="volume">25</biblScope>
+			<biblScope unit="page" from="1216" to="1225" />
+			<date type="published" when="2019" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

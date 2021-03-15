@@ -1,0 +1,1280 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /data/rsg/nlp/juanmoo1/bin/grobid-0.6.1/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">A phase II study of ibrutinib in combination with rituximab-cyclophosphamide-doxorubicin hydrochloride-vincristine sulfate-prednisone therapy in Epstein-Barr virus-positive, diffuse large B cell lymphoma (54179060LYM2003: IVORY study): results of the final analysis</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+				<date type="published" when="2020-04-24">24 April 2020</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Sang</forename><forename type="middle">Eun</forename><surname>Yoon</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department" key="dep1">Division of Hematology and Oncology</orgName>
+								<orgName type="department" key="dep2">Department of Medicine</orgName>
+								<orgName type="institution" key="instit1">Samsung Medical Center</orgName>
+								<orgName type="institution" key="instit2">Sungkyunkwan University School of Medicine</orgName>
+								<address>
+									<addrLine>81, Irwon-ro, Gangnam-gu</addrLine>
+									<postCode>06351</postCode>
+									<settlement>Seoul</settlement>
+									<country key="KR">South Korea</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff0">
+								<orgName type="department" key="dep1">Division of Hematology and Oncology</orgName>
+								<orgName type="department" key="dep2">Department of Medicine</orgName>
+								<orgName type="institution" key="instit1">Samsung Medical Center</orgName>
+								<orgName type="institution" key="instit2">Sungkyunkwan University School of Medicine</orgName>
+								<address>
+									<addrLine>81, Irwon-ro, Gangnam-gu</addrLine>
+									<postCode>06351</postCode>
+									<settlement>Seoul</settlement>
+									<country key="KR">South Korea</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">&amp;</forename><surname>Seok</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Jin</forename><surname>Kim</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department" key="dep1">Division of Hematology and Oncology</orgName>
+								<orgName type="department" key="dep2">Department of Medicine</orgName>
+								<orgName type="institution" key="instit1">Samsung Medical Center</orgName>
+								<orgName type="institution" key="instit2">Sungkyunkwan University School of Medicine</orgName>
+								<address>
+									<addrLine>81, Irwon-ro, Gangnam-gu</addrLine>
+									<postCode>06351</postCode>
+									<settlement>Seoul</settlement>
+									<country key="KR">South Korea</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff0">
+								<orgName type="department" key="dep1">Division of Hematology and Oncology</orgName>
+								<orgName type="department" key="dep2">Department of Medicine</orgName>
+								<orgName type="institution" key="instit1">Samsung Medical Center</orgName>
+								<orgName type="institution" key="instit2">Sungkyunkwan University School of Medicine</orgName>
+								<address>
+									<addrLine>81, Irwon-ro, Gangnam-gu</addrLine>
+									<postCode>06351</postCode>
+									<settlement>Seoul</settlement>
+									<country key="KR">South Korea</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">&amp;</forename><surname>Dok</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Hyun</forename><surname>Yoon</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="department" key="dep1">Department of Oncology</orgName>
+								<orgName type="department" key="dep2">Asan Medical Center</orgName>
+								<orgName type="institution">Ulsan University College of Medicine</orgName>
+								<address>
+									<settlement>Seoul</settlement>
+									<country key="KR">South Korea</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="department" key="dep1">Department of Oncology</orgName>
+								<orgName type="department" key="dep2">Asan Medical Center</orgName>
+								<orgName type="institution">Ulsan University College of Medicine</orgName>
+								<address>
+									<settlement>Seoul</settlement>
+									<country key="KR">South Korea</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Youngil</forename><surname>Koh</surname></persName>
+							<affiliation key="aff2">
+								<orgName type="department">Department of Internal Medicine</orgName>
+								<orgName type="institution">Seoul National University Hospital</orgName>
+								<address>
+									<settlement>Seoul</settlement>
+									<country key="KR">South Korea</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff2">
+								<orgName type="department">Department of Internal Medicine</orgName>
+								<orgName type="institution">Seoul National University Hospital</orgName>
+								<address>
+									<settlement>Seoul</settlement>
+									<country key="KR">South Korea</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Yeung-Chul</forename><surname>Mun</surname></persName>
+							<affiliation key="aff3">
+								<orgName type="department">Department of Hematology-Oncology</orgName>
+								<orgName type="institution">Ewha Womans University Mokdong Hospital</orgName>
+								<address>
+									<settlement>Seoul</settlement>
+									<country key="KR">South Korea</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff3">
+								<orgName type="department">Department of Hematology-Oncology</orgName>
+								<orgName type="institution">Ewha Womans University Mokdong Hospital</orgName>
+								<address>
+									<settlement>Seoul</settlement>
+									<country key="KR">South Korea</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Young</forename><forename type="middle">Rok</forename><surname>Do</surname></persName>
+							<affiliation key="aff4">
+								<orgName type="department">Department of Hematology-Oncology</orgName>
+								<orgName type="institution">Keimyung University School of Medicine</orgName>
+								<address>
+									<settlement>Daegu</settlement>
+									<country key="KR">South Korea</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff4">
+								<orgName type="department">Department of Hematology-Oncology</orgName>
+								<orgName type="institution">Keimyung University School of Medicine</orgName>
+								<address>
+									<settlement>Daegu</settlement>
+									<country key="KR">South Korea</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">&amp;</forename><surname>Yoon</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Seok</forename><surname>Choi</surname></persName>
+							<affiliation key="aff5">
+								<orgName type="department">Department of Internal Medicine</orgName>
+								<orgName type="institution">Chungnam National University College of Medicine</orgName>
+								<address>
+									<settlement>Daejeon</settlement>
+									<country key="KR">South Korea</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff5">
+								<orgName type="department">Department of Internal Medicine</orgName>
+								<orgName type="institution">Chungnam National University College of Medicine</orgName>
+								<address>
+									<settlement>Daejeon</settlement>
+									<country key="KR">South Korea</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">&amp;</forename><surname>Deok</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Hwan</forename><surname>Yang</surname></persName>
+							<affiliation key="aff6">
+								<orgName type="department">Division of Hematology-Oncology</orgName>
+								<orgName type="institution">Chonnam National University Hwasun Hospital</orgName>
+								<address>
+									<settlement>Hwasun</settlement>
+									<country key="KR">South Korea</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff6">
+								<orgName type="department">Division of Hematology-Oncology</orgName>
+								<orgName type="institution">Chonnam National University Hwasun Hospital</orgName>
+								<address>
+									<settlement>Hwasun</settlement>
+									<country key="KR">South Korea</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Min</forename><surname>Kyoung</surname></persName>
+							<affiliation key="aff7">
+								<orgName type="department">Department of Internal Medicine</orgName>
+								<orgName type="institution">Yeungnam University College of medicine</orgName>
+								<address>
+									<settlement>Daegu</settlement>
+									<country key="KR">South Korea</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff7">
+								<orgName type="department">Department of Internal Medicine</orgName>
+								<orgName type="institution">Yeungnam University College of medicine</orgName>
+								<address>
+									<settlement>Daegu</settlement>
+									<country key="KR">South Korea</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Gyeong-Won</forename><surname>Lee</surname></persName>
+							<affiliation key="aff8">
+								<orgName type="department" key="dep1">Division of Hematology-Oncology</orgName>
+								<orgName type="department" key="dep2">Department of Internal Medicine</orgName>
+								<orgName type="institution" key="instit1">Gyeongsang National University College of Medicine</orgName>
+								<orgName type="institution" key="instit2">Gyeongsang National University Hospital</orgName>
+								<address>
+									<settlement>Jinju</settlement>
+									<country key="KR">South Korea</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff8">
+								<orgName type="department" key="dep1">Division of Hematology-Oncology</orgName>
+								<orgName type="department" key="dep2">Department of Internal Medicine</orgName>
+								<orgName type="institution" key="instit1">Gyeongsang National University College of Medicine</orgName>
+								<orgName type="institution" key="instit2">Gyeongsang National University Hospital</orgName>
+								<address>
+									<settlement>Jinju</settlement>
+									<country key="KR">South Korea</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Cheolwon</forename><surname>Suh</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="department" key="dep1">Department of Oncology</orgName>
+								<orgName type="department" key="dep2">Asan Medical Center</orgName>
+								<orgName type="institution">Ulsan University College of Medicine</orgName>
+								<address>
+									<settlement>Seoul</settlement>
+									<country key="KR">South Korea</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="department" key="dep1">Department of Oncology</orgName>
+								<orgName type="department" key="dep2">Asan Medical Center</orgName>
+								<orgName type="institution">Ulsan University College of Medicine</orgName>
+								<address>
+									<settlement>Seoul</settlement>
+									<country key="KR">South Korea</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Young</forename><forename type="middle">Hyeh</forename><surname>Ko</surname></persName>
+							<affiliation key="aff9">
+								<orgName type="department">Department of Pathology</orgName>
+								<orgName type="institution" key="instit1">Samsung Medical Center</orgName>
+								<orgName type="institution" key="instit2">Sungkyunkwan University School of Medicine</orgName>
+								<address>
+									<settlement>Seoul</settlement>
+									<country key="KR">South Korea</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff9">
+								<orgName type="department">Department of Pathology</orgName>
+								<orgName type="institution" key="instit1">Samsung Medical Center</orgName>
+								<orgName type="institution" key="instit2">Sungkyunkwan University School of Medicine</orgName>
+								<address>
+									<settlement>Seoul</settlement>
+									<country key="KR">South Korea</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Seog</forename><surname>Kim</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department" key="dep1">Division of Hematology and Oncology</orgName>
+								<orgName type="department" key="dep2">Department of Medicine</orgName>
+								<orgName type="institution" key="instit1">Samsung Medical Center</orgName>
+								<orgName type="institution" key="instit2">Sungkyunkwan University School of Medicine</orgName>
+								<address>
+									<addrLine>81, Irwon-ro, Gangnam-gu</addrLine>
+									<postCode>06351</postCode>
+									<settlement>Seoul</settlement>
+									<country key="KR">South Korea</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Seok</forename><forename type="middle">Jin</forename><surname>Kim</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Seog</forename><surname>Kim</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department" key="dep1">Division of Hematology and Oncology</orgName>
+								<orgName type="department" key="dep2">Department of Medicine</orgName>
+								<orgName type="institution" key="instit1">Samsung Medical Center</orgName>
+								<orgName type="institution" key="instit2">Sungkyunkwan University School of Medicine</orgName>
+								<address>
+									<addrLine>81, Irwon-ro, Gangnam-gu</addrLine>
+									<postCode>06351</postCode>
+									<settlement>Seoul</settlement>
+									<country key="KR">South Korea</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">A phase II study of ibrutinib in combination with rituximab-cyclophosphamide-doxorubicin hydrochloride-vincristine sulfate-prednisone therapy in Epstein-Barr virus-positive, diffuse large B cell lymphoma (54179060LYM2003: IVORY study): results of the final analysis</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date type="published" when="2020-04-24">24 April 2020</date>
+						</imprint>
+					</monogr>
+					<idno type="DOI">10.1007/s00277-020-04005-6</idno>
+					<note type="submission">Received: 31 October 2019 / Accepted: 12 March 2020 # The Author(s) 2020</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.6.1" ident="GROBID" when="2020-10-09T18:38+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>Ibrutinib</term>
+					<term>R-CHOP</term>
+					<term>Epstein-Barr virus-positive</term>
+					<term>Diffuse large B cell lymphoma</term>
+				</keywords>
+			</textClass>
+			<abstract>
+				<p>Epstein-Barr virus (EBV) positivity in diffuse large B cell lymphoma (DLBCL) provokes a critical oncogenic mechanism to activate intracellular signaling by LMP1. LMP1 specifically mimics the role of BTK-dependent B cell receptor. Therefore, a trial considering RCHOP therapy along with ibrutinib (I-RCHOP) in combination was conducted among patients with EBV-positive DLBCL. This study was an open-label, single-arm, prospective multicenter phase II clinical trial. Patients received 560 mg of ibrutinib with RCHOP every 3 weeks until 6 cycles were completed or progression or unacceptable toxicity was observed. The primary endpoint was objective response, while secondary endpoints included toxicity, progression-free survival, and overall survival. A matched case-control analysis was completed to compare the efficacy and toxicity of I-RCHOP and RCHOP, respectively, in EBV-positive DLBCL patients. From September 2016 to August 2019, 24 patients proven to have EBVpositive DLBCL in the tissue were enrolled and received I-RCHOP. Their median age was 58 years (range, 28-84 years). The objective overall response was 66.7%, including 16 patients who achieved complete response after 6 cycles. Patients aged younger than 65 years presented a superior OR (87.5%) as compared with those older than 65 years (25.0%; p = 0.01). In a matched case-control study, I-RCHOP therapy provoked a more favorable complete response rate (87.3%) than did RCHOP (68.8%) in those younger than 65 years. Treatment-related mortality was linked most frequently with I-RCHOP therapy (four patients presented with unusual infection without Gr3/4 neutropenia) in the older age group (age ≥ 65 years). In conclusion, in this phase II trial for EBV-positive DLBCL, I-RCHOP was effective but did not show a significant improvement in response and survival in comparison with RCHOP. Also, I-RCHOP promoted serious toxicity and treatment-related death in older patients.</p>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Introduction</head><p>Epstein-Barr virus (EBV)-positive, diffuse large B cell lymphoma (DLBCL) is an EBV-positive, monoclonal, large B cell lymphoproliferative disorder mainly seen in individuals older than 50 years of age <ref type="bibr" target="#b0">[1,</ref><ref type="bibr" target="#b1">2]</ref>. Previous studies have shown that EBV-positive DLBCL is mainly correlated with high-intermediate/high International Prognostic Index (IPI) scores, advanced disease stage (III/IV) at diagnosis, and inferior outcomes in comparison with EBV-negative DLBCL <ref type="bibr" target="#b2">[3,</ref><ref type="bibr" target="#b3">4]</ref>.</p><p>EBV-infected cells encode eight EBV-encoded latent genes consisting of six EBV-encoded nuclear antigens (EBNAs) and two latent membrane proteins (LMP1 and LMP2) <ref type="bibr" target="#b4">[5]</ref>. LMP1 and LMP2 in particular behave like B cell receptor (BCR)mediated Akt, which is dependent upon spleen tyrosine kinase and Bruton's tyrosine kinase (BTK). These tyrosine kinases contribute to enhanced cellular proliferation and survival signaling such as the nuclear factor-kappa B (NF-κB) and phosphoinositide 3-kinase (PI3K/Akt) pathways <ref type="bibr" target="#b5">[6]</ref>. In our experiment, we transfected vector-encoding LMP1 or LMP1_delCTAR1(C-terminal-activating region 1) and LMP1_delCTAR2 into a DLBCL cell line and observed the BCR signaling pathway (Supplementary Materials and methods). As a result, the BTK signaling pathway was activated when LMP1 was expressed. It was also confirmed that the CTAR1 of LMP1 was an important domain for BTK activation. In addition, cell viability was decreased when the BTK inhibitor (ibrutinib) was treated with LMP1-expressing cells ( <ref type="figure" target="#fig_0">Supplementary Fig. S1</ref>). Based on previous studies that proved the efficacy of rituximab-cyclophosphamidedoxorubicin hydrochloride-vincristine sulfate-prednisone (RCHOP) therapy combined with ibrutinib (I-RCHOP), we designed this study to boost the anti-tumor effect of EBVpositive DLBCL <ref type="bibr" target="#b6">[7,</ref><ref type="bibr" target="#b7">8]</ref>. Here, we report the results of an open-label, multicenter phase II study that investigated the combination ibrutinib and RCHOP for EBV-positive DLBCL using a matched case-control study.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Patients and methods</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Study design and treatment</head><p>This study was an open-label, single-arm, prospective multicenter clinical trial for evaluating the efficacy and toxicity of I-RCHOP in subjects with newly diagnosed, chemotherapy-naïve, EBV-positive DLBCL. We defined EBV positivity as a finding of 20% or more of EBV-encoded RNA in situ hybridization-positive tumor cells among total tumor cells during pathology evaluation <ref type="bibr" target="#b1">[2]</ref>. Ibrutinib (560 mg/ day) was administrated orally and RCHOP (rituximab 375 mg/m 2 , cyclophosphamide 750 mg/m 2 , doxorubicin 50 mg/m 2 , vincristine 1.4 mg/m 2 (maximum total of 2 mg) on day 1 and oral prednisone 100 mg on days 1-5) therapy was administered intravenously every 21 days, respectively, until the end of 6 cycles or progression or unacceptable toxicity were observed.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Patient eligibility</head><p>Patients had to fulfill the following criteria to be included in this research: (1) histologically confirmed EBV-positive DLBCL without central nervous system involvement; (2) aged 19 years or older; (3) no previous treatment for DLBCL, although we allowed the usage of prednisolone 100 mg or equivalent dosage of any type of steroid (for a maximum of 7 days) and radiation for reducing symptoms related with mass effect; (4) one or more measurable lesions; (5) Eastern Cooperative Oncology Group (ECOG) performance status of 0 to 2; and (6) adequate organ function. The exclusion criteria included any life-threatening illness, medical condition, or organ system dysfunction that could compromise the subject's safety, according to the investigator's opinion. Written informed consent was obtained from each patient prior to study enrollment. This study was approved by the institutional review board of each institution and conducted in accordance with the tenets of the Declaration of Helsinki. This trial was registered at www.ClinicalTrials.gov as NCT02670616.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Matched case-control study design</head><p>In addition, we organized a case-control study to figure out the superiority (e.g., overall response rate, toxicity) of RCHOP (control) and I-RCHOP (case) in EBV-positive DLBCL. To serve as matched controls, we selected EBV-positive DLBCL patients who received only RCHOP chemotherapy from 2006 to 2018 as part of Samsung Medical Center's prospective lymphoma registry <ref type="figure" target="#fig_0">(Fig. 1b)</ref>. Especially, we employed strict matching categories, which were age, ECOG performance status, IPI score, and Ann Arbor stage (Supplementary <ref type="table" target="#tab_0">Table S1</ref>).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Study endpoints</head><p>The primary endpoint of this research was the objective response rate (ORR) based on the proportion of complete response (CR) and partial response (PR). Secondary endpoints included toxicity, progression-free survival (PFS), and overall survival (OS). Adverse events (AEs) were assessed according to the Common Terminology Criteria for Adverse Events version 4.0.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Assessment</head><p>In study participants, complete blood count, organ function (i.e., creatinine, aspartate transaminase, alanine transaminase), EBV DNA titer, electrocardiogram (ECG), transthoracic echocardiogram (TTE), and measurable lesions were assessed with computed tomography (CT) scans of the neck, chest, and abdominal pelvis or 18 F-fluorodeoxyglucose positronemission tomography (PET)/CT scans at before enrollment, during treatment, and at the end of treatment. We assessed response according to the Lugano response criteria for non-Hodgkin's lymphoma <ref type="bibr" target="#b8">[9]</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Statistical analyses</head><p>The aforementioned previous study with EBV-positive DLBCL revealed a 50% complete response rate was achieved by RCHOP without the use of ibrutinib <ref type="bibr" target="#b0">[1]</ref>. Separately, the phase I clinical trial with DLBCL patients who received ibrutinib (560 mg/day) in conjunction with RCHOP presented a 95% overall response rate, including both cases of CR and PR <ref type="bibr" target="#b9">[10]</ref>. From these results, we hypothesized that the complete response rate of EBV-positive DLBCL might be up to 80% when ibrutinib and RCHOP were combined. Thus, if we could achieve complete response in 14 out of 21 patients, we could rule that our new regimen might be effective for this disorder and likely could start further investigations such as phase I/II trials (P0 = 50%, one-sided alpha = 5%, P1 = 80%, statistical power = 90%) <ref type="bibr" target="#b10">[11]</ref>. Considering a 10% rate of interruption, a total of 24 patients were included.</p><p>Statistical analyses were performed using the IBM PASW version 24.0 software program (SPSS Inc., Chicago, IL, USA). In the scheme to demonstrate the superiority of I-RCHOP and RCHOP, descriptive statistics was reported as proportions and medians, and intergroup comparisons were achieved using Fisher's exact test for categorical variables.</p><p>In addition, survival curves were achieved using the Kaplan-Meier method, and the comparison of survival rates was calculated with the log-rank test. Univariate and multivariate analyses for the assessment of predictive values of I-RCHOP were completed using Cox's regression model. A two-sided p value of less than 0.05 was considered to be statistically significant.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Results</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Patient characteristics</head><p>Between September 2016 and August 2019, 24 patients were enrolled from 10 institutes. The cutoff date for analysis was March 2019, and the median follow-up period was 7.9 months, with six death events (25%). Sixteen patients (67%) finished 6 cycles of chemotherapy. In the 48 patients who were confirmed to have EBV-positive DLBCL at Samsung Medical Center for the purpose of the matched case-control study, baseline clinical characteristics were balanced comparatively among both the I-RCHOP (n = 24) and RCHOP (n = 24) groups ( <ref type="table" target="#tab_0">Table 1</ref>). The median ages were 58 years (range, </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Response</head><p>The ORR of I-RCHOP was 66.7% (n = 16). The most common cause for treatment interruption was AEs (n = 5; 21%), followed by disease progression (n = 3; 12.5%) ( <ref type="figure" target="#fig_0">Fig. 1a)</ref>. Among the I-RCHOP patients, who displayed a 66.7% ORR, those aged younger than 65 years (87.5%) achieved a superior ORR than did those older than 65 years (25.0%; p = 0.01; <ref type="table" target="#tab_1">Table 2</ref>). When comparing with findings of the matched case-control group, for all patients aged younger than 65 years, though there was a higher CR rate for I-RCHOP (87.3% vs. 68.8%), the ORR (87.5% vs. 75.0%; p = 0.69) between I-RCHOP and RCHOP did not show a significant difference. In the patients older than 65 years of age, 50% of patients in the I-RCHOP group dropped out previously due to unacceptable toxicities before the end of the treatment period; thus, the response rate was superior in patients who received RCHOP (50.0% vs. 25.0%; p = 0.81; <ref type="table">Table 3</ref>).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Toxicity</head><p>Across I-RCHOP and RCHOP, most patients older than 65 years of age in I-RCHOP group could not complete 6 cycles of chemotherapy (I-RCHOP, 87.5% vs. 25.0%;</p><p>RCHOP 81.3% vs. 50.0%) due to grades 3/4 AEs (I-RCHOP, 40.0% vs. 82.5%; RCHOP, 75.0% vs. 75.0%). In addition, there were not any EBV reactivation case. In the patients who received I-RCHOP, there were four treatmentrelated deaths mainly associated with the unusual infection without grades 3/4 neutropenia <ref type="table" target="#tab_2">(Table 4)</ref>. For example, a patient younger than 65 years died due to a disseminated brain abscess caused by bacteria (confirmed by brain magnetic resonance imaging), while three patients older than 65 years of age died due to bacterial meningitis (diagnosed by cerebrospinal fluid analysis, brain magnetic resonance imaging), sepsis combined with pneumonia caused by streptococci hemolytic species, and invasive pulmonary aspergillosis, respectively.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Survival</head><p>Median PFS (20.6 months, 95% CI non-evaluable vs. 35.3 months, 95% CI 0.0-86.9; p = 0.46) and median OS (20.9 months, 95% CI 0.6-41.2 vs. 48.1 months, 95% CI NR; p = 0.72) according to I-RCHOP and RCHOP were not significantly different ( <ref type="figure" target="#fig_1">Fig. 2a and b)</ref>. Based on the one-year survival analysis, one-year OS (33.3% vs. 58.3%; p = 0.15) and PFS (29.2% vs. 36.8%, p = 0.24) were not correlated with more favorable outcomes in I-RCHOP than in RCHOP among all patients. In line with age-based case-control comparisons, in patients aged younger than 65 years, the median PFS (NR vs. 92.2 months, 95% CI 9.8-176.0; p = 0.68) and OS (NR vs. NR; p = 0.45) showed a superior tendency in the I-RCHOP group ( <ref type="figure" target="#fig_1">Fig.  2c and d)</ref>. In patients aged older than 65 years, the survival benefit was lower in the I-RCHOP group because of the large number of patients terminated during the initial treatment <ref type="figure" target="#fig_1">(Figs. 2e, f, and 3</ref>).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Univariate and multivariate analysis of I-RCHOP</head><p>Univariate and multivariate analyses were performed to determine the predictive factors of I-RCHOP from the Cox proportional hazards model analysis of PFS according to baseline characteristics. The results of univariate analysis revealed worse outcomes in those aged older than 65 years (HR 5.54, 95% CI 1.37-22.38; p = 0.02) and favorable outcomes in those who finished 6 cycles (HR, 0.03; 95% CI, 0.03-0.21; p = 0.00). In multivariate analysis, having completed 6 cycles of chemotherapy was only demonstrated to be an independent prognostic factor for I-RCHOP (HR, 0.02. 95% CI, 0.00-0.21; p = 0.00; <ref type="table" target="#tab_3">Table 5</ref>).   </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Discussion</head><p>The previous reported studies about EB-positive DLBCL have suggested that EBV could encourage an inferior outcome in DLBCL <ref type="bibr" target="#b0">[1]</ref><ref type="bibr" target="#b1">[2]</ref><ref type="bibr" target="#b2">[3]</ref><ref type="bibr" target="#b3">[4]</ref>. EBV using the host's BCR-mediated protein tyrosine kinase can prevent apoptosis and stimulate the proliferation of infected cells, leading to lymphomagenesis <ref type="bibr" target="#b4">[5,</ref><ref type="bibr" target="#b11">12,</ref><ref type="bibr" target="#b12">13]</ref>. Based on previous findings, we attempted to combine ibrutinib and RCHOP to improve the outcome of EBV-positive DLBCL. The current study (IVORY) revealed a limited improvement in response and survival in those aged younger than 65 years, while the treatment was associated with severe toxicity in those aged older than 65 years. Although EBV positive was expected to be a potent marker to predict reponse of BTK inhibitor, the therapeutic efficacy of I-RCHOP in the real world showed less than expected. Thus, <ref type="figure">Fig. 3</ref> Swimmer plot of patients aged older than 65 years in case and control group it was figured out that being EBV-positive was not enough to be a prognostic marker of the BTK inhibitor in the real world. In our study, including a comparison of I-RCHOP versus RCHOP for EBV-positive DLBCL, the response and survival outcomes cannot support the superiority of I-RCHOP. In patients over the age of 65 years, I-RCHOP showed a lower response rate due to the high rate of early termination (50.0%) caused by severe drug-related toxicity such as sepsis, brain abscess, and meningitis. However, in the age group of those younger than 65 years, I-RCHOP achieved a higher CR as a consequence survival curve of I-RCHOP was presented above that of RCHOP. Although caution should be taken when interpreting our results due to the small number of patients in our findings, as reported by Cox proportional hazards model analysis of PFS, I-RCHOP led to a better prognosis in patients younger than 65 years and with the completion of 6 cycles of chemotherapy <ref type="table" target="#tab_2">(Table 4)</ref>. Elsewhere, a randomized phase III study (PHOENIX) evaluated I-RCHOP in non-GCB DLBCL. The younger patients (aged &lt; 60 years) with I-RCHOP obtained superior EFS, PFS, and OS as compared with RCHOP plus placebo, and older patients (aged &gt; 60 years) experienced early discontinuation of I-RCHOP chemotherapy due to rates of severe AEs and worse outcomes <ref type="bibr" target="#b13">[14]</ref>. These results imply that the patient's age should be taken into consideration before applying I-RCHOP. For younger patients with non-GCB or EBV-positive DLBCL, ibrutinib could be considered as one of the methods to improve survival.</p><p>Park et al. demonstrated that non-neutropenic opportunistic infection after the administration of RCHOP might be associated with the depletion of B cells and impaired humoral immune due to repeated doses of rituximab <ref type="bibr" target="#b14">[15]</ref>. The most frequent causes of fever without neutropenia were interstitial pneumonia without bacteremia followed by catheter-related infection mainly occurring at 4 cycles in. In addition, causes of opportunistic infection included Candida, Pneumocystis jirovecii, Cytomegalovirus, and Mycobacterium avium.</p><p>Among 24 patients who received I-RCHOP in this study, four experienced severe infection in absence of fever without neutropenia before 4 cycles of chemotherapy ( <ref type="table" target="#tab_1">Supplementary  Table S2</ref>). There was one case of invasive pulmonary aspergillosis, which was not observed in the control group <ref type="figure" target="#fig_0">(Fig. 1)</ref>. Aspergillosis that was only seen in patients older than 60 years of age in PHOENIX trial was reported in six cases in I-RCHOP group, but it also occurred in 2 patients received RCHOP <ref type="bibr" target="#b15">[16,</ref><ref type="bibr" target="#b16">17]</ref>. The previous studies showed that the elimination of aspergillosis occurs by phagocytosis involving the Toll-like receptor 9-BTK-calcineurin-nuclear factor of T cell pathway <ref type="bibr" target="#b17">[18]</ref>. Inhibiting the BTK pathway suggests that it could lead to impairment in the adaptive and innate immune systems with fungal infection. However, the recent study reported the most infections during ibrutinib treatment are bacterial and viral infection <ref type="bibr" target="#b18">[19]</ref>.</p><p>In a pooled analysis of 4 randomized trials in CLL and MCL, the reported incidence of fungal infection in ibrutinib was 7%, which was similar to it in comparator arm (6%) <ref type="bibr" target="#b19">[20]</ref>. Therefore, we should consider prophylaxis according to standard of care in subjects who are at increased risk for opportunistic infections.</p><p>In conclusion, I-RCHOP, which was proposed as a method to avoiding a worse outcome of EBV-positive DLBCL, did not yield a better outcome than RCHOP.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>Fig. 1</head><label>1</label><figDesc>Profiles of patients enrolled in the IVORY study (a); Control (RCHOP) group enrolled in a matched case-control study (b)</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head>Fig. 2</head><label>2</label><figDesc>Kaplan-Meier analyses of PFS (a) and OS (b) according to I-RCHOP and RCHOP in patients with EBV-positive DLBCL; comparison of PFS (c) and OS (d) of I-RCHOP and RCHOP in patients younger than 65; comparison of PFS (e) and OS (f) of I-RCHOP and RCHOP in patients older than 65 years</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>Table 1 Baseline</head><label>1</label><figDesc>RCHOP and 57 years (range, 26-82 years) in RCHOP. In both groups, approximately 70% of patients equally presented with high-intermediate/high IPI scores; in addition, more than half patients presented with Ann Arbor stages III or IV.</figDesc><table><row><cell>characteristics</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>of EBV-positive DLBCL patients</cell><cell>Variable</cell><cell>I-RCHOP (n = 24)</cell><cell>RCHOP (n = 24)</cell><cell>p value</cell></row><row><cell>according to I-RCHOP and</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>RCHOP alone</cell><cell>Sex, no. (%)</cell><cell></cell><cell></cell><cell></cell></row><row><cell></cell><cell>Male</cell><cell>17 (70.8)</cell><cell>(50.0)</cell><cell>0.24</cell></row><row><cell></cell><cell>Female</cell><cell>7 (29.2)</cell><cell>(50.0)</cell><cell></cell></row><row><cell></cell><cell>Age</cell><cell></cell><cell></cell><cell></cell></row><row><cell></cell><cell>Median (range)</cell><cell>58 (28-84)</cell><cell>(26-82)</cell><cell></cell></row><row><cell></cell><cell>Older than 60 years</cell><cell>10 (41.7)</cell><cell>(41.7)</cell><cell>1.00</cell></row><row><cell></cell><cell>Older than 70 years</cell><cell>6 (25.0)</cell><cell>(25.0)</cell><cell>1.00</cell></row><row><cell></cell><cell>Performance status, no. (%)</cell><cell></cell><cell></cell><cell></cell></row><row><cell></cell><cell>ECOG 0-1</cell><cell>21 (87.5)</cell><cell>(87.5)</cell><cell>1.00</cell></row><row><cell></cell><cell>ECOG ≥ 2</cell><cell>3 (12.5)</cell><cell>(12.5)</cell><cell></cell></row><row><cell></cell><cell>IPI risk group, no. (%)</cell><cell></cell><cell></cell><cell></cell></row><row><cell></cell><cell>Low/low-intermediate</cell><cell>7 (29.2)</cell><cell>(25.0)</cell><cell>1.00</cell></row><row><cell></cell><cell>High-intermediate/high</cell><cell>17 (70.8)</cell><cell>(75.0)</cell><cell></cell></row><row><cell></cell><cell>Histologic subtype, no. (%)</cell><cell></cell><cell></cell><cell></cell></row><row><cell></cell><cell>ABC type</cell><cell>11 (45.8)</cell><cell>(37.5)</cell><cell>0.38</cell></row><row><cell></cell><cell>GCB type</cell><cell>8 (33.3)</cell><cell>(20.8)</cell><cell></cell></row><row><cell></cell><cell>Not evaluated</cell><cell>5 (20.8)</cell><cell>(41.7)</cell><cell></cell></row><row><cell></cell><cell>Elevated LDH, no. (%)</cell><cell>19 (79.2)</cell><cell>(95.8)</cell><cell>0.19</cell></row><row><cell></cell><cell>BM involvement, no. (%)</cell><cell>1 (4.2)</cell><cell>(16.7)</cell><cell>0.35</cell></row><row><cell></cell><cell>Ann Arbor stage, no. (%)</cell><cell></cell><cell></cell><cell></cell></row><row><cell></cell><cell>I-II</cell><cell>7 (29.2)</cell><cell>(25.0)</cell><cell>1.00</cell></row><row><cell></cell><cell>III-IV</cell><cell>17 (70.8)</cell><cell>(75.0)</cell><cell></cell></row><row><cell></cell><cell>Detection of EBV DNA in serum, no. (%)</cell><cell>8 (33.3)</cell><cell>(37.5)</cell><cell>0.18</cell></row><row><cell></cell><cell>Patients who finished 6 cycles no. (%)</cell><cell>16 (66.7)</cell><cell>(70.8%)</cell><cell>1.00</cell></row></table><note>ECOG Eastern Cooperative Oncology Group, LDH lactic dehydrogenase, IPI International Prognostic Index, ABC activated B cell, GCB germinal B cell 28-84 years) in I-</note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_1"><head>Table 2 Response</head><label>2</label><figDesc></figDesc><table><row><cell>to age group</cell><cell>rate according</cell><cell cols="2">Total patients</cell><cell cols="2">Age &lt; 65 years</cell><cell cols="2">Age ≥ 65 years</cell><cell>p value</cell></row><row><cell></cell><cell></cell><cell>n = 24</cell><cell></cell><cell>n = 16</cell><cell></cell><cell>n = 8</cell><cell></cell></row><row><cell></cell><cell></cell><cell>n</cell><cell>%</cell><cell>n</cell><cell>%</cell><cell>n</cell><cell>%</cell></row><row><cell></cell><cell>I-RCHOP</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell></cell><cell>Overall</cell><cell>16</cell><cell>66.7</cell><cell>14</cell><cell>87.5</cell><cell>2</cell><cell>25.0</cell><cell>0.01</cell></row><row><cell></cell><cell>Complete response</cell><cell>16</cell><cell>66.7</cell><cell>14</cell><cell>87.5</cell><cell>2</cell><cell>25.0</cell><cell>0.01</cell></row><row><cell></cell><cell>Progression</cell><cell>3</cell><cell>12.5</cell><cell>1</cell><cell>6.3</cell><cell>2</cell><cell>25.0</cell></row><row><cell></cell><cell>Not evaluable</cell><cell>5</cell><cell>20.8</cell><cell>1</cell><cell>6.3</cell><cell>4</cell><cell>50.0</cell></row><row><cell></cell><cell>RCHOP</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell></cell><cell>Overall</cell><cell>16</cell><cell>66.7</cell><cell>12</cell><cell>75.0</cell><cell>4</cell><cell>50.0</cell><cell>0.54</cell></row><row><cell></cell><cell>Complete response</cell><cell>15</cell><cell>62.5</cell><cell>11</cell><cell>68.8</cell><cell>4</cell><cell>50.0</cell><cell>0.70</cell></row><row><cell></cell><cell>Partial response</cell><cell>1</cell><cell>4.2</cell><cell>1</cell><cell>6.3</cell><cell>0</cell><cell>0</cell></row><row><cell></cell><cell>Progression</cell><cell>4</cell><cell>16.7</cell><cell>2</cell><cell>12.5</cell><cell>2</cell><cell>25.0</cell></row><row><cell></cell><cell>Not evaluable</cell><cell>4</cell><cell>16.7</cell><cell>2</cell><cell>12.5</cell><cell>2</cell><cell>25.0</cell></row><row><cell cols="2">Table 3 Response rate according to I-RCHOP and R-CHOP</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell></cell><cell></cell><cell>I-RCHOP</cell><cell></cell><cell></cell><cell>RCHOP</cell><cell></cell><cell></cell></row><row><cell></cell><cell></cell><cell>n = 24</cell><cell></cell><cell></cell><cell>n = 24</cell><cell></cell><cell></cell></row><row><cell></cell><cell>Response to treatment</cell><cell>n</cell><cell>%</cell><cell></cell><cell>n</cell><cell>%</cell><cell></cell><cell>P-value</cell></row><row><cell>Total patients</cell><cell>Overall response</cell><cell>16</cell><cell>66.7</cell><cell></cell><cell>16</cell><cell>66.7</cell><cell></cell><cell>1.00</cell></row><row><cell></cell><cell>Complete response</cell><cell>16</cell><cell>66.7</cell><cell></cell><cell>15</cell><cell>62.5</cell><cell></cell><cell>1.00</cell></row><row><cell></cell><cell>Partial response</cell><cell>0</cell><cell>0</cell><cell></cell><cell>1</cell><cell>4.2</cell><cell></cell></row><row><cell></cell><cell>Progressive disease</cell><cell>3</cell><cell>12.5</cell><cell></cell><cell>4</cell><cell>16.7</cell><cell></cell></row><row><cell></cell><cell>Not evaluated</cell><cell>5</cell><cell>20.8</cell><cell></cell><cell>4</cell><cell>16.7</cell><cell></cell></row><row><cell></cell><cell></cell><cell>n = 16</cell><cell></cell><cell></cell><cell>n = 16</cell><cell></cell><cell></cell></row><row><cell></cell><cell></cell><cell>n</cell><cell>%</cell><cell></cell><cell>n</cell><cell>%</cell><cell></cell><cell>P-value</cell></row><row><cell>&lt; 65 years</cell><cell>Overall response</cell><cell>14</cell><cell>87.5</cell><cell></cell><cell>12</cell><cell>75.0</cell><cell></cell><cell>0.69</cell></row><row><cell></cell><cell>Complete response</cell><cell>14</cell><cell>87.3</cell><cell></cell><cell>11</cell><cell>68.8</cell><cell></cell><cell>0.53</cell></row><row><cell></cell><cell>Partial response</cell><cell>0</cell><cell>0</cell><cell></cell><cell>1</cell><cell>6.3</cell><cell></cell></row><row><cell></cell><cell>Progressive disease</cell><cell>1</cell><cell>6.3</cell><cell></cell><cell>2</cell><cell>12.5</cell><cell></cell></row><row><cell></cell><cell>Not evaluated</cell><cell>1</cell><cell>6.3</cell><cell></cell><cell>2</cell><cell>12.5</cell><cell></cell></row><row><cell></cell><cell></cell><cell>n = 8</cell><cell></cell><cell></cell><cell>n = 8</cell><cell></cell><cell></cell></row><row><cell></cell><cell></cell><cell>n</cell><cell>%</cell><cell></cell><cell>n</cell><cell>%</cell><cell></cell><cell>P-value</cell></row><row><cell>≥ 65 years</cell><cell>Overall response</cell><cell>2</cell><cell>25.0</cell><cell></cell><cell>4</cell><cell>50.0</cell><cell></cell><cell>0.81</cell></row><row><cell></cell><cell>Complete response</cell><cell>2</cell><cell>25.0</cell><cell></cell><cell>4</cell><cell>50.0</cell><cell></cell><cell>0.81</cell></row><row><cell></cell><cell>Progressive disease</cell><cell>2</cell><cell>25.0</cell><cell></cell><cell>2</cell><cell>25.0</cell><cell></cell></row><row><cell></cell><cell>Not evaluated</cell><cell>4</cell><cell>50.0</cell><cell></cell><cell>2</cell><cell>25.0</cell><cell></cell></row></table><note></note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_2"><head>Table 4 Grades</head><label>4</label><figDesc></figDesc><table><row><cell>profile</cell><cell>3/4 toxicity</cell><cell>Category</cell><cell>&lt; 65 years</cell><cell></cell><cell>≥ 65 years</cell></row><row><cell></cell><cell></cell><cell></cell><cell cols="4">Case (n = 16) Control (n = 16) Case (n = 8) Control (n = 8)</cell></row><row><cell></cell><cell>Hematologic</cell><cell>Neutropenia</cell><cell>5 (31.3)</cell><cell>12 (75.0)</cell><cell>4 (50.0)</cell><cell>(62.5)</cell></row><row><cell></cell><cell></cell><cell>Neutropenic fever</cell><cell>2 (12.5)</cell><cell>3 (18.8)</cell><cell>1 (12.5)</cell><cell>(25.0)</cell></row><row><cell></cell><cell></cell><cell>Anemia</cell><cell>1 (6.25)</cell><cell>1 (6.25)</cell><cell>1 (12.5)</cell><cell>(12.5)</cell></row><row><cell></cell><cell></cell><cell cols="2">Thrombocytopenia 3 (18.8)</cell><cell>1 (6.25)</cell><cell>4 (50.0)</cell><cell>(12.5)</cell></row><row><cell></cell><cell cols="2">Non-hematologic Diarrhea</cell><cell>1 (6.25)</cell><cell></cell><cell>1 (12.5)</cell></row><row><cell></cell><cell></cell><cell>Pneumonia</cell><cell></cell><cell></cell><cell>3 (37.5) a</cell><cell>(25.0)</cell></row><row><cell></cell><cell></cell><cell>Heart failure</cell><cell></cell><cell>1 (6.25)</cell><cell>1 (12.5)</cell><cell>(12.5)</cell></row><row><cell></cell><cell></cell><cell>Sepsis</cell><cell>1 (6.25)</cell><cell>1 (6.25)</cell><cell>1 (12.5) b</cell><cell>(25.0)</cell></row><row><cell></cell><cell></cell><cell>Brain abscess</cell><cell>1 (6.25) c</cell><cell></cell><cell></cell></row><row><cell></cell><cell></cell><cell>Meningitis</cell><cell></cell><cell></cell><cell>1 (12.5) d</cell></row><row><cell></cell><cell cols="2">a Invasive pulmonary aspergillosis</cell><cell></cell><cell></cell><cell></cell></row><row><cell></cell><cell cols="2">b Hemolytic streptococci-induced sepsis</cell><cell></cell><cell></cell><cell></cell></row></table><note>c Bacteria-induced brain abscessd Bacteria-induced meningitis</note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_3"><head>Table 5</head><label>5</label><figDesc></figDesc><table><row><cell>Univariate and</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>multivariate analysis of I-RCHOP</cell><cell>Variable</cell><cell>Univariate</cell><cell></cell><cell></cell><cell cols="2">Multivariate</cell></row><row><cell>for estimating prognostic factors</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell></cell><cell></cell><cell>HR</cell><cell>95% CI</cell><cell>p value</cell><cell>HR</cell><cell>95% CI</cell><cell>p value</cell></row><row><cell></cell><cell>Male sex</cell><cell>1.03</cell><cell>0.26-4.12</cell><cell>0.97</cell><cell></cell><cell></cell></row><row><cell></cell><cell>Age ≥ 65 years</cell><cell>5.54</cell><cell>1.37-22.38</cell><cell>0.02</cell><cell>0.61</cell><cell>0.12-3.19</cell><cell>0.55</cell></row><row><cell></cell><cell>ECOG ≥ 2</cell><cell>1.46</cell><cell>0.66-3.26</cell><cell>0.35</cell><cell></cell><cell></cell></row><row><cell></cell><cell>Stage ≥ 3</cell><cell>1.62</cell><cell>0.34-7.79</cell><cell>0.55</cell><cell></cell><cell></cell></row><row><cell></cell><cell>B-symptom</cell><cell>1.35</cell><cell>0.30-6.07</cell><cell>0.70</cell><cell></cell><cell></cell></row><row><cell></cell><cell>Extranodal involvement</cell><cell>0.45</cell><cell>0.05-3.80</cell><cell>0.46</cell><cell></cell><cell></cell></row><row><cell></cell><cell>IPI ≥ 3</cell><cell>4.24</cell><cell>0.88-20.56</cell><cell>0.07</cell><cell></cell><cell></cell></row><row><cell></cell><cell>Bulky mass ≥ 10 cm</cell><cell>4.34</cell><cell>0.87-21.74</cell><cell>0.07</cell><cell></cell><cell></cell></row><row><cell></cell><cell>Finished 6 cycles</cell><cell>0.03</cell><cell>0.03-0.21</cell><cell>0.00</cell><cell>0.02</cell><cell>0.00-0.21</cell><cell>0.00</cell></row></table><note>ECOG Eastern Cooperative Oncology Group, IPI International Prognostic Index</note></figure>
+		</body>
+		<back>
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Funding information This study was supported in part by a grant from Janssen Pharmaceuticals. However, Janssen did not have any input regarding the content or interpretation of the study.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Compliance with ethical standards</head><p>Conflict of interest The authors declare that they have no conflict of interest.</p><p>Open Access This article is licensed under a Creative Commons Attribution 4.0 International License, which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if changes were made. The images or other third party material in this article are included in the article's Creative Commons licence, unless indicated otherwise in a credit line to the material. If material is not included in the article's Creative Commons licence and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this licence, visit http://creativecommons.org/licenses/by/4.0/.</p></div>			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">The impact of Epstein-Barr virus status on clinical outcome in diffuse large B-cell lymphoma</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Park</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Lee</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Y</forename><forename type="middle">H</forename><surname>Ko</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Han</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><forename type="middle">J</forename><surname>Jun</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><forename type="middle">C</forename><surname>Lee</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">I</forename><forename type="middle">G</forename><surname>Hwang</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Y</forename><forename type="middle">H</forename><surname>Park</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">S</forename><surname>Ahn</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><forename type="middle">W</forename><surname>Jung</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><surname>Kim</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Y</forename><forename type="middle">C</forename><surname>Ahn</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">W</forename><forename type="middle">K</forename><surname>Kang</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><surname>Park</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">W</forename><forename type="middle">S</forename><surname>Kim</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Blood</title>
+		<imprint>
+			<biblScope unit="volume">110</biblScope>
+			<biblScope unit="page" from="972" to="978" />
+			<date type="published" when="2007" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">EBVpositive diffuse large B-cell lymphoma of the elderly</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><forename type="middle">Y</forename><surname>Ok</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><forename type="middle">G</forename><surname>Papathomas</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">L</forename><forename type="middle">J</forename><surname>Medeiros</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><forename type="middle">H</forename><surname>Young</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Blood</title>
+		<imprint>
+			<biblScope unit="volume">122</biblScope>
+			<biblScope unit="page" from="328" to="340" />
+			<date type="published" when="2013" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Age-related EBV-associated lymphoproliferative disorders in the Western population: a spectrum of reactive lymphoid hyperplasia and lymphoma</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><forename type="middle">D</forename><surname>Dojcinov</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">G</forename><surname>Venkataraman</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Pittaluga</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">I</forename><surname>Wlodarska</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">A</forename><surname>Schrager</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Raffeld</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><forename type="middle">K</forename><surname>Hills</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><forename type="middle">S</forename><surname>Jaffe</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Blood</title>
+		<imprint>
+			<biblScope unit="volume">117</biblScope>
+			<biblScope unit="page" from="4726" to="4735" />
+			<date type="published" when="2011" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">EBV-positive diffuse large B-cell lymphoma in young adults: is this a distinct disease entity</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">Y</forename><surname>Hong</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><forename type="middle">H</forename><surname>Yoon</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><surname>Suh</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Huh</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">I</forename><forename type="middle">G</forename><surname>Do</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">I</forename><surname>Sohn</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Jo</forename><forename type="middle">J</forename><surname>Jung</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><forename type="middle">H</forename><surname>Hong</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">E</forename><surname>Yoon</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><surname>Ko</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Y</forename><forename type="middle">H</forename><surname>Kim</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><forename type="middle">J</forename><surname>Kim</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">W</forename><forename type="middle">S</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ann Oncol</title>
+		<imprint>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="page" from="548" to="555" />
+			<date type="published" when="2015" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Epstein-Barr virus latent genes</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">S</forename><surname>Kang</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><surname>Kieff</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Exp Mol Med</title>
+		<imprint>
+			<biblScope unit="volume">47</biblScope>
+			<biblScope unit="page">131</biblScope>
+			<date type="published" when="2015" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Syk and Bruton&apos;s tyrosine kinase are required for B cell antigen receptor-mediated activation of the kinase Akt</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Craxton</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Jiang</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Kurosaki</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><forename type="middle">A</forename><surname>Clark</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Biol Chem</title>
+		<imprint>
+			<biblScope unit="volume">274</biblScope>
+			<biblScope unit="page" from="30644" to="30650" />
+			<date type="published" when="1999" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Bruton tyrosine kinase inhibitor ibrutinib (PCI-32765) has significant activity in patients with relapsed/refractory B-cell malignancies</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><forename type="middle">H</forename><surname>Advani</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">J</forename><surname>Buggy</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">P</forename><surname>Sharman</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><forename type="middle">M</forename><surname>Smith</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><forename type="middle">E</forename><surname>Boyd</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">B</forename><surname>Grant</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><forename type="middle">S</forename><surname>Kolibaba</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><forename type="middle">R</forename><surname>Furman</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Rodriguez</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">B</forename><forename type="middle">Y</forename><surname>Chang</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Sukbuntherng</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><surname>Izumi</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Hamdy</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><surname>Hedrick</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">N</forename><forename type="middle">H</forename><surname>Fowler</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Clin Oncol</title>
+		<imprint>
+			<biblScope unit="volume">31</biblScope>
+			<biblScope unit="page" from="88" to="94" />
+			<date type="published" when="2013" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Combination of ibrutinib with rituximab, cyclophosphamide, doxorubicin, vincristine, and prednisone (R-CHOP) for treatment-naive patients with CD20-positive B-cell non-Hodgkin lymphoma: a non-randomised, phase 1b study</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Younes</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><surname>Thieblemont</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">F</forename><surname>Morschhauser</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Flinn</forename><forename type="middle">I</forename><surname>Friedberg</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">W</forename><surname>Amorim</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Hivert</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">B</forename><surname>Westin</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Vermeulen</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Bandyopadhyay</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">N</forename><surname>De Vries</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><surname>Balasubramanian</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Hellemans</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><surname>Smit</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">W</forename><surname>Fourneau</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">N</forename><surname>Oki</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Y</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Lancet Oncol</title>
+		<imprint>
+			<biblScope unit="volume">15</biblScope>
+			<biblScope unit="page" from="1019" to="1026" />
+			<date type="published" when="2014" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Eastern Cooperative Oncology G, European Mantle Cell Lymphoma C, Italian Lymphoma F, European Organisation for R, Treatment of Cancer/Dutch Hemato-Oncology G, Grupo Espanol de Medula O, German High-Grade Lymphoma Study G, German Hodgkin&apos;s Study G, Japanese Lymphorra Study G, Lymphoma Study A, Group NCT, Nordic Lymphoma Study G, Southwest Oncology G, United Kingdom National Cancer Research I (2014) Recommendations for initial evaluation, staging, and response assessment of Hodgkin and non-Hodgkin lymphoma: the Lugano classification</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">B</forename><forename type="middle">D</forename><surname>Cheson</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><forename type="middle">I</forename><surname>Fisher</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><forename type="middle">F</forename><surname>Barrington</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">F</forename><surname>Cavalli</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">L</forename><forename type="middle">H</forename><surname>Schwartz</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><surname>Zucca</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><forename type="middle">A</forename><surname>Lister</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><forename type="middle">L</forename><surname>Alliance</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">G</forename><surname>Lymphoma</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Clin Oncol</title>
+		<imprint>
+			<biblScope unit="volume">32</biblScope>
+			<biblScope unit="page" from="3059" to="3068" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Combining ibrutinib with rituximab, cyclophosphamide, doxorubicin, vincristine, and prednisone (R-CHOP): updated results from a phase 1b study in treatment-naive patients with CD20-positive B-cell non-Hodgkin&apos;s Lymphoma (NHL)</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Younes</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">I</forename><surname>Flinn</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Berdeja</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">W</forename><surname>Friedberg</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><surname>Casulo</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><surname>Thieblemont</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">F</forename><surname>Morschhauser</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">R</forename><surname>Westin</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Seetharam</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><surname>Hellemans</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><surname>Smit</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><surname>De Vries</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><surname>Dauphinee</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Ccrp</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Badamo-Dotzis</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">N</forename><surname>Fourneau</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Y</forename><surname>Oki</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Blood</title>
+		<imprint>
+			<biblScope unit="volume">122</biblScope>
+			<biblScope unit="page">852</biblScope>
+			<date type="published" when="2013" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<monogr>
+		<title level="m" type="main">Statistical methods for rates and proportions</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">L</forename><surname>Fleiss</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1981" />
+			<publisher>Wiley</publisher>
+			<biblScope unit="page" from="13" to="15" />
+			<pubPlace>New York</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Epigenetic regulation of EBV persistence and oncogenesis</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">I</forename><surname>Tempera</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><forename type="middle">M</forename><surname>Lieberman</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Semin Cancer Biol</title>
+		<imprint>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="page" from="22" to="29" />
+			<date type="published" when="2014" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Persistence of the Epstein-Barr virus and the origins of associated lymphomas</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><forename type="middle">A</forename><surname>Thorley-Lawson</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Gross</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">N Engl J Med</title>
+		<imprint>
+			<biblScope unit="volume">350</biblScope>
+			<biblScope unit="page" from="1328" to="1337" />
+			<date type="published" when="2004" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Targeting B cell receptor signaling with ibrutinib in diffuse large B cell lymphoma</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">W</forename><forename type="middle">H</forename><surname>Wilson</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><forename type="middle">M</forename><surname>Young</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><surname>Schmitz</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Y</forename><surname>Yang</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Pittaluga</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">G</forename><surname>Wright</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><forename type="middle">J</forename><surname>Lih</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><forename type="middle">M</forename><surname>Williams</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><forename type="middle">L</forename><surname>Shaffer</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Gerecitano</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>De Vos</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Goy</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">V</forename><forename type="middle">P</forename><surname>Kenkre</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><forename type="middle">M</forename><surname>Barr</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><forename type="middle">A</forename><surname>Blum</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Shustov</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><surname>Advani</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">N</forename><forename type="middle">H</forename><surname>Fowler</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">M</forename><surname>Vose</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><forename type="middle">L</forename><surname>Elstrom</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><forename type="middle">M</forename><surname>Habermann</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">C</forename><surname>Barrientos</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Mcgreivy</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Fardis</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">B</forename><forename type="middle">Y</forename><surname>Chang</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">F</forename><surname>Clow</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">B</forename><surname>Munneke</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><surname>Moussa</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><forename type="middle">M</forename><surname>Beaupre</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">L</forename><forename type="middle">M</forename><surname>Staudt</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nat Med</title>
+		<imprint>
+			<biblScope unit="volume">21</biblScope>
+			<biblScope unit="page" from="922" to="926" />
+			<date type="published" when="2015" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">Clinical significance of non-neutropenic fever in the management of diffuse large b-cell lymphoma patients treated with rituximab-CHOP: comparison with febrile neutropenia and risk factor analysis</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Park</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><forename type="middle">I</forename><surname>Kang</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><forename type="middle">R</forename><surname>Chung</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><forename type="middle">R</forename><surname>Peck</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">W</forename><forename type="middle">S</forename><surname>Kim</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><forename type="middle">J</forename><surname>Kim</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Cancer Res Treat</title>
+		<imprint>
+			<biblScope unit="volume">47</biblScope>
+			<biblScope unit="page" from="448" to="457" />
+			<date type="published" when="2015" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Early-onset invasive aspergillosis and other fungal infections in patients treated with ibrutinib</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><surname>Ghez</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Calleja</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><surname>Protin</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Baron</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">P</forename><surname>Ledoux</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">G</forename><surname>Damaj</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Dupont</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">B</forename><surname>Dreyfus</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><surname>Ferrant</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><surname>Herbaux</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><surname>Laribi</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Le</forename><surname>Calloch</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><surname>Malphettes</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Paul</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">F</forename><surname>Souchet</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">L</forename><surname>Truchan-Graczyk</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Delavigne</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><surname>Dartigeas</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><surname>Ysebaert</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">L</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Blood</title>
+		<imprint>
+			<biblScope unit="volume">131</biblScope>
+			<biblScope unit="page" from="1955" to="1959" />
+			<date type="published" when="2018" />
+			<publisher>French Innovative Leukemia Organization CLLg</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Call for action: invasive fungal infections associated with ibrutinib and other small molecule kinase inhibitors targeting immune signaling pathways</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">G</forename><surname>Chamilos</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">S</forename><surname>Lionakis</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><forename type="middle">P</forename><surname>Kontoyiannis</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Clin Infect Dis</title>
+		<imprint>
+			<biblScope unit="volume">66</biblScope>
+			<biblScope unit="page" from="140" to="148" />
+			<date type="published" when="2018" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Phagocytosis-dependent activation of a TLR9-BTKcalcineurin-NFAT pathway co-ordinates innate immunity to Aspergillus fumigatus</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Herbst</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Shah</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Mazon</forename><surname>Moya</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Marzola</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">V</forename><surname>Jensen</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">B</forename><surname>Reed</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Birrell</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">A</forename><surname>Saijo</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Mostowy</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Shaunak</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Armstrong-James</forename></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">EMBO Mol Med</title>
+		<imprint>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="page" from="240" to="258" />
+			<date type="published" when="2015" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">Infections in Cll patients receiving ibrutinib: incidence and predisposing factors</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><surname>Dmitrieva</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><surname>Nikitin</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><surname>Markova</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">N</forename><surname>Dmitrieva</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">V</forename><surname>Ptushkin</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">HemaSphere</title>
+		<imprint>
+			<biblScope unit="volume">3</biblScope>
+			<biblScope unit="page" from="523" to="524" />
+			<date type="published" when="2019" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">Safety analysis of four randomized controlled studies of ibrutinib in patients with chronic lymphocytic leukemia/small lymphocytic lymphoma or mantle cell lymphoma</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>O'brien</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><surname>Hillmen</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Coutre</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><forename type="middle">M</forename><surname>Barr</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">G</forename><surname>Fraser</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Tedeschi</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">A</forename><surname>Burger</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">S</forename><surname>Dilhuydy</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">G</forename><surname>Hess</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><surname>Moreno</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><surname>Cramer</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><surname>Liu</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Chang</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Vermeulen</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">L</forename><surname>Styles</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Howes</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><forename type="middle">F</forename><surname>James</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><surname>Patel</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Graef</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><surname>Valentino</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Clin Lymphoma Myeloma Leuk</title>
+		<imprint>
+			<biblScope unit="volume">18</biblScope>
+			<biblScope unit="page">15</biblScope>
+			<date type="published" when="2018" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

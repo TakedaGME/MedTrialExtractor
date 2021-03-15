@@ -1,0 +1,1397 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /data/rsg/nlp/juanmoo1/bin/grobid-0.6.1/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">The combination of intermediate doses of thalidomide with dexamethasone is an effective treatment for patients with refractory/relapsed multiple myeloma and normalizes abnormal bone remodeling, through the reduction of sRANKL/osteoprotegerin ratio</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+				<date type="published" when="2005-08-04">4 August 2005</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author role="corresp">
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><roleName>Dr</roleName><forename type="first">E</forename><surname>Terpos</surname></persName>
+							<email>e.terpos@imperial.ac.uk</email>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Hematology</orgName>
+								<orgName type="institution">251 General Airforce Hospital</orgName>
+								<address>
+									<settlement>Athens</settlement>
+									<country key="GR">Greece</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="department" key="dep1">Department of Hematology</orgName>
+								<orgName type="department" key="dep2">Faculty of Medicine Imperial College London</orgName>
+								<orgName type="institution">Hammersmith Hospital</orgName>
+								<address>
+									<settlement>London</settlement>
+									<country key="GB">UK</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><surname>Mihou</surname></persName>
+							<affiliation key="aff2">
+								<orgName type="department">Department of Hematology, &apos;Theageneion&apos; Cancer Center</orgName>
+								<address>
+									<settlement>Thessaloniki</settlement>
+									<country key="GR">Greece</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><surname>Szydlo</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="department" key="dep1">Department of Hematology</orgName>
+								<orgName type="department" key="dep2">Faculty of Medicine Imperial College London</orgName>
+								<orgName type="institution">Hammersmith Hospital</orgName>
+								<address>
+									<settlement>London</settlement>
+									<country key="GB">UK</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><surname>Tsimirika</surname></persName>
+							<affiliation key="aff2">
+								<orgName type="department">Department of Hematology, &apos;Theageneion&apos; Cancer Center</orgName>
+								<address>
+									<settlement>Thessaloniki</settlement>
+									<country key="GR">Greece</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><surname>Karkantaris</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Hematology</orgName>
+								<orgName type="institution">251 General Airforce Hospital</orgName>
+								<address>
+									<settlement>Athens</settlement>
+									<country key="GR">Greece</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Politou</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="department" key="dep1">Department of Hematology</orgName>
+								<orgName type="department" key="dep2">Faculty of Medicine Imperial College London</orgName>
+								<orgName type="institution">Hammersmith Hospital</orgName>
+								<address>
+									<settlement>London</settlement>
+									<country key="GB">UK</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><surname>Voskaridou</surname></persName>
+							<affiliation key="aff3">
+								<orgName type="institution" key="instit1">Thalassemia Center</orgName>
+								<orgName type="institution" key="instit2">Laikon Hospital</orgName>
+								<address>
+									<settlement>Athens</settlement>
+									<country key="GR">Greece</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Rahemtulla</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="department" key="dep1">Department of Hematology</orgName>
+								<orgName type="department" key="dep2">Faculty of Medicine Imperial College London</orgName>
+								<orgName type="institution">Hammersmith Hospital</orgName>
+								<address>
+									<settlement>London</settlement>
+									<country key="GB">UK</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">A</forename><surname>Dimopoulos</surname></persName>
+							<affiliation key="aff4">
+								<orgName type="department" key="dep1">Department of Clinical Therapeutics and Internal Medicine</orgName>
+								<orgName type="department" key="dep2">School of Medicine</orgName>
+								<orgName type="institution">University of Athens</orgName>
+								<address>
+									<settlement>Athens</settlement>
+									<country key="GR">Greece</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><surname>Zervas</surname></persName>
+							<affiliation key="aff2">
+								<orgName type="department">Department of Hematology, &apos;Theageneion&apos; Cancer Center</orgName>
+								<address>
+									<settlement>Thessaloniki</settlement>
+									<country key="GR">Greece</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff5">
+								<orgName type="department">Department of Hematology, 251 General Airforce Hospital</orgName>
+								<address>
+									<addrLine>3 Kanellopoulou Street, GR-11525</addrLine>
+									<settlement>Athens</settlement>
+									<country key="GR">Greece</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">The combination of intermediate doses of thalidomide with dexamethasone is an effective treatment for patients with refractory/relapsed multiple myeloma and normalizes abnormal bone remodeling, through the reduction of sRANKL/osteoprotegerin ratio</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date type="published" when="2005-08-04">4 August 2005</date>
+						</imprint>
+					</monogr>
+					<idno type="DOI">10.1038/sj.leu.2403890</idno>
+					<note type="submission">Received 3 March 2005; accepted 21 June 2005;</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.6.1" ident="GROBID" when="2021-01-01T18:48+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>multiple myeloma</term>
+					<term>thalidomide</term>
+					<term>bone markers</term>
+					<term>receptor activator of nuclear factor-kB ligand (RANKL)</term>
+					<term>osteoprotegerin</term>
+					<term>osteopontin</term>
+				</keywords>
+			</textClass>
+			<abstract>
+				<p>The aim of this study was the evaluation of the effect of intermediate doses of thalidomide with dexamethasone (Thal/ Dex) on disease course and bone disease in patients with refractory/relapsed myeloma who were under zoledronic acid therapy. We studied 35 patients, who received thalidomide at a dose of 200 mg/daily. We measured, pre-, 3 and 6 months posttreatment soluble receptor activator of nuclear factor-jB ligand (sRANKL), osteoprotegerin (OPG), osteopontin (OPN), markers of bone resorption and formation. Before treatment, patients had increased levels of sRANKL/OPG ratio, bone resorption markers and OPN, while they had suppressed bone formation. The pretreatment sRANKL/OPG ratio correlated with the extent of bone disease. Thal/Dex administration resulted in a significant reduction of sRANKL/OPG ratio, and bone resorption. Bone formation, OPG and OPN did not show any alteration. Changes of sRANKL/OPG ratio correlated with changes of bone resorption markers. Thal/Dex was given for a median time of 10 months and the median follow-up period was 22 months. The response rate was 65.7%. The median survival was 19.5 months. b 2-microglobulin, type of response and International Staging System predicted for survival. These results suggest that the combination of intermediate dose of Thal/Dex is effective in patients with refractory/relapsed myeloma and improves abnormal bone remodeling through the reduction of sRANKL/OPG ratio.</p>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Introduction</head><p>Multiple myeloma (MM) is a neoplastic disease of the bone marrow plasma cells, which remains, unfortunately, incurable with current treatment. <ref type="bibr" target="#b0">1,</ref><ref type="bibr" target="#b1">2</ref> Thalidomide has been shown to have a significant antimyeloma activity in both refractory/relapsed and newly diagnosed MM patients. <ref type="bibr" target="#b2">[3]</ref><ref type="bibr" target="#b3">[4]</ref><ref type="bibr" target="#b4">[5]</ref> In the first report by Singhal et al, <ref type="bibr" target="#b2">3</ref> thalidomide was given at a starting dose of 200 mg/day, increasing in 200 mg increments every 2 weeks to a maximum dose of 800 mg/day. <ref type="bibr" target="#b2">3</ref> However, the optimal dose of thalidomide remains uncertain. <ref type="bibr" target="#b5">6,</ref><ref type="bibr" target="#b6">7</ref> Thalidomide produces a response rate of 30-35% in patients with refractory/relapsed disease, which is increased to almost 50% when it is combined with dexamethasone. <ref type="bibr" target="#b7">8,</ref><ref type="bibr" target="#b8">9</ref> When thalidomide is given together with dexamethasone, the dose of 400-600 mg/day is usually used. There is very little information for the role of the combination of intermediate dose of thalidomide with dexamethasone in the clinical course of the disease in patients with refractory/relapsed myeloma.</p><p>Bone disease in MM remains a difficult problem to manage. It mainly includes osteolytic lesions due to an increased osteoclastic activity, which is not accompanied by a comparable increase in bone formation. <ref type="bibr" target="#b9">10</ref> Cytokines produced locally by stromal or myeloma cells are responsible for the osteoclast activation. <ref type="bibr" target="#b10">11,</ref><ref type="bibr" target="#b11">12</ref> The receptor activator of nuclear factor-kB (RANK)/RANK ligand (RANKL)/osteoprotegerin (OPG) system has a major role in osteoclastogenesis, as RANKL directly induces osteoclast differentiation and proliferation by binding to its receptor RANK on the surface of osteoclast precursors. OPG is the soluble decoy receptor for RANKL and one of the most potent antiresorptive agents known. <ref type="bibr" target="#b12">13</ref> In MM, the ratio of RANKL/OPG is increased due to an increase in RANKL production and a decrease in OPG production by stromal cells. <ref type="bibr" target="#b13">14</ref> Furthermore, the ratio of soluble RANKL (sRANKL)/OPG has been found to be elevated in the serum of patients with MM at diagnosis and correlates with the extent of bone disease and survival. <ref type="bibr" target="#b14">15,</ref><ref type="bibr" target="#b15">16</ref> The possible presence and production of RANKL by myeloma cells may explain the major role of this pathway in the biology of myeloma bone disease as well as tumor growth and survival. <ref type="bibr" target="#b16">17</ref> To our knowledge, there is no information in the literature regarding the effect of thalidomide on bone turnover in myeloma patients.</p><p>The aim of this study was to evaluate the effect of the combination of intermediate dose of thalidomide with dexamethasone on disease course and bone remodeling in patients with refractory/relapsed MM who receive zoledronic acid. We have also evaluated the role of pretreatment characteristics of patients in survival and investigated if there is any correlation between markers of bone turnover and response to treatment.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Patients and methods</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Patients</head><p>In all, 35 patients (23M/12F) with refractory or relapsed myeloma were entered into this study. All patients met the eligibility criteria of the protocol that included relapsed or refractory myeloma, age p80 years, no previous treatment with thalidomide, acceptable cardiac (ejection fraction 440%), pulmonary (diffusion capacity for carbon monoxide 450% of normal) and hepatic (bilirubin and transaminases o2 Â upper limit) function. Poor performance status due to MM was not an exclusion criterion. Informed consent was obtained from all patients.</p><p>Thalidomide was administered at a dose of 200 mg/daily. Dexamethasone was given at a dose of 40 mg/daily for 4 days every 15 days until maximal response and then at 40 mg/daily for 4 days monthly. Patients who responded to treatment or had stable disease continued on treatment until disease progression. All patients have been on zoledronic acid since diagnosis and continued to receive zoledronic acid, at a dose of 4 mg every 28 days while on study.</p><p>Evidence of bone involvement at the time of treatment was documented using plain radiography (baseline date was within 1 month before treatment). Patients were considered to have bone involvement if there were radiographic abnormalities consistent with MM bone disease, including osteoporosis, osteolytic lesions and fractures. A grading of bone morbidity into three stages according to the radiographic evaluation of the skeleton was made. Stage A included patients with no lytic lesions or osteoporosis alone; stage B included patients with 1-3 osteolytic lesions; and stage C included patients with more than three osteolytic lesions and/or a pathological fracture due to MM. We have used the o3/43 as cutoff for bone lesions as advanced bone disease includes more than three lytic lesions in the Durie-Salmon staging system.</p><p>The following biochemical parameters of bone turnover were evaluated: sRANKL, OPG, osteopontin (OPN), markers of bone resorption (tartrate-resistant acid phosphatase isoform type-5b (TRACP-5b), and carboxy-telopeptide fragments of collagen type-I a1 chains (CTX)) and bone formation (bone alkaline phosphatase (bALP), osteocalcin (OC) and C-terminal propeptide of collagen type-I (CICP)). The above indices were measured at baseline, and then at 3 and 6 months posttreatment. In all, 30 healthy controls, 20 males and 10 females, were also tested. Their median age was 62 years (range: 45-70 years). Each control was examined to ensure that there was no evidence of bone disease (osteoporosis or osteoarthritis) and no receipt of medication that could alter the normal bone turnover during the last 6 months. The study was conducted with Ethical Committee approval and under the guidelines of the Declaration of Helsinki. </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Measurement of markers of bone turnover</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Statistical analysis</head><p>Differences between patients and controls were evaluated using the Mann-Whitney test. Differences between baseline, 3-and 6-month values of the studied parameters were evaluated using the Wilcoxon signed-rank test. Associations between bone disease status and biochemical markers were examined by the Kruskal-Wallis test, while the Spearman rank correlation test was employed to examine relationships between various parameters and clinical patient characteristics. Survival probabilities were calculated by the Kaplan-Meier method and comparisons made using the log-rank test to identify potential prognostic factors. All P-values are two sided and confidence intervals refer to 95% boundaries.  <ref type="bibr" target="#b17">18</ref> Prior to thalidomide/dexamethasone treatment patients had received a median number of two lines of treatment (range: 1-5). The majority of patients had relapsed after last therapy, while 20% of them were refractory to last therapy. At diagnosis, . Four patients had progression of their disease while on treatment and discontinued the study. Four more patients (11%) were also withdrawn from the study due to side effects: two due to grade 3 peripheral neuropathy, one due to cerebrovasular accident and one due to bradycardia. Toxicity was graded according to NCI common toxicity criteria. Most common side effects included constipation, peripheral neuropathy, infections and somnolence. A total of 15 incidents of infection occurred during therapy, 10 of which concerned the respiratory tract, three the skin and two the urinary tract. They were mostly minor infections with the exception of a case of pulmonary tuberculosis reactivation and a case of herpes zoster infection. Generally, side effects were manageable. Therapy was temporarily discontinued in eight (23%) patients, because of thrombotic events, tuberculosis and herpes zoster reactivation and grade 3 constipation. All these patients continued on treatment after a median time of 2 weeks. Deep venous thrombosis (DVT) occurred in four patients (11%). All of them continued on treatment with the addition of low  molecular weight heparin (LMWH) after discontinuation of thalidomide administration for 2 weeks. <ref type="table" target="#tab_3">Table 2</ref> summarizes all adverse events observed in this study.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Results</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Patients</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Markers of bone remodeling and osteoclast function at baseline</head><p>Patients with relapsed/refractory myeloma before treatment had elevated median values of serum sRANKL (P ¼ 0.008), OPG (Po0.0001), OPN (P ¼ 0.023), TRACP-5b (Po0.0001), CTX (P ¼ 0.001) compared with controls, while serum levels of bALP and OC were lower than controls (Po0.0001, and P ¼ 0.001, respectively). There was no difference in terms of CICP between patients and controls. The ratio of sRANKL/OPG was also significantly higher in myeloma patients before the administration of thalidomide with dexamethasone compared with the control group (P ¼ 0.01) ( <ref type="table" target="#tab_4">Table 3</ref>). OPG was found elevated in our cohort of patients. Serum OPG levels in predialysis patients with renal failure increased as renal function declined and creatinine clearance correlated strongly with OPG in these patients. <ref type="bibr" target="#b19">20</ref> Therefore, we evaluated the OPG/creatinine ratio in patients and controls and found that after OPG 'correction'</p><p>according to renal function, there was no difference between myeloma patients and control group (P ¼ 0.106).</p><p>There was a significant correlation between sRANKL/OPG ratio and bone disease status at baseline. Patients with stage C bone disease had elevated levels of sRANKL/OPG ratio compared with patients with stage B bone disease (median and range ( Â 10 À2 ) was: 0.95 (0.12-3.27) vs 0.56 (0-2.28), for patients with stage C and B bone disease, respectively; P ¼ 0.045). Furthermore, patients with stage C bone disease had increased serum CTX levels than patients with stage B bone disease before the start of combined regimen (median and range was: 1.86 ng/ml (0.53-3.94 ng/ml) vs 0.75 ng/ml (0.39-3.70 ng/ml), for patients of stage C and B bone disease, respectively; P ¼ 0.006). No other correlation was observed between the different markers of bone remodeling or osteoclast function and the extent of bone disease before treatment.</p><p>The pretreatment values of sRANKL/OPG ratio correlated with both markers of bone resorption (r ¼ 0.402, P ¼ 0.002; and r ¼ 0.299, P ¼ 0.028, for TRACP-5b and CTX, respectively). TRACP-5b serum levels also showed a strong association with CTX values (r ¼ 0.541, Po0.0001). Furthermore, OPN levels correlated with both TRACP-5b and CTX (r ¼ 0.293, P ¼ 0.037; and r ¼ 0.345, P ¼ 0.015, respectively). We also studied possible correlations between pretreatment bone markers values and pretreatment laboratory patients' data, such as b 2 -microglobulin, albumin, creatinine, calcium, hemoglobin, CRP and LDH. There was only a negative weak correlation between OPN and albumin (r ¼ 0.338, P ¼ 0.047). b 2 -micoglobulin levels showed a positive correlation with creatinine (r ¼ 0.827, Po0.0001) and a negative correlation with hemoglobin (r ¼ 0.438, P ¼ 0.009), while albumin also correlated with hemoglobin (r ¼ 0.399, P ¼ 0.018) and CRP with creatinine (r ¼ 0.383, P ¼ 0.023).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Effect of the combination treatment on markers of bone remodeling/osteoclast function and myeloma bone disease</head><p>The combination of intermediate dose of thalidomide with dexamethasone produced a significant reduction of CTX and TRACP-5b at the 3rd month postinitiation of treatment compared to baseline (P ¼ 0.005 and o0.0001, respectively), which continued at the 6th month of the study (P ¼ 0.001 and o0.0001, respectively) ( <ref type="figure" target="#fig_0">Figure 1a and b)</ref>. The combined treatment also reduced sRANKL levels and sRANKL/OPG ratio at 6 months post-treatment initiation (Po0.0001 and o0.0001, respectively) ( <ref type="figure" target="#fig_0">Figure 1c and d)</ref> compared with baseline levels. OPG, OPN and bone formation markers showed no differences during the study period. There was also no difference for OPG after correction for creatinine serum levels during the study period. The changes in the studied parameters are also depicted in <ref type="table" target="#tab_4">Table 3</ref>. There was a strong correlation between changes of sRANKL/OPG ratio and changes of TRACP-5b and CTX (r ¼ 0.581, P ¼ 0.001; r ¼ 0.541 and P ¼ 0.006, respectively) ( <ref type="figure">Figure 2</ref>).</p><p>The combined treatment produced, as expected, no healing of the observed lytic lesions at baseline, after radiographic evaluation of responders at 6 months post-treatment. However, only one of four patients who progressed while on treatment presented with new lytic lesions at the time of progression.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Survival analysis data</head><p>The median follow-up period was 22 months (range: 1-54 months). Median overall survival (OS) of all patients from start of combined treatment was 19.5 months. The median progression-free survival (PFS) was 8 months (95% CI: 6-10). Levels of b 2 -microglobulin at diagnosis and response to treatment were the only factors that predicted for OS after start of treatment. The novel ISS could not predict for survival in this cohort of patients from baseline, but it was a strong predictor for survival from diagnosis <ref type="figure">(Figure 3)</ref>. No biochemical marker of bone remodeling could predict for survival. Patients who had a sRANKL/OPG ratio value of 415 Â 10 À2 had median OS of 13.1 months, while patients who had lower values had a median OS of 20.4 months. However, this difference was not significant (P ¼ 0.112) possibly due to the low number of patients in the high ratio arm (n ¼ 9). During the follow-up period, four patients relapsed. These patients had increased sRANKL/OPG, CTX and TRACP-5b at baseline, and continued to have increased values at 3 months post the initiation of combined treatment.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Discussion</head><p>Thalidomide alone or in combination with dexamethasone is an effective treatment for patients with relapsed/refractory myeloma. <ref type="bibr" target="#b2">3,</ref><ref type="bibr" target="#b7">8,</ref><ref type="bibr" target="#b8">9,</ref><ref type="bibr" target="#b20">21</ref> The dose of thalidomide when it is combined with dexamethasone usually ranges from a starting dose of 50-200 mg/day with dose escalation to 400-600 mg/day. <ref type="bibr" target="#b7">8,</ref><ref type="bibr" target="#b8">9</ref> However, the optimal dose of thalidomide in the combination regimen with dexamethasone for refractory/relapsed MM has not been defined yet. Low dose of thalidomide (100 mg/day) with dexamethasone has been given in advanced myeloma showing superiority to conventional chemotherapy (CC) in terms of survival as first salvage regimen, but it was equivalent to CC as second or third salvage treatment. <ref type="bibr" target="#b21">22</ref> There is some information that intermediate dose of thalidomide (200 mg/day) given as monotherapy has comparable efficacy and less toxicity than higher doses in relapsed/refractory patients. <ref type="bibr" target="#b6">7</ref> Rajkumar et al <ref type="bibr" target="#b22">23</ref> has given the combination of intermediate dose of thalidomide, 200 mg/daily, with dexamethasone in prior untreated patients producing a response rate of 64%. However, there is no information in the literature regarding the effect of intermediate dose of thalidomide in combination with dexamethasone in refractory/relapsed disease. We report here the results of a phase II study in patients with refractory/relapsed The correlation between changes of sRANKL/OPG ratio with changes of CTX (a) and TRACP-5b (b) suggests that the normalization of bone remodeling post-treatment is at least partly due to the reduction of sRANKL/OPG ratio. myeloma in whom thalidomide was given at a dose of 200 mg/day in combination with dexamethasone. We also report the effect of this combination on bone remodeling, as assessed by the measurement of a variety of biochemical markers of bone turnover.</p><p>The overall response rate of our study was 65.7%, with 57% of patients achieving a CR or PR. Almost 23% of patients <ref type="bibr">(8/35)</ref> had achieved either a CR or PR with detectable paraprotein only by immunofixation. This response rate is higher than that observed with thalidomide alone 3 and similar or slightly better than that reported with higher doses of thalidomide (400-600 mg) with dexamethasone, which ranges between 47 and 55%. <ref type="bibr" target="#b7">8,</ref><ref type="bibr" target="#b8">9,</ref><ref type="bibr" target="#b23">24</ref> In our study, there was no difference in terms of response among patients with relapsing or resistant disease, indicating that even intermediate dose of thalidomide may over-ride prior resistance to chemotherapeutic agents. Median PFS and OS were 8 and 19.5 months, respectively, comparable with PFS and OS reported by Dimopoulos et al, <ref type="bibr" target="#b7">8</ref> who used higher dose of thalidomide (400 mg/daily) and dexamethasone for refractory MM (10 and 12.6 months, respectively). These results suggest that intermediate dose of thalidomide is as effective as higher doses in combination with dexamethasone for refractory/ relapsed disease. The median time to response in our study was 11.8 weeks, slightly longer than that observed with higher doses of thalidomide, which ranges between 1.3 and 2 months; <ref type="bibr" target="#b7">8,</ref><ref type="bibr" target="#b8">9</ref> thus, the beneficial effect of intermediate dose of thalidomide may be delayed. Toxicities remained a considerable problem in our cohort of patients. DVT occurred in 11% of patients comparable with that observed with higher doses of thalidomide plus dexamethasone. <ref type="bibr" target="#b8">9,</ref><ref type="bibr" target="#b24">25</ref> It seems that the combina-tion with dexamethasone rather than the dose of thalidomide is responsible for this high DVT rate. The administration of LMWH allowed the continuation of therapy in our patients with no other thrombotic events observed, as suggested previously. <ref type="bibr" target="#b25">26</ref> Four patients discontinued the study due to adverse events: two due to grade III peripheral neuropathy, one due to a cerebrovascular ischemic episode and one due to sinus bradycardia. Peripheral neuropathy is a well-established side effect of thalidomide, while symptom-related bradycardia seems to occur in approximately 15-20% of thalidomide patients and arterial thrombosis has been reported in almost 10 MM patients who received thalidomide to date. <ref type="bibr" target="#b26">27,</ref><ref type="bibr" target="#b27">28</ref> Bone disease is a major cause of morbidity in MM patients. Over the last few years, newly characterized molecules, such as RANKL and OPG, have been shown to play an important role in osteoclastogenesis in MM. RANKL expression is upregulated and OPG expression is downregulated in MM. <ref type="bibr" target="#b28">29</ref> Our group has previously shown that serum sRANKL/OPG ratio is increased in MM patients, correlates with the extent of bone disease and reduced post-ASCT. <ref type="bibr" target="#b14">15,</ref><ref type="bibr" target="#b29">30</ref> There is no available information regarding the effect of thalidomide and dexamethasone on myeloma bone disease.</p><p>Before starting treatment, patients had increased levels of sRANKL, sRANKL/OPG ratio, TRACP-5b and CTX. TRACP-5b is an enzyme that is produced only by activated osteoclasts, while CTX is an accurate marker of bone resorption. <ref type="bibr" target="#b30">31,</ref><ref type="bibr" target="#b31">32</ref> Our results show that osteoclast function remains increased in patients with refractory/relapsed disease despite the prophylactic use of zoledronic acid. There was a strong correlation between sRANKL/OPG ratio with TRACP-5b and CTX, indicating that . The ISS also predicted for survival from diagnosis. Patients with stage I had a median OS of 77 months, while patients with stage II had a median OS of 58 months and patients with stage III had a median OS of 36 months (P ¼ 0.034) (c). If we add patients of stages I and II, the difference was even more significant: median OS for stages I þ II was 70 months (P ¼ 0.006) (d).</p><p>the defect in RANKL/OPG pathway may be partly responsible for the osteoclast activation and the subsequent increased bone resorption. Furthermore, we found a correlation between both TRACP-5b and CTX with OPN. OPN, a noncollagenous matrix protein, is essential for osteoclast function, has been found elevated in newly diagnosed MM patients and correlated with disease stage and extent of bone destruction. <ref type="bibr" target="#b11">12,</ref><ref type="bibr" target="#b32">33</ref> We also found elevated levels of serum OPN, confirming its role in the pathogenesis of myeloma bone disease. Bone formation was suppressed in myeloma patients before treatment, as reflected by the reduced levels of OC and bALP in our patients. It seems that osteoblasts remain functionally exhausted in patients with relapsed/refractory disease regardless of previous antimyeloma treatment as in patients at diagnosis. <ref type="bibr" target="#b33">34,</ref><ref type="bibr" target="#b34">35</ref> Nevertheless, OPG was not reduced, a finding that could reflect either the effect of continuous biphosphonates therapy or OPG pattern of metabolism and excretion. <ref type="bibr" target="#b35">[36]</ref><ref type="bibr" target="#b36">[37]</ref><ref type="bibr" target="#b37">[38]</ref> The administration of the combination of intermediate dose of thalidomide and dexamethasone significantly reduced markers of bone resorption (CTX and TRACP-5b) at both 3 and 6 month after the start of treatment. On the contrary, markers of bone formation and OPN had no alteration during this period of time. The sRANKL/OPG ratio was also decreased at 6th month. Changes of this ratio correlated with changes of both markers of bone resorption (TRACP-5b and CTX), suggesting that the improvement of abnormal bone resorption may have been mediated by alterations in RANKL/OPG pathway. The role of zoledronic acid in the reduction of bone resorption markers is not clear. The antiresorptive activity of zoledronic acid in MM has been well documented. <ref type="bibr" target="#b38">39</ref> However, it is very difficult to know whether zoledronic acid has any synergistic effect with thalidomide/dexamethasone on improving abnormal bone resorption, as we have not scheduled an arm with patients who do not receive zoledronic acid due to ethical reasons.</p><p>In this study, we also evaluated possible factors that could predict for survival. We confirmed the strong predictive value of b 2 -microglobulin and ISS at diagnosis and response to treatment. Therefore, strategies aiming to achieve such a response in patients treated with thalidomide, including combination with novel agents (ie bortezomib) may prolong survival in these patients.</p><p>In conclusion, this study shows that the combination of intermediate dose of thalidomide with dexamethasone is very effective for refractory/relapsed MM with manageable toxicity. This combination also improves abnormal bone remodeling through the reduction of sRANKL/OPG ratio, suggesting that thalidomide in combination with dexamethasone may alter the mechanisms in the myeloma microenvironment that are crucial for the pathogenesis of myeloma bone disease.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>Figure 1</head><label>1</label><figDesc>The administration of intermediate dose of thalidomide with dexamethasone resulted in a significant reduction of CTX (a) and TRACP-5b (b) from the 3rd month poststart of treatment, and of sRANKL (c) and sRANKL/OPG (d) ratio at the 6th month.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head></head><label></label><figDesc>Figure 2 The correlation between changes of sRANKL/OPG ratio with changes of CTX (a) and TRACP-5b (b) suggests that the normalization of bone remodeling post-treatment is at least partly due to the reduction of sRANKL/OPG ratio.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_2"><head>Figure 3 b 2 -</head><label>32</label><figDesc>microglobulin at diagnosis (a) and response to treatment (b) predicted for survival poststart of treatment. Patients with b 2 -microglobulin levels of above 3 mg/l had a median survival of 13.5 months, while all other patients had a median survival of 37.2 months (P ¼ 0.026) (a). Similarly, patients who achieved a CR and near CR (defined as the PR with detectable paraprotein only by immunofixation) had a median survival of 37.2 months, while patients who had achieved PR (except of near CR) and MR had a median survival of 18.2 months and all others 11.2 months (P ¼ 0.007) (b)</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_1"><head>Table 1 summarizes</head><label>1</label><figDesc>the characteristics of the 35 patients. The median age of patients was 63 years (range: 44-79 years). At diagnosis, 14 patients (40%) had stage IIA disease and 21 (60%) had stage III disease. According to the new International Staging System (ISS), seven patients belonged to stage I, while 14 patients had stage II and other 14 patients had stage III disease.</figDesc><table /><note></note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_2"><head>Table 1</head><label>1</label><figDesc>Clinical characteristics of the patients 17%) had no lytic lesions or osteoporosis only in skeletal survey (stage A bone disease), 13 (37%) had 1-3 lytic lesions (stage B), while 16 (45.7%) had more than three lytic lesions and/or a pathologic fracture (stage C). Conversely, before the start of treatment, no patient belonged to stage A bone disease, while 14 patients (40%) had stage B, and 21 patients (60%) had stage C bone disease. PR þ MR) was 65.7%. No clinical feature correlated with frequency of remission. Frequencies of remission were similar among patients with relapsing or resistant disease (19/28, 67.8 vs 4/7, 57.1%), or among patients with less or more than 2 years of prior therapy (68.4 vs 62.5%). Median time to response was 11.8 weeks (range: 3.8-64.5 weeks)</figDesc><table><row><cell>No. of patients</cell><cell>35</cell></row><row><cell>Gender</cell><cell>23M-12F</cell></row><row><cell>Age median (range)</cell><cell>63 (44-79)</cell></row><row><cell>Type of MM</cell><cell>IgG (21), IgA (11), light-chain</cell></row><row><cell></cell><cell>(3)</cell></row><row><cell>Stage at diagnosis</cell><cell>Stage IIA: 14 (40%)</cell></row><row><cell>(Durie-Salmon)</cell><cell></cell></row><row><cell></cell><cell>Stage IIIA: 16 (45.7%)</cell></row><row><cell></cell><cell>Stage IIIB: 5 (14.2%)</cell></row><row><cell>Stage at diagnosis (ISS)</cell><cell>Stage I: 7 (20%)</cell></row><row><cell></cell><cell>Stage II: 14 (40%)</cell></row><row><cell></cell><cell>Stage III: 14 (40%)</cell></row><row><cell>Bone disease status at</cell><cell>Stage A: 6 (17.1%)</cell></row><row><cell>diagnosis</cell><cell></cell></row><row><cell></cell><cell>Stage B: 13 (37.1%)</cell></row><row><cell></cell><cell>Stage C: 16 (45.7%)</cell></row><row><cell>Median number of lines of</cell><cell>2 (1-5)</cell></row><row><cell>previous treatment (range)</cell><cell></cell></row><row><cell>Status before treatment</cell><cell>Relapsed after last therapy:</cell></row><row><cell></cell><cell>28 (80%)</cell></row><row><cell></cell><cell>Refractory to last therapy: 7</cell></row><row><cell></cell><cell>(20%)</cell></row><row><cell>Parameters at baseline (before</cell><cell></cell></row><row><cell>Thal/Dexa)</cell><cell></cell></row><row><cell>Hb o10 g/dl</cell><cell>9 (25.7%)</cell></row><row><cell>Creatinine 42 mg/dl Albumin o3.5 g/dl</cell><cell>5 (14.2%) 14 (40%)</cell></row><row><cell>b 2 -microglobulin 43 mg/l</cell><cell>22 (62.8%)</cell></row><row><cell>b 2 -microglobulin 410 mg/l</cell><cell>5 (14.2%)</cell></row><row><cell>CRP 410 mg/l</cell><cell>14 (40%)</cell></row><row><cell>Ca 412 mg/dl</cell><cell>0</cell></row><row><cell>Bone disease status</cell><cell>Stage A: 0</cell></row><row><cell></cell><cell>Stage B: 14 (40%)</cell></row><row><cell></cell><cell>Stage C: 21 (60%)</cell></row></table><note></note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_3"><head>Table 2</head><label>2</label><figDesc>Adverse events observed during study period</figDesc><table><row><cell>Side effect</cell><cell>Grade I</cell><cell>Grade II</cell><cell>Grade III</cell><cell>Grade IV</cell><cell>Total no</cell></row><row><cell></cell><cell>(No)</cell><cell>(No)</cell><cell>(No)</cell><cell>(No)</cell><cell>(%)</cell></row><row><cell>Constipation</cell><cell>11</cell><cell>8</cell><cell>2</cell><cell>0</cell><cell>21 (60)</cell></row><row><cell>Peripheral</cell><cell>11</cell><cell>7</cell><cell>2</cell><cell>0</cell><cell>20 (57.1)</cell></row><row><cell>neuropathy</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Infection</cell><cell>13</cell><cell>2</cell><cell>0</cell><cell>0</cell><cell>15 (42.8)</cell></row><row><cell>Somnolence</cell><cell>10</cell><cell>4</cell><cell>0</cell><cell>0</cell><cell>14 (40)</cell></row><row><cell>Skin rash</cell><cell>5</cell><cell>3</cell><cell>0</cell><cell>0</cell><cell>8 (22.8)</cell></row><row><cell>Edema</cell><cell>7</cell><cell>0</cell><cell>0</cell><cell>0</cell><cell>7 (20)</cell></row><row><cell>Depression</cell><cell>4</cell><cell>2</cell><cell>0</cell><cell>0</cell><cell>6 (17.1)</cell></row><row><cell>DVT</cell><cell>0</cell><cell>0</cell><cell>3</cell><cell>1</cell><cell>4 (11.4)</cell></row><row><cell>CVA</cell><cell>0</cell><cell>0</cell><cell>1</cell><cell>0</cell><cell>1 (2.8)</cell></row><row><cell>Hearing loss</cell><cell>0</cell><cell>0</cell><cell>1</cell><cell>0</cell><cell>1 (2.8)</cell></row><row><cell>Sinus</cell><cell>0</cell><cell>0</cell><cell>1</cell><cell>0</cell><cell>1 (2.8)</cell></row><row><cell>bradycardia</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row></table><note>DVT ¼ deep venous thrombosis; CVA ¼ cerebrovascular accident (ischemia).</note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_4"><head>Table 3</head><label>3</label><figDesc>Serum markers of bone turnover of patients before and after treatment and controls</figDesc><table><row><cell>P-value</cell><cell>(baseline vs 6 m)</cell><cell>o0.0001</cell><cell>0.196</cell><cell cols="2">0.358 o0.0001</cell><cell>0.307</cell><cell></cell><cell cols="2">0.001 o0.0001</cell><cell></cell><cell>0.495</cell><cell>0.056</cell><cell>0.102</cell></row><row><cell>MM patients at 6 months</cell><cell>Median (range)</cell><cell>0.28 (0.02-0.74)</cell><cell>7.60 (4.29-48.88)</cell><cell>7.89 (3.9-37.65)</cell><cell>3.52 (0.05-14.21)</cell><cell>28.79 (13.24-147.87)</cell><cell></cell><cell>0.63 (0.28-1.21)</cell><cell>2.28 (0.77-3.58)</cell><cell></cell><cell>12.95 (10.09-27.17)</cell><cell>7.31 (0-22.36)</cell><cell>37.83 (3.24-119.11)</cell></row><row><cell>P-value</cell><cell>(baseline vs 3 m)</cell><cell>0.056</cell><cell>0.194</cell><cell>0.127</cell><cell>0.202</cell><cell>0.400</cell><cell></cell><cell cols="2">0.005 o0.0001</cell><cell></cell><cell>0.716</cell><cell>0.108</cell><cell>0.220</cell></row><row><cell>MMM patients at 3 months</cell><cell>Median (range)</cell><cell>0.60 (0-2.18)</cell><cell>8.80 (2.74-93.79)</cell><cell>7.92 (3.02-72.15)</cell><cell>6.80 (0-28.84)</cell><cell>30.60 (10.27-49.12)</cell><cell></cell><cell>0.75 (0.16-3.19)</cell><cell>3.12 (0.71-5.41)</cell><cell></cell><cell>12.36 (6.25-35.57)</cell><cell>8.72 (3.11-72.64)</cell><cell>48.24 (0-126.24)</cell></row><row><cell>P-value</cell><cell>(baseline vs controls)</cell><cell cols="2">0.008 o0.0001</cell><cell>0.106</cell><cell>0.01</cell><cell>0.023</cell><cell></cell><cell cols="2">0.001 o0.0001</cell><cell cols="2">o0.0001</cell><cell>0.001</cell><cell>0.320</cell></row><row><cell>Controls</cell><cell>Median (range)</cell><cell>0.09 (0-5.57)</cell><cell>4.89 (3.14-9.44)</cell><cell>6.92 (3.42-16.83)</cell><cell>1.11 (0-47.57)</cell><cell>20.93 (15.92-34.09)</cell><cell></cell><cell>0.53 (0.08-2.24)</cell><cell>2.03 (0.51-3.36)</cell><cell></cell><cell>21.93 (10.5-58.26)</cell><cell>15.20 (4.67-38.80)</cell><cell>34.92 (3.37-121.30)</cell></row><row><cell>MM patients at baseline</cell><cell>Median (range)</cell><cell>0.65 (0-3.27)</cell><cell>8.32 (1-67.96)</cell><cell>7.59 (0.99-52.27)</cell><cell>6.88 (0-38.65)</cell><cell>30.03 (7.52-123.55)</cell><cell></cell><cell>1.05 (0.39-3.94)</cell><cell>4.41 (0.82-7.92)</cell><cell></cell><cell>12.04 (5.27-39.46)</cell><cell>9.71 (0-43.84)</cell><cell>45.04 (0.08-150.44)</cell></row><row><cell>Serum marker</cell><cell></cell><cell>sRANKL (pmol/l)</cell><cell>OPG (pmol/l)</cell><cell cols="2">OPG/creatinine Â 10 À2 Ratio sRANKL/OPG ( )</cell><cell>OPN (ng/ml)</cell><cell>Osteoclastic activity markers</cell><cell>CTX (ng/ml)</cell><cell>TRACP-5b (U/l)</cell><cell>Osteooblastic activity markers</cell><cell>bALP (U/l)</cell><cell>OC (ng/ml)</cell><cell>CICP (ng/ml)</cell></row></table><note>Bold values depict the statistically significant differences (P-values).</note></figure>
+		</body>
+		<back>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Current treatment options for myeloma</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><surname>Terpos</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Rahemtulla</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">A</forename><surname>Dimopoulos</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Expert Opin Pharmacother</title>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="page" from="1127" to="1142" />
+			<date type="published" when="2005" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Autologous stem cell transplantation in multiple myeloma: improved survival in nonsecretory multiple myeloma but lack of influence of age, status at transplant, previous treatment and conditioning regimen. A single-centre experience in 127 patients</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><surname>Terpos</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">F</forename><surname>Apperley</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><surname>Samson</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><surname>Giles</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><surname>Crawley</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><surname>Kanfer</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Bone Marrow Transplant</title>
+		<imprint>
+			<biblScope unit="volume">31</biblScope>
+			<biblScope unit="page" from="163" to="170" />
+			<date type="published" when="2003" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Anti tumor activity of thalidomide in refractory multiple myeloma</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Singhal</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Mehta</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><surname>Desikan</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><surname>Ayers</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><surname>Roberson</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><surname>Eddlemon</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">N Engl J Med</title>
+		<imprint>
+			<biblScope unit="volume">341</biblScope>
+			<biblScope unit="page" from="1566" to="1571" />
+			<date type="published" when="1999" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Thalidomide for previously untreated indolent or smoldering multiple myeloma</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><forename type="middle">V</forename><surname>Rajkumar</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">P</forename><surname>Leonard</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><surname>Pekle</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">L</forename><surname>Lyons</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Michaeli</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Leukemia</title>
+		<imprint>
+			<biblScope unit="volume">15</biblScope>
+			<biblScope unit="page" from="1274" to="1276" />
+			<date type="published" when="2001" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Treatment of plasma cell dyscrasias with thalidomide and its derivatives</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">A</forename><surname>Dimopoulos</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Anagnostopoulos</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><surname>Weber</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Clin Oncol</title>
+		<imprint>
+			<biblScope unit="volume">21</biblScope>
+			<biblScope unit="page" from="4444" to="4454" />
+			<date type="published" when="2003" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Extended survival in advanced and refractory multiple myeloma after single-agent thalidomide: identification of prognostic factors in a phase 2 study of 169 patients</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">B</forename><surname>Barlogie</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><surname>Desikan</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><surname>Eddlemon</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Spencer</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Zeldis</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">N</forename><surname>Munshi</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Blood</title>
+		<imprint>
+			<biblScope unit="volume">98</biblScope>
+			<biblScope unit="page" from="492" to="494" />
+			<date type="published" when="2001" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Intermediate dose thalidomide (200 mg daily) has comparable efficacy and less toxicity than higher doses in relapsed multiple myeloma</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><forename type="middle">D</forename><surname>Wechalekar</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><forename type="middle">I</forename><surname>Chen</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><surname>Sutton</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><surname>Reece</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Voralia</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><forename type="middle">K</forename><surname>Stewart</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Leukemia Lymphoma</title>
+		<imprint>
+			<biblScope unit="volume">44</biblScope>
+			<biblScope unit="page" from="1147" to="1149" />
+			<date type="published" when="2003" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Thalidomide and dexamethasone combination for refractory multiple myeloma</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">A</forename><surname>Dimopoulos</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><surname>Zervas</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">G</forename><surname>Kouvatseas</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><surname>Galani</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">V</forename><surname>Grigoraki</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><surname>Kiamouris</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ann Oncol</title>
+		<imprint>
+			<biblScope unit="volume">12</biblScope>
+			<biblScope unit="page" from="991" to="995" />
+			<date type="published" when="2001" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Thalidomide and dexamethasone for resistant multiple myeloma</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Anagnostopoulos</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><surname>Weber</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><surname>Rankin</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><surname>Delasalle</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><surname>Alexanian</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Br J Haematol</title>
+		<imprint>
+			<biblScope unit="volume">121</biblScope>
+			<biblScope unit="page" from="768" to="771" />
+			<date type="published" when="2003" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Multiple myeloma: evolving genetic events and host interactions</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">W</forename><forename type="middle">M</forename><surname>Kuehl</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><forename type="middle">L</forename><surname>Bergsagel</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nat Rev Cancer</title>
+		<imprint>
+			<biblScope unit="volume">2</biblScope>
+			<biblScope unit="page" from="175" to="187" />
+			<date type="published" when="2002" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">New insights into the pathophysiology and management of bone disease in multiple myeloma</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><surname>Terpos</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Politou</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Rahemtulla</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Br J Haematol</title>
+		<imprint>
+			<biblScope unit="volume">123</biblScope>
+			<biblScope unit="page" from="758" to="769" />
+			<date type="published" when="2003" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Osteopontin is an adhesive factor for myeloma cells and is found in increased levels in plasma from patients with multiple myeloma</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Standal</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><surname>Hjorth-Hansen</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Rasmussen</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">I</forename><forename type="middle">M</forename><surname>Dahl</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Lenhoff</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><forename type="middle">T</forename><surname>Brenne</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Haematologica</title>
+		<imprint>
+			<biblScope unit="volume">89</biblScope>
+			<biblScope unit="page" from="174" to="182" />
+			<date type="published" when="2004" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">RANK ligand and osteoprotegerin in myeloma bone disease</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">O</forename><surname>Sezer</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">U</forename><surname>Heider</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">I</forename><surname>Zavrski</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><forename type="middle">A</forename><surname>Kuhne</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">L</forename><forename type="middle">C</forename><surname>Hofbauer</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Blood</title>
+		<imprint>
+			<biblScope unit="volume">101</biblScope>
+			<biblScope unit="page" from="2094" to="2098" />
+			<date type="published" when="2003" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Recombinant osteoprotegerin decreases tumor burden and increases survival in a murine model of multiple myeloma</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><surname>Vanderkerken</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">De</forename><surname>Leenheer</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><surname>Shipman</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><surname>Asosingh</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><surname>Willems</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Van Camp</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">B</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Cancer Res</title>
+		<imprint>
+			<biblScope unit="volume">63</biblScope>
+			<biblScope unit="page" from="287" to="289" />
+			<date type="published" when="2003" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">Soluble receptor activator of nuclear factor kappa-B ligandosteoprotegerin ratio predicts survival in multiple myeloma: proposal for a novel prognostic index</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><surname>Terpos</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><surname>Szydlo</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">F</forename><surname>Apperley</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><surname>Hatjiharissi</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Politou</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Meletis</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Blood</title>
+		<imprint>
+			<biblScope unit="volume">102</biblScope>
+			<biblScope unit="page" from="1064" to="1069" />
+			<date type="published" when="2003" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Receptor activator of nuclear factor kappaB ligand (RANKL)/osteoprotegerin (OPG) ratio is increased in severe osteolysis</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><surname>Grimaud</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">L</forename><surname>Soubigou</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Couillaud</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><surname>Coipeau</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Moreau</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">N</forename><surname>Passuti</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Am J Pathol</title>
+		<imprint>
+			<biblScope unit="volume">163</biblScope>
+			<biblScope unit="page" from="2021" to="2031" />
+			<date type="published" when="2003" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Expression of receptor activator of nuclear factor kappaB ligand on bone marrow plasma cells correlates with osteolytic bone disease in patients with multiple myeloma</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">U</forename><surname>Heider</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><surname>Langelotz</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><surname>Jakob</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">I</forename><surname>Zavrski</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><surname>Fleissner</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Eucker</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Clin Cancer Res</title>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="page" from="1436" to="1440" />
+			<date type="published" when="2003" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">International Staging System for multiple myeloma</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><forename type="middle">R</forename><surname>Greipp</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">San</forename><surname>Miguel</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Durie</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">B</forename><forename type="middle">G</forename><surname>Crowley</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">J</forename><surname>Barlogie</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">B</forename><surname>Blade</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Clin Oncol</title>
+		<imprint>
+			<biblScope unit="volume">23</biblScope>
+			<biblScope unit="page" from="3412" to="3420" />
+			<date type="published" when="2005" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">Criteria for evaluating disease response and progression in patients with multiple myeloma treated by high-dose therapy and haemopoietic stem cell transplantation. Myeloma Subcommittee of the EBMT</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Blade</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><surname>Samson</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><surname>Reece</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Apperley</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">B</forename><surname>Bjorkstrand</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">G</forename><surname>Gahrton</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Br J Haematol</title>
+		<imprint>
+			<biblScope unit="volume">102</biblScope>
+			<biblScope unit="page" from="1115" to="1123" />
+			<date type="published" when="1998" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">Increased circulating levels of osteoclastogenesis inhibitory factor (osteoprotegerin) in patients with chronic renal failure</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">J</forename><surname>Kazama</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Shigematsu</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><surname>Yano</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><surname>Tsuda</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Miura</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Y</forename><surname>Iwasaki</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Am J Kidney Dis</title>
+		<imprint>
+			<biblScope unit="volume">39</biblScope>
+			<biblScope unit="page" from="525" to="532" />
+			<date type="published" when="2002" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">Thalidomide in relapsed/ refractory multiple myeloma: pivotal trials conducted outside the United States</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">A</forename><surname>Dimopoulos</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Anagnostopoulos</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Semin Hematol</title>
+		<imprint>
+			<biblScope unit="volume">40</biblScope>
+			<biblScope unit="page" from="8" to="16" />
+			<date type="published" when="2003" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">Efficacy of low-dose thalidomide and dexamethasone as first salvage regimen in multiple myeloma</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Palumbo</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Bertola</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><surname>Falco</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><surname>Rosato</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">F</forename><surname>Cavallo</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">L</forename><surname>Giaccone</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Hematol J</title>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="page" from="318" to="324" />
+			<date type="published" when="2004" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">Combination therapy with thalidomide plus dexamethasone for newly diagnosed myeloma</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><forename type="middle">V</forename><surname>Rajkumar</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Hayman</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">A</forename><surname>Gertz</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Dispenzieri</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">Q</forename><surname>Lacy</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><forename type="middle">R</forename><surname>Greipp</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Clin Oncol</title>
+		<imprint>
+			<biblScope unit="volume">20</biblScope>
+			<biblScope unit="page" from="4319" to="4323" />
+			<date type="published" when="2002" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title level="a" type="main">Thalidomide in multiple myeloma: current status and future prospects</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">D</forename><surname>Cavenagh</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><surname>Oakervee</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Br J Haematol</title>
+		<imprint>
+			<biblScope unit="volume">120</biblScope>
+			<biblScope unit="page" from="18" to="26" />
+			<date type="published" when="2003" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title level="a" type="main">Thalidomide-associated deep vein thrombosis and pulmonary embolism</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><forename type="middle">L</forename><surname>Bennett</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">G</forename><forename type="middle">T</forename><surname>Schumock</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><forename type="middle">A</forename><surname>Desai</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><forename type="middle">C</forename><surname>Kwaan</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><forename type="middle">W</forename><surname>Raisch</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><surname>Newlin</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Am J Med</title>
+		<imprint>
+			<biblScope unit="volume">113</biblScope>
+			<biblScope unit="page" from="603" to="606" />
+			<date type="published" when="2002" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title level="a" type="main">Deep vein thrombosis in patients with multiple myeloma treated with thalidomide and chemotherapy: effects of prophylactic and therapeutic anticoagulation</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Zangari</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">B</forename><surname>Barlogie</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><surname>Anaissie</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">F</forename><surname>Saghafifar</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><surname>Eddlemon</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Jacobson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Br J Haematol</title>
+		<imprint>
+			<biblScope unit="volume">126</biblScope>
+			<biblScope unit="page" from="715" to="721" />
+			<date type="published" when="2004" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title level="a" type="main">Arterial thrombosis in four patients treated with thalidomide</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Scarpace</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Hahn</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><surname>Roy</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><surname>Brown</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><surname>Paplham</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Chanan-Khan</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Leuk Lymphoma</title>
+		<imprint>
+			<biblScope unit="volume">46</biblScope>
+			<biblScope unit="page" from="239" to="242" />
+			<date type="published" when="2005" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+		<title level="a" type="main">Bradycardia during therapy for multiple myeloma with thalidomide</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">I</forename><forename type="middle">E</forename><surname>Fahdi</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">V</forename><surname>Gaddam</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">F</forename><surname>Saucedo</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><forename type="middle">V</forename><surname>Kishan</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><surname>Vyas</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">G</forename><surname>Deneke</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Am J Cardiol</title>
+		<imprint>
+			<biblScope unit="volume">93</biblScope>
+			<biblScope unit="page" from="1052" to="1055" />
+			<date type="published" when="2004" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<analytic>
+		<title level="a" type="main">Multiple myeloma disrupts the TRANCE/ osteoprotegerin cytokine axis to trigger bone destruction and promote tumor progression</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><forename type="middle">N</forename><surname>Pearse</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><forename type="middle">M</forename><surname>Sordillo</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Yaccoby</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">B</forename><forename type="middle">R</forename><surname>Wong</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><forename type="middle">F</forename><surname>Liau</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">N</forename><surname>Colman</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Proc Natl Acad Sci</title>
+		<imprint>
+			<biblScope unit="volume">98</biblScope>
+			<biblScope unit="page" from="11581" to="11586" />
+			<date type="published" when="2001" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<analytic>
+		<title level="a" type="main">Autologous stem cell transplantation normalizes abnormal bone remodeling and sRANKL/osteoprotegerin ratio in patients with multiple myeloma</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><surname>Terpos</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Politou</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><surname>Szydlo</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><surname>Nadal</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Avery</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><surname>Olavarria</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Leukemia</title>
+		<imprint>
+			<biblScope unit="volume">18</biblScope>
+			<biblScope unit="page" from="1420" to="1426" />
+			<date type="published" when="2004" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<analytic>
+		<title level="a" type="main">Tartrate-resistant acid phosphatase isoform 5b: a novel serum marker for monitoring bone disease in multiple myeloma</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><surname>Terpos</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>De La Fuente</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><surname>Szydlo</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><surname>Hatjiharissi</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">N</forename><surname>Viniou</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Meletis</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Int J Cancer</title>
+		<imprint>
+			<biblScope unit="volume">106</biblScope>
+			<biblScope unit="page" from="455" to="457" />
+			<date type="published" when="2003" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<analytic>
+		<title level="a" type="main">Comparison of 10 serum bone turnover markers in prostate carcinoma patients with bone metastatic spread: diagnostic and prognostic implications</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><surname>Jung</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Lein</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><surname>Stephan</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Von</forename><surname>Hosslin</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><surname>Semjonow</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Sinha</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Int J Cancer</title>
+		<imprint>
+			<biblScope unit="volume">111</biblScope>
+			<biblScope unit="page" from="783" to="791" />
+			<date type="published" when="2004" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<analytic>
+		<title level="a" type="main">Enhanced production of osteopontin in multiple myeloma: clinical and pathogenic implications</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Y</forename><surname>Saeki</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Mima</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Ishii</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Ogata</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><surname>Kobayashi</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Ohshima</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Br J Haematol</title>
+		<imprint>
+			<biblScope unit="volume">123</biblScope>
+			<biblScope unit="page" from="263" to="270" />
+			<date type="published" when="2003" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<analytic>
+		<title level="a" type="main">Upregulation of osteoblast apoptosis by malignant plasma cells: a role in myeloma bone disease</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">F</forename><surname>Silvestris</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><surname>Cafforio</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Tucci</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><surname>Grinello</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">F</forename><surname>Dammacco</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Br J Haematol</title>
+		<imprint>
+			<biblScope unit="volume">122</biblScope>
+			<biblScope unit="page" from="39" to="52" />
+			<date type="published" when="2003" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<analytic>
+		<title level="a" type="main">The role of the Wnt-signaling antagonist DKK1 in the development of osteolytic lesions in multiple myeloma</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><surname>Tian</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">F</forename><surname>Zhan</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><surname>Walker</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><surname>Rasmussen</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Y</forename><surname>Ma</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">B</forename><surname>Barlogie</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">N Engl J Med</title>
+		<imprint>
+			<biblScope unit="volume">349</biblScope>
+			<biblScope unit="page" from="2483" to="2494" />
+			<date type="published" when="2003" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b35">
+	<analytic>
+		<title level="a" type="main">Serum osteoprotegerin levels are reduced in patients with multiple myeloma with lytic bone disease</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><surname>Seidel</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">O</forename><surname>Hjertner</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">N</forename><surname>Abildgaard</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">L</forename><surname>Heickendorff</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Hjorth</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Westin</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Blood</title>
+		<imprint>
+			<biblScope unit="volume">98</biblScope>
+			<biblScope unit="page" from="2269" to="2271" />
+			<date type="published" when="2001" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b36">
+	<analytic>
+		<title level="a" type="main">Serum osteoprotegerin levels in healthy controls and cancer patients</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Lipton</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><forename type="middle">M</forename><surname>Ali</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><surname>Leitzel</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">V</forename><surname>Chinchilli</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">L</forename><surname>Witters</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">L</forename><surname>Engle</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Clin Cancer Res</title>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="page" from="2306" to="2310" />
+			<date type="published" when="2002" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b37">
+	<analytic>
+		<title level="a" type="main">Bisphosphonates pamidronate and zoledronic acid stimulate osteoprotegerin production by primary human osteoblasts</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">V</forename><surname>Viereck</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">G</forename><surname>Emons</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">V</forename><surname>Lauck</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><forename type="middle">H</forename><surname>Frosch</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Blaschke</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><surname>Grundker</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Biochem Biophys Res Commun</title>
+		<imprint>
+			<biblScope unit="volume">291</biblScope>
+			<biblScope unit="page" from="680" to="686" />
+			<date type="published" when="2002" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b38">
+	<analytic>
+		<title level="a" type="main">The nitrogen-containing bisphosphonate, zoledronic acid, influences RANKL expression in human osteoblast-like cells by activating TNF-alpha converting enzyme (TACE)</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">B</forename><surname>Pan</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><forename type="middle">N</forename><surname>Farrugia</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">L</forename><forename type="middle">B</forename><surname>To</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><forename type="middle">M</forename><surname>Findlay</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Green</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><surname>Lynch</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Bone Miner Res</title>
+		<imprint>
+			<biblScope unit="volume">19</biblScope>
+			<biblScope unit="page" from="147" to="154" />
+			<date type="published" when="2004" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

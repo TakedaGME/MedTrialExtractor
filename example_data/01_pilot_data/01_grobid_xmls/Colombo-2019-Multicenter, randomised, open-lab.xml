@@ -1,0 +1,847 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /data/rsg/nlp/juanmoo1/bin/grobid-0.6.1/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Multicenter, randomised, open-label, non-comparative phase 2 trial on the efficacy and safety of the combination of bevacizumab and trabectedin with or without carboplatin in women with partially platinum-sensitive recurrent ovarian cancer</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+				<date type="published" when="2019-09-20">20 September 2019</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Nicoletta</forename><surname>Colombo</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="institution">Istituto Europeo di Oncologia</orgName>
+								<address>
+									<settlement>Milano</settlement>
+									<country key="IT">Italy</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="institution">Università di Milano-Bicocca</orgName>
+								<address>
+									<settlement>Milano</settlement>
+									<country key="IT">Italy</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Eleonora</forename><surname>Zaccarelli</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="institution">Istituto Europeo di Oncologia</orgName>
+								<address>
+									<settlement>Milano</settlement>
+									<country key="IT">Italy</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Alessandra</forename><surname>Baldoni</surname></persName>
+							<affiliation key="aff2">
+								<orgName type="institution" key="instit1">Istituto Oncologico Veneto</orgName>
+								<orgName type="institution" key="instit2">IOV-IRCCS</orgName>
+								<address>
+									<settlement>Padova</settlement>
+									<country key="IT">Italy</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Simona</forename><surname>Frezzini</surname></persName>
+							<affiliation key="aff2">
+								<orgName type="institution" key="instit1">Istituto Oncologico Veneto</orgName>
+								<orgName type="institution" key="instit2">IOV-IRCCS</orgName>
+								<address>
+									<settlement>Padova</settlement>
+									<country key="IT">Italy</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Giovanni</forename><surname>Scambia</surname></persName>
+							<affiliation key="aff3">
+								<orgName type="institution">Fondazione Policlinico Universitario A. Gemelli IRCCS Università Cattolica</orgName>
+								<address>
+									<settlement>Roma</settlement>
+									<country key="IT">Italy</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Eleonora</forename><surname>Palluzzi</surname></persName>
+							<affiliation key="aff3">
+								<orgName type="institution">Fondazione Policlinico Universitario A. Gemelli IRCCS Università Cattolica</orgName>
+								<address>
+									<settlement>Roma</settlement>
+									<country key="IT">Italy</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Germana</forename><surname>Tognon</surname></persName>
+							<affiliation key="aff4">
+								<orgName type="institution" key="instit1">UO Ostetricia e Ginecologia -ASST degli Spedali Civili di Brescia</orgName>
+								<orgName type="institution" key="instit2">Università degli Studi</orgName>
+								<address>
+									<settlement>Brescia</settlement>
+									<country key="IT">Italy</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Andrea</forename><forename type="middle">A</forename><surname>Lissoni</surname></persName>
+							<affiliation key="aff5">
+								<orgName type="institution">Università di Milano-Bicocca</orgName>
+								<address>
+									<country>Clinica Ostetrica</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Daniela</forename><surname>Rubino</surname></persName>
+							<affiliation key="aff7">
+								<orgName type="institution" key="instit1">Policlinico S. Orsola-Malpighi</orgName>
+								<orgName type="institution" key="instit2">SSD Oncologia Medica Addarii</orgName>
+								<address>
+									<settlement>Bologna</settlement>
+									<country key="IT">Italy</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Annamaria</forename><surname>Ferrero</surname></persName>
+							<affiliation key="aff8">
+								<orgName type="institution" key="instit1">AO Ordine Mauriziano</orgName>
+								<orgName type="institution" key="instit2">SCDU Ginecologia ed Ostetricia</orgName>
+								<address>
+									<settlement>Torino</settlement>
+									<country key="IT">Italy</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Gabriella</forename><surname>Farina</surname></persName>
+							<affiliation key="aff9">
+								<orgName type="department">ASST Fatebenefratelli Sacco</orgName>
+								<orgName type="institution">UOC di Oncologia</orgName>
+								<address>
+									<settlement>Milano</settlement>
+									<country key="IT">Italy</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Emanuele</forename><surname>Negri</surname></persName>
+							<affiliation key="aff10">
+								<orgName type="department">Istituto di Ricerche Farmacologiche Mario Negri IRCCS</orgName>
+								<address>
+									<settlement>Milano</settlement>
+									<country key="IT">Italy</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Angela</forename><forename type="middle">Pesenti</forename><surname>Gritti</surname></persName>
+							<affiliation key="aff10">
+								<orgName type="department">Istituto di Ricerche Farmacologiche Mario Negri IRCCS</orgName>
+								<address>
+									<settlement>Milano</settlement>
+									<country key="IT">Italy</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Francesca</forename><surname>Galli</surname></persName>
+							<affiliation key="aff10">
+								<orgName type="department">Istituto di Ricerche Farmacologiche Mario Negri IRCCS</orgName>
+								<address>
+									<settlement>Milano</settlement>
+									<country key="IT">Italy</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Elena</forename><surname>Biagioli</surname></persName>
+							<affiliation key="aff10">
+								<orgName type="department">Istituto di Ricerche Farmacologiche Mario Negri IRCCS</orgName>
+								<address>
+									<settlement>Milano</settlement>
+									<country key="IT">Italy</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Eliana</forename><surname>Rulli</surname></persName>
+							<affiliation key="aff10">
+								<orgName type="department">Istituto di Ricerche Farmacologiche Mario Negri IRCCS</orgName>
+								<address>
+									<settlement>Milano</settlement>
+									<country key="IT">Italy</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Davide</forename><surname>Poli</surname></persName>
+							<affiliation key="aff10">
+								<orgName type="department">Istituto di Ricerche Farmacologiche Mario Negri IRCCS</orgName>
+								<address>
+									<settlement>Milano</settlement>
+									<country key="IT">Italy</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Chiara</forename><surname>Gerardi</surname></persName>
+							<affiliation key="aff10">
+								<orgName type="department">Istituto di Ricerche Farmacologiche Mario Negri IRCCS</orgName>
+								<address>
+									<settlement>Milano</settlement>
+									<country key="IT">Italy</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Valter</forename><surname>Torri</surname></persName>
+							<affiliation key="aff10">
+								<orgName type="department">Istituto di Ricerche Farmacologiche Mario Negri IRCCS</orgName>
+								<address>
+									<settlement>Milano</settlement>
+									<country key="IT">Italy</country>
+								</address>
+							</affiliation>
+						</author>
+						<author role="corresp">
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Roldano</forename><surname>Fossati</surname></persName>
+							<email>roldano.fossati@marionegri.it</email>
+							<affiliation key="aff10">
+								<orgName type="department">Istituto di Ricerche Farmacologiche Mario Negri IRCCS</orgName>
+								<address>
+									<settlement>Milano</settlement>
+									<country key="IT">Italy</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Maurizio</forename><surname>D'incalci</surname></persName>
+							<affiliation key="aff10">
+								<orgName type="department">Istituto di Ricerche Farmacologiche Mario Negri IRCCS</orgName>
+								<address>
+									<settlement>Milano</settlement>
+									<country key="IT">Italy</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff6">
+								<address>
+									<settlement>Ginecologica, Milano</settlement>
+									<country key="IT">Italy</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Multicenter, randomised, open-label, non-comparative phase 2 trial on the efficacy and safety of the combination of bevacizumab and trabectedin with or without carboplatin in women with partially platinum-sensitive recurrent ovarian cancer</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date type="published" when="2019-09-20">20 September 2019</date>
+						</imprint>
+					</monogr>
+					<idno type="DOI">10.1038/s41416-019-0584-5</idno>
+					<note type="submission">Received: 28 February 2019 Revised: 27 August 2019 Accepted: 30 August 2019</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.6.1" ident="GROBID" when="2020-10-09T18:38+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<abstract>
+				<p>BACKGROUND: Trabectedin, in addition to its antiproliferative effect, can modify the tumour microenvironment and this could be synergistic with bevacizumab. The efficacy and safety of trabectedin and bevacizumab ± carboplatin have never been investigated. METHODS: In this phase 2 study, women progressing between 6 and 12 months since their last platinum-based therapy were randomised to Arm BT: bevacizumab, trabectedin every 21 days, or Arm BT+C: bevacizumab, trabectedin and carboplatin every 28 days, from cycles 1 to 6, then trabectedin and bevacizumab as in Arm BT. Primary endpoints were progression-free survival rate (PFS-6) and severe toxicity rate (ST-6) at 6 months, assuming a PFS-6 ≤35% for BT and ≤40% for BT+C as not of therapeutic interest and, for both arms, a ST-6 ≥ 30% as unacceptable. RESULTS: BT+C (21 patients) did not meet the safety criteria for the second stage (ST-6 45%; 95%CI: 23%-69%) but PFS-6 was 85% (95%CI: 62%-97%). BT (50 patients) had 75% PFS-6 (95%CI: 60%-87%) and 16% ST-6 (95%CI 7%-30%). CONCLUSIONS: BT compared favourably with other platinum-and non-platinum-based regimens. The combination with carboplatin needs to be assessed further in a re-modulated safer schedule to confirm its apparent strong activity. CLINICAL TRIAL REGISTRATION: NCT01735071 (Clinicaltrials.gov).</p>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>BACKGROUND</head><p>The burden of deaths from ovarian carcinoma (5% of all cancer deaths) is still well ahead of other cancer sites such as leukaemia, non-Hodgkin lymphoma, uterine corpus, liver and brain <ref type="bibr" target="#b0">1</ref> . Despite the initial good response to complete surgical cytoreduction followed by paclitaxel and platinum-based chemotherapy, most patients still face relapse eventually. The time since last platinum chemotherapy gives a continuum of probability of response to further chemotherapy. Disease that relapses between 6 and 12 months after completion of platinum-based chemotherapy is usually deemed "partially platinum-sensitive" and is a field of intense clinical investigation.</p><p>Partially platinum-sensitive tumour relapses amounts to about 23% of all relapses. <ref type="bibr" target="#b1">2</ref> These patients may respond again to platinum-based therapy, but repeated use can be limited by resistance or intolerance. <ref type="bibr" target="#b2">3</ref> Trabectedin is an antineoplastic agent with a unique mechanism of action. It binds covalently to the minor groove of DNA and disrupts transcription regulation, leading to G2-M cell cycle arrest and ultimately apoptosis. <ref type="bibr" target="#b3">4</ref> Preclinical studies indicate that trabectedin, besides having a potent antiproliferative effect, modifies the tumour microenvironment by reducing the number and function of macrophages in the tumour stroma (tumour associated macrophages-TAM). Since TAM produce several angiogenic factors, their inhibition by trabectedin results in an anti-angiogenic effect that is demonstrated well in preclinical systems. <ref type="bibr" target="#b4">5,</ref><ref type="bibr" target="#b5">6</ref> Bevacizumab is an antibody that binds and inactivates VEGF, the main factor that hypoxic cancer cells produce to stimulate endothelial cell proliferation and angiogenesis. The mechanisms of resistance to bevacizumab are not fully clear yet but it seems likely that the reduced function of VEGF pathways is compensated by overproduction of other angiogenic factors. <ref type="bibr" target="#b2">3</ref> The combination of compounds that inhibit several angiogenic pathways could, therefore, be advantageous for a prolonged antiangiogenic effect and the combination of trabectedin with bevacizumab inhibit several of these mechanisms at the same time.</p><p>Preclinical studies in ovarian cancer xenografts have shown synergism between platinum complexes and trabectedin. <ref type="bibr" target="#b6">7</ref> A phase 1 study in patients with advanced solid tumours showed that the combination is feasible and the recommended dose in carboplatin-pretreated patients is carboplatin AUC 4 and trabectedin 0.8 mg/m 2 every 4 weeks. <ref type="bibr" target="#b7">8</ref> The partially platinum-sensitive population enabled us to explore though not formally comparing the efficacy and safety profile of two new chemotherapic regimens: a platinum-free regimen with trabectedin and bevacizumab [BT arm] and a platinum-based triplet with carboplatin, trabectedin and bevacizumab [BT+C arm].</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>METHODS</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Study design and patients</head><p>This multicentre, randomised, non-comparative phase 2 study aimed at assessing the efficacy and safety of two regimens according to a Bryant and Day two-stage design. <ref type="bibr" target="#b8">9</ref> Eligible patients satisfied these inclusion criteria: cytological or histological diagnosis of epithelial ovarian cancer (including cancer of the fallopian tube and primary peritoneal cancer); progression-free interval 6-12 months (from the first day of the last cycle of the most recent platinum-based chemotherapy); one or two previous platinum-based chemotherapy lines; measurable or evaluable disease, as defined by Response Evaluation Criteria in Solid Tumors, version 1.1 (RECIST 1.1); life expectancy &gt;12 weeks; ECOG performance status ≤2; no contraindications to dexamethasone or its equivalent as a premedication for trabectedin. As specified by the International Conference on Harmonisation/Good Clinical Practice (ICH/GCP), patients must give signed written informed consent before randomisation.</p><p>The study was conducted in accordance with the principles of the Declaration of Helsinki.</p><p>Main exclusion criteria were: prior exposure to trabectedin; prior progression while on therapy containing bevacizumab or other VEGF pathway-target therapy; peripheral neuropathy grade ≥2; history of other malignancies; central nervous system metastases; uncontrolled hypertension or clinically significant cardiovascular disease, HCV positivity; history of bowel obstruction (including sub-occlusive disease, related to the underlying disease and history of abdominal fistula, gastrointestinal perforation or intraabdominal abscess); inadequate haematological, renal, bone marrow, or liver function.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Treatment plan</head><p>Patients entering the BT arm received trabectedin. 1.1 mg/m 2 , into a central venous catheter as a 3-h infusion on day 1 of a 21-day treatment cycle. Premedication for trabectedin was 8 mg oral dexamethasone the day before trabectedin plus 12 mg iv 30 min before, plus 4 mg per os 24, 48 and 72 h post-infusion. Patients received bevacizumab 15 mg/kg iv on day 1 every 21 days.</p><p>From cycles 1-6, patients in the BT+C arm, received carboplatin AUC 4 on day 1 every 28 days, trabectedin 0.8 mg/m 2 on day 1 every 28 days, bevacizumab 10 mg/kg on days 1 and 15. From cycle 7 treatment was as for BT arm.</p><p>Treatment was continued until progressive disease, major toxicity, patient's intolerance or unwillingness to continue treatment, or at the physician's discretion.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Evaluation of disease</head><p>Physical and radiological examinations were repeated before the start of treatment and every 12 weeks from enrolment until disease progression or death. Disease assessments were based on RECIST 1.1 criteria Safety All patients were evaluated clinically and with standard laboratory tests before and at each cycle. All adverse events (AEs), graded according to the National Cancer Institute-Common Terminology Criteria for Adverse Events (NCI CTCAE), version 4.0, were reported until 30 days from the last dose of the study drugs. Serious adverse events (SAE) and other adverse events (AE) believed to be related to study drugs were reported afterwards.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Statistical analysis</head><p>Allocation to treatment arm was done centrally using a computergenerated permutated block randomisation procedure with a 1:1 ratio and stratifying by centre. According to Bryant and Day design, two primary endpoints were defined: the rate of patients alive and progression-free at 6 months from study entry  and the rate of patients with severe toxicity within 6 months from study entry (ST-6). The following three conditions were considered as ST-6 events: (a) absolute neutrophil count (ANC) &lt;0.5 × 10 9 /L lasting &gt;7 days or with fever, (b) platelets &lt;25 × 10 9 /L, (c) any other NCI-CTCAE grade 3-4 non-haematological toxicities that caused permanent interruption of one or more drugs. Primary endpoints were assessed in the per-protocol (PP) population that included all patients with no major violations of eligibility criteria who had received at least 12 weeks of treatment (unless all treatment drugs were interrupted sooner for progressive disease, toxicity or death). Women who had not progressed or died before 6 months and without a disease evaluation between week 22 and the 27 were not classified as progression-free and were not considered evaluable for the primary analysis, unless the absence of disease progression was confirmed in the disease evaluations after week 27. PFS-6 and ST-6 were provided with their 80% and 95% confidence intervals.</p><p>For the BT arm we assumed that 35% PFS-6 (p 0 ) or less would mean the combination was of no therapeutic interest. For the BT drug combination to deserve further development we set a target PFS-6 of 60% (p 1 ).</p><p>For the BT+C arm we took PFS-6 40% at p 0 = and 65% at p 1 = . As regards the toxicity endpoint, for both the doublet and triplet combinations a ST-6 of 30% or more would be considered unacceptable, while severe toxicity 10% or less would be considered promising. Type I and type II error probabilities were set at 10%, one-sided and 10% (power = 90%).</p><p>The study was divided into two stages, each with pre-set decisional thresholds for efficacy and toxicity (see <ref type="figure" target="#fig_2">Fig. 1</ref>).</p><p>Secondary objectives of the study were progression-free survival (PFS), overall survival (OS), and the toxicity profile. The secondary efficacy endpoints were evaluated in the PP population. PFS was defined as the time between study entry and progression or death for any cause. Subjects with no recurrence or who died while on study were censored at the last disease assessment date. OS was defined as the time between the study entry and death, regardless of the cause of death. Subjects who were not reported as having died at the time of the analysis were censored at the date they were last known to be alive. Survival curves were estimated by the Kaplan-Meier (KM) method.</p><p>The toxicity profile was evaluated in the safety population that included all patients without major violations of the eligibility criteria who had received at least one treatment dose. For any single toxicity, the absolute and relative frequencies of events and the highest grade experienced by each subject were provided. Continuous variables were expressed as medians with their interquartile range (IQR). All analyses were done with SAS software, versions 9.4 (SAS Institute).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>RESULTS</head><p>In all 71 women with partially platinum-sensitive recurrent ovarian cancer entered this trial from eight Italian centres.</p><p>BT arm From July 2013 through December 2016, 50 patients were randomised/enroled in the BT arm. <ref type="figure" target="#fig_1">Figure 2</ref> shows the patients flow-chart and summarises the populations for primary and secondary analyses. <ref type="table" target="#tab_1">Table 1</ref> shows the clinical characteristics of the 47 patients with no major violations of eligibility criteria. Their median age was 60.8 (IQR: 52.1-69.9) years at study entry; 34 (72%) were facing their first progression of disease, and the others 13 (28%) the second. The median platinum-free interval from the previous platinumbased therapy was 8.9 months (IQR: 7.9-10.0; range 6.0-12.9). At analysis, three patients were still on treatment with BT. Adherence to treatment was satisfactory. Of the 44 patients who had discontinued treatment at the time of analysis, bevacizumab and/ or trabectedin had been discontinued for causes independent of disease progression in 17 (39%) and of these, 12(27%) for toxicity or SAE. The median number of BT cycles was 10 (IQR: 6-16; range 2-34); 27/47 (57%) patients received ten or more cycles of BT.    In the PP population (46 patients), 9 (20%) had a complete (CR) and 24 (52%) a partial response (PR). Eight (17%) patients reached stable disease (SD) and 5 (11%) had progressed by the first disease assessment. Efficacy and the main safety results for first and second stages are shown in <ref type="table" target="#tab_2">Table 2</ref>.</p><p>Of all the 44 patients evaluable for PFS-6, 11 (25%) progressed and 33 were alive and progression-free 6 months after study entry, so the PFS-6 was 75% (95%CI: 60% to 87%). Seven of the 44 (16%; 95%CI: 7% to 30%) patients experienced ST-6 events.</p><p>After a median follow-up of 20.7 months, 39 (85%) patients had progressed or died. Median PFS was 9.1 months (IQR: 6.7-17.0). <ref type="figure" target="#fig_6">Figure 3a</ref> shows the KM curves of PFS. During the study, 20 (44%) patients died. Median OS was 23.2 months (IQR: 20.1-31.1). <ref type="figure" target="#fig_6">Figure 3b</ref> shows the KM curves for OS.</p><p>The BT safety population included 47 patients. There were 1092 AEs, 703 grade 1 (64%), 277 grade 2 (25%), 99 grade 3 (9%), 10 grade 4 (1%) and 1 grade 5 (&lt;1%); 83%of patients had at least one grade ≥3 AE <ref type="table" target="#tab_1">(Table S1</ref>). Eleven SAEs occurred in 11 patients (23%). One of these was fatal as the patient died of bowel perforation 30 days after the sixth course of BT. The clinician reported a causal relation with bevacizumab. The patient also had peritoneal carcinosis.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>BT+C arm</head><p>From July 2013 through March 2016, 21 patients were randomised to the BT+C arm. <ref type="figure" target="#fig_1">Figure 2</ref> shows the flow-chart and the populations for primary and secondary analyses. <ref type="table" target="#tab_1">Table 1</ref> lists the clinical characteristics of the patients with no major violations of eligibility criteria. Median age was 59.4 years (range 54.0-66.1) at study entry; 17 (85%) patients were facing their first progression of disease and the other 3 (15%) the second. The median platinumfree interval from the previous platinum-based therapy was 8.2 months (IQR: 6.6-10.7; range 6.1-12.8).</p><p>Adherence to treatment was problematic for 8/20 patients (40%) who stopped carboplatin before six cycles while continuing with BT. Five of these eight had an allergic reaction to carboplatin and three stopped carboplatin because of haematologic toxicity. The median number of carboplatin cycles was 6 (IQR: 2-6; range 1-6). A median of 19 cycles of BT was administered (IQR: 10.5-26.5; range 6-43);16 patients (80%) received ten or more BT cycles. At the time of analysis, one patient was still on treatment with BT.</p><p>In the PP population, CR was observed in 9 (45%) and PR in 8 (40%) patients. Three patients (15%) reached SD and none progressed at the first disease assessment.</p><p>Efficacy and safety for the first stage are illustrated in <ref type="table" target="#tab_2">Table 2</ref>. The BT+C arm was not expanded to second stage on account of excessive toxicity.</p><p>None of the 20 evaluable patients in the BT+C arm died; three (15%) progressed before 6 months from randomisation, while 17 were alive and progression-free 6 months from study entry; therefore the PFS-6 was 85% (95%CI: 62%-97%). Nine out of 20 (45%; 95%CI: 23%-69%) experienced ST-6 events.</p><p>After a median follow-up of 32.5 months, 14 patients (70%) progressed, 9 (45%) died and 16 (80%) progressed or died. Median PFS and OS were respectively 21.1 months (IQR: 9.8-29.6) and 42.6 months (first quartile 19.9, third quartile not reached), respectively. <ref type="figure" target="#fig_6">Figure 3</ref> shows the KM curves for PFS (panel a) and OS (panel b).</p><p>The BT+C safety analysis population comprises 20 patients. There were 783 AEs, 479 grade 1 (61%), 211 grade 2 (27%), 70 grade 3 (9%), 20 grade 4 (3%), and 3 grade unknown. The incidence of patients with at least one grade 3 or 4 AE was 90%. <ref type="table" target="#tab_2">Table S2</ref> lists the numbers of patients with at least one grade 3 or 4 specific AEs. Seven SAEs occurred in 7 patients (35%). One of these was fatal as the patient died of acute leukaemia. In this patient carboplatin AUC 4 had to be reduced to AUC 3 and trabectedin from 0.8 to 0.6 mg/m 2 because of bone marrow toxicity during the first six cycles but then the bone marrow recovered, and the acute leukaemic blast crisis occurred after a further 28 BT cycles.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>DISCUSSION</head><p>The partially platinum-sensitive ovarian cancer patients in the present investigation, are part of a unique population for whom either platinum-based or non-platinum-based treatments may be indicated. Testing non-platinum-based new regimens is a clinical need for patients who cannot receive further platinum after frontline chemotherapy because of toxicity or intolerance.</p><p>The artificial prolonging of the platinum-free interval with a non-platinum-based chemotherapy that aims at boosting the efficacy of later platinum rescue is another intriguing rationale that has been crossing clinical oncology for some time. <ref type="bibr" target="#b9">10</ref> The recently published MITO 8 randomised clinical trial failed to support this mechanism of action: the sequence of non-platinum followed by platinum did not show any PFS and OS benefit over platinum first, in the partially platinum-sensitive patients. 11  However, the non-platinum-based regimen in the MITO 8 trial consisted of single-agent pegylated liposomal doxorubicin (PLD), which was probably underperforming. Thus, the hypothesis will be definitively confirmed or refuted by the INOVATYON trial which randomised patients to a non-platinum-based doublet (trabectedin/PLD, followed by platinum at progression) or to a platinumbased doublet (carboplatin/PLD) (ClinicalTrials.gov identifier (NCT number): NCT01379989). The use of trabectedin in the nonplatinum regimen is interesting because of the strong preclinical evidence that this drug may enhance the efficacy of subsequent treatments with platinum compounds. <ref type="bibr" target="#b9">10,</ref><ref type="bibr" target="#b11">12</ref> The specific design of the present phase 2 study enabled us to evaluate two treatment regimens in terms of both efficacy (PFS-6) and safety (ST-6) at the same time. Furthermore, randomisation created two similar patient populations on which to assess the two treatment regimens with a single study protocol and avoiding any selection bias.</p><p>The non-platinum-based doublet of trabectedin and bevacizumab met the protocol criteria for efficacy and safety at 6 months with PFS-6 over 35% and severe toxicity below 30%. The median PFS of BT was 9.1 months which compares favourably with the non-platinum-based regimens (trabectedin + PLD: 7.4 months, <ref type="bibr" target="#b12">13</ref> PLD: 5.5 months 13 and 5.0 months 11 ) and even with platinumbased ones (carboplatin + PLD: 9.4 months, <ref type="bibr" target="#b13">14</ref> carboplatin + taxol: 8.8 months, 14 platinum-based: 9.0 months <ref type="bibr" target="#b10">11</ref> ) that have been tested in this restricted partially-platinum-sensitive population. The safety of BT was satisfactory and manageable and there was no evidence of synergistic toxicity between these two drugs.</p><p>Testing new platinum-based regimens in the partially platinum-sensitive ovarian cancer population merits priority, considering the dismal prognosis of these patients whose survival has remained around 20 months since the introduction of platinum in the 70's. Our platinum-based triplet of carboplatin, trabectedin and bevacizumab was tested only in the first stage of this trial because its toxicity exceeded the pre-set threshold of 30% and we could not expand the cohort to the second stage. Grade 3-4 haematologic toxicity and grade 3-4 non haematological toxicities, which required permanent interruption of the drugs, hampered the continuation of the trial. The high frequency of hypersensitivity reactions to carboplatin (5 patients) was also unexpected: it might be related to the large number of prior carboplatin courses or, alternatively, to some interaction with the trabectedin. The latter hypothesis is unlikely, particularly considering the patients" pre-treatment with corticosteroids. However, 12 out of 20 patients (60%) were still able to receive the planned six cycles of carboplatin and 16 managed ten or more cycles of BT. The BT+C regimen appeared very active considering that all patients enjoyed some clinical benefit and the median PFS and OS were 21.1 and 42.6 months. Although the BT+C sample was small, so no firm conclusions can be drawn, we think that this activity signal should be picked up while developing a more manageable schedule. The possible synergy between trabectedin, bevacizumab and carboplatin could translate into clinical reality wherever other platinum combinations fail to improve on the efficacy of the standard carboplatin+paclitaxel regimen, even in the front-line setting. <ref type="bibr" target="#b14">15</ref> Finally, our trial was run in a bevacizumab-naive population but the recently presented MITO16B-MaNGO-OV2 randomised trial showed that rechallenge with bevacizumab in ovarian cancer relapse after front-line chemotherapy plus bevacizumab confers a significant PFS benefit in comparison with the same treatment without bevacizumab. <ref type="bibr" target="#b15">16</ref> This can extend treatment possibilities for the BT regimen.</p><p>Limitations of our study include those inherent to phase 2, such as a small sample size, early primary endpoints (PFS-6 and ST-6) and, in our case, the lack of a parallel comparison or calibration group. Nonetheless, our indirect comparisons for the BT arm seem robust enough as the patient populations compared seem homogenous in terms of principal confounding variables, such as platinum-free interval, histologic type and number of previous chemotherapy lines. <ref type="bibr" target="#b10">11,</ref><ref type="bibr" target="#b12">13,</ref><ref type="bibr" target="#b13">14</ref> Another potential study limitation relates to the fact that we did not collect the information about germinal or somatic BRCA status. Previous indirect observations and a recent sub-group analysis of the OVC-3006 randomised trial support a possible synergistic effect of BRCA mutation with trabectedin. <ref type="bibr" target="#b16">17,</ref><ref type="bibr" target="#b17">18</ref>   </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>CONCLUSIONS</head><p>The BT regimen showed worth-while clinical activity and limited toxicity that can position it as a therapeutic opportunity for women with partially platinum-sensitive disease. The apparent good activity of the BT+C regimen warrants further studies with a re-modulated schedule to limit its toxicity.   </p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head></head><label></label><figDesc>71 patients (pts) randomised/registered 21 pts randomised to BT ARM (1st stage) 47 pts included in the safety population 46 pts included in the PP population First 17 (1st stage) and 36 (2nd stage) pts included in the primary endpoint PP population First 17 (1st stage) pts included in the primary endpoint PP population 20 pts included in the PP population 20 pts included in the safety population 3 pts ineligible: All pts started the treatment All pts started the treatment All pts treated for at least 12 weeks 1 pt interrupted treatment before 12 weeks due to intercurrent illness -2 pts not evaluable for the primary endpoints 1 pt ineligible: 1 bipolar disorder 1 platinum free interval &gt;12 months 1 more than two previous platinumbased chemotherapy lines 1 HCV positivity 29 pts registered to BT ARM (2nd stage) 21 pts randomised to BT+C ARM (1st stage)</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head>Fig. 2</head><label>2</label><figDesc>Patients flow-chart (BT arm: Bevacizumab + Trabectedin. BT+C arm: Bevacizumab + Trabectedin + Carboplatin. PP: per-protocol)</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_2"><head>Fig. 1</head><label>1</label><figDesc>Study design (BT arm: Bevacizumab + Trabectedin. BT+C arm: Bevacizumab + Trabectedin + Carboplatin. PFS-6: progression-free survival at 6 months. ST-6: severe toxicity at 6 months)</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_3"><head></head><label></label><figDesc>FIGO stage IIA 1 (5.0) 1 (2.1) IIB-IIC 0 (0.0) 2 (4.2) IIIA 0 (0.0) 1 (2.1) IIIB 0 (0.0) 5 (10.6) IIIC 16 (80.0) 25 (53.2) IV 2 (10.0) 11 (23.4) Unknown 1 (5.0) 2 (4.3) Histological grade 1-2 0 (0.0) 5 (10.6) 3 20 (100) 38 (80.9) Unknown 0 (0.0) 4 (8.5) Histological type Serous 15 (75.0) 40 (85.1) Other 4 (20.0) 7 (14.9) Unknown 1 (5.0) 0 (0.0) Number of previous chemotherapy lines One 17 (85.0) 34 (72.3) Two 3 (15.0) 13 (27.7) Last platinum-based chemotherapy type Carboplatin 0 (0.0) 2 (4.3) Carboplatin + Taxol 18 (90.0) 36 (76.6) Carboplatin + Gemcitabine</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_4"><head></head><label></label><figDesc>5 × 10/L &gt;7 days and/or fever -0 (0.0) Platelets &lt;25 × 10/L -1 (16.7) Any other grade 3-4 non-haematological toxicities that required permanent interruption of one or both drugs -5 (83.3) 80%CI 80% confidence interval, ANC absolute neutrophil count Multicenter, randomised, open-label, non-comparative phase 2 trial on the. . . N Colombo et al.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_6"><head>Fig. 3</head><label>3</label><figDesc>Kaplan-Meier plot of progression-free survival (a) and overall survival (b) in the per-protocol population Multicenter, randomised, open-label, non-comparative phase 2 trial on the. . . N Colombo et al.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_1"><head>Table 1 .</head><label>1</label><figDesc>Tumour characteristics at first diagnosis and prior treatments -patients with no major violations of eligibility criteria</figDesc><table><row><cell></cell><cell>Bevacizumab +</cell><cell>Bevacizumab +</cell></row><row><cell></cell><cell>Trabectedin +</cell><cell>Trabectedin (47)</cell></row><row><cell></cell><cell>Carboplatin (20)</cell><cell></cell></row><row><cell>Primary site</cell><cell></cell><cell></cell></row><row><cell>Ovary</cell><cell>20 (100)</cell><cell>45 (95.7)</cell></row><row><cell>Fallopian</cell><cell>0 (0.0)</cell><cell>2 (4.3)</cell></row></table><note></note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_2"><head>Table 2 .</head><label>2</label><figDesc>Primary analysis of PFS-6 and ST-6 -per protocol population for primary endpoint Bevacizumab + Trabectedin +</figDesc><table><row><cell>Bevacizumab + Trabectedin</cell></row><row><cell>Carboplatin</cell></row></table><note></note></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot">Multicenter, randomised, open-label, non-comparative phase 2 trial on the. . . N Colombo et al.</note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="1234567890">();,:</note>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>ACKNOWLEDGEMENTS</head><p>The authors commemorate their colleague Irene Floriani of the Mario Negri Institute IRCCS, who passed away on 12 January 2016 and who dedicated her life to research. She was involved in the statistical design and coordination of this clinical trial. Writing assistance: Judith Baggott</p></div>
+			</div>
+
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>AUTHOR CONTRIBUTIONS</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>ADDITIONAL INFORMATION</head><p>Supplementary information is available for this paper at https://doi.org/10.1038/ s41416-019-0584-5. Data availability: Data supporting the results reported can be found at Mario Negri Institute IRCCS for Pharmacologic Research, Milan. Data sharing is encouraged, and data are available on request to the corresponding author.</p><p>Note: This work is published under the standard license to publish agreement. After 12 months the work will become freely available and the license terms will switch to a Creative Commons Attribution 4.0 International (CC BY 4.0).</p><p>Publisher's note Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.</p></div>			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Cancer statistics</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><forename type="middle">L</forename><surname>Siegel</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><forename type="middle">D</forename><surname>Miller</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Jemal</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">CA Cancer J Clin</title>
+		<imprint>
+			<biblScope unit="volume">68</biblScope>
+			<biblScope unit="page" from="7" to="30" />
+			<date type="published" when="2018" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Systemic therapy in recurrent ovarian cancer: current treatment options and new drugs</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><surname>Harter</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">F</forename><surname>Hilpert</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Mahner</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">F</forename><surname>Heitz</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Pfisterer</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Bois</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Expert. Rev. Anticancer Ther</title>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="page" from="81" to="88" />
+			<date type="published" when="2010" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Incorporation of bevacizumab in the primary treatment of ovarian cancer</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><forename type="middle">A</forename><surname>Burger</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">F</forename><surname>Brady</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">A</forename><surname>Bookman</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">G</forename><forename type="middle">F</forename><surname>Fleming</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">B</forename><forename type="middle">J</forename><surname>Monk</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><surname>Huang</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">N. Engl. J. Med</title>
+		<imprint>
+			<biblScope unit="volume">365</biblScope>
+			<biblScope unit="page" from="2473" to="2483" />
+			<date type="published" when="2011" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">A review of trabectedin (ET-743): a unique mechanism of action</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>D'incalci</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><forename type="middle">M</forename><surname>Galmarini</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Mol. Cancer Ther</title>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="page" from="2157" to="2163" />
+			<date type="published" when="2010" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Antiinflammatory properties of the novel antitumor agent yondelis (trabectedin): inhibition of macrophage differentiation and cytokine production</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><surname>Allavena</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Signorelli</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Chieppa</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><surname>Erba</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">G</forename><surname>Bianchi</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">F</forename><surname>Marchesi</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Cancer Res</title>
+		<imprint>
+			<biblScope unit="volume">65</biblScope>
+			<biblScope unit="page" from="2964" to="2971" />
+			<date type="published" when="2005" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Antitumor and anti-inflammatory effects of trabectedin on human myxoid liposarcoma cells</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">G</forename><surname>Germano</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><surname>Frapolli</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Simone</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Tavecchio</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><surname>Erba</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Pesce</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Cancer Res</title>
+		<imprint>
+			<biblScope unit="volume">70</biblScope>
+			<biblScope unit="page" from="2235" to="2244" />
+			<date type="published" when="2010" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">The combination of yondelis and cisplatin is synergistic against human tumor xenografts</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>D'incalci</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Colombo</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><surname>Ubezio</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">I</forename><surname>Nicoletti</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><surname>Giavazzi</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><surname>Erba</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Eur. J. Cancer</title>
+		<imprint>
+			<biblScope unit="volume">39</biblScope>
+			<biblScope unit="page" from="1920" to="1926" />
+			<date type="published" when="2003" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Phase I clinical and pharmacokinetic study of trabectedin and carboplatin in patients with advanced solid tumors</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">L</forename><surname>Vidal</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Magem</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><surname>Barlow</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">B</forename><surname>Pardo</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Florez</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Montes</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Invest. New Drugs</title>
+		<imprint>
+			<biblScope unit="volume">30</biblScope>
+			<biblScope unit="page" from="616" to="628" />
+			<date type="published" when="2012" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Incorporating toxicity considerations into the design of twostage phase II clinical trials</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Bryant</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><surname>Day</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Biometrics</title>
+		<imprint>
+			<biblScope unit="volume">51</biblScope>
+			<biblScope unit="page" from="1372" to="1383" />
+			<date type="published" when="1995" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<monogr>
+		<title level="m" type="main">Restoring platinum sensitivity in recurrent ovarian cancer by extending the platinum-free interval: Myth or reality? Cancer</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">F</forename><surname>Tomao</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>D'incalci</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><surname>Biagioli</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">F</forename><forename type="middle">A</forename><surname>Peccatori</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">N</forename><surname>Colombo</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2017" />
+			<biblScope unit="volume">123</biblScope>
+			<biblScope unit="page" from="3450" to="3459" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Randomized Controlled Trial Testing the Efficacy of Platinum-Free Interval Prolongation in Advanced Ovarian Cancer: The MITO-8, MaNGO, BGOG-Ov1, AGO-Ovar2</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Pignata</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">G</forename><surname>Scambia</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Bologna</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Signoriello</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">I</forename><forename type="middle">B</forename><surname>Vergote</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">U</forename><surname>Wagner</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Clin. Oncol</title>
+		<imprint>
+			<biblScope unit="volume">16</biblScope>
+			<biblScope unit="page" from="3347" to="3353" />
+			<date type="published" when="2017" />
+		</imprint>
+	</monogr>
+	<note>ENGOT-Ov1, GCIG Study</note>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Increased sensitivity to platinum drugs of cancer cells with acquired resistance to trabectedin</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">B</forename><surname>Colmegna</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Uboldi</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><surname>Frapolli</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><forename type="middle">A</forename><surname>Licandro</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">N</forename><surname>Panini</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><forename type="middle">M</forename><surname>Galmarini</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Br J Cancer</title>
+		<imprint>
+			<biblScope unit="volume">113</biblScope>
+			<biblScope unit="page" from="1687" to="1693" />
+			<date type="published" when="2015" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Trabectedin plus pegylated liposomal doxorubicin in relapsed ovarian cancer: outcomes in the partially platinum-sensitive (platinum-free interval 6-12 months) subpopulation of OVA-301 phase III randomized trial</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Poveda</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">I</forename><surname>Vergote</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Tjulandin</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">B</forename><surname>Kong</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Roy</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Chan</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ann. Oncol</title>
+		<imprint>
+			<biblScope unit="volume">22</biblScope>
+			<biblScope unit="page" from="39" to="48" />
+			<date type="published" when="2011" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Carboplatin and pegylated liposomal doxorubicin versus carboplatin and paclitaxel in partially platinum-sensitive ovarian cancer patients: results from a subset analysis of the CALYPSO phase III trial</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">L</forename><surname>Gladieff</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Ferrero</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">G</forename><surname>De Rauglaudre</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><surname>Brown</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><surname>Vasey</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Reinthaller</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ann. Oncol</title>
+		<imprint>
+			<biblScope unit="volume">23</biblScope>
+			<biblScope unit="page" from="1185" to="1189" />
+			<date type="published" when="2012" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">Evaluation of new platinum-based treatment regimens in advanced-stage ovarian cancer: a Phase III Trial of the Gynecologic Cancer Intergroup</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">A</forename><surname>Bookman</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">F</forename><surname>Brady</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">W</forename><forename type="middle">P</forename><surname>Mcguire</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><forename type="middle">G</forename><surname>Harper</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><forename type="middle">S</forename><surname>Alberts</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Friedlander</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Clin Oncol</title>
+		<imprint>
+			<biblScope unit="volume">27</biblScope>
+			<biblScope unit="page" from="1419" to="1425" />
+			<date type="published" when="2009" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Chemotherapy plus or minus bevacizumab for platinum-sensitive ovarian cancer patients recurring after a bevacizumab containing first line treatment: The randomized phase 3 trial MITO16B-MaNGO OV2B-ENGOT OV17</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Pignata</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><surname>Lorusso</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">F</forename><surname>Joly</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><surname>Gallo</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">N</forename><surname>Colombo</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><surname>Sessa</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">JCO</title>
+		<imprint>
+			<biblScope unit="volume">36</biblScope>
+			<biblScope unit="page" from="5506" to="5506" />
+			<date type="published" when="2018" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Trabectedin as a chemotherapy option for patients with BRCA deficiency</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">B</forename><forename type="middle">J</forename><surname>Monk</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><surname>Lorusso</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Italiano</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><forename type="middle">B</forename><surname>Kaye</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Aracil</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Tanović</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Cancer Treat Rev</title>
+		<imprint>
+			<biblScope unit="volume">50</biblScope>
+			<biblScope unit="page" from="175" to="182" />
+			<date type="published" when="2016" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<monogr>
+		<title level="m" type="main">A randomized, open-label study comparing trabectedin and pegylated liposomal doxorubicin with pegylated liposomal doxorubicin alone for the treatment of advanced-relapsed epithelial ovarian, primary peritoneal, or fallopian tube cancer (ET743-OVC-3006)</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">B</forename><forename type="middle">J</forename><surname>Monk</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><forename type="middle">J</forename><surname>Herzog</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Triantos</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">G</forename><surname>Wang</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">W</forename><forename type="middle">S W</forename><surname>Shalaby</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Mcgowan</surname></persName>
+		</author>
+		<ptr target="https://www.sgo50.org/wp-content/uploads/2019/02/SGO-2019-Annual-Meeting-Abstracts.pdf" />
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

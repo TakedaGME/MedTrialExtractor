@@ -1,0 +1,545 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /data/rsg/nlp/juanmoo1/bin/grobid-0.6.1/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Lenalidomide plus Dexamethasone for Relapsed or Refractory Multiple Myeloma</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+				<date type="published" when="2007-11-22">november 22, 2007</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><roleName>M.D</roleName><forename type="first">Meletios</forename><surname>Dimopoulos</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><roleName>M.D</roleName><forename type="first">Andrew</forename><surname>Spencer</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><roleName>M.D</roleName><forename type="first">Michael</forename><surname>Attal</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><roleName>M.D</roleName><forename type="first">H</forename><surname>Miles Prince</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><roleName>M.D</roleName><forename type="first">Jean-Luc</forename><surname>Harousseau</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><roleName>M.D</roleName><forename type="first">Anna</forename><surname>Dmoszynska</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Jesus</forename><surname>San</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><roleName>M.D</roleName><forename type="first">Andrzej</forename><surname>Hellmann</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><roleName>M.D</roleName><forename type="first">Thierry</forename><surname>Facon</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><roleName>M.D</roleName><forename type="first">Robin</forename><surname>Foà</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><roleName>M.D</roleName><forename type="first">Alessandro</forename><surname>Corso</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><roleName>M.D</roleName><forename type="first">Zvenyslava</forename><surname>Masliak</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Marta</forename><surname>Olesnyckyj</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><roleName>Ph.D</roleName><forename type="first">Zhinuan</forename><surname>Yu</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><roleName>M.S</roleName><forename type="first">John</forename><surname>Patin</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><roleName>M.D</roleName><forename type="first">Jerome</forename><forename type="middle">B</forename><surname>Zeldis</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><roleName>Ph.D</roleName><forename type="first">Robert</forename><forename type="middle">D</forename><surname>Knight</surname></persName>
+						</author>
+						<author>
+							<affiliation key="aff0">
+								<orgName type="institution">University of Athens School of Medicine</orgName>
+								<address>
+									<settlement>Athens (M.D.)</settlement>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff1">
+								<orgName type="institution">Alfred Hospital</orgName>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff2">
+								<orgName type="laboratory">tralia; Centre Hospitalier Universitaire Purpan</orgName>
+								<address>
+									<addrLine>Centre Hospitalier Hôtel-Dieu</addrLine>
+									<settlement>Toulouse, Nantes</settlement>
+									<country>France (M.A.);, France</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff3">
+								<orgName type="department">H.); University School of Medicine</orgName>
+								<orgName type="institution">Univer-sitario de Salamanca</orgName>
+								<address>
+									<settlement>Lublin, Salamanca</settlement>
+									<country>Poland (A.D.); Hospital, Spain</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff4">
+								<orgName type="institution">Medical University of Gdansk</orgName>
+								<address>
+									<settlement>Gdansk</settlement>
+									<country key="PL">Poland</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff5">
+								<orgName type="department">School of Medicine</orgName>
+								<orgName type="institution" key="instit1">University of Athens</orgName>
+								<orgName type="institution" key="instit2">Alexandra Hospital</orgName>
+								<address>
+									<addrLine>Vas. Sophias 80</addrLine>
+									<postCode>11528</postCode>
+									<settlement>Athens</settlement>
+									<country key="GR">Greece</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Lenalidomide plus Dexamethasone for Relapsed or Refractory Multiple Myeloma</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date type="published" when="2007-11-22">november 22, 2007</date>
+						</imprint>
+					</monogr>
+					<idno type="DOI">10.1056/NEJMoa070594)</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.6.1" ident="GROBID" when="2021-01-01T18:48+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>(A.H.)</term>
+					<term>Hôpital Claude Huriez, Lille, France (T.F.)</term>
+					<term>University &quot;La Sapienza,&quot; Rome (R.F.)</term>
+					<term>Fondazione Istituto Ricovero e Cura a Carattere Scientifico, Policlinico San Matteo, Pavia, Italy (A.C.)</term>
+					<term>Institute of Blood Pathology and Transfusion Medicine, Lviv, Ukraine (Z.M.)</term>
+					<term>and Celgene, Summit, NJ (M.O., Z.Y., J.P., J.B.Z., R.D.K</term>
+				</keywords>
+			</textClass>
+			<abstract>
+				<p>*Other investigators who participated in the Multiple Myeloma (010) Study are listed in the Appendix.</p>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Of 351 patients who had received at least one previous antimyeloma therapy, 176 were randomly assigned to receive 25 mg of oral lenalidomide and 175 to receive placebo on days 1 to 21 of a 28-day cycle. In addition, all patients received 40 mg of oral dexamethasone on days 1 to 4, 9 to 12, and 17 to 20 for the first four cycles and subsequently, after the fourth cycle, only on days 1 to 4. Patients continued in the study until the occurrence of disease progression or unacceptable toxic effects. The primary end point was time to progression.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Results</head><p>The time to progression was significantly longer in the patients who received lenalidomide plus dexamethasone (lenalidomide group) than in those who received placebo plus dexamethasone (placebo group) (median, 11.3 months vs. 4.7 months; P&lt;0.001). A complete or partial response occurred in 106 patients in the lenalidomide group (60.2%) and in 42 patients in the placebo group (24.0%, P&lt;0.001), with a complete response in 15.9% and 3.4% of patients, respectively (P&lt;0.001). Overall survival was significantly improved in the lenalidomide group (hazard ratio for death, 0.66; P = 0.03). Grade 3 or 4 adverse events that occurred in more than 10% of patients in the lenalidomide group were neutropenia (29.5%, vs. 2.3% in the placebo group), thrombocytopenia (11.4% vs. 5.7%), and venous thromboembolism (11.4% vs. 4.6%).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>M</head><p>ultiple myeloma, the second most common hematologic cancer, caused more than 19,000 deaths in Europe in 2004. <ref type="bibr">1</ref> To improve the outcome of treatment, new agents are needed. <ref type="bibr" target="#b2">2</ref> The immunomodulatory drug thalidomide has activity in about one third of patients with relapsed or refractory multiple myeloma; response rates are increased when thalidomide is combined with dexamethasone or chemotherapy. <ref type="bibr" target="#b4">[3]</ref><ref type="bibr" target="#b6">[4]</ref><ref type="bibr" target="#b8">[5]</ref><ref type="bibr" target="#b10">[6]</ref><ref type="bibr">[7]</ref> Treatment with thalidomide is associated with sedation, fatigue, constipation, rash, deep-vein thrombosis, and peripheral neuropathy. These toxic effects often require dose reduction and, in some instances, discontinuation of the drug. <ref type="bibr" target="#b13">8</ref> Lenalidomide, a derivative of thalidomide, is less toxic and more potent than the parent drug. <ref type="bibr" target="#b15">9</ref> In patients with relapsed or refractory multiple myeloma, lenalidomide can overcome resistance not only to conventional chemotherapy but also to thalidomide, <ref type="bibr" target="#b17">10,</ref><ref type="bibr">11</ref> and dexamethasone plus lenalidomide is more effective than either agent alone in refractory multiple myeloma. <ref type="bibr">11</ref> We report on a randomized, phase 3 trial in which lenalidomide plus dexamethasone was compared with placebo plus dexamethasone in patients with relapsed or refractory multiple myeloma.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Me thods</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Patients</head><p>Patients with multiple myeloma in Europe, Israel, and Australia were eligible to participate in the study if they were at least 18 years of age and had been treated with at least one previous antimye loma regimen. Patients were excluded if they had had disease progression during previous therapy containing high-dose dexamethasone (total month ly dose, &gt;200 mg). Measurable disease was defined as a level of serum monoclonal protein (M protein) of at least 0.5 g per deciliter or a level of urinary Bence Jones protein of at least 0.2 g per day. Additional eligibility criteria included an Eastern Cooperative Oncology Group performance status of 2 or less, a serum aspartate aminotransferase or alanine aminotransferase level that was no more than three times the upper limit of the normal range, a serum bilirubin level that was no more than two times the upper limit of the normal range, a serum creatinine level of less than 2.5 mg per deciliter (221 μmol per liter), and an absolute neutrophil count of at least 1000 per cu-bic millimeter. The platelet count needed to be more than 75,000 per cubic millimeter for patients with less than 50% bone marrow plasma cells and more than 30,000 per cubic millimeter for patients with 50% or more bone marrow plasma cells.</p><p>Women of childbearing potential were eligible if they agreed to use contraception during the study, had a negative pregnancy test before enrollment, and agreed to undergo pregnancy testing every 4 weeks from enrollment until 4 weeks after discontinuation of the assigned study drug. Patients were excluded if they had previously had hypersensitivity to or uncontrollable side effects associated with previous use of thalidomide or dexamethasone. All patients gave written informed consent, and an ethics committee at each study site approved the protocol.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Study Design</head><p>The primary end point of this multicenter, randomized, placebo-controlled, phase 3 trial was the time to disease progression. Secondary end points included overall survival, the rate of response, and safety.</p><p>Patients received either 25 mg of oral lenalidomide or placebo on days 1 to 21 of a 28-day cycle; all patients received 40 mg of oral dexamethasone on days 1 to 4, 9 to 12, and 17 to 20 for the first four cycles. After the fourth cycle, 40 mg of dexamethasone was administered only on days 1 to 4. Patients continued to receive the assigned drug regimen until the occurrence of disease progression or unacceptable toxic effects. Patients were stratified according to the baseline serum β 2microglobulin level (&lt;2.5 mg per liter or ≥2.5 mg per liter), previous stem-cell transplantation (none or ≥1), and the number of previous antimyeloma regimens (1 or ≥2).</p><p>Toxic effects were graded according to the National Cancer Institute's Common Toxicity Criteria, version 2. For grade 4 adverse events, treatment was withheld and restarted at the next lower dose after resolution of the toxic effects. The dexamethasone dose was modified because of toxic effects at the investigator's discretion as follows: 40 mg daily for 4 days every 2 weeks (dose level, −1) or every 4 weeks (dose level, −2) or 20 mg daily for 4 days every 4 weeks (dose level, −3). For grade 3 or 4 neutropenia without other toxic effects, the first dose-modification step was dose level −1 (daily subcutaneous injection of 5 μg of granulocyte colony-stimulating factor per kilogram of body weight and 25 mg of lenalidomide); sequential reductions of the lenalidomide dose were 15 mg (dose level, −2), 10 mg (dose level, −3), and 5 mg (dose level, −4), with 5 μg of granulocyte colony-stimulating factor per kilogram daily at the investigator's discretion.</p><p>Patients underwent a blood count and physical examination on days 1 and 15 (and day 8 of cycle 1) during cycles 1 to 3 and on day 1 of each cycle thereafter. Serum and urinary levels of M protein were assessed on day 1 of each cycle and at the end of treatment. Transfusion of platelets and red cells and the administration of neutrophil growth factors and epoetin alfa were allowed as needed. All patients were allowed to receive bisphosphonates. Prophylactic anticoagulation was not recommended.</p><p>The study was designed as a collaborative effort by Dr. Dimopoulos, the coinvestigators, and the sponsor, Celgene. The sponsor collected the data and performed the final analysis, in collaboration with an independent data monitoring committee and Dr. Dimopoulos. All authors had full access to the primary data and the final analysis. Dr. Dimopoulos vouches for the accuracy and completeness of the published results. The first draft was written by Dr. Dimopoulos; subsequent drafts were written by Dr. Dimopoulos with editorial assistance from an employee of the sponsor. All authors had input before submission of both the original and revised manuscripts. An independent data monitoring committee reviewed safety and efficacy data throughout the study.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Assessments</head><p>The response of patients to treatment was assessed according to the criteria of the European Group for Blood and Marrow Transplantation. 12 The time to progression was measured from randomization to the date of the first assessment showing progression. Progressive disease was defined as any of the following: an absolute increase of more than 500 mg of serum M protein per deciliter, as compared with the nadir value, or an absolute increase of more than 200 mg of urinary M protein in 24 hours; a new bone lesion or plasmacytoma or an increase in the size of such lesions; or the development of hypercalcemia (serum calcium level, &gt;11.5 mg per deciliter [2.9 mmol per liter]). Responses were designated as complete (defined as the absence of M protein in serum and urine, as confirmed by immunofixation in two samples, and &lt;5% marrow plasma cells) or partial (defined as a reduction in the level of M protein in serum of at least 50% and a reduction in urine of at least 90%). Complete and partial responses were confirmed by repeated measurements of M protein in serum and urine after 6 weeks, and progressive disease was confirmed by repeated measurements of M protein in serum and urine after 1 to 3 weeks. Near-complete response, a subcategory of partial response, was defined as a complete response without confirmation of a decrease in marrow plasma cells to less than 5% by bone marrow biopsy, confirmation of the disappearance of M protein in serum or urine by repeat immunofixation, or both.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Statistical Analysis</head><p>The accrual goal was the enrollment of 302 patients (151 in each group), which would provide a statistical power of 85% to detect a hazard ratio of 1.5 for the time to progression with the use of a two-sided log-rank test with an overall significance level of 0.05, adjusted for one interim analysis. Full information that was necessary for a logrank test to have a power of 85% would be achieved when approximately 222 patients had disease progression in the two study groups. For overall survival, the trial had a power of approximately 80% to detect a difference of 50% in median overall survival for an analysis performed when at least 194 patients had died.</p><p>An interim analysis of safety and efficacy was planned when disease had progressed in 111 patients. If the predetermined O'Brien-Fleming boundary for the superiority of lenalidomide over placebo was crossed, the study would be unblinded, and patients would be allowed to receive lenalidomide at the time of disease progression or at the investigator's discretion. All primary analyses were based on the intention-to-treat population, and subgroup analyses were planned on the basis of stratification variables. An unstratified log-rank test was used to compare time-to-event variables between groups. Both the time to progression and overall survival were estimated with the use of Kaplan-Meier methods. Continuity-corrected Pearson chi-square tests were used to compare the proportions of patients in the two groups who had a response to treatment. </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>R esult s</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Patients and Treatments</head><p>Between September 22, 2003, and September 15, 2004, a total of 351 patients (intention-to-treat population) were enrolled at 41 centers in Europe, 6 centers in Australia, and 3 centers in Israel. Of these patients, 176 were randomly assigned to receive lenalidomide plus dexamethasone (the lenalidomide group) and 175 to receive placebo plus dexamethasone (the placebo group). Baseline characteristics were well balanced between the two groups <ref type="table" target="#tab_1">(Table 1)</ref>. Previous therapies included stem-cell transplantation, thalidomide, dexamethasone, melphalan, doxorubicin, and bortezomib. Patients in the two groups had received a median of two previous therapies. The average time from initial diagnosis to study entry was more than 4 years. At the time of the analysis, which included all data obtained before unblinding in August 2005, the median follow-up was 16.4 months. Median daily doses of study drugs in the two groups were 25 mg of lenalidomide and 40 mg of dexamethasone. The O'Brien-Fleming boundary for the superiority of lenalidomide had been passed at the time of the interim analysis in September 2004.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Efficacy</head><p>The median time to progression was 11.3 months in the lenalidomide group and 4.7 months in the placebo group (P&lt;0.001) ( <ref type="figure" target="#fig_0">Fig. 1A)</ref>. The hazard ratio for time to progression was 2.85 (95% confidence interval [CI], 2.16 to 3.76; P&lt;0.001) in favor of the lenalidomide group. Patients in the lenalidomide group had a significantly longer time to progression than patients in the placebo group in all stratified subgroups. The median time to progression for patients who had undergone one previous therapy was not reached in the lenalidomide group and was 4.7 months in the placebo group. Among patients who had undergone at least two previous therapies, the median time to progression was 11.1 months in the lenalidomide group and 4.7 months in the placebo group (P&lt;0.001).</p><p>The median time to progression for patients who had previously undergone treatment with thalidomide (30.1% of the patients in the lenalidomide group and 38.3% of those in the placebo group) was 8.4 months in the lenalidomide group and 4.6 months in the placebo group (P&lt;0.001). Among patients with no previous exposure to thalidomide, the median time to progression was 13.5 months in the lenalidomide group and 4.7 months in the placebo group (P&lt;0.001) <ref type="figure" target="#fig_0">(Fig. 1B)</ref>. In the lenalidomide group, the median time to progression was not significantly related to previous exposure to thalidomide (hazard ratio, 0.65; 95% CI, 0.42 to 1.02; P = 0.06). Among patients in whom the disease had progressed during previous thalidomide treatment, the median time to progression was 9.5 months in the lenalidomide group and 3.7 months in the placebo group (P&lt;0.001). The median time to progression was 11.3 months among patients who had undergone stem-cell transplantation and 11.4 months among patients who had not undergone stem-cell transplantation. A total of 106 patients (60.2%) in the lenalidomide group and 42 patients (24.0%) in the placebo group had at least a partial response (P&lt;0.001); 28 patients (15.9%) in the lenalidomide group and 6 patients (3.4%) in the placebo group had a complete response (P&lt;0.001) ( <ref type="table" target="#tab_2">Table 2</ref>). The median time to the first response was 2.1 months in the lenalidomide group and 1.6 months in the placebo group. The median time to a complete or near-complete response was 5.1 months in the lenalidomide group and 6.9 months in the placebo group. The median duration of the response was longer in the lenalidomide group (16.5 months) than in the placebo group (7.9 months, P = 0.02).</p><p>The analysis of overall response rates (complete, near-complete, and partial responses) for each stratification group and for patients with and those without previous thalidomide treatment showed a higher response rate among patients receiving lenalidomide in all the subgroups <ref type="table" target="#tab_2">(Table 2</ref>). In the lenalidomide group, the overall response rate was higher in patients who had not received thalidomide than in those who had received thalidomide (65.0% vs. 49.1%, P = 0.07).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Survival</head><p>As of May 2006, 47 patients (26.7%) in the lenalidomide group had died (30 from progressive disease), as had 60 patients (34.3%) in the placebo group (49 from progressive disease). At the time of the last analysis, median overall survival had Panel A shows estimates of the median time to disease progression for the intention-to-treat population (11.3 months in the lenalidomide group and 4.7 months in the placebo group) (P&lt;0.001 by the log-rank test). Panel B shows the median time to disease progression among patients in the two study groups who received thalidomide before study entry and those who did not receive thalidomide (in the lenalidomide group, 13.5 months among patients who did not receive thalidomide and 8.4 months among those who did receive thalidomide; in the placebo group, 4.7 months and 4.6 months, respectively; P&lt;0.001 by the log-rank test for both between-group comparisons of patients who did and those who did not receive thalidomide).</p><p>The New England Journal of Medicine Downloaded from nejm.org at TAKEDA PHARMACEUTICALS GLOBAL on August 24, 2020. For personal use only. No other uses without permission.</p><p>Copyright © 2007 Massachusetts Medical Society. All rights reserved. not been reached in the lenalidomide group and was 20.6 months in the placebo group (hazard ratio for death in the lenalidomide group, 0.66; 95% CI, 0.45 to 0.96; P = 0.03) ( <ref type="figure" target="#fig_1">Fig. 2A)</ref>. Overall survival was also significantly improved in the lenalidomide group among patients who had previously received thalidomide (hazard ratio, 2.07; 95% CI, 1.02 to 4.21; P = 0.04) <ref type="figure" target="#fig_1">(Fig. 2B</ref>).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Adverse Events</head><p>The most frequently reported adverse events were neutropenia, muscle cramps, constipation, nausea, tremor, and dizziness. <ref type="table" target="#tab_3">Table 3</ref> lists all grade 3 or 4 adverse events. Patients in the lenalidomide group had a higher incidence of grade 3 neutropenia (25.0%) than did those in the placebo group (2.3%). However, grade 3 or 4 febrile neutropenia was rare (occurring in 3.4% of the patients in the lenalidomide group and in none of those in the placebo group). Grade 3 or 4 thrombo-cytopenia was twice as frequent in the lenalidomide group as in the placebo group (11.4% vs. 5.7%). The incidence of grade 3 or 4 somnolence, constipation, or peripheral neuropathy (all toxic effects of thalidomide) was less than 10% in the two groups and rarely resulted in a dose reduction.</p><p>Lenalidomide was associated with higher incidences of deep-vein thrombosis (4.0% vs. 3.5%) and pulmonary embolism (4.5% vs. 1.2%) than was placebo. The rate of grade 3 or 4 thromboembolic complications was unrelated to the concomitant administration of erythropoietin. Such events occurred in 3 of 38 patients (7.9%) who received erythropoietin and 17 of 138 patients (12.3%) who did not receive erythropoietin in the lenalidomide group (P = 0.57) and in 3 of 36 patients (8.3%) who received erythropoietin and 5 of 139 patients (3.6%) who did not receive erythropoietin in the placebo group (P = 0.36).</p><p>The proportion of patients who required more * P values were calculated with the use of a continuity-corrected Pearson chi-square test. There was no subgroup-by-treatment interaction for response rates with the use of the Breslow-Day test for homogeneity. † Percentages are for the rate of overall response among patients in selected subgroups of the intention-to-treat population.</p><p>The New England Journal of Medicine Downloaded from nejm.org at TAKEDA PHARMACEUTICALS GLOBAL on August 24, 2020. For personal use only. No other uses without permission.</p><p>Copyright © 2007 Massachusetts Medical Society. All rights reserved.</p><p>than one dose reduction or interruption of lenalidomide or dexamethasone was similar in the two groups. The mean time until the first dose reduction or interruption of a study drug was also similar in the two groups (125 days in the lenalidomide group and 128 days in the placebo group). Dose reduction or interruption because of adverse events was more common in the lenalidomide group (occurring in 76.1% of the patients) than in the placebo group (56.9%, P&lt;0.001).</p><p>There were 11 deaths that were possibly related to a study drug: 5 in the lenalidomide group (1 from cardiac arrest, 1 from pulmonary embolism, 1 from leukoencephalopathy, 1 from pneumonia bacteria, and 1 from sudden death) and 6 in the placebo group (3 from sepsis, 1 from hepatic failure, 1 from a cerebrovascular event, and 1 from gastrointestinal hemorrhage). The primary reason for the discontinuation of treatment in the two groups was disease progression; 31 patients in the two groups (8.8%) discontinued treatment early because of adverse events. Granulocyte colony-stimulating factor was administered if only grade 3 or 4 myelosuppression occurred; with other grade 3 or 4 adverse events, the lenalidomide dose was reduced. In the Panel A shows the estimates of median overall survival for the intention-to-treat population (not yet reached in the lenalidomide group and 20.6 months in the placebo group, P&lt;0.001 by the log-rank test). Panel B shows the median overall survival among patients in the two study groups who received thalidomide before study entry and those who did not receive thalidomide (in the lenalidomide group, the median was not yet reached in either subgroup; in the placebo group, 23.5 months among those who did not receive thalidomide and 18.2 months among those who did receive thalidomide; P = 0.04 by the log-rank test for the between-group comparison of patients who received thalidomide and P = 0.21 for the between-group comparison of patients who did not receive thalidomide).</p><p>The New England Journal of Medicine Downloaded from nejm.org at TAKEDA PHARMACEUTICALS GLOBAL on August 24, 2020. For personal use only. No other uses without permission.</p><p>Copyright © 2007 Massachusetts Medical Society. All rights reserved. † This condition was also described in the following terms: infections not otherwise specified, pneumonia, upper respiratory tract infection, upper respiratory viral infection, sepsis, bacterial infection, urinary tract infection, pharyngitis, nasopharyngitis, febrile neutropenia, oral candidiasis, oral fungal infection, primary atypical pneumonia, fungal sinusitis, herpes simplex, herpes zoster, herpes encephalitis, herpes viral infection, cytomegalovirus pneumonia, and viral infection. ‡ This condition was also described in the following terms: deep-vein thrombosis, pulmonary embolism, pulmonary infarction, thrombosis, phlebothrombosis, thrombophlebitis, superficial thrombophlebitis, venous thrombosis, thromboembolism, splenic-vein thrombosis, phlebitis, and superficial phlebitis.</p><p>The New England Journal of Medicine lenalidomide group, 38 patients (21.6%) received granulocyte colony-stimulating factor during the study. Of these patients, 23 (60.5%) received granulocyte colony-stimulating factor as the first step after having grade 3 or 4 neutropenia to maintain the 25-mg dose level. Among these 23 patients, 12 (52.2%) were able to continue with the 25-mg dose level of lenalidomide from the time of the first episode of grade 3 or 4 neutropenia until the last follow-up visit, as long as that period of time was at least 3 months.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Discussion</head><p>We found that in patients with relapsed or refractory multiple myeloma, lenalidomide plus dexamethasone increased the time to progression, the rate of response (both overall and complete responses), and overall survival, as compared with placebo plus dexamethasone. The median time to progression of 11.3 months and the 60.2% response rate in the lenalidomide group are among the highest values that have been reported in the treatment of relapsed or refractory multiple myeloma. These findings support the early use of lenalidomide in patients with progressive multiple myeloma.</p><p>In addition, nearly one third of patients in our trial had previously received thalidomide. Our data indicate that lenalidomide can be administered to patients who have received previous treatment with thalidomide without deterioration of preexisting thalidomide-related neuropathy; in our study, nearly 50% of such patients had a response to lenalidomide, with a median time to progression of 8.4 months. As compared with patients who had not been exposed to thalidomide, patients who had previously been treated with the drug had received an additional year of treatment and had also received one more previous therapy. Given that current therapy includes thalidomide and dexamethasone, this finding is encouraging for patients with disease that is resistant to thalidomide treatment.</p><p>The primary toxic effects of the lenalidomide regimen were hematologic, and we found them to be manageable with adjustment of the dose of lenalidomide. Neutropenia was managed with dose adjustments, the administration of granulocyte colony-stimulating factor, or both, whereas thromboembolic events were managed with anticoagulants. Lenalidomide was not associated with the peripheral neuropathy that is caused by long-term treatment with thalidomide. In summary, we found that therapy with lena lidomide plus dexamethasone was more effective in patients with relapsed or refractory multiple myeloma than was therapy with placebo plus dexamethasone.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>Figure 1 .</head><label>1</label><figDesc>Kaplan-Meier Curves for the Time to Disease Progression among All Patients and in Subgroups with and without Previous Exposure to Thalidomide.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head>Figure 2 .</head><label>2</label><figDesc>Kaplan-Meier Curves for Overall Survival among All Patients and in Subgroups with and without Previous Exposure to Thalidomide.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head></head><label></label><figDesc>The New England Journal of Medicine Downloaded from nejm.org at TAKEDA PHARMACEUTICALS GLOBAL on August 24, 2020. For personal use only. No other uses without permission.</figDesc><table /><note>Copyright © 2007 Massachusetts Medical Society. All rights reserved.</note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_1"><head>Table 1 . Demographic and Clinical Characteristics of the Patients.* Characteristic Lenalidomide</head><label>1</label><figDesc></figDesc><table><row><cell></cell><cell></cell><cell>Placebo</cell></row><row><cell></cell><cell>(N = 176)</cell><cell>(N = 175)</cell></row><row><cell>Age -yr</cell><cell></cell><cell></cell></row><row><cell>Median</cell><cell>63</cell><cell>64</cell></row><row><cell>Range</cell><cell>33-84</cell><cell>40-82</cell></row><row><cell>Male sex -%</cell><cell>59.1</cell><cell>58.9</cell></row><row><cell>Lytic bone lesions -no. (%)</cell><cell>136 (77.3)</cell><cell>140 (80.0)</cell></row><row><cell>Time since first diagnosis -yr</cell><cell></cell><cell></cell></row><row><cell>Median</cell><cell>3.4</cell><cell>4.0</cell></row><row><cell>Range</cell><cell>0.4-15.7</cell><cell>0.3-26.6</cell></row><row><cell>Durie-Salmon stage -no. (%)</cell><cell></cell><cell></cell></row><row><cell>I</cell><cell>11 (6.2)</cell><cell>8 (4.6)</cell></row><row><cell>II</cell><cell>50 (28.4)</cell><cell>57 (32.6)</cell></row><row><cell>III</cell><cell>115 (65.3)</cell><cell>110 (62.9)</cell></row><row><cell>Eastern Cooperative Oncology Group per-</cell><cell></cell><cell></cell></row><row><cell>formance status -no. (%) †</cell><cell></cell><cell></cell></row><row><cell>0</cell><cell>78 (44.3)</cell><cell>65 (37.1)</cell></row><row><cell>1</cell><cell>72 (40.9)</cell><cell>79 (45.1)</cell></row><row><cell>2</cell><cell>23 (13.1)</cell><cell>27 (15.4)</cell></row><row><cell>3</cell><cell>0</cell><cell>1 (0.6)</cell></row><row><cell>Missing data</cell><cell>3 (1.7)</cell><cell>3 (1.7)</cell></row><row><cell>Previous therapy -no. (%)</cell><cell></cell><cell></cell></row><row><cell>No. of therapies</cell><cell></cell><cell></cell></row><row><cell>1</cell><cell>56 (31.8)</cell><cell>57 (32.6)</cell></row><row><cell>≥2</cell><cell>120 (68.2)</cell><cell>118 (67.4)</cell></row><row><cell>Type of therapy</cell><cell></cell><cell></cell></row><row><cell>Thalidomide</cell><cell>53 (30.1)</cell><cell>67 (38.3)</cell></row><row><cell>Bortezomib</cell><cell>8 (4.5)</cell><cell>7 (4.0)</cell></row><row><cell>Stem-cell transplantation</cell><cell>97 (55.1)</cell><cell>95 (54.3)</cell></row><row><cell>β 2 -microglobulin level -no. (%)</cell><cell></cell><cell></cell></row><row><cell>&lt;2.5 mg per liter</cell><cell>51 (29.0)</cell><cell>48 (27.4)</cell></row><row><cell>≥2.5 mg per liter</cell><cell>125 (71.0)</cell><cell>127 (72.6)</cell></row></table><note>* There were no significant differences between the two groups according to a pooled t-test for continuous variables (age, time from first pathological diagnosis, percent plasma cells) and Fisher's exact test for categorical vari- ables (all other variables in the table) (P&gt;0.05). Percentages may not total 100 because of rounding.† Lower numbers indicate better performance.The New England Journal of Medicine Downloaded from nejm.org at TAKEDA PHARMACEUTICALS GLOBAL on August 24, 2020. For personal use only. No other uses without permission. Copyright © 2007 Massachusetts Medical Society. All rights reserved.</note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_2"><head>Table 2 . Response among Patients in the Intention-to-Treat Population and in Selected Subgroups.*</head><label>2</label><figDesc></figDesc><table><row><cell></cell><cell>Lenalidomide</cell><cell>Placebo</cell><cell></cell></row><row><cell>Variable</cell><cell>(N = 176)</cell><cell>(N = 175)</cell><cell>P Value</cell></row><row><cell>Response in the intention-to-treat population -no. (%)</cell><cell></cell><cell></cell><cell></cell></row><row><cell>Overall response</cell><cell>106 (60.2)</cell><cell>42 (24.0)</cell><cell>&lt;0.001</cell></row><row><cell>Complete response</cell><cell>28 (15.9)</cell><cell>6 (3.4)</cell><cell>&lt;0.001</cell></row><row><cell>Near-complete response</cell><cell>15 (8.5)</cell><cell>3 (1.7)</cell><cell></cell></row><row><cell>Partial response</cell><cell>63 (35.8)</cell><cell>33 (18.9)</cell><cell></cell></row><row><cell>Stable disease</cell><cell>53 (30.1)</cell><cell>97 (55.4)</cell><cell></cell></row><row><cell>Progressive disease</cell><cell>3 (1.7)</cell><cell>25 (14.3)</cell><cell></cell></row><row><cell>Response could not be evaluated</cell><cell>14 (8.0)</cell><cell>11 (6.3)</cell><cell></cell></row><row><cell>Overall response in subgroups -no./total no. (%) †</cell><cell></cell><cell></cell><cell></cell></row><row><cell>Previous exposure to thalidomide</cell><cell></cell><cell></cell><cell></cell></row><row><cell>Yes</cell><cell>26/53 (49.1)</cell><cell>11/67 (16.4)</cell><cell>0.002</cell></row><row><cell>No</cell><cell>80/123 (65.0)</cell><cell>31/108 (28.7)</cell><cell>&lt;0.001</cell></row><row><cell>β 2 -microglobulin -mg per liter</cell><cell></cell><cell></cell><cell></cell></row><row><cell>&lt;2.5</cell><cell>36/51 (70.6)</cell><cell>18/48 (37.5)</cell><cell>&lt;0.001</cell></row><row><cell>≥2.5</cell><cell>70/125 (56.0)</cell><cell>24/127 (18.9)</cell><cell>&lt;0.001</cell></row><row><cell>Previous no. of therapies</cell><cell></cell><cell></cell><cell></cell></row><row><cell>1</cell><cell>37/56 (66.1)</cell><cell>17/57 (29.8)</cell><cell>&lt;0.001</cell></row><row><cell>≥2</cell><cell>69/120 (57.5)</cell><cell>25/118 (21.2)</cell><cell>&lt;0.001</cell></row><row><cell>Previous stem-cell transplantation</cell><cell></cell><cell></cell><cell></cell></row><row><cell>Yes</cell><cell>60/97 (61.9)</cell><cell>27/95 (28.4)</cell><cell>&lt;0.001</cell></row><row><cell>No</cell><cell>46/79 (58.2)</cell><cell>15/80 (18.8)</cell><cell>&lt;0.001</cell></row></table><note></note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_3"><head>Table 3 . Grade 3 and 4 Adverse Events.*</head><label>3</label><figDesc></figDesc><table><row><cell>Event</cell><cell cols="2">Lenalidomide (N = 176)</cell><cell cols="2">Placebo (N = 175)</cell></row><row><cell></cell><cell>Grade 3</cell><cell>Grade 4</cell><cell>Grade 3</cell><cell>Grade 4</cell></row><row><cell></cell><cell></cell><cell cols="2">number (percent)</cell><cell></cell></row><row><cell>Hematologic disorder</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Neutropenia</cell><cell>44 (25.0)</cell><cell>8 (4.5)</cell><cell>4 (2.3)</cell><cell>0</cell></row><row><cell>Anemia</cell><cell>14 (8.0)</cell><cell>1 (0.6)</cell><cell>12 (6.9)</cell><cell>0</cell></row><row><cell>Thrombocytopenia</cell><cell>17 (9.7)</cell><cell>3 (1.7)</cell><cell>7 (4.0)</cell><cell>3 (1.7)</cell></row><row><cell>Febrile neutropenia</cell><cell>5 (2.8)</cell><cell>1 (0.6)</cell><cell>0</cell><cell>0</cell></row><row><cell>Gastrointestinal disorder</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Constipation</cell><cell>3 (1.7)</cell><cell>0</cell><cell>2 (1.1)</cell><cell>0</cell></row><row><cell>Diarrhea</cell><cell>5 (2.8)</cell><cell>0</cell><cell>4 (2.3)</cell><cell>0</cell></row><row><cell>Nausea</cell><cell>2 (1.1)</cell><cell>0</cell><cell>0</cell><cell>0</cell></row><row><cell>General disorder</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Asthenia</cell><cell>11 (6.2)</cell><cell>0</cell><cell>10 (5.7)</cell><cell>0</cell></row><row><cell>Fatigue</cell><cell>11 (6.2)</cell><cell>1 (0.6)</cell><cell>6 (3.4)</cell><cell>0</cell></row><row><cell>Pyrexia</cell><cell>1 (0.6)</cell><cell>0</cell><cell>6 (3.4)</cell><cell>0</cell></row><row><cell>Peripheral edema</cell><cell>2 (1.1)</cell><cell>0</cell><cell>3 (1.7)</cell><cell>0</cell></row><row><cell>Infection</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Upper respiratory infection</cell><cell>3 (1.7)</cell><cell>0</cell><cell>0</cell><cell>0</cell></row><row><cell>All other infection †</cell><cell>15 (8.5)</cell><cell>2 (1.1)</cell><cell>9 (5.1)</cell><cell>2 (1.1)</cell></row><row><cell>Weight loss</cell><cell>3 (1.7)</cell><cell>0</cell><cell>1 (0.6)</cell><cell>0</cell></row><row><cell>Musculoskeletal or connective-tissue disorder</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Muscle cramp</cell><cell>1 (0.6)</cell><cell>0</cell><cell>0</cell><cell>0</cell></row><row><cell>Back pain</cell><cell>4 (2.3)</cell><cell>0</cell><cell>3 (1.7)</cell><cell>0</cell></row><row><cell>Bone pain</cell><cell>5 (2.8)</cell><cell>0</cell><cell>3 (1.7)</cell><cell>0</cell></row><row><cell>Muscle weakness</cell><cell>13 (7.4)</cell><cell>0</cell><cell>8 (4.6)</cell><cell>0</cell></row><row><cell>Arthralgia</cell><cell>1 (0.6)</cell><cell>0</cell><cell>3 (1.7)</cell><cell>0</cell></row><row><cell>Neurologic disorder</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Headache</cell><cell>1 (0.6)</cell><cell>0</cell><cell>1 (0.6)</cell><cell>0</cell></row><row><cell>Tremor</cell><cell>2 (1.1)</cell><cell>0</cell><cell>2 (1.1)</cell><cell>0</cell></row><row><cell>Dizziness</cell><cell>1 (0.6)</cell><cell>0</cell><cell>1 (0.6)</cell><cell>0</cell></row><row><cell>Paresthesia</cell><cell>1 (0.6)</cell><cell>0</cell><cell>0</cell><cell>0</cell></row><row><cell>Insomnia</cell><cell>2 (1.1)</cell><cell>0</cell><cell>1 (0.6)</cell><cell>0</cell></row><row><cell>Respiratory, thoracic, or mediastinal disorder</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Cough</cell><cell>2 (1.1)</cell><cell>0</cell><cell>1 (0.6)</cell><cell>0</cell></row><row><cell>Nasopharyngitis</cell><cell>1 (0.6)</cell><cell>0</cell><cell>0</cell><cell>0</cell></row><row><cell>Dyspnea</cell><cell>4 (2.3)</cell><cell>1 (0.6)</cell><cell>2 (1.1)</cell><cell>1 (0.6)</cell></row><row><cell>Vascular disorder</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Deep-vein thrombosis</cell><cell>6 (3.4)</cell><cell>1 (0.6)</cell><cell>5 (2.9)</cell><cell>1 (0.6)</cell></row><row><cell>Pulmonary embolism</cell><cell>2 (1.1)</cell><cell>6 (3.4)</cell><cell>1 (0.6)</cell><cell>1 (0.6)</cell></row><row><cell>Venous thromboembolism ‡</cell><cell>13 (7.4)</cell><cell>7 (4.0)</cell><cell>6 (3.5)</cell><cell>2 (1.1)</cell></row><row><cell cols="5">* Listed are data that were available on December 31, 2005. Percentages may not total 100 because of rounding.</cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row></table><note></note></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot">The New England Journal of Medicine Downloaded from nejm.org at TAKEDA PHARMACEUTICALS GLOBAL on August 24, 2020. For personal use only. No other uses without permission.Copyright © 2007 Massachusetts Medical Society. All rights reserved.n engl j med 357;21 www.nejm.org november 22, 2007</note>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Supported by Celgene. Drs. Dimopoulos, Harousseau, and San Miguel report receiving consulting and lecture fees from Celgene; Drs. Prince, Hellmann, and Facon, receiving consulting fees from Celgene; and Drs. Yu, Patin, Zeldis, and Knight, being employees of and holding equity in Celgene. No other potential conflict of interest relevant to this article was reported.</p><p>We thank all the patients who participated in this trial, along with the nurses, the study contributors, and the investigators who recruited patients.</p></div>
+			</div>
+
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Appendix</head><p>In addition to the authors, the following investigators (listed according to city and country) participated in the study: Austria -H. Ludwig (Vienna); Australia -J. Catalano (Frankston), J. Szer (Melbourne), K. Taylor (Brisbane), P. Wood </p></div>			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Cancer incidence and 1. mortality in Europe</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><surname>Boyle</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Ferlay</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ann Oncol</title>
+		<imprint>
+			<biblScope unit="volume">16</biblScope>
+			<biblScope unit="page" from="481" to="489" />
+			<date type="published" when="2004" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<monogr>
+		<title/>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Hideshima</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><forename type="middle">C</forename><surname>Anderson</surname></persName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">lar mechanisms of novel therapeutic approaches for multiple myeloma</title>
+	</analytic>
+	<monogr>
+		<title level="j">Nat Rev Cancer</title>
+		<imprint>
+			<biblScope unit="volume">2</biblScope>
+			<biblScope unit="page" from="927" to="964" />
+			<date type="published" when="2002" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<monogr>
+		<title/>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Singhal</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Mehta</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><surname>Desikan</surname></persName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Antitumor activity of thalidomide in refractory multiple myeloma</title>
+	</analytic>
+	<monogr>
+		<title level="j">N Engl J Med</title>
+		<imprint>
+			<biblScope unit="volume">341</biblScope>
+			<biblScope unit="page">364</biblScope>
+			<date type="published" when="1999" />
+		</imprint>
+	</monogr>
+	<note>N Engl J Med</note>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<monogr>
+		<title/>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Hideshima</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><surname>Chauhan</surname></persName>
+		</author>
+		<imprint>
+			<pubPlace>Shima Y, et</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Thalidomide and its analogs overcome drug resistance of human multiple myeloma cells to conventional therapy</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Al</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Blood</title>
+		<imprint>
+			<biblScope unit="volume">96</biblScope>
+			<biblScope unit="page" from="2943" to="50" />
+			<date type="published" when="2000" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<monogr>
+		<title/>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">A</forename><surname>Dimopoulos</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><surname>Zervas</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">-</forename><surname>Kouvat</surname></persName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Thalidomide and dexamethasone combination for refractory multiple myeloma</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">G</forename><surname>Seas</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ann Oncol</title>
+		<imprint>
+			<biblScope unit="volume">12</biblScope>
+			<biblScope unit="page" from="991" to="996" />
+			<date type="published" when="2001" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<monogr>
+		<title level="m" type="main">Lenalidomide for Relapsed or Refr actory Myeloma Garcia-Sanz R</title>
+		<imprint>
+			<pubPlace>González-Porras JR</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">The oral combination of thalidomide, cyclophosphamide and dexamethasone (ThaCyDex) is effective in relapsed/refractory multiple myeloma</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">M</forename><surname>Hernández</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Leukemia</title>
+		<imprint>
+			<biblScope unit="volume">18</biblScope>
+			<biblScope unit="page" from="856" to="63" />
+			<date type="published" when="2004" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title/>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Kumar</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><forename type="middle">C</forename><surname>Anderson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Drug insight</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">thalidomide as a treatment for multiple myeloma</title>
+	</analytic>
+	<monogr>
+		<title level="j">Nat Clin Pract Oncol</title>
+		<imprint>
+			<biblScope unit="volume">2</biblScope>
+			<biblScope unit="page" from="262" to="70" />
+			<date type="published" when="2005" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Adverse effects of thalidomide administration in patients with neoplastic diseases</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">V</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Am J Med</title>
+		<imprint>
+			<biblScope unit="volume">117</biblScope>
+			<biblScope unit="page" from="508" to="523" />
+			<date type="published" when="2004" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<monogr>
+		<title/>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">B</forename><surname>Marriott</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">I</forename><forename type="middle">A</forename><surname>Clarke</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><surname>Dredge</surname></persName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Thalidomide and its analogues have distinct and opposing effects on TNF-alpha and TNFR2 during costimulation of both CD4(+) and CD8(+) T cells</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">G</forename><surname>Muller</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><surname>Stirling</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><forename type="middle">G</forename><surname>Dalgleish</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Clin Exp Immunol</title>
+		<imprint>
+			<biblScope unit="volume">130</biblScope>
+			<biblScope unit="page" from="75" to="84" />
+			<date type="published" when="2002" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<monogr>
+		<title/>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><forename type="middle">G</forename><surname>Richardson</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><forename type="middle">L</forename><surname>Schlossman</surname></persName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Immunomodulatory drug CC-5013 overcomes drug resistance and is well tolerated in patients with relapsed multiple myeloma</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><surname>Weller</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Blood</title>
+		<imprint>
+			<biblScope unit="volume">100</biblScope>
+			<biblScope unit="page">3063</biblScope>
+			<date type="published" when="2002" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<monogr>
+		<title/>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><forename type="middle">G</forename><surname>Richardson</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><surname>Blood</surname></persName>
+		</author>
+		<imprint>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">A randomized phase 2 study of lenalidomide therapy for patients with relapsed or relapsed and refractory multiple myeloma</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Cs</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Blood</title>
+		<imprint>
+			<biblScope unit="volume">108</biblScope>
+			<biblScope unit="page" from="3458" to="64" />
+			<date type="published" when="2006" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<monogr>
+		<title/>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Bladé</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><surname>Samson</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><surname>Reece</surname></persName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title/>
+	</analytic>
+	<monogr>
+		<title level="j">Br J Haematol</title>
+		<imprint>
+			<biblScope unit="volume">102</biblScope>
+			<biblScope unit="page" from="1115" to="1138" />
+			<date type="published" when="1998" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

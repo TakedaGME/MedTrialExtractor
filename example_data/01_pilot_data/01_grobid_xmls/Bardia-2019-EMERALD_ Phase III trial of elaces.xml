@@ -1,0 +1,917 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /data/rsg/nlp/juanmoo1/bin/grobid-0.6.1/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">EMERALD: Phase III trial of elacestrant (RAD1901) vs endocrine therapy for previously treated ER+ advanced breast cancer</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+				<date type="published" when="2019-08-20">20 August 2019</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Aditya</forename><surname>Bardia</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Departments of Medicine and Hematology/Oncology</orgName>
+								<orgName type="institution">Massachusetts General Hospital Cancer Center</orgName>
+								<address>
+									<addrLine>55 Fruit Street Boston</addrLine>
+									<postCode>02114-3411</postCode>
+									<region>MA</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Philippe</forename><surname>Aftimos</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="department">Clinical Trials Conduct Unit</orgName>
+								<orgName type="institution" key="instit1">Institut Jules Bordet</orgName>
+								<orgName type="institution" key="instit2">Université Libre de Bruxelles</orgName>
+								<address>
+									<addrLine>Rue Heger-Bordet1</addrLine>
+									<postCode>1000</postCode>
+									<settlement>Brussels</settlement>
+									<country key="BE">Belgium</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Teeru</forename><surname>Bihani</surname></persName>
+							<affiliation key="aff2">
+								<orgName type="institution">Radius Health, Inc</orgName>
+								<address>
+									<addrLine>950 Winter Street Waltham</addrLine>
+									<postCode>02451</postCode>
+									<region>MA</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Alfred</forename><forename type="middle">T</forename><surname>Anderson-Villaluz</surname></persName>
+							<affiliation key="aff2">
+								<orgName type="institution">Radius Health, Inc</orgName>
+								<address>
+									<addrLine>950 Winter Street Waltham</addrLine>
+									<postCode>02451</postCode>
+									<region>MA</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Jungah</forename><surname>Jung</surname></persName>
+							<affiliation key="aff2">
+								<orgName type="institution">Radius Health, Inc</orgName>
+								<address>
+									<addrLine>950 Winter Street Waltham</addrLine>
+									<postCode>02451</postCode>
+									<region>MA</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author role="corresp">
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Maureen</forename><forename type="middle">G</forename><surname>Conlan</surname></persName>
+							<email>mconlan@radiuspharm.com</email>
+							<affiliation key="aff2">
+								<orgName type="institution">Radius Health, Inc</orgName>
+								<address>
+									<addrLine>950 Winter Street Waltham</addrLine>
+									<postCode>02451</postCode>
+									<region>MA</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Virginia</forename><forename type="middle">G</forename><surname>Kaklamani</surname></persName>
+							<affiliation key="aff3">
+								<orgName type="department">Division of Hematology/Oncology</orgName>
+								<orgName type="institution">UT Health San Antonio MD Anderson Cancer Center</orgName>
+								<address>
+									<addrLine>7979 Wurzbach Road, San Antonio</addrLine>
+									<postCode>78229</postCode>
+									<region>TX</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">EMERALD: Phase III trial of elacestrant (RAD1901) vs endocrine therapy for previously treated ER+ advanced breast cancer</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date type="published" when="2019-08-20">20 August 2019</date>
+						</imprint>
+					</monogr>
+					<idno type="DOI">10.2217/fon-2019-0370</idno>
+					<note type="submission">First draft submitted: 27 June 2019; Accepted for publication: 24 July 2019;</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.6.1" ident="GROBID" when="2020-10-09T18:38+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>aromatase inhibitor</term>
+					<term>breast cancer</term>
+					<term>elacestrant</term>
+					<term>endocrine therapy</term>
+					<term>ESR1 mutation</term>
+					<term>estrogen receptor (ER)-positive</term>
+					<term>fulvestrant</term>
+					<term>RAD1901</term>
+					<term>selective estrogen receptor degrader (SERD)</term>
+				</keywords>
+			</textClass>
+			<abstract>
+				<p>Elacestrant is a novel, nonsteroidal, orally bioavailable selective estrogen receptor degrader (SERD) that has demonstrated activity in patients with estrogen receptor (ER)-positive/HER2-negative breast cancer previously treated with endocrine therapies including fulvestrant and/or CDK 4/6 inhibitor therapy, and in those with ESR1 mutations (ESR1-mut) known to confer endocrine resistance. Herein, we describe the design and methodology of EMERALD, an international, multicenter, randomized, open-label, activecontrolled, Phase III clinical study comparing the efficacy and safety of elacestrant to standard-of-care endocrine monotherapy treatment (fulvestrant or an aromatase inhibitor, per investigator&apos;s choice) in patients with ER-positive/HER2-negative advanced breast cancer. Primary end points are progression-free survival in ESR1-mut patients and in all patients (NCT03778931; EudraCT 2018-002990-24).</p>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Breast cancer continues to be the leading malignancy among women with over 260,000 cases diagnosed annually in the USA and 2.1 million cases globally <ref type="bibr" target="#b0">[1,</ref><ref type="bibr" target="#b1">2]</ref>. Approximately 75% of all breast cancers are estrogen receptor (ER)-positive and HER2-negative (ER+/HER2-) <ref type="bibr" target="#b2">[3]</ref>. Among postmenopausal women with locally advanced or metastatic ER+/HER2-breast cancer, endocrine therapy remains the cornerstone of treatment <ref type="bibr" target="#b3">[4]</ref><ref type="bibr" target="#b4">[5]</ref><ref type="bibr" target="#b5">[6]</ref>.</p><p>Endocrine therapy regimens most commonly consist of an agent targeting peripheral estrogen production or the ER itself <ref type="bibr" target="#b3">[4,</ref><ref type="bibr" target="#b4">5]</ref>. Aromatase inhibitors (AI; e.g., letrozole, anastrozole and exemestane) decrease peripheral estrogen synthesis through inhibition of aromatase, the enzyme that catalyzes the conversion of androgens to estrogens <ref type="bibr" target="#b6">[7,</ref><ref type="bibr" target="#b7">8]</ref>. Agents that target the ER directly include selective ER modulators (SERMs; e.g., tamoxifen and toremifene) and selective ER degraders (SERDs; e.g., fulvestrant). SERMs reduce ER activity through competitive ER blockade and effects on ER transcriptional machinery <ref type="bibr" target="#b7">[8,</ref><ref type="bibr" target="#b8">9]</ref>. SERDs inhibit the ER by creating an unstable SERD-ER protein complex that can be targeted for degradation via proteasome degradation pathways <ref type="bibr" target="#b9">[10]</ref>. Currently, fulvestrant is the only marketed SERD.</p><p>Endocrine resistance in advanced ER+ breast cancers remains a clinical challenge. Recent advancements have demonstrated emergence of acquired mutations following AI therapy in the ligand-binding domain of estrogen receptor gene α (ESR1), which encodes the ER <ref type="bibr" target="#b10">[11]</ref>. These mutations can lead to ligand (estrogen)-independent ER activation. The activity of fulvestrant or AIs in the context of ESR1 mutation (ESR1-mut) has not been fully characterized due to limited and retrospective-only data sets. In a prespecified retrospective analysis of the Phase III SoFEA and PALOMA-3 trials, following AI therapy fulvestrant demonstrated a similar level of activity regardless of patients' tumor ESR1 mutational status <ref type="bibr" target="#b10">[11]</ref>. However, in patients having received multiple lines of prior endocrine therapy for ER+ advanced breast cancer, the objective response rate (ORR) observed with fulvestrant is generally ≤10% <ref type="bibr" target="#b11">[12]</ref><ref type="bibr" target="#b12">[13]</ref><ref type="bibr" target="#b13">[14]</ref>, and recent data examining the ESR1 status of fulvestrant-treated patients in the PALOMA-3 trial demonstrated the selection of the Y537S ESR1-mut after treatment <ref type="bibr" target="#b14">[15]</ref>. These data, along with fulvestrant's low oral bioavailability requiring intramuscular administration, suggest the need for an oral SERD with improved properties.</p><p>In addition to endocrine therapies, newer targeted agents, such as CDK 4/6 inhibitors (e.g., palbociclib, abemaciclib and ribociclib), can inhibit pathways related to cellular proliferation in ER+ breast cancer. Combinations of CDK4/6 inhibitors and endocrine therapies (AI or fulvestrant) have been recently shown to delay breast cancer progression beyond that achieved with endocrine monotherapy, forming the basis of these combinations as standardof-care (SoC) first-line regimens <ref type="bibr" target="#b15">[16]</ref><ref type="bibr" target="#b16">[17]</ref><ref type="bibr" target="#b17">[18]</ref>. While these combination regimens significantly increase progression-free survival (PFS), patients eventually relapse and will require additional therapies in the second-line and beyond setting. As such, development of novel SERDs with oral administration, improved bioavailability and the potential ability to overcome acquired resistance are of interest for patients with breast cancer.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Elacestrant</head><p>Elacestrant is a novel, nonsteroidal, orally bioavailable SERD ( <ref type="figure" target="#fig_0">Figure 1</ref>) that has demonstrated dose-dependent ER degradation and inhibition of estradiol-dependent induction of ER target gene transcription and cell proliferation in multiple ER+ breast cancer cell lines <ref type="bibr" target="#b18">[19]</ref><ref type="bibr" target="#b20">[20]</ref><ref type="bibr" target="#b22">[21]</ref>. In the in vivo setting, elacestrant inhibited estradiol-stimulated tumor growth in the ER+ MCF-7 cell line xenograft model, as well as multiple patient-derived xenograft models derived from heavily-pretreated patients <ref type="bibr" target="#b18">[19]</ref><ref type="bibr" target="#b20">[20]</ref><ref type="bibr" target="#b22">[21]</ref>. Finally, elacestrant demonstrated antitumor activity in models resistant to CDK4/6 inhibitors and fulvestrant, including those harboring the commonly detected ESR1 mutations Y537S and D538G <ref type="bibr" target="#b18">[19,</ref><ref type="bibr" target="#b23">22,</ref><ref type="bibr" target="#b24">23]</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>The EMERALD trial</head><p>Herein, we describe the design and methodology of the EMERALD trial, an international, multicenter, randomized, open-label, active-controlled, Phase III clinical study comparing the efficacy and safety of elacestrant to the SoC endocrine treatment options of either fulvestrant or an AI in men and postmenopausal women with ER+/HER2advanced or metastatic breast cancer with or without ESR1 mutations (NCT03778931; EudraCT 2018-002990-24).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Background &amp; rationale</head><p>The development of resistance to fulvestrant, AIs and CDK4/6 inhibitors demonstrates a significant unmet medical need for a potent oral agent to treat ER+/HER2-advanced breast cancer. In early clinical trials, elacestrant demonstrated antitumor activity in patients with ER+ breast cancer that was heavily pretreated, including those whose tumors harbored ESR1-mut. Preliminary analysis of a Phase I trial (RAD1901-005) demonstrated antitumor activity of elacestrant 400 mg once daily in 40 heavily pretreated patients with ER+/HER2-advanced/metastatic breast cancer who had received a median of three prior therapies, including prior treatment with a CDK4/6 inhibitor (n = 16; 40%), and ESR1-mut detected by circulating tumor DNA (ctDNA; n = 20; 50%) <ref type="bibr" target="#b27">[25]</ref>. The overall response rate was 27.3% in 22 patients evaluable for response, and median PFS was 5.4 months, which compares favorably to response rates of ≤10% and median PFS of approximately 5 months with standard endocrine monotherapies given in earlier lines of therapy (i.e., second or third line) in patients with ER+/HER2-advanced or metastatic breast cancer <ref type="bibr" target="#b11">[12]</ref><ref type="bibr" target="#b12">[13]</ref><ref type="bibr" target="#b13">[14]</ref><ref type="bibr" target="#b29">26]</ref>. Furthermore, responses or clinical benefit with elacestrant was observed in patients with prior CDK4/6 inhibitor therapy, and in patients with ESR1-mut tumors as well as those with ESR1 mutation not detected (ESR1-mut-nd; includes ESR1 wild-type as well as mutations below limit of detection of the Adapted with permission from <ref type="bibr" target="#b26">[24]</ref>. assay) <ref type="bibr" target="#b27">[25]</ref>. Grade 1-2 nausea (43%) was the only adverse event reported in ≥20% patients treated with elacestrant 400 mg tablet daily.</p><p>Based on these promising Phase I data, the EMERALD study was designed to evaluate safety and efficacy of elacestrant in patients who have progressed following first-or second-line treatment with a CDK4/6 inhibitor/endocrine therapy combination regimen, and to further assess efficacy in patients who have developed ESR1 mutations, as well as the overall population.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Design</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Study design</head><p>This trial consists of a screening phase, active treatment phase ( <ref type="figure">Figure 2</ref>) and a follow-up phase including safety and survival follow-up periods. The EMERALD study protocol and relevant supplementary information will be approved by the institutional review board at each participating site. The trial is performed in accordance with ethical principles that have their origin in the Declaration of Helsinki and are consistent with International Council of Harmonisation/Good Clinical Practice and applicable regulatory requirements. Written informed consent will be obtained from each trial participant.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Eligibility criteria</head><p>Eligible patients will meet the following key inclusion criteria: men and postmenopausal women ≥18 years old with a histologically or cytologically proven diagnosis of ER+/HER2-adenocarcinoma of the breast with evidence of locoregionally recurrent or metastatic disease. Postmenopausal is defined as: documented bilateral surgical oophorectomy; age ≥60 years with amenorrhea ≥1 year since last menses; age &lt;60 years with amenorrhea ≥1 year since last menses with no alternative pathological or physiological cause (including ongoing or recent chemotherapy, treatment with tamoxifen or toremifene, or a gonadotropin-releasing hormone agonist), and serum estradiol and follicle stimulating hormone (FSH) level within the laboratory reference range for postmenopausal women; or age &lt;60 years with tamoxifen or toremifene therapy within the last 12 months, with documentation of 12 months of amenorrhea prior to tamoxifen or toremifene therapy and serum estradiol and FSH levels within the laboratory reference range for postmenopausal women. The breast cancer must have progressed during or within 28 days after treatment with at least one and no more than two prior lines of endocrine therapy for advanced or metastatic disease. Prior therapy must have included a CDK4/6 inhibitor in combination with an AI or fulvestrant. No more than one chemotherapeutic regimen in the advanced/metastatic setting is allowed. Patients must have measurable disease per response evaluation criteria in solid tumors (RECIST) v1.1 <ref type="bibr" target="#b30">[27]</ref> or evaluable bone-only disease, Eastern Cooperative Oncology Group performance status 0-1 and adequate organ function. Hormonal monotherapy with one of the SoC drugs (fulvestrant, anastrozole, letrozole and exemestane) must be an appropriate treatment option.</p><p>ER+ and HER2-status are to be confirmed per local laboratory testing. ER-positivity is defined as ≥1% staining by immunohistochemistry (IHC) <ref type="bibr" target="#b31">[28]</ref>, with or without progesterone receptor positivity. HER2-negativity is defined as an immunohistochemistry result of 0 or 1+ for cellular membrane protein expression or an in situ hybridization negative result, as per American Society of Clinical Oncology/College of American Pathologists guidelines <ref type="bibr" target="#b32">[29]</ref>.</p><p>Key exclusion criteria include presence of symptomatic metastatic visceral disease; history of endometrial intraepithelial neoplasia (in patients with an intact uterus); other malignancy within 5 years before enrollment, except for adequately treated basal cell or squamous cell skin cancer, or carcinoma in situ of the cervix; and any of the following within 6 months prior to enrollment: myocardial infarction, severe/unstable angina, ongoing grade ≥2 cardiac dysrhythmias, prolonged QT corrected by Fridericia's formula (QTcF) grade ≥2, uncontrolled atrial fibrillation of any grade, coronary/peripheral artery bypass graft, heart failure of New York Heart Association Class II or greater, cerebrovascular accident including transient ischemic attack and coagulopathy (thrombosis).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Planned sample size</head><p>Among all patients (ESR1-mut and ESR1-mut-nd), a total of approximately 340 PFS events will provide 92% power to detect a hazard ratio (HR) of 0.667 at the two-sided α level of 2.5%. Among ESR1-mut patients, approximately 160 PFS events are required for 80% power to detect a HR of 0.610 at the two-sided α level of 2.5%. The two-sided α level of 2.5% is selected to ensure that at least one of the two primary efficacy end points will pass the Hochberg procedure to control the overall α level at 5.0%. This study will need to randomize approximately 220 ESR1-mut patients (n = 110/treatment group) and approximately 466 patients total (ESR1-mut and ESR1-mut-nd; n = 233/treatment group) in a 1:1 ratio to the two treatment groups.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Planned study period</head><p>This study is event-driven. Final analysis of the primary end points will be performed after approximately 160 PFS events have occurred among the ESR1-mut patients and 340 PFS events have occurred among the total population, estimated to occur at 30-33 months after the first patient is randomized. The study will be completed when approximately 50% of patients have died. However, patients will be provided with study treatment, if still on active treatment, until all patients discontinue study participation or elacestrant is approved for marketing in a patient's country, at which time the study may be closed for patient participation.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Study procedures</head><p>Patients will be randomized 1:1 to elacestrant or SoC. Randomization will be stratified by ESR1 mutational status detected in ctDNA (ESR1-mut vs ESR1-mut-nd), prior treatment with fulvestrant (yes vs no), and presence of visceral metastases (yes vs no). Study sites are requested to collect ctDNA samples immediately after obtaining informed consent to ensure that samples are analyzed as soon as possible while other eligibility criteria are confirmed. The projected turnaround time is 7-14 days, allowing ample time for analysis within the 35-day screening period. Patients randomized to elacestrant will receive 400 mg orally once daily. Elacestrant may be dose-reduced to 300 mg daily or 200 mg daily for toxicity. Patients randomized to SoC will receive monotherapy with fulvestrant, anastrozole, letrozole or exemestane per the investigator's choice and dosed according to the product labeling.</p><p>At screening, patients will provide medical history and undergo physical exam, including vital signs and 12lead ECG, and will provide blood samples for hematology, chemistry, coagulation parameters and ctDNA. Blood samples will be analyzed at a central laboratory for ctDNA to determine ESR1 mutational status. Tumor assessments will be performed via computed tomography/MRI (CT/MRI) unless performed within 28 days of randomization and radionuclide bone scan or whole-body MRI unless performed within the prior 12 weeks.</p><p>During treatment, vital signs, ECG, hematology, chemistry and coagulation parameters will be obtained predose on day 1 and 15 of cycle 1, day 1 of each remaining cycle, and at end of treatment. For patients receiving elacestrant, additional postdose blood pressure and ECG measurements will be taken on days 1 and 15 of cycle 1 when pharmacokinetic samples are obtained.</p><p>Following randomization, tumor assessments via CT/MRI will be performed every 8 weeks (±7 days) during treatment (and in the follow-up period for patients who have discontinued study drug for reasons other than progressive disease and have not yet started new anticancer therapy). Complete responses (CR) or partial responses are to be confirmed at least 4 weeks after the first documented response. For patients with bone metastases at baseline, radionuclide bone scan or whole-body MRI is to be performed every 24 weeks from randomization, at end of treatment, and every 24 weeks during follow-up. Abnormalities will be confirmed with CT scan with bone windows or MRI of bone lesions. Bone scan or whole-body MRI will also be performed to confirm CR.</p><p>For patients receiving elacestrant, pharmacokinetic samples will be taken predose and 4 hours postdose on days 1 and 15 of cycle 1; an additional predose sample will be taken on day 1 of cycle 2.</p><p>For patients who consent, optional tumor biopsies will be performed pretreatment, ontreatment and at end of treatment. Biopsies will be used for retrospective pharmacodynamic analysis of ER and other oncogenic pathway markers and proliferation markers.</p><p>The patient-reported outcomes questionnaires, Euro-Qol-5 Dimension-5 Level (EQ-5D-5L), European Organisation for the Treatment of Cancer (EORTC) Quality of Life Questionnaire C30 (QLQ-C30) and Patient-Reported Outcomes version of the Common Terminology Criteria for Adverse Events (PRO-CTCAE), are to be completed by the patient at the study site on day 1 of each cycle, day 15 of cycle 1, at the end of treatment and at the safety follow-up visit (if visit occurs in person).</p><p>Adverse events will be collected throughout the study until 30 days after the last study drug dose. Adverse event severity will be assessed using the National Cancer Institute CTCAE Version 5.0.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Outcome measures</head><p>The primary end points of the EMERALD study are blinded imaging review committee (IRC)-assessed PFS in patients with tumors harboring ESR1-mut and in all patients (ESR1-mut and ESR1-mut-nd). Key secondary end points are overall survival (OS) in ESR1-mut patients and in all patients. Other secondary end points analyzed in ESR1-mut and all patients are IRC-assessed ORR, duration of response and clinical benefit rate (defined as the percentage of patients who have achieved either a confirmed CR or partial response, or stable disease [SD] at ≥24 weeks from randomization); investigator-assessed PFS, ORR, duration of response and clinical benefit rate; safety and tolerability; elacestrant pharmacokinetics; and PRO measures.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Statistics</head><p>PFS and OS analyses will be performed based on the intention-to-treat population using standard Kaplan-Meier methods. The Cox regression model, including treatment and the stratification factors, will be used to estimate the HR and 95% CI for the difference between treatment groups in PFS and OS. The two primary end points will be evaluated using the Hochberg procedure to maintain the overall two-sided α level at 5.0% as follows: the p-value for each of the two primary end points will be derived without any adjustment; these two p-values will be sorted based on size of p-value; if the larger p-value is &lt;0.05, statistical significance will be claimed for both end points; if the larger p-value is ≥0.05 and the smaller p-value is &lt;0.025, statistical significance will be claimed only for the end point associated with smaller p-value; if the larger p-value is ≥0.05 and the smaller p-value is ≥0.025, no statistical significance will be claimed. Unless otherwise specified, analyses of all other efficacy end points will be performed at the two-sided α level of 5% without adjustment for p-values. To differentiate the benefit of elacestrant for second-line and third-line therapy, subgroup analyses of the primary and key secondary end points for ESR1-mut and all patients (ESR1-mut and ESR1-mut-nd) by the number of lines of the prior therapy will be performed.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Conclusion</head><p>The EMERALD study is a pivotal Phase III registration trial evaluating the safety and efficacy of elacestrant, an investigational oral SERD, for treatment of men or postmenopausal women with ER+/HER2-advanced or metastatic breast cancer who have progressed following one or two prior lines of endocrine therapy and CDK4/6 inhibitor therapy in combination with an AI or fulvestrant for advanced or metastatic disease. This trial is the first prospective study to evaluate the efficacy of any agent versus SoC in patients with ESR1 mutations. Results from this study may provide a new treatment option for management of endocrine-resistant ER+ advanced or metastatic breast cancer.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Future perspective</head><p>If the EMERALD trial demonstrates safety and efficacy of elacestrant in the setting of previously treated endocrineresistant advanced or metastatic breast cancer, future studies are warranted to evaluate elacestrant in earlier lines of therapy and early breast cancer. The potential role of a novel SERD such as elacestrant in earlier advanced or metastatic disease, or in the (neo)adjuvant curative setting would be of great interest. Additionally, the potential benefit of combining elacestrant with other active agents in ER-positive breast cancer, such as CDK4/6 inhibitors, mammalian target of rapamycin inhibitors or phosphoinositide 3-kinase inhibitors should be evaluated.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Supplementary data</head><p>An infographic accompanies this paper at the end of the references section. To download the infographic that accompanies this paper, please visit the journal website at: www.futuremedicine.com/doi/full/10.2217/fon-2019-0370</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Author contributions</head><p>Radius Health (T Bihani, AT Anderson-Villaluz, J Jung, MG Conlan) designed the trial in collaboration with clinical and academic investigators (A Bardia, P Aftimos and VG Kaklamani). A Bardia, P Aftimos and VG Kaklamani are Study Steering Committee members and clinical site investigators for this trial. J Jung developed the statistical plan for the trial. This manuscript was principally written by A Bardia with assistance from MG Conlan and J Jung, and was critically reviewed, edited and approved by all authors.</p><p>has received personal fees from Novartis, Pfizer, Genentech, Genomic Health, Puma, Celgene, Celldex, AstraZeneca and Amgen; personal fees and grant funding from Eisai; and nonfinancial support from Athenex. T Bihani, AT Anderson-Villaluz, J Jung and MG Conlan are employees and shareholders of Radius Health, Inc. Financial support for this work was provided by Radius Health, Inc. The authors have no other relevant affiliations or financial involvement with any organization or entity with a financial interest in or financial conflict with the subject matter or materials discussed in the manuscript apart from those disclosed.</p><p>Writing and editorial assistance was provided by Phillips Gilmore Oncology Communications. Financial support for writing and editorial services was provided by Radius Health, Inc.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Ethical conduct of research</head><p>Investigators are obtaining the appropriate institutional review board approval and will follow the principles outlined in the Declaration of Helsinki. In addition, informed consent will be obtained from the participants involved. 28 days after the end of treatment with at least one and no more than two prior lines of endocrine therapy for advanced or metastatic disease. Prior therapy must have included a CDK4/6 inhibitor in combination with an aromatase inhibitor or fulvestrant. No more than one chemotherapeutic regimen in the metastatic setting is allowed. • Primary end points are blinded imaging review committee-assessed progression-free survival in patients with ESR1-mut tumors and in all patients. Key secondary end points are overall survival in patients with ESR1-mut tumors and in all patients.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Conclusion</head><p>• Results from this study will help establish the potential role of this investigational oral SERD in the management of endocrine-resistant ER+ advanced breast cancer and assess its activity in patients with tumors harboring ESR1 mutations.</p><p>future science group www.futuremedicine.com Tumor assessments via CT/MRI of chest, abdomen, pelvis, and clinically indicated sites of disease will be performed every 8 weeks and evaluated according to RECIST v1.1. For patients with bone lesions identified at baseline, a radionuclide bone scan or whole body MRI us to be performed every 24 weeks. Elacestrant plasma concentrations will be analyzed and ctDNA analysis will be performed. Patient-reported outcomes will be evaluated. </p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>Figure 1 .</head><label>1</label><figDesc>Elacestrant mechanism of action. ER: Estrogen receptor; SERD: Selective estrogen receptor degrader; SERM: Selective estrogen receptor modulator.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head></head><label></label><figDesc>Open accessThis work is licensed under the Attribution-NonCommercial-NoDerivatives 4.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-nc-nd/4.0/Executive summaryBackground • Approximately 75% of breast cancers are estrogen receptor ER+/HER2-. Among postmenopausal women with advanced or metastatic ER+/HER2-breast cancer, endocrine therapy remains the cornerstone of treatment. • Despite recent development of targeted agents that augment endocrine therapy efficacy and mitigate endocrine resistance, eventual treatment failure remains a challenge and new agents to overcome endocrine resistance are needed. Endocrine resistance may be due to estrogen receptor gene α (ESR1) mutations. • Among current endocrine therapies, selective estrogen receptor degraders (SERDs) promote proteasome-induced degradation of the ER. Fulvestrant is the only available SERD. Fulvestrant requires intramuscular administration and resistance has been demonstrated. Elacestrant • Elacestrant is an investigational, nonsteroidal, orally bioavailable SERD that inhibits estradiol-dependent induction of target gene transcription and cell proliferation in breast cancer cell lines and induces proteasome-dependent ER degradation. • In preclinical models, elacestrant has demonstrated antitumor activity in models resistant to cyclin-dependent kinase (CDK)4/6 inhibitors and fulvestrant, and in models harboring ESR1 mutations (ESR1-mut) associated with endocrine resistance. • In a Phase I trial, elacestrant demonstrated responses in patients with ER+ advanced or metastatic breast cancer previously treated with fulvestrant and/or a CDK4/6 inhibitor, and in patients whose tumors harbored ESR1-mut. Elacestrant had an acceptable safety profile, with most adverse reactions consisting of grade 1 or 2 gastrointestinal events. EMERALD study • EMERALD is an international, multicenter, randomized, open-label, active-controlled, Phase III clinical study comparing the safety and efficacy of elacestrant to the standard-of-care endocrine treatment options of either fulvestrant or an aromatase inhibitor (investigator's choice) in patients with ER+/HER2-advanced or metastatic breast cancer. • Eligible patients are adult men and postmenopausal women whose breast cancer progressed while on, or within</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_1"><head>rationale Study design and treatment including planned sample size, planned study period and study procedures Primary objective</head><label></label><figDesc></figDesc><table><row><cell>Article details</cell><cell>Title of article</cell><cell>EMERALD: phase 3 trial of elacestrant (RAD1901) versus Patients with BCBM • • endocrine therapy for previously-treated ER+ advanced Previously treated (SRS/WBRT or surgery) and stable brain metastases breast cancer Previously treated with an • R</cell><cell>Authors • Eribulin Phase 3 Open-label • Ixabepilone TPC  † anthracycline, a taxane, and capecitabine ECOG PS 0-1 • Inclusion criteria Advanced/metastatic • Vinorelbine Aditya Bardia, Philippe Aftimos, Teeru Bihani, • Gemcitabine Alfred T Anderson-Villaluz, JungAh Jung, Maureen G Conlan &amp; • Paclitaxel Virginia G Kaklamani • Docetaxel ER+/HER2-breast cancer Progressed or relapsed on or after 1 or 2 lines of endocrine therapy, 1 of which was 466 patients Randomized 1:1 • nab-paclitaxel given in combination with a • • Elacestrant 400 mg QD R a n d o m i z CDK4/6 inhibitor, for a advanced or metastatic t breast cancer www.futuremedicine.com/doi/10.2217/fon-2019-0370 ECOG PS 0 or 1 • Investigator's choice of: i o n ? Fulvestrant International • Anastrozole Letrozole Trial registration number • • NCT03778931; EudraCT 2018-002990-24 ? Exemestane Stratification factors: ESR1 mutation: Y/N Prior treatment with fulvestrant: Y/N Presence of visceral metastases: Y/N 1:1 Multicenter</cell><cell>ESR1-mutation [ESR1-mut] and tumors with ESR1-mutation not detected Study design: Primary objectives/Compare PFS between elacestrant and SoC groups for all patients (tumors with Planned study period: November 2018 to August 2022 (~ 42-45 months) Randomized, active-controlled, open-label Phase 3 study in patients with advanced or metastatic ER+/HER2-breast [ESR1-mut-nd]) and patients with tumors that harbor an ESR1 mutation cancer</cell><cell>Rationale Study procedures:</cell><cell>postmenopausal women with advanced or metastatic ER+/HER2-breast</cell><cell>cancer, including those who had progressed on a CDK4/6 inhibitor and</cell><cell>those whose tumors harbored ESR1 mutation</cell><cell>Glossary Outcome measures/end points</cell><cell>response; ctDNA: Circulating tumor DNA; CT: Computed tomography; DoR: Duration of response;</cell><cell>ER+: Estrogen receptor positive; ESR1: Estrogen receptor gene alpha; ESR1-mut: ESR1 gene</cell><cell>mutation; ESR1-mut-nd: No ESR1 gene mutation detected (includes ESR1 wild type as well as</cell><cell>mutations below limit of detection of the assay); HER2: Human epidermal growth factor receptor 2;</cell><cell>IRC: Imaging review committee; MRI: Magnetic resonance imaging; ORR: Objective response rate;</cell><cell>OS: Overall survival; PFS: Progression-free survival; PR: Partial response; PRO: Patient-reported</cell><cell>outcomes; RECIST: Response Evaluation Criteria in Solid Tumors; SD: Stable disease;</cell><cell>SoC: Standard of care</cell><cell>2019 Future Medicine Ltd</cell></row></table><note></note></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot">Future Oncol. (2019) 15<ref type="bibr" target="#b31">(28)</ref> future science group</note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot">future science group www.futuremedicine.com</note>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Acknowledgments</head><p>The authors thank Phillips Gilmore Oncology Communications, Inc., for professional assistance with manuscript preparation. </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Financial &amp; competing interests disclosure</head></div>
+			</div>
+
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Cancer statistics</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><forename type="middle">L</forename><surname>Siegel</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><forename type="middle">D</forename><surname>Miller</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Jemal</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">CA Cancer J. Clin</title>
+		<imprint>
+			<biblScope unit="volume">69</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="7" to="34" />
+			<date type="published" when="2019" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Global cancer statistics 2018: GLOBOCAN estimates of incidence and mortality worldwide for 36 cancers in 185 countries</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">F</forename><surname>Bray</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Ferlay</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">I</forename><surname>Soerjomataram</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">CA Cancer J. Clin</title>
+		<imprint>
+			<biblScope unit="volume">68</biblScope>
+			<biblScope unit="page" from="394" to="424" />
+			<date type="published" when="2018" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Association between tumour characteristics and HER-2/neu by immunohistochemistry in 1362 women with primary operable breast cancer</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><forename type="middle">J</forename><surname>Huang</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><surname>Neven</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Drijkoningen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Clin. Pathol</title>
+		<imprint>
+			<biblScope unit="volume">58</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page" from="611" to="616" />
+			<date type="published" when="2005" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">4th ESO-ESMO international consensus guidelines for advanced breast cancer (ABC 4)</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">F</forename><surname>Cardoso</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><surname>Senkus</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Costa</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ann. Oncol</title>
+		<imprint>
+			<biblScope unit="volume">29</biblScope>
+			<biblScope unit="issue">8</biblScope>
+			<biblScope unit="page" from="1634" to="1657" />
+			<date type="published" when="2018" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Endocrine therapy for hormone receptor-positive metastatic breast cancer</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><forename type="middle">S</forename><surname>Rugo</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><forename type="middle">B</forename><surname>Rumble</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><surname>Macrae</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Clinical Oncology guideline. J. Clin. Oncol</title>
+		<imprint>
+			<biblScope unit="volume">34</biblScope>
+			<biblScope unit="issue">25</biblScope>
+			<biblScope unit="page" from="3069" to="3103" />
+			<date type="published" when="2016" />
+			<publisher>American Society</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<monogr>
+		<title level="m" type="main">National Comprehensive Cancer Network. NCCN clinical practice guidelines in oncology: breast cancer</title>
+		<ptr target="www.nccn.org/professionals/physiciangls/pdf/breast.pdf" />
+		<imprint>
+			<date type="published" when="2019" />
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="page">2019</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Biological aromatization of steroids</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><forename type="middle">J</forename><surname>Ryan</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Biol. Chem</title>
+		<imprint>
+			<biblScope unit="volume">234</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="268" to="272" />
+			<date type="published" when="1959" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">History of aromatase: saga of an important biological mediator and therapeutic target</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><forename type="middle">J</forename><surname>Santen</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><surname>Brodie</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><forename type="middle">R</forename><surname>Simpson</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><forename type="middle">K</forename><surname>Siiteri</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Brodie</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Endocr. Rev</title>
+		<imprint>
+			<biblScope unit="volume">30</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="343" to="375" />
+			<date type="published" when="2009" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Cooperative activation of gene expression by agonists and antagonists mediated by estrogen receptor heteroligand dimer complexes</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Liu</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><forename type="middle">J</forename><surname>Han</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><forename type="middle">L</forename><surname>Smith</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Mol. Pharmacol</title>
+		<imprint>
+			<biblScope unit="volume">83</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page" from="1066" to="1077" />
+			<date type="published" when="2013" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Fulvestrant: an oestrogen receptor antagonist with a novel mechanism of action</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><forename type="middle">K</forename><surname>Osborne</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Wakeling</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><forename type="middle">I</forename><surname>Nicholson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Br. J. Cancer</title>
+		<imprint>
+			<biblScope unit="volume">90</biblScope>
+			<biblScope unit="page" from="2" to="6" />
+			<date type="published" when="2004" />
+		</imprint>
+	</monogr>
+	<note>Suppl.1</note>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Plasma ESR1 mutations and the treatment of estrogen receptor-positive advanced breast cancer</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><surname>Fribbens</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">B</forename><surname>O'leary</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">L</forename><surname>Kilburn</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Clin. Oncol</title>
+		<imprint>
+			<biblScope unit="volume">34</biblScope>
+			<biblScope unit="issue">25</biblScope>
+			<biblScope unit="page" from="2961" to="2968" />
+			<date type="published" when="2016" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Buparlisib plus fulvestrant in postmenopausal women with hormone-receptor-positive, HER2-negative, advanced breast cancer progressing on or after mTOR inhibition (BELLE-3): a randomised, double-blind, placebo-controlled, Phase III trial</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Di</forename><surname>Leo</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Johnston</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Lee</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><forename type="middle">S</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Lancet Oncol</title>
+		<imprint>
+			<biblScope unit="volume">19</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="87" to="100" />
+			<date type="published" when="2018" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Fulvestrant plus anastrozole or placebo versus exemestane alone after progression on non-steroidal aromatase inhibitors in postmenopausal patients with hormone-receptor-positive locally advanced or metastatic breast cancer (SoFEA): a composite, multicentre, Phase III randomised trial</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><forename type="middle">R</forename><surname>Johnston</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">L</forename><forename type="middle">S</forename><surname>Kilburn</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><surname>Ellis</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Lancet Oncol</title>
+		<imprint>
+			<biblScope unit="volume">14</biblScope>
+			<biblScope unit="issue">10</biblScope>
+			<biblScope unit="page" from="989" to="998" />
+			<date type="published" when="2013" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Fulvestrant plus palbociclib versus fulvestrant plus placebo for treatment of hormone-receptor-positive, HER2-negative metastatic breast cancer that progressed on previous endocrine therapy (PALOMA-3): final analysis of the multicentre, double-blind, Phase III randomised controlled trial</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Cristofanilli</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">N</forename><forename type="middle">C</forename><surname>Turner</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">I</forename><surname>Bondarenko</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Lancet Oncol</title>
+		<imprint>
+			<biblScope unit="volume">17</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="425" to="439" />
+			<date type="published" when="2016" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">The genetic landscape and clonal evolution of breast cancer resistance to palbociclib plus fulvestrant in the PALOMA-3 trial</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">B</forename><surname>O'leary</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><forename type="middle">J</forename><surname>Cutts</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Y</forename><surname>Liu</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Cancer Discov</title>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="issue">11</biblScope>
+			<biblScope unit="page" from="1390" to="1403" />
+			<date type="published" when="2018" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Palbociclib and letrozole in advanced breast cancer</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><forename type="middle">S</forename><surname>Finn</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Martin</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><forename type="middle">S</forename><surname>Rugo</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">N. Engl. J. Med</title>
+		<imprint>
+			<biblScope unit="volume">375</biblScope>
+			<biblScope unit="issue">20</biblScope>
+			<biblScope unit="page" from="1925" to="1936" />
+			<date type="published" when="2016" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Palbociclib in hormone-receptor-positive advanced breast cancer</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">N</forename><forename type="middle">C</forename><surname>Turner</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Ro</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">F</forename><surname>André</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">N. Engl. J. Med</title>
+		<imprint>
+			<biblScope unit="volume">373</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="209" to="219" />
+			<date type="published" when="2015" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Everolimus plus exemestane for hormone-receptor-positive, human epidermal growth factor receptor-2-negative advanced breast cancer: overall survival results from BOLERO-2</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Piccart</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">G</forename><forename type="middle">N</forename><surname>Hortobagyi</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Campone</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ann. Oncol</title>
+		<imprint>
+			<biblScope unit="volume">25</biblScope>
+			<biblScope unit="issue">12</biblScope>
+			<biblScope unit="page" from="2357" to="2362" />
+			<date type="published" when="2014" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">Elacestrant (RAD1901), a selective estrogen receptor degrader (SERD), has antitumor activity in multiple ER+ breast cancer patient-derived xenograft models</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Bihani</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><forename type="middle">K</forename><surname>Patel</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><surname>Arlt</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Clin. Cancer Res</title>
+		<imprint>
+			<biblScope unit="volume">23</biblScope>
+			<biblScope unit="issue">16</biblScope>
+			<biblScope unit="page" from="4793" to="4804" />
+			<date type="published" when="2017" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<monogr>
+		<title level="m" type="main">• Preclinical study characterizing the antitumor activity of elacestrant in multiple estrogen receptor-positive breast cancer patient-derived xenograft models</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">Evaluation of the pharmacological activities of RAD1901, a selective estrogen receptor degrader</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><forename type="middle">E</forename><surname>Wardell</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><forename type="middle">R</forename><surname>Nelson</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><forename type="middle">A</forename><surname>Chao</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><forename type="middle">M</forename><surname>Alley</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><forename type="middle">P</forename><surname>Mcdonnell</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Endocr. Relat. Cancer</title>
+		<imprint>
+			<biblScope unit="volume">22</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page" from="713" to="724" />
+			<date type="published" when="2015" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<monogr>
+		<title level="m" type="main">• Preclinical study characterizing the pharmacology of elacestrant in breast cancer cells</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">RAD1901: a novel, orally bioavailable selective estrogen receptor degrader that demonstrates antitumor activity in breast cancer xenograft models</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">F</forename><surname>Garner</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Shomali</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><surname>Paquin</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><forename type="middle">R</forename><surname>Lyttle</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">G</forename><surname>Hattersley</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Anticancer Drugs</title>
+		<imprint>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="issue">9</biblScope>
+			<biblScope unit="page" from="948" to="956" />
+			<date type="published" when="2015" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<monogr>
+		<title level="m" type="main">Elacestrant (RAD1901) demonstrates anti-tumor activity in models resistant to CDK4/6 inhibitors. Presented at: San Antonio Breast Cancer Symposium</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><surname>Patel</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">N</forename><surname>Tao</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><surname>Arlt</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Bihani</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2018-12" />
+			<pubPlace>TX, USA, 4-8</pubPlace>
+		</imprint>
+	</monogr>
+	<note>• Preclinical study demonstrating the antitumor activity of elacestrant in breast cancer models resistant to cyclin. dependent kinase 4/6 inhibitors</note>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<monogr>
+		<title level="m" type="main">Anti-tumor activity of elacestrant (RAD1901) in models harboring ESR1 mutations resistant to standard of care therapies. Presented at: San Antonio Breast Cancer Symposium</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><surname>Patel</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">N</forename><surname>Tao</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><surname>Arlt</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Bihani</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2018-12" />
+			<biblScope unit="page" from="4" to="8" />
+			<pubPlace>TX, USA</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<monogr>
+		<title level="m" type="main">• Preclinical study demonstrating the antitumor activity of elacestrant in breast cancer models harboring ESR1 mutations conferring resistance to standard-of-care therapies</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title level="a" type="main">Selective estrogen receptor modulators (SERMs) and selective estrogen receptor degraders (SERDs) in cancer treatment</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><forename type="middle">K</forename><surname>Patel</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Bihani</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Pharmacol Ther</title>
+		<imprint>
+			<biblScope unit="volume">186</biblScope>
+			<biblScope unit="page" from="1" to="24" />
+			<date type="published" when="2018" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<monogr>
+		<title level="m" type="main">Elacestrant, oral selective estrogen receptor degrader (SERD) in patients with ER positive (ER+)/HER2-advanced breast cancer: updated Phase I efficacy, safety and pharmacodynamic results. Presented at: San Antonio Breast Cancer Symposium</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Bardia</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><surname>Kabos</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Wilks</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2017-12" />
+			<biblScope unit="page" from="5" to="9" />
+			<pubPlace>TX, USA</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<monogr>
+		<title level="m" type="main">•• Phase I study demonstrating single-agent activity of elacestrant 400 mg orally daily in heavily pretreated patients with advanced estrogen receptor-positive breast cancer</title>
+		<imprint/>
+	</monogr>
+	<note>including those with ESR1 mutations</note>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<analytic>
+		<title level="a" type="main">Everolimus plus exemestane in postmenopausal patients with HR+ breast cancer: BOLERO-2 final progression-free survival analysis</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><forename type="middle">A</forename><surname>Yardley</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Noguchi</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><forename type="middle">I</forename><surname>Pritchard</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Adv. Ther</title>
+		<imprint>
+			<biblScope unit="volume">30</biblScope>
+			<biblScope unit="issue">10</biblScope>
+			<biblScope unit="page" from="870" to="884" />
+			<date type="published" when="2013" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<analytic>
+		<title level="a" type="main">New response evaluation criteria in solid tumours: revised RECIST guideline (version 1.1)</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><forename type="middle">A</forename><surname>Eisenhauer</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><surname>Therasse</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Bogaerts</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Eur. J. Cancer</title>
+		<imprint>
+			<biblScope unit="volume">45</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="228" to="247" />
+			<date type="published" when="2009" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<analytic>
+		<title level="a" type="main">American Society of Clinical Oncology/College of American Pathologists guideline recommendations for immunohistochemical testing of estrogen and progesterone receptors in breast cancer</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">E</forename><surname>Hammond</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><forename type="middle">F</forename><surname>Hayes</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Dowsett</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Clin. Oncol</title>
+		<imprint>
+			<biblScope unit="volume">28</biblScope>
+			<biblScope unit="issue">16</biblScope>
+			<biblScope unit="page" from="2784" to="2795" />
+			<date type="published" when="2010" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<analytic>
+		<title level="a" type="main">of Clinical Oncology/College of American Pathologists clinical practice guideline focused update summary</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><forename type="middle">C</forename><surname>Wolff</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Meh</forename><surname>Hammond</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><forename type="middle">H</forename><surname>Allison</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">B</forename><forename type="middle">E</forename><surname>Harvey</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">L</forename><forename type="middle">M</forename><surname>Mcshane</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Dowsett</surname></persName>
+		</author>
+		<ptr target="futuresciencegroupwww.futuremedicine.com" />
+	</analytic>
+	<monogr>
+		<title level="j">J. Oncol. Pract</title>
+		<imprint>
+			<biblScope unit="volume">14</biblScope>
+			<biblScope unit="issue">7</biblScope>
+			<biblScope unit="page" from="437" to="441" />
+			<date type="published" when="2018" />
+			<publisher>American Society</publisher>
+		</imprint>
+	</monogr>
+	<note>HER2 testing in breast cancer</note>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

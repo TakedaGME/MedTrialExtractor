@@ -1,0 +1,1417 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /data/rsg/nlp/juanmoo1/bin/grobid-0.6.1/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Isatuximab plus carfilzomib/dexamethasone versus carfilzomib/dexamethasone in patients with relapsed/refractory multiple myeloma: IKEMA Phase III study design</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+				<date type="published" when="2019-12-13">13 December 2019</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Philippe</forename><surname>Moreau</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Hematology</orgName>
+								<orgName type="institution" key="instit1">University Hospital</orgName>
+								<orgName type="institution" key="instit2">Allée de l&apos;Ile Gloriette</orgName>
+								<address>
+									<postCode>44093</postCode>
+									<settlement>Nantes</settlement>
+									<country key="FR">France</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Meletios</forename><forename type="middle">A</forename><surname>Dimopoulos</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="department">Department of Clinical Therapeutics</orgName>
+								<orgName type="institution">National &amp; Kapodistrian University of Athens</orgName>
+								<address>
+									<settlement>Stadiou</settlement>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Kwee</forename><surname>Yong</surname></persName>
+							<affiliation key="aff3">
+								<orgName type="department">Department of Hematology</orgName>
+								<orgName type="institution">University College London</orgName>
+								<address>
+									<settlement>London</settlement>
+									<country key="GB">UK</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Joseph</forename><surname>Mikhael</surname></persName>
+							<affiliation key="aff4">
+								<orgName type="department">Department of Medicine</orgName>
+								<orgName type="institution" key="instit1">Translational Genomics Research Institute</orgName>
+								<orgName type="institution" key="instit2">City of Hope Cancer Center</orgName>
+								<address>
+									<postCode>85028</postCode>
+									<settlement>Phoenix</settlement>
+									<region>AZ, AZ</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Marie-Laure</forename><surname>Risse</surname></persName>
+							<affiliation key="aff2">
+								<address>
+									<postCode>10562</postCode>
+									<settlement>Athens</settlement>
+									<country key="GR">Greece</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff5">
+								<orgName type="department">Sanofi</orgName>
+								<address>
+									<settlement>Vitry-Alfortville</settlement>
+									<country key="FR">France</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Gaëlle</forename><surname>Asset</surname></persName>
+							<affiliation key="aff6">
+								<orgName type="institution">Sanofi</orgName>
+								<address>
+									<settlement>Chilly-Mazarin</settlement>
+									<country key="FR">France</country>
+								</address>
+							</affiliation>
+						</author>
+						<author role="corresp">
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Thomas</forename><surname>Martin</surname></persName>
+							<email>tom.martin@ucsf.edu</email>
+							<affiliation key="aff7">
+								<orgName type="department">Department of Hematology</orgName>
+								<orgName type="institution">University of California at San Francisco</orgName>
+								<address>
+									<postCode>94143</postCode>
+									<settlement>San Francisco</settlement>
+									<region>CA, CA</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Isatuximab plus carfilzomib/dexamethasone versus carfilzomib/dexamethasone in patients with relapsed/refractory multiple myeloma: IKEMA Phase III study design</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date type="published" when="2019-12-13">13 December 2019</date>
+						</imprint>
+					</monogr>
+					<idno type="DOI">10.2217/fon-2019-0431</idno>
+					<note type="submission">First draft submitted: 23 July 2019; Accepted for publication: 6 November 2019;</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.6.1" ident="GROBID" when="2020-10-09T18:38+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>carfilzomib</term>
+					<term>CD38</term>
+					<term>isatuximab</term>
+					<term>monoclonal antibody</term>
+					<term>Phase III trial</term>
+					<term>relapsed/refractory multiple myeloma</term>
+					<term>study protocol</term>
+				</keywords>
+			</textClass>
+			<abstract>
+				<p>Although the treatment of relapsed/refractory multiple myeloma has improved dramatically over the past decade, the disease remains incurable; therefore, additional therapies are needed. Novel combination therapies incorporating monoclonal antibodies have shown significant promise. Here we describe the design of a Phase III study (NCT03275285, IKEMA), which is evaluating isatuximab plus carfilzomib and low-dose dexamethasone, versus carfilzomib/dexamethasone in relapsed/refractory multiple myeloma. The primary end point is progression-free survival. Responses are being determined by an independent review committee using 2016 International Myeloma Working Group criteria, and safety will be assessed throughout. The first patient was recruited in November 2017, and the last patient was recruited in March 2019; 302 patients have been randomized, and the study is ongoing. Clinical trial registration: NCT03275285</p>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Multiple myeloma (MM) is the third most common blood cancer, characterized by uncontrolled growth of bone marrow plasma cells leading to anemia, lytic bone lesions, overproduction of monoclonal immunoglobulins and frequent hypercalcemia. The abnormal production and accumulation of immunoglobulins can also lead to renal dysfunction and an increased risk of infection. Almost 160,000 new cases were diagnosed globally in 2016, with an associated estimate of 2.1 million disability-adjusted life-years <ref type="bibr" target="#b0">[1]</ref>. At diagnosis, most patients present with advanced disease, with limited screening currently available to aid in early diagnosis.</p><p>A broad spectrum of therapeutic agents is currently available for treatment of patients with MM. These include immunomodulatory drugs (IMiDs) that increase the activation of T cells and natural killer (NK) cells, induce apoptosis and inhibit cell adhesion molecules <ref type="bibr" target="#b1">[2]</ref>, and proteasome inhibitors (PIs) that inhibit the catalytic site of the 26S proteasome inducing apoptosis. Both of these classes of drugs, the IMiDs (including thalidomide, lenalidomide and pomalidomide) and the PIs (including bortezomib, carfilzomib and ixazomib), act through multiple mechanisms to cause myeloma cell death and prevent cell proliferation <ref type="bibr" target="#b2">[3]</ref><ref type="bibr" target="#b3">[4]</ref><ref type="bibr" target="#b4">[5]</ref><ref type="bibr" target="#b5">[6]</ref><ref type="bibr" target="#b6">[7]</ref><ref type="bibr" target="#b7">[8]</ref><ref type="bibr" target="#b8">[9]</ref>. Although these drugs were initially used in relapsed myeloma, the use of IMIDs and PIs in induction therapies has resulted in better patient outcomes, including higher response rates and lower toxicity, when compared with traditional cytotoxic chemotherapy <ref type="bibr" target="#b2">[3,</ref><ref type="bibr" target="#b9">[10]</ref><ref type="bibr" target="#b10">[11]</ref><ref type="bibr" target="#b11">[12]</ref>.</p><p>The initial treatment of MM is directed toward alleviating symptoms and decreasing the burden of disease <ref type="bibr" target="#b12">[13]</ref>. A combination of an IMiD with a PI and a steroid (triplet therapy) has emerged as the mainstay of initial therapy <ref type="bibr" target="#b13">[14]</ref>. Younger patients who are fit and have limited comorbidity may benefit from receiving consolidation therapy with autologous stem cell transplantation <ref type="bibr" target="#b14">[15]</ref>. Following the induction and consolidation strategies, most patients receive maintenance therapy, with the goal of improving the duration of remission <ref type="bibr" target="#b15">[16]</ref>. However, relapse is inevitable, and the vast majority of patients require additional therapy <ref type="bibr" target="#b16">[17]</ref>. There are multiple salvage therapies available for patients who experience early relapse, but the ideal regimen or sequence of therapies has not been defined. Many factors, including patient-, disease-and treatment-related factors, are utilized to guide the selection of salvage therapy.</p><p>Several PIs are currently approved for use in relapsed refractory multiple myeloma (RRMM) only. Carfilzomib is a highly selective next-generation PI with minimal off-target adverse effects. In single-agent carfilzomib studies, the most frequently reported types of toxicity were cardiac events (e.g., congestive heart failure), pulmonary events (e.g., dyspnea) and renal impairment events (e.g., increased blood creatinine) <ref type="bibr" target="#b17">[18]</ref>. This agent demonstrates superior efficacy to bortezomib with a more favorable adverse event (AE) profile, including lower rates of peripheral neuropathy. Carfilzomib is approved for treatment of RRMM as a single agent, as well as in combination with lenalidomide and/or dexamethasone <ref type="bibr" target="#b18">[19,</ref><ref type="bibr" target="#b19">20]</ref>.</p><p>ENDEAVOR, a Phase III study conducted in 929 patients with RRMM after one to three prior treatments, showed superiority for carfilzomib plus dexamethasone versus the comparator bortezomib plus dexamethasone <ref type="bibr" target="#b20">[21]</ref>, which was utilized as a standard of treatment for RRMM for &gt;10 years. These results led to the regulatory approval in 2016 of the carfilzomib plus dexamethasone combination in this patient population <ref type="bibr" target="#b20">[21]</ref>. In addition, in the follow-up analysis of the overall survival (OS) benefit, carfilzomib provided a significant and clinically meaningful reduction in the risk of death, compared with bortezomib <ref type="bibr" target="#b20">[21]</ref>.</p><p>Also approved for the treatment of RRMM are a series of monoclonal antibodies that target cell membrane molecules that are highly expressed on the surface of MM cells <ref type="bibr" target="#b21">[22]</ref><ref type="bibr" target="#b22">[23]</ref><ref type="bibr" target="#b24">[24]</ref><ref type="bibr" target="#b25">[25]</ref><ref type="bibr" target="#b26">[26]</ref>. Daratumumab targets CD38, a type II transmembrane glycoprotein that functions both as a signal-transducing receptor and a multifunctional ectoenzyme, and is highly expressed on MM cells. More than 90% of malignant plasma cells from patients with MM exhibit surface expression of CD38 <ref type="bibr" target="#b27">[27]</ref>, in contrast to its low-to-moderate expression on normal cells. Daratumumab was shown to have effects on CD38-expressing immunosuppressive Treg and B cells and myeloid-derived suppressor cells; the number, activation and clonality of cytotoxic T cells were increased after daratumumab treatment in heavily pretreated patients with RRMM <ref type="bibr" target="#b28">[28]</ref>. Daratumumab is approved for use as a single agent in heavily pretreated patients with RRMM who are refractory to therapy with PIs and IMiDs <ref type="bibr" target="#b24">[24]</ref> and for use in combination with pomalidomide/dexamethasone (USA only), lenalidomide/dexamethasone, bortezomib/dexamethasone and bortezomib/melphalan/prednisone as treatment for RRMM <ref type="bibr" target="#b29">[29,</ref><ref type="bibr" target="#b30">30]</ref>.</p><p>Elotuzumab targets SLAMF7, a glycoprotein that is selectively expressed on MM and NK cells. A Phase III study that compared elotuzumab plus lenalidomide/dexamethasone with lenalidomide/dexamethasone alone in patients with RRMM led to the approval of elotuzumab in combination with lenalidomide/dexamethasone in patients with MM who have received one to three prior therapies <ref type="bibr" target="#b21">[22]</ref>. More recently, elotuzumab has been approved in combination with pomalidomide/dexamethasone in patients with RRMM who received at least two prior therapies, including lenalidomide and a PI <ref type="bibr" target="#b31">[31]</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Isatuximab</head><p>Isatuximab is an immunoglobulin G1 (IgG1) monoclonal antibody that targets a specific epitope on CD38. The mechanism of action of isatuximab is still being evaluated; however, it is known that isatuximab inhibits CD38 ectoenzyme activity and is capable of eliciting innate immune responses; antibody-dependent cellular cytotoxicity, complement-dependent cytotoxicity and antibody-dependent cellular phagocytosis, as well as the direct induction of target-cell killing through apoptotic mechanisms in the absence of cross-linking agents <ref type="bibr" target="#b22">[23,</ref><ref type="bibr" target="#b32">32]</ref>.</p><p>A recent preclinical study indicates that NK cell-mediated antibody-dependent cellular cytotoxicity is important <ref type="bibr" target="#b34">[33]</ref>. In vivo, isatuximab likely also causes inhibition of immunosuppressive cells, including CD38( + ) Tregs and B regulatory cells, thereby producing additional antitumor effects ( <ref type="figure" target="#fig_0">Figure 1</ref>) <ref type="bibr" target="#b35">[34]</ref>.</p><p>In preclinical studies, the antitumor effects of isatuximab appear to be significantly enhanced when it is combined with IMiDs and PIs. In a murine xenograft model utilizing MM.S1 cell lines, the combination of isatuximab plus carfilzomib showed there are additive antimyeloma effects <ref type="bibr" target="#b36">[35]</ref>. In fact, while each individual agent slowed tumor growth, the combination demonstrated actual tumor regression <ref type="bibr" target="#b36">[35]</ref>. It is unclear whether the mechanism for this synergy is through a proapoptotic effect or due to combined immune modulation. The clinical development program of isatuximab includes four ongoing Phase III clinical trials evaluating isatuximab in combination with currently available standard treatments for patients with RRMM or newly diagnosed with MM. Isatuximab has received orphan drug designation for RRMM by the US FDA. Isatuximab is also under investigation as an agent for the treatment of other hematologic malignancies (NCT03769181, NCT01084252) and solid tumors (NCT03367819, NCT03637764).</p><p>The first-in-human, Phase I/II study (NCT01084252) of isatuximab was carried out in advanced stage heavily pretreated patients with RRMM who had received a median of five prior lines of therapy. As a single agent, isatuximab demonstrated clinical activity <ref type="bibr" target="#b37">[36,</ref><ref type="bibr" target="#b38">37]</ref> and was generally well tolerated in these patients. Infusion reactions (IRs) were the most common AEs that occurred, with most IRs being grade 1/2 and generally observed during the initial infusion. The IRs were clinically manageable and resulted in few discontinuations, and no clinical sequelae were noted following recovery. At doses ≥10 mg/kg, the overall response rate (ORR) was 20-29%, the median time to first response was 4 weeks and the median duration of response was approximately 25 weeks <ref type="bibr" target="#b40">[38]</ref>. Based on the clinical efficacy and favorable safety profile of isatuximab as a single agent, follow-up evaluation of isatuximab in combination with PIs and IMiDs is ongoing.</p><p>Isatuximab 10 mg/kg in combination with lenalidomide/dexamethasone (NCT01749969; Phase I) was also associated with an acceptable safety profile <ref type="bibr" target="#b41">[39]</ref>. Overall, the safety profile of this combination was consistent with the safety profile of single-agent isatuximab and the combination of lenalidomide/dexamethasone alone <ref type="bibr" target="#b41">[39,</ref><ref type="bibr" target="#b43">40]</ref>. Treatment of this heavily pretreated patient population (median five prior lines) with isatuximab plus lenalidomide/dexamethasone resulted in an ORR of 56% <ref type="bibr" target="#b41">[39]</ref>. The ORRs among patients who were refractory to lenalidomide or both an IMiD and a PI were 52% and 45%, respectively. The ORR of the heavily pretreated population (≥3 prior lines) was 48% (n = 44). The pharmacokinetics (PK) of lenalidomide was not affected by co-administration with isatuximab <ref type="bibr" target="#b41">[39]</ref>. In the Phase III ICARIA study evaluating the combination of isatuximab in combination with pomalidomide/dexamethasone, isatuximab plus pomalidomide/dexamethasone resulted in a median progression-free survival (PFS) of 11.5 months compared with 6.5 months in pomalidomide/dexamethasone alone, at median follow-up of 11.6 months (p = 0.001). The ORR (≥ PR) was 60.4% with isatuximab plus pomalidomide/dexamethasone compared with 35.3% with pomalidomide/dexamethasone alone (p &lt; 0.0001) <ref type="bibr" target="#b45">[41]</ref>.  The combination of isatuximab with carfilzomib was investigated in a Phase Ib study (NCT02332850). Three dosing cohorts were evaluated: isatuximab 10 mg/kg every 2 weeks (Q2W), isatuximab 10 mg/kg weekly (QW) over 4 weeks then Q2W, and isatuximab 20 mg/kg weekly over 4 weeks then Q2W in combination with carfilzomib (20 mg/m 2 on days 1 and 2, and 27 mg/m 2 on days 8, 9, 15 and 16 in a standard 4-week cycle). As in previous isatuximab studies, dexamethasone was given routinely as a premedication for isatuximab. In 33 heavily pretreated patients with RRMM, all of whom had prior IMiD and PI exposure (79% were double refractory), the ORR was 66% <ref type="bibr" target="#b47">[42]</ref>. The combination was well tolerated, and the maximum-tolerated dose was not reached.</p><p>After applying the insights from the isatuximab clinical studies described above and the accompanying PK/pharmacodynamic analyses, the dosing schedule of isatuximab 10 mg/kg weekly for 4 weeks then Q2W was considered the optimal biological dose and was selected for further investigation in combination with other therapies, including carfilzomib, in the IKEMA Phase III study.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>IKEMA Phase III study</head><p>Here we describe the design and rationale for an ongoing, prospective, multinational, randomized, open-label, parallel-group, two-arm, Phase III study (NCT03275285, IKEMA) evaluating the efficacy and safety of standard isatuximab (10 mg/kg QW × 4, then given Q2W) in combination with twice-weekly carfilzomib (3 weeks out of 4) and twice-weekly low-dose dexamethasone versus carfilzomib and low-dose dexamethasone alone in patients with RRMM.  </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Objectives</head><p>The primary objective of this study is to demonstrate the benefit of isatuximab plus carfilzomib/dexamethasone in prolonging PFS, compared with carfilzomib/dexamethasone alone, in the treatment of patients with RRMM. The key secondary objectives are to evaluate the ORR, the rate of very good partial response or better as per International Myeloma Working Group criteria <ref type="bibr" target="#b48">[43]</ref>, the rate of very good partial response or better with minimal residual disease negativity, the complete response rate and the OS of patients in each treatment arm. Additional secondary end points are being assessed, including safety, time to progression, PFS2 (the time to a second event of progressive disease or death), the duration of response, immunogenicity, PK and health-related quality of life in both arms.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Key eligibility criteria</head><p>Patients must be aged ≥18 years with signed informed consent, with documented diagnosis of MM, and with measurable evidence of disease (serum M-protein ≥0.5 g/dl and/or urine M-protein ≥200 mg/24 h). Patients will have received at least one, but no more than three, prior lines of antimyeloma therapy, including IMiDs and PIs <ref type="table" target="#tab_0">(Table 1)</ref>. Key exclusion criteria include Eastern Cooperative Oncology Group performance status greater than two; primary refractory MM (patients must have achieved at least a minimal response with any prior treatment during the disease course); serum-free light chain measurable disease only; refractoriness to prior anti-CD38 antibody therapy; prior carfilzomib therapy and/or prior allogeneic hematopoietic stem cell transplantation with active graft-versus-host disease (any grade or being under immunosuppressive treatment within the last 2 months); and a history of myocardial infarction, severe/unstable angina pectoris, coronary/peripheral artery bypass graft, New York Heart  <ref type="bibr" target="#b48">(Kumar et al. 2016</ref>). ‡ EOT visit will be 30 days after last study treatment administration or before further antimyeloma therapy initiation, whichever comes first. Association class III or IV congestive heart failure, greater than or equal to grade 3 arrhythmias, stroke/transient ischemic attack within last 6 months, and/or left ventricular ejection fraction lower than 40%.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Study design</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Study locations</head><p>This Phase III study has recruited patients with MM from Australia, Brazil, Canada, Czech Republic, France, Greece, Hungary, Italy, Japan, New Zealand, Spain, Republic of Korea, Russia, Turkey, the UK and the USA <ref type="figure" target="#fig_1">(Figure 2</ref>).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Study design &amp; methodology</head><p>Eligible patients have been randomly assigned, in a 3:2 ratio, to receive either isatuximab in combination with carfilzomib/dexamethasone or carfilzomib/dexamethasone alone. Treatment is given in 28-day cycles as follows: isatuximab 10 mg/kg intravenously (iv.) on cycle 1 at days 1, 8, 15 and 22 then days 1 and 15 in subsequent cycles; carfilzomib iv. on cycle 1 at days 1 and 2 at 20 mg/m 2 over 30 min then on cycle 1 at days 8, 9, 15, and 16, and on all subsequent doses at 56 mg/m 2 over 30 min and also dexamethasone 20 mg on days 1, 2, 8, 9, 15, 16, 22, and 23 of every cycle; or carfilzomib/dexamethasone alone with the same schedule and dose <ref type="figure" target="#fig_2">(Figure 3</ref>).</p><p>Randomization will be stratified by a number of prior lines of therapy (1 vs &gt;1) and disease stage as determined by the Revised International Staging Score (R-ISS; I or II vs III vs not classified). Treatment will be continued until disease progression, unacceptable AEs or patient request.</p><p>Premedication will be included to reduce the severity of IRs with isatuximab and carfilzomib. Premedication for isatuximab will include diphenhydramine 25-50 mg iv., ranitidine 50 mg iv. and acetaminophen 650-1000 mg or equivalent. Dexamethasone will be given prior to isatuximab infusions in the isatuximab plus carfilzomib/dexamethasone arm and prior to carfilzomib infusion in the carfilzomib/dexamethasone arm as part of the premedication and as part of the treatment throughout the study. No postinfusion prophylaxis with dexamethasone will be required. <ref type="table" target="#tab_2">Table 2</ref> describes the assessment schedules for all measures. Demographic characteristics, including medical/surgical history, prior MM history (time from diagnosis, stage as defined by ISS at diagnosis, and prior anti-MM therapy), and the responses to prior treatments, will be collected at baseline. Disease characteristics, including M-protein subtype, extent of bone marrow and extra-medullary disease, cytogenetics (assessed by a central laboratory) and R-ISS, will also be recorded at baseline.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Outcome measurements/end points</head><p>The 2016 International Myeloma Working Group criteria <ref type="bibr" target="#b48">[43]</ref> will be applied by an independent response review committee to evaluate response and disease progression. Assessments will be made on the first day of every cycle and when treatment is stopped. PFS -defined as the time from randomization to either the first documented occurrence of progressive disease or the death of the patient from any cause, whichever occurs earliest -is the primary efficacy end point. Response will be assessed during follow-up and until disease progression in patients who discontinue therapy prior to disease progression. Subgroup analyses of PFS (e.g., by cytogenetic risk status, number of prior lines of treatment) will also be conducted. Next-generation sequencing will be used to assess minimal residual disease.</p><p>Safety evaluations will include vital signs, hematology and biochemistry assessments, electrocardiograms, and AEs: these will be followed throughout the study. AEs will be graded according to the National Cancer Institute Common Terminology Criteria for AEs v4.03. Immunogenicity will be assessed during study treatment. An indirect Coombs test will be performed at baseline and after treatment initiation in the isatuximab plus carfilzomib/dexamethasone arm only.</p><p>Patient-reported outcome assessments will be measured on day 1 of every cycle, at the end of treatment and 90 days after study treatment administration by using the patient-reported outcome/health-related quality of life and health utility instruments (European Organization for Research and Treatment of Cancer quality-of-life questionnaires C30 and MY20 [EORTC QLQ-C30 and QLQMY20] and the EuroQoL questionnaire EQ-5D-5L).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Statistical considerations</head><p>Analysis set All patients who provided informed consent and were randomized will be included in the intent-to-treat (ITT) population, irrespective of whether they received any study treatment or not. Efficacy parameters will be analyzed primarily in the ITT population. The treatment arm assigned at randomization will be used in the ITT analyses.</p><p>The safety analysis population will comprise all members of the ITT population who are treated with at least one full or partial dose of study medication. Safety population analyses will be performed on the basis of the treatment received.</p><p>Quality of life will be assessed for patients from the safety population who complete the baseline visit and have at least one postbaseline assessment.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Statistical analysis</head><p>Analysis of the primary end point will be performed on the ITT population and consists of PFS comparison using a log-rank test procedure, stratified by stratification factors (number of prior lines and R-ISS stage) at the time of randomization. Safety analyses will be summarized utilizing descriptive statistics.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Sample size</head><p>A total of 302 patients have been randomized in a 3:2 ratio to receive isatuximab plus carfilzomib/dexamethasone and carfilzomib/dexamethasone, respectively.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Discussion</head><p>The treatment of MM has changed significantly over the past 10 years, with multiple new drug approvals and many novel combinations resulting in improved life expectancy. However, the majority of patients continue to have relapses after therapy, so additional novel agents and combinations for initial therapy and treatment of relapsed/refractory disease are needed in order to improve both survival and quality of life of patients with MM.</p><p>The pivotal Phase III IKEMA study is assessing potential improvement in PFS in patients receiving isatuximab. Preclinical studies demonstrated at least additive effects from the combination with isatuximab and carfilzomib, possibly by enhancing apoptosis. In addition, the combination of isatuximab with carfilzomib was investigated in a Phase Ib study in which encouraging efficacy and tolerability were observed <ref type="bibr" target="#b47">[42]</ref>.</p><p>Previous studies have examined PFS and other measures of efficacy in this RRMM population. Improved results were seen predominantly with triplet-based combinations, albeit with an increased risk of AEs <ref type="bibr" target="#b49">[44]</ref>. The anti-CD38 antibody daratumumab was evaluated in two large Phase III trials: one compared daratumumab in combination with bortezomib/dexamethasone (DVd) versus bortezomib/dexamethasone (Vd) <ref type="bibr" target="#b50">[45]</ref>; the second compared dara- tumumab in combination with lenalidomide/dexamethasone (DRd) versus lenalidomide/dexamethasone (Rd) <ref type="bibr" target="#b51">[46]</ref>. Median PFS for the DVd triplet was 17 months <ref type="bibr" target="#b52">[47]</ref>; for the DRd triplet, the median PFS was 44.5 months <ref type="bibr" target="#b53">[48]</ref>. Daratumumab is approved for use in combination with bortezomib/dexamethasone and lenalidomide/dexamethasone and, in the USA, with pomalidomide/dexamethasone. More recently, a Phase Ib trial of daratumumab with carfilzomib/dexamethasone (D-Kd) has also reported promising activity in an RRMM population in which 60% of patients were refractory to lenalidomide. ORR was 84% with a median follow-up of 16.6 months, and median PFS was not reached <ref type="bibr" target="#b54">[49]</ref>. A Phase III trial evaluating isatuximab plus pomalidomide/dexamethasone versus pomalidomide/dexamethasone was recently completed and will provide information regarding this combination <ref type="bibr" target="#b35">[34,</ref><ref type="bibr" target="#b45">41]</ref>. IKEMA is the first Phase III study to evaluate isatuximab in combination with carfilzomib (20-56 mg/m 2 ) and dexamethasone. The control arm doublet carfilzomib/dexamethasone was previously demonstrated to be an effective therapeutic regimen and was the first treatment to show OS superiority in patients with RRMM <ref type="bibr" target="#b20">[21]</ref>. These drugs each have potent single-agent activity and little overlapping toxicity, which has provided significant enthusiasm for this therapeutic combination.</p><p>Although daratumumab and isatuximab are both anti-CD38 monoclonal antibodies, they bind to different epitopes <ref type="bibr" target="#b22">[23]</ref>. In vitro, isatuximab is the only anti-CD38 antibody that induces direct apoptosis without cross-linking <ref type="bibr" target="#b22">[23,</ref><ref type="bibr" target="#b32">32]</ref>. Whether these in vitro differences will translate into differences in clinical activity or improved activity in specific combinations remains unknown.</p><p>The IKEMA protocol offers an IMiD-free treatment option that may be particularly suitable for patients with disease progression after an IMiD-containing first-line therapy or those who are refractory to IMiDs. As summarized in <ref type="table" target="#tab_3">Table 3</ref>, additional ongoing studies are evaluating the use of isatuximab with the current standard-of-care regimens in patients with newly diagnosed MM, smoldering MM and RRMM.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Executive summary</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Multiple myeloma</head><p>• Multiple myeloma is characterized by plasma cell proliferation in the bone marrow and is associated with the production of excessive monoclonal immunoglobulins. Although in recent years survival rates have improved, most patients will relapse. Treatment for relapsed/refractory multiple myeloma (RRMM) remains an unmet need. Isatuximab • Isatuximab is a monoclonal antibody that targets a specific epitope on CD38 that is different from the binding site for daratumumab. Isatuximab has shown antitumor activity as a single agent and enhanced activity when combined with either immunomodulatory drugs or proteasome inhibitors in Phase I/II studies of heavily pretreated patients with RRMM. IKEMA • Herein, we describe the design of the Phase III IKEMA study (NCT03275285), which is evaluating isatuximab in combination with carfilzomib and low-dose dexamethasone versus carfilzomib/dexamethasone alone in patients with RRMM.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Objectives</head><p>• The primary objective of the IKEMA study is to demonstrate the benefit of isatuximab in combination with carfilzomib/dexamethasone in the prolongation of progression-free survival (PFS) compared with carfilzomib/dexamethasone alone in patients with RRMM. The key secondary efficacy objectives include evaluation of the overall response rate, the rate of very good partial response or better (2016 International Myeloma Working Group criteria), the rate of very good partial response or better with minimal residual disease negativity, the complete remission rate and overall survival in both treatment arms in patients with RRMM.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Key eligibility</head><p>• Eligible patients for the IKEMA study are adults with RRMM and confirmed disease progression within 60 days of the last therapy who have received between one and three prior lines of therapy, including lenalidomide and a proteasome inhibitors, alone or in combination.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Study design</head><p>• A total of 302 patients have been randomized in a 3:2 ratio to receive isatuximab plus carfilzomib/dexamethasone or carfilzomib/dexamethasone alone in 28-day cycles. Patients will continue therapy until disease progression, unacceptable toxicity or a patient request to discontinue.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Statistical considerations</head><p>• The primary end point is PFS. The intent-to-treat population is the primary population for all efficacy parameters.</p><p>Comparison of PFS between treatment arms will be performed using a log-rank test procedure. The safety population will include intent-to-treat patients who have received at least part of a dose of the study treatments. Safety evaluations will include adverse events, laboratory parameters, vital signs, electrocardiogram results and physical examinations. </p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>Figure 1 .</head><label>1</label><figDesc>Isatuximab mechanism of action.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head>Figure 2 .</head><label>2</label><figDesc>Recruiting countries. Darker shading indicates recruiting countries.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_2"><head>Figure 3 .</head><label>3</label><figDesc>Study design and dosing schedule. † Carfilozomib 20 mg/m 2 day 1-2, then 56 mg/m 2 all additional days. RRMM: Relapsed/refractory multiple myeloma.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_3"><head></head><label></label><figDesc>EORTC: European Organisation for Research and Treatment of Cancer; EOT: End of treatment; EQ-5D-5L: EuroQoL 5-dimensions questionnaire with 5 response levels per dimension; PD: Progressive disease; PK: Pharmacokinetics; QLQ-C30: Quality-of-life questionnaire core module; QLQ-MY20: Quality-of-life questionnaire myeloma module; R-ISS: Revised International Staging Score.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_4"><head>Financial &amp; competing interests disclosure P</head><label>disclosure</label><figDesc>Moreau has received honoraria from Amgen, Takeda, Celgene, Janssen and Novartis; a consulting/advisory role with Amgen, Takeda, Celgene, Janssen and Novartis. MA Dimopoulos has a consulting/advisory role for Celgene, Onyx, Janssen and Novartis. KYong has a consulting/advisory role with Amgen, Janssen and Takeda; is in Speaker's bureau for Amgen and Takeda; received research funding from Amgen and Sanofi. J Mikhael received research funding from AbbVie, Celgene, Onyx and Sanofi. M-L Risse and G Asset are the employees of Sanofi. T Martin received research funding from Sanofi, Amgen and Seattle Genetics. The authors have no other relevant affiliations or financial involvement with any organization or entity with a financial interest in or financial conflict with the subject matter or materials discussed in the manuscript apart from those disclosed. Medical writing assistance is provided by Louise Wright of Adelphi Communications Ltd, funded by Sanofi. Open access This work is licensed under the Attribution-NonCommercial-NoDerivatives 4.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-nc-nd/4.0/ future science group www.futuremedicine.com</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>Table 1 .</head><label>1</label><figDesc>Key eligibility criteria.</figDesc><table><row><cell>Inclusion</cell></row></table><note>† Progression on or within 60 days after the end of anti-CD38 therapy.ECOG: Eastern Cooperative Oncology Group; MM: Multiple myeloma; RRMM: Relapsed/refractory MM.</note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_2"><head>Table 2 .</head><label>2</label><figDesc>Assessments and schedule.BaselineDemographics, myeloma history, and prior antimyeloma treatment, FISH (del[17p], t[4:14], t[14:16]) to determine R-ISS stage</figDesc><table><row><cell>Timing</cell><cell>Assessment</cell></row><row><cell>Patient characteristics and disease history</cell><cell></cell></row><row><cell>Efficacy assessment  †</cell><cell></cell></row><row><cell>Baseline, day 1 of all cycles, EOT  ‡ , follow-up (for patients who</cell><cell>Serum M-protein, urine M-protein, serum-free light chains, quantitative</cell></row><row><cell>discontinue the study treatment without PD)</cell><cell>immunoglobulins</cell></row><row><cell>Baseline, when indicated to document, overall response</cell><cell>Bone marrow disease involvement (plasma cell infiltration)</cell></row><row><cell>Baseline and then annually</cell><cell>Bone lytic disease assessment</cell></row><row><cell>Every 12 weeks (if present at baseline)</cell><cell>Extramedullary disease assessment per investigator choice, with International</cell></row><row><cell></cell><cell>Myeloma Working Group response/failure criteria applied</cell></row><row><cell>Safety</cell><cell></cell></row><row><cell>Continuously throughout the study period</cell><cell>Adverse events, vital signs, physical examination, hematology, blood chemistry,</cell></row><row><cell></cell><cell>antidrug antibodies, electrocardiogram</cell></row><row><cell>Isatuximab PK</cell><cell></cell></row></table><note>Days 1, 8, 15, and 22 of cycle 1, day 1 of subsequent cycles up to 10 cycles Isatuximab PK parameters by ELISA population PK modeling Patient-reported outcomes Day 1 of all cycles, EOT ‡ , 90 days after last administration EORTC QLQ-C30, EORTC QLQ-MY20, EQ-5D-5L † Overall response and disease progression will be assessed by International Myeloma Working Group criteria</note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_3"><head>Table 3 .</head><label>3</label><figDesc>Studies of isatuximab for the treatment of multiple myeloma. ≥3 prior lines of therapy including IMiD (for ≥2 cycles or ≥2 months) and PI (for ≥2 cycles or ≥2 months)</figDesc><table><row><cell>NCT number</cell><cell>Combination</cell><cell>Status</cell><cell>Patient population</cell></row><row><cell>Phase I or Phase I/II</cell><cell></cell><cell></cell><cell></cell></row><row><cell>NCT01749969 Phase I/II</cell><cell>ISA, Len, dex</cell><cell>Active not recruiting</cell><cell>RRMM, ≥2 prior lines of therapy including IMiD</cell></row><row><cell cols="4">NCT01084252 Phase I/II Refractory MM, NCT02332850 Phase Ib ISA, dex Active not recruiting ISA, Car Recruiting RRMM, ≥2 prior lines of therapy including IMiD (for ≥2 cycles or</cell></row><row><cell></cell><cell></cell><cell></cell><cell>≥2 months) and PI (for ≥2 cycles or ≥2 months)</cell></row><row><cell>NCT02514668 Phase I</cell><cell>ISA</cell><cell>Active not recruiting</cell><cell>RRMM, ≥3 prior lines of therapy including IMiD (for ≥2 cycles or</cell></row><row><cell></cell><cell></cell><cell></cell><cell>≥2 months) and PI (for ≥2 cycles or ≥2 months)</cell></row><row><cell>NCT02513186</cell><cell>ISA + VCD or ISA +</cell><cell>Recruiting</cell><cell>Newly diagnosed MM</cell></row><row><cell>Phase I</cell><cell>VRD</cell><cell></cell><cell></cell></row><row><cell>NCT02812706</cell><cell>ISA</cell><cell>Active not recruiting</cell><cell>RRMM, ≥3 prior lines of therapies including IMiD and PI</cell></row><row><cell>Phase I/II</cell><cell></cell><cell></cell><cell></cell></row><row><cell>NCT03194867</cell><cell>ISA, Cem</cell><cell>Active not recruiting</cell><cell>RRMM, ≥3 prior lines of therapy including IMiD (for ≥2 cycles or</cell></row><row><cell>Phase I/II</cell><cell></cell><cell></cell><cell>≥2 months) and PI (for ≥2 cycles or ≥2 months)</cell></row><row><cell>NCT03733717</cell><cell>ISA</cell><cell>Active not recruiting</cell><cell>Refractory MM, ≥2 prior lines of therapy including IMiD (for ≥2</cell></row><row><cell>Phase I</cell><cell></cell><cell></cell><cell>cycles or ≥2 months) or PI (for ≥2 cycles or ≥2 months)</cell></row><row><cell>NCT02283775</cell><cell>ISA, Pom, dex</cell><cell>Active not recruiting</cell><cell>RRMM, ≥2 prior lines of therapy including Len and PI</cell></row><row><cell>Phase I</cell><cell></cell><cell></cell><cell></cell></row><row><cell>Phase II</cell><cell></cell><cell></cell><cell></cell></row><row><cell>NCT02960555</cell><cell>ISA</cell><cell>Active not recruiting</cell><cell>Smoldering MM</cell></row><row><cell>Phase II</cell><cell></cell><cell></cell><cell></cell></row><row><cell>NCT03104842</cell><cell>ISA, Car, Len, dex</cell><cell>Recruiting</cell><cell>Newly diagnosed MM</cell></row><row><cell>Phase II</cell><cell></cell><cell></cell><cell></cell></row><row><cell>Phase III</cell><cell></cell><cell></cell><cell></cell></row><row><cell>NCT03275285</cell><cell>ISA, Car, dex</cell><cell>Active not recruiting</cell><cell>RRMM, 1-3 prior lines of therapy</cell></row><row><cell>Phase III</cell><cell>or</cell><cell></cell><cell></cell></row><row><cell></cell><cell>Car, dex</cell><cell></cell><cell></cell></row><row><cell>NCT03319667</cell><cell>Isa + VRD or VRD</cell><cell>Active not recruiting</cell><cell>Newly diagnosed MM</cell></row><row><cell>Phase III</cell><cell></cell><cell></cell><cell></cell></row><row><cell>NCT02990338</cell><cell>ISA, Pom, dex</cell><cell>Active not recruiting</cell><cell>RRMM, ≥2 prior lines of therapy including Len (for ≥2 cycles) and</cell></row><row><cell>Phase III</cell><cell>or</cell><cell></cell><cell>PI (for ≥2 cycles)</cell></row><row><cell></cell><cell>Pom, dex</cell><cell></cell><cell></cell></row><row><cell>NCT03617731</cell><cell>ISA + VRD or VRD</cell><cell>Recruiting</cell><cell>Newly diagnosed MM</cell></row><row><cell>Phase III</cell><cell></cell><cell></cell><cell></cell></row><row><cell cols="2">Information collected from clinicaltrials.gov, 14 June 2019.</cell><cell></cell><cell></cell></row><row><cell cols="4">Car: Carfilzomib; Cem: Cemiplimab; dex: Dexamethasone; IMiD: Immunomodulatory agent; ISA: Isatuximab; Len: Lenalidomide; MM: Multiple myeloma; PI: Proteasome inhibitor;</cell></row><row><cell cols="4">Pom: Pomalidomide; RRMM: Relapsed/refractory multiple myeloma; VCD: Bortezomib, cyclophosphamide, dexamethasone; VRD: Bortezomib, lenalidomide, dexamethasone.</cell></row><row><cell>Adapted with permission from [34].</cell><cell></cell><cell></cell><cell></cell></row></table><note></note></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot">Future Oncol. (2020) 16<ref type="bibr" target="#b1">(2)</ref> future science group</note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot">future science group www.futuremedicine.com</note>
+		</body>
+		<back>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Global burden of multiple myeloma: a systematic analysis for the global burden of disease study 2016</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><forename type="middle">J</forename><surname>Cowan</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><surname>Allen</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Barac</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">JAMA Oncol</title>
+		<imprint>
+			<biblScope unit="volume">4</biblScope>
+			<biblScope unit="issue">9</biblScope>
+			<biblScope unit="page" from="1221" to="1227" />
+			<date type="published" when="2018" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Immunomodulatory drugs in multiple myeloma: mechanisms of action and clinical experience</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><forename type="middle">A</forename><surname>Holstein</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><forename type="middle">L</forename><surname>Mccarthy</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Drugs</title>
+		<imprint>
+			<biblScope unit="volume">77</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page" from="505" to="520" />
+			<date type="published" when="2017" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Multiple myeloma: improved outcomes with new therapeutic approaches</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Eshaghian</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">R</forename><surname>Berenson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Curr. Opin. Support. Palliat. Care</title>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="330" to="336" />
+			<date type="published" when="2012" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Carfilzomib, lenalidomide, and dexamethasone for relapsed multiple myeloma</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><forename type="middle">K</forename><surname>Stewart</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><forename type="middle">V</forename><surname>Rajkumar</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">A</forename><surname>Dimopoulos</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">N. Engl. J. Med</title>
+		<imprint>
+			<biblScope unit="volume">372</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="142" to="152" />
+			<date type="published" when="2015" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Oral Ixazomib, lenalidomide, and dexamethasone for multiple myeloma</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><surname>Moreau</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Masszi</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">N</forename><surname>Grzasko</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">N. Engl. J. Med</title>
+		<imprint>
+			<biblScope unit="volume">374</biblScope>
+			<biblScope unit="issue">17</biblScope>
+			<biblScope unit="page" from="1621" to="1634" />
+			<date type="published" when="2016" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Pomalidomide plus low-dose dexamethasone versus high-dose dexamethasone alone for patients with relapsed and refractory multiple myeloma (MM-003): a randomised, open-label, Phase III trial</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>San Miguel</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><surname>Weisel</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><surname>Moreau</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Lancet Oncol</title>
+		<imprint>
+			<biblScope unit="volume">14</biblScope>
+			<biblScope unit="issue">11</biblScope>
+			<biblScope unit="page" from="1055" to="1066" />
+			<date type="published" when="2013" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Pomalidomide alone or in combination with low-dose dexamethasone in relapsed and refractory multiple myeloma: a randomized Phase II study</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><forename type="middle">G</forename><surname>Richardson</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><forename type="middle">S</forename><surname>Siegel</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><surname>Vij</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Blood</title>
+		<imprint>
+			<biblScope unit="volume">123</biblScope>
+			<biblScope unit="issue">12</biblScope>
+			<biblScope unit="page" from="1826" to="1832" />
+			<date type="published" when="2014" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Effects of induction and maintenance plus long-term bisphosphonates on bone disease in patients with multiple myeloma: the Medical Research Council Myeloma IX Trial</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">G</forename><forename type="middle">J</forename><surname>Morgan</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">F</forename><forename type="middle">E</forename><surname>Davies</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">W</forename><forename type="middle">M</forename><surname>Gregory</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Blood</title>
+		<imprint>
+			<biblScope unit="volume">119</biblScope>
+			<biblScope unit="issue">23</biblScope>
+			<biblScope unit="page" from="5374" to="5383" />
+			<date type="published" when="2012" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Mechanism of action of immunomodulatory drugs (IMiDS) in multiple myeloma</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><surname>Quach</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><surname>Ritchie</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><forename type="middle">K</forename><surname>Stewart</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Leukemia</title>
+		<imprint>
+			<biblScope unit="volume">24</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="22" to="32" />
+			<date type="published" when="2010" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Phase Ib dose-escalation study (PX-171-006) of carfilzomib, lenalidomide, and low-dose dexamethasone in relapsed or progressive multiple myeloma</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><surname>Niesvizky</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><forename type="middle">G</forename><surname>Martin</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">W</forename><forename type="middle">I</forename><surname>Bensinger</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Clin. Cancer Res</title>
+		<imprint>
+			<biblScope unit="volume">19</biblScope>
+			<biblScope unit="issue">8</biblScope>
+			<biblScope unit="page" from="2248" to="2256" />
+			<date type="published" when="2013" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">A Phase I/II study of carfilzomib in combination with lenalidomide and low-dose dexamethasone as a frontline treatment for multiple myeloma</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><forename type="middle">J</forename><surname>Jakubowiak</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><surname>Dytfeld</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><forename type="middle">A</forename><surname>Griffith</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Blood</title>
+		<imprint>
+			<biblScope unit="volume">120</biblScope>
+			<biblScope unit="issue">9</biblScope>
+			<biblScope unit="page" from="1801" to="1809" />
+			<date type="published" when="2012" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Lenalidomide, bortezomib, and dexamethasone combination therapy in patients with newly diagnosed multiple myeloma</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><forename type="middle">G</forename><surname>Richardson</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><surname>Weller</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Lonial</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Blood</title>
+		<imprint>
+			<biblScope unit="volume">116</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page" from="679" to="686" />
+			<date type="published" when="2010" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Living with the burden of relapse in multiple myeloma from the patient and physician perspective</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><surname>Hulin</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Hansen</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">L</forename><surname>Heron</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Leuk. Res</title>
+		<imprint>
+			<biblScope unit="volume">59</biblScope>
+			<biblScope unit="page" from="75" to="84" />
+			<date type="published" when="2017" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Role of proteasome inhibitors in relapsed and/or refractory multiple myeloma</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">X</forename><surname>Leleu</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><forename type="middle">G</forename><surname>Martin</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><surname>Einsele</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Clin. Lymphoma Myeloma Leuk</title>
+		<imprint>
+			<biblScope unit="volume">19</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="9" to="22" />
+			<date type="published" when="2019" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">Recent major improvement in long-term survival of younger patients with multiple myeloma</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><surname>Brenner</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Gondos</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><surname>Pulte</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Blood</title>
+		<imprint>
+			<biblScope unit="volume">111</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page" from="2521" to="2526" />
+			<date type="published" when="2008" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Management of multiple myeloma in the newly diagnosed patient</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">V</forename><surname>Mateos</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">San</forename><surname>Miguel</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">F</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Hematol. Am. Soc. Hematol. Educ. Program</title>
+		<imprint>
+			<biblScope unit="volume">2017</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="498" to="507" />
+			<date type="published" when="2017" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Therapy for relapsed multiple myeloma: guidelines from the mayo stratification for myeloma and risk-adapted therapy</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><surname>Dingli</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Ailawadhi</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><forename type="middle">L</forename><surname>Bergsagel</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Mayo Clin. Proc</title>
+		<imprint>
+			<biblScope unit="volume">92</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="578" to="598" />
+			<date type="published" when="2017" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Integrated safety profile of single-agent carfilzomib: experience from 526 patients enrolled in 4 Phase II clinical studies</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><surname>Siegel</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Martin</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Nooka</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Haematologica</title>
+		<imprint>
+			<biblScope unit="volume">98</biblScope>
+			<biblScope unit="issue">11</biblScope>
+			<biblScope unit="page" from="1753" to="1761" />
+			<date type="published" when="2013" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">Efficacy and toxicity profile of carfilzomib based regimens for treatment of multiple myeloma: a systematic review</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Mushtaq</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">V</forename><surname>Kapoor</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Latif</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Crit. Rev. Oncol. Hematol</title>
+		<imprint>
+			<biblScope unit="volume">125</biblScope>
+			<biblScope unit="page" from="1" to="11" />
+			<date type="published" when="2018" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">Once weekly versus twice weekly carfilzomib dosing in patients with relapsed and refractory multiple myeloma</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><surname>Moreau</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">V</forename><surname>Mateos</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">R</forename><surname>Berenson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Lancet Oncol</title>
+		<editor>A.R.R.O.W.</editor>
+		<imprint>
+			<biblScope unit="volume">19</biblScope>
+			<biblScope unit="issue">7</biblScope>
+			<biblScope unit="page" from="953" to="964" />
+			<date type="published" when="2018" />
+		</imprint>
+	</monogr>
+	<note>): interim analysis results of a randomised, Phase III study</note>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">Carfilzomib or bortezomib in relapsed or refractory multiple myeloma (ENDEAVOR): an interim overall survival analysis of an open-label, randomised, Phase III trial</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">A</forename><surname>Dimopoulos</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><surname>Goldschmidt</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><surname>Niesvizky</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Lancet Oncol</title>
+		<imprint>
+			<biblScope unit="volume">18</biblScope>
+			<biblScope unit="issue">10</biblScope>
+			<biblScope unit="page" from="1327" to="1337" />
+			<date type="published" when="2017" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">Elotuzumab therapy for relapsed or refractory multiple myeloma</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Lonial</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Dimopoulos</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Palumbo</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">N. Engl. J. Med</title>
+		<imprint>
+			<biblScope unit="volume">373</biblScope>
+			<biblScope unit="issue">7</biblScope>
+			<biblScope unit="page" from="621" to="631" />
+			<date type="published" when="2015" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">SAR650984, a novel humanized CD38-targeting antibody, demonstrates potent antitumor activity in models of multiple myeloma and other CD38 + hematologic malignancies</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Deckert</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">C</forename><surname>Wetzel</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">L</forename><forename type="middle">M</forename><surname>Bartle</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Clin. Cancer Res</title>
+		<imprint>
+			<biblScope unit="volume">20</biblScope>
+			<biblScope unit="issue">17</biblScope>
+			<biblScope unit="page" from="4574" to="4583" />
+			<date type="published" when="2014" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<monogr>
+		<title level="m" type="main">preclinical study reporting the mechanisms of action of isatuximab (ISA), highlighting the potent antitumor activity of this agent in cell lines and mouse models of multiple myeloma and other CD38 + hematologic malignancies</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>•• A</surname></persName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title level="a" type="main">Daratumumab monotherapy in patients with treatment-refractory multiple myeloma (SIRIUS): an open-label, randomised, Phase II trial</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Lonial</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">B</forename><forename type="middle">M</forename><surname>Weiss</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><forename type="middle">Z</forename><surname>Usmani</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Lancet</title>
+		<imprint>
+			<biblScope unit="volume">387</biblScope>
+			<biblScope unit="page" from="1551" to="1560" />
+			<date type="published" when="2016" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title level="a" type="main">Targeting CD38 with daratumumab monotherapy in multiple myeloma</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><forename type="middle">M</forename><surname>Lokhorst</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Plesner</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">P</forename><surname>Laubach</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">N. Engl. J. Med</title>
+		<imprint>
+			<biblScope unit="volume">373</biblScope>
+			<biblScope unit="issue">13</biblScope>
+			<biblScope unit="page" from="1207" to="1219" />
+			<date type="published" when="2015" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title level="a" type="main">Elotuzumab in combination with lenalidomide and dexamethasone in patients with relapsed multiple myeloma: final Phase II results from the randomised, open-label, Phase Ib-2 dose-escalation study</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><forename type="middle">G</forename><surname>Richardson</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Jagannath</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><surname>Moreau</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Lancet Haematol</title>
+		<imprint>
+			<biblScope unit="volume">2</biblScope>
+			<biblScope unit="issue">12</biblScope>
+			<biblScope unit="page" from="516" to="527" />
+			<date type="published" when="2015" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+		<title level="a" type="main">Monoclonal antibodies -a new era in the treatment of multiple myeloma</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Jelinek</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><surname>Hajek</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Blood Rev</title>
+		<imprint>
+			<biblScope unit="volume">30</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="101" to="110" />
+			<date type="published" when="2016" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<analytic>
+		<title level="a" type="main">Daratumumab depletes CD38 + immune regulatory cells, promotes T-cell expansion, and skews T-cell repertoire in multiple myeloma</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Krejcik</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Casneuf</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">I</forename><forename type="middle">S</forename><surname>Nijhof</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Blood</title>
+		<imprint>
+			<biblScope unit="volume">128</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="384" to="394" />
+			<date type="published" when="2016" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<analytic>
+		<title level="a" type="main">Daratumumab plus pomalidomide and dexamethasone in relapsed and/or refractory multiple myeloma</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Chari</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Suvannasankha</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">W</forename><surname>Fay</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Blood</title>
+		<imprint>
+			<biblScope unit="volume">130</biblScope>
+			<biblScope unit="issue">8</biblScope>
+			<biblScope unit="page" from="974" to="981" />
+			<date type="published" when="2017" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<analytic>
+		<title level="a" type="main">Daratumumab plus bortezomib, melphalan, and prednisone for untreated myeloma</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">V</forename><surname>Mateos</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">A</forename><surname>Dimopoulos</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Cavo</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">N. Engl. J. Med</title>
+		<imprint>
+			<biblScope unit="volume">378</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page" from="518" to="528" />
+			<date type="published" when="2018" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<analytic>
+		<title level="a" type="main">Elotuzumab plus pomalidomide and dexamethasone for multiple myeloma</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">A</forename><surname>Dimopoulos</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><surname>Dytfeld</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Grosicki</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">N. Engl. J. Med</title>
+		<imprint>
+			<biblScope unit="volume">379</biblScope>
+			<biblScope unit="page" from="1811" to="1822" />
+			<date type="published" when="2018" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<analytic>
+		<title level="a" type="main">Targeting CD38 suppresses induction and function of T regulatory cells to mitigate immunosuppression in multiple myeloma</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">X</forename><surname>Feng</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">L</forename><surname>Zhang</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><surname>Acharya</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Clin. Cancer Res</title>
+		<imprint>
+			<biblScope unit="volume">23</biblScope>
+			<biblScope unit="issue">15</biblScope>
+			<biblScope unit="page" from="4290" to="4300" />
+			<date type="published" when="2017" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<monogr>
+		<title level="m" type="main">A preclinical study reporting the effect of ISA on immunosuppressive Tregs. ISA treatment may restore the immune function against multiple myeloma cells</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">•</forename></persName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<analytic>
+		<title level="a" type="main">Critical analysis on the mechanism of action (MoA) of the anti-CD38 monoclonal antibody isatuximab in multiple myeloma (MM)</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">L</forename><surname>Moreno</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Zabaleta</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><surname>Alignani</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">of Hematology 58th Annual Meeting &amp; Exposition</title>
+		<meeting><address><addrLine>Blood, CA, USA</addrLine></address></meeting>
+		<imprint>
+			<publisher>American Society</publisher>
+			<date type="published" when="2016" />
+		</imprint>
+	</monogr>
+	<note>Presented at</note>
+</biblStruct>
+
+<biblStruct xml:id="b35">
+	<analytic>
+		<title level="a" type="main">Isatuximab plus pomalidomide/dexamethasone versus pomalidomide/dexamethasone in relapsed/refractory multiple myeloma: ICARIA Phase III study design</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><forename type="middle">G</forename><surname>Richardson</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Attal</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">F</forename><surname>Campana</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Future Oncol</title>
+		<imprint>
+			<biblScope unit="volume">14</biblScope>
+			<biblScope unit="issue">11</biblScope>
+			<biblScope unit="page" from="1035" to="1047" />
+			<date type="published" when="2017" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b36">
+	<analytic>
+		<title level="a" type="main">Potent activity of carfilzomib, a novel, irreversible inhibitor of the ubiquitin-proteasome pathway, against preclinical models of multiple myeloma</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><forename type="middle">J</forename><surname>Kuhn</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Q</forename><surname>Chen</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><forename type="middle">M</forename><surname>Voorhees</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Blood</title>
+		<imprint>
+			<biblScope unit="volume">110</biblScope>
+			<biblScope unit="issue">9</biblScope>
+			<biblScope unit="page" from="3281" to="3290" />
+			<date type="published" when="2007" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b37">
+	<analytic>
+		<title level="a" type="main">Results from a Phase II study of isatuximab as a single agent and in combination with dexamethasone in patients with relapsed/refractory multiple myeloma</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">A</forename><surname>Dimopoulos</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Bringhen</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><surname>Anttila</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">of Hematology 60th Annual Meeting CA</title>
+		<meeting><address><addrLine>USA</addrLine></address></meeting>
+		<imprint>
+			<publisher>American Society</publisher>
+			<date type="published" when="2018" />
+		</imprint>
+	</monogr>
+	<note>Presented at</note>
+</biblStruct>
+
+<biblStruct xml:id="b38">
+	<analytic>
+		<title level="a" type="main">Phase I trial of isatuximab monotherapy in the treatment of refractory multiple myeloma</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Martin</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Strickland</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Glenn</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Blood Cancer J</title>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page">41</biblScope>
+			<date type="published" when="2019" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b39">
+	<monogr>
+		<title level="m" type="main">Phase I study reporting the effect of ISA monotherapy. ISA monotherapy was active and tolerated in heavily pretreated patients with relapsed/refractory multiple myeloma</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>•• A</surname></persName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b40">
+	<analytic>
+		<title level="a" type="main">Updated data from a Phase II dose finding trial of single agent isatuximab (SAR650984, anti-CD38 mAb) in relapsed/refractory multiple myeloma (RRMM)</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">R</forename><surname>Richter</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><forename type="middle">G</forename><surname>Martin</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><surname>Vij</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">of Clinical Oncology 52nd Annual Meeting</title>
+		<meeting><address><addrLine>IL, USA</addrLine></address></meeting>
+		<imprint>
+			<publisher>American Society</publisher>
+			<date type="published" when="2016-06" />
+			<biblScope unit="page" from="3" to="7" />
+		</imprint>
+	</monogr>
+	<note>Presented at</note>
+</biblStruct>
+
+<biblStruct xml:id="b41">
+	<analytic>
+		<title level="a" type="main">A Phase Ib study of isatuximab plus lenalidomide and dexamethasone for relapsed/refractory multiple myeloma</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Martin</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><surname>Baz</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><forename type="middle">M</forename><surname>Benson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Blood</title>
+		<imprint>
+			<biblScope unit="volume">129</biblScope>
+			<biblScope unit="issue">25</biblScope>
+			<biblScope unit="page" from="3294" to="3303" />
+			<date type="published" when="2017" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b42">
+	<monogr>
+		<title level="m" type="main">Phase Ib study reporting the effect of ISA in combination with lenalidomide/dexamethasone. ISA in combination with lenalidomide/dexamethasone was tolerated and was active in heavily pretreated patients with relapsed/refractory multiple myeloma</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>•• A</surname></persName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b43">
+	<analytic>
+		<title level="a" type="main">Updated data from a Phase II dose finding trial of single-agent isatuximab (SAR650984, anti-CD38 mAb) in relapsed/refractory multiple myeloma</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">R</forename><surname>Richter</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><forename type="middle">G</forename><surname>Martin</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><surname>Vij</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">of Clinical Oncology 52nd Annual Meeting</title>
+		<meeting><address><addrLine>IL, USA</addrLine></address></meeting>
+		<imprint>
+			<publisher>American Society</publisher>
+			<date type="published" when="2016-06" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b44">
+	<monogr>
+		<title level="m" type="main">Phase II study reporting the effect of ISA monotherapy. ISA monotherapy was active and tolerated in heavily pretreated patients with relapsed/refractory multiple myeloma</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>•• A</surname></persName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b45">
+	<analytic>
+		<title level="a" type="main">Isatuximab plus pomalidomide and low-dose dexamethasone versus pomalidomide and low-dose dexamethasone in patients with relapsed and refractory multiple myeloma (ICARIA-MM): a randomised, multicentre, open-label, Phase 3 study</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Attal</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><forename type="middle">G</forename><surname>Richardson</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><forename type="middle">V</forename><surname>Rajkumar</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Lancet</title>
+		<imprint>
+			<biblScope unit="volume">37</biblScope>
+			<biblScope unit="page" from="2096" to="2107" />
+			<date type="published" when="2019" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b46">
+	<monogr>
+		<title level="m" type="main">Phase III study reporting the effect of ISA in combination with pomalidomide/dexamethasone. ISA in combination with pomalidomide/dexamethasone was tolerated and was active in heavily pretreated patients with relapsed/refractory multiple myeloma</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>•• A</surname></persName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b47">
+	<analytic>
+		<title level="a" type="main">Phase I-b study of isatuximab + carfilzomib in relapsed and refractory multiple myeloma (RRMM)</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Chari</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">R</forename><surname>Richter</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">N</forename><surname>Shah</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Clin. Oncol</title>
+		<imprint>
+			<biblScope unit="volume">36</biblScope>
+			<biblScope unit="page" from="8014" to="8014" />
+			<date type="published" when="2018" />
+		</imprint>
+	</monogr>
+	<note>Suppl. 15</note>
+</biblStruct>
+
+<biblStruct xml:id="b48">
+	<analytic>
+		<title level="a" type="main">International Myeloma Working Group consensus criteria for response and minimal residual disease assessment in multiple myeloma</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Kumar</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">B</forename><surname>Paiva</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><forename type="middle">C</forename><surname>Anderson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Lancet. Oncol</title>
+		<imprint>
+			<biblScope unit="volume">17</biblScope>
+			<biblScope unit="issue">8</biblScope>
+			<biblScope unit="page" from="328" to="346" />
+			<date type="published" when="2016" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b49">
+	<analytic>
+		<title level="a" type="main">Triplet versus doublet combination regimens for the treatment of relapsed or refractory multiple myeloma: a meta-analysis of Phase III randomized controlled trials</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Z</forename><surname>Sun</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">F</forename><surname>Zheng</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Wu</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Y</forename><surname>Liu</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><surname>Guo</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Y</forename><surname>Liu</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Crit. Rev. Oncol. Hematol</title>
+		<imprint>
+			<biblScope unit="volume">113</biblScope>
+			<biblScope unit="page" from="249" to="255" />
+			<date type="published" when="2017" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b50">
+	<analytic>
+		<title level="a" type="main">Daratumumab, bortezomib, and dexamethasone for multiple myeloma</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Palumbo</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Chanan-Khan</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><surname>Weisel</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">N. Engl. J. Med</title>
+		<imprint>
+			<biblScope unit="volume">375</biblScope>
+			<biblScope unit="issue">8</biblScope>
+			<biblScope unit="page" from="754" to="766" />
+			<date type="published" when="2016" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b51">
+	<analytic>
+		<title level="a" type="main">Daratumumab, lenalidomide, and dexamethasone for multiple myeloma</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">A</forename><surname>Dimopoulos</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Oriol</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><surname>Nahi</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">N. Engl. J. Med</title>
+		<imprint>
+			<biblScope unit="volume">375</biblScope>
+			<biblScope unit="issue">14</biblScope>
+			<biblScope unit="page" from="1319" to="1331" />
+			<date type="published" when="2016" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b52">
+	<analytic>
+		<title level="a" type="main">Daratumumab plus bortezomib and dexamethasone versus bortezomib and dexamethasone in relapsed or refractory multiple myeloma: updated analysis of CASTOR</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Spencer</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Lentzsch</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><surname>Weisel</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Haematologica</title>
+		<imprint>
+			<biblScope unit="volume">103</biblScope>
+			<biblScope unit="issue">12</biblScope>
+			<biblScope unit="page" from="2079" to="2087" />
+			<date type="published" when="2018" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b53">
+	<analytic>
+		<title level="a" type="main">Three-year follow up of the Phase III pollux study of daratumumab plus lenalidomide and dexamethasone (D-Rd) versus lenalidomide and dexamethasone (Rd) alone in relapsed or refractory multiple myeloma (RRMM)</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">N</forename><surname>Bahlis</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">A</forename><surname>Dimopoulos</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><forename type="middle">J</forename><surname>White</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Blood</title>
+		<imprint>
+			<biblScope unit="volume">132</biblScope>
+			<biblScope unit="page" from="1996" to="1996" />
+			<date type="published" when="2018" />
+		</imprint>
+	</monogr>
+	<note>Suppl. 1</note>
+</biblStruct>
+
+<biblStruct xml:id="b54">
+	<analytic>
+		<title level="a" type="main">Daratumumab plus carfilzomib and dexamethasone in patients with relapsed or refractory multiple myeloma</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Chari</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Martinez-Lopez</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">V</forename><surname>Mateos</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Blood</title>
+		<imprint>
+			<biblScope unit="volume">134</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page" from="421" to="431" />
+			<date type="published" when="2019" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

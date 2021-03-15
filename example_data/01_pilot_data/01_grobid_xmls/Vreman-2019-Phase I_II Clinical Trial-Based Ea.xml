@@ -1,0 +1,962 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /data/rsg/nlp/juanmoo1/bin/grobid-0.6.1/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Phase I/II Clinical Trial-Based Early Economic Evaluation of Acalabrutinib for Relapsed Chronic Lymphocytic Leukaemia</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+				<date type="published" when="2019-07-18">18 July 2019</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Rick</forename><forename type="middle">A</forename><surname>Vreman</surname></persName>
+							<email>r.a.vreman@uu.nl</email>
+							<idno type="ORCID">0000-0002-2076-322X</idno>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Joost</forename><forename type="middle">W</forename><surname>Geenen</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Anke</forename><forename type="middle">M</forename><surname>Hövels</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Wim</forename><forename type="middle">G</forename><surname>Goettsch</surname></persName>
+							<email>w.g.goettsch@uu.nl</email>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Hubert</forename><forename type="middle">G M</forename><surname>Leufkens</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">•</forename><surname>Maiwenn</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Al</surname></persName>
+						</author>
+						<author>
+							<affiliation>
+								<orgName>1 Division of Pharmacoepidemiology and Clinical Pharmacology, Utrecht Institute for Pharmaceutical Sciences, Utrecht University, </orgName>
+								<address><addrLine>Universiteitsweg 99, 3584 CG Utrecht, The Netherlands Diemen, The Netherlands Rotterdam, The Netherlands</addrLine></address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation>
+								<orgName> 2 The National Health Care Institute (ZIN), </orgName>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation>
+								<orgName> 3 Erasmus School of Health Policy and Management, Erasmus University Rotterdam,</orgName>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Phase I/II Clinical Trial-Based Early Economic Evaluation of Acalabrutinib for Relapsed Chronic Lymphocytic Leukaemia</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date type="published" when="2019-07-18">18 July 2019</date>
+						</imprint>
+					</monogr>
+					<idno type="DOI">10.1007/s40258-019-00496-1</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.6.1" ident="GROBID" when="2020-10-09T18:38+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<abstract>
+				<p>Objectives The objective of this study was to construct an early economic evaluation for acalabrutinib for relapsed chronic lymphocytic leukaemia (CLL) to assist early reimbursement decision making. Scenarios were assessed to find the relative impact of critical parameters on incremental costs and quality-adjusted life-years (QALYs). Methods A partitioned survival model was constructed comparing acalabrutinib and ibrutinib from a UK national health service perspective. This model included states for progression-free survival (PFS), post-progression survival (PPS) and death. PFS and overall survival (OS) were parametrically extrapolated from ibrutinib publications and a preliminary hazard ratio based on phase I/II data was applied for acalabrutinib. Deterministic and probabilistic sensitivity analyses were performed, and 1296 scenarios were assessed. Results The base-case incremental cost-effectiveness ratio (ICER) was £61,941/QALY, with 3.44 incremental QALYs and incremental costs of £213,339. Deterministic sensitivity analysis indicated that survival estimates, utilities and treatment costs of ibrutinib and acalabrutinib and resource use during PFS have the greatest influence on the ICER. Probabilistic results under different development scenarios indicated that greater efficacy of acalabrutinib would decrease the likelihood of cost effectiveness (from 63% at no effect to 2% at maximum efficacy). Scenario analyses showed that a reduction in PFS did not lead to great QALY differences (− 8 to − 14% incremental QALYs) although it did greatly affect costs (− 47 to − 122% incremental pounds). For OS, the opposite was true (− 89 to − 93% QALYs and − 7 to − 39% pounds). Conclusions Acalabrutinib is not likely to be cost effective compared with ibrutinib under current development scenarios. The conflicting effects of OS, PFS, drug costs and utility during PFS show that determining the cost effectiveness of acalabrutinib without insight into all parameters complicates health technology assessment decision making. Early assessment of the cost effectiveness of new products can support development choices and reimbursement processes through effective early dialogues between stakeholders.</p>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="1">Introduction</head><p>Bruton's tyrosine kinase (BTK) inhibitors represent a new line of treatment for chronic lymphocytic leukaemia (CLL), with drugs in development and one already on the market: ibrutinib. Ibrutinib has now been approved for previously treated and untreated CLL and has been shown to be clinically effective with a durable response <ref type="bibr" target="#b0">[1]</ref><ref type="bibr" target="#b1">[2]</ref><ref type="bibr" target="#b2">[3]</ref>. However, ibrutinib is not entirely specific for BTK. It may also inhibit epidermal growth factor receptor (EGFR), interleukin-2-inducible T cell kinase (ITK), T-cell X chromosome kinase, and tyrosine kinase expressed in hepatocellular carcinoma (TEC) family proteins, leading to side effects such as bleeding, atrial fibrillation, rash and diarrhoea <ref type="bibr" target="#b3">[4]</ref><ref type="bibr" target="#b4">[5]</ref><ref type="bibr" target="#b5">[6]</ref>.</p><p>A more specific BTK inhibitor showing promise in preclinical and early clinical trials is acalabrutinib .</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Key Points for Decision Makers</head><p>Based on this model, even with a price equal to ibrutinib, acalabrutinib is not cost effective with a willingness-topay threshold of £50,000. The probability of acalabrutinib being cost effective declines with greater efficacy.</p><p>Cost-effectiveness analyses for acalabrutinib lead to incentives to show a lack of progression-free survival benefit because the additional costs associated with prolonged progression-free survival are not offset by the additional quality-adjusted life-years gained.</p><p>The conflicting effects of quality of life and survival benefits disrupt proper assessment of the added value of acalabrutinib, which might lead to delays in patient access.</p><p>To get novel haematological agents to patients effectively and in a timely manner, development should include an early assessment of added value such as that presented here. makers and manufacturers to streamline clinical development and reimbursement processes <ref type="bibr" target="#b14">[15]</ref><ref type="bibr" target="#b15">[16]</ref><ref type="bibr" target="#b16">[17]</ref><ref type="bibr" target="#b17">[18]</ref>.</p><p>The objective of this study was to construct, based on published phase I/II data, an early cost-utility analysis comparing acalabrutinib and ibrutinib for chronic lymphocytic leukaemia to assist early reimbursement decision making. Sensitivity analyses were performed, and possible development scenarios were assessed, identifying critical parameters and quantifying their relative impact on incremental costs and QALYs.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2">Methods</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.1">General</head><p>An effectively lifetime partitioned survival model comparing acalabrutinib and ibrutinib was constructed in Microsoft Excel (Microsoft, Redmond, WA, USA) from a UK national health service perspective. As portrayed in <ref type="figure" target="#fig_0">Fig. 1</ref>, included health states were progression-free survival (PFS), post-progression survival (PPS) and death. PPS was split into two sub-states: subsequent treatment (PPS-ST) and best supportive care (PPS-BSC). The modelled population was based on the only available phase I/II trial for acalabrutinib and assumed representative for the UK relapsed CLL patient population <ref type="bibr" target="#b12">[13]</ref>. The model was based on the NICE assessment of the manufacturer's submission for ibrutinib, appraisal number TA429 <ref type="bibr" target="#b13">[14]</ref>. Patients moved between health states in cycles of 28 days with a time horizon of 30 years (effectively lifetime). Half-cycle corrections were applied. Costs and outcomes were both discounted by 3.5%. The model was constructed according to International Society for Pharmacoeconomics and Outcomes Research good modelling practice, and method reporting follows the In preclinical research, acalabrutinib did not inhibit EGFR, TEC, ITK or other agents <ref type="bibr" target="#b6">[7]</ref><ref type="bibr" target="#b7">[8]</ref><ref type="bibr" target="#b8">[9]</ref><ref type="bibr" target="#b9">[10]</ref>. Like ibrutinib, acalabrutinib binds covalently to Cys481 in the adenosine triphosphate (ATP) binding pocket of BTK. It shows a rapid oral absorption with a short plasma half-life, theoretically leading to less toxicity <ref type="bibr" target="#b10">[11,</ref><ref type="bibr" target="#b11">12]</ref>. Early clinical studies with acalabrutinib showed overall response rates of 95% at median followup of 14.3 months and mostly grade 1 or 2 adverse events without dose-limiting toxicity <ref type="bibr" target="#b12">[13]</ref>.</p><p>Based on these findings, acalabrutinib would be a valuable addition to the therapeutic options for CLL. However, patient access also relies on the decisions of health technology assessment (HTA) bodies. In the UK, the National Institute for Health and Care Excellence (NICE) reported that ibrutinib's initial price led to a base-case incremental costeffectiveness ratio (ICER) of £45,486 per quality-adjusted life-year (QALY) when compared with treatment with physicians' choice <ref type="bibr" target="#b13">[14]</ref>. They advised to reimburse ibrutinib only if the negotiated (confidential) discount would be upheld. Such evaluations by HTA bodies and concomitant price negotiations can take up to a year, delaying patient access.</p><p>To reduce delays in patient access, it is possible to start early with the assessment of added value of a new therapy. This can start during preclinical development but is more regularly executed during phase I or II clinical trials. One method is the use of early cost-utility analyses, which can clarify the relative impact of the parameters that drive cost effectiveness. Early cost-utility analyses allow decision Consolidated Health Economic Evaluation Reporting Standards statement for reporting standards <ref type="bibr" target="#b18">[19]</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.2">Treatment, Comparator and Subsequent Treatment</head><p>Ibrutinib 420 mg/day (three capsules) is administered until disease progression or until no longer tolerated by the patient. Acalabrutinib is given as 200 mg/day (two capsules). After progression, 41.9% of patients receive subsequent treatment. Subsequent treatment consists of rituximab and idelalisib. Rituximab is given in six cycles of 4 weeks, with an initial dose of 375 mg/m 2 and subsequent doses of 500 mg/m 2 , according to the NICE guideline for CLL <ref type="bibr" target="#b19">[20]</ref>. Idelalisib is administered until disease progression or death in a dose of 150 mg twice daily. A dose intensity of 94.8% was applied for acalabrutinib, ibrutinib and idelalisib, in accordance with findings from the RESONATE trial <ref type="bibr" target="#b1">[2,</ref><ref type="bibr" target="#b13">14]</ref>. In this study, acalabrutinib was assessed relative only to its primary comparator from the same class within the same indication (ibrutinib), as this is expected to be the main competitor in practice. Ofatumumab, physician's choice or other treatment regimens were not assessed in this study.  <ref type="bibr" target="#b12">[13]</ref>. PFS and OS individual patient data for ibrutinib was reconstructed from the reported Kaplan-Meier curves <ref type="bibr" target="#b20">[21]</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.3">Survival Data</head><p>Multiple parametric survival curves were tested: an exponential, Weibull, log-logistic and lognormal distribution. The exponential curve showed physiological plausibility and overall best fit for OS as well as PFS, corresponding with the expert review group comments on the ibrutinib submission for NICE <ref type="bibr" target="#b13">[14]</ref>. For acalabrutinib, efficacy compared with ibrutinib was established through an indirect treatment comparison based on the extracted individual patient data, providing a hazard ratio (HR) of 0.479 for PFS (95% confidence interval [CI] 0.230-0.998) and 0.391 for OS (95% CI 0.141-1.081). Because these are based on very limited data, we set the range of variation in sensitivity and scenario analyses for these HRs from 0.479 and 0.391 to 1.00, representing the full range up until no benefit for acalabrutinib. Furthermore, no assumptions were made about the distribution of this effect. The base case (which equals the maximum HR) was tested (0.479 and 0.391 for PFS and OS, respectively) as were five uniform steps up until no benefit, resulting in six scenarios for the HRs (base case/maximum, 80%, 60%, 40%, 20% and no benefit). In the probabilistic sensitivity analysis (PSA), the base assumption was that OS and PFS were independent. To test the effect of this assumption, the six scenarios for the PSA were also implemented, with the OS and PFS sharing the same random number when sampled, creating dependence. The full survival calculations, fitting criteria and ranges for all parametric models are provided in the Electronic Supplementary Material (ESM) 1.</p><p>PPS is defined as OS minus PFS and comprises patients receiving subsequent treatment as well as patients receiving best supportive care. PPS-ST was implemented by plotting a Weibull curve from the PFS given in the Kaplan-Meier graph provided by Furman et al. <ref type="bibr" target="#b21">[22]</ref>. The Weibull curve was chosen because NICE evaluated it as being the most suited curve for this treatment. In this multicentre, randomised, double-blind, placebo-controlled, phase III study, the efficacy of rituximab and idelalisib combination therapy was assessed in patients with relapsed CLL <ref type="bibr" target="#b21">[22]</ref>. After 80 cycles (75 months), Weibull plotted survival was &lt; 0.01% and therefore assumed to be 0. Because transition probabilities to the PPS state are not explicitly modelled in a partitioned survival model, entry into the PPS state each cycle was calculated by subtracting a specific background mortality from the proportion of patients leaving PFS. This background mortality was retrieved from the Life Expectancy Tables from the Office for National Statistics <ref type="bibr" target="#b22">[23]</ref>. This method was also used in the ibrutinib submission; however, the background mortality was considered fixed, whereas ours increased with increasing age.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.4">Costs and Resource Use</head><p>Unit costs for the drug treatments were provided by the British National Formulary <ref type="bibr" target="#b23">[24]</ref>. All costs are reported in UK pound sterling (£), year 2018 values. When cost inputs were based on different years, they were inflated with the Hospital and Community Health Services Pay and Price Index and, after discontinuation of this index in 2017, with the healthspecific subset of the consumer price inflation index <ref type="bibr" target="#b24">[25]</ref>. Daily costs for acalabrutinib treatment were assumed equal to ibrutinib in the base-case and sensitivity analyses and varied through scenario analyses, testing for 30% pricing premiums and reductions <ref type="table" target="#tab_1">(Table 1</ref>). Costs for rituximab are only inflicted in the first six cycles of subsequent treatment, in accordance with its approved indication, and are based on an average body surface area of 1.9 m 2 <ref type="bibr" target="#b13">[14]</ref>. Full calculations for costs per cycle of treatment with acalabrutinib, ibrutinib and rituximab + idelalisib are provided in ESM 2.</p><p>Costs of grade 3 and 4 adverse events (AEs) were included according to the UK national schedule of reference costs 2015-2016 <ref type="bibr" target="#b25">[26]</ref>. Incidences were implemented from clinical trials for acalabrutinib and from the NICE ibrutinib assessment <ref type="bibr" target="#b12">[13,</ref><ref type="bibr" target="#b13">14]</ref>. AE costs were inflicted once, in the first cycle. This matched the approach used in the NICE ibrutinib submission and is supported by the fact that onset of side effects was generally within the first half year and the duration of side effects was short <ref type="bibr" target="#b1">[2,</ref><ref type="bibr" target="#b13">14]</ref>.</p><p>Annual healthcare resource use such as hospital visits or blood tests associated with routine follow-up care was included. Resource use is based on expert elicitation reported by the manufacturer in the ibrutinib submission and differs per model state (PFS, PPS-ST, PPS-BSC) and whether the patient in the PFS state was a complete responder (CR), partial responder (PR) or non-responder (NR, including stable disease and progressive disease). Treatment responses for ibrutinib were reported to be 84% PR, 6% CR and 10% NR. For acalabrutinib, 95% were PR and 5% were NR <ref type="bibr" target="#b12">[13,</ref><ref type="bibr" target="#b13">14]</ref>. Full calculations of AE costs and resource use per treatment are provided in ESM 3.</p><p>Costs for the death state were inflicted once in the cycle when death happened and equal the per patient costs of healthcare utilisation during the last 30 days of life for patients aged ≥ 65 years with any cancer reported by Bekelman et al. <ref type="bibr" target="#b26">[27]</ref>. Costs and ranges for sensitivity analyses are stated in <ref type="table" target="#tab_1">Table 1</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.5">Utilities</head><p>Utility for acalabrutinib was not available and was therefore assumed equal to the ibrutinib utility of 0.799 reported in the RESONATE trial, as measured by the five-level EuroQoL-5 Dimensions (EQ-5D-5L). UK weights were used to generate patient utilities <ref type="bibr" target="#b13">[14]</ref>. As an optimum utility for sensitivity and scenario analyses, utility was calculated according to utilities awarded to the response states <ref type="bibr" target="#b27">[28]</ref>. AE disutility was calculated according to the incidence and utility decrement of AEs reported in clinical trials for ibrutinib and acalabrutinib <ref type="bibr" target="#b0">[1,</ref><ref type="bibr" target="#b1">2,</ref><ref type="bibr" target="#b12">13]</ref>. As with AE costs, disutility according to AEs was inflicted once, in the first cycle. The full calculations for disutility due to AEs are provided in ESM 4. To get the post-progression utility, the baseline utility was corrected for the reported utility decrement of 0.098 associated with progression <ref type="bibr" target="#b13">[14]</ref>. Base-case utilities and ranges are provided in <ref type="table" target="#tab_1">Table 1</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.6">Sensitivity and Scenario Analyses</head><p>Uncertainties were assessed through sensitivity and scenario analyses. In a one-way sensitivity analysis, the impact of each model input parameter was assessed individually according to their minimum and maximum value provided in <ref type="table" target="#tab_1">Table 1</ref>. This deterministic sensitivity analysis shows the impact of the minimum and maximum values for each separate parameter on the ICER. Additionally, PSAs were performed for each of the six HR steps, thus testing cost effectiveness for different acalabrutinib efficacy scenarios. Body surface area and age were not varied in the PSA, in line with the ibrutinib submission.</p><p>From the deterministic analysis, important parameters were selected that had a profound influence on the ICER, defined by variations &gt; 5% from the base-case ICER for the minimum and/or maximum scenario. For these critical parameters, all possible combinations of parameter values were tested in scenarios. This means that, for each value for each important parameter (the base-case, minimum and maximum values), all combinations of values for the other parameters were tested. This resulted in an overview of the impact of each parameter on incremental costs and QALYs. The calculation for this relative impact is given in ESM 5.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3">Results</head><p>The base-case ICER was £61,941/QALY, with 3.44 incremental QALYs and incremental costs of £213,339. Absolute costs and QALYs were £317,853 and 5.88 for ibrutinib and £531,192 and 9.33 for acalabrutinib, respectively. The one-way sensitivity analysis shown in <ref type="figure" target="#fig_1">Fig. 2</ref> indicates that survival estimates, utilities and treatment costs of ibrutinib and acalabrutinib and resource use during PFS have a distinct influence on the ICER. As <ref type="figure" target="#fig_1">Fig. 2</ref> also shows, OS and PFS have opposite effects, i.e. when OS for acalabrutinib is reduced, it increases the ICER, whereas reducing PFS leads to a smaller ICER. Higher utility and lower treatment and resource costs during PFS reduce the ICER. For ibrutinib, the opposite was true for all variables.</p><p>Results of the PSAs are shown in <ref type="figure" target="#fig_2">Fig. 3</ref>. When the efficacy of acalabrutinib grew (HR further from 1.00), the incremental costs and incremental QALYs both increased, but not simultaneously. With no effect (HRs PFS and OS = 1.00), the probability of cost effectiveness was 63% with a willingnessto-pay (WTP) threshold of £50,000/QALY. This declined gradually from 42%, to 25%, 10%, 3% and 2% (HRs 20, 40, 60, 80% and HR maximum, respectively). Thus, higher efficacy and the resulting higher QALYs led to disproportionately higher costs for acalabrutinib, when the price was equal to ibrutinib. Assuming dependence between PFS and OS did not lead to very different results. Mean ICERs were within ± 3% of mean ICERs without dependence. Probabilities of cost effectiveness with a WTP threshold of £50,000/ QALY were 60%, 42%, 26%, 12%, 5% and 1% for HRs 1.00, 20%, 40%, 60%, 80% and maximum, respectively.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.1">Scenarios</head><p>The deterministic analysis provided ten parameters that explained most of the variation. Of those ten, resource use costs and treatment costs during PFS were perfectly correlated with each other. Therefore, these were combined into one parameter (called costs acalabrutinib/ibrutinib) to reduce the number of scenarios. Eight parameters remained: four had base-case, minimum and maximum values (costs during PFS for both treatments and PFS and OS survival parameters for ibrutinib) and four had only two values (base-case and minimum [HRs for acalabrutinib] or base-case and maximum [utility during PFS for both treatments]). This led to a total of 3 4 × 2 <ref type="bibr" target="#b3">4</ref> = 1296 scenarios, which were all tested. For each parameter, the effect on incremental QALYs and incremental costs in the minimum and/or maximum scenario versus the base-case scenario was calculated for all scenarios.   <ref type="figure" target="#fig_3">Figure 4</ref> shows these effects for each of the included eight parameters. The size of the impact of a parameter on incremental costs and QALYs depended on the scenario, i.e. the values of the other input parameters. <ref type="figure" target="#fig_3">Figure 4</ref> shows all distinctive values for each parameter. The results indicate that OS was a main driver of incremental QALYs throughout all scenarios, but it does not impact on costs proportionally. The inverse was the case for PFS, which greatly affected costs but not QALYs proportionally.</p><p>A minimal OS of acalabrutinib led to a reduction in incremental QALYs (89-93% of base-case QALYs) while not greatly influencing incremental cost (reduction of 7-39% of base-case costs), leading to a higher ICER. A minimal PFS led to smaller incremental costs (reduction of 47-122% of base-case costs) but did not significantly affect QALYs (reduction of 8-14% of base-case QALYs), leading to a smaller ICER. Effects of these parameters for ibrutinib were similar but had an opposite direction of effect (i.e. small PFS led to a greater ICER). Utility had a relatively minor effect. Incremental QALY benefits due to greater utility during treatment (based on response rates as described in the Methods section) are relatively small throughout all scenarios (4.5-9.7% of base case). QALY and cost benefits due to fewer side effects were even smaller (and thus not included in scenario analyses).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="4">Discussion</head><p>In this model, the base-case ICER for acalabrutinib versus ibrutinib was £61,941/QALY, with 3.44 incremental QALYs and incremental costs of £213,339. This indicated that, even with a price equal to that of ibrutinib, acalabrutinib was not cost effective with a WTP threshold of £50,000. The probability of acalabrutinib being cost effective declined with greater efficacy. This finding is explained by the fact that longer PFS led to disproportionally higher costs, even though OS was also prolonged.</p><p>In the deterministic analysis, all parameters associated with PFS and OS had significant impact on the ICER. Parameters that had little impact were all one-off parameters (AEs, death costs) and parameters associated with the PPS state. Apparently, subsequent treatment choices do not greatly affect the cost effectiveness of acalabrutinib.</p><p>A price for acalabrutinib higher than ibrutinib, with a threshold of £50,000/QALY, would not lead to a cost-effective scenario. This indicates that, even though acalabrutinib would show good survival benefits, reimbursement for a higher price remains unlikely, impeding patient access. With treatment costs set at the base case, neither ibrutinib nor acalabrutinib was cost effective in the PFS state. However, the deterministic sensitivity analysis clarified that treatment costs have a large impact on the ICER. Thus, a cost reduction may potentially lead to time spent the PFS state being cost effective, which would greatly alter the cost effectiveness of both treatments. Indeed, in the tested scenario where both drug costs were minimal (with the rest of the parameters at base case), the ICER was £44,000/QALY.</p><p>For decision purposes, the cost effectiveness of an expensive treatment in a certain health state can be roughly estimated from its treatment costs and the utility in that state. If this estimate greatly exceeds the threshold, a modelling exercise may be redundant. However, as our analysis shows, modelling may still be very useful to provide insight into the relative effects of all parameters and their relevance to the ICER. When varied between their plausible bounds, improvements in PFS and OS led to opposite effects on the ICER. The relationship between PFS, OS and the ICER is often not straightforward within the context of an incremental analysis. For example, when costs occur during PFS that are higher than the WTP threshold, the moderate QALY improvement associated with prolonged PFS may not offset these costs if prolonged PFS does not translate to prolonged OS. A positive correlation may exist, but previous publications have highlighted that these correlations are very inconsistent between and within different cancer types <ref type="bibr" target="#b28">[29]</ref>. In this NICE decision support unit publication, it was furthermore deemed unclear how evidence supporting a correlation should be quantitatively implemented in a cost-effectiveness model. Thus, our primary assumption was independent of PFS and OS, but we ran scenario analyses assuming dependence through sampling from a shared random number. It should be noted that this was possible because an exponential curve was implemented for both survival curves. If one of the curves had been parameterised differently (e.g. Weibull), this approach would not have been viable. Correlating PFS and OS changed the shape of the cost-effectiveness plane, but it did not greatly impact the probability of the treatment being cost effective. However, the impact of correlation between PFS and OS may be greater for other drugs or in different disease areas. For early cost-effectiveness models, when information on the relation between PFS and OS is relatively sparse, we strongly advise testing the effects of correlation between survival curves in scenario analyses.</p><p>Recent research has shown that OS was included as a primary outcome in studies in only 18/68 (26%) of drug indications, whereas PFS accounted for another 31 (46%) and response rates for 11 (16%) <ref type="bibr" target="#b29">[30]</ref>. For drug indications that lacked data on OS at time of approval, after a median follow-up of 5.4 years after market entry, only 7% were subsequently shown to extend life. Our findings emphasise that this lack of demonstrated OS benefit induces problems in reimbursement processes.</p><p>Acalabrutinib was approved by the US FDA for mantle cell lymphoma (MCL) via the accelerated approval pathway based on benefit in overall response rate. Though treatments for MCL and CLL differ, of interest is that our analysis shows that the manufacturer would get the best price in CLL when they solely show benefit through better response rates and do not prove PFS benefit. Acalabrutinib is currently being investigated in several phase II and III clinical trials for first-line and subsequent treatment in CLL, MCL and at least eight other indications varying from rheumatoid arthritis to urothelial carcinoma <ref type="bibr" target="#b9">[10]</ref>. Our analysis shows that perverse incentives might be present in reimbursement processes. Therefore, it is essential that stakeholders engage early and discuss adequate evidence-generation plans prospectively based on scenario analyses such as the one presented here. </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="4.1">Strengths and Limitations</head><p>A strength of this research effort is that it establishes an indication of cost effectiveness well in advance of any reimbursement considerations for acalabrutinib. Additionally, our model is based on a previous submission to NICE and assesses the influence of each parameter in sensitivity and scenario analyses, leading to well-founded conclusions on each parameters' relevance.</p><p>However, relying on a previous NICE submission has its caveats. The use of input parameter values provided for ibrutinib may lead to biased estimates. In the ibrutinib submissions, resource use was estimated through expert opinion. Furthermore, the public report of the NICE appraisal is redacted in many places, which made it hard to implement some of the features and numbers. For example, we had to estimate the survival curves from the published data because the parameters for the curves were redacted in the report. Additionally, the utility reported was established in patients in clinical trials that differed from those for acalabrutinib. The lack of mature data specifically for acalabrutinib led to larger uncertainties in cost-effectiveness estimates but is also an inherent limitation to early modelling. We provided extensive sensitivity and scenario analyses to limit these risks.</p><p>Additionally, as mentioned, survival benefit was extracted from published phase I/II (acalabrutinib) and III (ibrutinib) studies. Several valid methods exist to estimate individual patient data from published Kaplan-Meier curves, which all vary slightly <ref type="bibr" target="#b20">[21,</ref><ref type="bibr" target="#b30">31,</ref><ref type="bibr" target="#b31">32]</ref>. We chose the method developed by Hoyle and Henley <ref type="bibr" target="#b20">[21]</ref> but others may also have been appropriate <ref type="bibr" target="#b32">[33]</ref>. All of them represent an approximation of individual patient data (IPD) and thus have limitations. Unfortunately, IPD is not shared by the company.</p><p>While naive comparisons between trials have limitations, they are also common in the economic evaluation of pharmaceutical products. Additionally, a previous study investigated effect sizes between phase II and phase III and found that, for solid malignancies, phase III studies yielded on average a 12.9% lower objective response rate <ref type="bibr" target="#b33">[34]</ref>. Though our analysis is not in solid malignancies and the endpoints used from the trials are survival endpoints, it should be noted from this previous research that comparing a phase II with a phase III trial may not be appropriate. However, we have performed extensive sensitivity and scenario analyses on the HRs provided by this comparison. To represent all possible outcomes for the survival benefit of acalabrutinib in comparison with ibrutinib, we chose the lower value for sensitivity analyses as no benefit (HR = 1.00).</p><p>Partitioned survival modelling itself has limitations, because modelling PFS and OS without modelling the underlying events may lead to over or underestimation of long-term survival. However, partitioned survival modelling is a common approach in oncology and is usually accepted by HTA bodies, as it was in the case of ibrutinib. Because survival in the PPS state was time dependent, we required the proportion of patients entering PPS from PFS. Our method to retrieve these events was similar to the ibrutinib submission in that it included correcting for background mortality. Still, the lack of actual information on progression of patients is a limitation to partitioned survival models.</p><p>We also did not include subsequent treatments other than rituximab + idelalisib, but results show that the nature and costs of subsequent treatment are practically irrelevant for cost-effectiveness estimates. Last, we also did not include ofatumumab as a comparator. Though the benefits of acalabrutinib over ofatumumab may be different, it is likely that ibrutinib will be the primary comparator because it belongs to the same class.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="4.2">Further Research</head><p>It was impossible to assess all scenarios when including all parameters (&gt; 650 million scenarios). Automated analyses might provide additional insight into parameters that we excluded from scenario analysis. Finally, combining multiple disease and treatment models leads to more insight into product dynamics and lifetime cost effectiveness. Such interactive models can accommodate the complexity of valuebased pricing within different indications for multiple drugs, leading to more appropriate reimbursement mechanisms.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="5">Conclusion</head><p>In this early cost-utility analysis, survival benefits of acalabrutinib do not result in a cost-effective scenario compared with ibrutinib. The relative and conflicting effects of OS, PFS, drug costs and utility during PFS show that determining the cost effectiveness of acalabrutinib without insight into all parameters complicates HTA decision making. Early assessment of the cost effectiveness of new products can support development choices and reimbursement processes through effective early dialogues between stakeholders, ultimately improving patient access.</p><p>Author Contributions RAV and MJA devised and planned the study. RAV, JWG, AMH and MJA built the model. RAV, WGG, HGML and MJA analysed the model results and devised the results to be presented. RAV wrote the first draft of the manuscript. All authors revised the manuscript in subsequent iterations. All authors approved the final manuscript.</p><p>Data Availability All data used for this study are public and referenced throughout the manuscript and its supplementary information files. The Excel model is available from the corresponding author on reasonable request.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>Fig. 1</head><label>1</label><figDesc>Model structure</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head>Fig. 2</head><label>2</label><figDesc>Relative effects of individual parameters in comparison with the base-case incremental cost-effectiveness ratio of £61,941/qualityadjusted life-year. Note that some parameters are only varied one way because the base case represents the maximum or minimum. acal acalabrutinib, AE adverse events, BSC best supportive care, C costs, ibru ibrutinib, OS overall survival, PFS progression-free survival, PPS post-progression survival, ST subsequent treatment, U utility</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_2"><head>Fig. 3</head><label>3</label><figDesc>Cost-effectiveness planes for different hazard ratios. The dark grey dot indicates the base case</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_3"><head>Fig. 4</head><label>4</label><figDesc>Range of variation in incremental costs and quality-adjusted life-years due to each critical parameter throughout all scenarios. Acal acalabrutinib, B base case, B/N base case/minimum, B/X base case/ maximum, C costs, ibru ibrutinib, N minimum, OS overall survival, PFS progression-free survival, U utility, X maximum</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_1"><head>Table 1</head><label>1</label><figDesc>Input parameters and their ranges a OS overall survival, PFS progression-free survival, PPS post-progression survival, PPS-BSC post-progression survival on best supportive care, PPS-ST post-progression survival on subsequent treatment, ST subsequent treatment a Calculations are presented in the ElectronicSupplementary Material 1-4</figDesc><table><row><cell>Parameter</cell><cell>Base</cell><cell>Minimum</cell><cell>Maximum</cell><cell>Distribution</cell><cell>Source</cell></row><row><cell>Mean age</cell><cell>62</cell><cell></cell><cell></cell><cell>Fixed</cell><cell>[13]</cell></row><row><cell>Mean body surface area (m 2 )</cell><cell>1.9</cell><cell></cell><cell></cell><cell>Fixed</cell><cell></cell></row><row><cell>Time horizon (years)</cell><cell>30</cell><cell></cell><cell></cell><cell>Fixed</cell><cell>NA</cell></row><row><cell>Discount rates</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Costs</cell><cell>0.035</cell><cell></cell><cell></cell><cell>Fixed</cell><cell>[25]</cell></row><row><cell>Effects</cell><cell>0.035</cell><cell></cell><cell></cell><cell>Fixed</cell><cell>[25]</cell></row><row><cell>Utilities</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>PFS</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Acalabrutinib</cell><cell>0.799</cell><cell>0.799</cell><cell>0.837</cell><cell>Beta</cell><cell>[2, 14]</cell></row><row><cell>Ibrutinib</cell><cell>0.799</cell><cell>0.799</cell><cell>0.837</cell><cell>Beta</cell><cell>[2, 14]</cell></row><row><cell>PPS</cell><cell>0.701</cell><cell>0.631</cell><cell>0.771</cell><cell>Beta</cell><cell>[2, 14]</cell></row><row><cell>Adverse event disutility</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Acalabrutinib</cell><cell>0.065</cell><cell>0.058</cell><cell>0.071</cell><cell>Beta</cell><cell>[13, 14]</cell></row><row><cell>Ibrutinib</cell><cell>0.091</cell><cell>0.082</cell><cell>0.100</cell><cell>Beta</cell><cell>[1, 2, 14]</cell></row><row><cell>Costs (£)</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Treatment during PFS</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Acalabrutinib</cell><cell>4279</cell><cell>2996</cell><cell>5563</cell><cell>Fixed</cell><cell>[14]</cell></row><row><cell>Ibrutinib</cell><cell>4279</cell><cell>2996</cell><cell>5563</cell><cell>Fixed</cell><cell>[14]</cell></row><row><cell>Adverse events</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Acalabrutinib</cell><cell>639</cell><cell>319</cell><cell>958</cell><cell>Normal</cell><cell>[13, 14]</cell></row><row><cell>Ibrutinib</cell><cell>829</cell><cell>414</cell><cell>1243</cell><cell>Normal</cell><cell>[1, 2, 14]</cell></row><row><cell>PFS state</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Acalabrutinib</cell><cell>244</cell><cell>122</cell><cell>367</cell><cell>Normal</cell><cell>[14]</cell></row><row><cell>Ibrutinib</cell><cell>245</cell><cell>122</cell><cell>367</cell><cell>Normal</cell><cell>[14]</cell></row><row><cell>PPS state</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Rituximab + idelalisib cycle 1-6</cell><cell>5428</cell><cell>1206</cell><cell>7137</cell><cell>Normal</cell><cell>[20, 23]</cell></row><row><cell>Rituximab + idelalisib cycle 7+</cell><cell>3298</cell><cell>780</cell><cell>4368</cell><cell>Normal</cell><cell>[20, 23]</cell></row><row><cell>BSC</cell><cell>177</cell><cell>88</cell><cell>265</cell><cell>Normal</cell><cell>[14]</cell></row><row><cell>Death</cell><cell>3051</cell><cell>1525</cell><cell>4576</cell><cell>Normal</cell><cell>[26]</cell></row><row><cell>Survival parameters</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Ibrutinib (hazard rates)</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>PFS</cell><cell>0.013</cell><cell>0.018</cell><cell>0.010</cell><cell>Normal</cell><cell>[2]</cell></row><row><cell>OS</cell><cell>0.008</cell><cell>0.010</cell><cell>0.006</cell><cell>Normal</cell><cell>[2]</cell></row><row><cell>Acalabrutinib (hazard ratios)</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>PFS</cell><cell>0.479</cell><cell>1.000</cell><cell>0.479</cell><cell>6 steps</cell><cell>[13]</cell></row><row><cell>OS</cell><cell>0.391</cell><cell>1.000</cell><cell>0.391</cell><cell>6 steps</cell><cell>[13]</cell></row><row><cell>ST (Weibull)</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Scale</cell><cell>0.008</cell><cell>0.008</cell><cell>0.008</cell><cell>Fixed</cell><cell>[22]</cell></row><row><cell>Shape</cell><cell>1.582</cell><cell>1.758</cell><cell>1.439</cell><cell>Fixed</cell><cell>[22]</cell></row><row><cell>Percentage receiving ST</cell><cell>0.419</cell><cell>0.219</cell><cell>0.619</cell><cell>Normal</cell><cell>[14]</cell></row></table><note></note></figure>
+		</body>
+		<back>
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Compliance with Ethical Standards</head><p>Funding No funding was received for this study.</p><p>Conflict of interest JWG has received an unrestricted grant from Glax-oSmithKline, unrelated to this study. AMH has received unrestricted grants from GlaxoSmithKline, unrelated to this study. HGML is a past-chairman of the Dutch Medicines Evaluation Board and a pastmember of the EMA CHMP. He is also a member of the Lygature Leadership Team. RAV, WGG, MJA have no conflicts of interest that are directly relevant to the content of this article.</p><p>Open Access This article is distributed under the terms of the Creative Commons Attribution-NonCommercial 4.0 International License (http://creativecommons.org/licenses/by-nc/4.0/), which permits any noncommercial use, distribution, and reproduction in any medium, provided you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons license, and indicate if changes were made.</p></div>			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Three-year follow-up of treatment-naïve and previously treated patients with CLL and SLL receiving single-agent ibrutinib</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">C</forename><surname>Byrd</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><forename type="middle">R</forename><surname>Furman</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><forename type="middle">E</forename><surname>Coutre</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">A</forename><surname>Burger</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><forename type="middle">A</forename><surname>Blum</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Coleman</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Blood</title>
+		<imprint>
+			<biblScope unit="volume">125</biblScope>
+			<biblScope unit="page" from="2497" to="506" />
+			<date type="published" when="2015" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Ibrutinib versus ofatumumab in previously treated chronic lymphoid leukemia</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">C</forename><surname>Byrd</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">R</forename><surname>Brown</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">O</forename><surname>'brien</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Barrientos</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">C</forename><surname>Kay</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">N</forename><forename type="middle">E</forename><surname>Reddy</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">N</forename><forename type="middle">M</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">N Engl J Med</title>
+		<imprint>
+			<biblScope unit="volume">371</biblScope>
+			<biblScope unit="page" from="213" to="236" />
+			<date type="published" when="2014" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">FDA approval: ibrutinib for patients with previously treated mantle cell lymphoma and previously treated chronic lymphocytic leukemia</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><forename type="middle">A</forename><surname>De Claro</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><forename type="middle">M</forename><surname>Mcginn</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">N</forename><surname>Verdun</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S-L</forename><surname>Lee</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H-J</forename><surname>Chiu</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><surname>Saber</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Clin Cancer Res</title>
+		<imprint>
+			<biblScope unit="volume">21</biblScope>
+			<biblScope unit="page" from="3586" to="90" />
+			<date type="published" when="2015" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Ibrutinib treatment affects collagen and von Willebrand factor-dependent platelet functions</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Levade</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><surname>David</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><surname>Garcia</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P-A</forename><surname>Laurent</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Cadot</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A-S</forename><surname>Michallet</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Blood</title>
+		<imprint>
+			<biblScope unit="volume">124</biblScope>
+			<biblScope unit="page" from="3991" to="3996" />
+			<date type="published" when="2014" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Panniculitis in patients undergoing treatment with the bruton tyrosine kinase inhibitor ibrutinib for lymphoid leukemias</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><forename type="middle">K</forename><surname>Fabbro</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><forename type="middle">M</forename><surname>Smith</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">A</forename><surname>Dubovsky</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><forename type="middle">A</forename><surname>Gru</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">A</forename><surname>Jones</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">JAMA Oncol</title>
+		<imprint>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="page" from="684" to="690" />
+			<date type="published" when="2015" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Ibrutinib increases the risk of atrial fibrillation, potentially through inhibition of cardiac PI3 K-Akt signaling</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">R</forename><surname>Mcmullen</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Ejh</forename><surname>Boey</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Jyy</forename><surname>Ooi</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">F</forename><surname>Seymour</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">J</forename><surname>Keating</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><forename type="middle">S</forename><surname>Tam</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Blood</title>
+		<imprint>
+			<biblScope unit="volume">124</biblScope>
+			<biblScope unit="page" from="3829" to="3859" />
+			<date type="published" when="2014" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Acalabrutinib for relapsed chronic lymphocytic leukaemia</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><forename type="middle">K</forename><surname>Burki</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Lancet Oncol</title>
+		<imprint>
+			<biblScope unit="volume">17</biblScope>
+			<biblScope unit="page">48</biblScope>
+			<date type="published" when="2016" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Comparison of acalabrutinib, a selective bruton tyrosine kinase inhibitor, with ibrutinib in chronic lymphocytic leukemia cells</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">V</forename><surname>Patel</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><surname>Balakrishnan</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><surname>Bibikova</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Ayres</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">J</forename><surname>Keating</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">W</forename><forename type="middle">G</forename><surname>Wierda</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Clin Cancer Res</title>
+		<imprint>
+			<biblScope unit="volume">23</biblScope>
+			<biblScope unit="page" from="3734" to="3777" />
+			<date type="published" when="2017" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Second-generation inhibitors of Bruton tyrosine kinase</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Wu</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><surname>Liu</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><forename type="middle">T</forename><surname>Tsui</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><surname>Liu</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Hematol OncolJ Hematol Oncol</title>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="page">80</biblScope>
+			<date type="published" when="2016" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">ACP-196): a selective second-generation BTK inhibitor</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Wu</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Zhang</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><surname>Liu</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Acalabrutinib</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Hematol Oncol J Hematol Oncol</title>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="page">21</biblScope>
+			<date type="published" when="2016" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">The Bruton Tyrosine Kinase (BTK) inhibitor acalabrutinib demonstrates potent on-target effects and efficacy in two mouse models of chronic lymphocytic leukemia</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Sem</forename><surname>Herman</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Montraveta</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><forename type="middle">U</forename><surname>Niemann</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><surname>Mora-Jensen</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Gulrajani</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">F</forename><surname>Krantz</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Clin Cancer Res</title>
+		<imprint>
+			<biblScope unit="volume">23</biblScope>
+			<biblScope unit="page" from="2831" to="2872" />
+			<date type="published" when="2017" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">From identification of the BTK kinase to effective management of leukemia</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Cie</forename><surname>Smith</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Oncogene</title>
+		<imprint>
+			<biblScope unit="volume">36</biblScope>
+			<biblScope unit="page" from="2045" to="53" />
+			<date type="published" when="2017" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">ACP-196) in relapsed chronic lymphocytic leukemia</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">C</forename><surname>Byrd</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">B</forename><surname>Harrington</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>O'brien</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">A</forename><surname>Jones</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Schuh</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Devereux</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">N Engl J Med</title>
+		<imprint>
+			<biblScope unit="volume">374</biblScope>
+			<biblScope unit="page" from="323" to="355" />
+			<date type="published" when="2016" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<monogr>
+		<title level="m" type="main">National Institute for Health and Care Excellence</title>
+		<imprint>
+			<date type="published" when="2017" />
+		</imprint>
+	</monogr>
+	<note>Ibrutinib final appraisal determination</note>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">Early assessment of medical technologies to inform product development and market access: a review of methods and applications</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">J</forename><surname>Ijzerman</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Lmg</forename><surname>Steuten</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Appl Health Econ Health Policy</title>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="page" from="331" to="378" />
+			<date type="published" when="2011" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Emerging use of early health technology assessment in medical product development: a scoping review of the literature</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">J</forename><surname>Ijzerman</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><surname>Koffijberg</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><surname>Fenwick</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Krahn</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Pharmacoeconomics</title>
+		<imprint>
+			<biblScope unit="volume">35</biblScope>
+			<biblScope unit="issue">7</biblScope>
+			<biblScope unit="page" from="727" to="767" />
+			<date type="published" when="2017" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Regulatory watch: outcomes of early health technology assessment dialogues in medicinal product development</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">F</forename><surname>Maignen</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">L</forename><surname>Osipenko</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><surname>Pinilla-Dominguez</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><surname>Crowe</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nat Rev Drug Discov</title>
+		<imprint>
+			<biblScope unit="volume">16</biblScope>
+			<biblScope unit="page">79</biblScope>
+			<date type="published" when="2017" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Early health technology assessments in pharmacogenomics: a case example in cardiovascular drugs</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">W</forename><surname>Geenen</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><forename type="middle">V</forename><surname>Baranova</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">F</forename><forename type="middle">W</forename><surname>Asselbergs</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>De Boer</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><forename type="middle">A</forename><surname>Vreman</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><forename type="middle">N</forename><surname>Palmer</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Pharmacogenomics</title>
+		<imprint>
+			<biblScope unit="volume">18</biblScope>
+			<biblScope unit="page" from="1143" to="53" />
+			<date type="published" when="2017" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">Consolidated Health Economic Evaluation Reporting Standards (CHEERS) statement</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><surname>Husereau</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Drummond</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Petrou</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><surname>Carswell</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><surname>Moher</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><surname>Greenberg</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">BMC Med</title>
+		<imprint>
+			<biblScope unit="volume">11</biblScope>
+			<biblScope unit="page">80</biblScope>
+			<date type="published" when="2013" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<monogr>
+		<title level="m" type="main">Blood and bone marrow cancers pathway</title>
+		<ptr target="https://pathways.nice.org.uk/pathways/blood-and-bone-marrow-cancers/leukaemia#path=view%3A/pathways/blood-and-bone-marrow-cancers/lymphoid-leukaemia.xml&amp;content=view-node%3Anodes-treatment-for-relapsed-or-refractory-chronic-lymphocytic-leukaemia.Accessed25" />
+		<imprint>
+			<date type="published" when="2017-07" />
+		</imprint>
+		<respStmt>
+			<orgName>National Institute for Health and Care Excellence</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">Improved curve fits to summary survival data: application to economic evaluation of health technologies</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">W</forename><surname>Hoyle</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">W</forename><surname>Henley</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">BMC Med Res Methodol</title>
+		<imprint>
+			<biblScope unit="volume">11</biblScope>
+			<biblScope unit="page">139</biblScope>
+			<date type="published" when="2011" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">Idelalisib and rituximab in relapsed chronic lymphocytic leukemia</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><forename type="middle">R</forename><surname>Furman</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">P</forename><surname>Sharman</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><forename type="middle">E</forename><surname>Coutre</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">B</forename><forename type="middle">D</forename><surname>Cheson</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">M</forename><surname>Pagel</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><surname>Hillmen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">N Engl J Med</title>
+		<imprint>
+			<biblScope unit="volume">370</biblScope>
+			<biblScope unit="page" from="997" to="1007" />
+			<date type="published" when="2014" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<monogr>
+		<title level="m" type="main">peopl epopu latio nandc ommun ity/birth sdeat hsand marri ages/lifee xpect ancie s/datas ets/natio nalli fetab lesun itedk ingdo mrefe rence table s</title>
+		<ptr target="https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/lifeexpectancies/datasets/nationallifetablesunitedkingdomreferencetables.Accessed25" />
+		<imprint>
+			<date type="published" when="2017-07" />
+		</imprint>
+	</monogr>
+	<note>Office for National Statistics</note>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<monogr>
+		<title level="m" type="main">British Medical Association and the Royal Pharmaceutical Society of Great Britain. The British National Formulary (BNF). London</title>
+		<ptr target="https://www.medicinescomplete.com/mc/login.htm.Accessed25" />
+		<imprint>
+			<date type="published" when="2017-07" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<monogr>
+		<title level="m" type="main">Department of Health. Hospital and community health services (HCHS) pay and price index. London: Department of Health</title>
+		<imprint>
+			<date type="published" when="2016" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title level="a" type="main">collection: national schedule of reference costs-year 2015-16-NHS trust and NHS foundation trusts</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Department</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Health</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">National Health Service. Reference cost</title>
+		<imprint/>
+	</monogr>
+	<note>National Health Service</note>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title level="a" type="main">Comparison of site of death, health care utilization, and hospital expenditures for patients dying with cancer in 7 developed countries</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">E</forename><surname>Bekelman</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><forename type="middle">D</forename><surname>Halpern</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><forename type="middle">R</forename><surname>Blankart</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">P</forename><surname>Bynum</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Cohen</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><surname>Fowler</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">JAMA</title>
+		<imprint>
+			<biblScope unit="volume">315</biblScope>
+			<biblScope unit="page" from="272" to="83" />
+			<date type="published" when="2016" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+		<title level="a" type="main">Population preference values for treatment outcomes in chronic lymphocytic leukaemia: a cross-sectional utility study</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><forename type="middle">M</forename><surname>Beusterien</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Davies</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Leach</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><surname>Meiklejohn</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">L</forename><surname>Grinspan</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>O'toole</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Health Qual Life Outcomes</title>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="page">50</biblScope>
+			<date type="published" when="2010" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<monogr>
+		<title level="m" type="main">A review of studies examining the relationship between progression-free survival and overall survival in advanced or metastatic cancer</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Davis</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><surname>Tappenden</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Cantrell</surname></persName>
+		</author>
+		<ptr target="http://www.ncbi.nlm.nih.gov/books/NBK425826/.Accessed4" />
+		<imprint>
+			<date type="published" when="2012" />
+		</imprint>
+	</monogr>
+	<note>London: National Institute for Health and Care Excellence (NICE). cited</note>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<analytic>
+		<title level="a" type="main">Availability of evidence of benefits on overall survival and quality of life of cancer drugs approved by European Medicines Agency: retrospective cohort study of drug approvals 2009-13</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><surname>Davis</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><surname>Naci</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><surname>Gurpinar</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><surname>Poplavska</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Pinto</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Aggarwal</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">BMJ</title>
+		<imprint>
+			<biblScope unit="volume">359</biblScope>
+			<biblScope unit="page">4530</biblScope>
+			<date type="published" when="2017" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<analytic>
+		<title level="a" type="main">Enhanced secondary analysis of survival data: reconstructing the data from published Kaplan-Meier survival curves</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><surname>Guyot</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Ades</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">J</forename><surname>Ouwens</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">N</forename><forename type="middle">J</forename><surname>Welton</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">BMC Med Res Methodol</title>
+		<imprint>
+			<biblScope unit="volume">12</biblScope>
+			<biblScope unit="page">9</biblScope>
+			<date type="published" when="2012" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<analytic>
+		<title level="a" type="main">Reconstructing time-to-event data from published Kaplan-Meier curves</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Y</forename><surname>Wei</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><surname>Royston</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Stat J</title>
+		<imprint>
+			<biblScope unit="volume">17</biblScope>
+			<biblScope unit="page" from="786" to="802" />
+			<date type="published" when="2017" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<analytic>
+		<title level="a" type="main">A review and comparison of methods for recreating individual patient data from published Kaplan-Meier survival curves for economic evaluations: a simulation study</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">X</forename><surname>Wan</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">L</forename><surname>Peng</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Y</forename><surname>Li</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">PLoS One</title>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page">121353</biblScope>
+			<date type="published" when="2015" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<analytic>
+		<title level="a" type="main">Comparison of outcomes of phase II studies and subsequent randomized control studies using identical chemotherapeutic regimens</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">I</forename><surname>Zia</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">L</forename><forename type="middle">L</forename><surname>Siu</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">G</forename><forename type="middle">R</forename><surname>Pond</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><forename type="middle">X</forename><surname>Chen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Clin Oncol</title>
+		<imprint>
+			<biblScope unit="volume">23</biblScope>
+			<biblScope unit="page" from="6982" to="91" />
+			<date type="published" when="2005" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

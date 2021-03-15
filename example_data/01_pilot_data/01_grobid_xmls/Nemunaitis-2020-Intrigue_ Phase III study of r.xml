@@ -1,0 +1,1718 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /data/rsg/nlp/juanmoo1/bin/grobid-0.6.1/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Intrigue: Phase III study of ripretinib versus sunitinib in advanced gastrointestinal stromal tumor after imatinib</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+				<date type="published" when="2019-11-22">22 November 2019</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author role="corresp">
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">John</forename><surname>Nemunaitis</surname></persName>
+							<email>john.nemunaitis@utoledo.edu</email>
+							<affiliation key="aff0">
+								<orgName type="institution">The University of Toledo College of Medicine &amp; Life Sciences</orgName>
+								<address>
+									<postCode>43606</postCode>
+									<settlement>Toledo</settlement>
+									<region>OH</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="institution">ProMedica Health System</orgName>
+								<address>
+									<postCode>43606</postCode>
+									<settlement>Toledo</settlement>
+									<region>OH</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Sebastian</forename><surname>Bauer</surname></persName>
+							<affiliation key="aff2">
+								<orgName type="department" key="dep1">West German Cancer Center</orgName>
+								<orgName type="department" key="dep2">Deparment of Medical Oncology</orgName>
+								<orgName type="institution" key="instit1">University Hospital Essen</orgName>
+								<orgName type="institution" key="instit2">University of Duisburg-Essen</orgName>
+								<address>
+									<settlement>Essen</settlement>
+									<country key="DE">Germany</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Jean-Yves</forename><surname>Blay</surname></persName>
+							<affiliation key="aff3">
+								<orgName type="department">Centre Léon Bérard</orgName>
+								<orgName type="institution" key="instit1">Unicancer, LYRICAN</orgName>
+								<orgName type="institution" key="instit2">Université</orgName>
+								<address>
+									<addrLine>Claude Bernard Lyon 1</addrLine>
+									<settlement>Lyon</settlement>
+									<country key="FR">France</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Khalil</forename><surname>Choucair</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="institution">The University of Toledo College of Medicine &amp; Life Sciences</orgName>
+								<address>
+									<postCode>43606</postCode>
+									<settlement>Toledo</settlement>
+									<region>OH</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Hans</forename><surname>Gelderblom</surname></persName>
+							<affiliation key="aff4">
+								<orgName type="institution">Leiden University Medical Center</orgName>
+								<address>
+									<settlement>Leiden</settlement>
+									<country key="NL">The Netherlands</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Suzanne</forename><surname>George</surname></persName>
+							<affiliation key="aff5">
+								<orgName type="department" key="dep1">Medical Oncology</orgName>
+								<orgName type="department" key="dep2">Dana-Farber Cancer Institute</orgName>
+								<address>
+									<postCode>02215</postCode>
+									<settlement>Boston</settlement>
+									<region>MA</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Patrick</forename><surname>Schöffski</surname></persName>
+							<affiliation key="aff6">
+								<orgName type="department">Department of General Medical Oncology</orgName>
+								<orgName type="institution" key="instit1">University Hospitals Leuven</orgName>
+								<orgName type="institution" key="instit2">Leuven Cancer Institute</orgName>
+								<address>
+									<settlement>Leuven</settlement>
+									<country key="BE">Belgium</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Margaret</forename><surname>Von Mehren</surname></persName>
+							<affiliation key="aff7">
+								<orgName type="department">Fox Chase Cancer Center</orgName>
+								<address>
+									<postCode>19111</postCode>
+									<settlement>Philadelphia</settlement>
+									<region>PA</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">John</forename><surname>Zalcberg</surname></persName>
+							<affiliation key="aff8">
+								<orgName type="department" key="dep1">Department of Epidemiology &amp; Preventive Medicine</orgName>
+								<orgName type="department" key="dep2">School of Public Health &amp; Preventive Medicine</orgName>
+								<orgName type="institution">Monash University</orgName>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Haroun</forename><surname>Achour</surname></persName>
+							<affiliation key="aff10">
+								<orgName type="institution">Deciphera Pharmaceuticals, LLC</orgName>
+								<address>
+									<postCode>02451</postCode>
+									<settlement>Waltham</settlement>
+									<region>MA</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Rodrigo</forename><surname>Ruiz-Soto</surname></persName>
+							<affiliation key="aff9">
+								<orgName type="department">Department of Medical Oncology</orgName>
+								<orgName type="institution">Alfred Health</orgName>
+								<address>
+									<settlement>Melbourne</settlement>
+									<country key="AU">Australia</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff10">
+								<orgName type="institution">Deciphera Pharmaceuticals, LLC</orgName>
+								<address>
+									<postCode>02451</postCode>
+									<settlement>Waltham</settlement>
+									<region>MA</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff9">
+								<orgName type="department">Department of Medical Oncology</orgName>
+								<orgName type="institution">Alfred Health</orgName>
+								<address>
+									<settlement>Melbourne</settlement>
+									<country key="AU">Australia</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Michael</forename><forename type="middle">C</forename><surname>Heinrich</surname></persName>
+							<affiliation key="aff11">
+								<orgName type="institution" key="instit1">Portland VA Health Care System &amp; OHSU Knight Cancer Institute</orgName>
+								<orgName type="institution" key="instit2">Oregon Health &amp; Science University</orgName>
+								<address>
+									<postCode>97239</postCode>
+									<settlement>Portland</settlement>
+									<region>OR</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Intrigue: Phase III study of ripretinib versus sunitinib in advanced gastrointestinal stromal tumor after imatinib</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date type="published" when="2019-11-22">22 November 2019</date>
+						</imprint>
+					</monogr>
+					<idno type="DOI">10.2217/fon-2019-0633</idno>
+					<note type="submission">First draft submitted: 9 October 2019; Accepted for publication: 1 November 2019; 2618 • gastrointestinal stromal tumor • KIT • PDGFRA • Phase III trial • receptor tyrosine kinase • ripretinib • sarcoma • targeted therapy • tyrosine kinase inhibitor</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.6.1" ident="GROBID" when="2020-10-09T18:38+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>DCC-</keywords>
+			</textClass>
+			<abstract>
+				<p>Ripretinib (DCC-2618) is a novel, type II tyrosine switch control inhibitor designed to broadly inhibit activating and drug-resistant mutations in KIT and PDGFRA. Ripretinib has emerged as a promising investigational agent for the treatment of gastrointestinal stromal tumor owing to targeted inhibition of secondary resistance mutations that may develop following treatment with prior line(s) of tyrosine kinase inhibitors. Here we describe the rationale and design of intrigue (NCT03673501), a global, randomized (1:1), open-label, Phase III study comparing the safety and efficacy of ripretinib versus sunitinib in patients with advanced gastrointestinal stromal tumor following imatinib. The primary end point is progressionfree survival and key secondary objectives include objective response rate and overall survival. Clinical Trial Registration: NCT03673501</p>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Disease overview</head><p>Gastrointestinal stromal tumors (GISTs) comprise less than 1% of all gastrointestinal (GI) tumors, but constitute the most common soft tissue sarcomas of the GI tract <ref type="bibr" target="#b0">[1,</ref><ref type="bibr" target="#b1">2]</ref>. They may originate anywhere along the GI tract but are found most often in the stomach (60%) or small intestine (30%) and less frequently in the rectum, colon or mesentery <ref type="bibr" target="#b0">[1,</ref><ref type="bibr" target="#b2">3]</ref>. In the USA, around 3300-6000 new cases of GIST are diagnosed each year <ref type="bibr" target="#b3">[4]</ref>. The vast majority of cases are sporadic, and older age is a recognized risk factor. Driver mutations in either KIT or PDGFRA are found in over 85% of all primary GISTs.</p><p>Despite a wide variation in tumor size, location and histologic subtypes (spindle cell, epithelioid cells and mixed type), approximately 85% of all GISTs share oncogenic mutations in one of two receptor tyrosine kinases (TKs): KIT or PDGFRA <ref type="bibr" target="#b2">[3,</ref><ref type="bibr" target="#b4">5]</ref>. Constitutive activation of either of these TKs plays a central role in the oncogenic behavior of GIST <ref type="bibr" target="#b5">[6,</ref><ref type="bibr" target="#b6">7]</ref>. The early characterization of GIST mutational status is important in both the localized and metastatic settings to identify mutations which are primarily resistant to imatinib (such as PDGFRA D842V), or  exon 9 mutation which requires a higher dose of imatinib in the advanced setting <ref type="bibr" target="#b8">[8,</ref><ref type="bibr" target="#b9">9]</ref>. Patients with GIST lacking KIT or PDGFRA mutations typically do not experience objective responses to imatinib. However, other mutations may be present in these tumors, with the largest group represented by succinate dehydrogenase-deficient GIST by immunochemistry, which may reflect underlying alterations in an succinate dehydrogenase subunit, and may be associated with familial heritable syndromes (Carney triad or Carney-Stratakis syndrome) <ref type="bibr" target="#b10">[10]</ref><ref type="bibr" target="#b11">[11]</ref><ref type="bibr" target="#b12">[12]</ref><ref type="bibr" target="#b13">[13]</ref><ref type="bibr" target="#b14">[14]</ref>. Other subtypes of GIST lacking activating mutations in KIT or PDGFRA may have mutations in NF1 (usually associated with neurofibromatosis type 1) or in BRAF or KRAS <ref type="bibr" target="#b15">[15]</ref><ref type="bibr" target="#b16">[16]</ref><ref type="bibr" target="#b18">[17]</ref>. Very recently, cases of GIST-like tumors harboring NTRK translocations have further expanded the spectrum of molecular subtypes <ref type="bibr" target="#b19">[18]</ref>.</p><p>In the pre-tyrosine kinase inhibitor (TKI) era, GISTs (often categorized as gastric leiomyosarcomas or leiomyoblastomas) were treated within the subtype of agnostic sarcoma trials and lacked an effective systemic therapy <ref type="bibr" target="#b21">[19,</ref><ref type="bibr" target="#b22">20]</ref>. However, a deeper understanding of the molecular pathogenesis and driving role of the protooncogenes KIT and PDGFRA has transformed the treatment of both localized and metastatic diseases <ref type="bibr" target="#b9">[9]</ref>. Localized, resectable tumors are treated surgically which remains the mainstay of curative therapy for localized disease. Resected high-risk GIST is typically treated with adjuvant imatinib following surgery, whereas low-risk GIST is managed with surgery alone. Intermediate-risk GIST is managed on a per-case basis <ref type="bibr" target="#b1">[2,</ref><ref type="bibr" target="#b23">21,</ref><ref type="bibr" target="#b24">22]</ref>. In the advanced/metastatic setting, imatinib 400 mg daily is approved, with dose escalation to 800 mg at the time of progression, and has been shown to yield dramatic results in disease control <ref type="bibr" target="#b25">[23]</ref><ref type="bibr" target="#b26">[24]</ref><ref type="bibr" target="#b27">[25]</ref>. Sunitinib is approved as second-line therapy following development of imatinib resistance, or in the uncommon case of imatinib intolerance <ref type="bibr" target="#b28">[26]</ref>. Regorafenib is currently approved as third-line therapy for advanced GIST following treatment with imatinib and sunitinib <ref type="bibr" target="#b29">[27]</ref>.</p><p>GIST molecular pathogenesis: a paradigm for precision therapy KIT and PDGFRA are structurally similar. The KIT receptor is composed of an extracellular domain, a transmembrane hinge, a juxtamembrane (JM) domain that serves as an inhibitory switch, and a cytoplasmic region with a TK domain comprising a TK1 domain and a TK2 domain separated by a kinase insert domain ( <ref type="figure" target="#fig_1">Figure 1</ref>) <ref type="bibr" target="#b30">[28]</ref>. ATP is anchored in the TK1 domain, and phosphorylation of substrates occurs in the TK2 domain. An activation loop (activating switch), which stabilizes KIT in the active or 'on' state, is also located in the TK2 domain. When ligand, stem cell factor, binds to KIT, the kinase domain becomes activated and stimulates downstream pathways, including Ras/Raf/MAPK, PI3K/Akt/mTOR, and Src kinase pathways, resulting in cellular proliferation and inhibition of apoptosis <ref type="bibr" target="#b30">[28]</ref>. In GIST, activating mutations in KIT leads to constitutive activation of KIT in a ligand-independent manner.</p><p>KIT and PDGFRA are dual switch kinases containing both an inhibitory switch, encoded by KIT exon 11 or PDGFRA exon 12 (each located in the JM domain), and an activation loop switch, encoded by KIT exons 17 and 18 (in TK2 domain) or PDGFRA exons 18 and 19. These dual switches regulate kinase activity by binding to the kinase switch pocket. The switch pocket is an area in the kinase that is adjacent to the ATP pocket. This pocket determines if the kinase will be in the 'on' or 'off ' state. If the inhibitory switch binds to the switch pocket, the kinase is in the off state and is inactive. If the activation loop switch binds to the switch pocket, the kinase is in the on state and is active ( <ref type="figure" target="#fig_2">Figure 2</ref>) <ref type="bibr" target="#b31">[29]</ref>. Oncogenic kinase mutations predominantly lead to disruption of one or more regulatory switch mechanisms, leading to dysregulated switch function and loss of normal, physiologic conformational control <ref type="bibr" target="#b33">[30]</ref>.</p><p>At diagnosis, a mutation in the KIT gene is present in &gt;80% of GISTs and is most commonly found in exon 11. Less frequently, the primary activating mutation in KIT is in exon 9 <ref type="bibr" target="#b34">[31]</ref>. In both primary exon 11 and primary exon 9 mutant GIST, the alterations lead to ligand-independent receptor activation, and subsequent uncontrolled cell growth and transformation. Primary mutations in exon 11 affect a loss-of-function mutation in the JM domain and lead to a shift in equilibrium toward a Type I active or on-state conformation of KIT and away from a Type II inactive or off-state conformation of KIT <ref type="bibr" target="#b9">[9]</ref>. Exon 11 primary mutations are the most commonly seen primary mutations in GISTs (around 70% of cases), and derive significant benefit from treatment with imatinib in both the adjuvant and metastatic settings, achieving a 2-year relapse-free survival of approximately 90% in the adjuvant setting, and a median event-free survival just under 2 years in the metastatic setting <ref type="bibr" target="#b35">[32,</ref><ref type="bibr" target="#b36">33]</ref>. Primary mutations in exon 9 affect the extracellular domain of KIT, mimicking conformational changes induced by ligand binding and triggering KIT receptor homodimerization. This dimerization leads to the activation of specific intracellular signaling pathways which can lead to cell proliferation, survival and resistance <ref type="bibr" target="#b37">[34,</ref><ref type="bibr" target="#b38">35]</ref>. Although less common than exon 11 mutations, exon 9 mutations (10-15% of newly diagnosed cases) are most commonly seen in GISTs arising from the small intestine. Unlike exon 11 mutations, they benefit less from imatinib in both the adjuvant and metastatic settings <ref type="bibr" target="#b35">[32,</ref><ref type="bibr" target="#b36">33]</ref>. Mutations in PDGFRA occur in only 5-10% of newly diagnosed cases of GIST <ref type="bibr" target="#b9">[9]</ref>. Most of these gain-of-function mutations have been identified in exon 18 (the TK2 domain encoding the activation switch) and exon 12 (the JM domain inhibitory switch) <ref type="bibr" target="#b9">[9]</ref>. Of the exon 18 mutations, D842V accounts for 60% of PDGFRA mutations and confers primary resistance to imatinib by blocking the binding of imatinib to the ATP-binding site <ref type="bibr" target="#b39">[36]</ref>. In a retrospective survey, this mutation was found to have the poorest outcome with imatinib first-line therapy with a median progression-free survival (mPFS) of 2.8 months and a response rate of 0% <ref type="bibr" target="#b40">[37]</ref>. This mutation may also confer resistance to sunitinib <ref type="bibr" target="#b9">[9,</ref><ref type="bibr" target="#b41">38]</ref>. Mutations in exon 12 are rare, but response rates with imatinib first-line therapy in these patients are similar to those in patients with non-D842V exon 18 mutations (36% for both) <ref type="bibr" target="#b40">[37]</ref>. Second-line efficacy with sunitinib is limited, with mPFS of 2 months <ref type="bibr" target="#b40">[37]</ref>.</p><p>Despite significant improvement in outcomes compared with those in the pre-TKI therapy era, response to imatinib is not experienced by all patients, and most patients with GIST will ultimately develop resistance to imatinib, most commonly due to the development of secondary mutations in KIT <ref type="bibr" target="#b36">[33,</ref><ref type="bibr" target="#b42">[39]</ref><ref type="bibr" target="#b43">[40]</ref><ref type="bibr" target="#b44">[41]</ref><ref type="bibr" target="#b45">[42]</ref><ref type="bibr" target="#b46">[43]</ref>. Secondary resistance mutations usually arise in the catalytic domain of the kinase: at the switch pocket, which typically occur in KIT exons 13 and 14 or PDGFRA exons 14 and 15 and sterically disrupt drug binding or conformationally activate KIT and in the activation loop switch encoded by KIT exons 17 and 18 and PDGFRA exon 18 <ref type="bibr" target="#b31">[29,</ref><ref type="bibr" target="#b47">44,</ref><ref type="bibr" target="#b48">45]</ref>. Activation loop mutations act by shifting the kinase into an activated Type I or on-state conformation that is less amenable to drug binding by any of the approved Type II TKIs <ref type="bibr" target="#b49">[46]</ref>. Although uncommon in primary GIST (1-2% of newly diagnosed cases), mutations in exons 13, 14 and 17 are often responsible for acquired imatinib resistance <ref type="bibr" target="#b41">[38]</ref>, with exon 17 mutations alone accounting for as many as 50% of the acquired resistance cases to imatinib; exon 17 mutations also result in resistance to sunitinib <ref type="bibr" target="#b41">[38,</ref><ref type="bibr" target="#b50">47]</ref>. <ref type="figure">Figure 3</ref> depicts the secondary KIT mutations in patients with GIST across exons 13, 14, 17 and 18.</p><p>GIST molecularly driven therapies: current options &amp; challenges Imatinib was the first Type II (occupies the ATP pocket and an adjacent allosteric pocket when the kinase is in the inactive conformation) KIT inhibitor approved for advanced GIST in 2002 <ref type="bibr" target="#b52">[48,</ref><ref type="bibr" target="#b53">49]</ref>. It is usually not curative in unresectable and/or metastatic disease, with complete responses seen in approximately 5% of patients and an objective response rate of 68% <ref type="bibr" target="#b25">[23]</ref>. Although more than 80% of patients with GIST receive clinical benefit from imatinib monotherapy, development of imatinib resistance is common, with more than half developing progressive disease in approximately 2 years <ref type="bibr" target="#b27">[25,</ref><ref type="bibr" target="#b54">50,</ref><ref type="bibr" target="#b55">51]</ref>. Progression is largely due to secondary mutations in the KIT kinase domain that cause resistance to imatinib <ref type="bibr" target="#b48">[45]</ref>. Although imatinib is effective against exon 11 mutations in KIT, and effective against exon 9 mutations when the dose is increased to 800 mg, little to no response to imatinib is seen for other primary or secondary KIT mutations and PDGFRA exon 18 D842V mutations, particularly those that mediate the conformational dynamics of the activation loop switch <ref type="bibr" target="#b1">[2,</ref><ref type="bibr" target="#b54">50]</ref>.</p><p>Sunitinib was approved in 2006 as second-line therapy for patients with GIST who had progression on, or intolerance to imatinib, with an mPFS of approximately 6 months <ref type="bibr" target="#b28">[26]</ref>. Sunitinib showed a greater clinical benefit rate (partial response or stable disease for ≥6 months) and mPFS in patients with exon 9 mutations (58% and 19.4 months, respectively) compared with that in patients with exon 11 mutations (34% and 5.1 months, respectively) <ref type="bibr" target="#b41">[38]</ref>. Additionally, sunitinib showed activity against KIT secondary exon 13 and 14 mutations, with 61% of patients achieving clinical benefit and mPFS was 7.8 months <ref type="bibr" target="#b41">[38]</ref>. However, in vitro studies have shown that sunitinib is not as effective against KIT exon 17 and 18 and PDGFRA exon 18 activation loop mutations. This ineffectiveness has also been observed clinically in a small number of patients with decreased mPFS, overall survival (OS) and clinical benefit rates in patients with secondary KIT exon 17 or 18 mutations compared with patients with secondary KIT exon 13 or 14 mutations <ref type="bibr" target="#b41">[38]</ref>.</p><p>Regorafenib was approved in 2013 as third-line therapy for adult patients with metastatic and/or unresectable GIST with progression on or intolerance to imatinib and sunitinib with mPFS approaching 5 months <ref type="bibr" target="#b29">[27]</ref>. In addition to being active against KIT exon 11 mutations, regorafenib is the only approved therapy which has demonstrated activity against a subset of secondary exon 17 mutations in KIT, with an mPFS of approximately 22 months reported in a small Phase II study <ref type="bibr" target="#b56">[52]</ref>. Some patients present with mutations in KIT that are not effectively treated by regorafenib, and other secondary mutations may arise and cause resistance to therapy <ref type="bibr" target="#b48">[45]</ref>. Tumor heterogeneity has been found with multiple secondary mutations in KIT arising within an individual patient in different areas of one tumor or in anatomically distinct sites of metastasis <ref type="bibr" target="#b48">[45]</ref>.</p><p>Given our understanding of the molecular pathology underlying GIST disease progression and response to therapy, and given the complex heterogeneity of KIT mutations within individual patients recognized as a major cause of resistance to therapy, a need exists for a TKI which broadly inhibits clinically relevant KIT and PDGFRA mutations.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Ripretinib</head><p>Ripretinib is a novel, Type II, tyrosine switch control inhibitor designed to inhibit a broad spectrum of known forms of KIT and PDGFRA mutated kinases found in cancers and myeloproliferative neoplasms, particularly in GIST, in which the heterogeneity of drug-resistant KIT mutations is a major challenge. Ripretinib inhibits primary and secondary mutations on relevant exons that drive resistance to approved targeted therapies by regulating the kinase switch pocket and activation loop; inhibition of activation loop mutations has previously only been targeted by Type I (binds to the kinase ATP pocket in the active conformation) inhibitors <ref type="bibr" target="#b31">[29,</ref><ref type="bibr" target="#b53">49]</ref>. This profile is achieved through a unique dual mechanism of action that secures the kinase into an inactive conformation or off state, resulting in the inhibition of downstream signaling. Ripretinib acts as a structural surrogate for the inhibitory switch by binding to the switch pocket. This prevents access to the switch pocket by the activation loop, thereby locking the kinase into the inactive state. Additionally, ripretinib binds to the activation loop further preventing its access to the switch pocket and blocking kinase activity. Taken together, this dual mechanism of action secures KIT and PDGFRA kinases in their inactive conformations resulting in inhibition of proliferation. Given the heterogenous nature of KIT and PDGFRA mutants in GIST, ripretinib is designed to broadly inhibit drug-resistant KIT mutations found in metastatic GIST. A model for the ripretinib mechanism of action is presented in <ref type="figure" target="#fig_4">Figure 4</ref>.</p><p>Following high affinity binding to KIT and PDGFRA receptors, with mutations in exons 9, 11, 13, 14, 17 and 18, and exons 12, 14 and 18, respectively, ripretinib in vitro exhibited potent antineoplastic effects <ref type="bibr" target="#b57">[53]</ref>. Metabolite identification studies in hepatocytes and pharmacokinetic studies in preclinical species and humans revealed that DP-5439 is the major metabolite. DP-5439 is an active metabolite, and has a similar profile of inhibition of mutant KIT and PDGFRA compared with that of its parent compound, thereby resulting in inhibition of TKs in tumor cells. The combined exposure (area under the curve 0-24 h ) of ripretinib and DP-5439 needed to block KIT signaling in vivo in preclinical studies is considered to be approximately 10,000 ng*h/ml <ref type="bibr" target="#b57">[53,</ref><ref type="bibr" target="#b58">54]</ref>.  The preclinical characterization of ripretinib showed significant antitumor effects, including potent inhibition of proliferation, induction of apoptosis, and successful blockade of KIT phosphorylation, with low nanomolecular potency. These in vitro observations were based on cellular assay results with GIST cell lines derived from treatmentresistant patients and in cell lines of other cancers known to harbor KIT or PDGFRA (e.g., systemic mastocytosis and acute myeloid leukemia) or were transfected with KIT-or PDGFRA-activating mutations. These preclinical studies provided the framework for the first in-human, proof-of-concept study of ripretinib in patients with advanced GIST <ref type="bibr" target="#b57">[53]</ref><ref type="bibr" target="#b58">[54]</ref><ref type="bibr" target="#b59">[55]</ref><ref type="bibr" target="#b60">[56]</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Switch pocket</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>The intrigue study</head><p>Here we describe the design of and rationale for the intrigue study, a Phase III, randomized, multicenter, open-label study of ripretinib (DCC-2618) versus sunitinib in patients with advanced GIST after treatment with imatinib. The study is funded by Deciphera Pharmaceuticals, LLC, MA, USA.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Background &amp; rationale</head><p>Second-and third-line therapies for GIST with sunitinib and regorafenib, respectively, have demonstrated mPFS of approximately 6 and 5 months, respectively, and are associated with grade ≥3 adverse events including hypertension, diarrhea and hand-foot skin reaction <ref type="bibr" target="#b28">[26,</ref><ref type="bibr" target="#b29">27]</ref>. At present, there are no approved targeted therapies in GIST that broadly inhibit secondary drug-resistant mutations in both the activating loop and ATP-binding pocket. In the second-line setting, sunitinib has shown activity against both KIT-and PDGFRA-mutant GIST (excluding PDGFRA D842) and in KIT/PDGFRA wild-type GIST. Preclinical studies and studies examining biopsies of progressing lesions from patients with GIST have indicated that sunitinib inhibits KIT mutants harboring secondary resistance mutations in exons 13 and 14 and to a much lesser extent secondary mutations in exons 17 and 18 (the activation switch region of KIT) <ref type="bibr" target="#b41">[38,</ref><ref type="bibr" target="#b50">47]</ref>. In the third-line setting, regorafenib has also shown activity in a broad range of GISTs, including KIT/PDGFRA wild-type GIST, with an mPFS of 5 months. Both preclinical and correlative clinical studies suggest that secondary resistance mutations of KIT in exon 17 (with the exception of the D816 substitutions) are inhibited. However, in contrast to results with sunitinib, exons 13 and 14 mutations are associated with resistance <ref type="bibr" target="#b50">[47,</ref><ref type="bibr" target="#b56">52,</ref><ref type="bibr" target="#b61">57]</ref>. Attempts to use the complementary inhibitory profiles of sunitinib and regorafenib that were promising in vitro have been problematic in clinical trials due to the additive toxicity <ref type="bibr" target="#b61">[57,</ref><ref type="bibr" target="#b63">58]</ref>. No other approved treatment options exist after the approved third-line agent to treat these patients. Thus, a high medical need remains for developing TKIs that are broadly effective against the mutant forms of KIT and PDGFRA.</p><p>The first in-human trial of ripretinib established a tolerable dose with promising activity in GIST, which serves as the basis for the intrigue trial <ref type="bibr" target="#b60">[56]</ref>. In addition to intrigue, another Phase III study, INVICTUS (NCT03353753), a randomized, placebo-controlled trial, investigated the safety and efficacy of ripretinib as ≥fourth-line therapy for the treatment of advanced GIST; this study achieved its primary end point <ref type="bibr" target="#b64">[59]</ref>. </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Intrigue design</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Study design</head><p>Approximately 358 eligible patients will be randomized in a 1:1 ratio to either ripretinib 150 mg daily continuous 42-day cycles (n = 179) or sunitinib 50 mg daily for 4 weeks and then 2 weeks off on 42-day cycles (n = 179) ( <ref type="figure" target="#fig_5">Figure 5</ref>). The primary end point of the study is to assess the progression-free survival (PFS) of ripretinib by blinded independent central review using modified Response Evaluation Criteria in Solid Tumors version 1.1 (mRECIST v1.1). The key secondary efficacy end points include the assessment of objective response rate by blinded independent central review using mRECIST v1.1 and OS. Key patient eligibility criteria are provided in Box 1.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Evaluations</head><p>Intrigue study end points are shown in Box 2. Tumor response is assessed by blinded independent central review and the investigator using mRECIST v1.1. Response will be used for the primary end point analysis, PFS.</p><p>Statistical analyses methods PFS is defined as the time from randomization to the date of the first documented progression of disease or death due to any cause and is based on blinded independent central review assessment of the primary end point. OS is defined as the time from randomization to the date of death due to any cause. OS and PFS with 95% confidence intervals will be summarized using Kaplan-Meier methodology; point estimates of hazard ratios will be obtained from a Cox regression model. Objective response is defined as a complete response or partial response by blinded independent central review assessment using mRECIST v1.1.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Conclusion</head><p>The intrigue study described here is a study to investigate the efficacy of ripretinib versus sunitinib in patients with advanced GIST following imatinib treatment. Enrollment began in February 2019 and the estimated study completion date is March 2022. As a novel, investigational KIT and PDGFRA inhibitor, with the potential to improve outcomes in a rare and difficult-to-treat patient population, ripretinib has been evaluated in another Phase III study as a fourth-line or greater treatment in patients with GIST who have already received imatinib, sunitinib and regorafenib in the INVICTUS study (NCT03353753); this study achieved its primary end point <ref type="bibr" target="#b64">[59]</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Supplementary data</head><p>An infographic accompanies this paper at the end of the references section. To download the infographic that accompanies this paper, please visit the journal website at: www.futuremedicine.com/doi/suppl/10.2217/fon-2019-0633</p><p>The </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Executive summary</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Background</head><p>• Gastrointestinal stromal tumor (GIST) is a relatively rare malignancy with a well-defined molecular pathology involving mutations in KIT or PDGFRA receptor tyrosine kinases. The understanding of the underlying disease molecular profile transformed GIST management from a historically chemotherapy-resistant disease to a tyrosine kinase inhibitor-responsive disease. • The development of resistance to imatinib, the approved first-line tyrosine kinase inhibitor in GIST treatment, is common, with more than half of patients developing progressive disease by 2 years. Patients are then treated with sunitinib in the second-line setting, with a median progression-free survival of approximately 6 months, but treatment duration is limited by the emergence/expansion of sunitinib-resistant tumors. Secondary mutations in KIT and PDGFRA driving this resistance have been well characterized. • A high unmet medical need exists for kinase inhibitors that are effective against these different and well-characterized mutant forms of KIT and PDGFRA. Ripretinib • Ripretinib (DCC-2618) is a novel tyrosine switch control inhibitor that broadly inhibits KIT and PDGFRA mutated kinases by using a unique dual mechanism of action that regulates the kinase switch pocket and activation loop. • Ripretinib in vitro exhibits potent antineoplastic effects following binding to KIT and PDGFRA receptors with mutations in exons 9, 11, 13, 14, 17 and 18, and exons 12, 14 and 18, respectively. • The preliminary Phase I clinical experience with ripretinib showed manageable tolerability and encouraging signals of activity in patients with advanced GIST imatinib resistance. • Results from the Phase III INVICTUS study evaluating ripretinib as ≥fourth-line therapy in patients with advanced GIST showed that the primary end point was met.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Intrigue study</head><p>• Intrigue is an open-label, randomized, Phase III study to compare the efficacy of ripretinib versus sunitinib in patients with advanced GIST with prior imatinib therapy. • Primary end point is progression-free survival as assessed by blinded independent central review using modified Response Evaluation Criteria in Solid Tumors version 1.1 (mRECIST v1.1). • Key secondary end points are objective response rate (confirmed complete response + partial response) by blinded independent central review using mRECIST v1.1. • Estimated study completion date is March 2022.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Conclusion</head><p>• This pivotal randomized trial is designed to test whether ripretinib shows improved outcomes in this difficult-to-treat patient population and, if shown, whether such outcomes could help define the role of this novel targeted agent as a potential second-line therapy in patients with advanced GIST compared with standard second-line therapy with sunitinib.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head>Figure 1 .</head><label>1</label><figDesc>Domains of KIT. ABD: ATP-binding domain; AL: Activation loop; TK: Tyrosine kinase.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_2"><head>Figure 2 .</head><label>2</label><figDesc>KIT kinase activity is regulated by dueling inhibitory and activating switches. The inhibitory switch is indicated in blue. The activation loop switch is indicated in green. Adapted from<ref type="bibr" target="#b31">[29]</ref> C 2019 with permission from Elsevier.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_4"><head>Figure 4 .</head><label>4</label><figDesc>KIT/PDGFRA switch pocket. Kinases have embedded switching mechanisms that conformationally regulate activity. (A) Inactive form of KIT. Note that the activation switch (exon 17, shown in magenta) has not engaged the switch pocket. (B) Active form of KIT. Note that the activation switch has now moved to engage the switch pocket. (C) Ripretinib, a novel tyrosine switch control inhibitor, binds into key regions of the switch pocket, directly inhibiting access by aggressively mutant exon 17 KIT activation loop switches.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_5"><head>Figure 5 .</head><label>5</label><figDesc>Intrigue study design. GIST: Gastrointestinal stromal tumor; OS: Overall survival; PFS: Progression-free survival.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>Multiple secondary KIT mutations in patients with gastrointestinal stromal tumor span exon regions 13-18 (n = 27). For</head><label></label><figDesc></figDesc><table><row><cell cols="2">Switch pocket region</cell><cell></cell><cell>Switch region</cell></row><row><cell>A</cell><cell>I</cell><cell cols="2">H G Y Y K D</cell><cell>P</cell></row><row><cell>654</cell><cell>670</cell><cell cols="2">816 820 820 822 822 823</cell><cell>829</cell></row><row><cell>V</cell><cell>T</cell><cell cols="2">D D D N N Y</cell><cell>A</cell></row><row><cell>Exon 13</cell><cell>Exon 14</cell><cell></cell><cell>Exon 17</cell><cell>Exon 18</cell></row><row><cell cols="2">ATP binding pocket 42.9%</cell><cell></cell><cell cols="2">Kinase activation loop 57.1%</cell></row><row><cell></cell><cell cols="3">Color code for primary mutation</cell></row><row><cell></cell><cell>Exon 11</cell><cell>Exon 9</cell><cell>Exon 13</cell></row><row><cell cols="5">Figure 3. every patient, the primary mutation is indicated in red for exon 11, yellow for exon 9 and green</cell></row><row><cell>for exon 13.</cell><cell></cell><cell></cell><cell></cell></row><row><cell cols="4">Used with permission from [45] C 2008 John Wiley and Sons.</cell></row></table><note></note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_1"><head></head><label></label><figDesc>Box 1. Intrigue patient eligibility criteria. Aged ≥18 years • Histologic diagnosis of GIST and must be able to provide an archival tumor tissue sample or a fresh biopsy specimen • Available molecular pathology report. If molecular pathology report is not available or insufficient, an archival tumor tissue sample or fresh biopsy is required to determine mutational status prior to randomization • Patients must have progressed on or have documented intolerance to imatinib • ECOG performance status ≤2 at screening • At least one measurable lesion as assessed by mRECIST v1.1 (non-nodal lesions must be ≥1 cm in the long axis or ≥double the slide thickness in the long axis) within 21 days before the first dose of study drug • Adequate organ function and bone marrow reserve as indicated by central laboratory assessments performed at screening • Resolution of all toxicities from prior therapy to ≤Grade 1 (or patient baseline) within 1 week before the first dose of study drug (excluding alopecia and ≤Grade 3 clinically asymptomatic lipase, amylase and creatine phosphokinase laboratory abnormalities) Treatment with any other line of therapy in addition to imatinib for advanced GIST • Prior or concurrent malignancy whose natural history or treatment have the potential to interfere with the safety of efficacy assessments of this clinical trial • Known active central nervous system metastases • Left ventricular ejection fraction &lt;50% at screening • Arterial thrombotic or embolic events such as cerebrovascular accident (including ischemic attacks) or hemoptysis within 6 months before the first dose of study drug • Venous thrombotic events (e.g., deep vein thrombosis) or pulmonary arterial events (pulmonary embolism) within 1 month before the first dose of study drug. Patients on stable anticoagulation therapy for ≥1 month are eligible • A 12-lead ECG demonstrating QTc by Fridericia's formula &gt;450 ms in males or &gt;470 ms in females at screening or history of long QTc syndrome • Use of known substrate or inhibitors of BCRP transporters within 14 days or 5x the half-life, whichever is longer,before the first dose of study drug • Major surgeries (e.g., abdominal laparotomy) within 4 weeks of the first dose of study drug. All major surgical wounds must be healed and free of infection or dehiscence before the first dose of study drug • Any other clinically significant comorbidities • GI abnormalities (e.g., inability to take oral medications, malabsorption syndromes, requirement for intravenous alimentation)</figDesc><table><row><cell>Key inclusion criteria</cell></row><row><cell>• Key exclusion criteria</cell></row><row><cell>• • Any active bleeding excluding hemorrhoidal or gum bleeding</cell></row><row><cell>BCRP: Breast cancer resistance protein; ECG: Electrocardiogram; ECOG: Eastern Cooperative Oncology Group; GI:</cell></row><row><cell>Gastrointestinal; GIST: Gastrointestinal stromal tumor; mRECIST: Modified response evaluation criteria in solid</cell></row><row><cell>tumor; QTc: QT interval corrected.</cell></row><row><cell>Box 2. Intrigue study end points.</cell></row><row><cell>Primary end point</cell></row><row><cell>• PFS by BICR using mRECIST v1.1</cell></row><row><cell>Key secondary end points</cell></row><row><cell>• ORR (confirmed CR + PR) by BICR using mRECIST v1.1</cell></row><row><cell>• OS</cell></row><row><cell>BICR: Blinded independent central review; CR: Complete response; mRECIST: Modified Response Evaluation</cell></row><row><cell>Criteria in Solid Tumors; ORR: Objective response rate; OS: Overall survival; PFS: Progression-free survival; PR:</cell></row><row><cell>Partial response.</cell></row></table><note></note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_2"><head></head><label></label><figDesc>Amgen, and Teva. S George has acted in an advisory/consultancy role with Blueprint Medicines, Deciphera Pharmaceuticals, LLC, Eli Lilly, Bayer, AstraZeneca, Daiichi Sankyo, and Exelixis; has served on a speaker bureau for Bayer; holds a leadership role with Alliance Foundation; holds stocks in Abbott Labs and Allergan; and holds licensing royalties with Wolters Kluwer Health (UpToDate). Her affiliated institution has received research grants/funding from Blueprint Medicines, Deciphera Pharmaceuticals, LLC, Bayer, Pfizer, and Novartis. P Schöffski has had an institutional advisory/consultancy role with Plexxikon, Eisai, Loxo Oncology, Eli Lilly, Blueprint Medicines, Ellipses Pharma, Deciphera Pharmaceuticals, LLC, Merck, Servier, Genmab, Adaptimmune, Intellisphere, LLC, and Transgene; his affiliated institution has received research grants/funding from Blueprint Medicines, Boehringer Ingelheim, CoBioRes NV, Eisai, Eli Lilly, Exelixis, G1 Therapeutics, Novartis, Pharmamar, and Plexxikon. M von Mehren has acted in an advisory/consultancy role with Deciphera Pharmaceuticals, LLC, Blueprint Medicines, and Exelixis and received travel accommodations from Deciphera Pharmaceuticals, LLC and the National Comprehensive Cancer Network R ; her affiliated institution has received research grants/funding from Deciphera Pharmaceuticals, LLC, Blueprint Medicines, Arog Pharmaceuticals, Novartis, Gradalis, and Genmab. J Zalcberg has acted in an advisory/consultancy role and received honoraria from Pfizer, Merck Serono, Targovax, and Halozyme; has acted in an advisory/consultancy role with Sirtex Medical, Lipotek, and Novella; has received honoraria from Specialized Therapeutics and Gilead Sciences; has received travel accommodations from Merck Serono, AstraZeneca, MSD, Deciphera Pharmaceuticals, LLC, and Sirtex; holds stock in GW Pharmaceuticals, Aimmune Therapeutics, Vertex, Bluebird Bio, Alnylam, BioMarin, Sage Therapeutics, Dova Pharmaceuticals, Therapeutics MD, Juno Therapeutics, Kite Pharma, Kiadis Pharma, CSL Limited, and Cochlear; and serves in nonremunerated positions as Chair, Australian Clinical Trials Alliance, Co-Chair, National Oncology Alliance, and Co-Chair, All.Can Australia. His affiliated institution has received research grants/funding from Bayer, Merck Serono, Roche, Bristol-Myers Squibb, Pfizer, AstraZeneca, Specialized Therapeutics, Baxalta/Shire, Eli Lilly, and Boehringer Ingelheim. H Achour is employed by Deciphera Pharmaceuticals, LLC. R Ruiz-Soto is employed by and holds stocks in Deciphera Pharmaceuticals, LLC. M Heinrich has acted in an advisory/consultancy role with Novartis, Deciphera Pharmaceuticals, LLC, Blueprint Medicines, and MolecularMD; has provided expert testimony for Novartis; has received travel accommodations from Blueprint Medicines and Deciphera Pharmaceuticals, LLC;</figDesc><table><row><cell>intrigue study discussed within this manuscript is sponsored by Deciphera Pharmaceuticals, LLC, MA,</cell></row><row><cell>USA. S Bauer has received honoraria from Novartis, Pfizer, Bayer, Eli Lilly, and Pharmamar; has acted in an</cell></row><row><cell>advisory/consultancy role with Blueprint Medicines, ADC Therapeutics, Eli Lilly, Novartis, Daiichi Sankyo,</cell></row><row><cell>Plexxikon, Nanobiotix, Deciphera Pharmaceuticals, LLC, Exelixis, Janssen-Cilag, Pharmamar, Bayer, and Roche;</cell></row><row><cell>has received research grants/funding from Novartis and his affiliated institution has received research grants/funding</cell></row><row><cell>from Novartis, Incyte, and Blueprint Medicines; and serves as a nonremunerated member of External Advisory</cell></row><row><cell>Board of the Federal Ministry of Health (Bundesgesundheitsministerium) for 'Off-label use in oncology' (Ex-</cell></row><row><cell>pertengruppe Off-Label Onkologie des BGM). J-Y Blay has acted in an advisory/consultancy role with and</cell></row><row><cell>received honoraria and research grants/funding from Deciphera Pharmaceuticals, LLC, Novartis, Bayer, Eli Lilly,</cell></row><row><cell>Roche, and Pharmamar. H Gelderblom's affiliated institution has received research grants/funding from Daiichi</cell></row><row><cell>Sankyo, Five Prime, Novartis, Deciphera Pharmaceuticals, LLC, Eli Lilly, Roche, Eisai, Debio, Boehringer Ingel-</cell></row><row><cell>heim, Pfizer,</cell></row></table><note>holds licensing royalties with Novartis; and holds stock in MolecularMD. His affiliated institution has received research grants/funding from Blueprint Medicines and Deciphera Pharmaceuticals, LLC. J Nemunaitis and K Choucair have no disclosures. The authors have no other relevant affiliations or financial involvement with any organization or entity with a financial interest in or financial conflict with the subject matter or materials discussed in the manuscript apart from those disclosed.</note></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot">Future Oncol. (2020) 16<ref type="bibr" target="#b0">(1)</ref> future science group</note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot">future science group www.futuremedicine.com</note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot">Financial &amp; competing interests disclosure</note>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Acknowledgments</head><p>The authors would like to thank the patients and their families and caregivers, investigators and the investigational study teams at each of the participating centers.</p><p>The authors recognize the medical writing assistance of L Jung, PharmD, of ETHOS Health Communications in Yardley, Pennsylvania, which was supported financially by Deciphera Pharmaceuticals, LLC, in compliance with international Good Publication Practice guidelines.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Open access</head><p>This work is licensed under the Attribution-NonCommercial-NoDerivatives 4.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-nc-nd/4.0/</p></div>
+			</div>
+
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Assess the efficacy of ripretinib versus sunitinib as measured by PFS by BICR using mRECIST v1.1 in patients with advanced GIST who have progressed on or were intolerant to first-line therapy with imatinib Assess the ORR by BICR using mRECIST v1. <ref type="bibr" target="#b0">1</ref>  </p></div>			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Global epidemiology of gastrointestinal stromal tumours (GIST): a systematic review of population-based cohort studies</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><surname>Søreide</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">O</forename><forename type="middle">M</forename><surname>Sandvik</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">A</forename><surname>Søreide</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">V</forename><surname>Giljaca</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Jureckova</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">V</forename><forename type="middle">R</forename><surname>Bulusu</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Cancer Epidemiol</title>
+		<imprint>
+			<biblScope unit="volume">40</biblScope>
+			<biblScope unit="page" from="39" to="46" />
+			<date type="published" when="2016" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<monogr>
+		<title level="m" type="main">National Comprehensive Cancer Network. Soft Tissue Sarcoma (V2.2019)</title>
+		<ptr target="www.nccn.org/professionals/physiciangls/pdf/sarcoma.pdf" />
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Biology of gastrointestinal stromal tumors</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><forename type="middle">L</forename><surname>Corless</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">A</forename><surname>Fletcher</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">C</forename><surname>Heinrich</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Clin. Oncol</title>
+		<imprint>
+			<biblScope unit="volume">22</biblScope>
+			<biblScope unit="issue">18</biblScope>
+			<biblScope unit="page" from="3813" to="3825" />
+			<date type="published" when="2004" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Epidemiology of gastrointestinal stromal tumors in the era of histology codes: results of a population-based study</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">G</forename><forename type="middle">L</forename><surname>Ma</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">D</forename><surname>Murphy</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">E</forename><surname>Martinez</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">K</forename><surname>Sicklick</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Cancer Epidemiol. Biomarkers Prev</title>
+		<imprint>
+			<biblScope unit="volume">24</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="298" to="302" />
+			<date type="published" when="2015" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Gastrointestinal stromal tumors: review on morphology, molecular pathology, prognosis, and differential diagnosis</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Miettinen</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Lasota</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Arch. Pathol. Lab Med</title>
+		<imprint>
+			<biblScope unit="volume">130</biblScope>
+			<biblScope unit="issue">10</biblScope>
+			<biblScope unit="page" from="1466" to="1478" />
+			<date type="published" when="2006" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">PDGFRA activating mutations in gastrointestinal stromal tumors</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">C</forename><surname>Heinrich</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><forename type="middle">L</forename><surname>Corless</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Duensing</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Science</title>
+		<imprint>
+			<biblScope unit="volume">299</biblScope>
+			<biblScope unit="issue">5607</biblScope>
+			<biblScope unit="page" from="708" to="710" />
+			<date type="published" when="2003" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Gain-of-function mutations of c-kit in human gastrointestinal stromal tumors</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Hirota</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><surname>Isozaki</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Y</forename><surname>Moriyama</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Science</title>
+		<imprint>
+			<biblScope unit="volume">279</biblScope>
+			<biblScope unit="issue">5350</biblScope>
+			<biblScope unit="page" from="577" to="580" />
+			<date type="published" when="1998" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<monogr>
+		<title level="m" type="main">First to identify KIT gain-of-function mutation drivers of oncogenesis in gastrointestinal stromal tumors (GISTs)</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">•</forename></persName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Targeted therapy of cancer: new roles for pathologists in identifying GISTs and other sarcomas</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><forename type="middle">R</forename><surname>Antonescu</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Mod. Pathol</title>
+		<imprint>
+			<biblScope unit="volume">21</biblScope>
+			<biblScope unit="page" from="31" to="36" />
+			<date type="published" when="2008" />
+		</imprint>
+	</monogr>
+	<note>Suppl. 2</note>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Gastrointestinal stromal tumors (GISTs): point mutations matter in management, a review</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><forename type="middle">J</forename><surname>Oppelt</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><forename type="middle">C</forename><surname>Hirbe</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">B</forename><forename type="middle">A</forename><surname>Van Tine</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Gastrointest. Oncol</title>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="466" to="473" />
+			<date type="published" when="2017" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<monogr>
+		<title level="m" type="main">Gastrointestinal stromal tumors treatment (PDQ R )-health professional version. National Cancer Institute</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Pdq R Adult Treatment Editorial</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Board</surname></persName>
+		</author>
+		<ptr target="www.cancer.gov/types/soft-tissue-sarcoma/hp/gist-treatment-pdq" />
+		<imprint>
+			<pubPlace>Bethesda, MD, USA</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Gastrointestinal stromal tumors: clinical profile, pathogenesis, treatment strategies and prognosis</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Nowain</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><surname>Bhakta</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Pais</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">G</forename><surname>Kanel</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Verma</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Gastroenterol. Hepatol</title>
+		<imprint>
+			<biblScope unit="volume">20</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page" from="818" to="824" />
+			<date type="published" when="2005" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Epithelioid gastric stromal tumours of the antrum in young females with the Carney triad: a report of three new cases with mutational analysis and comparative genomic hybridization</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Agaimy</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><forename type="middle">F</forename><surname>Pelz</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><forename type="middle">L</forename><surname>Corless</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Oncol. Rep</title>
+		<imprint>
+			<biblScope unit="volume">18</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="9" to="15" />
+			<date type="published" when="2007" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">NF1-associated gastrointestinal stromal tumors have unique clinical, phenotypic, and genotypic characteristics</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Andersson</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><surname>Sihto</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">M</forename><surname>Meis-Kindblom</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><surname>Joensuu</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">N</forename><surname>Nupponen</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">L-G</forename><surname>Kindblom</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Am. J. Surg. Pathol</title>
+		<imprint>
+			<biblScope unit="volume">29</biblScope>
+			<biblScope unit="issue">9</biblScope>
+			<biblScope unit="page" from="1170" to="1176" />
+			<date type="published" when="2005" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">SDHC methylation in gastrointestinal stromal tumors (GIST): a case report</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Urbini</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Astolfi</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">V</forename><surname>Indio</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">BMC Med. Genet</title>
+		<imprint>
+			<biblScope unit="volume">16</biblScope>
+			<biblScope unit="page">87</biblScope>
+			<date type="published" when="2015" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Molecular subtypes of KIT/PDGFRA wild-type gastrointestinal stromal tumors: a report from the National Institutes of Health Gastrointestinal Stromal Tumor Clinic</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><forename type="middle">A</forename><surname>Boikos</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><forename type="middle">S</forename><surname>Pappo</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">K</forename><surname>Killian</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">JAMA Oncol</title>
+		<imprint>
+			<biblScope unit="volume">2</biblScope>
+			<biblScope unit="issue">7</biblScope>
+			<biblScope unit="page" from="922" to="928" />
+			<date type="published" when="2016" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Genomic aberrations in cell cycle genes predict progression of KIT-mutant gastrointestinal stromal tumors (GISTs)</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">C</forename><surname>Heinrich</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Patterson</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><surname>Beadling</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Clin. Sarcoma Res</title>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="page">3</biblScope>
+			<date type="published" when="2019" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<monogr>
+		<title level="m" type="main">• Shows that mutational dysregulation of the cell cycle is important in the progression of GIST from low risk to malignant and proposes a model of genetic progression where treatment may include KIT-independent options</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<monogr>
+		<title level="m" type="main">Recent advances in managing gastrointestinal stromal tumor. F1000Res</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">F</forename><surname>Duffaud</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Le</forename><surname>Cesne</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2017" />
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="page">1689</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">The progressive fragmentation of the KIT/PDGFRA wild-type (WT) gastrointestinal stromal tumors (GIST)</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Nannini</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Urbini</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Astolfi</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">G</forename><surname>Biasco</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">A</forename><surname>Pantaleo</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Transl. Med</title>
+		<imprint>
+			<biblScope unit="volume">15</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page">113</biblScope>
+			<date type="published" when="2017" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<monogr>
+		<title level="m" type="main">• Points out how wild-type GIST, which has historically been defined as GIST without KIT or PDGFRA mutations, may ultimately come to be defined by the mutations or deficiencies present</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">Contrast of response to dacarbazine, mitomycin, doxorubicin, and cisplatin (DMAP) plus GM-CSF between patients with advanced malignant gastrointestinal stromal tumors and patients with other advanced leiomyosarcomas</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">H</forename><surname>Edmonson</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><forename type="middle">S</forename><surname>Marks</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">C</forename><surname>Buckner</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">R</forename><surname>Mahoney</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Cancer Invest</title>
+		<imprint>
+			<biblScope unit="volume">20</biblScope>
+			<biblScope unit="issue">5-6</biblScope>
+			<biblScope unit="page" from="605" to="612" />
+			<date type="published" when="2002" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">Clinical management of gastrointestinal stromal tumors: before and after STI-571</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><forename type="middle">P</forename><surname>Dematteo</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">C</forename><surname>Heinrich</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">W</forename><forename type="middle">M</forename><surname>El-Rifai</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Demetri</forename><forename type="middle">G</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Hum. Pathol</title>
+		<imprint>
+			<biblScope unit="volume">33</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page" from="466" to="477" />
+			<date type="published" when="2002" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title level="a" type="main">One vs three years of adjuvant imatinib for operable gastrointestinal stromal tumor: a randomized trial</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><surname>Joensuu</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Eriksson</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Sundby</forename><surname>Hall</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">JAMA</title>
+		<imprint>
+			<biblScope unit="volume">307</biblScope>
+			<biblScope unit="issue">12</biblScope>
+			<biblScope unit="page" from="1265" to="1272" />
+			<date type="published" when="2012" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title level="a" type="main">Adjuvant imatinib for high-risk GI stromal tumor: analysis of a randomized trial</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><surname>Joensuu</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Eriksson</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Sundby</forename><surname>Hall</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Clin. Oncol</title>
+		<imprint>
+			<biblScope unit="volume">34</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="244" to="250" />
+			<date type="published" when="2016" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title level="a" type="main">Phase III randomized, intergroup trial assessing imatinib mesylate at two dose levels in patients with unresectable or metastatic gastrointestinal stromal tumors expressing the kit receptor tyrosine kinase: S0033</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><forename type="middle">D</forename><surname>Blanke</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><surname>Rankin</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">G</forename><forename type="middle">D</forename><surname>Demetri</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Clin. Oncol</title>
+		<imprint>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="626" to="632" />
+			<date type="published" when="2008" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title level="a" type="main">Efficacy and safety of imatinib mesylate in advanced gastrointestinal stromal tumors</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">G</forename><forename type="middle">D</forename><surname>Demetri</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Von</forename><surname>Mehren</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Blanke</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><forename type="middle">D</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">N. Engl. J. Med</title>
+		<imprint>
+			<biblScope unit="volume">347</biblScope>
+			<biblScope unit="issue">7</biblScope>
+			<biblScope unit="page" from="472" to="480" />
+			<date type="published" when="2002" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+		<title level="a" type="main">Progression-free survival in gastrointestinal stromal tumours with high-dose imatinib: randomised trial</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Verweij</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><forename type="middle">G</forename><surname>Casali</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Zalcberg</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Lancet</title>
+		<imprint>
+			<biblScope unit="volume">364</biblScope>
+			<biblScope unit="issue">9440</biblScope>
+			<biblScope unit="page" from="1127" to="1134" />
+			<date type="published" when="2004" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<analytic>
+		<title level="a" type="main">Efficacy and safety of sunitinib in patients with advanced gastrointestinal stromal tumour after failure of imatinib: a randomised controlled trial</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">G</forename><forename type="middle">D</forename><surname>Demetri</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><forename type="middle">T</forename><surname>Van Oosterom</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><forename type="middle">R</forename><surname>Garrett</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Lancet</title>
+		<imprint>
+			<biblScope unit="volume">368</biblScope>
+			<biblScope unit="issue">9544</biblScope>
+			<biblScope unit="page" from="1329" to="1338" />
+			<date type="published" when="2006" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<analytic>
+		<title level="a" type="main">Efficacy and safety of regorafenib for advanced gastrointestinal stromal tumours after failure of imatinib and sunitinib (GRID): an international, multicentre, randomised, placebo-controlled, phase 3 trial</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">G</forename><forename type="middle">D</forename><surname>Demetri</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><surname>Reichardt</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Y</forename><forename type="middle">K</forename><surname>Kang</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Lancet</title>
+		<imprint>
+			<biblScope unit="volume">381</biblScope>
+			<biblScope unit="issue">9863</biblScope>
+			<biblScope unit="page" from="295" to="302" />
+			<date type="published" when="2013" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<analytic>
+		<title level="a" type="main">Imatinib mesylate: past successes and future challenges in the treatment of gastrointestinal stromal tumors</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><surname>Ksienski</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Clin. Med. Insights Oncol</title>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="page" from="365" to="379" />
+			<date type="published" when="2011" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<analytic>
+		<title level="a" type="main">DCC-2618) is a switch control kinase inhibitor of a broad spectrum of oncogenic and drug-resistant KIT and PDGFRA variants</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">B</forename><forename type="middle">D</forename><surname>Smith</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">D</forename><surname>Kaufman</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">W</forename><forename type="middle">P</forename><surname>Lu</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Cancer Cell</title>
+		<imprint>
+			<biblScope unit="volume">35</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page" from="738" to="751" />
+			<date type="published" when="2019" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<monogr>
+		<title level="m" type="main">Details the efficacy of ripretinib (DCC-2618) in preclinical cancer models and shows its ability to broadly inhibit KIT and PDGFRA mutants, including those in the activation loop. It also details ripretinib&apos;s unique mechanism of action as a tyrosine switch control inhibitor</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">•</forename></persName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<analytic>
+		<title level="a" type="main">Structural and clinical consequences of activation loop mutations in class III receptor tyrosine kinases</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">L</forename><forename type="middle">R</forename><surname>Klug</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">D</forename><surname>Kent</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">C</forename><surname>Heinrich</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Pharmacol. Ther</title>
+		<imprint>
+			<biblScope unit="volume">191</biblScope>
+			<biblScope unit="page" from="123" to="134" />
+			<date type="published" when="2018" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<analytic>
+		<title level="a" type="main">KIT oncogenic mutations: biologic insights, therapeutic advances, and future directions</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">A</forename><surname>Fletcher</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Cancer Res</title>
+		<imprint>
+			<biblScope unit="volume">76</biblScope>
+			<biblScope unit="issue">21</biblScope>
+			<biblScope unit="page" from="6140" to="6142" />
+			<date type="published" when="2016" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b35">
+	<analytic>
+		<title level="a" type="main">Pathologic and molecular features correlate with long-term outcome after adjuvant therapy of resected primary GI stromal tumor: the ACOSOG Z9001 trial</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><forename type="middle">L</forename><surname>Corless</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><forename type="middle">V</forename><surname>Ballman</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><forename type="middle">R</forename><surname>Antonescu</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Clin. Oncol</title>
+		<imprint>
+			<biblScope unit="volume">32</biblScope>
+			<biblScope unit="issue">15</biblScope>
+			<biblScope unit="page" from="1563" to="1570" />
+			<date type="published" when="2014" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b36">
+	<analytic>
+		<title level="a" type="main">Kinase mutations and imatinib response in patients with metastatic gastrointestinal stromal tumor</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">C</forename><surname>Heinrich</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><forename type="middle">L</forename><surname>Corless</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">G</forename><forename type="middle">D</forename><surname>Demetri</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Clin. Oncol</title>
+		<imprint>
+			<biblScope unit="volume">21</biblScope>
+			<biblScope unit="issue">23</biblScope>
+			<biblScope unit="page" from="4342" to="4349" />
+			<date type="published" when="2003" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b37">
+	<analytic>
+		<title level="a" type="main">Molecular subtypes of gastrointestinal stromal tumors and their prognostic and therapeutic implications</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Z</forename><surname>Szucs</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><surname>Thway</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><surname>Fisher</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Future Oncol</title>
+		<imprint>
+			<biblScope unit="volume">13</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="93" to="107" />
+			<date type="published" when="2017" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b38">
+	<analytic>
+		<title level="a" type="main">The expression of KIT receptor dimers in gastrointestinal stromal tumors independent of c-kit mutation and SCF expression is associated with high-risk stratification</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><surname>Qiu</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">X</forename><surname>Liu</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><surname>Bai</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><forename type="middle">L</forename><surname>Ma</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Oncol. Lett</title>
+		<imprint>
+			<biblScope unit="volume">4</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="805" to="811" />
+			<date type="published" when="2012" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b39">
+	<analytic>
+		<title level="a" type="main">PDGFRA mutations in gastrointestinal stromal tumors: frequency, spectrum and in vitro sensitivity to imatinib</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><forename type="middle">L</forename><surname>Corless</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Schroeder</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><surname>Griffith</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Clin. Oncol</title>
+		<imprint>
+			<biblScope unit="volume">23</biblScope>
+			<biblScope unit="issue">23</biblScope>
+			<biblScope unit="page" from="5357" to="5364" />
+			<date type="published" when="2005" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b40">
+	<analytic>
+		<title level="a" type="main">Outcome of patients with platelet-derived growth factor receptor alpha-mutated gastrointestinal stromal tumors in the tyrosine kinase inhibitor era</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><forename type="middle">A</forename><surname>Cassier</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><surname>Fumagalli</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><surname>Rutkowski</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Clin. Cancer Res</title>
+		<imprint>
+			<biblScope unit="volume">18</biblScope>
+			<biblScope unit="issue">16</biblScope>
+			<biblScope unit="page" from="4458" to="4464" />
+			<date type="published" when="2012" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b41">
+	<analytic>
+		<title level="a" type="main">Primary and secondary kinase genotypes correlate with the biological and clinical activity of sunitinib in imatinib-resistant gastrointestinal stromal tumor</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">C</forename><surname>Heinrich</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><forename type="middle">G</forename><surname>Maki</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><forename type="middle">L</forename><surname>Corless</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Clin. Oncol</title>
+		<imprint>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="issue">33</biblScope>
+			<biblScope unit="page" from="5352" to="5359" />
+			<date type="published" when="2008" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b42">
+	<analytic>
+		<title level="a" type="main">Resection of residual disease in patients with metastatic gastrointestinal stromal tumors responding to treatment with imatinib</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Bauer</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">T</forename><surname>Hartmann</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">De</forename><surname>Wit</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Int. J. Cancer</title>
+		<imprint>
+			<biblScope unit="volume">117</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="316" to="325" />
+			<date type="published" when="2005" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b43">
+	<analytic>
+		<title level="a" type="main">KIT mutations in GIST</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">A</forename><surname>Fletcher</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">B</forename><forename type="middle">P</forename><surname>Rubin</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Curr. Opin. Genet. Dev</title>
+		<imprint>
+			<biblScope unit="volume">17</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="3" to="7" />
+			<date type="published" when="2007" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b44">
+	<analytic>
+		<title level="a" type="main">Mechanisms of resistance to imatinib mesylate in gastrointestinal stromal tumors and activity of the PKC412 inhibitor against imatinib-resistant mutants</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Debiec-Rychter</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Cools</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><surname>Dumez</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Gastroenterology</title>
+		<imprint>
+			<biblScope unit="volume">128</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="270" to="279" />
+			<date type="published" when="2005" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b45">
+	<analytic>
+		<title level="a" type="main">Acquired resistance to imatinib in gastrointestinal stromal tumours caused by multiple KIT mutations</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><surname>Wardelmann</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">N</forename><surname>Thomas</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Merkelbach-Bruse</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Lancet Oncol</title>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="249" to="251" />
+			<date type="published" when="2005" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b46">
+	<analytic>
+		<title level="a" type="main">Acquired resistance to imatinib in gastrointestinal stromal tumor occurs through secondary gene mutation</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><forename type="middle">R</forename><surname>Antonescu</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><surname>Besmer</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Guo</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Clin. Cancer Res</title>
+		<imprint>
+			<biblScope unit="volume">11</biblScope>
+			<biblScope unit="issue">11</biblScope>
+			<biblScope unit="page" from="4182" to="4190" />
+			<date type="published" when="2005" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b47">
+	<analytic>
+		<title level="a" type="main">Molecular correlates of imatinib resistance in gastrointestinal stromal tumors</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">C</forename><surname>Heinrich</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><forename type="middle">L</forename><surname>Corless</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><forename type="middle">D</forename><surname>Blanke</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Clin. Oncol</title>
+		<imprint>
+			<biblScope unit="volume">24</biblScope>
+			<biblScope unit="issue">29</biblScope>
+			<biblScope unit="page" from="4764" to="4774" />
+			<date type="published" when="2006" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b48">
+	<analytic>
+		<title level="a" type="main">Heterogeneity of kinase inhibitor resistance mechanisms in GIST</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">B</forename><surname>Liegl</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">I</forename><surname>Kepten</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><surname>Le</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Pathol</title>
+		<imprint>
+			<biblScope unit="volume">216</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="64" to="74" />
+			<date type="published" when="2008" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b49">
+	<analytic>
+		<title level="a" type="main">KIT kinase mutants show unique mechanisms of drug resistance to imatinib and sunitinib in gastrointestinal stromal tumor patients</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><forename type="middle">S</forename><surname>Gajiwala</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">C</forename><surname>Wu</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Christensen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Proc. Natl Acad. Sci. USA</title>
+		<imprint>
+			<biblScope unit="volume">106</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page" from="1542" to="1547" />
+			<date type="published" when="2009" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b50">
+	<analytic>
+		<title level="a" type="main">Ponatinib inhibits polyclonal drug-resistant KIT oncoproteins and shows therapeutic potential in heavily pretreated gastrointestinal stromal tumor (GIST) patients</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><forename type="middle">P</forename><surname>Garner</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">M</forename><surname>Gozgit</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><surname>Anjum</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Clin. Cancer Res</title>
+		<imprint>
+			<biblScope unit="volume">20</biblScope>
+			<biblScope unit="issue">22</biblScope>
+			<biblScope unit="page" from="5745" to="5755" />
+			<date type="published" when="2014" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b51">
+	<monogr>
+		<title level="m" type="main">• Evaluates the activity of ponatinib, imatinib, sunitinib and regorafenib against KIT mutations in cellular and in vivo assays in engineered cell lines and cell lines derived from patients with GIST. The authors also evaluate the use of an in vitro mutagenesis screen to identify multiple secondary mutations that confer clinical resistance to current tyrosine kinase inhibitors</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b52">
+	<analytic>
+		<title level="a" type="main">Approval summary: imatinib mesylate in the treatment of metastatic and/or unresectable malignant gastrointestinal stromal tumors</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><surname>Dagher</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Cohen</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">G</forename><surname>Williams</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Clin. Cancer Res</title>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="issue">10</biblScope>
+			<biblScope unit="page" from="3034" to="3038" />
+			<date type="published" when="2002" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b53">
+	<analytic>
+		<title level="a" type="main">Classification of small molecule protein kinase inhibitors based upon the structures of their drug-enzyme complexes</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><forename type="middle">J</forename><surname>Roskoski</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Pharmacol. Res</title>
+		<imprint>
+			<biblScope unit="volume">103</biblScope>
+			<biblScope unit="page" from="26" to="48" />
+			<date type="published" when="2016" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b54">
+	<analytic>
+		<title level="a" type="main">Secondary KIT mutations: the GIST of drug resistance and sensitivity</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Napolitano</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">B</forename><surname>Vincenzi</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Br. J. Cancer</title>
+		<imprint>
+			<biblScope unit="volume">120</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page" from="577" to="578" />
+			<date type="published" when="2019" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b55">
+	<analytic>
+		<title level="a" type="main">Ten-year progression-free and overall survival in patients with unresectable or metastatic GI stromal tumors: long-term analysis of the European Organisation for Research and Treatment of Cancer, Italian Sarcoma Group, and Australasian Gastrointestinal Trials Group Intergroup Phase III randomized trial on imatinib at two dose levels</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><forename type="middle">G</forename><surname>Casali</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Zalcberg</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Le</forename><surname>Cesne</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Clin. Oncol</title>
+		<imprint>
+			<biblScope unit="volume">35</biblScope>
+			<biblScope unit="issue">15</biblScope>
+			<biblScope unit="page" from="1713" to="1720" />
+			<date type="published" when="2017" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b56">
+	<analytic>
+		<title level="a" type="main">A Phase II trial of regorafenib in patients with metastatic and/or unresectable gastrointestinal stromal tumor harboring secondary mutations of exon 17</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><forename type="middle">N</forename><surname>Yeh</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">H</forename><surname>Chen</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Y</forename><forename type="middle">Y</forename><surname>Chen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Oncotarget</title>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="issue">27</biblScope>
+			<biblScope unit="page" from="44121" to="44130" />
+			<date type="published" when="2017" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b57">
+	<analytic>
+		<title level="a" type="main">The KIT and PDGFRA switch-control inhibitor DCC-2618 blocks growth and survival of multiple neoplastic cell types in advanced mastocytosis</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Schneeweiss</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">B</forename><surname>Peter</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Bibi</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Haematologica</title>
+		<imprint>
+			<biblScope unit="volume">103</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page" from="799" to="809" />
+			<date type="published" when="2018" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b58">
+	<analytic>
+		<title level="a" type="main">The multi-kinase inhibitor DCC-2618 inhibits proliferation and survival of neoplastic mast cells and other cell types involved in systemic mastocytosis</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">A</forename><surname>Schneeweiss</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">B</forename><surname>Peter</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><surname>Blatt</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Blood</title>
+		<imprint>
+			<biblScope unit="volume">128</biblScope>
+			<biblScope unit="issue">22</biblScope>
+			<biblScope unit="page">1965</biblScope>
+			<date type="published" when="2016" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b59">
+	<analytic>
+		<title level="a" type="main">Abstract CT029: pharmacokinetic (PK), safety, and tolerability profile of DCC-2618 in a Phase I trial supports 150mg QD selected for a pivotal Phase III trial in gastrointestinal stromal tumor (GIST)</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">F</forename><surname>Janku</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Heinrich</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Razak</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Cancer Res</title>
+		<imprint>
+			<biblScope unit="volume">78</biblScope>
+			<biblScope unit="page">29</biblScope>
+			<date type="published" when="2018" />
+		</imprint>
+	</monogr>
+	<note>Suppl. 13</note>
+</biblStruct>
+
+<biblStruct xml:id="b60">
+	<analytic>
+		<title level="a" type="main">Initial results of Phase I study of DCC-2618, a broad-spectrum KIT and PDGFRa inhibitor, in patients (pts) with gastrointestinal stromal tumor (GIST) by number of prior regimens</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>George</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Rodon</forename><surname>Ahnert</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Wolf</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ann. Oncol</title>
+		<imprint>
+			<biblScope unit="volume">29</biblScope>
+			<biblScope unit="page" from="576" to="577" />
+			<date type="published" when="2018" />
+		</imprint>
+	</monogr>
+	<note>Suppl. 8)</note>
+</biblStruct>
+
+<biblStruct xml:id="b61">
+	<analytic>
+		<title level="a" type="main">Complementary activity of tyrosine kinase inhibitors against secondary kit mutations in imatinib-resistant gastrointestinal stromal tumours</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><surname>Serrano</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Marino-Enriquez</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><forename type="middle">L</forename><surname>Tao</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Br. J. Cancer</title>
+		<imprint>
+			<biblScope unit="volume">120</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page" from="612" to="620" />
+			<date type="published" when="2019" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b62">
+	<monogr>
+		<title level="m" type="main">Assists in defining the activity of multiple available tyrosine kinase inhibitors in a spectrum of imatinib-resistant mutations. The study results lead the authors to evaluate an alternating combination of sunitinib and regorafenib</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">•</forename></persName>
+		</author>
+		<imprint/>
+	</monogr>
+	<note>which is now being evaluated in a clinical trial in patients with GIST with advanced disease</note>
+</biblStruct>
+
+<biblStruct xml:id="b63">
+	<analytic>
+		<title level="a" type="main">Phase Ib study of rapid alternation of sunitinib (SU) and regorafenib (RE) in patients (pts) with advanced gastrointestinal stromal tumor (GIST)</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><surname>Serrano</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Leal</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Phallen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Clin. Oncol</title>
+		<imprint>
+			<biblScope unit="volume">36</biblScope>
+			<biblScope unit="page" from="11510" to="11510" />
+			<date type="published" when="2018" />
+		</imprint>
+	</monogr>
+	<note>Suppl. 15</note>
+</biblStruct>
+
+<biblStruct xml:id="b64">
+	<monogr>
+		<title level="m" type="main">INVICTUS: a Phase III, interventional, double-blind, placebo-controlled study to assess the safety and efficacy of ripretinib as ≥4th-line therapy in patients with advanced gastrointestinal stromal tumors (GIST) who have received treatment with prior anticancer therapies (NCT03353753). Presented at: European Society of Medical Oncology</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Von</forename><surname>Mehren</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Serrano</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><surname>Bauer</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">27</biblScope>
+			<pubPlace>Barcelona, Spain</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

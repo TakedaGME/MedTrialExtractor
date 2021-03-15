@@ -1,0 +1,803 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /data/rsg/nlp/juanmoo1/bin/grobid-0.6.1/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Oral S-1 with 24-h Infusion of Irinotecan plus Bevacizumab versus FOLFIRI plus Bevacizumab as First-Line Chemotherapy for Metastatic Colorectal Cancer: An Open-Label Randomized Phase II Trial</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+				<date type="published" when="2020-05-29">May 29, 2020</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author role="corresp">
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><roleName>MD</roleName><forename type="first">Sotaro</forename><surname>Sadahiro</surname></persName>
+							<email>sadahiro@is.icc.u-tokai.ac.jp</email>
+							<affiliation key="aff0">
+								<orgName type="department" key="dep1">Department of Surgery</orgName>
+								<orgName type="department" key="dep2">School of Medicine</orgName>
+								<orgName type="institution">Tokai University</orgName>
+								<address>
+									<settlement>Isehara</settlement>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="department" key="dep1">Department of Surgery</orgName>
+								<orgName type="department" key="dep2">School of Medicine</orgName>
+								<orgName type="institution">Tokai University</orgName>
+								<address>
+									<addrLine>143 Shimokasuya Isehara 259-1193</addrLine>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Toshiyuki</forename><surname>Suzuki</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department" key="dep1">Department of Surgery</orgName>
+								<orgName type="department" key="dep2">School of Medicine</orgName>
+								<orgName type="institution">Tokai University</orgName>
+								<address>
+									<settlement>Isehara</settlement>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Kazutake</forename><surname>Okada</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department" key="dep1">Department of Surgery</orgName>
+								<orgName type="department" key="dep2">School of Medicine</orgName>
+								<orgName type="institution">Tokai University</orgName>
+								<address>
+									<settlement>Isehara</settlement>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Gota</forename><surname>Saito</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department" key="dep1">Department of Surgery</orgName>
+								<orgName type="department" key="dep2">School of Medicine</orgName>
+								<orgName type="institution">Tokai University</orgName>
+								<address>
+									<settlement>Isehara</settlement>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Hiroshi</forename><surname>Miyakita</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department" key="dep1">Department of Surgery</orgName>
+								<orgName type="department" key="dep2">School of Medicine</orgName>
+								<orgName type="institution">Tokai University</orgName>
+								<address>
+									<settlement>Isehara</settlement>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Takashi</forename><surname>Ogimi</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department" key="dep1">Department of Surgery</orgName>
+								<orgName type="department" key="dep2">School of Medicine</orgName>
+								<orgName type="institution">Tokai University</orgName>
+								<address>
+									<settlement>Isehara</settlement>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Lin</forename><forename type="middle">Fung</forename><surname>Chan</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department" key="dep1">Department of Surgery</orgName>
+								<orgName type="department" key="dep2">School of Medicine</orgName>
+								<orgName type="institution">Tokai University</orgName>
+								<address>
+									<settlement>Isehara</settlement>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Yutaro</forename><surname>Kamei</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department" key="dep1">Department of Surgery</orgName>
+								<orgName type="department" key="dep2">School of Medicine</orgName>
+								<orgName type="institution">Tokai University</orgName>
+								<address>
+									<settlement>Isehara</settlement>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Oral S-1 with 24-h Infusion of Irinotecan plus Bevacizumab versus FOLFIRI plus Bevacizumab as First-Line Chemotherapy for Metastatic Colorectal Cancer: An Open-Label Randomized Phase II Trial</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date type="published" when="2020-05-29">May 29, 2020</date>
+						</imprint>
+					</monogr>
+					<idno type="DOI">10.1159/000507293</idno>
+					<note type="submission">Received: February 18, 2020 Accepted: March 16, 2020</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.6.1" ident="GROBID" when="2020-10-09T18:38+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>Colorectal cancer</term>
+					<term>S-1</term>
+					<term>Irinotecan</term>
+					<term>Bevacizumab</term>
+					<term>24-h infusion</term>
+					<term>Phase II study</term>
+					<term>FOLFIRI</term>
+				</keywords>
+			</textClass>
+			<abstract>
+				<p>Background: FOLFIRI plus bevacizumab have been widely used as first-line treatment for metastatic colorectal cancer (mCRC). Pharmacokinetics and pharmacodynamics suggested a low dose of irinotecan given as a long-term infusion is expected to enhance antitumor activity. We conducted a randomized phase II study to compare oral S-1 with a 24-h infusion of irinotecan plus bevacizumab versus FOLFIRI plus bevacizumab. Methods: The subjects comprised 120 chemotherapy-naïve patients with mCRC. The study group received a 24-h infusion of irinotecan at a dose of 125 mg/m 2 on days 1 and 15, combined with oral S-1 80 mg/m 2 on days 1-14 (24h-SIRI/B). The FOLFIRI/B group received irinotecan at a dose of 150 mg/m 2 , 5-fluorouracil given at a dose of 400 mg/m 2 as a bolus injection and at a dose of 2,400 mg/m 2 as a 46-h infusion, and 200 mg/m 2 leucovorin on days 1 and 15. Bevacizumab was given at a dose of 5.0 mg/kg on days 1 and 15 in both groups. Treatment was repeated every 4 weeks. The primary endpoint was 1-year progression-free survival (PFS). Secondary endpoints were PFS, response rates (RR), overall survival (OS), and adverse events (AEs). Results: From December 2013 through January 2018, 120 patients were randomly assigned, 61 patients to the 24h-SIRI/B and 59 patients to the FOLFIRI/B. The median follow-up period was 22.8 months. The 1-year PFS rate was 43.14% in the 24h-SIRI/B arm and 19.15% in the FOLFIRI/B arm (HR = 0.312 [95%CI 0.13-0.78], p = 0.01). The median PFS was 10.2 months (95%CI 8.8-14.3) and 10.0 months (95%CI 7.4-11.0), and the median OS was 29.7 months (95%CI 22.9-43.9) and 28.8 months (95%CI 18.4-ND), respectively (p = 0.3758, p = 0.8234). The overall RR was 86.3 and 61.7%, respectively (p = 0.0053). AEs were similar. Conclusions: Our results show that the 24h-SIRI/B regimen is an effective and reasonably welltolerated regimen for the first-line treatment of mCRC.</p>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Introduction</head><p>Fluorouracil (FU)-based doublets, including oxaliplatin or irinotecan, plus bevacizumab have been widely used as first-line treatment for metastatic colorectal cancer (mCRC) <ref type="bibr">[1]</ref><ref type="bibr">[2]</ref><ref type="bibr" target="#b1">[3]</ref>. Combination regimens of FU and ox- <ref type="bibr">Sadahiro</ref> aliplatin, such as FOLFOX, CapeOx, and SOX (S-1 plus oxaliplatin), are more commonly used in clinical practice than combination regimens of FU and irinotecan, such as FOLFIRI. However, peripheral neuropathy associated with oxaliplatin often leads to early treatment withdrawal and negatively affects treatment continuity. Prolonged peripheral neuropathy affects patients' daily life activities and their quality of life <ref type="bibr" target="#b2">[4,</ref><ref type="bibr" target="#b3">5]</ref>. In contrast, the combination regimens of FU and irinotecan can be continued for long periods in many patients by managing early major toxicity such as diarrhea.</p><p>Irinotecan is usually given as a 90-min intravenous infusion biweekly or triweekly. However, the cytotoxic effects of irinotecan are specific to the S-phase of the cell cycle, and low doses of irinotecan given by protracted infusion or frequent bolus injection can prevent the saturation of carboxylesterases, enzymes that convert irinotecan to its active metabolite SN-38, and thereby enhance antitumor activity <ref type="bibr" target="#b4">[6,</ref><ref type="bibr" target="#b5">7]</ref>. We have previously performed several clinical trials of a 24-h continuous intravenous infusion of irinotecan, given biweekly, combined with oral FUs (UFT and UFT plus leucovorin), in patients with mCRC and reported that these regimens are therapeutically useful and have low incidences of diarrhea and other adverse events <ref type="bibr" target="#b6">[8,</ref><ref type="bibr" target="#b7">9]</ref>. To date, however, no randomized clinical trial has compared a 24-h continuous infusion of irinotecan with a standard 90-min infusion of irinotecan.</p><p>S-1 is an oral anticancer drug that combines tegafur, a prodrug of 5-FU, with gimeracil and potassium oxonate in a molar ratio of 1:0.4:1 <ref type="bibr" target="#b8">[10,</ref><ref type="bibr" target="#b9">11]</ref>. We previously performed a combination chemotherapy with oral S-1 and biweekly 24-h infusions of irinotecan plus bevacizumab in patients with mCRC and showed that this regimen appears to be highly active and well tolerated both as firstline and second-line chemotherapy for mCRC <ref type="bibr" target="#b10">[12,</ref><ref type="bibr" target="#b12">13]</ref>.</p><p>In this open-label randomized phase II trial, we compared combination treatment consisting of oral S-1 and a 24-h infusion of irinotecan plus bevacizumab with conventional FOLFIRI plus bevacizumab as first-line chemotherapy for mCRC.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Patients and Methods</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Patients</head><p>The main inclusion criteria were as follows: histologically confirmed colorectal cancer (CRC), unresectable or recurrent CRC with measurable or evaluable disease, UGT1A1*28 genotype (6/6 or 6/7), an age of 20 years or older, an Eastern Cooperative Oncology Group performance status (ECOG PS) of 0 or 1, a life expectancy of at least 3 months, adequate organ function, and no previous chemotherapy or prior adjuvant chemotherapy for CRC with-in 3 months before enrollment. The main exclusion criteria were as follows: active infection, bowel obstruction, interstitial pneumonia and pulmonary fibrosis, uncontrolled diabetes, pleural effusion or ascites, pregnancy and lactation, and known drug allergies. Patients with metastasis or recurrence only in the liver were excluded because they were enrolled in clinical trials of other regimens, including hepatic artery infusion.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Trial Design and Treatment</head><p>This trial was a two-group, open-label, randomized, phase II trial conducted at Tokai University Hospital. Patients were randomly assigned in a 1:1 ratio to receive oral S-1 with a 24-h infusion of irinotecan plus bevacizumab (24h-SIRI/B) or FOLFIRI plus bevacizumab (FOLFIRI/B). Randomization was carried out centrally, with minimization stratified by the number of metastatic sites (1/≥2), the primary lesion (colon/rectum), the primary site (absent/present), and ECOG PS (0/1).</p><p>The 24h-SIRI/B regimen comprised irinotecan (125 mg/m 2 ), given as a 24-h intravenous infusion on days 1 and 15, S-1 (80 mg/ m 2 ), given orally in two divided daily doses on days 1-14, and bevacizumab (5.0 mg/kg), given as an intravenous infusion on days 1 and 15 of each 4-week cycle. The FOLFIRI/B regimen comprised irinotecan (150 mg/m 2 ), given as a 90-min intravenous infusion, and l-leucovorin (200 mg/m 2 ), given as a 120-min intravenous infusion, an intravenous bolus 5-FU (400 mg/m 2 ), a 46-h continuous intravenous infusion of 5-FU (2,400 mg/m 2 ), and bevacizumab (5.0 mg/kg), given as an intravenous infusion on days 1 of each 2-week cycle.</p><p>Immediately before the infusion of irinotecan, the patients were confirmed to have a leukocyte count of ≥3,000/μL, a neutrophil count of ≥1,500/μL, and a platelet count of ≥100,000/μL, and to be free of diarrhea, infection, or fever suggestive of infection (≥38° C), grade 1 or lower levels of serum total bilirubin, serum aspartate aminotransferase, and alanine aminotransferase, and grade 2 or lower other non-hematologic toxicities.</p><p>Bevacizumab was given to patients who had grade 2 or lower hypertension, proteinuria (protein ≤1+ or &lt;2 g of protein per 24-h urine collection), and grade 1 or lower bleeding, with no evidence of thrombosis or embolism. Treatment was discontinued in patients who had any of the following conditions: gastrointestinal perforation, grade 3 or higher hypertension, bleeding, thrombosis or embolism, hypersensitivity, and grade 4 or higher proteinuria. Treatment was delayed for up to 1 week if any of these requirements was not satisfied.</p><p>In patients who had hematologic toxicity (leukocyte count &lt;2,000/μL, neutrophil count &lt;1,000/μL, platelet count &lt;75,000/μL, or serum total bilirubin level ≥2.5 mg/dL) or grade 3 or higher severe non-hematologic toxicities, the doses of FU, S-1, and irinotecan were decreased by 20%. If treatment could not be resumed within 28 days after withdrawal, treatment was discontinued.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Assessments</head><p>Pretreatment evaluation included a clinical history and physical examination, complete blood cell count, blood chemistry, urinalysis, electrocardiography, chest radiography, and CT of the chest and abdomen. During therapy, toxicity was assessed weekly according to the National Cancer Institute -Common Toxicity Criteria (NCI-CTC), version 4.0. Physical examination was conducted, and the results were recorded before each cycle, or more frequently if clinically indicated. Tumor response was assessed by CT scans every 4 weeks. Efficacy was evaluated after every cycle according to the Response Evaluation Criteria in Solid Tumors (RECIST, version 1.1).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Statistical Analyses</head><p>The primary endpoint was the 1-year progression-free survival (PFS) rate. Secondary endpoints were PFS, overall response rate (ORR), overall survival (OS), and adverse events. The primary analysis was performed in the full analysis set. Safety analyses were performed in patients who had received the protocol treatment at least once.</p><p>Assuming that the lower threshold of the 1-year PFS rate was 30% in patients who had not previously received chemotherapy and that the expected 1-year PFS rate was 70%, with a one-side α value of 0.05 and a β value of 0.2, we calculated the target number of previously untreated patients to be 46 in each groups. The target number of patients was therefore set at 100, including dropouts and excluded patients.</p><p>Time-dependent events were analyzed by the Kaplan-Meier method. A log-rank test was used to compare the survival rates between the groups. Fisher's test was used to compare treatment responses between the groups.</p><p>This trial is registered with UMIN-CRT (http://www.umin. ac.jp/ctr/) (00001464).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Results</head><p>From December 2013 through January 2018, a total of 120 patients were randomly assigned to receive either a 24h-SIRI/B regimen (n = 61) or to a FOLFIRI/B regimen (n = 59). Overall, 22 patients (10 patients in the 24h-SIRI/B group and 12 patients in the FOLFIRI/B group) were not treated after randomization because of the patients' request (n = 7), ileus (n = 3), jaundice (n = 3), aggravation of general condition (n = 3), pneumonia (n = 2), the presence of cancer in organs other than the col-orectum (n = 2), perforation (n = 1), or heart failure (n = 1).</p><p>The full analysis set population comprised 98 patients (51 patients in the 24h-SIRI/B arm and 47 patients in the FOLFIRI/B arm). The cut-off date for primary analysis of the primary endpoint was November 2018. Patient characteristics were similar in both groups <ref type="table" target="#tab_2">(Table 1)</ref>. Two weeks of treatment was counted as one cycle in both groups. The median number of treatment cycles was 17 (range 4-58) in the 24h-SIRI/B group and 15 (range 2-44) in the FOLFIRI/B group.</p><p>The median follow-up period was 22.8 months (range 3.1-58.8). The 1-year PFS rate, the primary endpoint, was 43.14% in the 24h-SIRI/B group and 19.15% in the FOLFIRI/B group (HR = 0.312 [95% CI 0.13-0.78], p = 0.01; <ref type="figure" target="#fig_0">Fig. 1</ref>). The median PFS was 10.2 months (95% CI 8.8-14.3) and 10.0 months (95% CI 7.4-11.0), respectively (p = 0.375; <ref type="figure" target="#fig_0">Fig. 1</ref>). The median OS was 29.7 months (95% CI 22.9-43.9), and 28.8 months (95% CI 18.4 to ND), respectively (p = 0.823; <ref type="figure" target="#fig_1">Fig. 2)</ref>. The ORR was 86.3 Values are given as n unless indicated otherwise.  and 61.7%, respectively (p = 0.0053; <ref type="table" target="#tab_3">Table 2</ref>). Complete responses were obtained in 8 patients (15.7%) and 3 patients (6.4%), respectively. Adverse events are summarized in <ref type="table" target="#tab_4">Table 3</ref>. The incidence rates of grade 3 or higher hematologic toxicities were similar. The incidence rates of grade 3 or higher gastrointestinal toxicities, such as diarrhea, anorexia, and nausea, were higher in the 24h-SIRI/B group.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Discussion</head><p>We hypothesized that a 24-h biweekly intravenous infusion of irinotecan might be more effective and be associated with milder adverse events, based on characteristics of pharmacokinetics and pharmacodynamics of iri-notecan, and developed a 24h-SIRI/B regimen. We adopted a 24-h biweekly intravenous infusion of irinotecan as a regimen for mCRC. We initially used oral UFT and subsequently used oral UFT plus leucovorin to perform clinical phase I and II studies. We also used oral S-1 and bevacizumab to conduct a clinical phase II study and reported that 24-h biweekly intravenous infusion of irinotecan combined with FUs (UFT or UFT plus leucovorin), S-1, and bevacizumab is useful with acceptable adverse events <ref type="bibr" target="#b6">[8,</ref><ref type="bibr" target="#b7">9,</ref><ref type="bibr" target="#b13">14]</ref>.</p><p>The development of adverse events caused by irinotecan is closely related to metabolic enzyme activities. The expression of enzyme activity is largely controlled by gene levels. More than 60 types of uridine diphosphate glucuronosyltransferase (UGT)1A1 gene polymorphisms have been identified as key factors in the metabolism of irinotecan <ref type="bibr" target="#b14">[15]</ref>. The most important gene polymorphism was considered UGT1A1*28. We previously reported on pharmacokinetics in patients who received irinotecan and S-1 and found that the recommended dose of irinotecan, given biweekly, was 125 mg/m 2 in patients homozygous for the *28 allele <ref type="bibr" target="#b10">[12]</ref> and that this regimen was highly active and well tolerated <ref type="bibr" target="#b12">[13]</ref>.</p><p>In the present study, we compared the effectiveness of a 24h-SIRI/B regimen with that of a FOLFIRI/B regimen, a standard treatment, in previously untreated patients with advanced, recurrent CRC. In the 24h-SIRI/B group, the 1-year PFS rate was 43.14%. The median PFS and OS were 10.2 and 29.7 months, respectively. The treatment response rate was 86.3%. In the FOLFIRI/B group, the 1-year PFS rate was 19.15%. The median PFS and OS were 10.0 and 28.6 months, respectively. The treatment response rate was 61.7%. PFS did not differ largely between the groups. OS tended to be improved in the 24h-SIRI/B group. The ORR was significantly higher in the 24h-SIRI/B group (p = 0.0053). Safety did not differ largely between the groups. The 24h-SIRI/B group had a higher incidence of gastrointestinal toxicities such as grade 3 or higher diarrhea, anorexia, and nausea.</p><p>Clinical phase II and III studies (FIRIS study) of patients who received secondary treatment for unresectable CRC demonstrated that combination treatment with oral S-1 and irinotecan (IRIS therapy) was not inferior to FOLFIRI therapy <ref type="bibr" target="#b15">[16]</ref>. In patients with no history of treatment, combination treatment with IRIS and bevacizumab was associated with a high ORR and a longer PFS <ref type="bibr" target="#b16">[17]</ref><ref type="bibr" target="#b17">[18]</ref><ref type="bibr" target="#b18">[19]</ref>. A recent controlled study (TRICOLORE trial) demonstrated that IRIS plus bevacizumab (a SIRI/B regimen) was equivalent to FOLFOX or CapeOx plus bevacizumab <ref type="bibr" target="#b19">[20]</ref>.  In the present study, we compared a 24-h SIRI/B regimen with a FOLFIRI/B regimen -a standard treatment -and found that the ORR was higher in the 24-h SIRI/B group. In the SIRI/B regimen in the TRICOLORE trial, irinotecan was given as a standard 90-min infusion, instead of a 24-h continuous infusion. The ORR was 66.4% (control group, 70.6%) <ref type="bibr" target="#b19">[20]</ref>. In our study, the ORR was 86.3%, suggesting that the use of a 24-h continuous infusion of irinotecan was associated with an increase in the ORR.</p><p>The PFS did not differ largely between the groups, and the OS tended to be improved. The time to progressive disease from tumor shrinkage did not differ largely between the treatment groups. However, the complete RR was 15.7% in the 24h-SIRI/B group and 6.4% in the FOLFIRI/B group. The partial RR was 70.6% in the 24h-SIRI/B group and 55.3% in the FOLFIRI/B group. These results suggested that the survival period may be longer in the 24h-SIRI/B group. However, details remain unknown.</p><p>Safety did not differ largely between the groups. However, the 24h-SIRI/B group had higher incidences of gastrointestinal toxicities such as grade 3 or higher diarrhea, anorexia, and nausea. One possible cause is that the combined drugs differed between the groups (S-1 vs. 5-FU plus leucovorin). In the SIRI/B regimen in the TRICO-LORE trial, the incidences of adverse events were as follows: 62.3% for any grade of diarrhea, 13.4% for grade 3 or higher diarrhea, 59.8% for any grade of anorexia, 6.7% for grade 3 or higher anorexia, 56.9% for any grade of nausea, and 3.3% for grade 3 or higher nausea <ref type="bibr" target="#b19">[20]</ref>. In our study, the incidences of adverse events associated with the 24h-SIRI/B regimen were as follows: 60.8% for any grade of diarrhea, 11.8% for grade 3 or higher diarrhea, 72.5% for any grade of anorexia, 9.8% for grade 3 or higher anorexia, 74.5% for any grade of nausea, and 9.8% for grade 3 or higher nausea. In other words, the use of 24-h continuous infusion of irinotecan did not lower the incidences of gastrointestinal toxicities, suggesting that S-1 combined with 24-h continuous infusion of irinotecan may not lower the incidence of adverse events.</p><p>At present, chemotherapeutic strategies for advanced or recurrent CRC are determined according to the patients' condition. In particular, our regimen was associated with a high RR. Therefore, we believe that our regimen can be used as a treatment option in patients with advanced disease who started treatment to convert to surgical resection.</p><p>The limitations of our study are as follows: our study is a randomized controlled phase II trial but not a confir-matory trial; treatment outcomes were obtained from a single study, and patients in whom metastasis or recurrence developed only in the liver were not enrolled.</p><p>In our study, a 24h-SIRI/B regimen, given as a firstline chemotherapy for mCRC, was equivalent to a FOLFIRI/B regimen with regard to the incidences of adverse events. However, the 24h-SIRI/B regimen was associated with a significantly higher RR and improved 1-year PFS.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>Fig. 1 .</head><label>1</label><figDesc>Progression-free survival.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head>Fig. 2 .</head><label>2</label><figDesc>Overall survival.Color version available onlineColor version available online DOI: 10.1159/000507293</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_2"><head>Table 1 .</head><label>1</label><figDesc>Patient characteristics (full analysis set)</figDesc><table><row><cell>24 h-SIRI/B</cell><cell>FOLFIRI/B</cell></row><row><cell>(n = 51)</cell><cell>(n = 47)</cell></row></table><note></note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_3"><head>Table 2 .</head><label>2</label><figDesc>Overall response rate (RR)</figDesc><table><row><cell></cell><cell>24h-SIRI/B</cell><cell>FOLFIRI/B</cell><cell>p value</cell></row><row><cell></cell><cell>(n = 51)</cell><cell>(n = 47)</cell><cell>(Fisher's test)</cell></row><row><cell>Complete response (CR)</cell><cell>8</cell><cell>3</cell><cell></cell></row><row><cell>Partial response (PR)</cell><cell>36</cell><cell>26</cell><cell></cell></row><row><cell>Stable disease (SD)</cell><cell>0</cell><cell>2</cell><cell></cell></row><row><cell>Progressive disease (PD)</cell><cell>7</cell><cell>16</cell><cell></cell></row><row><cell>RR</cell><cell>86.3%</cell><cell>61.7%</cell><cell>0.0053</cell></row><row><cell>DCR</cell><cell>86.3%</cell><cell>66.0%</cell><cell>0.0177</cell></row><row><cell cols="4">RR: % of CR + PR. DCR: Disease control rate (% of CR + PR +</cell></row><row><cell>SD).</cell><cell></cell><cell></cell><cell></cell></row></table><note></note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_4"><head>Table 3 .</head><label>3</label><figDesc>Adverse</figDesc><table><row><cell cols="3">events (all cycles)</cell><cell></cell><cell></cell></row><row><cell></cell><cell cols="4">24 h-SIRI/B (n = 51) FOLFIRI/B (n = 47)</cell></row><row><cell></cell><cell>all</cell><cell>grade ≥3</cell><cell>all</cell><cell>grade ≥3</cell></row><row><cell>Leukopenia</cell><cell>56.9</cell><cell>15.7</cell><cell>55.3</cell><cell>12.8</cell></row><row><cell>Neutropenia</cell><cell>54.9</cell><cell>29.4</cell><cell>53.2</cell><cell>23.4</cell></row><row><cell>Hemoglobin</cell><cell>72.5</cell><cell>3.9</cell><cell>66.0</cell><cell>2.1</cell></row><row><cell>Thrombocytopenia</cell><cell>5.9</cell><cell>0.0</cell><cell>4.3</cell><cell>0.0</cell></row><row><cell>Liver</cell><cell>19.6</cell><cell>0.0</cell><cell>23.4</cell><cell>0.0</cell></row><row><cell>Anorexia</cell><cell>72.5</cell><cell>9.8</cell><cell>72.3</cell><cell>2.1</cell></row><row><cell>Nausea</cell><cell>74.5</cell><cell>9.8</cell><cell>68.1</cell><cell>2.1</cell></row><row><cell>Vomiting</cell><cell>7.8</cell><cell>2.0</cell><cell>6.4</cell><cell>0.0</cell></row><row><cell>Diarrhea</cell><cell>60.8</cell><cell>11.8</cell><cell>55.3</cell><cell>6.4</cell></row><row><cell>Fatigue</cell><cell>60.8</cell><cell>2.0</cell><cell>63.8</cell><cell>2.1</cell></row><row><cell>Stomatitis</cell><cell>43.1</cell><cell>0.0</cell><cell>27.7</cell><cell>0.0</cell></row><row><cell>Alopecia</cell><cell>17.6</cell><cell>0.0</cell><cell>10.6</cell><cell>0.0</cell></row><row><cell>Hypertension</cell><cell>7.8</cell><cell>2.0</cell><cell>6.4</cell><cell>0.0</cell></row></table><note></note></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot">Oncology 2020;98:637-642</note>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Acknowledgement</head><p>Nothing to be declared.</p></div>
+			</div>
+
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Statement of Ethics</head><p>This trial was approved by the Institutional Review Board of Tokai University School of Medicine (13R-155). Our protocol was designed according to the Declaration of Helsinki and ethical guidelines. All patients provided written informed consent before enrollment.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Disclosure Statement</head><p>All authors have no potential conflicts of interest to declare.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Funding Sources</head><p>There was no funding source for this study.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Author Contributions</head><p>Conception and design: S. Sadahiro and T. Suzuki. Provision of study materials or patients: all authors. Collection and assembly of data: T. Suzuki, K. Okada, and S. Sadahiro. Data analysis and interpretation: S. Sadahiro and K. Okada. Manuscript writing: S. Sadahiro and T. Suzuki. Final approval of manuscript: all authors. </p></div>			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title/>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">/</forename><surname>Sadahiro</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Suzuki</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">/</forename><surname>Okada</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">/</forename><surname>Saito/Miyakita</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">/</forename><surname>Ogimi</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">/</forename><surname>Chan</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Kamei</surname></persName>
+		</author>
+		<idno type="DOI">10.1159/000507293</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Oncology</title>
+		<imprint>
+			<biblScope unit="volume">98</biblScope>
+			<date type="published" when="2020" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Japanese Society for Cancer of the Colon and Rectum (JSCCR) guidelines 2016 for the treatment of colorectal cancer</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Watanabe</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><surname>Muro</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Y</forename><surname>Ajioka</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Y</forename><surname>Hashiguchi</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Y</forename><surname>Ito</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Y</forename><surname>Saito</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Int J Clin Oncol</title>
+		<imprint>
+			<biblScope unit="volume">25</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="1" to="42" />
+			<date type="published" when="2020-01" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Randomized phase III study of bevacizumab plus FOLFIRI and bevacizumab plus mFOLFOX6 as firstline treatment for patients with metastatic colorectal cancer (WJOG4407G)</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><surname>Yamazaki</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Nagase</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><surname>Tamagawa</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Ueda</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Tamura</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><surname>Murata</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ann Oncol</title>
+		<imprint>
+			<biblScope unit="volume">27</biblScope>
+			<biblScope unit="issue">8</biblScope>
+			<biblScope unit="page" from="1539" to="1585" />
+			<date type="published" when="2016-08" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Improved overall survival with oxaliplatin, fluorouracil, and leucovorin as adjuvant treatment in stage II or III colon cancer in the MOSAIC trial</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>André</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><surname>Boni</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Navarro</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Tabernero</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Hickish</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><surname>Topham</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Clin Oncol</title>
+		<imprint>
+			<biblScope unit="volume">27</biblScope>
+			<biblScope unit="page" from="3109" to="3125" />
+			<date type="published" when="2009-07-01" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Efficacy of topoisomerase I inhibitors, topotecan and irinotecan, administered at low dose levels in protracted schedules to mice bearing xenografts of human tumors</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><forename type="middle">J</forename><surname>Houghton</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><forename type="middle">J</forename><surname>Cheshire</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">D</forename><surname>Hallman</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">L</forename><surname>Lutz</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><forename type="middle">S</forename><surname>Friedman</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">K</forename><surname>Danks</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Cancer Chemother Pharmacol</title>
+		<imprint>
+			<biblScope unit="volume">36</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page" from="393" to="403" />
+			<date type="published" when="1995" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Alternative dosing schedules for irinotecan</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">L</forename><surname>Rothenberg</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">G</forename><surname>Kuhn</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">L</forename><forename type="middle">J</forename><surname>Schaaf</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><forename type="middle">L</forename><surname>Drengler</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><forename type="middle">G</forename><surname>Eckhardt</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">A</forename><surname>Villalona-Calero</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Oncology</title>
+		<imprint>
+			<biblScope unit="volume">12</biblScope>
+			<biblScope unit="issue">8</biblScope>
+			<biblScope unit="page" from="68" to="71" />
+			<date type="published" when="1998-08" />
+		</imprint>
+	</monogr>
+	<note>Suppl 6</note>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Phase I/II study of 24-hour infusion of irinotecan combined with oral UFT for metastatic colorectal cancer</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Sadahiro</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Suzuki</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Y</forename><surname>Maeda</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><surname>Ishikawa</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Yasuda</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><surname>Makuuchi</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Chemotherapy</title>
+		<imprint>
+			<biblScope unit="volume">54</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="140" to="146" />
+			<date type="published" when="2008" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Phase I/II study of twenty-four-hour infusion of irinotecan in combination with oral UFT plus leucovorin for metastatic colorectal cancer</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Sadahiro</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Suzuki</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Y</forename><surname>Maeda</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Tanaka</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><surname>Ishikawa</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><surname>Makuuchi</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Oncology</title>
+		<imprint>
+			<biblScope unit="volume">76</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page" from="338" to="379" />
+			<date type="published" when="2009" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<monogr>
+		<title level="m" type="main">The modulated oral fluoropyrimidine prodrug S-1, and its use in gastrointestinal cancer and other solid tumors. Anticancer Drugs</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><surname>Schöffski</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2004-02" />
+			<biblScope unit="volume">15</biblScope>
+			<biblScope unit="page" from="85" to="106" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Development of a novel form of an oral 5-fluorouracil derivative (S-1) directed to the potentiation of the tumor selective cytotoxicity of 5-fluorouracil by two biochemical modulators</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Shirasaka</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Y</forename><surname>Shimamato</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><surname>Ohshimo</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Yamaguchi</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Kato</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><surname>Yonekura</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Anticancer Drugs</title>
+		<imprint>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page" from="548" to="57" />
+			<date type="published" when="1996-07" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Phase I/pharmacokinetic (PK) study of biweekly 24-hour infusion of irinotecan (irinotecan) plus S-1 for metastatic colorectal cancer (MCRC): role of UGT1A1 polymorphisms</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Sadahiro</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Y</forename><surname>Maeda</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Suzuki</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Tanaka</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><surname>Ogoshi</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Kamijo</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Poster presented at: 2010 ASCO Gastrointestinal Cancers Symposium</title>
+		<imprint>
+			<date type="published" when="2010-01-22" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<monogr>
+		<title/>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Usa</forename><surname>Orlando</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Poster</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">398</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">A phase II trial of combined chemotherapy with oral S-1 and 24-hour infusions of irinotecan plus bevacizumab in patients with metastatic colorectal cancer</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Sadahiro</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Suzuki</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Tanaka</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><surname>Okada</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">G</forename><surname>Saito</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Kamijo</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Oncology</title>
+		<imprint>
+			<biblScope unit="volume">88</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page" from="353" to="362" />
+			<date type="published" when="2015" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Phase II study of preoperative concurrent chemoradiotherapy with S-1 plus bevacizumab for locally advanced resectable rectal adenocarcinoma</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Sadahiro</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Suzuki</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Tanaka</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><surname>Okada</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">G</forename><surname>Saito</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Kamijo</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Oncology</title>
+		<imprint>
+			<biblScope unit="volume">88</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="49" to="56" />
+			<date type="published" when="2015" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">Clinical pharmacogenetics of irinotecan (CPT-11)</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Y</forename><surname>Ando</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Y</forename><surname>Hasegawa</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Drug Metab Rev</title>
+		<imprint>
+			<biblScope unit="volume">37</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="565" to="74" />
+			<date type="published" when="2005" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Irinotecan plus S-1 (IRIS) versus fluorouracil and folinic acid plus irinotecan (FOLFIRI) as second-line chemotherapy for metastatic colorectal cancer: a randomised phase 2/3 non-inferiority study (FIRIS study)</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><surname>Muro</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">N</forename><surname>Boku</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Y</forename><surname>Shimada</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Tsuji</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Sameshima</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><surname>Baba</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Lancet Oncol</title>
+		<imprint>
+			<biblScope unit="volume">11</biblScope>
+			<biblScope unit="issue">9</biblScope>
+			<biblScope unit="page" from="853" to="60" />
+			<date type="published" when="2010-09" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Phase II study of combined chemotherapy with irinotecan and S-1 (IRIS) plus bevacizumab in patients with inoperable recurrent or advanced colorectal cancer</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Y</forename><surname>Komatsu</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Yuki</forename><forename type="middle">S</forename><surname>Sogabe</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Fukushima</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><surname>Nakatsumi</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><surname>Kobayashi</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Y</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Acta Oncol</title>
+		<imprint>
+			<biblScope unit="volume">51</biblScope>
+			<biblScope unit="issue">7</biblScope>
+			<biblScope unit="page" from="867" to="72" />
+			<date type="published" when="2012-09" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<monogr>
+		<title level="m" type="main">Phase II study of oral S-1 with irinotecan and bevacizumab (SIRB) as first-line therapy for patients with metastatic colorectal cancer. Invest New Drugs</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Y</forename><surname>Yamada</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Yamaguchi</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><surname>Matsumoto</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Y</forename><surname>Ichikawa</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Goto</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><surname>Kato</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2012-08" />
+			<biblScope unit="volume">30</biblScope>
+			<biblScope unit="page" from="1690" to="1696" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">A phase II study of combined chemotherapy with 5-week cycles of S-1 and CPT-11 plus bevacizumab in patients with metastatic colon cancer</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Mizushima</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Y</forename><surname>Ide</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><surname>Murata</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">I</forename><surname>Ohashi</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><surname>Yasumasa</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Fukunaga</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Oncology</title>
+		<imprint>
+			<biblScope unit="volume">85</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page" from="317" to="339" />
+			<date type="published" when="2013" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">S-1 and irinotecan plus bevacizumab versus mFOLFOX6 or CapeOX plus bevacizumab as first-line treatment in patients with metastatic colorectal cancer (TRICOLORE): a randomized, openlabel, phase III, noninferiority trial</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Y</forename><surname>Yamada</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Denda</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Gamoh</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">I</forename><surname>Iwanaga</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Yuki</forename><forename type="middle">S</forename><surname>Shimodaira</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ann Oncol</title>
+		<imprint>
+			<biblScope unit="volume">29</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="624" to="655" />
+			<date type="published" when="2018-03-01" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

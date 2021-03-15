@@ -1,0 +1,1230 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /data/rsg/nlp/juanmoo1/bin/grobid-0.6.1/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">A Randomized Phase IIa Trial with Temsirolimus versus Sunitinib in Advanced Non-Clear Cell Renal Cell Carcinoma: An Intergroup Study of the CESAR Central European Society for Anticancer Drug Research-EWIV and the Interdisciplinary Working Group on Renal Cell Cancer (IAGN) of the German Cancer Society</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+				<date type="published" when="2020-06-15">June 15, 2020</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author role="corresp">
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Lothar</forename><surname>Bergmann</surname></persName>
+							<email>l.bergmann@em.uni-frankfurt.de</email>
+							<affiliation key="aff0">
+								<orgName type="department">Medical Clinic II</orgName>
+								<orgName type="institution">J.W. Goethe University</orgName>
+								<address>
+									<settlement>Frankfurt</settlement>
+									<country key="DE">Germany</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Viktor</forename><surname>Grünwald</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="department">Hematology and Medical Oncology</orgName>
+								<orgName type="institution">Medizinische Hochschule Hannover</orgName>
+								<address>
+									<settlement>Hannover</settlement>
+									<country key="DE">Germany</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Luise</forename><surname>Maute</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Medical Clinic II</orgName>
+								<orgName type="institution">J.W. Goethe University</orgName>
+								<address>
+									<settlement>Frankfurt</settlement>
+									<country key="DE">Germany</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Marc-Oliver</forename><surname>Grimm</surname></persName>
+							<affiliation key="aff2">
+								<orgName type="department">Clinic for Urology</orgName>
+								<orgName type="institution">Friedrich-Schiller University</orgName>
+								<address>
+									<settlement>Jena</settlement>
+									<country key="DE">Germany</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Steffen</forename><surname>Weikert</surname></persName>
+							<affiliation key="aff3">
+								<orgName type="department">Clinic for Urology</orgName>
+								<orgName type="institution">Vivantes Humboldt-Klinikum</orgName>
+								<address>
+									<settlement>Berlin</settlement>
+									<country key="DE">Germany</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Jan</forename><surname>Schleicher</surname></persName>
+							<affiliation key="aff4">
+								<orgName type="department">Clinic for Hematology and Oncology</orgName>
+								<address>
+									<addrLine>Klinikum Stuttgart</addrLine>
+									<settlement>Stuttgart</settlement>
+									<country key="DE">Germany</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Theodor</forename><surname>Klotz</surname></persName>
+							<affiliation key="aff5">
+								<orgName type="department">Clinic for Urology and Andrology</orgName>
+								<orgName type="institution">Kliniken Nordoberpfalz AG</orgName>
+								<address>
+									<settlement>Weiden</settlement>
+									<country key="DE">Germany</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Jochen</forename><surname>Greiner</surname></persName>
+							<affiliation key="aff6">
+								<orgName type="department">Clinic for Hematology and Oncology</orgName>
+								<address>
+									<addrLine>Diakonie Klinikum</addrLine>
+									<settlement>Stuttgart</settlement>
+									<country key="DE">Germany</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Anne</forename><surname>Flörcken</surname></persName>
+							<affiliation key="aff7">
+								<orgName type="department">Department of Hematology, Oncology, and Tumor Immunology</orgName>
+								<orgName type="institution" key="instit1">Charité-Universitätsmedizin Berlin</orgName>
+								<orgName type="institution" key="instit2">Corporate Member of Freie Universität Berlin</orgName>
+								<orgName type="institution" key="instit3">Humboldt-Universität zu Berlin</orgName>
+								<orgName type="institution" key="instit4">Berlin Institute of Health</orgName>
+								<address>
+									<addrLine>Campus Virchow-Klinikum</addrLine>
+									<settlement>Berlin</settlement>
+									<country key="DE">Germany</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff8">
+								<orgName type="department">Clinic for Hematology and Oncology</orgName>
+								<orgName type="institution">Charité</orgName>
+								<address>
+									<settlement>Berlin</settlement>
+									<country key="DE">Germany</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Arndt</forename><surname>Hartmann</surname></persName>
+							<affiliation key="aff9">
+								<orgName type="department">Institut for Pathology</orgName>
+								<orgName type="institution">University Hospital</orgName>
+								<address>
+									<settlement>Erlangen-Nürnberg</settlement>
+									<country key="DE">Germany</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Thomas</forename><surname>Gauler</surname></persName>
+							<affiliation key="aff10">
+								<orgName type="department" key="dep1">Department of Medical Oncology</orgName>
+								<orgName type="department" key="dep2">West German Cancer Center</orgName>
+								<orgName type="institution">University Hospital Essen of the University Duisburg-Essen</orgName>
+								<address>
+									<settlement>Essen</settlement>
+									<country key="DE">Germany</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Medizinische</forename><surname>Klinik</surname></persName>
+						</author>
+						<author>
+							<affiliation key="aff11">
+								<orgName type="institution">Universitätsklinikum</orgName>
+								<address>
+									<addrLine>Theodor-Stern-Kai 7 DE</addrLine>
+									<postCode>60590</postCode>
+									<settlement>Frankfurt</settlement>
+									<country key="DE">Germany</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">A Randomized Phase IIa Trial with Temsirolimus versus Sunitinib in Advanced Non-Clear Cell Renal Cell Carcinoma: An Intergroup Study of the CESAR Central European Society for Anticancer Drug Research-EWIV and the Interdisciplinary Working Group on Renal Cell Cancer (IAGN) of the German Cancer Society</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date type="published" when="2020-06-15">June 15, 2020</date>
+						</imprint>
+					</monogr>
+					<idno type="DOI">10.1159/000508450</idno>
+					<note type="submission">Received: February 27, 2020 Accepted: May 6, 2020</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.6.1" ident="GROBID" when="2020-10-09T18:38+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>Non-clear cell renal cell cancer</term>
+					<term>Sunitinib</term>
+					<term>Temsirolimus</term>
+					<term>Randomized trial</term>
+					<term>Phase II trial</term>
+				</keywords>
+			</textClass>
+			<abstract>
+				<p>Background: Non-clear cell renal cell cancers (nccRCC) are rare entities, and the optimal therapy in metastatic disease has still to be defined. Methods: In this small prospectively randomized phase IIa multicenter trial, we investigated temsirolimus (TEM) versus sunitinib (SUN) as first-line therapy in patients with metastatic nccRCC. The patients were randomized 1: 1 to either TEM in a dose of 25 mg i.v. once a week or SUN with 50 mg p.o. daily for 4 weeks on and 2 weeks off. Primary endpoint was progression-free survival (PFS). In total, 22 patients were included with predominantly papillary RCC (16/22) followed by chromophobe RCC and others. Results: The male to female ratio was 16: 6. The tumor control rate (CR + PR + SD) was 58% for TEM and 90% for SUN-treated patients. There was also a trend for improved PFS with 9.3 versus 13.2 months (HR 1.64; 95% CI 0.65-4.18) in favor of SUN. There was no trend for overall survival. Conclusions: Despite this trial had to be terminated earlier due to low recruitment, the results match the other studies published so far with the mTOR inhibitor everolimus and SUN, which show a trend in favor of SUN for ORR and PFS.</p>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Introduction</head><p>The therapeutic options in advanced renal cell carcinomas (RCC) have been improved dramatically in recent years. Various new agents as anti-angiogenic agents, DOI: 10.1159/000508450 tyrosine kinase inhibitors (TKIs), and immune checkpoint inhibitors (IOs) have been approved by the FDA and EMA. However, most clinical trials have been performed in clear cell (CC) RCC only or predominantly, which account for about 75% of all RCCs <ref type="bibr" target="#b1">[1]</ref><ref type="bibr" target="#b2">[2]</ref><ref type="bibr" target="#b3">[3]</ref>.</p><p>In contrast, data in advanced non-clear cell (ncc) RCCs are rather rare <ref type="bibr" target="#b1">[1,</ref><ref type="bibr" target="#b5">4,</ref><ref type="bibr" target="#b6">5]</ref>. There are only a few studies focusing on nccRCC exclusively, showing only some limited data on the efficacy in response rates and survival of targeted agents as temsirolimus (TEM), everolimus, or sunitinib (SUN) or other TKIs in nccRCC <ref type="bibr" target="#b8">[6]</ref><ref type="bibr" target="#b10">[7]</ref><ref type="bibr" target="#b11">[8]</ref><ref type="bibr" target="#b12">[9]</ref><ref type="bibr" target="#b13">[10]</ref>. Recommendations suggest to treat nccRCC in the same way as ccRCC due to missing corresponding trials <ref type="bibr" target="#b1">[1,</ref><ref type="bibr" target="#b3">3]</ref>. Uncertainties also exist in the proper treatment of sarcomatoid RCCs, which can be the dedifferentiated tumor form of nearly all histological subtypes of RCCs, but new data with combinations of immune-checkpoint inhibitors (IO/IO) or IOs with axitinib suggest an advantage <ref type="bibr" target="#b13">[10]</ref><ref type="bibr" target="#b14">[11]</ref><ref type="bibr" target="#b16">[12]</ref>.</p><p>Direct comparisons between the mammalian targets of rapamycin (mTOR) inhibitors everolimus and SUN have been studied in two small randomized trials showing a tendency towards SUN or no significant difference in efficacy, but still the numbers are rather small to draw final conclusions <ref type="bibr" target="#b8">[6,</ref><ref type="bibr" target="#b10">7]</ref>. Regarding the mTOR inhibitor TEM, the subgroup analysis of the "Advanced Renal Cell Carcinoma" (ARCC) study showed a comparable median OS (mOS) for ccRCC and nccRCC patients receiving TEM in comparison to interferon-α <ref type="bibr" target="#b17">[13]</ref>. No data are available for the mTOR inhibitor TEM in comparison to SUN <ref type="bibr" target="#b18">[14]</ref>.</p><p>Additionally, nccRCC are heterogeneous entities, whereby the most frequent subtype of nccRCC with 10-15% is papillary RCC, followed by chromophobe RCC (5%), collecting duct carcinomas (1%), medullary carcinomas (1%), and MiT family translocation RCC (1%). Furthermore, new entities of nccRCC were described in the 2016 WHO classification <ref type="bibr" target="#b19">[15]</ref>  In this small multicenter prospectively randomized phase IIa trial, TEM was compared to SUN in nccRCC.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Patients and Methods</head><p>This open-label randomized trial was performed in 9 centers of the Central European Society for Anticancer Drug Research-EWIV (CESAR) study group. It was an investigator-initiated trial. Eligible patients had histologically confirmed nccRCC, including sarcomatoid features, defined as &gt; 50% sarcomatoid component as assessed through pathological examination by a local site review. Mixed features were allowed if the nccRCC component was &gt; 50%. Additional eligibility criteria included a baseline Karnofsky perfor-mance status of 70 or higher, life expectancy of at least 3 months, and the presence of measurable metastatic disease as per RECIST 1.1 criteria. Patients had to have adequate bone marrow, kidney, and liver function and adequate laboratory parameters (baseline creatinine concentration ≤2 times the institutional upper limit of normal (ULN), as well as aspartate aminotransferase and alanine aminotransferase concentrations &lt; 2•5 times the ULN. The patients could not have received any prior systemic cancer treatment and should not have symptomatic brain metastases. Local irradiation and/or surgical procedures were not allowed within 4 weeks prior study inclusion. Additional exclusion criteria were severe cardiovascular disorders, poorly controlled hypertension, any cardiovascular event within 6 months of randomization or prolonged QTc time (&gt; 450 ms), abnormal pulmonary function (DCO &lt; 50%), poorly controlled diabetes mellitus, patients taking strong CYP3A inhibitors or inducers, active infections, or second malignancies as well as pregnant or nursing women.</p><p>Patients who met the eligibility criteria were randomly assigned 1: 1 to receive either SUN 50 mg/day p.o. for 4 weeks, followed by 2 weeks rest each or 25 mg TEM as weekly infusions. Dose reductions were allowed according to the Summary of Product Characteristics (SmPc).</p><p>The primary endpoint was progression-free survival (PFS), secondary endpoints were objective response (ORR), time to progression, safety assessed according to CTCAE, PFS rate at 12 months, and overall survival. PFS was defined as time from randomization until disease progression. Tumor assessment was done in accordance with common guidelines every 3 months. The study was discontinued in case of tumor progression, intolerable adverse events, or pregnancy. The statistical analysis was done by the Assign Data Management and Biostatistics GmbH (Innsbruck, Austria).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Results</head><p>In total, 22 patients were eligible and randomized. Due to low recruitment over 2 years, the study was prematurely stopped. Twelve patients were randomized to arm A (TEM) and 10 patients to arm B (SUN). The median age was 60.8 years. A total of 59% of the patients had ECOG and 41% ECOG 1. Further, 86.5% of the patients had a metastatic disease, and 13.5% a locally advanced stage. The histological classification was done by the local pathologists. Sixteen patients (73%) had a papillary subtype, 2 patients a chromophobe, 1 patient a renal medullary and 3 patients an unclassified non-clear cell carcinoma ( <ref type="table" target="#tab_1">Table 1</ref>). The median treatment duration was slightly but not significantly lower in the TEM group. The reason for treatment stop was predominantly tumor progression or death <ref type="table" target="#tab_1">(Table 1</ref>).</p><p>In the TEM arm, 2 of 12 patients achieved a partial remission (PR) and 5 of 12 patients a stable disease (SD) compared to 3 of 10 and 6 of 10 patients in the SUN arm, respectively ( <ref type="table">Table 2</ref>). The tumor control rate (CR + PR + SD) was 77.8% in the GEM arm and 90% in the SUN arm. The median PFS for TEM was inferior with 9.3 versus 13.2 months for SUN, but the difference was statistically not significant and the primary endpoint was not Oncol Res Treat 2020;43:333-338 DOI: 10.1159/000508450 met <ref type="figure">(Fig. 1</ref>). There was no difference in mOS with 19.4 months TEM and 19.8 months for SUN <ref type="figure">(Fig. 2)</ref>.</p><p>No dose modifications have been reported in the TEM arm, but 7 of 10 patients experienced at least one dose modification (reduction) during the treatment period in the SUN arm. Eleven of 12 patients had drug-related severe adverse events (SAE) in the TEM arm and all patients in the SUN arm <ref type="table">(Table 3)</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Discussion</head><p>Patients with metastatic nccRCC show a worse response to treatment with either VEGF-or mTOR-targeted therapies as well as a shorter overall survival (OS) compared to clear cell RCC (ccRCC) patients <ref type="bibr" target="#b1">[1,</ref><ref type="bibr" target="#b20">16]</ref>.</p><p>Since nccRCC are excluded from most kidney cancer studies, their optimal treatment is yet not defined. Reports on mTOR inhibitors in RCC have proven a benefit for TEM compared to interferon-α (IFN) <ref type="bibr" target="#b12">[9,</ref><ref type="bibr" target="#b17">13]</ref>. The subgroup analysis of the ARCC study showed a comparable mOS for ccRCC and nccRCC patients receiving TEM, whereas nccRCC patients with IFN had a significantly shorter mOS and a lower ORR than nccRCC patients <ref type="bibr" target="#b17">[13]</ref>.</p><p>The subgroup analysis of the RAD001 Expanded Access Clinical Trial (REACT) demonstrated an ORR of 50.6% (1.3% PR and 49.3% SD) and a PFS of 2.8 months for everolimus <ref type="bibr" target="#b21">[17]</ref>. Another trial reported a mOS of 14 months and a PFS of 5.2 months for patients receiving everolimus irrespective of pretreatment with VEGF-TKI. The benefit was especially high in chromophobe RCC patients, documenting a PFS of 13.1 months compared to 3.4 months in other nccRCC subgroups (p = 0.084) <ref type="bibr" target="#b20">[16]</ref>. The RAPTOR trial showed similar results concerning PFS for patients with papillary histology with a mOS of 21.4 months <ref type="bibr" target="#b22">[18]</ref>. In this trial, we compared the mTOR inhibitor TEM with SUN. Unfortunately, the recruitment rate was low and the trial had to be ended prematurely. Despite this low patient number and the limitations of this trial, the findings suggest that patients with metastatic nccRCC may have a higher tumor control rate and longer PFS when treated with SUN compared with TEM.</p><p>Up to now, a few randomized studies evaluated the efficacy of SUN compared to everolimus in nccRCC patients (ASPEN, ESPN) <ref type="bibr" target="#b8">[6,</ref><ref type="bibr" target="#b10">7]</ref> showing a trend towards SUN regarding PFS and OS in a meta-analysis <ref type="bibr" target="#b5">[4,</ref><ref type="bibr" target="#b23">19]</ref>. Regarding different risk subgroups, ASPEN especially indicated a benefit for VEGF-TKI therapy in patients with good or intermediate risk according to MSKCC criteria (PFS 14 vs. 5.7 months in good risk and 6.5 vs. 4.9 months in intermediate risk patients) compared to everolimus. However high-risk patients according to MSKCC criteria showed a better PFS with everolimus (4.0 vs. 6.1 months, HR 0.3) <ref type="bibr" target="#b12">[9]</ref>. Taken together, the three studies support a superiority of SUN to mTOR inhibitors as everolimus or TEM in nccRCC.</p><p>Recently, new combinations of immune checkpoint inhibitors (ipilimumab/nivolumab) or axitinib with an immune checkpoint inhibitor (axitinib + pembrolizumab; axitinib + avelumab) have been approved by the FDA and the European Commission for metastatic RCC independent from histological subtype, despite there are no sufficient data available in nccRCC. However, the significance of the immune checkpoint inhibitors in patients with metastatic nccRCC remains so far limited. Individual case reports and the subgroup analysis of the ipilimumab plus nivolumab and axitinib plus pembrolizumab pivotal studies show a promising response in nccRCC and especially those with sarcomatoid features <ref type="bibr" target="#b14">[11,</ref><ref type="bibr" target="#b24">[20]</ref><ref type="bibr" target="#b26">[21]</ref><ref type="bibr" target="#b27">[22]</ref>. Initial data are also available for the combination of bevacizumab and atezolizumab <ref type="bibr" target="#b28">[23]</ref>. The current ESMO guidelines therefore consider the IO/IO combination to be a good therapy option for sarcomatoid RCCs <ref type="bibr" target="#b29">[24]</ref>.</p><p>Despite this trial had to be terminated due to low recruitment and the numbers are small, the results match the other studies published so far with the mTOR inhibitor everolimus and SUN, which show a trend in favor of SUN. New options with IO/IO or TKI/IO combinations are of major interest. A recently initiated, multicenter, prospective, two-arm study of nivolumab in combination with ipilimumab compared to standard of care (e.g., SUN) aims to evaluate the efficacy and safety of this combination in nonccRCC (SUNNIFORECAST; NCT03075423). </p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>Table 3 .Fig. 1 .Fig. 2 .</head><label>312</label><figDesc>Number of subjects experiencing at least one related seri-Kaplan-Meier curves by treatment group for PFS. Kaplan-Meier curves by treatment group for OS. Phase II Trial with Temsirolimus vs. Sunitinib in nccRCC 337 Oncol Res Treat 2020;43:333-338 DOI: 10.1159/000508450</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_1"><head>Table 1 .</head><label>1</label><figDesc>Patient characteristics</figDesc><table><row><cell>Arm A: TEM</cell><cell>Arm B: SUN</cell><cell>Total</cell></row><row><cell>(n = 12)</cell><cell>(n = 10)</cell><cell>(n = 22)</cell></row></table><note>Oncol Res Treat 2020;43:333-338 336DOI: 10.1159/000508450</note></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot">Oncol Res Treat 2020;43:333-338</note>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Acknowledgements</head><p>The statistical analysis was done by Assign Data Management and Biostatistics GmbH (Innsbruck, Austria).</p></div>
+			</div>
+
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Statement of Ethics</head><p>The study was registered at www.clinicaltrials.gov (NCT00979966) and at EUDRACT 2009-010143-13 and was approved by the institutional ethical boards, and all patients provided written informed consent according to the EMA guideline for good clinical practice (ICH/GCP).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Funding Sources</head><p>This study was supported by a grant from Pfizer Germany. </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Author Contributions</head></div>			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<monogr>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">L</forename><forename type="middle">B</forename><surname>Bms</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Ipsen</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Eisai</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Eusa</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Merck</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Pfizer</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">;</forename><surname>Roche</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Novartis</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Pfizer</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Ipsen</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Janssen-Cilag</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Bms</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Lilly</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Onkowissen</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Roche</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Ipsen</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Merck</forename><surname>Bayer</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Serono</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Janssen-Cilag</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Msd</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Pfizer</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Lilly</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Pharmamar</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Eusapharm</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Novartis</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Astrazeneca</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Eisai</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Bms; Traveling Expenses: Astrazeneca</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Pfizer</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Bms</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Ipsen</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Bristol-Myers</forename><surname>Bayer; Stocks: Astrazeneca</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Squibb</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Bristol-Myers</forename><surname>Msd; Research Support: Astrazeneca</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Squibb</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Novartis</forename><forename type="middle">L M</forename><surname>Msd</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><forename type="middle">K</forename></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">G</forename><surname>Astrazeneca</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Bayer Health Care</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Intuitive</forename><surname>Bms</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Surgical Inc</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Ipsen</forename><surname>Hexa</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Pgarma</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Janssencilag</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Merck</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Msd</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Novartis</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Pharma</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">;</forename><surname>Pfizer</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Apogepha</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Astellas</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Ipsen</forename><surname>Bms</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Pharma</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Medac</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Msd</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Novartis</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">;</forename><surname>Pharma</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Bms</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Msd</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Astrazeneca</forename><surname>Roche</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Boehringer</forename><surname>Ingelheim</surname></persName>
+		</author>
+		<title level="m">Pfizer; research support: Intuitive Surgical Inc. S.W. advisory board or consultant: Intuitive Surgical Inc.; honoraria: Pfizer, Astellas, Janssen-Cilag. J.S. advisory board or consultant: Pfizer, Ipsen, Takeda, MSD, Novartis, BMS; honoraria: Celgene, Janssen-Cilag, Pfizer, Ipsen, Merck; research support: BMS, Eisai, AstraZeneca, Novartis. A.F. traveling expenses: Ipsen, PharmaMar, Lilly. A.H. advisory board or consultant: BMS, MSAD</title>
+		<meeting><address><addrLine>Roche, AstraZeneca, Novartis, Boehringer Ingelheim, Abbvie, Cepheid, Nanostring, Qiagen, Biontech, Janssen-Cilag, 3DHistotech, Diaceutics; Biontech, Roche, Janssen, Nanostring</addrLine></address></meeting>
+		<imprint>
+			<biblScope unit="volume">speaker honoraria</biblScope>
+		</imprint>
+	</monogr>
+	<note>Abbvie, Janssen-Cilag; research support: Illumina, Cepheid. advisory board or consultant: Ipsen, Novartis, BMS, Eisai; honoraria: BMS, Ipsen, Novartis, MSD, Eisai, Pfizer; traveling expenses: BMS, Ipsen, Novartis, MSD, Eisai, Pfizer; stocks: Bayer</note>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Working Group Kidney Cancer of the German Cancer Society. Non-Clear Cell Renal Cell Carcinoma -Pathology and Treatment Options</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Ahrens</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Scheich</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Hartmann</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">L; Iag-N</forename><surname>Bergmann</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Interdisciplinary</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Oncol Res Treat</title>
+		<imprint>
+			<biblScope unit="volume">42</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="128" to="163" />
+			<date type="published" when="2019" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Updated European Association of Urology Guidelines on Renal Cell Carcinoma: Immune Checkpoint Inhibition Is the New Backbone in First-line Treatment of Metastatic Clear-cell Renal Cell Carcinoma</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">L</forename><surname>Albiges</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Powles</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Staehler</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><surname>Bensalah</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><forename type="middle">H</forename><surname>Giles</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Hora</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Eur Urol</title>
+		<imprint>
+			<biblScope unit="volume">76</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="151" to="157" />
+			<date type="published" when="2019-08" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<monogr>
+		<title/>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><surname>Miller</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">L</forename><surname>Bergmann</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><surname>Doehn</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">E</forename><surname>Gschwend</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">A</forename><surname>Kuczyk</surname></persName>
+		</author>
+		<imprint/>
+	</monogr>
+	<note>Interdisciplinary recommendations for the treatment of metastatic renal cell carcinoma</note>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Epub ahead of print</title>
+	</analytic>
+	<monogr>
+		<title level="j">Aktuelle Urol</title>
+		<imprint>
+			<date type="published" when="2019" />
+			<publisher>German</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">A Systematic Review and Meta-analysis Comparing the Effectiveness and Adverse Effects of Different Systemic Treatments for Non-clear Cell Renal Cell Carcinoma</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Fernández-Pello</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">F</forename><surname>Hofmann</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><surname>Tahbaz</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">L</forename><surname>Marconi</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><forename type="middle">B</forename><surname>Lam</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">L</forename><surname>Albiges</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Eur Urol</title>
+		<imprint>
+			<biblScope unit="volume">71</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="426" to="462" />
+			<date type="published" when="2017-03" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<monogr>
+		<title level="m" type="main">Systemic therapy for non-clear cell renal cell carcinomas: a systematic review and meta-analysis</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">F</forename><forename type="middle">E</forename><surname>Vera-Badillo</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><forename type="middle">J</forename><surname>Templeton</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">I</forename><surname>Duran</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Ocana</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><surname>De Gouveia</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><surname>Aneja</surname></persName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title/>
+	</analytic>
+	<monogr>
+		<title level="j">Eur Urol</title>
+		<imprint>
+			<biblScope unit="volume">67</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="740" to="749" />
+			<date type="published" when="2015-04" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<monogr>
+		<title level="m" type="main">Everolimus Versus Sunitinib Prospective Evaluation in Metastatic Non-Clear Cell Renal Cell Carcinoma (ESPN): A Randomized Multicenter Phase 2</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">N</forename><forename type="middle">M</forename><surname>Tannir</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><surname>Jonasch</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">L</forename><surname>Albiges</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><surname>Altinmakas</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><forename type="middle">S</forename><surname>Ng</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><forename type="middle">F</forename><surname>Matin</surname></persName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title/>
+	</analytic>
+	<monogr>
+		<title level="j">Eur Urol</title>
+		<imprint>
+			<biblScope unit="volume">69</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page" from="866" to="74" />
+			<date type="published" when="2016-05" />
+		</imprint>
+	</monogr>
+	<note>Trial</note>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Everolimus versus sunitinib for patients with metastatic non-clear cell renal cell carcinoma (ASPEN): a multicentre, open-label, randomised phase 2 trial</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><forename type="middle">J</forename><surname>Armstrong</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Halabi</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Eisen</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Broderick</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">W</forename><forename type="middle">M</forename><surname>Stadler</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><forename type="middle">J</forename><surname>Jones</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Lancet Oncol</title>
+		<imprint>
+			<biblScope unit="volume">17</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="378" to="88" />
+			<date type="published" when="2016-03" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Safety and efficacy of everolimus in patients with nonclear cell renal cell carcinoma refractory to VEGF-targeted therapy: subgroup analysis of REACT</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><forename type="middle">U</forename><surname>Blank</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><surname>Bono</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">M</forename><surname>Larkin</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Gogov</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Panneerselvam</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><forename type="middle">A</forename><surname>Garay</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Clin Oncol</title>
+		<imprint>
+			<biblScope unit="volume">30</biblScope>
+			<biblScope unit="page">402</biblScope>
+			<date type="published" when="2012" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Temsirolimus for advanced renal cell carcinoma</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">L</forename><surname>Bergmann</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">L</forename><surname>Maute</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Guschmann</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Expert Rev Anticancer Ther</title>
+		<imprint>
+			<biblScope unit="volume">14</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="9" to="21" />
+			<date type="published" when="2014-01" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">CheckMate 214 Investigators. Nivolumab plus Ipilimumab versus Sunitinib in Advanced Renal-Cell Carcinoma</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><forename type="middle">J</forename><surname>Motzer</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">N</forename><forename type="middle">M</forename><surname>Tannir</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><forename type="middle">F</forename><surname>Mcdermott</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Arén</forename><surname>Frontera</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">O</forename><surname>Melichar</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">B</forename><surname>Choueiri</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><forename type="middle">K</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">N Engl J Med</title>
+		<imprint>
+			<biblScope unit="volume">378</biblScope>
+			<biblScope unit="issue">14</biblScope>
+			<biblScope unit="page" from="1277" to="90" />
+			<date type="published" when="2018-04" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<monogr>
+		<title/>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">B</forename><forename type="middle">I</forename><surname>Rini</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><forename type="middle">R</forename><surname>Plimack</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">V</forename><surname>Stus</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><surname>Gafanov</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><surname>Hawkins</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><surname>Nosov</surname></persName>
+		</author>
+		<idno>KEYNOTE-426</idno>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Pembrolizumab plus Axitinib versus Sunitinib for Advanced Renal-Cell Carcinoma</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Investigators</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">N Engl J Med</title>
+		<imprint>
+			<biblScope unit="volume">380</biblScope>
+			<biblScope unit="issue">12</biblScope>
+			<biblScope unit="page" from="1116" to="1143" />
+			<date type="published" when="2019-03" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Avelumab plus Axitinib versus Sunitinib for Advanced Renal-Cell Carcinoma</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><forename type="middle">J</forename><surname>Motzer</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><surname>Penkov</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Haanen</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">B</forename><surname>Rini</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">L</forename><surname>Albiges</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">T</forename><surname>Campbell</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">N Engl J Med</title>
+		<imprint>
+			<biblScope unit="volume">380</biblScope>
+			<biblScope unit="issue">12</biblScope>
+			<biblScope unit="page" from="1103" to="1118" />
+			<date type="published" when="2019-03" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Effect of temsirolimus versus interferon-alpha on outcome of patients with advanced renal cell carcinoma of different tumor histologies</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">P</forename><surname>Dutcher</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><surname>De Souza</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><surname>Mcdermott</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><forename type="middle">A</forename><surname>Figlin</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Berkenblit</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Thiele</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Med Oncol</title>
+		<imprint>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="202" to="211" />
+			<date type="published" when="2009" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">A Prospective Randomized Phase-II Trial with Temsirolimus vs. Sunitinib in non-clear renal cell carcinoma. A Study of the CESAR Central European Society for Anticancer Drug Research-EWIV and Interdisciplinary Renal Cell Carcinoma Group of the German Cancer Society (IAGN)</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">L</forename><surname>Bergmann</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">V</forename><surname>Grünwald</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">L</forename><surname>Maute</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">O</forename><surname>Grimm</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Weikert</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Schleicher</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Eur J Cancer</title>
+		<imprint>
+			<biblScope unit="volume">51</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page">517</biblScope>
+			<date type="published" when="2015" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">The 2016 WHO Classification of Tumours of the Urinary System and Male Genital Organs-Part A: Renal, Penile, and Testicular Tumours</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><surname>Moch</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><forename type="middle">L</forename><surname>Cubilla</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><forename type="middle">A</forename><surname>Humphrey</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">V</forename><forename type="middle">E</forename><surname>Reuter</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><forename type="middle">M</forename><surname>Ulbright</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Eur Urol</title>
+		<imprint>
+			<biblScope unit="volume">70</biblScope>
+			<biblScope unit="page" from="93" to="105" />
+			<date type="published" when="2016" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">Non-clear cell renal cell carcinomas: from Shadow to light</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">L</forename><surname>Albiges</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><surname>Flippot</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">N</forename><surname>Rioux-Leclercq</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><forename type="middle">K</forename><surname>Choueiri</surname></persName>
+		</author>
+		<idno type="DOI">10.1159/000508450</idno>
+	</analytic>
+	<monogr>
+		<title level="j">J Clin Oncol</title>
+		<imprint>
+			<biblScope unit="volume">36</biblScope>
+			<biblScope unit="issue">36</biblScope>
+			<date type="published" when="2018-10" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">Phase II trial of everolimus for the treatment of nonclear-cell renal cell carcinoma</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Y</forename><surname>Koh</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><forename type="middle">Y</forename><surname>Lim</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">H</forename><surname>Ahn</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">L</forename><surname>Lee</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><forename type="middle">Y</forename><surname>Rha</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Y</forename><forename type="middle">J</forename><surname>Kim</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ann Oncol</title>
+		<imprint>
+			<biblScope unit="volume">24</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="1026" to="1057" />
+			<date type="published" when="2013-04" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">Open-label phase 2 trial of first-line everolimus monotherapy in patients with papillary metastatic renal cell carcinoma: RAPTOR final analysis</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">B</forename><surname>Escudier</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">V</forename><surname>Molinie</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Bracarda</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><surname>Maroto</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><surname>Szczylik</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><surname>Nathan</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Eur J Cancer</title>
+		<imprint>
+			<biblScope unit="volume">69</biblScope>
+			<biblScope unit="page" from="226" to="261" />
+			<date type="published" when="2016-12" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title level="a" type="main">Addressing the best treatment for non-clear cell renal cell carcinoma: A meta-analysis of randomised clinical trials comparing VEGFR-TKis versus mTORi-targeted therapies</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><surname>Ciccarese</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><surname>Iacovelli</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Brunelli</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">F</forename><surname>Massari</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><surname>Bimbatti</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><surname>Fantinel</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Eur J Cancer</title>
+		<imprint>
+			<biblScope unit="volume">83</biblScope>
+			<biblScope unit="page" from="237" to="283" />
+			<date type="published" when="2017-09" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<monogr>
+		<title level="m" type="main">Immune Check Point Inhibition in Sarcomatoid Renal Cell Carcinoma: A New Treatment Paradigm</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><surname>Raychaudhuri</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">J</forename><surname>Riese</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><surname>Bylow</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Burfeind</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><forename type="middle">C</forename><surname>Mackinnon</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><forename type="middle">P</forename><surname>Tolat</surname></persName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title/>
+	</analytic>
+	<monogr>
+		<title level="j">Clin Genitourin Cancer</title>
+		<imprint>
+			<biblScope unit="volume">15</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page" from="897" to="901" />
+			<date type="published" when="2017-10" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title level="a" type="main">Significant response to nivolumab for metastatic chromophobe renal cell carcinoma with sarcomatoid differentiation: a case report</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">G</forename><surname>Noguchi</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Tsutsumi</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Yasui</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Ohtake</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Umemoto</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">N</forename><surname>Nakaigawa</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">BMC Urol</title>
+		<imprint>
+			<biblScope unit="volume">18</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page">26</biblScope>
+			<date type="published" when="2018-04" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+		<title level="a" type="main">Check-Mate 214 post-hoc analysis of nivolumab plus ipilimumab or sunitinib in IMDC intermediate/poor-risk patients with previously untreated advanced renal cell carcinoma with sarcomatoid features</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><forename type="middle">F</forename><surname>Mcdermott</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><forename type="middle">K</forename><surname>Choueiri</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><forename type="middle">J</forename><surname>Motzer</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">O</forename><forename type="middle">R</forename><surname>Aren</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>George</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Powles</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Clin Oncol</title>
+		<imprint>
+			<biblScope unit="volume">37</biblScope>
+			<biblScope unit="page">4513</biblScope>
+			<date type="published" when="2019" />
+		</imprint>
+	</monogr>
+	<note>15_suppl</note>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<analytic>
+		<title level="a" type="main">Results of a Multicenter Phase II Study of Atezolizumab and Bevacizumab for Patients With Metastatic Renal Cell Carcinoma With Variant Histology and/or Sarcomatoid Features</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">B</forename><forename type="middle">A</forename><surname>Mcgregor</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><forename type="middle">R</forename><surname>Mckay</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><forename type="middle">A</forename><surname>Braun</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">L</forename><surname>Werner</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><surname>Gray</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Flaifel</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Clin Oncol</title>
+		<imprint>
+			<biblScope unit="volume">38</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="63" to="70" />
+			<date type="published" when="2020-01" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<analytic>
+		<title level="a" type="main">ESMO Guidelines Committee. Electronic address: clinicalguidelines@esmo.org. Renal cell carcinoma: ESMO Clinical Practice Guidelines for diagnosis, treatment and follow-up</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">B</forename><surname>Escudier</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><surname>Porta</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Schmidinger</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">N</forename><surname>Rioux-Leclercq</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Bex</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">V</forename><surname>Khoo</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ann Oncol</title>
+		<imprint>
+			<biblScope unit="volume">30</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page" from="706" to="726" />
+			<date type="published" when="2019-05" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

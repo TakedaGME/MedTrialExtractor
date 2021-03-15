@@ -1,0 +1,1771 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /data/rsg/nlp/juanmoo1/bin/grobid-0.6.1/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Phase II trial of AKT inhibitor MK-2206 in patients with advanced breast cancer who have tumors with PIK3CA or AKT mutations, and/or PTEN loss/PTEN mutation</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Yan</forename><surname>Xing</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Investigational Cancer Therapeutics</orgName>
+								<orgName type="institution">The University of Texas MD Anderson Cancer Center</orgName>
+								<address>
+									<postCode>77030</postCode>
+									<settlement>Houston</settlement>
+									<region>TX</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff2">
+								<orgName type="department">Investigational Cancer Therapeutics</orgName>
+								<orgName type="institution">The University of Texas</orgName>
+								<address>
+									<addrLine>MD Anderson Cancer Center</addrLine>
+									<postCode>77030</postCode>
+									<settlement>Houston</settlement>
+									<region>TX</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Nancy</forename><forename type="middle">U</forename><surname>Lin</surname></persName>
+							<affiliation key="aff3">
+								<orgName type="department" key="dep1">Department of Medical Oncology</orgName>
+								<orgName type="department" key="dep2">Dana Farber Cancer Institute</orgName>
+								<address>
+									<postCode>02215</postCode>
+									<settlement>Boston</settlement>
+									<region>MA</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Matthew</forename><forename type="middle">A</forename><surname>Maurer</surname></persName>
+							<affiliation key="aff4">
+								<orgName type="institution">Columbia University</orgName>
+								<address>
+									<postCode>10027</postCode>
+									<settlement>New York</settlement>
+									<region>NY</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Huiqin</forename><surname>Chen</surname></persName>
+							<affiliation key="aff6">
+								<orgName type="department">Biostatistics</orgName>
+								<orgName type="institution">The University of Texas</orgName>
+								<address>
+									<addrLine>MD Anderson Cancer Center</addrLine>
+									<postCode>77030</postCode>
+									<settlement>Houston</settlement>
+									<region>TX</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Armeen</forename><surname>Mahvash</surname></persName>
+							<affiliation key="aff7">
+								<orgName type="department">Interventional Radiology</orgName>
+								<orgName type="institution">The University of Texas</orgName>
+								<address>
+									<addrLine>MD Anderson Cancer Center</addrLine>
+									<postCode>77030</postCode>
+									<settlement>Houston</settlement>
+									<region>TX</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Aysegul</forename><surname>Sahin</surname></persName>
+							<affiliation key="aff8">
+								<orgName type="department">Pathology</orgName>
+								<orgName type="institution">The University of Texas</orgName>
+								<address>
+									<addrLine>MD Anderson Cancer Center</addrLine>
+									<postCode>77030</postCode>
+									<settlement>Houston</settlement>
+									<region>TX</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Argun</forename><surname>Akcakanat</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Investigational Cancer Therapeutics</orgName>
+								<orgName type="institution">The University of Texas MD Anderson Cancer Center</orgName>
+								<address>
+									<postCode>77030</postCode>
+									<settlement>Houston</settlement>
+									<region>TX</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff2">
+								<orgName type="department">Investigational Cancer Therapeutics</orgName>
+								<orgName type="institution">The University of Texas</orgName>
+								<address>
+									<addrLine>MD Anderson Cancer Center</addrLine>
+									<postCode>77030</postCode>
+									<settlement>Houston</settlement>
+									<region>TX</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Yisheng</forename><surname>Li</surname></persName>
+							<affiliation key="aff6">
+								<orgName type="department">Biostatistics</orgName>
+								<orgName type="institution">The University of Texas</orgName>
+								<address>
+									<addrLine>MD Anderson Cancer Center</addrLine>
+									<postCode>77030</postCode>
+									<settlement>Houston</settlement>
+									<region>TX</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Vandana</forename><surname>Abramson</surname></persName>
+							<affiliation key="aff9">
+								<orgName type="institution">Vanderbilt University</orgName>
+								<address>
+									<postCode>37232</postCode>
+									<settlement>Nashville</settlement>
+									<region>TN</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Jennifer</forename><surname>Litton</surname></persName>
+							<affiliation key="aff10">
+								<orgName type="department">Breast Medical Oncology</orgName>
+								<orgName type="institution">The University of Texas</orgName>
+								<address>
+									<addrLine>MD Anderson Cancer Center</addrLine>
+									<postCode>77030</postCode>
+									<settlement>Houston</settlement>
+									<region>TX</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Mariana</forename><surname>Chavez-Macgregor</surname></persName>
+							<affiliation key="aff10">
+								<orgName type="department">Breast Medical Oncology</orgName>
+								<orgName type="institution">The University of Texas</orgName>
+								<address>
+									<addrLine>MD Anderson Cancer Center</addrLine>
+									<postCode>77030</postCode>
+									<settlement>Houston</settlement>
+									<region>TX</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff11">
+								<orgName type="department">Health Services Research</orgName>
+								<orgName type="institution">The University of Texas</orgName>
+								<address>
+									<addrLine>MD Anderson Cancer Center</addrLine>
+									<postCode>77030</postCode>
+									<settlement>Houston</settlement>
+									<region>TX</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Vicente</forename><surname>Valero</surname></persName>
+							<affiliation key="aff10">
+								<orgName type="department">Breast Medical Oncology</orgName>
+								<orgName type="institution">The University of Texas</orgName>
+								<address>
+									<addrLine>MD Anderson Cancer Center</addrLine>
+									<postCode>77030</postCode>
+									<settlement>Houston</settlement>
+									<region>TX</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Sarina</forename><forename type="middle">A</forename><surname>Piha-Paul</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Investigational Cancer Therapeutics</orgName>
+								<orgName type="institution">The University of Texas MD Anderson Cancer Center</orgName>
+								<address>
+									<postCode>77030</postCode>
+									<settlement>Houston</settlement>
+									<region>TX</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff2">
+								<orgName type="department">Investigational Cancer Therapeutics</orgName>
+								<orgName type="institution">The University of Texas</orgName>
+								<address>
+									<addrLine>MD Anderson Cancer Center</addrLine>
+									<postCode>77030</postCode>
+									<settlement>Houston</settlement>
+									<region>TX</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">David</forename><surname>Hong</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Investigational Cancer Therapeutics</orgName>
+								<orgName type="institution">The University of Texas MD Anderson Cancer Center</orgName>
+								<address>
+									<postCode>77030</postCode>
+									<settlement>Houston</settlement>
+									<region>TX</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff2">
+								<orgName type="department">Investigational Cancer Therapeutics</orgName>
+								<orgName type="institution">The University of Texas</orgName>
+								<address>
+									<addrLine>MD Anderson Cancer Center</addrLine>
+									<postCode>77030</postCode>
+									<settlement>Houston</settlement>
+									<region>TX</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Kim-Anh</forename><surname>Do</surname></persName>
+							<affiliation key="aff6">
+								<orgName type="department">Biostatistics</orgName>
+								<orgName type="institution">The University of Texas</orgName>
+								<address>
+									<addrLine>MD Anderson Cancer Center</addrLine>
+									<postCode>77030</postCode>
+									<settlement>Houston</settlement>
+									<region>TX</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Emily</forename><surname>Tarco</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Investigational Cancer Therapeutics</orgName>
+								<orgName type="institution">The University of Texas MD Anderson Cancer Center</orgName>
+								<address>
+									<postCode>77030</postCode>
+									<settlement>Houston</settlement>
+									<region>TX</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff2">
+								<orgName type="department">Investigational Cancer Therapeutics</orgName>
+								<orgName type="institution">The University of Texas</orgName>
+								<address>
+									<addrLine>MD Anderson Cancer Center</addrLine>
+									<postCode>77030</postCode>
+									<settlement>Houston</settlement>
+									<region>TX</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Dianna</forename><surname>Riall</surname></persName>
+							<affiliation key="aff12">
+								<orgName type="institution" key="instit1">IND Office</orgName>
+								<orgName type="institution" key="instit2">The University of Texas</orgName>
+								<address>
+									<addrLine>MD Anderson Cancer Center</addrLine>
+									<postCode>77030</postCode>
+									<settlement>Houston</settlement>
+									<region>TX</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Agda</forename><forename type="middle">Karina</forename><surname>Eterovic</surname></persName>
+							<affiliation key="aff13">
+								<orgName type="department">Systems Biology</orgName>
+								<orgName type="institution">The University of Texas</orgName>
+								<address>
+									<addrLine>MD Anderson Cancer Center</addrLine>
+									<postCode>77030</postCode>
+									<settlement>Houston</settlement>
+									<region>TX</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Gerburg</forename><forename type="middle">M</forename><surname>Wulf</surname></persName>
+							<affiliation key="aff14">
+								<orgName type="department" key="dep1">Department of Medicine</orgName>
+								<orgName type="department" key="dep2">Deaconess Medical Center and Dana Farber Harvard Cancer Center</orgName>
+								<address>
+									<postCode>02215</postCode>
+									<settlement>Beth, Boston</settlement>
+									<region>MA</region>
+									<country>Israel, USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Lewis</forename><forename type="middle">C</forename><surname>Cantley</surname></persName>
+							<affiliation key="aff15">
+								<orgName type="institution">Cornell University</orgName>
+								<address>
+									<postCode>14850</postCode>
+									<settlement>Ithaca</settlement>
+									<region>NY</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Gordon</forename><forename type="middle">B</forename><surname>Mills</surname></persName>
+							<affiliation key="aff13">
+								<orgName type="department">Systems Biology</orgName>
+								<orgName type="institution">The University of Texas</orgName>
+								<address>
+									<addrLine>MD Anderson Cancer Center</addrLine>
+									<postCode>77030</postCode>
+									<settlement>Houston</settlement>
+									<region>TX</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">L</forename><forename type="middle">Austin</forename><surname>Doyle</surname></persName>
+							<affiliation key="aff16">
+								<orgName type="institution">National Cancer Institute</orgName>
+								<address>
+									<postCode>20892</postCode>
+									<settlement>Bethesda</settlement>
+									<region>MD</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Eric</forename><surname>Winer</surname></persName>
+							<affiliation key="aff3">
+								<orgName type="department" key="dep1">Department of Medical Oncology</orgName>
+								<orgName type="department" key="dep2">Dana Farber Cancer Institute</orgName>
+								<address>
+									<postCode>02215</postCode>
+									<settlement>Boston</settlement>
+									<region>MA</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Gabriel</forename><forename type="middle">N</forename><surname>Hortobagyi</surname></persName>
+							<affiliation key="aff10">
+								<orgName type="department">Breast Medical Oncology</orgName>
+								<orgName type="institution">The University of Texas</orgName>
+								<address>
+									<addrLine>MD Anderson Cancer Center</addrLine>
+									<postCode>77030</postCode>
+									<settlement>Houston</settlement>
+									<region>TX</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Ana</forename><forename type="middle">Maria</forename><surname>Gonzalez-Angulo</surname></persName>
+							<affiliation key="aff10">
+								<orgName type="department">Breast Medical Oncology</orgName>
+								<orgName type="institution">The University of Texas</orgName>
+								<address>
+									<addrLine>MD Anderson Cancer Center</addrLine>
+									<postCode>77030</postCode>
+									<settlement>Houston</settlement>
+									<region>TX</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Funda</forename><surname>Meric-Bernstam</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Investigational Cancer Therapeutics</orgName>
+								<orgName type="institution">The University of Texas MD Anderson Cancer Center</orgName>
+								<address>
+									<postCode>77030</postCode>
+									<settlement>Houston</settlement>
+									<region>TX</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="institution" key="instit1">The Sheikh Khalifa Bin Zayed Al Nahyan Institute for Personalized Cancer Therapy</orgName>
+								<orgName type="institution" key="instit2">The University of Texas MD Anderson Cancer Center</orgName>
+								<address>
+									<postCode>77030</postCode>
+									<settlement>Houston</settlement>
+									<region>TX</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff2">
+								<orgName type="department">Investigational Cancer Therapeutics</orgName>
+								<orgName type="institution">The University of Texas</orgName>
+								<address>
+									<addrLine>MD Anderson Cancer Center</addrLine>
+									<postCode>77030</postCode>
+									<settlement>Houston</settlement>
+									<region>TX</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff17">
+								<orgName type="laboratory">The Sheikh Khalifa Bin Zayed Al Nahyan Institute for Personalized Cancer Therapy, The University of Texas MD Anderson Cancer Center</orgName>
+								<address>
+									<postCode>77030</postCode>
+									<settlement>Houston</settlement>
+									<region>TX</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff18">
+								<orgName type="department">Breast Surgical Oncology</orgName>
+								<orgName type="institution">The University of Texas</orgName>
+								<address>
+									<addrLine>MD Anderson Cancer Center, 1400 Holcombe Boulevard, Unit 455</addrLine>
+									<postCode>77030</postCode>
+									<settlement>Houston</settlement>
+									<region>TX</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff5">
+								<orgName type="department">Bristol-Myers Squibb</orgName>
+								<address>
+									<postCode>08540</postCode>
+									<settlement>Princeton</settlement>
+									<region>NJ</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Phase II trial of AKT inhibitor MK-2206 in patients with advanced breast cancer who have tumors with PIK3CA or AKT mutations, and/or PTEN loss/PTEN mutation</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<idno type="DOI">10.1186/s13058-019-1154-8</idno>
+					<note type="submission">Received: 15 October 2018 Accepted: 15 May 2019</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.6.1" ident="GROBID" when="2020-10-09T18:38+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>AKT signaling</term>
+					<term>PTEN loss</term>
+					<term>Genomics</term>
+					<term>PIK3CA mutation</term>
+					<term>Biomarkers</term>
+				</keywords>
+			</textClass>
+			<abstract>
+				<p>Background: The PI3K/AKT pathway is activated through PIK3CA or AKT1 mutations and PTEN loss in breast cancer. We conducted a phase II trial with an allosteric AKT inhibitor MK-2206 in patients with advanced breast cancer who had tumors with PIK3CA/AKT1 mutations and/or PTEN loss/mutation. Methods: The primary endpoint was objective response rate (ORR). Secondary endpoints were 6-month progressionfree survival (6 m PFS), predictive and pharmacodynamic markers, safety, and tolerability. Patients had pre-treatment and on-treatment biopsies as well as collection of peripheral blood mononuclear cells (PBMC) and platelet-rich plasma (PRP). Next-generation sequencing, immunohistochemistry, and reverse phase protein arrays (RPPA) were performed. Results: Twenty-seven patients received MK-2206. Eighteen patients were enrolled into the PIK3CA/AKT1 mutation arm (cohort A): 13 had PIK3CA mutations, four had AKT1 mutations, and one had a PIK3CA mutation as well as PTEN loss. ORR and 6 m PFS were both 5.6% (1/18), with one patient with HR+ breast cancer and a PIK3CA E542K mutation experiencing a partial response (on treatment for 36 weeks). Nine patients were enrolled on the PTEN loss/mutation arm (cohort B). ORR was 0% and 6 m PFS was 11% (1/9), observed in a patient with triple-negative breast cancer and PTEN loss. The study was stopped early due to futility. The most common adverse events were fatigue (48%) and rash (44%). On pre-treatment biopsy, PIK3CA and AKT1 mutation status was concordant with archival tissue testing. However, two patients with PTEN loss based on archival testing had PTEN expression on the pre-treatment biopsy. MK-2206 treatment was associated with a significant decline in pAKT S473 and pAKT T308 and PI3K activation score in PBMC and PRPs, but not in tumor biopsies. By IHC, there was no significant decrease in median pAKT S473 or Ki-67 staining, but a drop was observed in both responders.</p>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Background</head><p>PI3K/AKT/mTOR signaling plays a key role in cell growth, protein translation, autophagy, metabolism, and cell survival. Activation of PI3K/AKT/mTOR signaling contributes to the pathogenesis of many cancer types including breast cancer. Activated PI3K/AKT signaling is also associated with Cowden's syndrome that is caused by germline phosphatase and tensin homolog (PTEN) mutations. PTEN expression is also decreased in many sporadic breast cancers. Breast cancers with increased levels of AKT phosphorylation/activation and cancers exhibiting a gene expression signature of PTEN loss show poor disease outcome <ref type="bibr" target="#b4">[1]</ref>. Loss of PTEN activity and activation of PI3K signaling are associated with resistance to endocrine therapy <ref type="bibr" target="#b5">[2]</ref> and trastuzumab <ref type="bibr" target="#b6">[3,</ref><ref type="bibr" target="#b7">4]</ref>. Most PTEN-low tumors and many of the phosphoinositide-3-kinase, catalytic, alpha polypeptide (PIK3CA) mutant tumors activate AKT for oncogenic signaling. Thus, the PI3K/AKT pathway is a promising target for breast cancer therapy.</p><p>MK-2206 is a selective allosteric inhibitor of AKT. In vitro studies of MK-2206 demonstrated that many breast cancer cell lines were highly sensitive to the agent. Preclinical studies also demonstrated that most PIK3CA-mutant cell lines and cell lines with PTEN loss are sensitive to MK-2206. In phase I trials, MK-2206 has been shown to inhibit AKT phosphorylation in platelets <ref type="bibr" target="#b8">[5]</ref>. Further, serum levels of MK-2206 achieved in these trials were comparable to concentrations that achieved a growth-inhibitory effect in preclinical models. Therefore, MK-2206 was felt to hold promise as a novel AKT inhibitor.</p><p>We present here the results of a biomarker-selected phase II breast cancer trial of MK-2206. Further, we present results of correlative studies including assessment of pathway inhibition in circulating biomarkers and pre-treatment and on-treatment biopsies, as well as in-depth characterization of a patient with response to MK-2206.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Methods</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Patient accrual</head><p>"Phase II Trial of AKT Inhibitor MK-2206 in patients with advanced breast cancer who have tumors with a PIK3CA mutation, or an AKT mutation, and/or PTEN loss/PTEN mutation" (NCT01277757) was a phase II trial sponsored by The Cancer Therapy Evaluation Program and conducted by the American Academy of Cancer Research Stand Up to Cancer PI3K Dream Team. This multicenter trial accrued in five centers: MD Anderson Cancer Center (lead organization), Dana-Farber Cancer Institute, Beth Israel Deaconess Medical Center, Columbia University Medical Center, and Vanderbilt-Ingram Cancer Center.</p><p>Patients with histologically or cytologically confirmed breast cancer and with metastatic/advanced disease were eligible for enrollment for screening for PIK3CA, AKT, and PTEN status after informed consent. Patients with PIK3CA/AKT/PTEN alterations were eligible to consent on the treatment protocol on one of two cohorts: (1) activating PIK3CA or AKT1 mutations or (2) PTEN mutation or PTEN loss (by IHC). Although central testing was offered, patients whose tumors have already been tested in a CLIA laboratory environment and found to have a PIK3CA or AKT mutation or PTEN loss or mutation were also eligible.</p><p>From June 2011 to October 2013, 30 patients were enrolled on the trial and 27 patients received study medications. Three patients who did not initiate treatment were excluded from analysis: one withdrew consent before treatment, and two were deemed ineligible-one was found to have diffuse liver disease on ultrasound performed for pretreatment biopsy (the eligibility criteria limits liver burden to 50%), and one patient was found to have elevated liver function tests on repeat laboratory studies prior to initiating therapy.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Study objectives</head><p>The primary objective was to determine whether MK-2206 was associated with objective tumor responses (complete response [CR], partial response [PR]) in advanced breast cancer patients with PIK3CA or AKT mutation and/or PTEN loss or mutation.</p><p>Secondary objectives included (1) determining the 6-month progression-free survival (PFS), (2) determining baseline molecular markers that may predict clinical outcome, (3) establishing pharmacodynamic markers in blood and tumor tissue that may predict outcome, and (4) determining safety and tolerability of MK-2206 in previously treated patients with advanced breast cancer.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Treatment and evaluation plan</head><p>The patient completed any systemic therapy regimens and therapeutic radiation a minimum of 21 days prior to initiation of study therapy. Patients received MK-2206 200 mg orally once a week, until disease progression or unacceptable toxicity. Duration of each treatment cycle was 4 weeks. Dose modifications occurred per protocol according to interim toxicities. Patients underwent a pre-treatment biopsy and on-treatment biopsy on day 16 of cycle 1.</p><p>Anti-tumor efficacy was assessed using RECIST 1.1 <ref type="bibr" target="#b9">[6]</ref>. Safety assessments were conducted at baseline, with an exam on day 15 and laboratory studies weekly during the first cycle, then day 1 of every cycle thereafter, or earlier if toxicity occurred. Toxicity was graded according to National Cancer Institute Common Terminology Criteria for Adverse Events (CTCAE), version 4.0.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Immunohistochemistry (IHC)</head><p>Tumor biopsies (core biopsies and fine needle aspirates) were obtained pretreatment and on day 16 (1 day after third weekly treatment). IHC was performed on core biopsies. PTEN IHC was performed in the MD Anderson CLIA clinical laboratory. PTEN IHC was performed using monoclonal mouse anti-Human PTEN antibody Clone 6H2.1 from Dako at 1:100 dilution. In previous studies, we had already demonstrated that PTEN loss by IHC is associated with PI3K pathway activation <ref type="bibr" target="#b10">[7]</ref>. PTEN staining was evaluated by assessing both intensity and percent positivity of staining. Both nuclear and cytoplasmic staining were evaluated. Staining of normal cells such as benign breast epithelium, stromal cells and/or endothelial cells was evaluated as an internal control. Any tumor nuclear or cytoplasmic staining showing similar intensity with internal control cells was considered positive staining (no PTEN loss). Complete lack of staining or faint staining (cytoplasmic or nuclear) in up to 50% of tumor cells was considered as PTEN loss. If there was no staining in internal control cells, the staining was considered to be inconclusive.</p><p>Pre-treatment and on-treatment core biopsies were also assessed for pAKT Ser473 (1:50), pS6 Ser235/236 (1:50), and pS6 Ser240/244 (1:200; all from Cell Signaling, Danvers, MA) as previously described <ref type="bibr" target="#b10">[7]</ref>. The Refine Polymer Detection kit was used for immunostaining, with 3,3-diaminobenzidine serving as chromagen. Slides were counterstained with Mayer's hematoxylin. Antibodies were evaluated with known positive and negative tissue controls.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Reverse phase protein arrays</head><p>Samples were evaluated by reverse phase protein arrays (RPPA) to assess PI3K activation status as previously described <ref type="bibr" target="#b10">[7]</ref><ref type="bibr" target="#b11">[8]</ref><ref type="bibr" target="#b12">[9]</ref>. Fine-needle aspiration biopsy samples were obtained at pre-and post-treatment from patients and were frozen immediately. Among 24 patients who had biopsies, one patient was excluded because there was no tumor in samples for H&amp;E analysis of core biopsies. Fifteen patients had paired pre-and post-treatment samples available, while eight patients had pre-treatment samples only. Peripheral blood mononuclear cells (PBMCs) and platelet enriched plasma (PRP) were evaluated by RPPA at the following time points: at screening, C1-D1 (pretreatment), C1-D1 (post-treatment), and C1-D2.</p><p>The RPPA raw data were normalized by loading control by the RPPA core and log2 transformed. A linear mixed effects (LME) model was used to assess the differences in protein expression between time points on a protein-by-protein basis. The LME model includes the fixed effect of time point (two pre-treatment: early, C1D1: pre-treatment; two post-treatment: C1D1: post-treatment, C1D2) and random effect of the patient. To account for multiple testing, we estimated the false discovery rates (FDR) of the overall test of the model using the Benjamini-Hochberg method <ref type="bibr" target="#b13">[10]</ref>. The modified Z-scores of 9 important PI3K pathway biomarkers were calculated and used to compute the composite PI3K pathway activity score. The modified Z-score proposed by Iglewicz and Hoaglin <ref type="bibr" target="#b14">[11]</ref> was calculated based on the median of expression and absolute deviation about the median. We defined the patient's composite PI3K pathway activity score as the sum of the modified Z-scores of phospho-protein of pAKT, 4E-BP1, S6K, and S6 (i.e., PI3K score = pS6 S240/244 + pS6 S235/236 + pS6K T389 + p4E-BP1 S65 + p4E-BP1 T37/46 + p-mTOR S2448 + pPRAS40 T246 + pAKT S473 + pAKT T308). The LME model described above was used to compare the PI3K activity scores between pre-and post-treatment.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>DNA and RNA analysis</head><p>CLIA DNA analysis was performed initially using the Sanger sequencing, and then transitioned to mass spectroscopy-based multiplex assay to assess the mutational status of hotspot regions in 11 genes (Sequenom) or with next-generation sequencing using the Ion Ampliseq 46 Gene Cancer Panel (Life Technologies) to assess hotspot mutations in PIK3CA and AKT1 genes as previously described <ref type="bibr" target="#b15">[12]</ref>. Through the course of the trial, genomic testing became more comprehensive and frequently performed at individual institutions. Testing performed on alternate CLIA platforms was allowed. Genomic testing was performed on available archival tissue; testing on either primary tumors or metastatic biopsies was allowed, but testing on most recent samples was encouraged.</p><p>Targeted exome sequencing was performed on the DNA extracted from pre-treatment biopsies using a 202 gene platform (T200), and previously described methodology <ref type="bibr" target="#b16">[13]</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Statistical considerations for clinical outcomes</head><p>We used a Bayesian adaptive phase II design for singleagent MK-2206 in advanced breast cancer. The primary endpoint was tumor response (complete or partial response). There were two cohorts of patients, PIK3CA/ AKT1 mutant vs. PTEN loss; we expected antitumor activity in both cohorts.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Preclinical modeling</head><p>1 × 10 7 ZR75-1 breast cancer cells were inoculated in the mammary fat pads of female nu/nu mice (Department of Experimental Oncology, MD Anderson). Mice were subcutaneously implanted with 17β-estradiol pellets (Innovative Research of America). Mice bearing ZR75-1 xenografts were randomized into 3 groups (vehicle, MK-2206 240 mg/kg, or 480 mg/kg, n = 5-6). Tumor measurements were followed to assess antitumor efficacy, and RPPA was utilized to assess the effect on cell signaling as described above. All animal experiments were approved by the MD Anderson Cancer Center Animal Care and Use Committee. <ref type="table" target="#tab_0">Table 1</ref> summarizes patient characteristics. The median age was 51 years (range 30-73 years). Fifteen patients had ER or PR-positive disease (HR-positive), three had HER2-positive disease, and nine had triple-negative breast cancer (TNBC). A median number of previous lines of therapy was six (range 2-9). Four patients had previously received everolimus.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Results</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Patient characteristics</head><p>Twenty-seven patients received MK-2206 treatment: 18 patients were treated on the PIK3CA/AKT1 mutation arm (cohort A)-13 had PIK3CA mutations, 4 had AKT1 mutations, and one had a PIK3CA mutation as well as PTEN loss. Nine patients were enrolled on the PTEN mutation/loss arm (cohort B): 4 with PTEN mutations and 5 with PTEN loss by IHC.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Antitumor activity</head><p>Twenty-seven patients who received treatment were considered in the efficacy and toxicity assessments. The study used an adaptive two-stage design stratified according to the cohort. In stage I of the study, we observed a confirmed partial response in a patient with a breast cancer bearing a PIK3CA mutation. By our adaptive design, one objective response fulfilled stage I criteria for response, thus both PIK3CA/AKT and PTEN loss/mutation cohorts proceeded to accrue. If there were no further responses seen, based on the initial statistical plan, we would be expected to treat 20 evaluable patients on the PIK3CA/ AKT arm and 12 patients on the PTEN loss arm before clinical futility would be declared and trial terminated. However, after 27 patients were enrolled in the study, no additional objective responses were seen, and the median PFS was 8 weeks. Therefore, the clinical team, after consulting with the trial statistician, made a decision to stop accrual due to a lack of clinical benefit. <ref type="figure">Figure 1</ref> shows the swimmer plots for 27 patients. Eighteen patients were enrolled in the PIK3CA/AKT cohort. Of 14 patients with PIK3CA mutations, one patient had a partial response (described below). Two patients came off the study due to toxicity and did not have an objective response assessment. One patient with both a PIK3CA mutation and PTEN loss was assigned to the PIK3CA/AKT arm and did not respond to treatment. Four patients with AKT E17K mutations were also enrolled with no objective responses. The median PFS was 8 weeks for this cohort.</p><p>The patient who had a confirmed partial response in the PIK3CA/AKT cohort had metastatic ER+, PR-, and HER2-breast cancer with a PIK3CA E542K mutation. Interestingly this patient also had a KRAS G12S mutation. She remained on study for 9 cycles (36 weeks). The patient was subsequently treated with exemestane and everolimus but progressed within 3 months.</p><p>Nine patients were enrolled in the PTEN loss/mutation cohort: Two of these patients could not be assessed for objective response: one elected to come off treatment due to rash within the first cycle, while the second patient came off the study after 3 doses due to patient choice (elected treatment closer to home). Of the seven patients who were evaluable for response, none had an objective response and only one had SD &gt; 6 months (28 weeks).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Safety and tolerability</head><p>Patients who received at least one dose of MK-2206 were considered eligible for toxicity assessment. The most common adverse events were fatigue (48%), rash (44%), vomiting (30%), and nausea (28%). ( <ref type="table" target="#tab_1">Table 2</ref>). As previously reported, rash was a common finding and seven patients had grade 3 rash: one patient elected to discontinue treatment, and two had dose reductions.</p><p>One subject was admitted for lethargy and fever 41 days after initiation of protocol therapy. The last date of <ref type="figure">Fig. 1</ref> Individual swimmer plots for each patient in the overall study population. Depicting progression-free survival (PFS) for PTEN cohort (blue), and PFS for PIK3CA/AKT cohort (red). Patients who discontinued MK-2206 due to toxicity are depicted with a (#), while patients who discontinued MK-2206 due to patient choice are depicted with a (*). Two patients who were enrolled on the PTEN loss cohort had PTEN expressions on the pre-treatment biopsy sample are depicted with a (&amp;). A patient who had both PTEN loss and PIK3CA mutation is depicted with a (^). One patient who had partial response starting at 12 weeks (▲) MK-2206 therapy was administered 5 days prior to hospital admission. Laboratory evaluation was notable for hematocrit 10 (baseline 30), platelet count 12,000 (baseline 110,000), mild elevation of creatinine, and hyperbilirubinemia. Peripheral smear was consistent with microangiopathic hemolytic anemia (MAHA), as well as the presence of nucleated red blood cells and early myeloid forms, suggestive of marrow infiltration by her widely disseminated breast cancer. Coagulation studies were consistent with chronic DIC. A diagnosis of cancer-associated MAHA was made, and the event was deemed probably attributable to disease progression and possibly related to treatment with MK-2206. She expired on day 6 of hospital admission, 47 days after the start of protocol therapy.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Circulating markers</head><p>In previous work, we studied breast cancer xenografts with increasing doses of MK-2206 and observed a dose-dependent decrease in tumor growth (including tumor regression) and decreases in PI3K signaling including pAKT S473 and pAKT T308 (see Additional file 1: <ref type="figure">Figure S1</ref>) <ref type="bibr" target="#b17">[14]</ref>. In order to determine the effect of MK-2206 on signaling, we collected pre-treatment and post-treatment PBMC and PRP samples from patients. Post-treatment C1D1 and C1D2 samples were available in 26 patients. In 13 patients we also had C1D1 pretreatment samples, while in the other 15 we only had samples that had been collected at baseline (during screening). Two patients had both early (screening) and C1D1 pre-treatment samples available. For the 15 patients who had baseline PRP samples available, expression of pAKT S473 and pAKT T308 significantly decreased from baseline to C1D1 post-treatment (p = 0.001 and p &lt; 0.001 respectively) and from baseline to C1D2 (both p &lt; 0.001; <ref type="figure">Fig. 2a  upper panel group 1)</ref>. Using the LME model which includes fixed effect of time point and random effect of the patient, the difference in PI3K pathway activity scores between baseline and C1D1 post-treatment and baseline and C1D2 demonstrated a statistically significant decrease ( <ref type="figure">Fig. 2a upper panel)</ref>. Similarly, for 13 patients who had C1D1 pre-treatment PRP samples available, the expression of pAKT S473 and pAKT T308 significantly decreased from C1D1-pre-treatment to C1D1-post-treatment (both p &lt; 0.001) and C1D2 (both p &lt; 0.001; <ref type="figure">Fig. 2a upper panel  group 2)</ref>. The PI3K pathway activation score also significantly decreased (p &lt; 0.001).</p><p>Similarly, within patients who had early PBMC samples available, expression of pAKT S473, pAKT T308, and PI3K pathway activity score significantly decreased from baseline to C1D1-post-treatment and C1D2 ( <ref type="figure">Fig. 2a</ref> lower panel group 1). Among patients who had C1D1-pre-treatment samples available, the expression of pAKT S473 significantly decreased from C1D1-pretreatment to C1D1-posttreatment and to C1D2 ( <ref type="figure">Fig. 2a lower panel group 2)</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Pharmacodynamics in tumor tissue</head><p>Fifteen patients had matched pre-treatment and ontreatment biopsy samples for RPPA. The difference between samples was not significant for pAKT T308 (p = 0.415), and pAKT S473 (p = 0.511). Of the 220 markers assessed by RPPA only eEF2 was significantly down-regulated after treatment (fold change − 1.18; p = 0.028).</p><p>PI3K pathway activation was also assessed by IHC for pAKT S473, pS6 S235/236, pS6 S240/244, and p4EBP1 T70 <ref type="figure">(Fig. 3)</ref>. Overall in the study, no difference in IRS score was observed between paired baseline and ontreatment samples based on Wilcoxon signed-rank tests <ref type="figure">(Fig. 3a)</ref>. Notably, IHC did reveal pathway inhibition in the two patients who evidenced clinical benefit <ref type="figure">(Fig. 3b</ref>).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Sequencing and PTEN IHC</head><p>Pre-treatment biopsies were available for hybrid-capture next-generation sequencing (NGS). Of the patients who had pre-treatment biopsies, all patients known to have PIK3CA, AKT1, or PTEN mutations based on CLIA testing on archival tissue were confirmed to have the same alterations on NGS of the pre-treatment biopsy. Of the patients who had evaluable samples with confirmation of their PIK3CA mutations, the following PIK3CA single nucleotide variations were found: H1047R (n = 8, with one patient with an additional E365K mutation), E542K (n = 8), E545Q (n = 1), and W545Q (n = 1). Additional file 2: <ref type="table" target="#tab_0">Table S1</ref> shows the targeted sequencing data from the two best responders in the study cohort. Pre-treatment and on-treatment biopsies were assessed for PTEN expression by IHC. Of the 22 patients with evaluable pre-treatment biopsies, 19 (86%) had PTEN results concordant with pre-treatment assessment on archival samples. In contrast, three patients had discordant results. Two of the five patients who were enrolled on the PTEN loss cohort based on archival testing had PTEN expression on the pre-treatment biopsy sample, and one patient who was enrolled on PIK3CA cohort had PTEN expression on archival analysis but had PTEN loss on pre-treatment analysis. Ten patients had evaluable pre-treatment and on-treatment biopsies. Three patients had discordant results between pre-and on-treatment biopsies; two patients with PTEN expression at baseline lost expression with treatment, while one patient with PTEN loss had upregulation of PTEN expression. Thus, in the small number of patients enrolled on this trial, there was significant discordance in IHC results in different biopsies.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Discussion</head><p>There is wide recognition that PI3K/AKT/mTOR signaling plays a critical role in many cancer types including breast cancer. We therefore conducted this Phase II trial with the AKT Inhibitor MK-2206 in patients with advanced breast cancer who had tumors with a PIK3CA mutation or an AKT mutation and/or PTEN loss/PTEN mutation. We observed that MK-2206 monotherapy had the expected toxicity profile, with a substantial incidence of grade 3 rash, but had limited clinical and pharmacodynamic activity as monotherapy.</p><p>In our preclinical work with MK-2206, we had demonstrated that PIK3CA-mutant cell lines and cell lines with <ref type="figure">Fig. 2</ref> The effect of MK-2206 on signaling in PBMC and PRP samples. Differences between baseline and post-treatment expression of pAKT-T308, pAKT-S473, pS6 S235/236 and pS6 S240/244 with two-sided t test. P &lt; .05 was considered statistically significant. a Upper panel-platelets: group 1: early and C1D1: post-treatment, early and C1D2 for 15 patients who have early samples available. Group 2: C1D1:pre-treatment and C1D1: posttreatment, C1D1:pre-treatment and C1D2 for 13 patients who have C1D1:pre-treatment available. Lower panel-PBMC: group 1: early and C1D1:post-treatment, Early and C1D2 for 15 patients who have early samples available Group 2: C1D1:pre-treatment and C1D1:post-treatment, C1D1:pre-treatment and C1D2 for 13 patients who have C1D1:pre-treatment available. b Tumor PTEN loss were more sensitive to MK-2206 <ref type="bibr" target="#b17">[14]</ref>. In this study, however, in patients selected with these genomic alterations, we saw limited clinical activity. Our patients were heavily pretreated and this may have affected the efficacy signal. However, it is notable that although we saw a pharmacodynamic effect in PRP, we did not see significant pathway inhibition in our tumor samples. In our preclinical work, we had shown that MK-2206 led to a dose-dependent decrease in AKT signaling in vitro and a dose-dependent decrease in tumor growth in vivo, with regression observed at higher doses that were associated with decreases in AKT signaling. These results are in line with a recent report from Kalinsky et al. where they assessed MK-2206 pharmacodynamics effect in a presurgical window-of-opportunity trial in breast cancer <ref type="bibr" target="#b18">[15]</ref>. Two doses of MK-2206 were administered, 9 and 2 days before surgery. In spite of dose reductions, the trial was discontinued after 12 patients were enrolled due to toxicity being greater than expected (adverse events of rash and mucositis). While there was a trend of A B <ref type="figure">Fig. 3</ref> Expression of PI3K/AKT/mTOR signaling pathway markers in paired baseline and on-treatment samples. a IRS score for pAKT S473, pS6 S235/236, pS6 S240/244, and Ki-67 in paired baseline and on-treatment samples. b Expression of PI3K/AKT/mTOR signaling pathway markers in the two patients who demonstrated clinical benefit. Upper panel, patient with partial response in PIK3CA cohort; bottom panel, patient with stable disease in PTEN cohort reduction in pAkt with treatment, this did not reach statistical significance and did not represent a significant change from controls. There were no significant changes in Ki-67 or pS6. Taken together, the data suggests that unlike the xenograft experiments, in patients, toxicities and other patient and tumor-related factors limit the dose delivery, leading to insufficient target inhibition in the tumor, and thus limiting antitumor activity. Notably, although rash was a common adverse event, the trial did not decrease the starting dose due to concerns that decreasing dose might decrease efficacy. Both patients that had clinical benefit from MK-2206 were able to tolerate 200 mg weekly dosing of MK-2206 with limited rash and had evidence of pathway inhibition in the tumor.</p><p>Recently, several clinical trials with MK-2206 have been reported. There has been limited efficacy associated with MK-2206 monotherapy in renal cell carcinoma <ref type="bibr" target="#b19">[16]</ref> and modest activity in lymphoma <ref type="bibr" target="#b20">[17]</ref>. There has been some signal of activity with combination therapies such as MK-2206 with trastuzumab <ref type="bibr" target="#b21">[18]</ref> and MK-2206 with ridaforolimus <ref type="bibr" target="#b22">[19]</ref>. In a randomized phase II trial of a combination of MK-2206 with selumetinib, the combination was associated with higher adverse event rate and lower efficacy compared to modified FOLFOX in metastatic pancreatic cancer <ref type="bibr" target="#b23">[20]</ref>.</p><p>The combination of MK-2206 (150 mg weekly) and anastrozole was assessed by Ma et al. in a neoadjuvant trial in 16 patients with PIK3CA mutant HR+ breast cancer <ref type="bibr" target="#b24">[21]</ref>. Three patients were taken off-study due to on-treatment Ki67 &gt; 10% (n = 2) and toxicity (n = 1). Thirteen patients completed neoadjuvant therapy followed by surgery; none had a pathologic complete response. Addition of MK-2206 decreased pAKT S473 but did not decrease pPRAS40 T246 and did not further decrease Ki-67. The two patients that went off study due to inadequate Ki67 suppression also did not have adequate pAKT S473 suppression. Thus, overall MK-2206 did not appear to adequately suppress downstream signaling or proliferation, and thus unlikely to add to the efficacy of anastrozole alone.</p><p>MK-2206 has also been explored in combination with paclitaxel. In a Phase I trial, twenty-two patients were treated with combination therapy, 9 in dose escalation (multiple tumor types) and 13 in dose expansion in breast cancer <ref type="bibr" target="#b11">[8]</ref>. There were five objective responses, and nine patients had stable disease. None of the patients with responses had PIK3CA, AKT or PTEN mutations. MK-2206 (135 mg po daily) was also tested in combination with paclitaxel in the I-SPY trial <ref type="bibr" target="#b25">[22]</ref>. MK-2206 improved predicted pCR rates compared to standard chemotherapy in several breast cancer signatures, defined mostly by HR− and HER2+ patients, with predicted pCR rates with and without MK-2206 being 64.1% and 35.7% in HR−/HER2+ and 46.7% and 26.1% in HR−/HER2− patients respectively. There are several ongoing clinical trials with other novel AKT inhibitors including allosteric inhibitors ARQ092, BAY1125976, TAS-117, catalytic inhibitors AZD5363, ipatasertib, GSK2141795, and the dual AKT/ S6K inhibitor MSC2363318A. Recently, Hyman et al. reported AZD5363 monotherapy data in patients with AKT alterations <ref type="bibr" target="#b26">[23]</ref>. In this study of 52 AKT1 E17Kmutant patients treated with AZD5363, confirmed partial responses were observed among patients with HR+ breast and endometrial cancers (n = 4 and n = 2, respectively), as well as cervical cancer, triple-negative breast cancer, and lung adenocarcinoma (n = 1 each), with four additional unconfirmed partial responses. Additionally, the PAKT trial reported that the addition of AZD5363 to first-line paclitaxel therapy for TNBC resulted in significantly longer PFS (5.9 months vs. 4.2 months) and overall survival (19.1 months vs. 12.6 months) <ref type="bibr" target="#b27">[24]</ref>. The LOTUS trial investigated the addition of ipatasertib to paclitaxel as first-line therapy for triple-negative breast cancer <ref type="bibr" target="#b28">[25]</ref>. Median progression-free survival in the intention-to-treat population was 6.2 months (95% CI 3.8-9.0) with ipatasertib versus 4.9 months (3.6-5.4) with placebo (stratified hazard ratio [HR] 0.60, 95% CI 0.37-0.98; p = 0.037). Pre-specified analyses in the subgroup of 42 patients with PIK3CA/AKT1/PTEN-altered tumors, after PFS events in 12 (46%) of 26 patients in the ipatasertib group and 13 (81%) of 16 patients in the placebo group, showed median PFS of 9.0 months with ipatasertib versus 4.9 months with placebo (non-stratified HR 0.44, 95% CI 0.20-0.99, log-rank p = 0.041). In patients with PIK3CA/AKT1/PTEN-non-altered tumors, the PFS was not significantly different. Therefore, there is emerging data that AKT is indeed an effective target for cancer therapy in breast cancer. Further studies are needed to demonstrate whether newer generation agents such as ipatasertib or AZD5363 achieve greater target inhibition, either due to their mechanism of action (catalytic vs allosteric inhibitors) or due to better tolerability.</p><p>Our study had several limitations. We studied weekly dosing of MK-2206 as we expected that weekly dosing would be more tolerable than daily dosing; thus, we cannot exclude that more frequent dosing and thus more continuous inhibition would not have been more effective. We also did not obtain pharmacokinetic data; however, we used a dose where pharmacokinetics have previously been studied <ref type="bibr" target="#b29">[26]</ref>. We included tumors of different breast cancer subtypes and heavily pre-treated patients, and this may have dampened efficacy signals. We did not collect information on white blood cell count or other immune variables. Additionally, we initiated the trial at a time when genomic testing was less frequently offered in clinical practice, which created problems with timely accrual of patients to the study. Of note, as the frequency and availability of genomic testing increased, during the course if the trial, patients were enrolled based upon local testing on many different platforms, even within the same institutions. Finally, we enrolled patients based on archival testing results but the discordances between the PTEN status on archival tissue and that from pre-treatment biopsies highlights the drawback of enrollment based on archival testing, an approach used in most biomarker-selected trials. Although we were successful in getting pre-treatment and on-treatment biopsies, the sample size and the limited number of patients with clinical benefit limits our ability to make significant correlations with the outcome.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Conclusions</head><p>In conclusion, MK-2206 monotherapy had limited clinical activity in advanced breast cancer patients selected for PIK3CA/AKT1 or PTEN mutations or PTEN loss. This may, in part, be due to inadequate target inhibition at tolerable doses in heavily pre-treated patients with pathway activation, as well as tumor heterogeneity and evolution in markers such as PTEN conferring challenges in patient selection. The lack of statistically significant pathway inhibition in the tumors was an interesting finding that needs further study, and raises awareness that circulating biomarkers may not adequately reflect target inhibition in tumor tissue. The fact that one of the patients with a PR had an activating KRAS mutation, also confirmed on pre-treatment biopsy, is unexpected, and suggests that the simplistic view that MAPK co-mutations would confer resistance to AKT inhibitors may not be sufficient for precision oncology, and better modeling of driver mutations, pathway activation, and adaptive responses is needed.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>Table 1</head><label>1</label><figDesc>Patient and tumor characteristics by study cohort</figDesc><table><row><cell>Characteristic</cell><cell>Total patients (n = 27)</cell><cell>PIK3CA/AKT cohort (n = 18)</cell><cell>PTEN cohort (n = 9)</cell></row><row><cell>Age</cell><cell></cell><cell></cell><cell></cell></row><row><cell>Mean (range)</cell><cell>52 (30-73)</cell><cell>54 (33-73)</cell><cell>48 (30-68)</cell></row><row><cell>Race</cell><cell></cell><cell></cell><cell></cell></row><row><cell>Caucasian</cell><cell>24 (89%)</cell><cell>16 (89%)</cell><cell>8 (89%)</cell></row><row><cell>African-American</cell><cell>3 (11%)</cell><cell>2 (11%)</cell><cell>1 (11%)</cell></row><row><cell>ECOG performance status</cell><cell></cell><cell></cell><cell></cell></row><row><cell>0</cell><cell>19 (70%)</cell><cell>13 (72%)</cell><cell>6 (67%)</cell></row><row><cell>1</cell><cell>8 (30%)</cell><cell>5 (28%)</cell><cell>3 (33%)</cell></row><row><cell>Subtype</cell><cell></cell><cell></cell><cell></cell></row><row><cell>HR+</cell><cell>15 (56%)</cell><cell>12 (67%)</cell><cell>3 (33%)</cell></row><row><cell>TNBC</cell><cell>9 (33%)</cell><cell>4 (22%)</cell><cell>5 (56%)</cell></row><row><cell>HER+</cell><cell>3 (11%)</cell><cell>2 (11%)</cell><cell>1 (11%)</cell></row><row><cell>Molecular subtype</cell><cell></cell><cell></cell><cell></cell></row><row><cell>PIK3CA mutant</cell><cell>13 (48%)</cell><cell>13 (72%)</cell><cell>-</cell></row><row><cell>AKT1 mutant</cell><cell>4 (15%)</cell><cell>4 (22%)</cell><cell>-</cell></row><row><cell>PIK3CA mutant and PTEN loss</cell><cell>1 (4%)</cell><cell>1 (6%)</cell><cell>-</cell></row><row><cell>PTEN loss</cell><cell>9 (33%)</cell><cell>-</cell><cell>9 (100%)</cell></row><row><cell>Number of prior therapies</cell><cell></cell><cell></cell><cell></cell></row><row><cell>2</cell><cell>2 (7%)</cell><cell>1 (5%)</cell><cell>1 (11%)</cell></row><row><cell>3</cell><cell>3 (11%)</cell><cell>1 (5%)</cell><cell>2 (22%)</cell></row><row><cell>≥ 4</cell><cell>22 (82%)</cell><cell>16 (90%)</cell><cell>6 (67%)</cell></row></table><note></note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_1"><head>Table 2</head><label>2</label><figDesc>Treatment-related adverse events reported in ≥ 10% of patients (n = 27)</figDesc><table><row><cell>Drug-related AE</cell><cell>All grades</cell><cell>Grade 3</cell></row><row><cell></cell><cell>N (%)</cell><cell>N (%)</cell></row><row><cell>Fatigue</cell><cell>13 (48%)</cell><cell>4 (15%)</cell></row><row><cell>Rash</cell><cell>12 (44%)</cell><cell>7 (26%)</cell></row><row><cell>Vomiting</cell><cell>8 (30%)</cell><cell>0</cell></row><row><cell>Nausea</cell><cell>7 (26%)</cell><cell>0</cell></row><row><cell>Diarrhea</cell><cell>7 (16%)</cell><cell>0</cell></row><row><cell>Pain</cell><cell>5 (19%)</cell><cell>1 (4%)</cell></row><row><cell>AST increased</cell><cell>4 (15%)</cell><cell>2 (7%)</cell></row><row><cell>Hyperglycemia</cell><cell>4 (15%)</cell><cell>1 (4%)</cell></row><row><cell>Pruritus</cell><cell>4 (15%)</cell><cell>1 (4%)</cell></row><row><cell>Anorexia</cell><cell>4 (15%)</cell><cell>0</cell></row><row><cell>Mucositis</cell><cell>4 (15%)</cell><cell>0</cell></row><row><cell>Insomnia</cell><cell>3 (11%)</cell><cell>0</cell></row><row><cell>Anemia</cell><cell>3 (11%)</cell><cell>0</cell></row><row><cell>Sore throat</cell><cell>3 (11%)</cell><cell>0</cell></row><row><cell>Dysgeusia</cell><cell>3 (11%)</cell><cell>0</cell></row><row><cell>Constipation</cell><cell>3 (11%)</cell><cell>0</cell></row></table><note></note></figure>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Acknowledgements</head><p>The authors thank the patients, their families, the investigators and their research teams, who participated in this study.</p></div>
+			</div>
+
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Additional files</head><p>Additional file 1: <ref type="figure">Figure S1</ref>. MK-2206 inhibits tumor growth in ZR75-1 xenografts. A. Scatter plots show the change in tumor volume (TV) calculated for each tumor using the formula (Vf-V0)/V0, where V0 is initial volume (at the beginning of treatment) and Vf is final volume (at the end of treatment). Lines are at mean with SD. Treatment groups (MK-2206 dosed at 240 or 480 mg/kg) were compared with the vehicle (30% Captisol (CYDEX Pharmaceuticals)). B. Heatmap of the 13 significant dose-dependent proteins at the FDR of 0.1 in ZR-75-1 xenografts. (PPTX 130 kb) Additional file 2: <ref type="table">Table S1</ref>. Sequencing data from a 202 gene platform (T200) for two best responders in the study cohort.  </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Availability of data and materials</head><p>Included in supplementary materials.</p><p>Authors' contributions YX, FMB, AG, EW, AD, and LC conceived and designed the study and helped draft the manuscript. YX, FMB, DR, AA, YL, AS, AM, HC, and ET collected and assembled the data. YL, HC, and KD performed statistical analysis and interpreted the results. WL, MM, HC, AM, SPP, DH, MCM, JL, and DR provided study material/patients. All authors contributed to the writing of the final version of the manuscript. All authors read and approved the final manuscript.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Ethics approval and consent to participate</head><p>This clinical trial was conducted in accordance with Good Clinical Practice guidelines. Approval for the protocol was obtained from the institutional review board for The University of Texas MD Anderson Cancer Center, Dana Farber Cancer Institute, Columbia University, and Vanderbilt University. All participants gave informed consent before they entered the study.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Consent for publication</head><p>All authors agreed to this publication. </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Competing interests</head></div>			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<monogr>
+		<title/>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Aduro</forename><surname>Bioepis</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Xencor</forename><surname>Origimed</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Jackson</forename><surname>Laboratory</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>To Inflection</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Grail</forename><surname>Biosciences</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Darwin</forename><surname>Health</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Clearlight</forename><surname>Diagnostics</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Mersana</forename><surname>Spectrum</surname></persName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Breast Cancer Research Foundation, Immunomet, Ionis, KarusTherapeutics, Komen Research Foundation,Nanostring, Ovarian Cancer Research Foundation, Pfizer, Prospect Creek Foundation, and Takeda/ Millennium Pharmaceuticals; personal fees from AstraZeneca</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">G</forename><forename type="middle">B</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Catena Pharmaceuticals, Critical Outcome Technologies, ImmunoMET, Ionis, SignalchemLifesciences, Symphogen, Takeda/Millennium Pharmaceuticals, and Tarveda; stock/financial interest in Catena Pharmaceuticals, ImmunoMet, SignalChem, Spindle Top Ventures, and Tarveda; and licensed technology in HRD assay to Myriad Genetics</title>
+		<imprint/>
+	</monogr>
+	<note>Mills reports grants from Adelson Medical Research Foundation</note>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title/>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><forename type="middle">A</forename><surname>Piha-Paul Reports Grants From Merck</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Sharp &amp; Dohme Corp</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Taiho</forename><surname>Genmab</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Oncology</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Llc</forename><surname>Medimume</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Biomarin</forename><surname>Pharmaceutical</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Inc</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Novartis Pharmaceuticals</title>
+		<imprint>
+			<publisher>Pieris Pharmaceuticals, Inc., Puma Biotechnology, Inc</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<monogr>
+		<title level="m" type="main">Winer reports personal fees from Genentech</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename></persName>
+		</author>
+		<imprint>
+			<pubPlace>Leap, InfiniteMD, Lilly, Carrick Therapeutics, GSK, and Verastem</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Poor prognosis in carcinoma is associated with a gene expression signature of aberrant PTEN tumor suppressor pathway activity</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">L</forename><forename type="middle">H</forename><surname>Saal</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><surname>Johansson</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><surname>Holm</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><forename type="middle">K</forename><surname>Gruvberger-Saal</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Q</forename><forename type="middle">B</forename><surname>She</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Maurer</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Koujak</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><forename type="middle">A</forename><surname>Ferrando</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><surname>Malmstrom</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">L</forename><surname>Memeo</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Proc Natl Acad Sci</title>
+		<imprint>
+			<biblScope unit="volume">104</biblScope>
+			<biblScope unit="issue">18</biblScope>
+			<biblScope unit="page" from="7564" to="7573" />
+			<date type="published" when="2007" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Loss of phosphatase and tensin homologue deleted on chromosome 10 engages ErbB3 and insulin-like growth factor-I receptor signaling to promote antiestrogen resistance in breast cancer</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><forename type="middle">W</forename><surname>Miller</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Perez-Torres</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Narasanna</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Guix</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">O</forename><surname>Stal</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">G</forename><surname>Perez-Tenorio</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><forename type="middle">M</forename><surname>Gonzalez-Angulo</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">B</forename><forename type="middle">T</forename><surname>Hennessy</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">G</forename><forename type="middle">B</forename><surname>Mills</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">P</forename><surname>Kennedy</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Cancer Res</title>
+		<imprint>
+			<biblScope unit="volume">69</biblScope>
+			<biblScope unit="issue">10</biblScope>
+			<biblScope unit="page" from="4192" to="201" />
+			<date type="published" when="2009" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">PTEN activation contributes to tumor inhibition by trastuzumab, and loss of PTEN predicts trastuzumab resistance in patients</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Y</forename><surname>Nagata</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><forename type="middle">H</forename><surname>Lan</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">X</forename><surname>Zhou</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Tan</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">F</forename><forename type="middle">J</forename><surname>Esteva</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><forename type="middle">A</forename><surname>Sahin</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><forename type="middle">S</forename><surname>Klos</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><surname>Li</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">B</forename><forename type="middle">P</forename><surname>Monia</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">N</forename><forename type="middle">T</forename><surname>Nguyen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Cancer Cell</title>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="117" to="144" />
+			<date type="published" when="2004" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">A functional genetic approach identifies the PI3K pathway as a major determinant of trastuzumab resistance in breast cancer</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><surname>Berns</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><forename type="middle">M</forename><surname>Horlings</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">B</forename><forename type="middle">T</forename><surname>Hennessy</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Madiredjo</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><forename type="middle">M</forename><surname>Hijmans</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><surname>Beelen</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><forename type="middle">C</forename><surname>Linn</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><forename type="middle">M</forename><surname>Gonzalez-Angulo</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><surname>Stemke-Hale</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Hauptmann</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Cancer Cell</title>
+		<imprint>
+			<biblScope unit="volume">12</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="395" to="402" />
+			<date type="published" when="2007" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">First-in-man clinical trial of the oral pan-AKT inhibitor MK-2206 in patients with advanced solid tumors</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><forename type="middle">A</forename><surname>Yap</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">L</forename><surname>Yan</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Patnaik</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">I</forename><surname>Fearen</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><surname>Olmos</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><surname>Papadopoulos</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><forename type="middle">D</forename><surname>Baird</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">L</forename><surname>Delgado</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Taylor</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">L</forename><surname>Lupinacci</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Clin Oncol</title>
+		<imprint>
+			<biblScope unit="volume">29</biblScope>
+			<biblScope unit="issue">35</biblScope>
+			<biblScope unit="page" from="4688" to="95" />
+			<date type="published" when="2011" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">New response evaluation criteria in solid tumours: revised RECIST guideline (version 1.1)</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><forename type="middle">A</forename><surname>Eisenhauer</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><surname>Therasse</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Bogaerts</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">L</forename><forename type="middle">H</forename><surname>Schwartz</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><surname>Sargent</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><surname>Ford</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Dancey</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Arbuck</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Gwyther</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Mooney</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Eur J Cancer</title>
+		<imprint>
+			<biblScope unit="volume">45</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="228" to="275" />
+			<date type="published" when="2009" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Influence of biospecimen variables on proteomic biomarkers in breast cancer</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">F</forename><surname>Meric-Bernstam</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Akcakanat</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><surname>Chen</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Sahin</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><surname>Tarco</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Carkaci</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">B</forename><forename type="middle">E</forename><surname>Adrada</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">G</forename><surname>Singh</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><forename type="middle">A</forename><surname>Do</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Z</forename><forename type="middle">M</forename><surname>Garces</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Clin Cancer Res</title>
+		<imprint>
+			<biblScope unit="volume">20</biblScope>
+			<biblScope unit="issue">14</biblScope>
+			<biblScope unit="page" from="3870" to="83" />
+			<date type="published" when="2014" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">SU2C phase Ib study of paclitaxel and MK-2206 in advanced solid tumors and metastatic breast cancer</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><forename type="middle">M</forename><surname>Gonzalez-Angulo</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">I</forename><surname>Krop</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Akcakanat</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><surname>Chen</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Liu</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Y</forename><surname>Li</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><forename type="middle">S</forename><surname>Culotta</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><surname>Tarco</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Piha-Paul</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Moulder-Thompson</surname></persName>
+		</author>
+		<ptr target="https://www.ncbi.nlm.nih.gov/pubmed/25688104" />
+	</analytic>
+	<monogr>
+		<title level="j">J Natl Cancer Inst</title>
+		<imprint>
+			<biblScope unit="volume">107</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page">493</biblScope>
+			<date type="published" when="2015" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">A population of heterogeneous breast cancer patient-derived xenografts demonstrate broad activity of PARP inhibitor in BRCA1/2 wild-type tumors</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><forename type="middle">W</forename><surname>Evans</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><surname>Yuca</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Akcakanat</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><forename type="middle">M</forename><surname>Scott</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">N</forename><forename type="middle">P</forename><surname>Arango</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">X</forename><surname>Zheng</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><surname>Chen</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><surname>Tapia</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><surname>Tarco</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><forename type="middle">K</forename><surname>Eterovic</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Clin Cancer Res</title>
+		<imprint>
+			<biblScope unit="volume">23</biblScope>
+			<biblScope unit="issue">21</biblScope>
+			<biblScope unit="page" from="6468" to="77" />
+			<date type="published" when="2017" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Controlling the false discovery rate: a practical and powerful approach to multiple testing</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Y</forename><surname>Benjamini</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Y</forename><surname>Hochberg</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">JR Statist Soc B</title>
+		<imprint>
+			<biblScope unit="volume">57</biblScope>
+			<biblScope unit="page" from="289" to="300" />
+			<date type="published" when="1995" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<monogr>
+		<title level="m" type="main">How to Detect and Handle Outliers</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">B</forename><surname>Iglewicz</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><forename type="middle">C</forename><surname>Hoaglin</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1993" />
+			<publisher>American Society for Quality Control</publisher>
+			<pubPlace>Milwaukee</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Feasibility of large-scale genomic testing to facilitate enrollment onto genomically matched clinical trials</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">F</forename><surname>Meric-Bernstam</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">L</forename><surname>Brusco</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><surname>Shaw</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><surname>Horombe</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Kopetz</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">A</forename><surname>Davies</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Routbort</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><forename type="middle">A</forename><surname>Piha-Paul</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">F</forename><surname>Janku</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">N</forename><surname>Ueno</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Clin Oncol</title>
+		<imprint>
+			<biblScope unit="volume">33</biblScope>
+			<biblScope unit="issue">25</biblScope>
+			<biblScope unit="page" from="2753" to="62" />
+			<date type="published" when="2015" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Clinical actionability enhanced through deep targeted sequencing of solid tumors</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><surname>Chen</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">F</forename><surname>Meric-Bernstam</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><surname>Zhao</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Q</forename><surname>Zhang</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">N</forename><surname>Ezzeddine</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">L</forename><forename type="middle">Y</forename><surname>Tang</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Y</forename><surname>Qi</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Y</forename><surname>Mao</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Chen</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Z</forename><surname>Chong</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Clin Chem</title>
+		<imprint>
+			<biblScope unit="volume">61</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="544" to="53" />
+			<date type="published" when="2015" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Biomarkers of response to Akt inhibitor MK-2206 in breast cancer</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Sangai</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Akcakanat</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><surname>Chen</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><surname>Tarco</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Y</forename><surname>Wu</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><forename type="middle">A</forename><surname>Do</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><forename type="middle">W</forename><surname>Miller</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><forename type="middle">L</forename><surname>Arteaga</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">G</forename><forename type="middle">B</forename><surname>Mills</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><forename type="middle">M</forename><surname>Gonzalez-Angulo</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Clin Cancer Res</title>
+		<imprint>
+			<biblScope unit="volume">18</biblScope>
+			<biblScope unit="issue">20</biblScope>
+			<biblScope unit="page" from="5816" to="5844" />
+			<date type="published" when="2012" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">Pre-surgical trial of the AKT inhibitor MK-2206 in patients with operable invasive breast cancer: a New York Cancer Consortium trial</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><surname>Kalinsky</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">A</forename><surname>Sparano</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">X</forename><surname>Zhong</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><surname>Andreopoulou</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">B</forename><surname>Taback</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">L</forename><surname>Wiechmann</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><forename type="middle">M</forename><surname>Feldman</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><surname>Ananthakrishnan</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Ahmad</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Cremers</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Clin Transl Oncol</title>
+		<imprint>
+			<biblScope unit="volume">20</biblScope>
+			<biblScope unit="issue">11</biblScope>
+			<biblScope unit="page" from="1474" to="83" />
+			<date type="published" when="2018" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">A randomized phase 2 study of MK-2206 versus everolimus in refractory renal cell carcinoma</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><surname>Jonasch</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><surname>Hasanov</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><forename type="middle">G</forename><surname>Corn</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Moss</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><forename type="middle">R</forename><surname>Shaw</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Stovall</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">V</forename><surname>Marcott</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">B</forename><surname>Gan</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Bird</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">X</forename><surname>Wang</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ann Oncol</title>
+		<imprint>
+			<biblScope unit="volume">28</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="804" to="812" />
+			<date type="published" when="2017" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">Phase II study of an AKT inhibitor MK2206 in patients with relapsed or refractory lymphoma</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Y</forename><surname>Oki</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Fanale</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Romaguera</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">L</forename><surname>Fayad</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">N</forename><surname>Fowler</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Copeland</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">F</forename><surname>Samaniego</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">L</forename><forename type="middle">W</forename><surname>Kwak</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Neelapu</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Wang</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Br J Haematol</title>
+		<imprint>
+			<biblScope unit="volume">171</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="463" to="70" />
+			<date type="published" when="2015" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">A phase 1 study evaluating the combination of an allosteric AKT inhibitor (MK-2206) and trastuzumab in patients with HER2-positive solid tumors</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><surname>Hudis</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><surname>Swanton</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Y</forename><forename type="middle">Y</forename><surname>Janjigian</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><surname>Lee</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Sutherland</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><surname>Lehman</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Chandarlapaty</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">N</forename><surname>Hamilton</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><surname>Gajria</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Knowles</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Breast Cancer Res</title>
+		<imprint>
+			<biblScope unit="volume">15</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page">110</biblScope>
+			<date type="published" when="2013" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">A phase I trial of combined ridaforolimus and MK-2206 in patients with advanced malignancies</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Gupta</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">G</forename><surname>Argiles</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><forename type="middle">N</forename><surname>Munster</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Hollebecque</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">O</forename><surname>Dajani</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">D</forename><surname>Cheng</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><surname>Wang</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Swift</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Tosolini</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Piha-Paul</forename><surname>Sa</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Clin Cancer Res</title>
+		<imprint>
+			<biblScope unit="volume">21</biblScope>
+			<biblScope unit="issue">23</biblScope>
+			<biblScope unit="page" from="5235" to="5279" />
+			<date type="published" when="2015" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title level="a" type="main">Effect of selumetinib and MK-2206 vs oxaliplatin and fluorouracil in patients with metastatic pancreatic cancer after prior therapy: SWOG S1115 study randomized clinical trial</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">V</forename><surname>Chung</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Mcdonough</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><forename type="middle">A</forename><surname>Philip</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><surname>Cardin</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Wang-Gillam</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">L</forename><surname>Hui</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">A</forename><surname>Tejani</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><forename type="middle">E</forename><surname>Seery</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">I</forename><forename type="middle">A</forename><surname>Dy</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Al</forename><surname>Baghdadi</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">JAMA Oncol</title>
+		<imprint>
+			<biblScope unit="volume">3</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="516" to="538" />
+			<date type="published" when="2017" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title level="a" type="main">A phase II trial of neoadjuvant MK-2206, an AKT inhibitor, with anastrozole in clinical stage II or III PIK3CA-mutant ER-positive and HER2-negative breast cancer</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><forename type="middle">X</forename><surname>Ma</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">V</forename><surname>Suman</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">P</forename><surname>Goetz</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><surname>Northfelt</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">E</forename><surname>Burkard</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">F</forename><surname>Ademuyiwa</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Naughton</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Margenthaler</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><surname>Aft</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><surname>Gray</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Clin Cancer Res</title>
+		<imprint>
+			<biblScope unit="volume">23</biblScope>
+			<biblScope unit="issue">22</biblScope>
+			<biblScope unit="page" from="6823" to="6855" />
+			<date type="published" when="2017" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title level="a" type="main">Adaptively randomized trial of neoadjuvant chemotherapy with or without the Akt inhibitor MK-2206: Graduation results from the I-SPY 2 Trial</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><surname>Triptahy</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><forename type="middle">J</forename><surname>Chien</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">N</forename><surname>Hylton</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">B</forename><surname>Buxton</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><forename type="middle">A</forename><surname>Ewing</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><forename type="middle">M</forename><surname>Wallace</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Forero</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><forename type="middle">G</forename><surname>Kaplan</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><surname>Nanda</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><forename type="middle">S</forename><surname>Albain</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Clin Oncol</title>
+		<imprint>
+			<biblScope unit="volume">33</biblScope>
+			<date type="published" when="2015" />
+		</imprint>
+	</monogr>
+	<note>Suppl):Abstract 524</note>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title level="a" type="main">AKT inhibition in solid tumors with AKT1 mutations</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><forename type="middle">M</forename><surname>Hyman</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">L</forename><forename type="middle">M</forename><surname>Smyth</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Mta</forename><surname>Donoghue</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><forename type="middle">N</forename><surname>Westin</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><forename type="middle">L</forename><surname>Bedard</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><forename type="middle">J</forename><surname>Dean</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><surname>Bando</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><forename type="middle">B</forename><surname>El-Khoueiry</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">A</forename><surname>Perez-Fidalgo</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Mita</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Clin Oncol</title>
+		<imprint>
+			<biblScope unit="volume">35</biblScope>
+			<biblScope unit="issue">20</biblScope>
+			<biblScope unit="page" from="2251" to="2260" />
+			<date type="published" when="2017" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+		<title level="a" type="main">AZD5363 plus paclitaxel versus placebo plus paclitaxel as first-line therapy for metastatic triple-negative breast cancer (PAKT): a randomised, double-blind, placebo-controlled, phase II trial</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><surname>Schmid</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Abraham</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Chan</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><surname>Wheatley</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Brunt</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">G</forename><surname>Nemsadze</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><surname>Baird</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Y</forename><forename type="middle">H</forename><surname>Park</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><surname>Hall</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Perren</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Clin Oncol</title>
+		<imprint>
+			<biblScope unit="volume">36</biblScope>
+			<biblScope unit="page">1007</biblScope>
+			<date type="published" when="2018" />
+		</imprint>
+	</monogr>
+	<note>Suppl</note>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<analytic>
+		<title level="a" type="main">Ipatasertib plus paclitaxel versus placebo plus paclitaxel as first-line therapy for metastatic triple-negative breast cancer (LOTUS): a multicentre, randomised, double-blind, placebo-controlled, phase 2 trial</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><forename type="middle">B</forename><surname>Kim</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><surname>Dent</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><forename type="middle">A</forename><surname>Im</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Espie</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Blau</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><forename type="middle">R</forename><surname>Tan</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><forename type="middle">J</forename><surname>Isakoff</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Oliveira</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><surname>Saura</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">J</forename><surname>Wongchenko</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Lancet Oncol</title>
+		<imprint>
+			<biblScope unit="volume">18</biblScope>
+			<biblScope unit="issue">10</biblScope>
+			<biblScope unit="page" from="1360" to="72" />
+			<date type="published" when="2017" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<analytic>
+		<title level="a" type="main">Interrogating two schedules of the AKT inhibitor MK-2206 in patients with advanced solid tumors incorporating novel pharmacodynamic and functional imaging biomarkers</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><forename type="middle">A</forename><surname>Yap</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">L</forename><surname>Yan</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Patnaik</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">N</forename><surname>Tunariu</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Biondo</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">I</forename><surname>Fearen</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><forename type="middle">P</forename><surname>Papadopoulos</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><surname>Olmos</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><surname>Baird</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">L</forename><surname>Delgado</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Clin Cancer Res</title>
+		<imprint>
+			<biblScope unit="volume">20</biblScope>
+			<biblScope unit="issue">22</biblScope>
+			<biblScope unit="page" from="5672" to="85" />
+			<date type="published" when="2014" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

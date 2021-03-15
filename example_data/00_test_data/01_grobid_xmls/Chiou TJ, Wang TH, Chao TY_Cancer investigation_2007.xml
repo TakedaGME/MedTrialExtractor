@@ -1,0 +1,755 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /data/rsg/nlp/juanmoo1/bin/grobid-0.6.1/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Randomized Phase II Trial of Thalidomide Alone versus Thalidomide Plus Interferon Alpha in Patients with Refractory Multiple Myeloma</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author role="corresp">
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><roleName>M.D.</roleName><forename type="first">Tzeon-Jye</forename><surname>Chiou</surname></persName>
+							<email>tjchiou@vghtpe.gov.tw</email>
+							<affiliation key="aff1">
+								<orgName type="institution">National Taiwan University</orgName>
+								<address>
+									<settlement>Taipei</settlement>
+									<country key="TW">Taiwan</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><roleName>M.S</roleName><forename type="first">Teng-Hsu</forename><surname>Wang</surname></persName>
+							<affiliation key="aff2">
+								<orgName type="department">Tri-Service General Hospital</orgName>
+								<address>
+									<settlement>Taipei</settlement>
+									<country key="TW">Taiwan</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><roleName>M.D</roleName><forename type="first">Tsu-Yi</forename><surname>Chao</surname></persName>
+							<affiliation key="aff3">
+								<orgName type="institution" key="instit1">Chung-Ho Memorial Hospital</orgName>
+								<orgName type="institution" key="instit2">Kaohsiung Medical University</orgName>
+								<address>
+									<settlement>Kaoshiung</settlement>
+									<country key="TW">Taiwan</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><roleName>M.D</roleName><forename type="first">Sheng-Fung</forename><surname>Lin</surname></persName>
+							<affiliation key="aff4">
+								<orgName type="institution">National Taiwan University Hospital</orgName>
+								<address>
+									<settlement>Taipei</settlement>
+									<country key="TW">Taiwan</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><roleName>M.D</roleName><forename type="first">Jih-Luh</forename><surname>Tang</surname></persName>
+							<affiliation key="aff5">
+								<orgName type="institution">National Cheng Kung University Hospital</orgName>
+								<address>
+									<settlement>Tainan</settlement>
+									<country key="TW">Taiwan</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><roleName>M.D</roleName><forename type="first">Tsai-Yun</forename><surname>Chen</surname></persName>
+							<affiliation key="aff6">
+								<orgName type="institution">Mackay Memorial Hospital</orgName>
+								<address>
+									<settlement>Taipei</settlement>
+									<country key="TW">Taiwan</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><roleName>M.D</roleName><forename type="first">Ming-Chih</forename><surname>Chang</surname></persName>
+							<affiliation key="aff7">
+								<orgName type="institution">Pingtung Christian Hospital</orgName>
+								<address>
+									<settlement>Pingtung</settlement>
+									<country key="TW">Taiwan</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><roleName>M.D</roleName><forename type="first">Erh-Jung</forename><surname>Hsueh</surname></persName>
+							<affiliation key="aff8">
+								<orgName type="department">Section of Medical Oncology Department of Medicine Taipei Veterans General Hospital No. 201</orgName>
+								<address>
+									<addrLine>Sec. 2, Shih-Pai Road</addrLine>
+									<postCode>112</postCode>
+									<settlement>Taipei</settlement>
+									<country key="TW">Taiwan</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><roleName>M.D</roleName><forename type="first">Po-Min</forename><surname>Chen</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="institution">National Taiwan University</orgName>
+								<address>
+									<settlement>Taipei</settlement>
+									<country key="TW">Taiwan</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff0">
+								<orgName type="department" key="dep1">Section of Medical Oncology</orgName>
+								<orgName type="department" key="dep2">Department of Medicine</orgName>
+								<orgName type="institution">Taipei Veterans General Hospital and National Yang-Ming University School of Medicine</orgName>
+								<address>
+									<settlement>Taipei</settlement>
+									<country key="TW">Taiwan</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Randomized Phase II Trial of Thalidomide Alone versus Thalidomide Plus Interferon Alpha in Patients with Refractory Multiple Myeloma</title>
+					</analytic>
+					<monogr>
+						<idno type="ISSN">0735-7907 print / 1532-4192</idno>
+					</monogr>
+					<idno type="DOI">10.1080/07357900701208808</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.6.1" ident="GROBID" when="2021-01-01T18:48+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>Thalidomide</term>
+					<term>Interferon-alpha</term>
+					<term>Adverse effect</term>
+					<term>Paraprotein response</term>
+					<term>Refractory multiple myeloma</term>
+				</keywords>
+			</textClass>
+			<abstract>
+				<p>The potential synergistic anti-myeloma effect for thalidomide combining with interferon alpha was not yet clear clinically. From March 2001 to January 2004, a total of 28 heavily pretreated multiple myleoma (MM) patients were enrolled in this open-labeled, randomized Phase II study. Patients with refractory MM were randomized to receive either thalidomide alone (200 mg/day up to the maximum dose 800 mg/day, arm B) or the combination of thalidomide and interferon alpha (3 MIU/m 2 subcutaneous injection 3 times weekly, arm A). The objective of this study was to compare the safety and efficacy of thalidomide alone to combined regimen. The patients&apos; characteristics were similar between the 2 arms. However, the average treatment duration was significantly longer in the arm B than the arm A (236 days versus 101 days, p = 0.029). Serum levels of paraprotein decline ≥ 25 percent were obtained in 6 of 12 patients (50.0 percent) treated with arm B and 3 of the 16 patients (18.8 percent) treated with arm A. The estimated time to event was 7.9 months (95 percent confidence interval [95%CI], 0.5-15.4) for arm B and 1.5 months (95%CI, 0.0-3.4) for arm A (log-rank test, p = 0.0193). The major adverse events in both arms consisted of neutropenia, anemia, thrombocytopenia, constipation, somnolence, and skin rash. Our study showed that thalidomide alone was effective and tolerated in patients with relapsed or refractory MM. The thalidomide combined with interferon alpha resulted in a lower frequency of paraprotein response, shorter treatment-duration and 25 percent of patients&apos; refusing rate. It may be concluded that the combined regimen is not well tolerated in our patients and needed to be further evaluated in the future. We are grateful to the support of the Hematology Society of Taiwan and Taiwan Clinical Cancer Development Foundation in conducting this trial.</p>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>INTRODUCTION</head><p>Multiple myeloma (MM) is a malignant disease of the plasma cells. As the disease progressing, it will destroy normal bone tissue, causing pain and crowding normal hematopoiesis out <ref type="bibr" target="#b0">(1)</ref><ref type="bibr" target="#b1">(2)</ref><ref type="bibr" target="#b2">(3)</ref><ref type="bibr" target="#b3">(4)</ref><ref type="bibr" target="#b4">(5)</ref>. The low incidence of complete remission, on the order of 5 percent, reflects the marked drug resistance of myeloma cells. Therapeutic intervention with cytokines is being evaluated in the management of a range of malignancies. Interferons have a broad spectrum of action on cellular proliferation as well as immunomodulation. In patients with myeloma, interferon alpha in combination with chemotherapy has been demonstrated to have synergistic anti-tumor effect <ref type="bibr" target="#b0">(1)</ref><ref type="bibr" target="#b1">(2)</ref><ref type="bibr" target="#b2">(3)</ref><ref type="bibr" target="#b3">(4)</ref><ref type="bibr" target="#b4">(5)</ref>. Response rates of 20 percent were achieved when interferon alpha (IFN-α) was applied as single agent for multiple myeloma <ref type="bibr" target="#b5">(6)</ref>. A synergistic activity was observed when IFN-α was combined with chemotherapeutic agents in vitro and in vivo, resulted in higher median progression-free and overall survival duration in the VAD (Vincristin, Adriamycin, Dexamethasone) and IFN-α combination <ref type="bibr" target="#b6">(7)</ref>.</p><p>Thalidomide (TD) was used during the late 1950s and withdrawn in the 1960s after the appearance of teratogenicity and phocomelia. The recent return of thalidomide stems from the broad spectrum of its potential pharmacologic and immunologic effects <ref type="bibr" target="#b7">(8)</ref><ref type="bibr" target="#b9">(9)</ref><ref type="bibr" target="#b10">(10)</ref>. The mechanism of thalidomide in treating multiple myeloma includes the possibility that thalidomide suppresses tumor necrosis factor-α production, increases the body's production of interluekin-10 (IL-10), and inhibits angiogenesis by preventing the growth of new blood vessels to support the malignant cells <ref type="bibr" target="#b10">(10,</ref><ref type="bibr" target="#b11">11)</ref>. The combination of IFN-alpha2b and thalidomide had been reported to cause synergistic decrease in mean vessel count in tumors that were resistant to the antiproliferative effects of IFN-alpha2b and thalidomide in vitro and have potentiated antiangiogenic activity in a xenograft model <ref type="bibr" target="#b12">(12)</ref>. Whether the combination of IFN-α with thalidomide in patients who did not receive IFN-α or thalidomide to treat their disease before can improve the response rate, duration, and survival were interesting to us. In this study, we will evaluate and compare the efficacy and toxicity of thalidomide alone or combined with IFN-α in refractory MM patients.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>PATIENTS AND METHODS</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Patients</head><p>Patients who fulfill the following criteria were enrolled in the study: age less than 75-year-old with well-documented multiple myeloma (Durie-Salmon staging, 1976) that relapsed or failed to first-line chemotherapy and had measurable M protein and paraprotein serum levels; no history of exposure to IFN-α or thalidomide before; ECOG performance status ≤2 with adequate liver, renal function, and hemogram level (ALT/AST ≤3 times upper limit of normal, total bilirubin ≤2 mg percent, serum creatinine ≤ 2 times normal limit, Hemoglobin &gt;8 g/dL, WBC &gt;3000/mm 3 , Platelet &gt;7.5 × 10 4 /mm 3 ); no history of nerve damage (WHO ≥2), orthostatic hypotension, or other serious complications; at least 3 weeks interval from prior chemotherapy or radiotherapy and signing the consent form prior to this study.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Treatment plans</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Study design</head><p>Based on previous clinic experience, a response rate of approximately 20 percent was assumed for the study regimen with thalidomide and an estimated response rate of 40 percent was assumed for the study regimen with thalidomide plus IFN-α.</p><p>Simon's 2-stage optimal design was adapted to calculate the sample size for type-I error of 0.05 and power of 80 percent.</p><p>The sample size initially was determined to complete 43 evaluable patients for the regimen with thalidomide plus IFNα and 29 evaluable patients for the regimen with thalidomide alone. The study was approved by the Joint Institutional Review Boards in Taiwan; it started in March 2001 and early terminated in January 2004 due to the interim analysis resulting in more adverse effects and less efficacy in the arm A.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Randomization</head><p>This was an open-label, randomized, multicenter Phase II clinical trial. Patients were randomized to receive either thalidomide alone (200 mg/day up to the maximum dose 800 mg/day, arm B) or the combination of thalidomide and IFN-α (3 MIU/m 2 subcutaneous injection thrice weekly, arm A). The randomization list was generated by computer using permuted-block randomization with a block size of 5 patients including 3 for arm A and the other 2 for arm B. Eligible patients recruited from 7 medical centers around Taiwan were registered within 48 hours before the initiation of therapy. Patients were then assigned to either arm A or arm B by an independent allocation center according to the randomization scheme once upon registered. The flow diagram of the progress through the trial was shown in <ref type="figure" target="#fig_0">Figure 1</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Treatment and response</head><p>Thalidomide (50-mg capsules) (Thado, TTY Biopharm Co., Taiwan, R.O.C.) was administered at a dose of 200 mg per day orally and divided into 2 times a day. The dose of thalidomide was increased by 200 mg every 2 weeks in the absence of intolerable adverse effects, to the maximal daily dose of 800 mg. Patients who were allocated to arm A also received 3 MIU/m 2 of interferon alpha-2b (Schering-Plough Limited Co., Schering-Plough Labo, N.V.) subcutaneous injection 3 times weekly concomitantly.</p><p>The primary end point of the study was to determine the decline in the level of paraprotein in serum at least 25, 50, 75, or 90 percernt on 2 occasions at least 4 weeks apart. The response was evaluated according to the criteria of Cooper et al. and Osterborg et al. <ref type="bibr" target="#b1">(2,</ref><ref type="bibr" target="#b2">3)</ref>. Time-to-response was defined as the interval between the start of therapy and response. The time-toprogression was calculated only for patients with a paraprotein response and was defined as the time from the start of therapy to disease progression. Event-free survival was calculated from the start of therapy to disease progression, removal from the study for any reason, death from any cause, or the last follow-up visit.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Statistical methods</head><p>The demographic and baseline characteristics, comparison of continuous variables of age, baseline M protein levels, mean treatment duration, and mean total thalidomide used dose between two arms were determined by the student's t-test. The gender, immunophenotype, and previous treatments were summarized as categorical parameters and were assessed with the use of chi-square test. Analyses for the efficacy variables and safety analysis were conducted on an intention-to-treat basis. The primary efficacy analysis was in descriptive statistics, presented by point estimate and 95 percent confidence interval for the primary efficacy variable. Comparison of the response according to the response criteria was assessed with the use of the chi-square test. Ninetyfive percent confidence intervals (95%CIs) for the confirmed response probability were calculated using binomial 95%CIs. Toxicity incidence was estimated and summarized using fre-quency and descriptive techniques to assess any patterns. Survival distributions (Kaplan-Meier) of event-free survival (EFS) and overall survival (OS) were compared by means of the logrank test. The statistical evaluation was conducted by the software program of SPSS version 10.0 (SPSS Inc., Chicago, IL, USA). All patients were not cohort comparable to their disease duration and refractoriness. The preparation of the reports after early terminating this trial was modified from the CONSORT Statement <ref type="bibr" target="#b13">(13,</ref><ref type="bibr" target="#b14">14)</ref>. </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>RESULTS</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Patient characteristics</head><p>From March 2001 to January 2004, 28 patients with MM whose disease relapsed or failed to first-line chemotherapy were enrolled in this study. Twelve of 28 patients were randomized to receive thalidomide alone (arm B), and 16 received thalidomide combined with interferon alpha (3 MIU/m 2 subcutaneous injection 3 times weekly, arm A). No obvious differences of patients' characteristics were found between arm B and arm A. The median cumulative dose of interferon was 31 MIU/m2 (ranged, 5-163 MIU/m2) in arm A. However, the average treatmentduration was significantly longer in arm B than arm A (236 days versus 101 days, p = 0.029). The total dose of thalidomide in B arm was also higher <ref type="table" target="#tab_0">(Table 1)</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Response and survival analysis</head><p>Seven of 16 patients (43.8 percent) in arm A were intolerable or have disease-progression during the first 8-week treatment whereas only 2 of 12 patients (16.7 percent) in arm B were withdrawn from the study earlier. Patients had higher dropout rate (43.8 percent) in the arm A because of higher incidence of leucopenia, neutropenia, thrombocytopenia, and patients' refusal rate in regards to the adverse effects of interferon alpha.</p><p>Paraprotein response, indicating of at least a 25 percent decline in serum or urine level, was obtained in 6 of 12 patients (50.0 percent) whom were treated with arm B, and 3 of the 16 patients (18.8 percent) whom were treated with arm A. Patients in arm B seems to have higher paraprotein response rate (PPR) in our study. There were 2 paraprotein responders in level of 25, 50, and 75 percent reduction of serum M protein in arm B, while only 3 patients in arm A achieved PPR of 25 percent. Neither a PPR ≥90 percent nor complete remissions were observed in this study. Of those 6 patients who had response to thalidomide alone regimen, 4 had 200-400 mg of thalidomide per day and the other 2 patients had 600 and 800 mg per day, respectively. In patients who had response to arm A regimen, 2 patients had 600 mg and one had 400 mg of thalidomide per day combined with IFN-α during their treatment periods ( <ref type="table" target="#tab_1">Table 2)</ref>.</p><p>The median time to response were 42.0 days (95%CI, 38.8∼45.2) and 69.0 days (95%CI, 19.8∼118.2) in arm A and B, respectively. Median duration of response are 105.0 days (95%CI, 64.9∼145.01) in arm A and 357.0 days (95%CI, 312.7∼401.3) in arm B. Patients who received thalidomide alone seems to have longer response duration than thalidomide combined with IFN-α. The estimated EFS was 7.9 months (95%CI, 0.5-15.4) and 1.5 months (95%CI, 0.0-3.4) for patients receiving arm B and arm A, respectively (log-rank test, p = 0.0193). There was no statistically significant difference of overall survival between arm A and B ( <ref type="figure" target="#fig_1">Figure 2</ref>).   </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Adverse events</head><p>The major adverse events in both arms were neutropenia (56.3 versus 50.0 percent; arm A versus arm B), anemia (43.8 versus 33.3 percent), thrombocytopenia (37.5 versus 16.7 percent), constipation (68.8 versus 75.0 percent), somnolence (31.3 versus 25.0 percent) and skin rash (43.8 versus 33.3 percent). However, patients received arm A seems to have higher probability of Grade 3 or 4 hematological toxicities ( <ref type="table" target="#tab_2">Table 3)</ref>. Decrease of absolute neutrophil count was common in both arms. There was no Grade 1 neutropenia either in arm A or B patients. The incidence of Grade 2 neutropenia in both arm A and B was 25 percent. The median duration of Grade 2 neutropenia was 1 week in both arm A and B. The incidence of Grade 3 or 4 neutropenia was higher in arm A (31.3 versus 16.7 percent; arm A versus arm B), which frequently led to a dose reduction of treatment. The duration of Grade 3 or 4 neutropenia was 14 days (range, 7-21 days) and 14 days (range, 5-28 days) in arm A and B, respectively. Furthermore, higher prevalence in neurological toxicities also was observed in arm A. Mild to moderate degree of numbness was in 6 patients (37.5 percent), and mild to moderate dizziness was in 5 patients (31.3 percent). One 65-year-old female patient received thalidomide 200 mg/day combined with 3 MIU/m 2 of IFN-α developing WHO Grade 3 dizziness and Grade 4 bradycardia after 10 days treatment, therefore, she was withdrawn from the study. WHO Grade 1 to 2 malaise was reported in seven patients (43.8 percent), and grade 1 to 2 flu-like syndrome was in four patients of arm A (25.0%). Two patients had WHO Grade 1 and 2 blurred vision while they received 13 and 20 weeks of treatment, respectively, and stepped up the thalidomide dose to 600 mg/day combined with 3 MIU/m 2 of IFN-α per week.</p><p>As for the patients in arm B, the major adverse effects were neutropenia (50.0 percent), constipation (75.0 percent), and edema (50.0 percent, face or extremities). Most were tolerable after dose reductions or symptomatic treatment, except one patient with severe fluid retention on his face and extremities and skin rashes all over the trunk after his initial 12 days of treatment and was withdrawn from the study. In 5 patients who had experienced mild to moderate edema in arm B, the average treatment-duration was 61.8 weeks (95%CI, 39.7-83.9). Comparing to an average of 30.3 weeks (95%CI, 10.8-49.8) for the other 6 patients who did not have edema during the study, it suggested that the longer duration of thalidomide used, the higher incidence of edema developed.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>DISCUSSION</head><p>Although the mechanism of thalidomide in the treatment of multiple myeloma is not totally clear. It is estimated that thalidomide is active in 25-35 percent of patients with relapsed disease <ref type="bibr" target="#b15">(15)</ref>. The interest in combining thalidomide with interferon in the treatment of MM was evoked since the therapeutic effect of thalidomide alone was still inadequate for the treatment of relapsed/refractory patients (8-10).</p><p>Our study was trying to address the role of thalidomide plus IFN-α in the treatment of relapsed/refractory MM patients. The results showed that the combination of IFN-α3MIU 3 times weekly with thalidomide ranged from 200 mg to 800 mg did not increase the response rate in paraprotein level but decrease patient's EFS duration. The combined regimen also increased the incidence of Grade 3 or 4 hematological toxicities, and other noticeable adverse events, that is, neurological toxicities, numbness of extremities (37.5 versus 16.7 percent), malaise (43.8 versus 8.3 percent), and dizziness (37.5 versus 8.3 percent). Similar findings also were reported in the study of Kasper et al. <ref type="bibr" target="#b15">(15)</ref>. For patients receiving thalidomide combining with IFN-α to treat their malignancy, it is hard to escape from this kind of toxicities. Nathan et al. <ref type="bibr" target="#b16">(16)</ref> had used thalidomide and IFN-α to treat advanced renal cell carcinoma (RCC) and closed prematurely because of excessive neurological toxicities. The higher dosage of IFN-α(9 MIU 3 times weekly) administered to patients might be responsible for the excessive toxicities in their study <ref type="bibr" target="#b16">(16)</ref>. In order to decrease the treatment-related toxicities, it was highly recommended to decrease the dose of IFN-α in combining with thalidomide <ref type="bibr" target="#b16">(16)</ref>. Clark et al. <ref type="bibr" target="#b17">(17)</ref> conducted their Phase II trial of combination IFN-α and thalidomide as front-line therapy in metastatic renal cell carcinoma and did not show promising response rate but one third of patients experienced toxicity and required to discontinue the use of thalidomide. We also experienced higher incidence of Grade 3 or 4 neutropenia and required to discontinue their treatment in 3 patients (case no. 03, 05, 21) in the combined arm.</p><p>Kasper et al. <ref type="bibr" target="#b15">(15)</ref> had reported their results in the use of thalidomide and peginterferon to treat patients with progressive multiple myeloma and demonstrated 8.23 months of PFS in their 14-months study. Although, their response rate was higher than ours (&gt;25 percent M protein response 40.0 versus 18.8 percent), it was not superior to our or other study in the use of thalidomide alone <ref type="bibr" target="#b7">(8)</ref><ref type="bibr" target="#b9">(9)</ref><ref type="bibr" target="#b10">(10)</ref><ref type="bibr" target="#b15">15)</ref>  <ref type="table" target="#tab_3">(Table 4</ref>). Whether the longer PFS duration in the use of thalidomide and peginterferon than ours (8.23 versus 1.5 months) related to the novel form of interferon (peginterferon) and a different dosing schedule of thalidomide is still unclear. In their study, the used thalidomide dose was 100-400 mg per day in combination with peginterferon, starting from 20 µg and escalating to 50 µg per week. However, 7 patients had to stop the therapy of peginterferon between 3 and 9 months after treatment because of the side effects <ref type="bibr" target="#b15">(15)</ref>. The overall withdrawal rate in patients treating with IFN-α was from 10 to 20.3 percent <ref type="bibr" target="#b18">(18)</ref><ref type="bibr" target="#b19">(19)</ref><ref type="bibr" target="#b20">(20)</ref>. The commonly adverse event of IFN-α was mild flu-like illness and resulted in the withdrawal from IFN-α therapy in some studies <ref type="bibr" target="#b5">(6,</ref><ref type="bibr" target="#b6">7)</ref>. In our study, four patients refused to continue the treatment in arm A due to the adverse effects of interferon. The overall withdrawal rate to arm A was 25.0 percent, which was comparable to the results of others <ref type="bibr" target="#b18">(18)</ref><ref type="bibr" target="#b19">(19)</ref><ref type="bibr" target="#b20">(20)</ref>. Concerning the overall tolerability in patients treating with arm A and B, it shows that the mean duration of treatment (236 versus 101 days, p = 0.029) and the total used dose of thalidomide (116.10 versus 40.36 g, p = 0.030) are significantly higher in the arm B. It might explain that why the relapsed/refractory myeloma patients receiving combined regimen got an inferior result than thalidomide alone.</p><p>To our knowledge, our study is the first report intended to compare the therapeutic effect of thalidomide alone to thalidomide combined with IFN-α in a randomized multicenter Phase II study in relapsed/refractory MM. Although, the previous studies had proposed the potential synergistic anti-myeloma effects of thalidomide and IFN-α, the addition of IFN-α to thalidomide did not result in an improved outcome in our study. There were 2 paraprotein responders in each levels of 25, 50, and 75 percent reduction of serum M protein in arm B (total 6 responders), while only 3 patients in arm A achieved PPR &gt;25 percent. None of any patients in arm A has a PPR more than 50 percent. The higher incidence of severe hematological toxicities also led to a reduction of dose or discontinuation of the treatment. Our study was early terminated by the time the preliminary result was disclosed. The higher incidence of adverse effects in the arm A accompanied with a shorter treatment-duration should be attributed to the inferior outcome in this study.</p><p>In summary, our study showed the inferior result of combining thalidomide and interferon might be attributed to the adverse effects of interferon. Whether the combination of interferon and thalidomide are useful in myeloma patients still needs to be challenged.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>Figure 1 .</head><label>1</label><figDesc>Flow diagram of the progress through the randomized Phase II trial of thalidomide alone versus thalidomide plus interferon alpha in patients with refractory multiple myeloma.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head>Figure 2 .</head><label>2</label><figDesc>The Kaplan-Meier estimates of survivial status in patients receiving either arm A or B treatment. a) The median event-free survival in arm A (n = 16) and arm B (n = 12) were 45 days (95%CI, 0-101) and 240 days (95%CI, 29-450), respectively. (P value by the log rank test = 0.0193); b) Estimated median overall survival in arm A (n = 16) and arm B (n = 12) were 463 days (95%CI, 0-1111) and 601 days (95%CI, 36-1165), respectively. No significant difference between A and B arms ( p = 0.9025).</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>Table 1 .</head><label>1</label><figDesc>Patients' characteristics</figDesc><table><row><cell>Characteristics</cell><cell>All patients (n = 28)</cell><cell>Arm A (n = 16)</cell><cell>Arm B (n = 12)</cell><cell>P value (two-tailed)</cell></row><row><cell>Sex (M/F)</cell><cell>24/4</cell><cell>13/3</cell><cell>11/1</cell><cell>0.608</cell></row><row><cell>Age (years)</cell><cell>63.04 ± 8.4</cell><cell>63.56 ± 7.5</cell><cell>62.33 ± 9.8</cell><cell>0.708</cell></row><row><cell>Immunophenotype</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>IgG</cell><cell>19</cell><cell>10</cell><cell>9</cell><cell>0.491</cell></row><row><cell>IgA</cell><cell>9</cell><cell>6</cell><cell>3</cell><cell></cell></row><row><cell>Baseline M protein level (mg/dL)</cell><cell>4325.0</cell><cell>4528.7</cell><cell>4053.3</cell><cell>0.647</cell></row><row><cell>Previous treatment</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>MP</cell><cell>22</cell><cell>12</cell><cell>10</cell><cell></cell></row><row><cell>VAD</cell><cell>9</cell><cell>7</cell><cell>2</cell><cell></cell></row><row><cell>Other C/T</cell><cell>6</cell><cell>1</cell><cell>5</cell><cell></cell></row><row><cell>PBSCT</cell><cell>3</cell><cell>1</cell><cell>2</cell><cell></cell></row><row><cell>RT</cell><cell>10</cell><cell>7</cell><cell>3</cell><cell></cell></row><row><cell>Treatment duration</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Mean (days)</cell><cell>159</cell><cell>101</cell><cell>236</cell><cell>0.029</cell></row><row><cell>95%CI</cell><cell>(98, 220)</cell><cell>(52, 150)</cell><cell>(120, 353)</cell><cell></cell></row><row><cell>Total Thalidomide used dose</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Mean (g)</cell><cell>72.82</cell><cell>40.36</cell><cell>116.10</cell><cell>0.030</cell></row><row><cell>95%CI</cell><cell>(38.4, 107.3)</cell><cell>(13.5, 67.3)</cell><cell>(50.2, 182.0)</cell><cell></cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row></table><note>* MP: melphalan, prednisolone; VAD: vincristine, doxorubicin, and dexamethasone; C/T: chemotherapy; PBSCT: peripheral blood stem cell transplantation; R/T: radiation therapy; CI: confidence interval</note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_1"><head>Table 2 .</head><label>2</label><figDesc>Response to treatment</figDesc><table><row><cell></cell><cell>Arm A (n = 16)</cell><cell>Arm B (n = 12)</cell></row><row><cell>Paraprotein Response  *</cell><cell>Patients (%)</cell><cell>Patients (%)</cell></row><row><cell>≥90% to complete remission</cell><cell>0 (0)</cell><cell>0 (0)</cell></row><row><cell>≥75% decrease</cell><cell>0 (0)</cell><cell>2 (16.7)</cell></row><row><cell>≥50% decrease</cell><cell>0 (0)</cell><cell>2 (16.7)</cell></row><row><cell>≥25% decrease</cell><cell>3 (18.8)</cell><cell>2 (16.7)</cell></row><row><cell>Total</cell><cell>3 (18.8)</cell><cell>6 (50.0)</cell></row><row><cell>No response</cell><cell>6 (37.5)</cell><cell>4 (33.3)</cell></row><row><cell>Not evaluable</cell><cell>7 (43.8)</cell><cell>2 (16.7)</cell></row></table><note>chi-square test, P-value = 0.139* Decline in the paraprotein levels of at least 25, 50, 75, or 90 on 2 occasions at least 4 weeks apart.</note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_2"><head>Table 3 .</head><label>3</label><figDesc>Number and percentage of patients with adverse effects</figDesc><table><row><cell></cell><cell></cell><cell cols="2">Arm A</cell><cell></cell><cell></cell><cell cols="2">Arm B</cell></row><row><cell></cell><cell></cell><cell cols="3">Total patients = 16</cell><cell></cell><cell cols="2">Total patients = 12</cell></row><row><cell></cell><cell cols="2">≥Grade 3</cell><cell></cell><cell>Total</cell><cell cols="2">≥Grade 3</cell><cell>Total</cell></row><row><cell>Event</cell><cell cols="2">No. %</cell><cell cols="2">No. %</cell><cell cols="2">No. %</cell><cell>No. %</cell></row><row><cell>Leucopenia</cell><cell>1</cell><cell cols="2">6.3 10</cell><cell cols="2">62.5 1</cell><cell cols="2">8.3 3</cell><cell>25.0</cell></row><row><cell>Neutropenia</cell><cell>5</cell><cell>31.3</cell><cell>9</cell><cell cols="2">56.3 2</cell><cell cols="2">16.7 6</cell><cell>50.0</cell></row><row><cell>Anemia</cell><cell>3</cell><cell>18.8</cell><cell>7</cell><cell cols="2">43.8 2</cell><cell cols="2">16.7 4</cell><cell>33.3</cell></row><row><cell cols="2">Thrombocytopenia 3</cell><cell>18.8</cell><cell>6</cell><cell cols="2">37.5 0</cell><cell cols="2">0.0 2</cell><cell>16.7</cell></row><row><cell>Infection</cell><cell>2</cell><cell>12.5</cell><cell>3</cell><cell cols="2">18.8 0</cell><cell cols="2">0.0 0</cell><cell>0.0</cell></row><row><cell>Constipation</cell><cell>1</cell><cell cols="2">6.3 11</cell><cell cols="2">68.8 0</cell><cell cols="2">0.0 9</cell><cell>75.0</cell></row><row><cell>Somnolence</cell><cell>1</cell><cell>6.3</cell><cell>5</cell><cell cols="2">31.3 0</cell><cell cols="2">0.0 3</cell><cell>25.0</cell></row><row><cell>Numbness</cell><cell>0</cell><cell>0.0</cell><cell>6</cell><cell cols="2">37.5 0</cell><cell cols="2">0.0 2</cell><cell>16.7</cell></row><row><cell>Malaise</cell><cell>0</cell><cell>0.0</cell><cell>7</cell><cell cols="2">43.8 0</cell><cell cols="2">0.0 1</cell><cell>8.3</cell></row><row><cell>Dizziness</cell><cell>1</cell><cell>6.3</cell><cell>6</cell><cell cols="2">37.5 0</cell><cell cols="2">0.0 1</cell><cell>8.3</cell></row><row><cell>Weakness/fatigue</cell><cell>0</cell><cell>0.0</cell><cell>2</cell><cell cols="2">12.5 0</cell><cell cols="2">0.0 3</cell><cell>25.0</cell></row><row><cell>Rash</cell><cell>1</cell><cell>6.3</cell><cell>7</cell><cell cols="2">43.8 1</cell><cell cols="2">8.3 4</cell><cell>33.3</cell></row><row><cell>Nausea/vomiting</cell><cell>0</cell><cell>0.0</cell><cell>5</cell><cell cols="2">31.3 1</cell><cell cols="2">8.3 3</cell><cell>25.0</cell></row><row><cell>Renal function</cell><cell>0</cell><cell>0.0</cell><cell>3</cell><cell cols="2">18.8 2</cell><cell cols="2">16.7 3</cell><cell>25.0</cell></row><row><cell>Edema</cell><cell>0</cell><cell>0.0</cell><cell>2</cell><cell cols="2">12.5 1</cell><cell cols="2">8.3 6</cell><cell>50.0</cell></row><row><cell>Flu-like syndrome</cell><cell>0</cell><cell>0.0</cell><cell>4</cell><cell cols="2">25.0 0</cell><cell cols="2">0.0 0</cell><cell>0.0</cell></row><row><cell>Fever</cell><cell>0</cell><cell>0.0</cell><cell>3</cell><cell cols="2">18.8 0</cell><cell cols="2">0.0 0</cell><cell>0.0</cell></row></table><note></note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_3"><head>Table 4 .</head><label>4</label><figDesc>Comparing the results of our study to others in the use of combination therapy of thalidomide and interferon to treat multiple myeloma</figDesc><table><row><cell>Authors (years)</cell><cell>Disease status</cell><cell>Patients no.</cell><cell>Treatment (Dose)</cell><cell>Outcome  *</cell></row><row><cell>Kasper et al. (2004) 15</cell><cell>Heavily pretreated</cell><cell>15</cell><cell>Thalidomide(100-400mg/d)) +</cell><cell>MR = 33.3%</cell></row><row><cell></cell><cell></cell><cell></cell><cell>Peginterferon (20 ug/wk-50 ug/wk)</cell><cell>PR = 5.7%</cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell>14-m PFS = 8.23 m</cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell>Mouth dryness 69%</cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell>Fatigue/weakness 54%</cell></row><row><cell>Current study</cell><cell>Relapsed/failed to</cell><cell>28 (arm A vs. arm</cell><cell>Thalidomide (200-800 mg/d)+</cell><cell>MR: A vs. B = 18.8% vs. 16.7%</cell></row><row><cell></cell><cell>first-line C/T</cell><cell>B = 16 vs. 12)</cell><cell>IFN-α(3 MIU/m 2 /tiw) (A) vs.</cell><cell>PR: A vs. B = 0% vs. 33.4%</cell></row><row><cell></cell><cell></cell><cell></cell><cell>Thalidomide (200-800 mg/d) (B)</cell><cell>EFS: A vs. B = 1.5 m vs. 7.9 m</cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell>≥Gr.3 neutropenia: A vs. B = 31.3%</cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell>vs. 16.7%</cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell>Weakness/fatigue: A vs. B = 13.5%</cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell>vs. 25.0%</cell></row><row><cell cols="5">*  MR: minor response; PR: partial response; PFS: progression-free survival; EFS: event-free survival; Gr 3: Grade 3</cell></row></table><note></note></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot">Thalidomide vs. Thalidomide Plus Interferon-α in Refractory Multiple Myeloma</note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot">T.-J. Chiou et al.</note>
+		</body>
+		<back>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Treatment of myeloma: recent developments</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Zweegman</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><forename type="middle">C</forename><surname>Huijgens</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Anticancer Drugs</title>
+		<imprint>
+			<biblScope unit="volume">13</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="339" to="351" />
+			<date type="published" when="2002" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">A randomized clinical trial comparing melphalan/prednisolone with or without interferon alfa-2b in newly diagnosed patients with multiple myeloma: a Cancer and Leukemia Group B study</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">R</forename><surname>Cooper</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><surname>Dear</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><surname>Mcintyre</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><surname>Ozer</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Ellerton</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Clin. Oncol</title>
+		<imprint>
+			<biblScope unit="volume">11</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="155" to="160" />
+			<date type="published" when="1993" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Natural interferon-alpha in combination with melphalan/prednisolone versus melphalan/prednisolone in the treatment of multiple myeloma stages II and III: a randomized study from the Myeloma Group of Central Sweden</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Osterborg</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Bjorkholm</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Bjoreman</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">G</forename><surname>Brenning</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><surname>Carlson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Blood</title>
+		<imprint>
+			<biblScope unit="volume">81</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page" from="1428" to="1434" />
+			<date type="published" when="1993" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Interferon-alpha for induction and maintenance in multiple myeloma: results of two multicentre randomized trials and summary of other studies</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><surname>Ludwig</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><forename type="middle">M</forename><surname>Cohen</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Polliack</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><surname>Huber</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><surname>Nachbaur</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ann. Oncol</title>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page" from="467" to="476" />
+			<date type="published" when="1995" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Combination chemotherapy, glucocorticoids, and Interferon alfa in the treatment of multiple myeloma: a Southwest Oncology Group study</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><forename type="middle">E</forename><surname>Salmon</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">J</forename><surname>Crowley</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><forename type="middle">M</forename><surname>Grogan</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><surname>Finley</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><forename type="middle">P</forename><surname>Pugh</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">B</forename><surname>Barlogie</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Clin. Oncol</title>
+		<imprint>
+			<biblScope unit="volume">12</biblScope>
+			<biblScope unit="issue">11</biblScope>
+			<biblScope unit="page" from="2405" to="2414" />
+			<date type="published" when="1994" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Interferon alpha in the therapy of multiple myleoma</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><surname>Gisslinger</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Leukemia</title>
+		<imprint>
+			<biblScope unit="volume">11</biblScope>
+			<biblScope unit="page" from="52" to="56" />
+			<date type="published" when="1997" />
+		</imprint>
+	</monogr>
+	<note>Suppl. 5</note>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Maintenance therapy with alpha-interferon following first-line VAD in multiple myeloma</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Kars</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">I</forename><surname>Celik</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><surname>Kansu</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">G</forename><surname>Tekuzman</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Y</forename><surname>Ozisik</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Eur. J. Haematol</title>
+		<imprint>
+			<biblScope unit="volume">59</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="100" to="104" />
+			<date type="published" when="1997" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<monogr>
+		<title/>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Singhal</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Mehta</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><surname>Desikan</surname></persName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Antitumor activity of thalidomide in refractory multiple myeloma</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><surname>Ayers</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><surname>Roberson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">N. Engl. J. Med</title>
+		<imprint>
+			<biblScope unit="volume">341</biblScope>
+			<biblScope unit="issue">21</biblScope>
+			<biblScope unit="page" from="1565" to="1571" />
+			<date type="published" when="1999" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Low-dose thalidomide seems to be effective in multiple myeloma</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Larkin</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Lancet</title>
+		<imprint>
+			<biblScope unit="volume">354</biblScope>
+			<biblScope unit="issue">9182</biblScope>
+			<biblScope unit="page">925</biblScope>
+			<date type="published" when="1999" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Thalidomode treatment in multiple myeloma</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><surname>Strasser</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><surname>Ludwig</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Blood Rev</title>
+		<imprint>
+			<biblScope unit="volume">16</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="207" to="215" />
+			<date type="published" when="2002" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Thalidomide in multiple myeloma</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><forename type="middle">V</forename><surname>Rajkumar</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Oncology</title>
+		<imprint>
+			<biblScope unit="issue">13</biblScope>
+			<biblScope unit="page" from="11" to="16" />
+			<date type="published" when="2000" />
+		</imprint>
+	</monogr>
+	<note>Suppl. 13</note>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">IFN-alpha2b and thalidomide synergistically inhibit tumor-induced angiogenesis</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">A</forename><surname>Bauer</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">B</forename><forename type="middle">H</forename><surname>Morrison</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><forename type="middle">W</forename><surname>Grane</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">B</forename><forename type="middle">S</forename><surname>Jacobs</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><forename type="middle">C</forename><surname>Borden</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><forename type="middle">J</forename><surname>Lindner</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Interferon Cytokine Res</title>
+		<imprint>
+			<biblScope unit="volume">23</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="3" to="10" />
+			<date type="published" when="2003" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">The CONSORT Statement: Revised recommendations for improving the quality of reports of parallel-group randomized trials</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><surname>Moher</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><forename type="middle">F</forename><surname>Schulz</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><forename type="middle">G</forename><surname>Altman</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Group</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ann. Intern. Med</title>
+		<imprint>
+			<biblScope unit="volume">134</biblScope>
+			<biblScope unit="issue">8</biblScope>
+			<biblScope unit="page" from="657" to="662" />
+			<date type="published" when="2001" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">The revised CONSRT Statement for reporting randomized trials: explanation and elaboration</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><forename type="middle">G</forename><surname>Altman</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><forename type="middle">F</forename><surname>Schulz</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><surname>Moher</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Egger</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">F</forename><surname>Davidoff</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><surname>Elbourne</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><forename type="middle">C</forename><surname>Gotzsche</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Lang</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Group</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ann. Intern. Med</title>
+		<imprint>
+			<biblScope unit="volume">134</biblScope>
+			<biblScope unit="issue">8</biblScope>
+			<biblScope unit="page" from="663" to="694" />
+			<date type="published" when="2001" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Combination therapy of Thalidomide and Peginterferon in patients with progressive multiple myeloma</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">B</forename><surname>Kasper</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Moehler</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><surname>Neben</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><forename type="middle">D</forename><surname>Ho</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><surname>Goldschmidt</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ann. Oncol</title>
+		<imprint>
+			<biblScope unit="volume">15</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="176" to="177" />
+			<date type="published" when="2004" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Unexpected toxicity of combination thalidomide and interferon alpha-2a treatment in metastatic renal cell carcinoma</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><forename type="middle">D</forename><surname>Nathan</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">E</forename><surname>Gore</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><forename type="middle">G</forename><surname>Eisen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Clin. Oncol</title>
+		<imprint>
+			<biblScope unit="volume">20</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page" from="1429" to="1430" />
+			<date type="published" when="2002" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Phase II trial of combination interferon-alpha and thalidomide as first-line therapy in metastatic renal cell carcinoma</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><forename type="middle">E</forename><surname>Clark</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">C</forename><surname>Hall</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Miller</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><forename type="middle">P</forename><surname>Ridenhour</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><surname>Stindt</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">F</forename><surname>Lovato</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Urology</title>
+		<imprint>
+			<biblScope unit="volume">63</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page" from="1061" to="1065" />
+			<date type="published" when="2004" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">Maintenance treatment with recombinant interferon alfa-2b in patients with multiple myeloma responding to conventional induction chemotherapy</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">F</forename><surname>Mandelli</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">G</forename><surname>Avvisati</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Amadori</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Boccadoro</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Gernone</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">N. Engl. J. Med</title>
+		<imprint>
+			<biblScope unit="volume">322</biblScope>
+			<biblScope unit="issue">20</biblScope>
+			<biblScope unit="page" from="1430" to="1434" />
+			<date type="published" when="1990" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">Interferon alfa-2b versus no maintenance therapy during the plateau phase in multiple myeloma: a randomized study. Cooperative Study Group</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Westin</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Rodjer</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">I</forename><surname>Turesson</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Cortelezzi</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Hjorth</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">G</forename><surname>Zador</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Br. J. Haematol</title>
+		<imprint>
+			<biblScope unit="volume">89</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="561" to="568" />
+			<date type="published" when="1995" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">MRC trial of alfa-2b-interferon maintenance therapy in first plateau phase of multiple myeloma</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">T</forename><surname>Drayson</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><forename type="middle">E</forename><surname>Chapman</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">A</forename><surname>Dunn</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><forename type="middle">B</forename><surname>Olujohungbe</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">I</forename><forename type="middle">C</forename><surname>Maclennan</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Br. J. Haematol</title>
+		<imprint>
+			<biblScope unit="volume">101</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="195" to="202" />
+			<date type="published" when="1998" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

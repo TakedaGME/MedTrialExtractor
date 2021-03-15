@@ -1,0 +1,846 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /data/rsg/nlp/juanmoo1/bin/grobid-0.6.1/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Leukemia &amp; Lymphoma</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+				<date type="published" when="2009-07-01">01 Jul 2009.</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author role="corresp">
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><roleName>MD</roleName><forename type="first">Asher</forename><forename type="middle">A</forename><surname>Chanan-Khan</surname></persName>
+							<email>asher.chanan-khan@roswellpark.org</email>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Medicine</orgName>
+								<orgName type="institution">Roswell Park Cancer Institute</orgName>
+								<address>
+									<settlement>Buffalo</settlement>
+									<region>NY</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Ruben</forename><surname>Niesvizky</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="department">Department of Hematology/Oncology</orgName>
+								<orgName type="institution">New York Presbyterian Hospital</orgName>
+								<address>
+									<region>NY</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Raymond</forename><forename type="middle">J</forename><surname>Hohl</surname></persName>
+							<affiliation key="aff2">
+								<orgName type="department">Department of Internal Medicine</orgName>
+								<orgName type="institution">University of Iowa</orgName>
+								<address>
+									<settlement>Iowa City</settlement>
+									<region>IA</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Todd</forename><forename type="middle">M</forename><surname>Zimmerman</surname></persName>
+							<affiliation key="aff3">
+								<orgName type="department">Department of Medical Oncology</orgName>
+								<orgName type="institution">University of Chicago</orgName>
+								<address>
+									<settlement>Chicago</settlement>
+									<region>IL</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Neal</forename><forename type="middle">P</forename><surname>Christiansen</surname></persName>
+							<affiliation key="aff4">
+								<orgName type="department">Department of Medical Oncology</orgName>
+								<orgName type="institution">South Carolina Oncology Associates</orgName>
+								<address>
+									<settlement>Columbia</settlement>
+									<region>SC</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Gary</forename><forename type="middle">J</forename><surname>Schiller</surname></persName>
+							<affiliation key="aff5">
+								<orgName type="department">Department of Medicine</orgName>
+								<orgName type="institution">UCLA School of Medicine</orgName>
+								<address>
+									<settlement>Los Angeles</settlement>
+									<region>CA</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Natalie</forename><surname>Callander</surname></persName>
+							<affiliation key="aff6">
+								<orgName type="department">Department of Hematology</orgName>
+								<orgName type="institution">University of Wisconsin</orgName>
+								<address>
+									<settlement>Madison</settlement>
+									<region>WI</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">John</forename><surname>Lister</surname></persName>
+							<affiliation key="aff7">
+								<orgName type="institution">Western Pennsylvania Hospital</orgName>
+								<address>
+									<settlement>Pittsburgh</settlement>
+									<region>PA</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Martin</forename><surname>Oken</surname></persName>
+							<affiliation key="aff8">
+								<orgName type="institution">Virgina Piper Cancer Institute</orgName>
+								<address>
+									<settlement>Minneapolis</settlement>
+									<region>MN</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Sundar</forename><surname>Jagannath</surname></persName>
+						</author>
+						<author>
+							<affiliation key="aff9">
+								<orgName type="department">10 St. Vincent Catholic Medical Centre</orgName>
+								<address>
+									<region>NY</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff10">
+								<orgName type="department">Department of Medicine, Roswell Park Cancer Institute, Elm and Carlton Streets</orgName>
+								<address>
+									<postCode>14263</postCode>
+									<settlement>Buffalo</settlement>
+									<region>NY</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff11">
+								<orgName type="department">46th Annual Meeting</orgName>
+								<address>
+									<addrLine>American Society of Hematology; 4-7 December 2004; San Diego</addrLine>
+									<region>California</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff12">
+								<orgName type="institution">Informa Healthcare</orgName>
+								<address>
+									<country>USA, Inc</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Leukemia &amp; Lymphoma</title>
+					</analytic>
+					<monogr>
+						<idno type="ISSN">1042-8194 (Print) 1029-2403</idno>
+						<imprint>
+							<date type="published" when="2009-07-01">01 Jul 2009.</date>
+						</imprint>
+					</monogr>
+					<idno type="DOI">10.1080/10428190902748971</idno>
+					<note type="submission">Received 7 November 2008; revised 6 January 2009; accepted 13 January 2009</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.6.1" ident="GROBID" when="2021-01-01T18:48+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>Multiple myeloma</term>
+					<term>Bcl-2 antisense</term>
+					<term>G3139</term>
+					<term>Genasense 1</term>
+					<term>oblimersen</term>
+				</keywords>
+			</textClass>
+			<abstract>
+				<p>Upregulation of the Bcl-2 antiapoptotic protein is reported to be associated with aggressive clinical course in multiple myeloma. Oblimersen sodium is a bcl-2 antisense oligonucleotide complementary to the first six codons of the open-reading frame of bcl-2 mRNA that can decrease transcription of Bcl-2 protein and increase myeloma cell susceptibility to cytotoxic agents. In this phase III randomised trial, we investigated in patients with relapsed/refractory myeloma whether addition of oblimersen to dexamethasone improved clinical outcomes vs. dexamethasone alone. Two hundred and twenty-four patients were randomised to receive either oblimersen/dexamethasone (N ¼ 110) or dexamethasone alone (N ¼ 114). The primary endpoint was time to tumor progression (TTP). Final results of this study demonstrated no significant differences between the two groups in TTP or objective response rate. The oblimersen/dexamethasone regimen was generally well tolerated with fatigue, fever and nausea, the most common adverse events reported.</p>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Introduction</head><p>Dexamethasone is an important therapeutic agent for patients with multiple myeloma. Despite high initial response rates, complete responses are few and eventually all patients develop resistance, resulting in a compromised median survival of 2-3 years <ref type="bibr" target="#b0">[1]</ref>. Bcl-2, an anti-apoptotic member of the Bcl-2 family of proteins that regulate mitochondria-mediated apoptosis, has been shown to be a key factor in chemotherapy resistance. It is over-expressed in many cancers <ref type="bibr" target="#b1">[2,</ref><ref type="bibr" target="#b2">3]</ref>, including multiple myeloma <ref type="bibr" target="#b3">[4]</ref>.</p><p>This over-expression shifts the balance of pro-apoptotic and anti-apoptotic proteins in favour of the latter, thereby preventing apoptosis induced by a wide variety of cell death stimuli, including chemotherapeutic agents, antitumor antibodies and radiation <ref type="bibr" target="#b4">[5,</ref><ref type="bibr" target="#b5">6]</ref>.</p><p>Evidence for the role of Bcl-2 in the development of resistance to chemotherapy in multiple myeloma has been found in a variety of studies. Several groups have shown that over-expression of Bcl-2 in multiple myeloma cells confers resistance to dexamethasone <ref type="bibr" target="#b6">[7]</ref><ref type="bibr" target="#b7">[8]</ref><ref type="bibr" target="#b8">[9]</ref><ref type="bibr" target="#b9">[10]</ref><ref type="bibr" target="#b10">[11]</ref> and paclitaxel <ref type="bibr" target="#b11">[12]</ref>. However, Bcl-2 over-expression does not result in resistance to melphalan or gemcitabine, drugs which induce apoptosis through a separate pathway <ref type="bibr" target="#b8">[9,</ref><ref type="bibr" target="#b11">12]</ref>.</p><p>Theoretically, any agent that interferes with Bcl-2 expression can increase chemotherapy sensitivity and/or reverse resistance to therapy, enhancing the ability of cytotoxic drugs such as dexamethasone to cause cell death <ref type="bibr" target="#b4">[5]</ref>. One means of inhibiting Bcl-2 is through the use of antisense therapy to downregulate bcl-2 mRNA, thereby decreasing levels of Bcl-2 protein. Oblimersen sodium is a bcl-2 antisense oligonucleotide that is complementary to the first six codons of the open-reading frame of bcl-2 mRNA. It forms an aberrant heteroduplex with bcl-2 mRNA that is detected and cleaved by RNAse-H, resulting in the degradation of bcl-2 mRNA and decreased translation of the Bcl-2 protein <ref type="bibr" target="#b5">[6,</ref><ref type="bibr" target="#b12">13]</ref>. Preclinically in myeloma cells, oblimersen is reported to decrease bcl-2 mRNA levels and significantly enhance susceptibility to dexamethasone-and doxorubicin-induced apoptosis <ref type="bibr" target="#b13">[14]</ref>.</p><p>The preclinical evidence that Bcl-2 overexpression in myeloma cells confers resistance to dexamethasone and that oblimersen can downregulate Bcl-2 protein levels and enhance susceptibility to dexamethasone prompted us to investigate oblimersen in multiple myeloma. The clinical trial reported here was undertaken to determine the role of oblimersen in combination with dexamethasone for the treatment of patients with relapsed or refractory multiple myeloma.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Patients and methods</head><p>This was a Phase III, multicentre, randomised, openlabel, parallel-group study designed to evaluate whether the addition of oblimersen sodium to dexamethasone improved clinical outcomes over that of dexamethasone alone in patients with relapsed/refractory multiple myeloma.</p><p>The primary objective was to compare time to tumor progression (TTP) in the two groups. Key secondary objectives included a comparison of the treatment groups with respect to objective response rate, duration of response among responding patients and survival.</p><p>The study was conducted in accordance with applicable requirements regarding ethical review and informed consent, including those in the Declaration of Helsinki.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Key inclusion/exclusion criteria</head><p>Patients enrolled with multiple myeloma were to have relapsed after achieving at least a partial response to prior therapy or were to have refractory disease (i.e. primary resistance/progressive disease after achieving less than a partial response following treatment with two cycles of chemotherapy [including at least one myelosuppressive drug]) within the 3 months prior to randomisation or progressive disease after high-dose chemotherapy and autologous stem cell transplantation. Patients also had to have measurable disease as determined by serum M protein level 41.0 g/dL (measured by serum protein electrophoresis) or urine M protein excretion 4200 mg in 24 h.</p><p>Other requirements included bone marrow plasmacytosis with 45% total nucleated cells; prothrombin time (PT) 51.5 times the upper limit of normal (6ULN) and partial thromboplastin time 51.5 6ULN; creatinine 1.5 mg/dL; absolute neutrophil count 41000/mL; platelets 50 000/mL; and ECOG performance status 0-3. Patients were excluded if they had 46 prior treatment regimens, a previous allogeneic stem cell transplant or a history of renal dialysis or other significant medical disease.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Stratification and randomisation</head><p>Eligible patients were stratified according to three parameters: relapse after response vs. primary resistance to treatment; prior vs. no prior autologous stem cell transplantation and one to two prior treatment regimens vs. three to six prior treatment regimens. Following stratification, they were centrally randomised via an interactive voice response system in a 1:1 ratio to treatment with oblimersen plus dexamethasone or dexamethasone alone.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Treatment protocol</head><p>Treatment was administered in two phases: the induction period (cycle 1) and the retreatment period (cycles subsequent to cycle 1). Cycle 1: during the 28-day induction period, patients in the oblimersen/ dexamethasone group received oblimersen 7 mg/kg/ day by continuous intravenous infusion for 7 consecutive days (days 1-7) during each of weeks 1 and 3 and dexamethasone 40 mg orally on days 4, 5, 6 and 7 during each of weeks 1, 2 and 3. Patients in the dexamethasone only group received dexamethasone 40 mg orally on days 1, 2, 3 and 4 during each of weeks 1, 2 and 3. No treatment was given during week 4 to patients in either group. Cycles subsequent to cycle 1: patients in the combination arm received oblimersen 7 mg/kg/day by continuous infusion for seven consecutive days (days 1-7) and dexamethasone 40 mg orally on days 4, 5, 6 and 7 during week 1. Patients in the dexamethasone only group received dexamethasone 40 mg orally on days 1, 2, 3 and 4 during week 1. No treatment was given during weeks 2 and 3 to patients in either group. Retreatment cycles were repeated every 3 weeks for a maximum of 1 year in patients who had stable or responsive disease and who tolerated therapy. Prophylaxis: All patients received concomitant prophylactic treatment with antibiotics, histamine-receptor antagonists and pamidronate or zoledronic acid.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Efficacy and safety evaluations and endpoints</head><p>Efficacy and safety evaluations were performed on day 15 and at the end of the induction period (i.e. week 4), 7 days before each retreatment cycle, and within 4 weeks after withdrawal from the study. Patients were followed every 2 months for up to 2 years from the date of last dose of study medication.</p><p>The primary endpoint of this study was TTP, which was calculated from the date of randomisation to the date of progression and was determined based on blinded clinical expert review by S. Jagannath (St. Vincent's Comprehensive Cancer Centre, New York, NY) and M Oken (Hubert H. Humphrey Cancer Centre, Robbinsdale, MN). Progression was defined as the first of the following events to occur prior to initiation of non-study myeloma therapy: objective documentation of progressive disease, death within 60 days of the last evaluation of objective response status or death within 60 days of the last dose if there was no evaluation of objective response status.</p><p>Key secondary endpoints included objective response rate (i.e. complete response, response [75% improvement] or partial response as assessed by the investigator according to criteria adapted from SWOG <ref type="bibr" target="#b14">[15]</ref>) and overall survival.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Statistical methods</head><p>A sample of 200 patients (100 per treatment arm) was required to provide an 80% power to detect a significant difference between treatment groups with respect to TTP. This sample size was based on the following assumptions: distributions of TTP for the two treatment groups would be compared using the log-rank test with a two-sided significance level of 0.05; median TTP would be 4 months for patients who received dexamethasone alone and 6.33 months for patients who received oblimersen plus dexamethasone; equal numbers of patients would be assigned to each treatment arm and would be accrued over 12 months (approximately 18 per month) with a 6-month follow-up period after enrolment of the last patient; and the final analysis would be performed 1 year after the enrolment of the last patient. The sample estimate was obtained by using the EaSt Computer Software Package by Cytel. No interim analysis was performed.</p><p>The primary efficacy analysis was a comparison of the distributions of TTP between the two treatment groups in the intent-to-treat (ITT) population using the log-rank test. The Cox proportional hazards model with a covariate for treatment was used to estimate the hazard ratio for TTP.</p><p>With respect to key secondary endpoints, Fisher's exact test was used to compare the proportion of patients with objective response in the two treatment groups, and the odds ratio and exact 95% confidence interval also were provided for this endpoint. Survival time was calculated from the date of randomisation to the date of death. The primary analysis of survival was to occur when all patients had been followed for 2 years after the end of treatment.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Results</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Patients</head><p>A total of 224 patients comprising the ITT population were enrolled at 78 sites in four countries (72 sites in the United States, 4 in Canada and 1 each in England and France). The first patient was enrolled in March 2001 and the last in April 2003.</p><p>One hundred ten patients were randomised to receive oblimersen/dexamethasone and 114 to dexamethasone alone. Four patients in each group were randomised but did not initiate treatment; thus, the safety population was composed of the 216 patients who received treatment (106 in the oblimersen/ dexamethasone group and 110 in the dexamethasone group). The distribution of patients enrolled by stratum was similar in both treatment arms.</p><p>At baseline, an imbalance was observed between the treatment groups in several important prognostic factors <ref type="table" target="#tab_0">(Table I)</ref>. ECOG performance status at baseline was significantly worse in the oblimersen/ dexamethasone group (p ¼ 0.028). In addition, more patients in the oblimersen/dexamethasone group had stage III disease than in the dexamethasone group (70% vs. 61%, respectively). Also, imbalances in baseline laboratory parameters revealed that patients in the oblimersen/dexamethasone group were more seriously impaired than those in the dexamethasone group (serum creatinine 42.0 mg/dL: 5% and 0%, respectively [p ¼ 0.021]; and elevated lactate dehydrogenase: 23% and 11%, respectively [p ¼ 0.025]).</p><p>Patients in both groups had been heavily pretreated; the median number of prior regimens was 3 in both treatment groups. A total of 87 (79%) patients in the oblimersen/dexamethasone group and 95 (83%) patients in the dexamethasone group had been previously treated with dexamethasone; 47 and 51 of these patients, respectively, had been refractory to that treatment, achieving a response not better than stable disease.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Discontinuations</head><p>In the ITT population, 103 (94%) of the oblimersen/ dexamethasone group and 94 (83%) of the dexamethasone group discontinued treatment, that is, initiated 516 cycles or received 51 year (defined as 335 days) of protocol-specified therapy from the date of first dose. Disease progression/lack of efficacy accounted for more than 50% of the discontinuations in each group (oblimersen/dexamethasone: 63%; dexamethasone: 55%). Adverse event/toxicity was the second most frequently cited reason for discontinuation in each group and was reported for 16% of patients in each group. Seven percent of the oblimersen/dexamethasone group and 4% of the dexamethasone group discontinued for other reasons, including proceeding to transplant, noncompliance or removal based on physician's request, and another 7% and 8%, respectively, either withdrew consent or failed to return.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Efficacy</head><p>No significant difference in TTP was observed between the oblimersen/dexamethasone arm and the dexamethasone arm (94 vs. 108 days, respectively; p ¼ 0.26) ( <ref type="table" target="#tab_0">Table II)</ref>. The objective response rates in the two groups were also similar (15% vs. 17%, respectively) ( <ref type="table" target="#tab_0">Table III</ref>). There were no complete responses as defined based on the Bladé criteria, <ref type="bibr" target="#b15">[16]</ref> and no differences were observed when findings were analysed by disease stage (results not shown). The study was terminated in 2004, and the follow-up of patients for up to 2 years after the end of treatment was not completed. Thus, the analysis of survival included data available through a cut-off date approximately 1 year after enrolment of the last subject and did not show an advantage of oblimersen/ dexamethasone over standard therapy (55% vs. 42% of treated patients; p ¼ 0.29 based on logistic regression analysis after adjustment for baseline imbalances).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Safety</head><p>All treated patients in both groups had at least one adverse event. The most common adverse event in both treatment groups was fatigue, occurring in 54% of the patients receiving oblimersen/dexamethasone and 45% of those receiving dexamethasone. Other adverse events occurring in 25% of the patients in the oblimersen/dexamethasone group were fever (48%), nausea (41%), insomnia (35%), anemia (33%), arthralgia (31%), constipation (31%), diarrhea (27%) and vomiting (25%). In the dexamethasone group, insomnia (34%) and weakness (25%) were the only adverse events besides fatigue that occurred in 25% of patients <ref type="table" target="#tab_0">(Table IV)</ref>. The percentage of patients who discontinued because of an adverse event was the same in both arms (16%); events that resulted in discontinuation and were considered to be treatment related were reported for 12% of patients in the oblimersen/ dexamethasone group and 14% of patients in the dexamethasone group. In both groups, half of the patients who discontinued due to an adverse event did so in cycle 1. No single adverse event or cluster of adverse events resulted in cycle 1 discontinuations.</p><p>Renal and hematologic toxicities. An increase in blood creatinine was noted in 25% of the oblimersen/ dexamethasone patients and 15% of the dexamethasone patients, and was Grade 3 or 4 in 8% and 4%, respectively <ref type="table" target="#tab_0">(Table IV)</ref>. In both treatment groups, increase in blood creatinine was more likely to occur in patients with elevated baseline serum creatinine (41.5 mg/dL) and in patients who were black and/or had concurrent medical conditions that affect renal function, such as diabetes or hypertension. Despite the increased percentage of patients in the oblimersen/dexamethasone group with increased blood creatinine, the incidence of patients experiencing renal failure was comparable in the two groups (oblimersen/ dexamethasone: three [3%] patients; dexamethasone: four [4%] patients).  Includes adverse events (regardless of relationship to treatment) that occurred in 20% of patients in either treatment group.</p><p>Thrombocytopenia was observed in 22% of oblimersen/dexamethasone patients and 9% of dexamethasone patients and was Grade 3 or Grade 4 in 14% and 5%, respectively. The incidence of Grade 3 or 4 bleeding events was similar in the two treatment groups (6% and 5%, respectively). In both groups, the incidence of Grade 3 or Grade 4 anemia was 12% and the incidence of Grade 3 or Grade 4 neutropenia was 4%.</p><p>Deaths. The incidence of adverse events with an outcome of death during treatment or within 30 days of the end of treatment was similar in the two treatment groups (oblimersen/dexamethasone: 13 (12%); dexamethasone: 10 (9%) ( <ref type="table" target="#tab_3">Table V)</ref>. Disease progression was the most frequently reported cause of death, accounting for five deaths in the combination arm and three deaths in the dexamethasone arm.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Discussion</head><p>New drug development remains a priority in multiple myeloma. Bcl-2 is an important target for this disease. This is the first randomised clinical trial of any antisense therapy in patients with multiple myeloma. Although preclinical <ref type="bibr" target="#b13">[14]</ref> and two Phase II <ref type="bibr" target="#b16">[17,</ref><ref type="bibr" target="#b17">18]</ref> studies of oblimersen in myeloma demonstrated promising results, the results of this study failed to demonstrate the superiority of the addition of oblimersen to dexamethasone over dexamethasone alone.</p><p>Several factors may account for the results reported here. One important factor may be the patient population studied. Patients enrolled in this trial had advanced aggressive disease, had received multiple prior therapies and were likely to be refractory to the standard treatment (dexamethasone). In fact, the dexamethasone group in our study reflects patients with more advanced stage of disease when compared with dexamethasone group in recently reported studies <ref type="bibr" target="#b18">[19,</ref><ref type="bibr" target="#b19">20]</ref> in relapsed/ refractory myeloma with a median time to progression of 108 days vs. 140 days, respectively.</p><p>As recently reported in patients with relapsed/ refractory chronic lymphocytic leukemia, those who remained sensitive to fludarabine achieved the maximum benefit, including a survival benefit, with oblimersen in combination with fludarabine and cyclophosphamide <ref type="bibr" target="#b20">[21]</ref> It is possible that at a later stage in the clinical course of multiple myeloma, Bcl-2 maybe a redundant pathway as a therapeutic target and the combination of oblimersen with dexamethasone may not be the most optimal strategy to target myeloma cells. A chemotherapy-based combination may be more clinically beneficial as noted in two Phase II studies <ref type="bibr" target="#b16">[17,</ref><ref type="bibr" target="#b17">18]</ref> Another factor was the significant difference between treatment groups in baseline characteristics (including performance status, renal function and LDH) that favoured the dexamethasone arm. This imbalance in prognostic factors may have obscured the potential clinical benefit of oblimersen in this study.</p><p>Oblimersen was generally well tolerated. Despite an increased incidence of a number of adverse events in the oblimersen/dexamethasone group, the percentage of patients who discontinued treatment as a result was balanced (16%) in both groups. Of note, first-cycle cytokine release syndrome previously reported in patients with chronic lymphocytic leukemia <ref type="bibr" target="#b20">[21,</ref><ref type="bibr" target="#b21">22]</ref> was not observed in any patient with myeloma treated with oblimersen whereas one patient who inadvertently received the full 7-days dose of oblimersen over 7 h did not have any toxicity.</p><p>This first randomised clinical trial investigating an antisense approach in myeloma failed to demonstrate a clinical benefit with oblimersen when combined with dexamethasone, despite promising preclinical and Phase II results. Because previous clinical investigations demonstrated that oblimersen can effectively down-regulate Bcl-2 protein in vitro and in tumor cells obtained from patients treated with oblimersen, the current study did not investigate this <ref type="bibr" target="#b17">[18]</ref>. It is also conceivable that targeting Bcl-2 so late in the course of this disease may not be the most optimal strategy, as the interplay of several antiapoptotic pathways in myeloma cells may override the benefit of targeting only one. Thus, it is possible that using oblimersen early on in the clinical course of disease may be a more effective approach 1 (1) 0 (0) Cardiac arrest 1 (1) 0 (0) Hemorrhagic stroke 1 (1) 0 (0) Intracranial hemorrhage 1 (1) 0 (0) Pneumonia 1 (1) 0 (0) Subdural hematoma 1 (1) 0 (0) Congestive cardiac failure 0 (0) 1 (1) Cardio-respiratory arrest 0 (0) 1 (1) Gastrointestinal hemorrhage 0 (0) 1 (1) Multi-organ failure 0 (0) 1 (1) Streptococcal septicemia 0 (0) 1 <ref type="bibr" target="#b0">(1)</ref> warranting further investigation. Also, recent preclinical evaluation has demonstrated the potent antitumor effect of combining oblimersen with chemotherapeutics or novel agents such as bortezomib, <ref type="bibr" target="#b22">[23]</ref> thus providing additional opportunity for clinical investigation.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Declaration of interest:</head><p>The authors report no conflicts of interest. The authors alone are responsible for the content and writing of the article.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>Table I .</head><label>I</label><figDesc>Patient demographics, disease characteristics and treatment history.</figDesc><table><row><cell></cell><cell>Oblimersen/</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell></cell><cell>dexamethasone</cell><cell>Dexamethasone</cell><cell>p-</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Characteristic</cell><cell>(N ¼ 110)</cell><cell>(N ¼ 114)</cell><cell>value</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Age</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Mean/median</cell><cell>60/59</cell><cell>63/65</cell><cell>0.035</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>565 years, n (%)</cell><cell>66 (60)</cell><cell>55 (48)</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Male/female, n/n</cell><cell>58/52</cell><cell>64/50</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Race, n (%)</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>White/not Hispanic</cell><cell>74 (67)</cell><cell>91 (80)</cell><cell>0.019</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Black/not Hispanic</cell><cell>24 (22)</cell><cell>11 (10)</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Hispanic</cell><cell>9 (8)</cell><cell>12 (11)</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Asian/Pacific</cell><cell>3 (3)</cell><cell>0 (0)</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Islander</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell cols="2">ECOG performance status</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Median [range]</cell><cell>1 [0-3]</cell><cell>1 [0-2]</cell><cell>0.028</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>0, n (%)</cell><cell>31 (28)</cell><cell>44 (39)</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>1, n (%)</cell><cell>63 (57)</cell><cell>63 (55)</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>2, n (%)</cell><cell>14 (13)</cell><cell>7 (6)</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>3, n (%)</cell><cell>2 (2)</cell><cell>0 (0)</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell cols="2">Serum b 2 -microglobulin, n (5)</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>4 mg/L</cell><cell>52 (47)</cell><cell>41 (36)</cell><cell>0.083</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>54 mg/L</cell><cell>56 (51)</cell><cell>71 (62)</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Subtype, n (%)</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>IgG</cell><cell>62 (56)</cell><cell>67 (59)</cell><cell>40.10</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>IgA</cell><cell>22 (20)</cell><cell>23 (20)</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>IgM</cell><cell>0 (0)</cell><cell>1 (1)</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Other</cell><cell>26 (24)</cell><cell>23 (20)</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell cols="2">Durie-Salmon stage, n (%)</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>I</cell><cell>8 (7)</cell><cell>11 (10)</cell><cell>40.10</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>II</cell><cell>25 (23)</cell><cell>32 (28)</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>III</cell><cell>77 (70)</cell><cell>70 (61)</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Unknown</cell><cell>0 (0)</cell><cell>1 (1)</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell cols="2">Time from diagnosis, months</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Median [range]</cell><cell>32 [5-185]</cell><cell>33 [7-232]</cell><cell>40.10</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell cols="2">Number of prior regimens, n (%)</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>1-2</cell><cell>48 (44)</cell><cell>43 (38)</cell><cell>40.10</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>43</cell><cell>62 (56)</cell><cell>71 (62)</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Baseline LDH Normal</cell><cell>69 (62.7)</cell><cell>83 (72.8)</cell><cell>0.025</cell><cell cols="5">Table II. Time to tumor progression: *intent-to-treat population.</cell></row><row><cell>Elevated</cell><cell>25 (22.7)</cell><cell>13 (11.4)</cell><cell></cell><cell></cell><cell>Oblimersen/</cell><cell></cell><cell></cell></row><row><cell cols="2">Baseline creatinine, n (%)</cell><cell></cell><cell></cell><cell></cell><cell>dexamethasone</cell><cell>Dexamethasone</cell><cell>Hazard</cell><cell>p-</cell></row><row><cell>Creatinine</cell><cell>105 (95.5)</cell><cell>114 (100)</cell><cell>0.021</cell><cell></cell><cell>(N ¼ 110)</cell><cell>(N ¼ 114)</cell><cell>ratio</cell><cell>value</cell></row><row><cell>2.0 mg/dL Creatinine 42.0 mg/dL</cell><cell>5 (4.5)</cell><cell>0 (0)</cell><cell></cell><cell>n (%) progression, Patients with</cell><cell>85 (77)</cell><cell>86 (75)</cell><cell></cell></row><row><cell>Prior autologous</cell><cell>58 (53)</cell><cell>56 (49)</cell><cell>40.10</cell><cell cols="2">Time to progression (days)</cell><cell></cell><cell></cell></row><row><cell>stem cell</cell><cell></cell><cell></cell><cell></cell><cell>Median</cell><cell>94</cell><cell>108</cell><cell>1.07</cell><cell>0.26</cell></row><row><cell>transplant, n (%)</cell><cell></cell><cell></cell><cell></cell><cell>95% CI</cell><cell>(72, 116)</cell><cell>(79, 167)</cell><cell>(0.88, 1.61)</cell></row><row><cell cols="2">Response to prior treatment, n (%) Primary refractory 30 (27)</cell><cell>31 (27)</cell><cell>40.10</cell><cell cols="2">CI, confidence interval.</cell><cell></cell><cell></cell></row><row><cell>Relapsed</cell><cell>80 (73)</cell><cell>83 (73)</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row></table><note>*Based on multivariate analysis that adjusted for baseline imbalances.</note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_1"><head>Table III .</head><label>III</label><figDesc>Objective response rate: intent-to-treat population.</figDesc><table><row><cell></cell><cell>Oblimersen/dexamethasone</cell><cell>Dexamethasone</cell><cell>Odds ratio</cell><cell></cell></row><row><cell></cell><cell>(N ¼ 110), n (%)</cell><cell>(N ¼ 114), n (%)</cell><cell>(95% CI)</cell><cell>p-value</cell></row><row><cell>Objective responders</cell><cell>16 (15)</cell><cell>19 (17)</cell><cell>0.85 (0.38, 1.87)</cell><cell>0.72</cell></row><row><cell>75% improvement</cell><cell>4 (4)</cell><cell>8 (7)</cell><cell></cell><cell></cell></row><row><cell>Partial response</cell><cell>12 (11)</cell><cell>11 (10)</cell><cell></cell><cell></cell></row><row><cell>CI, confidence interval.</cell><cell></cell><cell></cell><cell></cell><cell></cell></row></table><note></note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_2"><head>Table IV .</head><label>IV</label><figDesc>Frequently occurring adverse events: safety population.</figDesc><table><row><cell></cell><cell>All</cell><cell></cell><cell>Grade 3/Grade 4</cell><cell></cell></row><row><cell></cell><cell>Oblimersen/dexamethasone</cell><cell>Dexamethasone</cell><cell>Oblimersen/dexamethasone</cell><cell>Dexamethasone</cell></row><row><cell>Adverse event</cell><cell>(N ¼ 106), %</cell><cell>(N ¼ 110), %</cell><cell>(N ¼ 106), %</cell><cell>(N ¼ 110), %</cell></row><row><cell>Fatigue</cell><cell>54</cell><cell>45</cell><cell>12</cell><cell>4</cell></row><row><cell>Fever</cell><cell>48</cell><cell>15</cell><cell>7</cell><cell>1</cell></row><row><cell>Nausea</cell><cell>41</cell><cell>24</cell><cell>3</cell><cell>0</cell></row><row><cell>Insomnia</cell><cell>35</cell><cell>34</cell><cell>0</cell><cell>2</cell></row><row><cell>Anemia</cell><cell>33</cell><cell>23</cell><cell>12</cell><cell>12</cell></row><row><cell>Arthralgia</cell><cell>31</cell><cell>20</cell><cell>3</cell><cell>2</cell></row><row><cell>Constipation</cell><cell>31</cell><cell>13</cell><cell>2</cell><cell>0</cell></row><row><cell>Diarrhea</cell><cell>27</cell><cell>15</cell><cell>5</cell><cell>2</cell></row><row><cell>Vomiting</cell><cell>25</cell><cell>8</cell><cell>2</cell><cell>0</cell></row><row><cell>Increased blood creatinine</cell><cell>25</cell><cell>15</cell><cell>8</cell><cell>4</cell></row><row><cell>Bone pain</cell><cell>22</cell><cell>15</cell><cell>2</cell><cell>3</cell></row><row><cell>Cough</cell><cell>22</cell><cell>21</cell><cell>0</cell><cell>1</cell></row><row><cell>Thrombocytopenia</cell><cell>22</cell><cell>9</cell><cell>14</cell><cell>5</cell></row><row><cell>Headache</cell><cell>21</cell><cell>11</cell><cell>0</cell><cell>1</cell></row><row><cell>Weakness</cell><cell>15</cell><cell>25</cell><cell>1</cell><cell>3</cell></row><row><cell>Back pain</cell><cell>14</cell><cell>21</cell><cell>5</cell><cell>4</cell></row><row><cell>Peripheral edema</cell><cell>13</cell><cell>22</cell><cell>2</cell><cell>1</cell></row></table><note></note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_3"><head>Table V .</head><label>V</label><figDesc>Adverse events with an outcome of death: safety population.</figDesc><table><row><cell></cell><cell>Oblimersen/</cell><cell>Dexamethasone</cell></row><row><cell></cell><cell>dexamethasone</cell><cell>(N ¼ 110),</cell></row><row><cell>Adverse event</cell><cell>(N ¼ 106), n (%)</cell><cell>n (%)</cell></row><row><cell>Had an event with</cell><cell>13 (12)</cell><cell>10 (9)</cell></row><row><cell>outcome of death</cell><cell></cell><cell></cell></row><row><cell>Disease progression</cell><cell>5 (5)</cell><cell>3 (3)</cell></row><row><cell>Renal failure</cell><cell>1 (1)</cell><cell>1 (1)</cell></row><row><cell>Ventricular arrhythmia</cell><cell>1 (1)</cell><cell>1 (1)</cell></row><row><cell>Acute abdomen</cell><cell></cell><cell></cell></row></table><note></note></figure>
+		</body>
+		<back>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Molecular aspects of multiple myeloma</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">G</forename><surname>Pratt</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Clin Pathol: Mol Pathol</title>
+		<imprint>
+			<biblScope unit="volume">55</biblScope>
+			<biblScope unit="page" from="273" to="283" />
+			<date type="published" when="2002" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Regulation of apoptosis by bcl-2 family proteins and its role in cancer and chemoresistance</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">C</forename><surname>Reed</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Curr Opin Oncol</title>
+		<imprint>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="page" from="541" to="546" />
+			<date type="published" when="1995" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">BCL2 family of apoptosis-related genes: functions and clinical implications in cancer</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><surname>Thomadaki</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Scorilas</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Crit Rev Clin Lab Sci</title>
+		<imprint>
+			<biblScope unit="volume">43</biblScope>
+			<biblScope unit="page" from="1" to="67" />
+			<date type="published" when="2006" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Expression of the bcl-2 gene in human myeloma cell lines and normal plasma cells</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Pettersson</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><surname>Jernberg-Wiklund</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">L-G</forename><surname>Larsson</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><surname>Sundstrom</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">I</forename><surname>Givol</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Y</forename><surname>Tsujimoto</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Blood</title>
+		<imprint>
+			<biblScope unit="volume">79</biblScope>
+			<biblScope unit="page" from="495" to="502" />
+			<date type="published" when="1992" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Dysregulation of apoptosis in cancer</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">C</forename><surname>Reed</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Clin Oncol</title>
+		<imprint>
+			<biblScope unit="volume">17</biblScope>
+			<biblScope unit="page" from="2941" to="2953" />
+			<date type="published" when="1999" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Oblimersen Bcl-2 antisense: facilitating apoptosis in anticancer treatment</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><forename type="middle">J</forename><surname>Klasa</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><forename type="middle">M</forename><surname>Gillum</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><forename type="middle">E</forename><surname>Klem</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><forename type="middle">R</forename><surname>Frankel</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Antisense Nucleic Acid Drug Dev</title>
+		<imprint>
+			<biblScope unit="volume">12</biblScope>
+			<biblScope unit="page" from="193" to="213" />
+			<date type="published" when="2002" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Bcl-2 plays a critical role in growth and in spontaneous or induced apoptosis in myeloma cell lines: a study with inducible bcl-2 transfection constructs</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><surname>Tian</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">W-X</forename><surname>Hu</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Y</forename><surname>Gazitt</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Int J Oncol</title>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="page" from="165" to="169" />
+			<date type="published" when="1996" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Bcl-2 plays a major role in resistance to dexamethasone induced apoptosis in multiple myeloma cell lines</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">W-X</forename><surname>Hu</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Y</forename><surname>Gazitt</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Int J Oncol</title>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="page" from="375" to="381" />
+			<date type="published" when="1996" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Bcl-2 overexpression is associated with resistance to dexamethasone, but not melphalan, in multiple myeloma cells</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Y</forename><surname>Gazitt</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">V</forename><surname>Fey</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><surname>Thomas</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><surname>Alvarez</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Int J Oncol</title>
+		<imprint>
+			<biblScope unit="volume">13</biblScope>
+			<biblScope unit="page" from="397" to="405" />
+			<date type="published" when="1998" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Role of NF-kB in the rescue of multiple myeloma cells from glucocorticoid-induced apoptosis by Bcl-2</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><surname>Feinman</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Koury</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Thames</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">B</forename><surname>Barlogie</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Epstein</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><forename type="middle">S</forename><surname>Siegel</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Blood</title>
+		<imprint>
+			<biblScope unit="volume">93</biblScope>
+			<biblScope unit="page" from="3044" to="3052" />
+			<date type="published" when="1999" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Antisense p53 transduction leads to overexpression of bcl-2 and dexamethasone resistance in multiple myeloma</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><surname>Iyer</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">L</forename><forename type="middle">M</forename><surname>Ding</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><forename type="middle">B</forename><surname>Batchu</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Naugler</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">A</forename><surname>Shammas</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">N</forename><forename type="middle">C</forename><surname>Munshi</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Leuk Res</title>
+		<imprint>
+			<biblScope unit="volume">27</biblScope>
+			<biblScope unit="page" from="73" to="78" />
+			<date type="published" when="2003" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Bcl-2 overexpression is associated with resistance to paclitaxel, but not gemcitabine, in multiple myeloma cells</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Y</forename><surname>Gazitt</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">L</forename><surname>Rothenberg</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><forename type="middle">G</forename><surname>Hilsenbeck</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Fey</forename><forename type="middle">V</forename><surname>Thomas</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><surname>Montgomrey</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">W</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Int J Oncol</title>
+		<imprint>
+			<biblScope unit="volume">13</biblScope>
+			<biblScope unit="page" from="839" to="848" />
+			<date type="published" when="1998" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Bcl-2 antisense therapy in B-cell malignant proliferative disorders</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Chanan-Khan</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">S</forename><surname>Czuczman</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Curr Treat Options Oncol</title>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="page" from="261" to="267" />
+			<date type="published" when="2004" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Chemosensitization of myeloma plasma cells by an antisense-mediated downregulation of Bcl-2 protein</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Nwcj</forename><surname>Van De Donk</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Mmj</forename><surname>Kamphuis</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Van Dijk</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Hpe</forename><surname>Borst</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><forename type="middle">C</forename><surname>Bloem</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><forename type="middle">M</forename><surname>Lokhorst</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Leukemia</title>
+		<imprint>
+			<biblScope unit="volume">17</biblScope>
+			<biblScope unit="page" from="211" to="219" />
+			<date type="published" when="2003" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">Prepared by a committee of the chronic leukemiamyeloma task force, National Cancer Institute</title>
+	</analytic>
+	<monogr>
+		<title level="m">Proposed guidelines for protocol studies. II. Plasma cell myeloma</title>
+		<imprint>
+			<date type="published" when="1968" />
+			<biblScope unit="volume">3</biblScope>
+			<biblScope unit="page" from="17" to="39" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Criteria for evaluating disease response and progression in patients with multiple myeloma treated by highdose therapy and haemopoietic stem cell transplantation. Myeloma subcommittee of the EBMT. European Group for Blood and Marrow Transplant</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Bladé</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><surname>Samson</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><surname>Reece</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Apperley</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">B</forename><surname>Bjorkstrand</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">G</forename><surname>Gahrton</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Br J Haematol</title>
+		<imprint>
+			<biblScope unit="volume">102</biblScope>
+			<biblScope unit="page" from="1115" to="1123" />
+			<date type="published" when="1998" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Phase II study of G3139, a Bcl-2 antisense oligonucleotide, in combination with dexamethasone and thalidomide in relapsed multiple myeloma patients</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><forename type="middle">Z</forename><surname>Badros</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">O</forename><surname>Goloubeva</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><forename type="middle">P</forename><surname>Rapoport</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">B</forename><surname>Ratterree</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">N</forename><surname>Gahres</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">B</forename><surname>Meisenberg</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Clin Oncol</title>
+		<imprint>
+			<biblScope unit="volume">23</biblScope>
+			<biblScope unit="page" from="4089" to="4099" />
+			<date type="published" when="2005" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">G3139, a Bcl-2 antisense oligodeoxynucleotide, induces clinical responses in VAD refractory myeloma</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">N</forename><forename type="middle">W</forename><surname>Van De Donk</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">O</forename><surname>De Weerdt</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">G</forename><surname>Veth</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Eurelings</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><surname>Van Stralen</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><forename type="middle">R</forename><surname>Frankel</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Leukemia</title>
+		<imprint>
+			<biblScope unit="volume">18</biblScope>
+			<biblScope unit="page" from="1078" to="1084" />
+			<date type="published" when="2004" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">Lenalidomide plus dexamethasone for relapsed multiple myeloma in North America</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><forename type="middle">M</forename><surname>Weber</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><surname>Chen</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><surname>Niesvizky</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Wang</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Belch</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><forename type="middle">A</forename><surname>Stadtmauer</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">N Engl J Med</title>
+		<imprint>
+			<biblScope unit="volume">357</biblScope>
+			<biblScope unit="page" from="2133" to="2142" />
+			<date type="published" when="2007" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">Lenalidomide plus dexamethasone for relapsed or refractory multiple myeloma</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Dimopoulos</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Spencer</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Attal</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><forename type="middle">M</forename><surname>Prince</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">L</forename><surname>Harousseau</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Dmoszynska</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">N Engl J Med</title>
+		<imprint>
+			<biblScope unit="volume">357</biblScope>
+			<biblScope unit="page" from="2123" to="2132" />
+			<date type="published" when="2007" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">Randomized Phase 3 trial of fludarabine plus cyclophosphamide with or without oblimersen sodium (Bcl-2 antisense) in patients with relapsed or refractory chronic lymphocytic leukemia</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>O'brien</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">O</forename><surname>Moore</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><forename type="middle">E</forename><surname>Boyd</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">L</forename><forename type="middle">M</forename><surname>Larratt</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Skotnicki</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">B</forename><surname>Koziner</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Clin Oncol</title>
+		<imprint>
+			<biblScope unit="volume">25</biblScope>
+			<biblScope unit="page" from="1114" to="1120" />
+			<date type="published" when="2007" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">Phase I to II multicenter study of oblimersen sodium, a Bcl-2 antisense oliogonucleotide, in patients with advanced chronic lymphocytic leukemia</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><forename type="middle">M</forename><surname>O'brien</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><forename type="middle">C</forename><surname>Cunningham</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><forename type="middle">K</forename><surname>Golenkov</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><forename type="middle">G</forename><surname>Turkina</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><forename type="middle">C</forename><surname>Novick</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><forename type="middle">R</forename><surname>Rai</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Clin Oncol</title>
+		<imprint>
+			<biblScope unit="volume">23</biblScope>
+			<biblScope unit="page" from="7697" to="7702" />
+			<date type="published" when="2005" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">The combination of the proteasome inhibitor Bortezomib and the Bcl-2 antisense molecule oblimersen sensitizes human B-cell lymphomas to cyclophosphamide</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">O</forename><forename type="middle">A</forename><surname>O'connor</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><forename type="middle">A</forename><surname>Smith</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">L</forename><forename type="middle">E</forename><surname>Toner</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Teruya-Feldstein</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Frankel</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Rolfe</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Clin Cancer Res</title>
+		<imprint>
+			<biblScope unit="volume">12</biblScope>
+			<biblScope unit="page" from="2902" to="2911" />
+			<date type="published" when="2006" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

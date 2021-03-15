@@ -1,0 +1,2122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /data/rsg/nlp/juanmoo1/bin/grobid-0.6.1/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Pentostatin, Cyclophosphamide and Rituximab Followed by Alemtuzumab for Relapsed or Refractory Chronic Lymphocytic Leukemia: A Phase 2 Trial of the ECOG-ACRIN Cancer Research Group (E2903)</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+				<date type="published" when="2020-07-23">2020 July 23.</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><roleName>M.D</roleName><forename type="first">Sanford</forename><surname>Kempin</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="institution">Beth Israel Comprehensive Cancer Center</orgName>
+								<address>
+									<settlement>New York</settlement>
+									<region>NY</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Zhuoxin</forename><surname>Sun</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="department">Dana Farber Cancer Institute-ECOG-ACRIN Biostatistics Center</orgName>
+								<orgName type="institution">Mayo Clinic</orgName>
+								<address>
+									<settlement>Boston, Rochester</settlement>
+									<region>MA, MN</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Neil</forename><forename type="middle">E</forename><surname>Kay</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Elisabeth</forename><forename type="middle">M</forename><surname>Paietta</surname></persName>
+							<affiliation key="aff2">
+								<orgName type="institution">Montefiore Medical Center</orgName>
+								<address>
+									<settlement>Bronx</settlement>
+									<region>NY</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Joseph</forename><forename type="middle">J</forename><surname>Mazza</surname></persName>
+							<affiliation key="aff3">
+								<orgName type="institution">Marshfield Clinic</orgName>
+								<address>
+									<settlement>Marshfield</settlement>
+									<region>WI</region>
+								</address>
+							</affiliation>
+							<affiliation key="aff4">
+								<orgName type="institution">Mayo Clinic</orgName>
+								<address>
+									<settlement>Rochester</settlement>
+									<region>MN</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Rhett</forename><forename type="middle">P</forename><surname>Ketterling</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Olga</forename><surname>Frankfurt</surname></persName>
+							<affiliation key="aff5">
+								<orgName type="institution">Northwestern University</orgName>
+								<address>
+									<settlement>Chicago</settlement>
+									<region>IL</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">David</forename><forename type="middle">F</forename><surname>Claxton</surname></persName>
+							<affiliation key="aff6">
+								<orgName type="institution">Penn State Milton S. Hershey Medical Center</orgName>
+								<address>
+									<settlement>Hershey</settlement>
+									<region>PA</region>
+								</address>
+							</affiliation>
+							<affiliation key="aff7">
+								<orgName type="institution">University Hospitals of Cleveland</orgName>
+								<address>
+									<settlement>Cleveland</settlement>
+									<region>OH</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Joel</forename><forename type="middle">N</forename><surname>Saltzman</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Gordan</forename><surname>Srkalovic</surname></persName>
+							<affiliation key="aff8">
+								<orgName type="institution">Sparrow Herbert-Herman Cancer Center</orgName>
+								<address>
+									<settlement>Lansing</settlement>
+									<region>MI</region>
+								</address>
+							</affiliation>
+							<affiliation key="aff9">
+								<orgName type="institution">University of Wisconsin Hospital and Clinics</orgName>
+								<address>
+									<settlement>Madison</settlement>
+									<region>WI</region>
+								</address>
+							</affiliation>
+							<affiliation key="aff10">
+								<orgName type="institution">Sanford Medical Center</orgName>
+								<address>
+									<settlement>Fargo</settlement>
+									<region>ND</region>
+								</address>
+							</affiliation>
+							<affiliation key="aff11">
+								<orgName type="institution">Memorial-Sloan-Kettering Cancer Center</orgName>
+								<address>
+									<settlement>New York</settlement>
+									<region>NY</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Natalie</forename><forename type="middle">S</forename><surname>Callander</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Gerald</forename><surname>Gross</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Martin</forename><forename type="middle">S</forename><surname>Tallman</surname></persName>
+						</author>
+						<title level="a" type="main">Pentostatin, Cyclophosphamide and Rituximab Followed by Alemtuzumab for Relapsed or Refractory Chronic Lymphocytic Leukemia: A Phase 2 Trial of the ECOG-ACRIN Cancer Research Group (E2903)</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date type="published" when="2020-07-23">2020 July 23.</date>
+						</imprint>
+					</monogr>
+					<idno type="DOI">10.1159/000500164</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.6.1" ident="GROBID" when="2020-10-09T18:38+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>Pentostatin/cyclophosphamide/rituximab</term>
+					<term>Chemoimmunotherapy</term>
+					<term>Chronic lymphocytic leukemia</term>
+					<term>Relapsed/refractory disease</term>
+					<term>Alemtuzumab</term>
+				</keywords>
+			</textClass>
+			<abstract>
+				<p>Patients with relapsed/refractory (R/R) chronic lymphocytic leukemia (CLL) may benefit from salvage chemoimmunotherapy (CIT). To explore further the use of CIT in the pre-novel agent era, ECOG-ACRIN undertook a phase 2 trial (E2903) for R/R CLL utilizing pentostatin, cyclophosphamide, and rituximab (PCR) followed by a consolidation course of alemtuzumab. This trial enrolled 102 patients with a median age of 64 years. Treatment consisted of PCR for six cycles followed by alemtuzumab for either 4 or 12 weeks depending upon the initial response to PCR. The overall response after PCR (complete remission (CR), nodular partial remission (nPR),</p>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>INTRODUCTION</head><p>Treatment for relapsed/refractory (R/R) CLL, prior to the development of BCR signal inhibitors, consisted of purine nucleoside based therapy in combination with cyclophosphamide and an anti-CD20 monoclonal antibody (chemoimmunotherapy-CIT). <ref type="bibr" target="#b0">[1]</ref><ref type="bibr" target="#b1">[2]</ref><ref type="bibr" target="#b2">[3]</ref><ref type="bibr" target="#b3">[4]</ref> The combination of fludarabine, cyclophosphamide and rituximab (FCR) can result in longterm survival for treatment naïve, fit patients with low risk genetics and mutated IGVH. <ref type="bibr" target="#b0">1</ref> The long-term administration of B-cell signal inhibitors alone, <ref type="bibr" target="#b4">5</ref> and in combination <ref type="bibr" target="#b5">6</ref> in treatment naïve and good prognosis patients, has resulted in long-term disease -free survival. Ibrutinib-based therapy versus CIT, in previously untreated patients, resulted in a superior PFS. <ref type="bibr" target="#b6">7,</ref><ref type="bibr" target="#b7">8</ref> However, only marrow ablative approaches <ref type="bibr" target="#b8">9,</ref><ref type="bibr" target="#b9">10</ref> and CAR-T cell administration <ref type="bibr" target="#b10">11</ref> have resulted in molecular cure of the disease.</p><p>Pentostatin is active alone and in combination in CLL. <ref type="bibr" target="#b11">[12]</ref><ref type="bibr" target="#b12">[13]</ref><ref type="bibr" target="#b13">[14]</ref><ref type="bibr" target="#b14">[15]</ref><ref type="bibr" target="#b15">[16]</ref><ref type="bibr" target="#b16">[17]</ref><ref type="bibr" target="#b17">[18]</ref><ref type="bibr" target="#b18">[19]</ref> An earlier phase 2 trial tested a CIT regimen (PCR) and demonstrated significant efficacy in previously untreated elderly patients with CLL. <ref type="bibr" target="#b3">4</ref> Of particular importance was the ability to administer a full six cycles even in patients with diminished renal function. <ref type="bibr" target="#b19">20</ref> Encouraged by these results we designed and activated a phase 2 trial, E2903, for R/R CLL that incorporated 6 cycles of PCR, followed by an anti-CD52 antibody, alemtuzumab, as consolidation. The use of alemtuzumab was based on its known effectiveness for the treatment of lymphoid neoplasms, including CLL, <ref type="bibr" target="#b20">[21]</ref><ref type="bibr" target="#b21">[22]</ref><ref type="bibr" target="#b22">[23]</ref><ref type="bibr" target="#b23">[24]</ref><ref type="bibr" target="#b24">[25]</ref><ref type="bibr" target="#b25">[26]</ref><ref type="bibr" target="#b26">[27]</ref><ref type="bibr" target="#b27">[28]</ref><ref type="bibr" target="#b28">[29]</ref><ref type="bibr" target="#b29">[30]</ref> its activity in patients with 17p-and p53 mutations. <ref type="bibr" target="#b24">25</ref> and activity in fludarabine resistant disease. <ref type="bibr" target="#b25">26</ref> </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>PATIENTS and METHODS</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Clinical sites, patient eligibility and trial objectives</head><p>This was a phase 2 trial for R/R CLL conducted by the ECOG-ACRIN NCTN Group (ECOG-ACRIN). Eligibility criteria included progressive disease or failure to achieve a meaningful response (&lt; partial response (PR)) or relapse after prior therapy (including fludarabine, pentostatin and rituximab). The definition of progressive disease was based upon the criteria of the National Cancer Institute (NCI) Working Group. <ref type="bibr" target="#b30">31</ref> Patient requirements included an ECOG performance status of 0-3, serum creatinine &lt;2 mg/dl and a creatinine clearance &gt; 30ml/min. Patients were ineligible if they had received prior alemtuzumab. Patients with infections were not eligible for entry onto the study until resolution of the infection. All patients were tested for hepatitis B and those found with evidence of viremia were ineligible. Patients with prior hepatitis B infection and antibodies were eligible. Patients with a history of malignancy, other than squamous/basal cell carcinoma of the skin or in situ carcinoma of the cervix, were not eligible unless the tumor was curatively treated at least two years prior to consideration for the protocol. The protocol was reviewed and approved by the Institutional Review Board at each participating institution. All patients were required to provide written informed consent prior to entry, in accordance with the Declaration of Helsinki.</p><p>The primary clinical objectives of the trial were to determine the number of complete remissions (CR), nodular partial remissions (nPR) and partial remissions (PR). Secondary objectives included estimation of the overall survival (OS) and progression-free survival (PFS) and the conversion rate to a higher response category after alemtuzumab. Hematologic toxicity was graded according to the NCI Working Group guidelines <ref type="bibr" target="#b30">31</ref> and non-hematologic toxicity was assessed according to the NCI Common Toxicity Criteria (Version 3.0). Clinical and laboratory correlates of outcome were analyzed, including the Rai Staging Classification, 32 β2-microglobulin (β2-m) <ref type="bibr" target="#b32">33,</ref><ref type="bibr" target="#b33">34</ref> and immunoglobulin heavy chain variable region (IGVH) mutation status. Elevated CD 38, and ZAP-70 expression were both defined as &gt;20% in the CLL population. <ref type="bibr" target="#b34">35</ref> CLL FISH panel status <ref type="bibr" target="#b35">36</ref> was categorized utilizing the following hierarchy: high-risk group included 17p-, 11q-, 6q-defects, intermediate risk patients were trisomy 12 and low risk patients were 13q-or normal by FISH.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Study design</head><p>Patients received pentostatin (4mg/m 2 IV) and cyclophosphamide (600mg/m 2 IV) on day one. Rituximab was administered for the first cycle at 100 mg on day 1, followed by 375 mg/m 2 on days 3 and 5. For subsequent cycles (2-6) rituximab was given at a dose of 375 mg/m 2 on the same day as the pentostatin and cyclophosphamide (PCR). This PCR regimen was given on a 21-day 6-cycle schedule. Bactrim DS (QOD) and acyclovir (800mg BID) were administered during the entire course of PCR, and alemtuzumab administration. Surveillance for cytomegalovirus (CMV) was performed at each cycle of PCR utilizing either pp65 antigenemia. <ref type="bibr" target="#b36">37</ref> or CMV DNA by real time polymerase chain reaction. <ref type="bibr" target="#b37">38</ref> Discovery of active disease resulted in cessation of therapy and treatment of the CMV. The first cycle of PCR was to be administered at full dose regardless of preexisting cytopenias. During cycle one G-CSF (Neupogen) was administered SQ daily, beginning two days after treatment for 10 consecutive days or until the neutrophil count was greater than 1.0 × 10 9 /L for 2 consecutive days. Pegfilgrastim (6mg/ m 2 every three weeks) was an alternative option. After the first cycle the decision to continue administration of growth factors was left up to the treating physician.</p><p>Patients achieving a CR or nPR after PCR were then observed during an 8 week treatmentfree interval after which a bone marrow study was performed for pathologic confirmation of response. Response was evaluated by sites for treatment decisions and reviewed centrally by data managers. After confirmation of response, alemtuzumab (30mg SQ) was administered three times a week (TIW) for four weeks. The subcutaneous route of administration was utilized because of ease of administration and efficacy. <ref type="bibr" target="#b38">39,</ref><ref type="bibr" target="#b39">40</ref> The four week course for CR or nPR patients as opposed to the 18 week course for a lesser response was based upon the concept that robust responding patients would need less intensive exposure to alemtuzumab and have less infectious complications. <ref type="bibr" target="#b40">41</ref> Patients achieving a PR or stable disease (SD) after six cycles or progressive disease (PD) after at least 2 cycles of PCR received alemtuzumab (30mg SQ TIW) for 18 weeks after a treatment-free period determined by the investigator.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Criteria for response</head><p>CR and nPR response criteria, determined after completion of PCR and after the 8 week hiatus noted above, was defined by the 1996 CLL Working Group criteria. <ref type="bibr" target="#b30">31</ref> Computerized imaging response criteria were not used to evaluate the responses. PD was characterized by at least one of the following criteria: &gt;50% increase in nodal disease or appearance of new lymph nodes, increase in the size of liver or spleen, &gt;50% increase in blood lymphocytes or appearance of Richter's syndrome. Patients who did not achieve a CR, nPR or PR but exhibited no findings consistent with PD were considered to have SD.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Statistical analyses</head><p>The primary endpoint was the response rate to PCR. Response rates and confidence intervals (CIs) were calculated using the method of Atkinson and Brown. <ref type="bibr" target="#b41">42</ref> The distribution of pretreatment characteristics between responders and non-responders was determined using the Fisher's exact <ref type="bibr" target="#b42">43</ref> and Wilcoxon rank sum tests. <ref type="bibr" target="#b43">44</ref> A multivariate logistic model was performed on the response rate to examine the effects of potential risk factors. OS was defined as the time from registration until death from any cause or censored at last date known to be alive. PFS was defined as the time from registration to disease progression or any cause of death in the absence of progression. OS and PFS were estimated using the Kaplan-Meier method. <ref type="bibr" target="#b44">45</ref> Log rank tests were used to examine the effects of risk factors on OS and PFS. Univariate and multivariate Cox models were performed on OS and PFS to examine the potential risk factors. Factors with P&lt;0.15 in the univariate model were included in the multivariate model as covariates. If &gt; 10% of patients had a missing value for a particular covariate an indicator for whether or not the covariate was missing was indicated in the multivariate mode. Landmark analysis at 6 months was done when patients had scheduled PCR treatment cycles completed and was utilized to compare the overall survival between responders and non-responders. All p-values reported are for two-sided significance tests with p-values under 0.05 considered significant.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>RESULTS</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Patient characteristics</head><p>A total of 102 patients were enrolled in E2903 beginning in December 2004 <ref type="figure">(Figure 1</ref>). The study was closed to accrual in May 2013. Two patients did not begin assigned therapy (declined to receive therapy; received alternative therapy) and four patients were ineligible for response because of violations of the inclusion criteria. Efficacy analysis included 96 patients and safety analysis (toxicity) included all 100 patients who started treatment. The baseline clinical, laboratory and prognostic factor characteristics are shown in <ref type="table" target="#tab_0">Table 1</ref>. The median age was 64 years (range 38-81 years) and the majority of patients were male (79%). An ECOG performance status of 0-1 was present in 96% of patients and 57% of patients were Rai stages III-IV. The number of patients having received ≥ 2 prior treatments was 56%. Among the 91 patients with serum β2-m information, 56(58%) had a level ≤3.5 mgs/ml. Of the 66 patients with ZAP-70 and CD38 studies, 45% and 51%, respectively, were positive based upon previous flow threshold determinations. <ref type="bibr" target="#b32">33</ref> Unmutated IGHV status was found in 68% of available patient material. Pre-therapy FISH data was available in 78 patients and demonstrated high-risk defects in 47 %(17p-, 11q-, 6q), intermediate risk in 15% (trisomy 12) and low risk in 32% (13q-, normal).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Responses to therapy and prognostic factor analysis</head><p>The median number of PCR cycles received was 5 (range: 1-6) with 46 completing all 6 cycles (47%). There were 11 patients not evaluable for response to PCR, all having received &lt; 2cycles. The reasons included: death(4),thrombocytopenia(2), disease progression(1), myocardial infarction(1), adverse events(1), received one cycle(1), or no measurements of lymph node size (1). The OR was 55%, consisting of 3 CR's (3%), 3 nPR's (3%) and 47 PR's (49%). Three patients (3%) who were classified as having maintained a complete clinical remission (CCR) after PCR at 8 weeks off-therapy, but without bone marrow confirmation for CR status, received alemtuzumab consolidation. A significant number of patients did not receive consolidation <ref type="figure">(Figure 1)</ref>. The reasons for this included: adverse events/side effects (32), patient withdrawal/ refusal (7), death on study (6), disease progression/relapse during active treatment (2), or alternative therapy/other <ref type="bibr" target="#b8">(9)</ref>. As a result only 39 eligible patients subsequently received either alemtuzumab for 4 weeks (9 patients) or for 18 weeks (30 patients). Of the 9 patients on alemtuzumab for 4 weeks, all maintained their response status. Of the 30 patients on alemtuzumab for 18 weeks, 2 patients subsequently achieved a CR (7%). Of these 30, two patients were not evaluable for response. One patient refused further therapy after day 1 and one patient was taken off treatment after week 3 during the first consolidation course.</p><p>Patients with a lower (0-2) Rai stage (p=0.04), fewer prior regimens(&lt;2) (p=0.02), hemoglobin &gt;10g/dl (p= 0.03), β2-m ≤ 3.5 (p=0.03), and CD 38 negativity (p=0.01) were more likely to respond to PCR. In a multivariate logistic model only CD 38 &lt;20% was significantly associated with a PCR response (p=0.01). The response rates are 81% and 50% for patients with CD38 negative and positive status respectively. Although baseline IGHV status and FISH studies were largely unfavorable, neither was associated with response (IGHV mutation: p=0.36; FISH risk: p=0.61)</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Overall Survival and Progression-Free Survival</head><p>The median OS was 27 months (90% CI: 20-42) <ref type="figure">(Figure 2A</ref>) and the median PFS was 12 months (90% CI: 9-14)( <ref type="figure">Figure 2B</ref>). There was no significant difference in OS between CR/nPR responders (21 months) and lesser responders (29.0 months)(p=0.74).</p><p>In a multivariate model of OS, both β2-m ≤3.5 mg/L (p=0.01) and low FISH risk (p=.02) were significant factors for OS. If β2-m was ≤ 3.5 mg the median survival was 56 months versus 19 months if the β2-m was &gt; 3.5 mg/L ( <ref type="figure" target="#fig_2">Figure 3A)</ref>. For low-risk FISH the median survival was 47.2 months versus 15.9 months for high-risk FISH <ref type="figure" target="#fig_2">(Figure3B)</ref>. In a multivariate model, β2-m(≤ 3.5mg/L), IGHV mutation status, and lower FISH risk were not significantly associated with PFS (p=.08).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Treatment-related toxicity</head><p>Treatment-related toxicities during PCR and alemtuzumab were those expected in patients with R/R CLL receiving CIT <ref type="table">(Table 2)</ref>. Anemia, thrombocytopenia and neutropenia were observed in 16%, 34% and 60%, respectively, during PCR treatment. The worst-degree of non-hematologic treatment-related toxicities during PCR treatment were grades 3-4 in 47 patients (47%) and grade 5 in 5 patients (5%). These included fatigue (9%), nausea (8%) and vomiting (7%). Metabolic abnormalities were observed in 18(18%) patients but all were less than grade 4. Tumor-lysis syndrome was documented in six patients, all grade 3. Febrile neutropenia occurred in 10 patients (10%). Most infections, either presumed or proven, were grades 1-3. These included respiratory tract, urinary tract, skin and ocular site infections. Colitis, unrelated to CMV, occurred in two patients (C. difficile, unknown). Septicemia was documented in 2 patients, one of whom died. Pneumonia, attributable to CMV occurred in 2 patients. There were 5 treatment-related deaths during the PCR therapy including multiorgan failure (1), ARDS, non-CMV (1), infection (1), pneumonitis (2).</p><p>During the alemtuzumab treatment arms, pain at the injection site, fever, and myalgias were grades I or 2. One patient with a grade 4 local injection site reaction was removed from study after 2 doses of alemtuzumab. Myelosuppression was as common as during the PCR. One patient developed CMV positive serology during the 4-week alemtuzumab treatment and two patients in subsequent follow-up. Two patients developed CMV positive serology during the 18-week alemtuzumab treatment, two of whom developed pneumonia.</p><p>The autoimmune disorders found in this study are those previously described in CLL patients. <ref type="bibr" target="#b45">46</ref> Although autoimmune cytopenia occurs in CLL, occasionally related to purine nucleoside or alemtuzumab administration, <ref type="bibr" target="#b46">[47]</ref><ref type="bibr" target="#b47">[48]</ref><ref type="bibr" target="#b48">[49]</ref> there were no cases in the present study. Second malignancy in patients with CLL has been well-documented. <ref type="bibr" target="#b49">[50]</ref><ref type="bibr" target="#b50">[51]</ref><ref type="bibr" target="#b51">[52]</ref><ref type="bibr" target="#b52">[53]</ref> The spectrum of second malignancies documented in this trial included non-Hodgkin lymphoma (NHL) (5), including three cases of Richter's syndrome, myelodysplastic syndrome. (2), non-melanoma skin tumors (7), breast cancer (1), colorectal cancer (1), esophageal cancer (1), bladder cancer (1), and metastatic undifferentiated adenocarcinoma <ref type="bibr" target="#b0">(1)</ref>. No cases of melanoma were observed. <ref type="bibr" target="#b53">54</ref> </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>DISCUSSION</head><p>In this study, 55% of R/R CLL patients achieved CR, nPR or PR during PCR treatment. However, only 3% achieved a CR and 3% an nPR,. CD 38 &lt;20% was the only prognostic factor associated with a major response. β2-m was the only significant risk factor for OS, consistent with previous reports. <ref type="bibr" target="#b32">33,</ref><ref type="bibr" target="#b33">34</ref> No differences were found in OS and PFS between patients who achieved CR or nPR versus others, which may be due to the subsequent salvage therapies that the non-major responders received off-study, such as high dose chemotherapy, immunotherapy and stem-cell transplantation. These results were inferior to those of a previous PCR study without FISH data. <ref type="bibr" target="#b54">55</ref> Our results of this salvage trial of PCR are similar to the results of FCR in a series of patients having failed multiple prior regimens. <ref type="bibr" target="#b55">56</ref> In a recent analysis of pentostatin-based therapies for upfront therapy of CLL an overall response rate across all trials of over 90% with a 41% CR rate was reported. <ref type="bibr" target="#b56">57</ref> The toxicity of PCR CIT appears tolerable, although, during PCR 40 patients (40%) developed grade 3 nonhematologic related toxicities and 12 (12%) patients had 4-5 non-hematologic treatmentrelated toxicities. The rationale for PCR CIT therapy is based on ease of administration and side effect profile particularly when administering to older patients with renal insufficiency. <ref type="bibr" target="#b3">4</ref> Numerous publications have documented the use of post-CIT consolidation therapy with alemtuzumab in previously untreated patients, reporting successful eradication of MRD and clonal mutations, improved survival and progression-free survival. <ref type="bibr" target="#b57">[58]</ref><ref type="bibr" target="#b58">[59]</ref><ref type="bibr" target="#b59">[60]</ref><ref type="bibr" target="#b60">[61]</ref><ref type="bibr" target="#b61">[62]</ref><ref type="bibr" target="#b62">[63]</ref><ref type="bibr" target="#b64">[64]</ref><ref type="bibr" target="#b65">[65]</ref><ref type="bibr" target="#b66">[66]</ref> The present study in previously treated patients demonstrated the inability of alemtuzumab to convert a significant number of lesser clinical responses (i.e. PR), to CRs after PCR induction. CMV viremia occured when alemtuzumab was used alone in heavily pre-treated patients <ref type="bibr" target="#b67">67</ref> or combined with other agents in frontline therapy. <ref type="bibr" target="#b68">68</ref> In the present study four patients (4%) developed clinical CMV disease.</p><p>Therapeutic options for patients with CLL with a poor prognosis have been recently expanded to include ibrutinib, <ref type="bibr" target="#b4">5</ref>, idelalisib with rituximab <ref type="bibr" target="#b5">6</ref> and venetoclax. <ref type="bibr" target="#b69">69</ref> Although highly active, they may be accompanied by significant side effects such as atrial fibrillation, <ref type="bibr" target="#b70">70</ref> bleeding, <ref type="bibr" target="#b71">71,</ref><ref type="bibr" target="#b72">72</ref> infectious complications (ibrutinib), <ref type="bibr" target="#b73">73</ref> immune-related events such as rash, pneumonitis and/or colitis. <ref type="bibr" target="#b74">74</ref> and tumor lysis syndrome(venetoclax). Drug resistance and progression over time are observed with these agents. <ref type="bibr" target="#b75">75</ref> Our data with PCR support the use of CIT in CLL patients particularly if they choose to have short-term rather than long-term therapy <ref type="bibr" target="#b76">76</ref> or those in whom administration of ibrutinib may be contraindicated or difficult to administer ( i.e. patients on anticoagulants or antiplatelet agents). CONSORT diagram showing the analytic population of E2903. Kaplan-Meier estimation of (A) overall survival (OS) of all patients, (B)progression-free survival (PFS) of all patients.  </p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head></head><label></label><figDesc>Fig 1.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head></head><label></label><figDesc>Fig 2.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_2"><head>Fig 3 .</head><label>3</label><figDesc>Kaplan-Meier curves of OS according to (A) β−2 Microglobulin (B) FISH Risk Category. Kempin et al. Page 16</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>Table 1 :</head><label>1</label><figDesc>Baseline characteristics</figDesc><table><row><cell></cell><cell>N (%)</cell></row><row><cell>Age (yrs)</cell><cell></cell></row><row><cell>&lt;=70</cell><cell>79 (82.3)</cell></row><row><cell>&gt;70</cell><cell>17 (17.7)</cell></row><row><cell>Gender</cell><cell></cell></row><row><cell>Male</cell><cell>76 (79.2)</cell></row><row><cell>Female</cell><cell>20 (20.8)</cell></row><row><cell>ECOG PS</cell><cell></cell></row><row><cell>0</cell><cell>53 (55.2)</cell></row><row><cell>1</cell><cell>39 (40.6)</cell></row><row><cell>2</cell><cell>4 (4.2)</cell></row><row><cell>Rai CLL Stage</cell><cell></cell></row><row><cell>Missing</cell><cell>2 (2.1)</cell></row><row><cell>0-I</cell><cell>29 (30.2)</cell></row><row><cell>II</cell><cell>10 (10.4)</cell></row><row><cell>III-IV</cell><cell>55 (57.3)</cell></row><row><cell>Clinical Status at Therapy</cell><cell></cell></row><row><cell>First relapse</cell><cell>41 (42.7)</cell></row><row><cell>Second or later relapse</cell><cell>27 (28.1)</cell></row><row><cell>Refractory</cell><cell>6 (6.3)</cell></row><row><cell>Progressive</cell><cell>22 (22.9)</cell></row><row><cell>No. Prior Regimens</cell><cell></cell></row><row><cell>Missing</cell><cell>2 (2.1)</cell></row><row><cell>1-2</cell><cell>40 (41.7)</cell></row><row><cell>&gt;2</cell><cell>54 (56.3)</cell></row><row><cell>β-2 Microglobulin (μg/ml)</cell><cell></cell></row><row><cell>Missing</cell><cell>5 (5.2)</cell></row><row><cell>&lt;=3.5</cell><cell>35 (36.5)</cell></row><row><cell>&gt;3.5</cell><cell>56 (58.3)</cell></row><row><cell>ZAP 70</cell><cell></cell></row><row><cell>Missing</cell><cell>30 (31.3)</cell></row><row><cell>Negative</cell><cell>36 (37.5)</cell></row><row><cell>Positive</cell><cell>30 (31.3)</cell></row><row><cell>CD38</cell><cell></cell></row><row><cell>Missing</cell><cell>30 (31.3)</cell></row><row><cell>Negative</cell><cell>32 (33.3)</cell></row><row><cell>Positive</cell><cell>34 (35.4)</cell></row><row><cell>IGHV</cell><cell></cell></row></table><note></note></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot">Acta Haematol. Author manuscript; available in PMC 2020 July 23.</note>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Acknowledgments</head><p>The authors wish to acknowledge the important role of the patients for participating and donating samples to this study. This study was coordinated by the ECOG-ACRIN Cancer Research Group (Peter O'Dwyer, M.D. and Mitchell D. Schnall, M.D., Ph.D, Group Co-Chairs) and supported by the National Cancer Institute of the National Institutes of Health under the following award numbers: CA180820, CA180794, CA180790, CA180791, CA180799, CA180853, CA189825, CA189859, CA189956, CA189971. The content is solely the responsibility of the authors and does not necessarily represent the official views of the National Institutes of Health, nor does mention of trade names, commercial products, or organizations imply endorsement by the U.S government. The authors also wish to acknowledge Henry Baptista and Dr. Mark Litzow for coordinating the clinical data and reviewing the manuscript respectively.</p></div>
+			</div>
+
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Author Manuscript</head><p>Kempin et al.</p><p>Page 19 <ref type="table">Table 2</ref>.</p><p>Treatment-related toxicities (Grades 3-5)</p><p>Step 1</p><p>Step </p></div>			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Long-term remissions after FCR chemoimmunotherapy in previously untreated patients with CLL: updated results of the CLL8 trial</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><surname>Fischer</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Bahlo</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><forename type="middle">M</forename><surname>Fink</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Blood</title>
+		<imprint>
+			<biblScope unit="volume">127</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="208" to="215" />
+			<date type="published" when="2016" />
+		</imprint>
+	</monogr>
+	<note>PubMed: 26486789</note>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Fludarabine, cyclophosphamide, and rituxan treatment achieves long-term disease-free survival in IGHV-mutated chronic lymphocytic leukemia</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><forename type="middle">A</forename><surname>Thompson</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><forename type="middle">S</forename><surname>Tam</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><forename type="middle">M</forename><surname>O'brien</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Blood</title>
+		<imprint>
+			<biblScope unit="volume">127</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="303" to="309" />
+			<date type="published" when="2016" />
+		</imprint>
+	</monogr>
+	<note>PubMed: 26492934</note>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">FCR achieves long-term durable remissions in patients with IGHVmutated CLL</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><surname>Chai-Adisaksopha</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">R</forename><surname>Brown</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Blood</title>
+		<imprint>
+			<biblScope unit="volume">130</biblScope>
+			<biblScope unit="issue">21</biblScope>
+			<biblScope unit="page" from="2278" to="2282" />
+			<date type="published" when="2017" />
+		</imprint>
+	</monogr>
+	<note>PubMed: 29025740</note>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Combination chemotherapy with pentostatin, cyclophosphamide, and rituximab shows significant clinical activity with low accompanying toxicity in previously untreated B chronic lymphocytic leukemia</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">N</forename><surname>Kay</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Geyer</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><forename type="middle">G</forename><surname>Call</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Blood</title>
+		<imprint>
+			<biblScope unit="volume">109</biblScope>
+			<biblScope unit="page" from="405" to="411" />
+			<date type="published" when="2007" />
+		</imprint>
+	</monogr>
+	<note>PubMed: 17008537</note>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Single-agent ibrutinib in treatment-naïve and relapse/ refractory chronic lymphocytic leukemia: a 5-year experience</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><forename type="middle">O</forename><surname>O'brien</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><forename type="middle">R</forename><surname>Furman</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Coutre</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Blood</title>
+		<imprint>
+			<biblScope unit="volume">131</biblScope>
+			<biblScope unit="issue">17</biblScope>
+			<biblScope unit="page" from="1910" to="1919" />
+			<date type="published" when="2018" />
+		</imprint>
+	</monogr>
+	<note>PubMed: 29437592</note>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Idelalisib and Rituximab in Relapsed Chronic Lymphocytic Leukemia</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><forename type="middle">R</forename><surname>Furman</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">P</forename><surname>Sharman</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><forename type="middle">E</forename><surname>Coutre</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">N Eng J Med</title>
+		<imprint>
+			<biblScope unit="volume">370</biblScope>
+			<biblScope unit="page" from="997" to="1007" />
+			<date type="published" when="2014" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Ibrutinib Regimens versus Chemoimmunotherapy in Older Patients with Untreated CLL</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">A</forename><surname>Woyach</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><forename type="middle">S</forename><surname>Ruppert</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">N</forename><forename type="middle">A</forename><surname>Heerema</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">N Engl J Med</title>
+		<imprint>
+			<biblScope unit="volume">379</biblScope>
+			<biblScope unit="page" from="2517" to="2528" />
+			<date type="published" when="2018" />
+		</imprint>
+	</monogr>
+	<note>PubMed: 30501481</note>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Ibrutinib-based Therapy vs Chemimmunotherapy for Chronic Lymphocytic Leukemia</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Shanafelt</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">V</forename><surname>Wang</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">N</forename><forename type="middle">E</forename><surname>Kay</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Blood</title>
+		<imprint>
+			<biblScope unit="volume">132</biblScope>
+			<biblScope unit="page">4</biblScope>
+			<date type="published" when="2018" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Allogeneic stem cell transplantation provides durable disease control in poor-risk chronic lymphocytic leukemia: long-term clinical and MRD results of the German CLL Study Group CLL3X trial</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><surname>Dreger</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><surname>Dohner</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Ritgen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Blood</title>
+		<imprint>
+			<biblScope unit="volume">116</biblScope>
+			<biblScope unit="issue">14</biblScope>
+			<biblScope unit="page" from="2438" to="2447" />
+			<date type="published" when="2010" />
+		</imprint>
+	</monogr>
+	<note>PubMed: 20595516</note>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Early autologous stem cell transplantation for chronic lymphocytic leukemia: long-term follow-up of the German CLL Study Group CLL3 trial</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><surname>Dreger</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><surname>Dohner</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">F</forename><surname>Mcclanahan</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Blood</title>
+		<imprint>
+			<biblScope unit="volume">119</biblScope>
+			<biblScope unit="issue">21</biblScope>
+			<biblScope unit="page" from="4851" to="4859" />
+			<date type="published" when="2012" />
+		</imprint>
+	</monogr>
+	<note>PubMed: 22490331</note>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Durable molecular remissions in chronic lymphocytic leukemia treated with CD19 specific chimeric antigen receptor-modified T cells after failure of ibrutinib</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><forename type="middle">J</forename><surname>Turtle</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><forename type="middle">A</forename><surname>Hay</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">L</forename><forename type="middle">A</forename><surname>Hanafi</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Clin Oncol</title>
+		<imprint>
+			<biblScope unit="volume">35</biblScope>
+			<biblScope unit="page" from="3010" to="3020" />
+			<date type="published" when="2017" />
+		</imprint>
+	</monogr>
+	<note>PubMed: 28715249</note>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">The biochemical and clinical consequences of 2&apos;-deoxycoformycin in refractory lymphoproliferative malignancy</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Grever</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">P</forename><surname>Siaw</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">W</forename><forename type="middle">F</forename><surname>Jacob</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Blood</title>
+		<imprint>
+			<biblScope unit="volume">57</biblScope>
+			<biblScope unit="page" from="406" to="417" />
+			<date type="published" when="1981" />
+		</imprint>
+	</monogr>
+	<note>PubMed: 6970050</note>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Deoxycoformycin in the Treatment of Leukemias and Lymphomas</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">F</forename><surname>Smyth</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Grant</forename><surname>Prentice</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><surname>Proctor</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Victor</forename><surname>Hoffbrand</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ann NY Acad Sciences</title>
+		<imprint>
+			<biblScope unit="volume">451</biblScope>
+			<biblScope unit="page" from="123" to="128" />
+			<date type="published" when="1985" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Low-Dose Deoxycoformycin in Lymphoid Malignancy</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">R</forename><surname>Grever</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">M</forename><surname>Leiby</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><forename type="middle">H</forename><surname>Kraut</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Clin Oncol</title>
+		<imprint>
+			<biblScope unit="volume">3</biblScope>
+			<biblScope unit="page" from="1196" to="1201" />
+			<date type="published" when="1985" />
+		</imprint>
+	</monogr>
+	<note>PubMed: 2993534</note>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">Deoxycoformycin (Pentostatin) for Lymphoid Malignancies. Rational Development of an Active Drug</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><forename type="middle">J</forename><surname>O'dwyer</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">B</forename><surname>Wagner</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">B</forename><surname>Leyland-Jones</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ann Int Med</title>
+		<imprint>
+			<biblScope unit="volume">108</biblScope>
+			<biblScope unit="page" from="733" to="743" />
+			<date type="published" when="1988" />
+		</imprint>
+	</monogr>
+	<note>PubMed: 3282467</note>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Pentostatin in refractory chronic lymphocytic leukemia: a phase II trial of the European Organization for Treatment of Cancer</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Ho</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Thaler</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><surname>Stryckmans</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Natl Cancer Inst</title>
+		<imprint>
+			<biblScope unit="volume">82</biblScope>
+			<biblScope unit="issue">17</biblScope>
+			<biblScope unit="page" from="1416" to="1420" />
+			<date type="published" when="1990" />
+		</imprint>
+	</monogr>
+	<note>PubMed: 2388293</note>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Pentostatin in Chronic Lymphocytic Leukemia. A Phase II Trial of Cancer and Leukemia Group B</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><forename type="middle">O</forename><surname>Dillman</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><surname>Mack</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><forename type="middle">O</forename><surname>Mcintyre</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Clin Oncol</title>
+		<imprint>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="page" from="433" to="438" />
+			<date type="published" when="1989" />
+		</imprint>
+	</monogr>
+	<note>PubMed: 2784491</note>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Pentostatin, chlorambucil and prednisone therapy for B-chronic lymphocytic leukemia: a phase I/II study by the Eastern Cooperative Oncology Study Group study E1488</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">M</forename><surname>Oken</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Lee</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">N</forename><forename type="middle">E</forename><surname>Kay</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">W</forename><surname>Knospe</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><forename type="middle">A</forename><surname>Cassileth</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Leuk Lymphoma</title>
+		<imprint>
+			<biblScope unit="volume">45</biblScope>
+			<biblScope unit="page" from="79" to="84" />
+			<date type="published" when="2004" />
+		</imprint>
+	</monogr>
+	<note>PubMed: 15061201</note>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">Pentoststin and cyclophosphamide: an effective new regimen in previously treated patients with chronic lymphocytic leukemia</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">A</forename><surname>Weiss</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><forename type="middle">G</forename><surname>Maslak</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Jurcic</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Clin Oncol</title>
+		<imprint>
+			<biblScope unit="volume">21</biblScope>
+			<biblScope unit="page" from="1278" to="1284" />
+			<date type="published" when="2003" />
+		</imprint>
+	</monogr>
+	<note>PubMed: 12663715</note>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">Pentostatin, cyclophosphamide, and rituximab regimen in older patients with chronic lymphocytic leukemia</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><forename type="middle">D</forename><surname>Shanafelt</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Lin</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><forename type="middle">M</forename><surname>Geyer</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Cancer</title>
+		<imprint>
+			<biblScope unit="volume">109</biblScope>
+			<biblScope unit="page" from="2291" to="2298" />
+			<date type="published" when="2007" />
+		</imprint>
+	</monogr>
+	<note>PubMed: 17514743</note>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">Effects of CAMPATH −1 Antibodies In Vivo in Patients With Lymphoid Malignancies: Influence of Antibody Isotype</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Mjs</forename><surname>Dyer</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">G</forename><surname>Hale</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">F</forename><forename type="middle">G</forename><surname>Hayhoe</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><surname>Waldmann</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Blood</title>
+		<imprint>
+			<biblScope unit="volume">73</biblScope>
+			<biblScope unit="page" from="1431" to="1439" />
+			<date type="published" when="1989" />
+		</imprint>
+	</monogr>
+	<note>PubMed: 2713487</note>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">Remission Induction in Patients With Lymphoid Malignancies Using Unconjugated CAMPATH-1 Monoclonal Antibodies</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Mjs</forename><surname>Dyer</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">G</forename><surname>Hale</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><surname>Marcus</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><surname>Waldmann</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Leukemia and Lymphoma</title>
+		<imprint>
+			<biblScope unit="volume">2</biblScope>
+			<biblScope unit="page" from="179" to="193" />
+			<date type="published" when="1990" />
+		</imprint>
+	</monogr>
+	<note>PubMed: 27456733</note>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">Alemtuzumab Compared With Chlorambucil As First-Line Therapy for Chronic Lymphocytic Leukemia</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><surname>Hillmen</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><forename type="middle">B</forename><surname>Skotnicki</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Robak</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Clin Oncol</title>
+		<imprint>
+			<biblScope unit="volume">25</biblScope>
+			<biblScope unit="page" from="5616" to="5623" />
+			<date type="published" when="2007" />
+		</imprint>
+	</monogr>
+	<note>PubMed: 17984186</note>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title level="a" type="main">A phase II multi-center study of human CD 52 antibody in previously treated chronic lymphocytic leukemia. European Study Group of CAMPATH-1H Treatment in chronic lymphocytic leukemia</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Osterborg</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">J</forename><surname>Dyer</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><surname>Bunjes</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Clin Oncol</title>
+		<imprint>
+			<biblScope unit="volume">15</biblScope>
+			<biblScope unit="page" from="1567" to="1574" />
+			<date type="published" when="1997" />
+		</imprint>
+	</monogr>
+	<note>PubMed: 9193354</note>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title level="a" type="main">Alemtuzumab is an effective therapy for chronic lymphocytic leukemia with p53 mutations and deletions</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">G</forename><surname>Lozanski</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">N</forename><forename type="middle">A</forename><surname>Heerema</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">I</forename><forename type="middle">W</forename><surname>Flinn</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Blood</title>
+		<imprint>
+			<biblScope unit="volume">103</biblScope>
+			<biblScope unit="page" from="3278" to="3281" />
+			<date type="published" when="2004" />
+		</imprint>
+	</monogr>
+	<note>PubMed: 14726385</note>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title level="a" type="main">Therapeutic role of alemtuzumab (CAMPATH-1H) in patients who have failed fludarabine: results of a large international study</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">J</forename><surname>Keating</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Flinn</forename><forename type="middle">I</forename><surname>Jain</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">V</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Blood</title>
+		<imprint>
+			<biblScope unit="volume">99</biblScope>
+			<biblScope unit="page" from="3554" to="3561" />
+			<date type="published" when="2002" />
+		</imprint>
+	</monogr>
+	<note>PubMed: 11986207</note>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title level="a" type="main">An open-label, pilot study of fludarabine, cyclophosphamide, and alemtuzumab in relapsed/refractory patients with B-cell chronic lymphocytic leukemia</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Montillo</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Tedeschi</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">V</forename><forename type="middle">B</forename><surname>Petrizzi</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Blood</title>
+		<imprint>
+			<biblScope unit="volume">118</biblScope>
+			<biblScope unit="page" from="4079" to="4085" />
+			<date type="published" when="2011" />
+		</imprint>
+	</monogr>
+	<note>PubMed: 21772050</note>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+		<title level="a" type="main">Cyclophosphamide, fludarabine, alemtuzumab, and rituximab as salvage therapy for heavily pretreated patients with chronic lymphocytic leukemia</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">X</forename><forename type="middle">C</forename><surname>Badoux</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">J</forename><surname>Keating</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">X</forename><surname>Wang</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Blood</title>
+		<imprint>
+			<biblScope unit="volume">118</biblScope>
+			<biblScope unit="page" from="2085" to="2093" />
+			<date type="published" when="2011" />
+		</imprint>
+	</monogr>
+	<note>PubMed: 21670470</note>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<analytic>
+		<title level="a" type="main">Frontline low-dose alemtuzumab with fludarabine and cyclophosphamide prolonged progression-free survival in high-risk CLL</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><forename type="middle">H</forename><surname>Geisler</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">B</forename><surname>Veer</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Jurlander</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Blood</title>
+		<imprint>
+			<biblScope unit="volume">123</biblScope>
+			<biblScope unit="issue">21</biblScope>
+			<biblScope unit="page" from="3255" to="3262" />
+			<date type="published" when="2014" />
+		</imprint>
+	</monogr>
+	<note>PubMed: 24735962</note>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<analytic>
+		<title level="a" type="main">Frontline chemoimmunotherapy with fludarabine, cyclophosphamide, alemtuzumab, and rituximab for high-risk chronic lymphocytic leukemia</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><forename type="middle">A</forename><surname>Parikh</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">J</forename><surname>Keating</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>O'brien</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Blood</title>
+		<imprint>
+			<biblScope unit="volume">118</biblScope>
+			<biblScope unit="page" from="2062" to="2068" />
+			<date type="published" when="2011" />
+		</imprint>
+	</monogr>
+	<note>PubMed: 21750315</note>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<analytic>
+		<title level="a" type="main">National Cancer Institute -sponsored Working Group guidelines for chronic lymphocytic leukemia: revised guidelines for diagnosis and treatment</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">B</forename><forename type="middle">D</forename><surname>Cheson</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">M</forename><surname>Bennett</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Grever</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Blood</title>
+		<imprint>
+			<biblScope unit="volume">87</biblScope>
+			<biblScope unit="issue">12</biblScope>
+			<biblScope unit="page" from="4990" to="4997" />
+			<date type="published" when="1996" />
+		</imprint>
+	</monogr>
+	<note>PubMed: 8652811</note>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<analytic>
+		<title level="a" type="main">Clinical staging of chronic lymphocytic leukemia</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><forename type="middle">R</forename><surname>Rai</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Sawitsky</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><forename type="middle">P</forename><surname>Cronkite</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><forename type="middle">D</forename><surname>Chanana</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><forename type="middle">N</forename><surname>Levy</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Blood</title>
+		<imprint>
+			<biblScope unit="volume">46</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="219" to="234" />
+			<date type="published" when="1975" />
+		</imprint>
+	</monogr>
+	<note>PubMed: 1139039</note>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<analytic>
+		<title level="a" type="main">β−2 microglobulin (B2M) is an independent prognostic factor for clinical outcome in patients with CLL treated with frontline fludarabine, cyclophosphamide, and rituximab (FCR) regardless of age, creatinine clearance (CrCL)</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><forename type="middle">M</forename><surname>Tsimberidou</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><surname>Tam</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">W</forename><surname>Wierda</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>O'brien</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Lerner</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">J</forename><surname>Keating</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Clin Oncol</title>
+		<imprint>
+			<biblScope unit="volume">25</biblScope>
+			<biblScope unit="issue">18S</biblScope>
+			<biblScope unit="page">7034</biblScope>
+			<date type="published" when="2007" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<analytic>
+		<title level="a" type="main">Predictive value of β2-microglobulin (B2-m) levels in chronic lymphocytic leukemia since Binet A stages</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Gentile</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">G</forename><surname>Cutrona</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Neri</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Haematologica</title>
+		<imprint>
+			<biblScope unit="volume">94</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page" from="887" to="888" />
+			<date type="published" when="2009" />
+		</imprint>
+	</monogr>
+	<note>PubMed: 19483161</note>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<analytic>
+		<title level="a" type="main">Relative value of ZAP-70, CD38, and immunoglobulin mutation status in predicting aggressive disease in chronic lymphocytic leukemia</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">L</forename><forename type="middle">Z</forename><surname>Rassenti</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Jain</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">J</forename><surname>Keating</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Blood</title>
+		<imprint>
+			<biblScope unit="volume">112</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page" from="1923" to="1930" />
+			<date type="published" when="2008" />
+		</imprint>
+	</monogr>
+	<note>PubMed: 18577710</note>
+</biblStruct>
+
+<biblStruct xml:id="b35">
+	<analytic>
+		<title level="a" type="main">Chromosome anomalies detected by interphase fluorescence in situ hybridization: correlation with significant biological features of B-cell chronic lymphocytic leukaemia</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">G</forename><forename type="middle">W</forename><surname>Dewald</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><forename type="middle">R</forename><surname>Brockman</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><forename type="middle">F</forename><surname>Paternoster</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Br J Haematol</title>
+		<imprint>
+			<biblScope unit="volume">121</biblScope>
+			<biblScope unit="page" from="287" to="295" />
+			<date type="published" when="2003" />
+		</imprint>
+	</monogr>
+	<note>PubMed: 12694251</note>
+</biblStruct>
+
+<biblStruct xml:id="b36">
+	<analytic>
+		<title level="a" type="main">Rapid Cytomegalovirus pp65 Antigenemia Assay by Direct Erythrocyte Lysis and Immunoflourescence Staining</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Skn</forename><surname>Ho</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><forename type="middle">Y</forename><surname>Lo</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Ikp</forename><surname>Cheng</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><forename type="middle">M</forename><surname>Chan</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Clin Microbiol</title>
+		<imprint>
+			<biblScope unit="volume">36</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="638" to="640" />
+			<date type="published" when="1998" />
+		</imprint>
+	</monogr>
+	<note>PubMed: 9508287</note>
+</biblStruct>
+
+<biblStruct xml:id="b37">
+	<analytic>
+		<title level="a" type="main">Development of Real-Time PCR Assays for the Quantitative Detection of Epstein-Barr Virus and Cytomegalovirus, Comparison of TaqMan Probes and Molecular Beacons</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Jebbink</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">X</forename><surname>Bai</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">B</forename><forename type="middle">B</forename><surname>Rogers</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><forename type="middle">B</forename><surname>Dawson</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><forename type="middle">H</forename><surname>Scheuermann</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><surname>Domiati-Saad</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Mol Diagn</title>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="15" to="20" />
+			<date type="published" when="2003" />
+		</imprint>
+	</monogr>
+	<note>PubMed: 12552075</note>
+</biblStruct>
+
+<biblStruct xml:id="b38">
+	<analytic>
+		<title level="a" type="main">Subcutaneous CAMPATH-1H in fludarabine-resistant/relapsed chronic lymphocytic and B-prolymphocytic leukaemia</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><forename type="middle">L</forename><surname>Bowen</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Zomas</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Emmett</forename><forename type="middle">E</forename><surname>Matutes</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><surname>Dyer</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">J</forename><surname>Catovsky</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Br J Haematol</title>
+		<imprint>
+			<biblScope unit="volume">96</biblScope>
+			<biblScope unit="page" from="617" to="619" />
+			<date type="published" when="1997" />
+		</imprint>
+	</monogr>
+	<note>PubMed: 9054672</note>
+</biblStruct>
+
+<biblStruct xml:id="b39">
+	<analytic>
+		<title level="a" type="main">Subcutaneous Alemtuzumab in Fludarabine-Refractory Chronic Lymphocytic Leukemia: Clinical Results and Prognostic Marker Analyses From the CLL2H Study of the German Chronic Lymphocytic Leukemia Study Group</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Stilgenbauer</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Zenz</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><surname>Winkler</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Clin Oncol</title>
+		<imprint>
+			<biblScope unit="volume">27</biblScope>
+			<biblScope unit="page" from="3994" to="4001" />
+			<date type="published" when="2009" />
+		</imprint>
+	</monogr>
+	<note>PubMed: 19597025</note>
+</biblStruct>
+
+<biblStruct xml:id="b40">
+	<analytic>
+		<title level="a" type="main">Management of Infections in Patients with Chronic Lymphocytic Leukemia Treated with Alemtuzumab</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Elter</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">J</forename><surname>Vehreschild</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Gribben</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">O</forename><forename type="middle">A</forename><surname>Cornely</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Engert</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Hallek</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ann Hematol</title>
+		<imprint>
+			<biblScope unit="volume">88</biblScope>
+			<biblScope unit="page" from="121" to="132" />
+			<date type="published" when="2009" />
+		</imprint>
+	</monogr>
+	<note>PubMed: 18682948</note>
+</biblStruct>
+
+<biblStruct xml:id="b41">
+	<analytic>
+		<title level="a" type="main">Confidence limits for probability of response in multistage phase II clinical trials</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><forename type="middle">N</forename><surname>Atkinson</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">B</forename><forename type="middle">W</forename><surname>Brown</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Biometrics</title>
+		<imprint>
+			<biblScope unit="volume">41</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="741" to="744" />
+			<date type="published" when="1985" />
+		</imprint>
+	</monogr>
+	<note>PubMed: 4074823</note>
+</biblStruct>
+
+<biblStruct xml:id="b42">
+	<analytic>
+		<title level="a" type="main">On the interpretation of X 2 from contingency tables and the calculation of P</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><forename type="middle">A</forename><surname>Fisher</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Royal Statistical Soc</title>
+		<imprint>
+			<biblScope unit="volume">85</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="87" to="94" />
+			<date type="published" when="1922" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b43">
+	<analytic>
+		<title level="a" type="main">Wilcoxon F Comparisons by ranking methods</title>
+	</analytic>
+	<monogr>
+		<title level="j">Biometrics Bull</title>
+		<imprint>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page" from="80" to="83" />
+			<date type="published" when="1945" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b44">
+	<analytic>
+		<title level="a" type="main">Nonparametric estimation from incomplete observations</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><forename type="middle">L</forename><surname>Kaplan</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><surname>Meier</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Am Statist Assoc</title>
+		<imprint>
+			<biblScope unit="volume">53</biblScope>
+			<biblScope unit="page" from="457" to="481" />
+			<date type="published" when="1958" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b45">
+	<analytic>
+		<title level="a" type="main">Unusual autoimmune non-hematologic complications in chronic lymphocytic leukemia</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Jung</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">I</forename><surname>Rice</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Clin Lymphoma, Myeloma and Leukemia</title>
+		<imprint>
+			<biblScope unit="volume">11</biblScope>
+			<biblScope unit="page" from="510" to="513" />
+			<date type="published" when="2011" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b46">
+	<analytic>
+		<title level="a" type="main">Autoimmune complications of chronic lymphocytic leukemia</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><forename type="middle">J</forename><surname>Hamblin</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Semin Oncol</title>
+		<imprint>
+			<biblScope unit="volume">33</biblScope>
+			<biblScope unit="page" from="230" to="239" />
+			<date type="published" when="2006" />
+		</imprint>
+	</monogr>
+	<note>PubMed: 16616070</note>
+</biblStruct>
+
+<biblStruct xml:id="b47">
+	<analytic>
+		<title level="a" type="main">Autoimmune Complications in Chronic Lymphocytic Leukemia (CLL)</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><forename type="middle">S</forename><surname>Zent</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">N</forename><forename type="middle">E</forename><surname>Kay</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Best Pract Res Clin Haematol</title>
+		<imprint>
+			<biblScope unit="volume">23</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="47" to="59" />
+			<date type="published" when="2010" />
+		</imprint>
+	</monogr>
+	<note>PubMed: 20620970</note>
+</biblStruct>
+
+<biblStruct xml:id="b48">
+	<analytic>
+		<title level="a" type="main">Autoimmune thrombocytopenia after treatment with Campath −1H in a patient with chronic lymphocytic leukaemia</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><forename type="middle">H</forename><surname>Otton</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><forename type="middle">L</forename><surname>Turner</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><surname>Frewin</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><forename type="middle">V</forename><surname>Davies</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><forename type="middle">A</forename><surname>Johnson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Br J Haematol</title>
+		<imprint>
+			<biblScope unit="volume">106</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="261" to="262" />
+			<date type="published" when="1999" />
+		</imprint>
+	</monogr>
+	<note>PubMed: 10444204</note>
+</biblStruct>
+
+<biblStruct xml:id="b49">
+	<analytic>
+		<title level="a" type="main">Risk of Second cancer after chronic lymphocytic leukemia</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><surname>Schollkopf</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><surname>Rosendahl</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><surname>Rostgaard</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><surname>Pipper</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><surname>Hjalgrim</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Int J Cancer</title>
+		<imprint>
+			<biblScope unit="volume">121</biblScope>
+			<biblScope unit="page" from="151" to="156" />
+			<date type="published" when="2007" />
+		</imprint>
+	</monogr>
+	<note>PubMed: 17351903</note>
+</biblStruct>
+
+<biblStruct xml:id="b50">
+	<analytic>
+		<title level="a" type="main">Second Malignancy Risks After Non-Hodgkin&apos;s Lymphoma and Chronic Lymphocytic Leukemia Subtype</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">L</forename><forename type="middle">M</forename><surname>Morton</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><forename type="middle">E</forename><surname>Curtis</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">S</forename><surname>Linet</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Clin Oncol</title>
+		<imprint>
+			<biblScope unit="volume">28</biblScope>
+			<biblScope unit="page" from="4935" to="4944" />
+			<date type="published" when="2010" />
+		</imprint>
+	</monogr>
+	<note>PubMed: 20940199</note>
+</biblStruct>
+
+<biblStruct xml:id="b51">
+	<analytic>
+		<title level="a" type="main">Incidence of therapy-related myeloid neoplasia after initial therapy for chronic lymphocytic leukemia with fludarabine-cyclophosphamide versus fludarabine: long-term follow-up of US Intergroup Study E2997</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">R</forename><surname>Smith</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><surname>Neuberg</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">I</forename><forename type="middle">W</forename><surname>Flinn</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Blood</title>
+		<imprint>
+			<biblScope unit="volume">118</biblScope>
+			<biblScope unit="issue">13</biblScope>
+			<biblScope unit="page" from="3525" to="3527" />
+			<date type="published" when="2011" />
+		</imprint>
+	</monogr>
+	<note>PubMed: 21803850</note>
+</biblStruct>
+
+<biblStruct xml:id="b52">
+	<analytic>
+		<title level="a" type="main">Second Malignancies as a Consequence of Nucleoside Analog Therapy for Chronic Lymphoid Leukemias</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">B</forename><forename type="middle">D</forename><surname>Cheson</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><forename type="middle">A</forename><surname>Vena</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Barrett</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">B</forename><surname>Freidlin</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Clin Oncol</title>
+		<imprint>
+			<biblScope unit="volume">17</biblScope>
+			<biblScope unit="page" from="2454" to="2460" />
+			<date type="published" when="1999" />
+		</imprint>
+	</monogr>
+	<note>PubMed: 10561309</note>
+</biblStruct>
+
+<biblStruct xml:id="b53">
+	<analytic>
+		<title level="a" type="main">Risk Factors for Melanoma Among Survivors of Non-Hodgkin Lymphoma</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><forename type="middle">J</forename><surname>Lam</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><forename type="middle">E</forename><surname>Curtis</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">G</forename><forename type="middle">M</forename><surname>Dores</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Clin Oncol</title>
+		<imprint>
+			<biblScope unit="volume">33</biblScope>
+			<biblScope unit="issue">28</biblScope>
+			<biblScope unit="page" from="3096" to="3104" />
+			<date type="published" when="2015" />
+		</imprint>
+	</monogr>
+	<note>PubMed: 26240221</note>
+</biblStruct>
+
+<biblStruct xml:id="b54">
+	<analytic>
+		<title level="a" type="main">Cyclophosphamide, and Rituximab is an Active, Well-Tolerated Regimen for Patients with Previously Treated Chronic Lymphocytic Leukemia</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">N</forename><surname>Lamanna</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Kalaycio</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><surname>Maslak</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Clin Oncol</title>
+		<imprint>
+			<biblScope unit="volume">24</biblScope>
+			<biblScope unit="page" from="1575" to="1581" />
+			<date type="published" when="2006" />
+		</imprint>
+	</monogr>
+	<note>PubMed: 16520464</note>
+</biblStruct>
+
+<biblStruct xml:id="b55">
+	<analytic>
+		<title level="a" type="main">Fludarabine, cyclophosphamide, and rituximab chemoimmunotherapy is highly effective treatment for relapsed patients with CLL</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">X</forename><forename type="middle">C</forename><surname>Badoux</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Mjh</forename><surname>Keating</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">X</forename><surname>Wang</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Blood</title>
+		<imprint>
+			<biblScope unit="volume">117</biblScope>
+			<biblScope unit="page" from="3016" to="3024" />
+			<date type="published" when="2011" />
+		</imprint>
+	</monogr>
+	<note>PubMed: 21245487</note>
+</biblStruct>
+
+<biblStruct xml:id="b56">
+	<analytic>
+		<title level="a" type="main">Cumulative experience and long term follow-up of pentostatin based chemoimmunotherapy trials for patients with chronic lymphocytic leukemia</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">N</forename><forename type="middle">E</forename><surname>Kay</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">B</forename><forename type="middle">R</forename><surname>Laplant</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><forename type="middle">M</forename><surname>Pettinger</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Expert Rev Hematol</title>
+		<imprint>
+			<biblScope unit="volume">11</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="337" to="349" />
+			<date type="published" when="2018" />
+		</imprint>
+	</monogr>
+	<note>PubMed: 29460654</note>
+</biblStruct>
+
+<biblStruct xml:id="b57">
+	<analytic>
+		<title level="a" type="main">Excess mortality after treatment with fludarabine and cyclophosphamide in combination with alemtuzumab in previously untreated patients with chronic lymphocytic leukemia in a randomized phase 3 trial</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Lepretre</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Aurran</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">B</forename><surname>Mahe</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Blood</title>
+		<imprint>
+			<biblScope unit="volume">119</biblScope>
+			<biblScope unit="issue">22</biblScope>
+			<biblScope unit="page" from="5104" to="5110" />
+			<date type="published" when="2012" />
+		</imprint>
+	</monogr>
+	<note>PubMed: 22337714</note>
+</biblStruct>
+
+<biblStruct xml:id="b58">
+	<analytic>
+		<title level="a" type="main">In vivo &quot;purging&quot; of residual disease in CLL with CAMPATH −1H</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">J</forename><surname>Dyer</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><forename type="middle">M</forename><surname>Kelsey</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><forename type="middle">J</forename><surname>Mackay</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Br J Haematol</title>
+		<imprint>
+			<biblScope unit="volume">97</biblScope>
+			<biblScope unit="page" from="669" to="672" />
+			<date type="published" when="1997" />
+		</imprint>
+	</monogr>
+	<note>PubMed: 9207420</note>
+</biblStruct>
+
+<biblStruct xml:id="b59">
+	<analytic>
+		<title level="a" type="main">Safety and efficacy of subcutaneous CAMPATH-1H for treating residual disease in patients with chronic lymphocytic leukemia responding to fludarabine</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Montillo</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><forename type="middle">M</forename><surname>Cafro</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Tedeschi</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Hematologica</title>
+		<imprint>
+			<biblScope unit="volume">87</biblScope>
+			<biblScope unit="page" from="695" to="700" />
+			<date type="published" when="2002" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b60">
+	<analytic>
+		<title level="a" type="main">Alemtuzumab as treatment for residual disease after chemotherapy in patients with chronic lymphocytic leukemia</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><forename type="middle">M</forename><surname>O'brien</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><forename type="middle">M</forename><surname>Kantarjian</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><forename type="middle">A</forename><surname>Thomas</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Cancer</title>
+		<imprint>
+			<biblScope unit="volume">98</biblScope>
+			<biblScope unit="page" from="2657" to="2663" />
+			<date type="published" when="2003" />
+		</imprint>
+	</monogr>
+	<note>PubMed: 14669286</note>
+</biblStruct>
+
+<biblStruct xml:id="b61">
+	<analytic>
+		<title level="a" type="main">Consolidation with alemtuzumab in patients with chronic lymphocytic leukemia(CLL) in first remission-an experience on safety and efficacy within a randomized multicenter phase III trial of the German CLL Study Group (GCLLSG)</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><forename type="middle">M</forename><surname>Wendtner</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Ritgen</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><forename type="middle">D</forename><surname>Schweighofer</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Leukemia</title>
+		<imprint>
+			<biblScope unit="volume">18</biblScope>
+			<biblScope unit="page" from="1093" to="1101" />
+			<date type="published" when="2004" />
+		</imprint>
+	</monogr>
+	<note>PubMed: 15071604</note>
+</biblStruct>
+
+<biblStruct xml:id="b62">
+	<monogr>
+		<title level="m" type="main">Consolidation with alemtuzumab improves progression-free survival in patients with chronic lymphocytic leukemia (CLL) in first remissionlong-term follow-up of a randomized phase</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><forename type="middle">D</forename><surname>Schweighofer</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Ritgen</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">B</forename><forename type="middle">F</forename><surname>Eichhorst</surname></persName>
+		</author>
+		<imprint/>
+	</monogr>
+	<note>III trial of the German CLL Study Group (GCLLSG</note>
+</biblStruct>
+
+<biblStruct xml:id="b63">
+	<analytic>
+		<title/>
+	</analytic>
+	<monogr>
+		<title level="j">Br J Haematol</title>
+		<imprint>
+			<biblScope unit="volume">144</biblScope>
+			<biblScope unit="page" from="95" to="98" />
+			<date type="published" when="2008" />
+		</imprint>
+	</monogr>
+	<note>PubMed: 19016732</note>
+</biblStruct>
+
+<biblStruct xml:id="b64">
+	<analytic>
+		<title level="a" type="main">Alemtuzumab As Consolidation After a Response to Fludarabine Is Effective in Purging Residual Disease in Patients With Chronic Lymphocytic Leukemia</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Montillo</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Tedeschi</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Miqueleiz</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Clin Oncol</title>
+		<imprint>
+			<biblScope unit="volume">24</biblScope>
+			<biblScope unit="page" from="2337" to="2342" />
+			<date type="published" when="2006" />
+		</imprint>
+	</monogr>
+	<note>PubMed: 16618945</note>
+</biblStruct>
+
+<biblStruct xml:id="b65">
+	<analytic>
+		<title level="a" type="main">Combination therapy with fludarabine and rituximab followed by alemtuzumab in the first-line treatment of patients with chronic lymphocytic leukemia or small lymphocytic lymphoma</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">D</forename><surname>Hainsworth</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><forename type="middle">R</forename><surname>Vazquez</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><forename type="middle">R</forename><surname>Spigel</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Cancer</title>
+		<imprint>
+			<biblScope unit="volume">112</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page" from="1288" to="1295" />
+			<date type="published" when="2008" />
+		</imprint>
+	</monogr>
+	<note>PubMed: 18189296</note>
+</biblStruct>
+
+<biblStruct xml:id="b66">
+	<analytic>
+		<title level="a" type="main">Eradication of Minimal Residual Disease in B-Cell Chronic Lymphocytic Leukemia After Alemtuzumab Therapy Is Associated With Prolonged Survival</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><surname>Moreton</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">B</forename><surname>Kennedy</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">G</forename><surname>Lucas</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Clin Oncol</title>
+		<imprint>
+			<biblScope unit="volume">23</biblScope>
+			<biblScope unit="page" from="2971" to="2979" />
+			<date type="published" when="2005" />
+		</imprint>
+	</monogr>
+	<note>PubMed: 15738539</note>
+</biblStruct>
+
+<biblStruct xml:id="b67">
+	<analytic>
+		<title level="a" type="main">Cytomegalovirus viremia during Campath-1H therapy for relapsed and refractory chronic lymphocytic leukemia</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><forename type="middle">D</forename><surname>Nguyen</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><forename type="middle">M</forename><surname>Cao</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><surname>Dugan</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><forename type="middle">A</forename><surname>Starcher</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><forename type="middle">L</forename><surname>Fechter</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><forename type="middle">E</forename><surname>Coutre</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Clin Lymphoma</title>
+		<imprint>
+			<biblScope unit="volume">3</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="105" to="110" />
+			<date type="published" when="2002" />
+		</imprint>
+	</monogr>
+	<note>PubMed: 12435283</note>
+</biblStruct>
+
+<biblStruct xml:id="b68">
+	<analytic>
+		<title level="a" type="main">Consolidation Therapy With Subcutaneous Alemtuzumab After Fludarabine and Rituximab Induction Therapy for Previously Untreated Chronic Lymphocytic Leukemia: Final Analysis of CALGB 10101</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><forename type="middle">S</forename><surname>Lin</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><forename type="middle">A</forename><surname>Donohue</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">C</forename><surname>Byrd</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Clin Oncol</title>
+		<imprint>
+			<biblScope unit="volume">28</biblScope>
+			<biblScope unit="page" from="4500" to="4506" />
+			<date type="published" when="2010" />
+		</imprint>
+	</monogr>
+	<note>PubMed: 20697069</note>
+</biblStruct>
+
+<biblStruct xml:id="b69">
+	<analytic>
+		<title level="a" type="main">Venetoclax-Rituximab in Relapsed or Refractory Chronic Lymphocytic Leukemia</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">F</forename><surname>Seymour</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><forename type="middle">J</forename><surname>Kipps</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">B</forename><surname>Eichorst</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">N Engl J Med</title>
+		<imprint>
+			<biblScope unit="volume">378</biblScope>
+			<biblScope unit="page" from="1107" to="1120" />
+			<date type="published" when="2018" />
+		</imprint>
+	</monogr>
+	<note>PubMed: 29562156</note>
+</biblStruct>
+
+<biblStruct xml:id="b70">
+	<analytic>
+		<title level="a" type="main">The risk of atrial fibrillation with ibrutinib use: a systematic review and meta-analysis</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><forename type="middle">P</forename><surname>Leong</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">F</forename><surname>Caron</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><surname>Hills</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Blood</title>
+		<imprint>
+			<biblScope unit="volume">138</biblScope>
+			<biblScope unit="page" from="138" to="140" />
+			<date type="published" when="2016" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b71">
+	<analytic>
+		<title level="a" type="main">Current understanding of bleeding with ibrutiunib use: a systematic review and meta-analysis</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">F</forename><surname>Caron</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><forename type="middle">P</forename><surname>Leong</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><surname>Hills</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">G</forename><surname>Fraser</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><surname>Siegel</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Blood Adv</title>
+		<imprint>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="issue">12</biblScope>
+			<biblScope unit="page" from="772" to="778" />
+			<date type="published" when="2017" />
+		</imprint>
+	</monogr>
+	<note>PubMed: 29296721</note>
+</biblStruct>
+
+<biblStruct xml:id="b72">
+	<analytic>
+		<title level="a" type="main">Ibrutinib-associated bleeding; pathogenesis, management, and risk reduction strategies</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">J</forename><surname>Shatzel</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><forename type="middle">R</forename><surname>Olson</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><forename type="middle">L</forename><surname>Tao</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Thromb Haemost</title>
+		<imprint>
+			<biblScope unit="volume">15</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page" from="835" to="847" />
+			<date type="published" when="2017" />
+		</imprint>
+	</monogr>
+	<note>PubMed: 28182323</note>
+</biblStruct>
+
+<biblStruct xml:id="b73">
+	<analytic>
+		<title level="a" type="main">Early-onset invasive aspergillosis and other fungal infections in patients treated with ibrutinib</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><surname>Ghez</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Calleja</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><surname>Protin</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Blood</title>
+		<imprint>
+			<biblScope unit="volume">131</biblScope>
+			<biblScope unit="issue">17</biblScope>
+			<biblScope unit="page" from="1955" to="1959" />
+			<date type="published" when="2018" />
+		</imprint>
+	</monogr>
+	<note>PubMed: 29437588</note>
+</biblStruct>
+
+<biblStruct xml:id="b74">
+	<analytic>
+		<title level="a" type="main">Idelalisib-associated Colitis: Histologic Findings in 14 Patients</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><forename type="middle">S</forename><surname>Weidner</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">N</forename><forename type="middle">C</forename><surname>Panarelli</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">T</forename><surname>Geyer</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Am J Surg Pathol</title>
+		<imprint>
+			<biblScope unit="volume">39</biblScope>
+			<biblScope unit="issue">12</biblScope>
+			<biblScope unit="page" from="1661" to="1667" />
+			<date type="published" when="2015" />
+		</imprint>
+	</monogr>
+	<note>PubMed: 26448188</note>
+</biblStruct>
+
+<biblStruct xml:id="b75">
+	<analytic>
+		<title level="a" type="main">Clonal evolution leading to ibrutinib resistance in chronic lymphocytic leukemia</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">I</forename><forename type="middle">E</forename><surname>Ahn</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><surname>Underbayev</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Albitar</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Blood</title>
+		<imprint>
+			<biblScope unit="volume">129</biblScope>
+			<biblScope unit="issue">11</biblScope>
+			<biblScope unit="page" from="1469" to="1479" />
+			<date type="published" when="2017" />
+		</imprint>
+	</monogr>
+	<note>PubMed: 28049639</note>
+</biblStruct>
+
+<biblStruct xml:id="b76">
+	<analytic>
+		<title level="a" type="main">Chemoimmunotherapy Is Not Dead Yet in Chronic Lymphocytic Leukemia</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">R</forename><surname>Brown</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">N</forename><forename type="middle">E</forename><surname>Kay</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Clin Oncol</title>
+		<imprint>
+			<biblScope unit="volume">35</biblScope>
+			<biblScope unit="page" from="1" to="4" />
+			<date type="published" when="2017" />
+		</imprint>
+	</monogr>
+	<note>PubMed: 28034063</note>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

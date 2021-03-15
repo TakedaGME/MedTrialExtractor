@@ -1,0 +1,1289 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /data/rsg/nlp/juanmoo1/bin/grobid-0.6.1/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Dynamics in treatment response and disease progression of metastatic colorectal cancer (mCRC) patients with focus on BRAF status and primary tumor location: analysis of untreated RAS-wild-type mCRC patients receiving FOLFOXIRI either with or without panitumumab in the VOLFI trial (AIO KRK0109)</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+				<date type="published" when="2020-05-24">24 May 2020</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Kurreck</surname></persName>
+							<affiliation key="aff0">
+								<address>
+									<country key="DE">Germany</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff0">
+								<address>
+									<country key="DE">Germany</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">•</forename><forename type="middle">M</forename><surname>Geissler</surname></persName>
+							<affiliation key="aff0">
+								<address>
+									<country key="DE">Germany</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff0">
+								<address>
+									<country key="DE">Germany</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">•</forename><forename type="middle">U M</forename><surname>Martens</surname></persName>
+							<affiliation key="aff0">
+								<address>
+									<country key="DE">Germany</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff0">
+								<address>
+									<country key="DE">Germany</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">•</forename><forename type="middle">J</forename><surname>Riera-Knorrenschild</surname></persName>
+							<affiliation key="aff0">
+								<address>
+									<country key="DE">Germany</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff0">
+								<address>
+									<country key="DE">Germany</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">•</forename><forename type="middle">J</forename><surname>Greeve</surname></persName>
+							<affiliation key="aff0">
+								<address>
+									<country key="DE">Germany</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff0">
+								<address>
+									<country key="DE">Germany</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">•</forename><forename type="middle">A</forename><surname>Florschütz</surname></persName>
+							<affiliation key="aff0">
+								<address>
+									<country key="DE">Germany</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff0">
+								<address>
+									<country key="DE">Germany</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">•</forename><forename type="middle">S</forename><surname>Wessendorf</surname></persName>
+							<affiliation key="aff0">
+								<address>
+									<country key="DE">Germany</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff0">
+								<address>
+									<country key="DE">Germany</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">•</forename><forename type="middle">T</forename><surname>Ettrich</surname></persName>
+							<affiliation key="aff0">
+								<address>
+									<country key="DE">Germany</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff0">
+								<address>
+									<country key="DE">Germany</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">•</forename><forename type="middle">S</forename><surname>Kanzler</surname></persName>
+							<affiliation key="aff0">
+								<address>
+									<country key="DE">Germany</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff0">
+								<address>
+									<country key="DE">Germany</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">•</forename><forename type="middle">D</forename><surname>Nörenberg</surname></persName>
+							<affiliation key="aff0">
+								<address>
+									<country key="DE">Germany</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff0">
+								<address>
+									<country key="DE">Germany</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">•</forename><forename type="middle">M</forename><surname>Seidensticker</surname></persName>
+							<affiliation key="aff0">
+								<address>
+									<country key="DE">Germany</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff0">
+								<address>
+									<country key="DE">Germany</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">•</forename><forename type="middle">S</forename><surname>Held</surname></persName>
+							<affiliation key="aff0">
+								<address>
+									<country key="DE">Germany</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff0">
+								<address>
+									<country key="DE">Germany</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">•</forename><forename type="middle">P</forename><surname>Buechner-Steudel</surname></persName>
+							<affiliation key="aff0">
+								<address>
+									<country key="DE">Germany</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff0">
+								<address>
+									<country key="DE">Germany</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">•</forename><forename type="middle">J</forename><surname>Atzpodi</surname></persName>
+							<idno type="ORCID">0000-0002-6853-0599</idno>
+							<affiliation key="aff0">
+								<address>
+									<country key="DE">Germany</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff0">
+								<address>
+									<country key="DE">Germany</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">•</forename><forename type="middle">V</forename><surname>Heinemann</surname></persName>
+							<affiliation key="aff0">
+								<address>
+									<country key="DE">Germany</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff0">
+								<address>
+									<country key="DE">Germany</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">•</forename><forename type="middle">S</forename><surname>Stintzing</surname></persName>
+							<affiliation key="aff0">
+								<address>
+									<country key="DE">Germany</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff0">
+								<address>
+									<country key="DE">Germany</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">•</forename><forename type="middle">T</forename><surname>Seufferlein</surname></persName>
+							<affiliation key="aff0">
+								<address>
+									<country key="DE">Germany</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff0">
+								<address>
+									<country key="DE">Germany</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">•</forename><forename type="middle">A</forename><surname>Tannapfel</surname></persName>
+							<affiliation key="aff0">
+								<address>
+									<country key="DE">Germany</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff0">
+								<address>
+									<country key="DE">Germany</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">•</forename><forename type="middle">A C</forename><surname>Reinacher-Schick</surname></persName>
+							<affiliation key="aff0">
+								<address>
+									<country key="DE">Germany</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff0">
+								<address>
+									<country key="DE">Germany</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">•</forename><forename type="middle">D P</forename><surname>Modest</surname></persName>
+							<idno type="ORCID">0000-0002-6853-0599</idno>
+							<affiliation key="aff0">
+								<address>
+									<country key="DE">Germany</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff0">
+								<address>
+									<country key="DE">Germany</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><forename type="middle">P</forename><surname>Modest</surname></persName>
+							<affiliation key="aff0">
+								<address>
+									<country key="DE">Germany</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Dynamics in treatment response and disease progression of metastatic colorectal cancer (mCRC) patients with focus on BRAF status and primary tumor location: analysis of untreated RAS-wild-type mCRC patients receiving FOLFOXIRI either with or without panitumumab in the VOLFI trial (AIO KRK0109)</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date type="published" when="2020-05-24">24 May 2020</date>
+						</imprint>
+					</monogr>
+					<idno type="DOI">10.1007/s00432-020-03257-z</idno>
+					<note type="submission">Received: 15 April 2020 / Accepted: 12 May 2020 /</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.6.1" ident="GROBID" when="2020-10-09T18:38+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>Metastatic colorectal cancer</term>
+					<term>Disease dynamics</term>
+					<term>Depth of response</term>
+					<term>Early tumor shrinkage</term>
+					<term>BRAF</term>
+					<term>Primary tumor site</term>
+					<term>Combination chemotherapy</term>
+				</keywords>
+			</textClass>
+			<abstract>
+				<p>Purpose In mCRC, disease dynamics may play a critical role in the understanding of long-term outcome. We evaluated depth of response (DpR), time to DpR, and post-DpR survival as relevant endpoints. Methods We analyzed DpR by central review of computer tomography images (change from baseline to smallest tumor diameter), early tumor shrinkage (≥ 20% reduction in tumor diameter at first reassessment), time to DpR (study randomization to DpR-image), post-DpR progression-free survival (pPFS = DpR-image to tumor progression or death), and post-DpR overall survival (pOS = DpR-image to death) with special focus on BRAF status in 66 patients and primary tumor site in 86 patients treated within the VOLFI-trial, respectively. Results BRAF wild-type (BRAF-WT) compared to BRAF mutant (BRAF-MT) patients had greater DpR (− 57.6% vs. − 40.8%, p = 0.013) with a comparable time to DpR [4.0 (95% CI 3.1-4.4) vs. 3.9 (95% CI 2.5-5.5) months; p = 0.8852]. pPFS was 6.5 (95% CI 4.9-8.0) versus 2.6 (95% CI 1.2-4.0) months in favor of BRAF-WT patients (HR 0.24 (95% CI 0.11-0.53); p &lt; 0.001). This transferred into a significant difference in pOS [33.6 (95% CI 26.0-41.3) vs. 5.4 (95% CI 5.0-5.9) months; HR 0.27 (95% CI 0.13-0.55); p &lt; 0.001]. Similar observations were made for patients stratified for primary tumor site. Conclusions BRAF-MT patients derive a less profound treatment response compared to BRAF-WT patients. The difference in outcome according to BRAF status is evident after achievement of DpR with BRAF-MT patients hardly deriving any further disease control beyond DpR. Our observations hint towards an aggressive tumor evolution in BRAF-MT tumors, which may already be molecularly detectable at the time of DpR.</p>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Introduction</head><p>Colorectal cancer (CRC) represents one of the most commonly diagnosed cancers in the Western World <ref type="bibr" target="#b3">(Boyle and Langman 2000)</ref>.</p><p>Within the entity of metastatic colorectal cancer (mCRC), there are substantial differences in tumor biology (i.e., RASmutant tumors, BRAF-mutant tumors, tumors with microsatellite-instability or Her2/neu expression) that determine treatment choices and outcome <ref type="bibr" target="#b10">(Douillard et al. 2013;</ref><ref type="bibr" target="#b15">Heinemann et al. 2014;</ref><ref type="bibr" target="#b18">Kopetz et al. 2019;</ref><ref type="bibr" target="#b25">Overman et al. 2018;</ref><ref type="bibr" target="#b32">Sartore-Bianchi et al. 2016;</ref><ref type="bibr" target="#b36">Van Cutsem et al. 2016)</ref>. Additionally, primary tumor location has a functional role as a biomarker with impact on prognosis and efficacy of EGFR-antibody-based therapy <ref type="bibr" target="#b2">(Arnold et al. 2017;</ref><ref type="bibr" target="#b16">Holch et al. 2017;</ref><ref type="bibr" target="#b23">Modest et al. 2014)</ref>. Besides molecularly defined subgroups, different tumor biology can also be characterized by dynamics in early treatment response, usually described as early tumor shrinkage (ETS) or depth of response (DpR)parameters which are also known to affect long-term survival <ref type="bibr" target="#b8">(Cremolini et al. 2015a;</ref><ref type="bibr" target="#b11">Douillard et al. 2015;</ref><ref type="bibr" target="#b12">Giessen et al. 2013;</ref><ref type="bibr" target="#b14">Heinemann et al. 2015;</ref><ref type="bibr" target="#b21">Modest et al. 2013;</ref><ref type="bibr" target="#b24">Modest et al. 2017;</ref><ref type="bibr" target="#b27">Piessevaux et al. 2009;</ref><ref type="bibr" target="#b29">Piessevaux et al. 2013;</ref><ref type="bibr" target="#b34">Stintzing et al. 2016)</ref>. The association of ETS and DpR with long-term survival is interpreted as an early identification of treatment-sensitive tumors, therefore, maybe also providing a valuable tool in the context of secondary resection of metastases <ref type="bibr" target="#b20">(Modest et al. 2020)</ref>. To the best of our knowledge, the dynamics and clinical course of mCRC beyond these early endpoints (i.e., ETS and in particular DpR) have been explored less rather in terms of a definition of endpoints related to progression-free survival <ref type="bibr" target="#b4">(Chibaudel et al. 2011)</ref>. In particular, (progression-free) survival outcomes after DpR that might reflect the ability of a disease to overcome a certain treatment are potentially representing an interesting assessment to identify tumors with biological aggressiveness despite initial disease control.</p><p>The randomized, open-label phase II VOLFI study (AIO KRK0109) evaluated the efficacy and safety of adding the EGFR-inhibitor panitumumab to triplet chemotherapy with fluorouracil/folinic acid, oxaliplatin, and irinotecan (FOL-FOXIRI) in untreated RAS-wild-type mCRC patients <ref type="bibr" target="#b22">(Modest et al. 2019b)</ref>. A central review allowing for DpR and ETS calculation was available for the trial, also providing an opportunity to investigate on tumor dynamics beyond DpR.</p><p>The aim of our study is to evaluate to which extent established (DpR, ETS) and exploratory endpoints related to best response assessment (time to DpR from randomization as well as progression-free and overall survival from time of DpR) can be used to characterize patients with known differences in tumor biology within the trial. In this regard, we evaluated the study cohort of patients according to BRAF mutational status and primary tumor location as established prognostic (and predictive) markers in mCRC. Furthermore, we analyzed patterns of progression (new lesions, progression of target lesions, etc.) and their association with the aforementioned prognostic markers in the trial.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Methods</head><p>We performed an exploratory analysis of the randomized, open-label phase II VOLFI study (AIO KRK0109) that evaluated the efficacy and safety of adding panitumumab to triplet chemotherapy with fluorouracil/folinic acid, oxaliplatin, and irinotecan (FOLFOXIRI) in untreated RAS-wildtype mCRC patients.</p><p>A total of 96 patients were enrolled in this study to either receive chemotherapy according FOLFOXIRI protocol in the control arm or modified FOLFOXIRI (mFOLFOXIRI) plus panitumumab in the experimental arm.</p><p>The study was conducted in accordance with the ethical standards of the institutional and national research committee and with the 1964 Helsinki Declaration and its later amendments or comparable ethical standards. The ethical approval of the underlying VOLFI-trial was provided by the ethics committee of the Landesärztekammer Baden-Württemberg in Germany. For further information, please refer to the published trial data and original publication (ClinicalTrials.gov, NCT01328171) <ref type="bibr" target="#b22">(Modest et al. 2019b)</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Patients</head><p>A clinical database was established including the following information for each patient: treatment arm, age, sex, performance status according to Eastern Cooperative Oncology Group (ECOG), tumor characteristics (primary tumor location, onset of metastases, metastatic sites), laboratory parameters (carcinoembryonic antigen, lactate dehydrogenase), molecular characteristics (RAS and BRAF status), prior antitumor treatment (adjuvant chemotherapy, surgery), and survival parameters (PFS, OS). Study patients were stratified for BRAF status and primary tumor location, respectively. Primary tumor location was considered "left" if the primary was located in the splenic flexure or distal, whereas the "right"-sided primaries were located proximal of the splenic flexure.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Treatment</head><p>Treatment details are described previously <ref type="bibr" target="#b22">(Modest et al. 2019b)</ref>. Briefly, patients treated within the experimental arm received FOLFOXIRI and panitumumab in the final dosing cohort as follows: irinotecan 150 mg/m 2 , oxaliplatin 85 mg/ m 2 , folinic acid 200 mg/m 2 , fluorouracil 3000 mg/m 2 within 48 h plus panitumumab 6 mg per kilogram of body weight. Patients receiving FOLFOXIRI without panitumumab in the control arm were treated as follows: irinotecan 165 mg/m 2 , oxaliplatin 85 mg/m 2 , folinic acid 200 mg/m 2 , and fluorouracil 3200 mg/m 2 within 48 h. Therapy in both treatment arms was repeated every 2 weeks until progression, occurrence of unacceptable toxicity, achievement of tumor resectability or up to a maximum of 12 treatment cycles.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Disease and toxicity assessments</head><p>Tumor assessments were performed using computed tomography (CT) or magnetic resonance imaging (MRI) and subsequently analyzed according to Response Evaluation Criteria in Solid Tumors (RECIST version 1.1). After initial assessment within 21 days prior to the study start, reassessments were performed every four cycles of treatment. Afterwards, assessments were carried out until the patient's death or up to a maximum of 5 years. Adverse events were documented according to The National Cancer Institute Common Terminology Criteria for Adverse Events (version 4.0).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Survival endpoints and parameters indicating dynamics in treatment response and disease progression</head><p>Progression-free survival (PFS) was defined as time from study randomization to tumor progression or death from any cause. Overall survival (OS) was measured from randomization to death from any cause. Patients without progression or death were censored at the last day of follow-up.</p><p>We evaluated the depth of response (change from baseline to smallest tumor diameter), early tumor shrinkage (&gt; 20% reduction in tumor diameter at first reassessment) as described in the previous publication, time to DpR (study randomization to DpR-image), post-DpR PFS (pPFS = DpR image to tumor progression or death from any cause), and post-DpR OS (pOS = DpR image to death from any cause) by central review of computed tomography images <ref type="bibr" target="#b22">(Modest et al. 2019b)</ref>. <ref type="figure" target="#fig_0">Figure 1</ref> contains a simplified model of the above-mentioned parameters.</p><p>In case of radiological disease progression in accordance with RECIST version 1.1, we described progression according to the localization of disease progression: new lesion/s, progression of target lesion/s, progression of non-target lesion/s, new lesion/s and progression of target lesion/s, new lesion/s and progression of non-target lesion/s, progression of target and non-target lesions, and new lesion/s and progression of target and non-target lesions.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Statistical analysis</head><p>All statistical analyses were performed using SPSS version 25.0 software (IBM Corporation, Amonk, NY, USA). In univariate analyses, Chi-square tests were used to evaluate whether there is an association between BRAF mutational status or primary tumor location and the aforementioned parameters indicating dynamics in treatment response and disease progression. The two-sided significance level was set to 0.05 with a 95% confidence interval. Survival was expressed by Kaplan-Meier method and compared by logrank testing as well as Cox regression model.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Results</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Patient and tumor characteristics</head><p>Out of 96 patients treated within the VOLFI-trial, BRAF mutational status was available for 76 patients. Of those, 66 patients had been included in the central radiological review. Out of the 66 patients, 54 presented with BRAF-WT and 12 with BRAF-MT mCRC. For all patients in the full analysis set (N = 96), information on localization of primary tumor were available and of those, 86 patients (70 patients with left-sided colorectal cancer and 16 patients with right-sided tumor) were included in the central response evaluation. A consort diagram illustrating the study population is shown in <ref type="figure" target="#fig_1">Fig. 2</ref>. Due to overlappings between patients analyzed for BRAF mutational status and patients analyzed for primary tumor localization, the sum of the digits indicated in <ref type="figure" target="#fig_1">Fig. 2</ref> is higher than the total number of patients with central response evaluation (N = 86).</p><p>Please also refer to <ref type="table" target="#tab_0">Table 1</ref> for baseline tumor and patient characteristics depending on BRAF mutational status and primary tumor location.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Dynamics in treatment response and disease progression according to BRAF mutational status</head><p>BRAF-WT compared to BRAF-MT mCRC patients had greater DpR (− 57.6% vs. − 40.8%, p = 0.013) with a comparable time to DpR (BRAF-WT 4.0 months (95% CI 3.1-4.4 months) vs. BRAF-MT 3.9 months (95% CI 2.5-5.5 months); p = 0.885) as shown in <ref type="figure">Fig. 3a</ref>.</p><p>In addition, BRAF-WT patients achieved a higher rate of median early tumor shrinkage (ETS) at time of first radiological reassessment in comparison with BRAF-MT patients [85.2% (95% CI 72.9-93.4%) vs. 33.3% (95% CI 9.9-65.1%); p = 0.001].</p><p>Post-DpR PFS (pPFS) was 6.5 months (95% CI 4.9-8.0 months) versus 2.6 months (95% CI 1.2-4.0 months) in favor of BRAF-WT patients [hazard ratio: 0.24 (95% CI 0.11-0.53); p &lt; 0.001] as shown in <ref type="figure" target="#fig_2">Fig. 4a</ref>.</p><p>In accordance with pPFS, post-DpR OS (pOS) was also significantly prolonged in BRAF-WT (33.6 months, 95% CI 26.0-41.3 months) as compared to BRAF-MT patients [5.4 months (95% CI 5.0-5.9 months); hazard ratio: 0.27 (95% CI 0.13-0.55); p &lt; 0.001]. Please refer to <ref type="figure" target="#fig_2">Fig. 4b</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Dynamics in treatment response and disease progression according to primary tumor location</head><p>Patients with left-sided primary tumor achieved greater DpR compared to patients with right-sided primary tumor [− 56.8% (95% CI − 75.3 to 92.9%) vs. -30.6% (95% CI − 15.2 to 64.6%); p = 0.018] with a comparable time to DpR [left-sided: 3.9 months (95% CI 2.9-4.2 months) vs. rightsided: 3.9 months (95% CI 2.5-5.1 months); p = 0.666] as shown in <ref type="figure">Fig. 3b</ref>.</p><p>In addition, patients with left-sided tumor achieved a higher rate of median ETS at the time of first radiological reassessment compared to patients with right-sided tumor (85.7% vs. 37.5%; p &lt; 0.001). pPFS was 5.3 months (95% CI 3.6-7.0 months) versus 2.5 months (95% CI 0.8-4.1 months) in favor of patients with left-sided tumor localization [hazard ratio 0.36 (95% CI 0.17-0.75); p = 0.004]. Please refer to <ref type="figure" target="#fig_2">Fig. 4c</ref>.</p><p>pOS numerically favored patients with left-versus right-sided tumors, but did not reach the level of statistical significance [left-sided tumors: 31.8 months, 95% CI 23.3-40.3 months vs. right-sided tumors: 11.8 months (95% CI 3.0-20.6 months); hazard ratio: 0.59 (95% CI 0.31-1.12); p = 0.104] as shown in <ref type="figure" target="#fig_2">Fig. 4d</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Disease progression patterns according to BRAF mutational status and primary tumor location</head><p>In the group of BRAF-WT patients and patients with leftsided primary tumor, there was a higher percentage of patients without disease progression during the observation period compared to BRAF-MT patients and patients with right-sided primary tumor, respectively (BRAF-WT vs.  BRAF-MT: 48.1% vs. 25.0%; p = 0.144; left-sided vs. rightsided primary tumor: 44.3% vs. 31.3%; p = 0.340).</p><p>Most of the patients developed progressive disease in target lesions irrespective of BRAF mutational status and primary tumor location (BRAF-WT: 24.1%, BRAF-MT: 25.0%, left-sided primary tumor: 25.7%, right-sided primary tumor: 25.0%).</p><p>There was a trend towards higher frequency of disease progression in target and non-target lesions in BRAF-MT patients and patients with right-sided primary tumor (BRAF-MT vs. BRAF-WT: 25.0% vs. 3.7%, right-sided vs. left-sided tumor: 18.8% vs. 8.6%). Notably, the frequency of disease progression presenting with new tumor lesions was comparable in all analyzed subsets of the trial. Please refer to <ref type="table">Table 2</ref> for further details.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Discussion</head><p>The presence of BRAF mutation and/or right-sided primary tumor are associated with unfavorable survival in patients with mCRC <ref type="bibr" target="#b5">(Clarke and Kopetz 2015;</ref><ref type="bibr" target="#b37">Yahagi et al. 2016)</ref>. The aim of this manuscript is to use established early response assessments such as ETS and DpR as well as time-to-DpR and survival beyond DpR as novel parameters related to these endpoints to elucidate to which extent the negative prognostic impact of BRAF mutation and rightsided tumor localization can be characterized by these parameters.</p><p>In the VOLFI trial, both ETS and DpR were more favorable in patients with positive prognostic markers (BRAF-WT and left-sided primary tumor). However, time-to-DpR (maybe indicating initial treatment sensitivity) was comparable in all analyzed subgroups. Our results concerning the impact of tumor localization on early efficacy are supported by two retrospective analyses reporting higher frequencies of ETS in mCRC patients with left-sided primary tumors compared to those with right-sided tumors <ref type="bibr" target="#b17">(Kohne et al. 2019;</ref><ref type="bibr" target="#b26">Peeters et al. 2018)</ref>. In addition, DpR was also more pronounced in left-sided tumors in a post hoc analysis of PRIME and PEAK study <ref type="bibr" target="#b26">(Peeters et al. 2018</ref>) while this was not evident in a smaller study cohort treated with FOL-FIRI plus panitumumab in the first-line setting <ref type="bibr" target="#b17">(Kohne et al. 2019)</ref>. It should be noted that in the underlying trial and also in general there is a relevant association of BRAF-mutation with right-sided primary tumor localization affecting our overlapping findings <ref type="bibr" target="#b17">(Kohne et al. 2019;</ref><ref type="bibr" target="#b31">Roth et al. 2010;</ref><ref type="bibr" target="#b35">Tran et al. 2011</ref>).</p><p>More striking than the observed disparities in ETS and DpR are substantial survival differences in our analysis occurring after DpR. In the VOLFI trial, patients with BRAF-MT mCRC and patients with right-sided primary tumor hardly derive any further disease control beyond DpR. The fact that DpR nearly directly precedes disease progression and, therefore, treatment failure, especially in patients with BRAF-MT mCRC, is alarming and could stimulate alertness in the clinical management-particularly regarding the frequency of radiological control of tumor dynamics-of these patients. Biologically, this finding suggests that mechanisms of resistance might be already ongoing despite observed tumor control or even radiological remissions. This resistance can be either interpreted as primary resistance following clonal selection of preexisting chemotherapy-resistant cells responsible for disease progression after DpR, or alternatively as rapid tumor evolution. This in turn hints to the hypothesis that BRAF-MT tumors are somewhat less sensitive to chemotherapy-based antitumor treatment in terms of ETS and DpR but the major difference of disease control seems to be mediated by rapidly developing treatment resistance. From a biological perspective, the hypothesis of secondary resistance is supported by previously described mechanisms of resistance against BRAFinhibitor based therapy in BRAF mutant mCRC <ref type="bibr" target="#b1">(Ahronian et al. 2015;</ref><ref type="bibr" target="#b6">Corcoran et al. 2012;</ref><ref type="bibr" target="#b13">Hazar-Rethinam et al. 2018;</ref><ref type="bibr" target="#b30">Prahallad et al. 2012)</ref>. From a clinical point of view, the idea of secondary resistance is supported by a pooled <ref type="figure">Fig. 3 a, b</ref> Time to DpR according to BRAF mutational status and primary tumor site. WT wild type, MT mutant analysis of several clinical trials that reports on the poor prognosis in patients with BRAF mutant mCRC after failure to first-line therapy and the consecutive challenge to ensure the transfer to second-line therapy <ref type="bibr" target="#b33">(Seligmann et al. 2017</ref>).</p><p>Due to the small number of patients analyzed and the intensive treatment regimens applied in all patients, it is impossible to determine whether the unfavorable tumor control after DpR is specific for BRAF-MT mCRC in general or for BRAF-MT mCRC treated with FOLFOXIRI 3) New lesion/s and progression of target lesion/s 3 (5.6) 0 (0.0) 4 (5.7) 0 (0.0) New lesion/s and progression of non-target lesion/s 2 (3.7) 0 (0.0) 1 (1.4) 1 (6.3) Progression of target and non-target lesions 2 (3.7) 3 (25.0) 6 (8.6) 3 (18.8) New lesion/s and progression of target and non-target lesions 1 (1.9) 1 (8. regimens. If the intensity of antitumor treatment plays a role in the evolution of mCRC-based on our observations-it should be questioned if the clinical challenge of treating BRAF-MT mCRC is best addressed by maximizing initial efficacy or by applying a sequential therapy that might induce less tumor response but is possibly associated with less aggressive tumor evolution in the course of disease. This perspective is supported by somehow inconsistent observations on BRAF-MT mCRC patients in current phase III trials <ref type="bibr" target="#b7">(Cremolini et al. 2020;</ref><ref type="bibr" target="#b9">Cremolini et al. 2015b;</ref><ref type="bibr" target="#b19">Modest et al. 2019a)</ref>. Based on findings from the TRIBE 1/2-trials and the XELAVIRI study, it could be hypothesized that clear evidence for treatment escalation in BRAF mutant mCRC is still lacking and less intensity is not necessarily associated with worse outcome. Similar analyses from the BEACON-trial investigating a targeted combination therapy with BRAF-, MEK-, and EGFR inhibition in BRAF-MT mCRC patients could clarify to which extent tumor dynamics observed in the VOLFI trial are also evident with targeted tumor therapy <ref type="bibr" target="#b18">(Kopetz et al. 2019)</ref>.</p><p>Interestingly, no difference in the patterns of disease progression was observed in the VOLFI trial, likely a consequence of the small number of patients analyzed. Future studies should evaluate if disease progression, especially progression including new lesions (as correlate of aggressive tumor evolution and dismal prognosis), depends on molecular or clinical subgroups <ref type="bibr" target="#b12">(Giessen et al. 2013;</ref><ref type="bibr" target="#b24">Modest et al. 2017)</ref>.</p><p>The presented results are limited due to the retrospective nature of the analysis and the use of novel endpoints. Furthermore, there were a limited number of patients in the analyzed subgroups precluding definite conclusions. The hypotheses generated in this manuscript should, therefore, be evaluated in larger patient cohorts.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Conclusion</head><p>BRAF-MT patients and patients with right-sided primary mCRC treated within the VOLFI-trial derive a less profound response to treatment as compared to BRAF-WT patients and patients with left-sided primary tumor. In particular, our observations hint towards an aggressive tumor evolution in patients with BRAF-MT tumors, which may be molecularly detectable at the time of DpR. These findings theoretically challenge the currently practiced aggressive treatment strategy of FOLFOXIRI-based firstline regimens as they may stimulate treatment resistance. We suggest that close monitoring of BRAF-MT patients may include the continuous monitoring of clonal evolution of the disease.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>Fig. 1</head><label>1</label><figDesc>Simplified theoretical model of parameters indicating dynamics in treatment response. DpR depth of response, pPFS post-DpR progression-free survival, pOS post-DpR overall survival, DpR A/B × 100%</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head>Fig. 2</head><label>2</label><figDesc>Consort diagram of study population. Information on BRAF mutational status were available for 66 patients with central response evaluation</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_2"><head>Fig. 4</head><label>4</label><figDesc>a-d Survival after depth of response (pPFS and pOS) according to BRAF mutational status and primary tumor site. a Post-DpR PFS depending on BRAF mutational status, b post-DpR OS depend-ing on BRAF mutational status, c post-DpR PFS depending on primary tumor location, d post-DpR OS depending on primary tumor location. WT wild type, MT mutant Table 2 Disease progression patterns according to BRAF mutational status and primary tumor location WT wild type, MT mutant Disease progression pattern, N (%</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>Table 1</head><label>1</label><figDesc>Baseline tumor and patient characteristics</figDesc><table><row><cell>ECOG performance status according to Eastern Cooperative Oncology Group</cell></row></table><note></note></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot">Journal of Cancer Research and Clinical Oncology (2020) 146:2681-2691</note>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Acknowledgements Open Access funding provided by Projekt DEAL. The authors thank all study patients and their loved ones, and all study investigators and their staff.</p></div>
+			</div>
+
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Author contributions Study concepts and design: MG, DPM, and AK. Data acquisition: all listed authors. Quality control of data and algorithms: DPM, AK, and SH. Data analysis and interpretation: all listed authors. Statistical analysis: DPM, AK, and SH. Manuscript preparation: MG, DPM, and AK. Manuscript editing and review: all listed authors.</p><p>Funding The underlying VOLFI-trial was funded by AIO-Studien-gGmbH and further supported by Amgen and ClinAssess GmbH. Clini-calTrials.gov Identifier: NCT01328171. Principal Investigator: Michael Geißler, MD, PhD (Department of Oncology and Gastroenterology, Academic Teaching Hospital Esslingen).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Compliance with ethical standards</head><p>Conflict of interest Annika Kurreck-travel, accommodation, and expenses: Roche and Medac. Michael Geissler-consulting or advisory role: Amgen, Lilly, and Merck. Serono-travel, accommodation, and expenses: Amgen. Uwe M. Martens-consulting or advisory role: Merck Sharp &amp; Dohme Oncology, Roche, Bristol-Myers Squibb, and Celgene; travel, accommodation, and expenses: Amgen, Bristol-Myers Squibb, and Celgene. Jorge Riera-Knorrenschild-consulting or advisory role: Boehringer Ingelheim, Pierre Fabre, and Novartis; travel, travel, accommodations, and expenses: Amgen. Jobst Greeve-no conflicts of interest. Axel Florschütz-Honoraria: Janssen; consulting or advisory role: Servier and Roche; travel, accommodations, and expenses: Janssen. Swen Wessendorf-no conflicts of interest. Thomas Ettrich-consulting or advisory role: Merck Serono, Sanofi, Bayer HealthCare Pharmaceuticals, Merck Serono, Bristol-Myers Squibb, Pfizer, Novartis, Roche, and Lilly; Speakers' Bureau: Sanofi, Celgene, Bristol-Myers Squibb, and Baxalta/Shire; travel, accommodations, expenses: Ipsen. Stephan Kanzler-no conflicts of interest. Dominik Nörenberg-employment: Smart Reporting GmbH. Max Seidensticker-Honoraria: Bayer HealthCare Pharmaceuticals, Sirtex Medical, Cook Medical, BTG, and Siemens Healthineers; research funding: Sirtex Medical (Inst) and Bayer HealthCare Pharmaceuticals (Inst); travel, accommodations, and expenses: Boston Scientific. Swantje Held-no conflicts of interest. Petra Buechner-Steudel-no conflicts of interest. Jens Atzpodien-no conflicts of interest. Volker Heinemann-Honoraria: Roche, Celgene, Amgen, Sanofi, Merck, Sirtex Medical, Baxalta, Lilly, Boehringer Ingelheim, Taiho Pharmaceutical, and Servier; consulting or advisory role: Merck, Amgen, Roche, Sanofi, Boehringer Ingelheim, Celgene, Sirtex Medical, Baxalta, Servier, Halozyme, Merck Sharp &amp; Dohme, Bristol-Myers Squibb, Merck Sharp, and Dohme Oncology; research funding: Merck (Inst), Amgen (Inst), Roche (Inst), Celgene (Inst), Boehringer Ingelheim (Inst), Sirtex Medical (Inst), Shire (Inst), and Servier (Inst); travel, accommodations, and expenses: Merck, Roche, Sirtex Medical, Amgen, Servier, Shire, Merck Sharp &amp; Dohme, and Bristol-Myers Squibb. Sebastian Stintzing-Honoraria: Merck, Roche, Amgen, Bayer, Sanofi, Sirtex Medical, and Eli Lilly; consulting or advisory role: Merck, Roche, Sanofi, Bayer, Amgen, Boehringer Ingelheim, Eli Lilly, and Takeda; travel, accommodations, expenses: Merck, Roche, Sanofi, Bayer, Sirtex Medical, Amgen, Eli Lilly, and Takeda. Thomas Seufferlein-Honoraria: Sanofi, Falk Foundation, Roche, Celgene, Merck Serono, Bayer Schering Pharma, Amgen, Halozyme, Servier, and Baxalta; consulting or advisory role: Merck Serono, Celgene, Bayer HealthCare Pharmaceuticals, Shire, Baxalta, Halozyme, and Roche/Genentech; research funding: Celgene and Sanofi; travel, accommodations, and expenses: Sanofi, Roche, Celgene, Merck Serono, and Servier. Andrea Tannap-Consent to participate Informed consent was obtained from all individual participants included in the underlying VOLFI-trial.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Consent for publication</head><p>The authors affirm that human research participants provided informed consent for the publication of the data obtained within the underlying VOLFI-trial.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Availability of data and material</head><p>The datasets analyzed are available from the corresponding author on reasonable request.</p><p>Open Access This article is licensed under a Creative Commons Attribution 4.0 International License, which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if changes were made. The images or other third party material in this article are included in the article's Creative Commons licence, unless indicated otherwise in a credit line to the material. If material is not included in the article's Creative Commons licence and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this licence, visit http://creat iveco mmons .org/licen ses/by/4.0/.</p></div>			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Iomedico, MCI (managing meetings in cancer care and education</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><surname>Anke</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Reinacher-Schick-Honoraria ; Amgen</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Roche</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Pfizer</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Merck</forename><surname>Sanofi</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Serono</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Shire</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Celgene</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Bristol-Myers</forename><surname>Lilly</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Squibb</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Servier</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Merck</forename><surname>Baxalta</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Sharp &amp; Dohme</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Bonita</forename><surname>Aurikamed</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">;</forename><surname>Pharmaceuticals</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Amgen</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Roche</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Pfizer</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Merck</forename><surname>Sanofi</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Serono</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Bristol-Myers</forename><surname>Celgene</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Squibb</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Servier</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Merck</forename><surname>Baxalta</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Sharp &amp; Dohme</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Onkowissen ; Amgen</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Celgene</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Roche</forename><surname>Onkowissen</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Servier</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Pharma Consulting Group Schweden (Inst), and Syneed Medidata (Inst); travel, accommodations, and expenses: Ipsen</title>
+		<meeting><address><addrLine>Agricola (Inst), PPD Global Limited, UK (Inst), Mologen Berlin (Inst; Amgen, Roche, Servier, Bristol-Myers Squibb, Pfizer; Amgen, Merck Sharp &amp; Dohme, Roche, Servier, and Bristol-Myers Squibb; Roche; Amgen; Servier, Bristol-Myers Squibb, and Roche</addrLine></address></meeting>
+		<imprint>
+			<publisher>Bayer HealthCare Pharmaceuticals</publisher>
+		</imprint>
+		<respStmt>
+			<orgName>Universität München (Inst), Universität Erlangen (Inst), Universität Köln (Inst</orgName>
+		</respStmt>
+	</monogr>
+	<note>Merck Serono (Inst). Inst. Inst); travel, accommodations, and expenses: Amgen, Merck Serono</note>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Clinical acquired resistance to RAF inhibitor combinations in BRAF-mutant colorectal cancer through MAPK pathway alterations</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">L</forename><forename type="middle">G</forename><surname>Ahronian</surname></persName>
+		</author>
+		<idno type="DOI">10.1158/2159-8290.CD-14-1518</idno>
+		<ptr target="https://doi.org/10.1158/2159-8290.CD-14-1518" />
+	</analytic>
+	<monogr>
+		<title level="j">Cancer Discov</title>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="page" from="358" to="367" />
+			<date type="published" when="2015" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Prognostic and predictive value of primary tumour side in patients with RAS wild-type metastatic colorectal cancer treated with chemotherapy and EGFR directed antibodies in six randomized trials</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><surname>Arnold</surname></persName>
+		</author>
+		<idno type="DOI">10.1093/annonc/mdx175</idno>
+		<ptr target="https://doi.org/10.1093/annonc/mdx175" />
+	</analytic>
+	<monogr>
+		<title level="j">Ann Oncol</title>
+		<imprint>
+			<biblScope unit="volume">28</biblScope>
+			<biblScope unit="page" from="1713" to="1729" />
+			<date type="published" when="2017" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title/>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><surname>Boyle</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">S</forename><surname>Langman</surname></persName>
+		</author>
+		<idno type="DOI">10.1136/bmj.321.7264.805</idno>
+		<ptr target="https://doi.org/10.1136/bmj.321.7264.805" />
+	</analytic>
+	<monogr>
+		<title level="j">ABC of colorectal cancer: Epidemiology. BMJ</title>
+		<imprint>
+			<biblScope unit="volume">321</biblScope>
+			<biblScope unit="page" from="805" to="808" />
+			<date type="published" when="2000" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Alternative end points to evaluate a therapeutic strategy in advanced colorectal cancer: evaluation of progression-free survival, duration of disease control, and time to failure of strategy-an Aide et Recherche en Cancerologie Digestive Group Study</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">B</forename><surname>Chibaudel</surname></persName>
+		</author>
+		<idno type="DOI">10.1200/JCO.2011.35.5867</idno>
+		<ptr target="https://doi.org/10.1200/JCO.2011.35.5867" />
+	</analytic>
+	<monogr>
+		<title level="j">J Clin Oncol</title>
+		<imprint>
+			<biblScope unit="volume">29</biblScope>
+			<biblScope unit="page" from="4199" to="4204" />
+			<date type="published" when="2011" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">BRAF mutant colorectal cancer as a distinct subset of colorectal cancer: clinical characteristics, clinical behavior, and response to targeted therapies</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><forename type="middle">N</forename><surname>Clarke</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><forename type="middle">S</forename><surname>Kopetz</surname></persName>
+		</author>
+		<idno type="DOI">10.3978/j.issn.2078-6891.2015.077</idno>
+		<ptr target="https://doi.org/10.3978/j.issn.2078-6891.2015.077" />
+	</analytic>
+	<monogr>
+		<title level="j">J Gastrointest Oncol</title>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="page" from="660" to="667" />
+			<date type="published" when="2015" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">EGFR-mediated re-activation of MAPK signaling contributes to insensitivity of BRAF mutant colorectal cancers to RAF inhibition with vemurafenib</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><forename type="middle">B</forename><surname>Corcoran</surname></persName>
+		</author>
+		<idno type="DOI">10.1158/2159-8290.CD-11-0341</idno>
+		<ptr target="https://doi.org/10.1158/2159-8290.CD-11-0341" />
+	</analytic>
+	<monogr>
+		<title level="j">Cancer Discov</title>
+		<imprint>
+			<biblScope unit="volume">2</biblScope>
+			<biblScope unit="page" from="227" to="235" />
+			<date type="published" when="2012" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Upfront FOLFOXIRI plus bevacizumab and reintroduction after progression versus mFOLFOX6 plus bevacizumab followed by FOLFIRI plus bevacizumab in the treatment of patients with metastatic colorectal cancer (TRIBE2): a multicentre, open-label, phase 3, randomised, controlled trial</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><surname>Cremolini</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/S1470-2045(19)30862-9</idno>
+		<ptr target="https://doi.org/10.1016/S1470-2045" />
+	</analytic>
+	<monogr>
+		<title level="j">Lancet Oncol</title>
+		<imprint>
+			<biblScope unit="volume">21</biblScope>
+			<biblScope unit="issue">19</biblScope>
+			<biblScope unit="page" from="30862" to="30871" />
+			<date type="published" when="2020" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Early tumor shrinkage and depth of response predict long-term outcome in metastatic colorectal cancer patients treated with first-line chemotherapy plus bevacizumab: results from phase III TRIBE trial by the Gruppo Oncologico del Nord Ovest</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><surname>Cremolini</surname></persName>
+		</author>
+		<idno type="DOI">10.1093/annonc/mdv112</idno>
+		<ptr target="https://doi.org/10.1093/annonc/mdv112" />
+	</analytic>
+	<monogr>
+		<title level="j">Ann Oncol</title>
+		<imprint>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="page" from="1188" to="1194" />
+			<date type="published" when="2015" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">FOLFOXIRI plus bevacizumab versus FOLFIRI plus bevacizumab as first-line treatment of patients with metastatic colorectal cancer: updated overall survival and molecular subgroup analyses of the open-label, phase 3 TRIBE study</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><surname>Cremolini</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/S1470-2045(15)00122-9</idno>
+		<ptr target="https://doi.org/10.1016/S1470-2045" />
+	</analytic>
+	<monogr>
+		<title level="j">Lancet Oncol</title>
+		<imprint>
+			<biblScope unit="volume">16</biblScope>
+			<biblScope unit="issue">15</biblScope>
+			<biblScope unit="page" from="122" to="131" />
+			<date type="published" when="2015" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Panitumumab-FOLFOX4 treatment and RAS mutations in colorectal cancer</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">Y</forename><surname>Douillard</surname></persName>
+		</author>
+		<idno type="DOI">10.1056/NEJMoa1305275</idno>
+		<ptr target="https://doi.org/10.1056/NEJMoa1305275" />
+	</analytic>
+	<monogr>
+		<title level="j">N Engl J Med</title>
+		<imprint>
+			<biblScope unit="volume">369</biblScope>
+			<biblScope unit="page" from="1023" to="1034" />
+			<date type="published" when="2013" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Impact of early tumour shrinkage and resection on outcomes in patients with wild-type RAS metastatic colorectal cancer</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">Y</forename><surname>Douillard</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Siena</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Peeters</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><surname>Koukakis</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">H</forename><surname>Terwey</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Tabernero</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.ejca.2015.03.026</idno>
+		<ptr target="https://doi.org/10.1016/j.ejca.2015.03.026" />
+	</analytic>
+	<monogr>
+		<title level="j">Eur J Cancer</title>
+		<imprint>
+			<biblScope unit="volume">51</biblScope>
+			<biblScope unit="page" from="1231" to="1242" />
+			<date type="published" when="2015" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Early tumor shrinkage in metastatic colorectal cancer: retrospective analysis from an irinotecan-based randomized first-line trial</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><surname>Giessen</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/cas.12148</idno>
+		<ptr target="https://doi.org/10.1111/cas.12148" />
+	</analytic>
+	<monogr>
+		<title level="j">Cancer Sci</title>
+		<imprint>
+			<biblScope unit="volume">104</biblScope>
+			<biblScope unit="page" from="718" to="724" />
+			<date type="published" when="2013" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Convergent therapeutic strategies to overcome the heterogeneity of acquired resistance in BRAF(V600E) colorectal cancer</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Hazar-Rethinam</surname></persName>
+		</author>
+		<idno type="DOI">10.1158/2159-8290.CD-17-1227</idno>
+		<ptr target="https://doi.org/10.1158/2159-8290.CD-17-1227" />
+	</analytic>
+	<monogr>
+		<title level="j">Cancer Discov</title>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="page" from="417" to="427" />
+			<date type="published" when="2018" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">Early tumour shrinkage (ETS) and depth of response (DpR) in the treatment of patients with metastatic colorectal cancer (mCRC)</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">V</forename><surname>Heinemann</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Stintzing</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><forename type="middle">P</forename><surname>Modest</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><surname>Giessen-Jung</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Michl</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">U</forename><forename type="middle">R</forename><surname>Mansmann</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.ejca.2015.06.116</idno>
+		<ptr target="https://doi.org/10.1016/j.ejca.2015.06.116" />
+	</analytic>
+	<monogr>
+		<title level="j">Eur J Cancer</title>
+		<imprint>
+			<biblScope unit="volume">51</biblScope>
+			<biblScope unit="page" from="1927" to="1936" />
+			<date type="published" when="2015" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">FOLFIRI plus cetuximab versus FOL-FIRI plus bevacizumab as first-line treatment for patients with metastatic colorectal cancer (FIRE-3): a randomised, openlabel, phase 3 trial</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">V</forename><surname>Heinemann</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/S1470-2045(14)70330-4</idno>
+		<ptr target="https://doi.org/10.1016/S1470-2045" />
+	</analytic>
+	<monogr>
+		<title level="j">Lancet Oncol</title>
+		<imprint>
+			<biblScope unit="volume">15</biblScope>
+			<biblScope unit="issue">14</biblScope>
+			<biblScope unit="page" from="70330" to="70334" />
+			<date type="published" when="2014" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">The relevance of primary tumour location in patients with metastatic colorectal cancer: A meta-analysis of first-line clinical trials</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">W</forename><surname>Holch</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Ricard</forename><forename type="middle">I</forename><surname>Stintzing</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Modest</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><forename type="middle">P</forename><surname>Heinemann</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">V</forename></persName>
+		</author>
+		<idno type="DOI">10.1016/j.ejca.2016.10.007</idno>
+		<ptr target="https://doi.org/10.1016/j.ejca.2016.10.007" />
+	</analytic>
+	<monogr>
+		<title level="j">Eur J Cancer</title>
+		<imprint>
+			<biblScope unit="volume">70</biblScope>
+			<biblScope unit="page" from="87" to="98" />
+			<date type="published" when="2017" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Impact of primary tumour location and early tumour shrinkage on outcomes in patients with RAS wild-type metastatic colorectal cancer following first-line FOLFIRI Plus panitumumab</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><forename type="middle">H</forename><surname>Kohne</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/s40268-019-0278-8</idno>
+		<ptr target="https://doi.org/10.1007/s40268-019-0278-8" />
+	</analytic>
+	<monogr>
+		<title level="j">Drugs R D</title>
+		<imprint>
+			<biblScope unit="volume">19</biblScope>
+			<biblScope unit="page" from="267" to="275" />
+			<date type="published" when="2019" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">Encorafenib, binimetinib, and cetuximab in BRAF V600E-mutated colorectal cancer</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Kopetz</surname></persName>
+		</author>
+		<idno type="DOI">10.1056/NEJMoa1908075</idno>
+		<ptr target="https://doi.org/10.1056/NEJMoa1908075" />
+	</analytic>
+	<monogr>
+		<title level="j">N Engl J Med</title>
+		<imprint>
+			<biblScope unit="volume">381</biblScope>
+			<biblScope unit="page" from="1632" to="1643" />
+			<date type="published" when="2019" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">Sequential versus combination therapy of metastatic colorectal cancer using fluoropyrimidines, irinotecan, and bevacizumab: a randomized, controlled study-XELAVIRI (AIO KRK0110)</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><forename type="middle">P</forename><surname>Modest</surname></persName>
+		</author>
+		<idno type="DOI">10.1200/JCO.18.00052</idno>
+		<ptr target="https://doi.org/10.1200/JCO.18.00052" />
+	</analytic>
+	<monogr>
+		<title level="j">J Clin Oncol</title>
+		<imprint>
+			<biblScope unit="volume">37</biblScope>
+			<biblScope unit="page" from="22" to="32" />
+			<date type="published" when="2019" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">Factors that influence conversion to resectability and survival after resection of metastases in RAS WT metastatic colorectal cancer (mCRC): analysis of FIRE-3-AIOKRK0306</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><forename type="middle">P</forename><surname>Modest</surname></persName>
+		</author>
+		<idno type="DOI">10.1245/s10434-020-08219-w</idno>
+		<ptr target="https://doi.org/10.1245/s10434-020-08219-w" />
+	</analytic>
+	<monogr>
+		<title level="j">Ann Surg Oncol</title>
+		<imprint>
+			<date type="published" when="2020" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">Early tumor shrinkage in patients with metastatic colorectal cancer receiving first-line treatment with cetuximab combined with either CAPIRI or CAPOX: an analysis of the German AIO KRK 0104 trial</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><forename type="middle">P</forename><surname>Modest</surname></persName>
+		</author>
+		<idno type="DOI">10.3109/0284186X.2012.752580</idno>
+		<ptr target="https://doi.org/10.3109/0284186X.2012.752580" />
+	</analytic>
+	<monogr>
+		<title level="j">Acta Oncol</title>
+		<imprint>
+			<biblScope unit="volume">52</biblScope>
+			<biblScope unit="page" from="956" to="962" />
+			<date type="published" when="2013" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">FOLFOXIRI plus panitumumab as first-line treatment of RAS wild-type metastatic colorectal cancer: the randomized, open-label, Phase II VOLFI Study (AIO KRK0109)</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><forename type="middle">P</forename><surname>Modest</surname></persName>
+		</author>
+		<idno type="DOI">10.1200/JCO.19.01340</idno>
+		<ptr target="https://doi.org/10.1200/JCO.19.01340" />
+	</analytic>
+	<monogr>
+		<title level="j">J Clin Oncol</title>
+		<imprint>
+			<biblScope unit="volume">37</biblScope>
+			<biblScope unit="page" from="3401" to="3411" />
+			<date type="published" when="2019" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title level="a" type="main">Outcome of patients with metastatic colorectal cancer depends on the primary tumor site (midgut vs hindgut): analysis of the FIRE1-trial (FuFIRI or mIROX as first-line treatment)</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><forename type="middle">P</forename><surname>Modest</surname></persName>
+		</author>
+		<idno type="DOI">10.1097/CAD.0000000000000041</idno>
+		<idno>1097/ CAD.00000 00000 00004 1</idno>
+		<ptr target="https://doi.org/10" />
+	</analytic>
+	<monogr>
+		<title level="j">Anticancer Drugs</title>
+		<imprint>
+			<biblScope unit="volume">25</biblScope>
+			<biblScope unit="page" from="212" to="218" />
+			<date type="published" when="2014" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title level="a" type="main">Relation of early tumor shrinkage (ETS) observed in first-line treatment to efficacy parameters of subsequent treatment in FIRE-3 (AIOKRK0306)</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><forename type="middle">P</forename><surname>Modest</surname></persName>
+		</author>
+		<idno type="DOI">10.1002/ijc.30592</idno>
+		<ptr target="https://doi.org/10.1002/ijc.30592" />
+	</analytic>
+	<monogr>
+		<title level="j">Int J Cancer</title>
+		<imprint>
+			<biblScope unit="volume">140</biblScope>
+			<biblScope unit="page" from="1918" to="1925" />
+			<date type="published" when="2017" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title level="a" type="main">Durable clinical benefit with nivolumab plus ipilimumab in dna mismatch repair-deficient/microsatellite instability-high metastatic colorectal cancer</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">J</forename><surname>Overman</surname></persName>
+		</author>
+		<idno type="DOI">10.1200/JCO.2017.76.9901</idno>
+		<ptr target="https://doi.org/10.1200/JCO.2017.76.9901" />
+	</analytic>
+	<monogr>
+		<title level="j">J Clin Oncol</title>
+		<imprint>
+			<biblScope unit="volume">36</biblScope>
+			<biblScope unit="page" from="773" to="779" />
+			<date type="published" when="2018" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title level="a" type="main">Relationships between tumour response and primary tumour location, and predictors of long-term survival, in patients with RAS wild-type metastatic colorectal cancer receiving first-line panitumumab therapy: retrospective analyses of the PRIME and PEAK clinical trials</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Peeters</surname></persName>
+		</author>
+		<idno type="DOI">10.1038/s41416-018-0165-z</idno>
+		<ptr target="https://doi.org/10.1038/s41416-018-0165-z" />
+	</analytic>
+	<monogr>
+		<title level="j">Br J Cancer</title>
+		<imprint>
+			<biblScope unit="volume">119</biblScope>
+			<biblScope unit="page" from="303" to="312" />
+			<date type="published" when="2018" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<monogr>
+		<title level="m" type="main">Radiological tumor size decrease at week 6 is a potent predictor of outcome in chemorefractory metastatic colorectal cancer treated with cetuximab</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><surname>Piessevaux</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Buyse</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">De</forename><surname>Roock</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">W</forename><surname>Prenen</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><surname>Schlichting</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Van Cutsem</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><surname>Tejpar</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename></persName>
+		</author>
+		<idno type="DOI">10.1093/annonc/mdp011</idno>
+		<imprint>
+			<date type="published" when="2009" />
+		</imprint>
+	</monogr>
+	<note>BOND trial</note>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<analytic>
+		<title/>
+		<idno type="DOI">10.1093/annonc/mdp011</idno>
+		<ptr target="https://doi.org/10.1093/annonc/mdp01" />
+	</analytic>
+	<monogr>
+		<title level="j">Ann Oncol</title>
+		<imprint>
+			<biblScope unit="volume">20</biblScope>
+			<biblScope unit="page" from="1375" to="1382" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<analytic>
+		<title level="a" type="main">Use of early tumor shrinkage to predict long-term outcome in metastatic colorectal cancer treated with cetuximab</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><surname>Piessevaux</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Buyse</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Schlichting</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><surname>Van Cutsem</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><surname>Bokemeyer</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Heeger</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Tejpar</surname></persName>
+		</author>
+		<idno type="DOI">10.1200/JCO.2012.42.8532</idno>
+		<ptr target="https://doi.org/10.1200/JCO.2012.42.8532" />
+	</analytic>
+	<monogr>
+		<title level="j">J Clin Oncol</title>
+		<imprint>
+			<biblScope unit="volume">31</biblScope>
+			<biblScope unit="page" from="3764" to="3775" />
+			<date type="published" when="2013" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<analytic>
+		<title level="a" type="main">Unresponsiveness of colon cancer to BRAF(V600E) inhibition through feedback activation of EGFR</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Prahallad</surname></persName>
+		</author>
+		<idno type="DOI">10.1038/nature10868</idno>
+		<ptr target="https://doi.org/10.1038/nature10868" />
+	</analytic>
+	<monogr>
+		<title level="j">Nature</title>
+		<imprint>
+			<biblScope unit="volume">483</biblScope>
+			<biblScope unit="page" from="100" to="103" />
+			<date type="published" when="2012" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<analytic>
+		<title level="a" type="main">Prognostic role of KRAS and BRAF in stage II and III resected colon cancer: results of the translational study on the PETACC-3, EORTC 40993, SAKK 60-00 trial</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><forename type="middle">D</forename><surname>Roth</surname></persName>
+		</author>
+		<idno type="DOI">10.1200/JCO.2009.23.3452</idno>
+		<ptr target="https://doi.org/10.1200/JCO.2009.23.3452" />
+	</analytic>
+	<monogr>
+		<title level="j">J Clin Oncol</title>
+		<imprint>
+			<biblScope unit="volume">28</biblScope>
+			<biblScope unit="page" from="466" to="474" />
+			<date type="published" when="2010" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<analytic>
+		<title level="a" type="main">Dual-targeted therapy with trastuzumab and lapatinib in treatment-refractory, KRAS codon 12/13 wildtype, HER2-positive metastatic colorectal cancer (HERACLES): a proof-of-concept, multicentre, open-label, phase 2 trial</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Sartore-Bianchi</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/S1470-2045(16)00150-9</idno>
+		<ptr target="https://doi.org/10.1016/S1470-2045" />
+	</analytic>
+	<monogr>
+		<title level="j">Lancet Oncol</title>
+		<imprint>
+			<biblScope unit="volume">17</biblScope>
+			<biblScope unit="issue">16</biblScope>
+			<biblScope unit="page" from="150" to="159" />
+			<date type="published" when="2016" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<analytic>
+		<title level="a" type="main">Investigating the poor outcomes of BRAFmutant advanced colorectal cancer: analysis from 2530 patients in randomised clinical trials</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">F</forename><surname>Seligmann</surname></persName>
+		</author>
+		<idno type="DOI">10.1093/annonc/mdw645</idno>
+		<ptr target="https://doi.org/10.1093/annonc/mdw645" />
+	</analytic>
+	<monogr>
+		<title level="j">Ann Oncol</title>
+		<imprint>
+			<biblScope unit="volume">28</biblScope>
+			<biblScope unit="page" from="562" to="568" />
+			<date type="published" when="2017" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<analytic>
+		<title level="a" type="main">FOLFIRI plus cetuximab versus FOLFIRI plus bevacizumab for metastatic colorectal cancer (FIRE-3): a posthoc analysis of tumour dynamics in the final RAS wild-type subgroup of this randomised open-label phase 3 trial</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Stintzing</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/S1470-2045(16)30269-8</idno>
+		<ptr target="https://doi.org/10.1016/S1470-2045" />
+	</analytic>
+	<monogr>
+		<title level="j">Lancet Oncol</title>
+		<imprint>
+			<biblScope unit="volume">17</biblScope>
+			<biblScope unit="issue">16</biblScope>
+			<biblScope unit="page" from="30269" to="30277" />
+			<date type="published" when="2016" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b35">
+	<analytic>
+		<title level="a" type="main">Impact of BRAF mutation and microsatellite instability on the pattern of metastatic spread and prognosis in metastatic colorectal cancer</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">B</forename><surname>Tran</surname></persName>
+		</author>
+		<idno type="DOI">10.1002/cncr.26086</idno>
+		<ptr target="https://doi.org/10.1002/cncr.26086" />
+	</analytic>
+	<monogr>
+		<title level="j">Cancer</title>
+		<imprint>
+			<biblScope unit="volume">117</biblScope>
+			<biblScope unit="page" from="4623" to="4632" />
+			<date type="published" when="2011" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b36">
+	<analytic>
+		<title level="a" type="main">ESMO consensus guidelines for the management of patients with metastatic colorectal cancer</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><surname>Van Cutsem</surname></persName>
+		</author>
+		<idno type="DOI">10.1093/annonc/mdw235</idno>
+		<ptr target="https://doi.org/10.1093/annonc/mdw235" />
+	</analytic>
+	<monogr>
+		<title level="j">Ann Oncol</title>
+		<imprint>
+			<biblScope unit="volume">27</biblScope>
+			<biblScope unit="page" from="1386" to="1422" />
+			<date type="published" when="2016" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b37">
+	<analytic>
+		<title level="a" type="main">The worse prognosis of right-sided compared with left-sided colon cancers: a systematic review and meta-analysis</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Yahagi</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><surname>Okabayashi</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><surname>Hasegawa</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Tsuruta</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Y</forename><surname>Kitagawa</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/s11605-015-3026-6</idno>
+		<ptr target="https://doi.org/10.1007/s11605-015-3026-6" />
+	</analytic>
+	<monogr>
+		<title level="j">J Gastrointest Surg</title>
+		<imprint>
+			<biblScope unit="volume">20</biblScope>
+			<biblScope unit="page" from="648" to="655" />
+			<date type="published" when="2016" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b38">
+	<analytic>
+		<title/>
+	</analytic>
+	<monogr>
+		<title level="j">ClinAssess</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b39">
+	<monogr>
+		<title level="m" type="main">13 Franziskus-Hospital Harderberg</title>
+		<imprint>
+			<pubPlace>Halle (Saale), Halle, Germany; Georgsmarienhütte, Germany</pubPlace>
+		</imprint>
+		<respStmt>
+			<orgName>Universitätsklinikum</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

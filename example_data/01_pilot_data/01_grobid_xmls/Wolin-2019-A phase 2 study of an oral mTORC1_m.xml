@@ -1,0 +1,914 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /data/rsg/nlp/juanmoo1/bin/grobid-0.6.1/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">A phase 2 study of an oral mTORC1/mTORC2 kinase inhibitor (CC-223) for non-pancreatic neuroendocrine tumors with or without carcinoid symptoms</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+				<date type="published" when="2019-09-17">September 17, 2019</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author role="corresp">
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Edward</forename><surname>Wolin</surname></persName>
+							<email>edward.wolin@mssm.edu</email>
+							<idno type="ORCID">0000-0003-3992-8722</idno>
+							<affiliation key="aff0">
+								<orgName type="department" key="dep1">Experimental Therapeutics Program</orgName>
+								<orgName type="department" key="dep2">Cedars-Sinai Medical Center</orgName>
+								<orgName type="institution">Samuel Oschin Comprehensive Cancer Institute</orgName>
+								<address>
+									<settlement>Los Angeles</settlement>
+									<region>CA</region>
+									<country>United States of America</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff2">
+								<orgName type="department">Clinical Trials Program</orgName>
+								<orgName type="institution">Mayo Clinic</orgName>
+								<address>
+									<settlement>Rochester</settlement>
+									<region>MN</region>
+									<country>United States of America</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Alain</forename><surname>Mita</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department" key="dep1">Experimental Therapeutics Program</orgName>
+								<orgName type="department" key="dep2">Cedars-Sinai Medical Center</orgName>
+								<orgName type="institution">Samuel Oschin Comprehensive Cancer Institute</orgName>
+								<address>
+									<settlement>Los Angeles</settlement>
+									<region>CA</region>
+									<country>United States of America</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff2">
+								<orgName type="department">Clinical Trials Program</orgName>
+								<orgName type="institution">Mayo Clinic</orgName>
+								<address>
+									<settlement>Rochester</settlement>
+									<region>MN</region>
+									<country>United States of America</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Amit</forename><surname>Mahipal</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="department">Phase</orgName>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Tim</forename><surname>Meyer</surname></persName>
+							<affiliation key="aff3">
+								<orgName type="department">Experimental Cancer Medicine</orgName>
+								<orgName type="institution">University College Hospital</orgName>
+								<address>
+									<settlement>London</settlement>
+									<country key="GB">United Kingdom</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Johanna</forename><surname>Bendell</surname></persName>
+							<affiliation key="aff4">
+								<orgName type="department">GI Oncology Research</orgName>
+								<orgName type="institution">Sarah Cannon Research Institute/Tennessee Oncology</orgName>
+								<address>
+									<settlement>Nashville</settlement>
+									<region>TN</region>
+								</address>
+							</affiliation>
+							<affiliation key="aff5">
+								<orgName type="institution">United States of America</orgName>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">John</forename><surname>Nemunaitis</surname></persName>
+							<affiliation key="aff6">
+								<orgName type="department">Department of Oncology</orgName>
+								<orgName type="institution">Mary Crowley Cancer Research Center</orgName>
+								<address>
+									<settlement>Dallas</settlement>
+									<region>TX</region>
+									<country>United States of America</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Pam</forename><forename type="middle">N</forename><surname>Munster</surname></persName>
+							<affiliation key="aff7">
+								<orgName type="department" key="dep1">Early Phase Clinical Research Program</orgName>
+								<orgName type="department" key="dep2">Diller Family Comprehensive Cancer Center</orgName>
+								<orgName type="institution">UCSF Helen</orgName>
+								<address>
+									<settlement>San Francisco</settlement>
+									<region>CA</region>
+									<country>United States of America</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Luis</forename><surname>Paz-Ares</surname></persName>
+							<affiliation key="aff8">
+								<orgName type="department">Medical Oncology Department</orgName>
+								<orgName type="institution">Hospital Universitario</orgName>
+								<address>
+									<addrLine>12 de Octubre</addrLine>
+								</address>
+							</affiliation>
+							<affiliation key="aff9">
+								<orgName type="institution" key="instit1">CNIO</orgName>
+								<orgName type="institution" key="instit2">Universidad Complutense and CiberOnc</orgName>
+								<address>
+									<settlement>Madrid</settlement>
+									<country key="ES">Spain</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Ellen</forename><forename type="middle">H</forename><surname>Filvaroff</surname></persName>
+							<affiliation key="aff10">
+								<orgName type="department">Translational Medicine</orgName>
+								<orgName type="institution">Celgene Corporation</orgName>
+								<address>
+									<settlement>San Francisco</settlement>
+									<region>CA</region>
+								</address>
+							</affiliation>
+							<affiliation key="aff11">
+								<orgName type="institution">United States of America</orgName>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Shaoyi</forename><surname>Li</surname></persName>
+							<affiliation key="aff12">
+								<orgName type="department">Department of Statistics</orgName>
+								<orgName type="institution">Celgene Corporation</orgName>
+								<address>
+									<settlement>Summit</settlement>
+									<region>NJ</region>
+									<country>United States of America</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff13">
+								<orgName type="department">Mount Sinai School of Medicine</orgName>
+								<orgName type="institution">¤a Current address: Tisch Cancer Institute</orgName>
+								<address>
+									<settlement>New York</settlement>
+									<region>NY</region>
+									<country>United States of America ¤b</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Kristen</forename><surname>Hege</surname></persName>
+							<affiliation key="aff10">
+								<orgName type="department">Translational Medicine</orgName>
+								<orgName type="institution">Celgene Corporation</orgName>
+								<address>
+									<settlement>San Francisco</settlement>
+									<region>CA</region>
+								</address>
+							</affiliation>
+							<affiliation key="aff11">
+								<orgName type="institution">United States of America</orgName>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Hans</forename><surname>De Haan</surname></persName>
+							<affiliation key="aff10">
+								<orgName type="department">Translational Medicine</orgName>
+								<orgName type="institution">Celgene Corporation</orgName>
+								<address>
+									<settlement>San Francisco</settlement>
+									<region>CA</region>
+								</address>
+							</affiliation>
+							<affiliation key="aff11">
+								<orgName type="institution">United States of America</orgName>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Monica</forename><surname>Mita</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department" key="dep1">Experimental Therapeutics Program</orgName>
+								<orgName type="department" key="dep2">Cedars-Sinai Medical Center</orgName>
+								<orgName type="institution">Samuel Oschin Comprehensive Cancer Institute</orgName>
+								<address>
+									<settlement>Los Angeles</settlement>
+									<region>CA</region>
+									<country>United States of America</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff2">
+								<orgName type="department">Clinical Trials Program</orgName>
+								<orgName type="institution">Mayo Clinic</orgName>
+								<address>
+									<settlement>Rochester</settlement>
+									<region>MN</region>
+									<country>United States of America</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff14">
+								<orgName type="department">College of Medicine and Life Sciences</orgName>
+								<orgName type="institution" key="instit1">University of Toledo</orgName>
+								<orgName type="institution" key="instit2">Ruppert Health Center</orgName>
+								<address>
+									<settlement>Toledo</settlement>
+									<region>OH</region>
+									<country>United States of America</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff15">
+								<orgName type="institution">University of Wisconsin -Madison</orgName>
+								<address>
+									<country key="US">UNITED STATES</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">A phase 2 study of an oral mTORC1/mTORC2 kinase inhibitor (CC-223) for non-pancreatic neuroendocrine tumors with or without carcinoid symptoms</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date type="published" when="2019-09-17">September 17, 2019</date>
+						</imprint>
+					</monogr>
+					<idno type="DOI">10.1371/journal.pone.0221994</idno>
+					<note type="submission">Received: December 3, 2018 Accepted: July 20, 2019</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.6.1" ident="GROBID" when="2020-10-09T18:38+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<abstract>
+				<p>Second-generation mammalian target of rapamycin (mTOR) inhibitors such as CC-223 may have theoretical advantages over first-generation drugs by inhibiting TOR kinase in mTOR complex 1 (mTORC1) and 2 (mTORC2), potentially improving clinical efficacy for well-differentiated neuroendocrine tumors (NET).Enrolled patients had metastatic, well-differentiated NET of non-pancreatic gastrointestinal or unknown origin, with/without carcinoid symptoms, had failed �1 systemic chemotherapy, and were taking a somatostatin analog (SSA). Oral once-daily CC-223 was administered in 28-day cycles starting at 45 mg (n = 24), with a subsequent cohort starting at 30 mg (n = 23). Objectives were to evaluate tolerability, preliminary efficacy, and pharmacokinetic and biomarker profiles of CC-223. Forty-seven patients completed the study, with mean treatment duration of 378 days and mean dose of 26 mg; 26% of patients remained on the starting dose. Most frequent grade �3 toxicities were diarrhea (38%), fatigue (21%), and stomatitis (11%). By investigator, 3 of 41 evaluable patients (7%) showed partial response (PR) and 34 (83%) had stable disease (SD) for a disease control rate (DCR) of 90% (95% confidence interval [CI] 76.9-97.3%). Duration of PR was 125-401 days; median SD duration was 297 days (min-max, 50-1519 days). Median progression-free survival was 19.5 months (95% CI 10.4-28.5 months). Carcinoid symptoms of flushing, diarrhea, or both improved in 50%, 41%, and 39% of affected patients, respectively. For the first time, this study describes that a second-generation mTOR pathway a1111111111 a1111111111 a1111111111 a1111111111 a1111111111</p>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Introduction</head><p>Neuroendocrine tumors (NET), although generally believed to be uncommon, are the second most common gastrointestinal (GI) malignancy, superseded only by colorectal neoplasias <ref type="bibr" target="#b0">[1,</ref><ref type="bibr" target="#b1">2]</ref>. This malignancy is reported to be increasing in prevalence, with the greatest increase in lung, small intestine, and rectal NETs <ref type="bibr" target="#b0">[1]</ref>. Although survival has improved with introduction of newer therapies, prognosis for patients with advanced disease remains poor <ref type="bibr" target="#b0">[1]</ref>.</p><p>The phosphatidylinositol-4,5-bisphosphate 3-kinase (PI3K)-protein kinase B (AKT)-mammalian target of rapamycin (mTOR) signalling pathway, which is inappropriately activated in many cancers, plays a central role in the genesis and progression of NET. The mTOR complex 1 (mTORC1) inhibitor everolimus has become well-established as an effective therapy for NET arising from the pancreas, lung, or GI tract, with an associated median progression-free survival (PFS) of 11.0 months <ref type="bibr" target="#b2">[3,</ref><ref type="bibr" target="#b3">4]</ref>. mTOR kinase is a serine/threonine kinase that serves as a core component of two complexes; mTORC1 and mTORC2. The former modulates cell proliferation via phosphorylation of eukaryotic translation initiation factor 4E binding protein 1 (4E-BP1) and p70 ribosomal S6 kinase 1 (S6K1), whereas the latter acts via phosphorylation of AKT <ref type="bibr" target="#b4">[5]</ref>. Everolimus inhibits the mTORC1 complex but may upregulate mTORC2, which thus maintains AKT activation. Consequently, inhibitors that can target both complexes may offer clinical advantages in terms of improved efficacy <ref type="bibr" target="#b4">[5]</ref><ref type="bibr" target="#b5">[6]</ref><ref type="bibr" target="#b6">[7]</ref><ref type="bibr" target="#b7">[8]</ref><ref type="bibr" target="#b8">[9]</ref><ref type="bibr" target="#b9">[10]</ref>.</p><p>CC-223 is an inhibitor of TOR kinase in mTORC1 and mTORC2 that is known to overcome mTORC2 feedback pathway upregulation and thus potentially minimize development of therapy resistance due to increased phosphorylation of AKT <ref type="bibr" target="#b10">[11]</ref>. In non-clinical studies, inhibition of mTORC1 and mTORC2 leads to more effective inhibition of cancer cell proliferation than does blocking mTORC1 alone <ref type="bibr" target="#b10">[11]</ref>. In mice bearing human carcinoid xenografts that secrete serotonin, tumors that progressed on rapamycin remained stable or decreased in volume from baseline after treatment with CC-223 <ref type="bibr" target="#b11">[12]</ref>.</p><p>In a first-in-human study, CC-223 was evaluated as a treatment for patients with advanced solid tumors, and the 45 mg/d dose was established as the maximum tolerated dose (MTD) <ref type="bibr" target="#b12">[13]</ref>. Here, we report results of an expansion cohort in patients with non-pancreatic GI or unknown primary NET treated at the previously-established MTD or lower dose if needed.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Materials and methods</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Study design and participants</head><p>This open-label phase 1/2 study comprised two parts: dose-finding to determine maximum tolerated dose (phase 1) in a variety of solid and hematologic malignancies, the results from which have been previously published <ref type="bibr" target="#b12">[13]</ref>, and cohort expansion (phase 2). In phase 2, adults (�18 years) with locally unresectable or metastatic well-differentiated (grade 1 or 2) non-pancreatic GI NET or NET of unknown primary origin, with or without carcinoid syndrome, who had failed at least one prior systemic anticancer therapy were the principal eligibility criteria. Concurrent therapy with a somatostatin analog (SSA), evidence of radiologic disease progression prior to study start with no receptor-targeted radio-labelled or liver-directed therapy information and cannot be proactively shared with persons who are not qualified to handle patient data. Researchers interested in obtaining access to clinical trial documents and/or data can make their requests for Celgene clinical trial data using the Vivli platform: https://vivli.org. This site includes all the instructions necessary for researchers to register and submit a research proposal. Qualified data requests will not be denied. To read Celgene's complete Clinical Trial Data Sharing Policy, please visit https://media.celgene.com/content/uploads/ clinical-trial-data-sharing-policy.pdf within 3-4 months, and an Eastern Cooperative Oncology Group (ECOG) performance status score no higher than 1 were also requirements for enrolment. Specified laboratory results for inclusion were a hemoglobin level of �9 g/dL, absolute neutrophil count �1.5×10 9 /L, platelet count �100×10 9 /L, serum potassium within normal limits or correctable with supplements, aspartate and alanine aminotransferases �2.5×upper limit of normal (ULN) or �5.0×ULN if liver tumor was present, bilirubin �1.5×ULN or �2×ULN if liver tumor was present, creatinine �1.5×ULN or 24-hour clearance �50 mL/min, and a negative serum or urine pregnancy test within 48 hours before starting CC-223 for females of childbearing potential. Patients with pancreatic NET, pulmonary carcinoid, high-grade poorly differentiated, or rare variant tumor types were excluded.</p><p>Using the optimal CC-223 dose of 45 mg established in phase 1 <ref type="bibr" target="#b12">[13]</ref>, cohort expansion objectives were to determine the tolerability of CC-223, characterize the pharmacokinetic (PK) and pharmacodynamic (biomarker) profiles, and identify a preliminary efficacy signal in seven parallel cohorts of various preselected tumor types; only the NET cohorts are reported here. Patient flow is shown in <ref type="figure" target="#fig_0">Fig 1.</ref> The study (NCT01177397) was conducted in accordance with the International Conference on Harmonisation (ICH) E6 requirements for Good Clinical Practice, in accordance with the ethical principles outlined in the Declaration of Helsinki and according to all other national and institutional guidelines. The study protocol was approved by the institutional review boards and other necessary oversight committees at each investigational site <ref type="bibr">(</ref> </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Procedures</head><p>CC-223 capsules were taken orally once daily in continuous 28-day cycles. An initial cohort started CC-223 at a dose of 45 mg; this was the maximum tolerated dose (MTD) established in phase 1 but, after observing a high rate of dose adjustments due to toxicity among patients with NET, a second cohort started CC-223 at 30 mg. To mitigate toxicity, dosage could be adjusted with either short interruptions, dose level reductions, or every-other-day administration. Treatment was permanently discontinued for disease progression, unmanageable toxicity, patient withdrawal of consent, or other reasons specified by the protocol as requiring study withdrawal.</p><p>Baseline assessments were completed within 28 days prior to first dose of CC-223. Drug tolerability was continuously evaluated until 28 days after the last dose, using clinical event and laboratory test monitoring comprising a conventional hematologic and coagulation (if taking anti-coagulants) panel; serum electrolytes; fasting blood glucose (this also included daily selfmonitoring with finger stick samples for the first month and for longer if necessary), HbA 1c , insulin, and c-peptide; liver enzymes; serum creatinine; and protein. Others included serum uric acid, amylase and lipase, lipoproteins, thyroid function tests, creatine kinase, and immunoglobulins including T-cell subsets (CD4+ and CD8+). We also performed serial triplicate electrocardiograms (ECGs), periodic left ventricular ejection fraction estimations (echo or multiple gated acquisition [MUGA]), regular physical exams and vital sign measurements (heart rate, blood pressure, respiratory rate, and temperature). Adverse events were coded with Medical Dictionary for Regulatory Activities (MedDRA) version 19.0. Severity of adverse events was classified using the National Cancer Institute Common Terminology Criteria for Adverse Events (CTCAE) version 4.0. A safety review committee provided study oversight.</p><p>Tumors were restaged by the principal investigator at each site using computed tomography (CT), positron emission tomography (PET)-CT, or magnetic resonance imaging scans after every 2 cycles through cycle 6, and every 3 cycles thereafter, using Response Evaluation Criteria In Solid Tumors (RECIST) version 1.1 criteria for response <ref type="bibr" target="#b13">[14]</ref>.</p><p>Metabolic changes were assessed by percent change in total of standardized uptake value (SUV) of 2-18 F-fluoro-2-deoxyglucose (FDG) with PET scanning from baseline to day 15 in cycle 1. Carcinoid symptoms of flushing and diarrhea were documented monthly with a non- https://doi.org/10.1371/journal.pone.0221994.g001 validated symptom questionnaire that was completed at each study visit. Patients reported whether they had experienced specific events, and the severity and/or frequency of these events. Symptom improvement was defined as �50% reduction in frequency and/or a 1-grade reduction in severity for each from baseline.</p><p>Central laboratories conducted serial stimulated blood biomarker assays in monocytes (CD14+) for p4E-BP1 and pPKB (also known as pAKT) for assessment of mTORC1 and mTORC2 inhibition, respectively. Monthly changes from baseline for chromogranin A (CgA), and for other serum hormones if elevated, were assayed locally.</p><p>Blood for PK analysis was drawn on day 1 pre-dose and for up to 48 hours post-dose, and then on day 15 up to 8 hours post-dose. Urine on day 1 was collected within 30 minutes prior to dosing and at intervals up to 24 hours post-dose. Samples were assayed for CC-223 and the principal active metabolite (M1) using validated chiral liquid chromatography mass spectrometry. CC-223 PK parameters were calculated using dosing and sample collection times. Noncompartmental PK analysis was performed used WinNonlin Enterprise version 5.2 Model 200 and Model 210 (Certara, Princeton, NJ).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Outcomes</head><p>The primary objectives were to investigate the safety and tolerability and determine the preliminary PK of CC-223 administered orally. Secondary objectives were to characterize the PK of M1, to evaluate the inhibition of mTORC1 and mTORC2 in peripheral blood using p4E-BP1 and pAKT as biomarkers, and to evaluate the preliminary efficacy of CC-223 in terms of tumor response, PFS, and overall survival (OS).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Statistical analysis</head><p>This phase 1/2 study was not powered for inferential statistics and mostly descriptive statistics were used. All patients dosed with CC-223 were included in the safety analysis. The efficacy analysis included all patients completing at least one cycle of drug who had both baseline and one post-baseline tumor efficacy assessment, unless otherwise specified. Categorical baseline variables including tumor type-specific characteristics were summarized using frequency counts and percentage. Continuous demographic and baseline characteristic variables were summarized by descriptive statistics. A Wilcoxon signed rank test was used to analyse change from baseline in serum hormone levels at selected scheduled visits.</p><p>Best overall tumor response by investigator assessment was summarized using frequency tabulation. Waterfall plots were used to show best percentage change from baseline in the sum of length (longest diameter) of target lesions.</p><p>Relationship between PFS and NET-specific assessments such as serum hormone levels and carcinoid symptoms were investigated. The Kaplan-Meier estimate of median PFS with its two-sided 95% confidence interval [CI] was provided for each baseline category of the selected biomarkers. Kaplan-Meier plots of PFS were created by category. The raw P value of the log rank test comparing survival distribution of PFS between categories was also provided.</p><p>Approximately 40 evaluable patients with NET were planned for further evaluation of safety and preliminary antitumor activity. Patients could receive CC-223 at the MTD and/or a lower dose level based on the safety, PK, and PD data from the dose escalation phase <ref type="bibr" target="#b12">[13]</ref>.</p><p>Enrollment and tumor response rate monitoring were based on Wald's sequential analysis <ref type="bibr" target="#b14">[15]</ref>. Assuming a target response rate of 20% for the tumor type of interest (NET), based on the sequential design, with 80% power to identify the group with 20% or more response rate at 5% significance level when the response rate is at 10%, the enrollment could be stopped for futility when there was no responder out of up to 14 evaluable patients.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Results</head><p>The study was conducted between July 2011 and October 2016 at 15 investigational sites. From a total of 58 screened patients, 47 met all eligibility criteria. Of those, the first 24 started CC-223 at the MTD of 45 mg/day and the subsequent 23 started at 30 mg/day. Median age was 63 years (min-max: 35-79 years) ( <ref type="table" target="#tab_1">Table 1</ref>). Men comprised 40% of the population; 92% of patients were white, and 64% had ECOG performance status score of 1 on entry. Most (91%) had received prior SSA therapy and 43% had received additional systemic treatment; no patient received prior mTOR inhibitor therapy; however, one patient received concomitant treatment with everolimus. The majority (57%) had midgut, followed by other GI (23%) tumors, and 53% reported NET-related symptoms of either flushing or diarrhea. Eighteen patients (38%) withdrew from the study due to progression of their disease, 9 (19%) due to withdrawal of consent, 8 (17%) due to adverse events, 2 patients (4%) died, and 10 (21%) discontinued for other reasons.</p><p>Median treatment duration was 252 days, or 9 cycles (maximum of 1517 days, or 54 cycles), but only 12 (26%) patients remained on the dose initially assigned. Dose adjustment was Of the 46 (98%) patients who reported at least one treatment-related adverse event (TRAE) by investigator determination, 37 (79%) experienced grade 3 or 4 events. Overall, 8 of 47 patients (17%) experienced one or more serious adverse event related to CC-223. A total of 40 (85%) patients required dose adjustments due to toxicity and 6 (13%) discontinued CC-223 because of toxicity. Most common TRAEs were diarrhea (77%), fatigue (66%), stomatitis (53%), pruritus (40%), rash and nausea (38% each), hyperglycemia (28%), decreased appetite and maculopapular rash (26% each), and asthenia (23%) ( <ref type="table">Table 2</ref>). Most frequent grade 3 or higher toxicities were diarrhea (38%), fatigue (21%), and stomatitis (11%); there were no grade 4 or 5 toxicities reported for the most common TEAEs. Diarrhea (9%), decreased appetite  (6%), and nausea (4%) were the more common toxicities causing C-223 discontinuation, whereas diarrhea (40%), stomatitis and fatigue (17% each), and increased blood creatinine (13%) required the most dose adjustments. No patient died on study due to treatment-related toxicity. The PK results for patients with NET were consistent with results previously reported for phase 1 <ref type="bibr" target="#b12">[13]</ref>. The sample size for patients with NET who had serial PK sampling was small ( <ref type="table">Table 3</ref>) and included patients who had dose adjustments; both were limitations to these analyses. Overall, regardless of starting dose, CC-223 was rapidly absorbed with maximum plasma concentrations occurring at a median T max of 1.5-3 hours and, for M1, 3-8 hours. CC-223 and M1 exposure (C max and AUC t ) increased from 30 mg to 45 mg and aligned with doseproportional increases in exposure observed in the overall dose range evaluated in phase 1 <ref type="bibr" target="#b12">[13]</ref>. Significant accumulation of M1 was observed after repeated dosing.</p><p>Across both dose level cohorts in this study, substantial median biomarker inhibition relative to baseline was achieved for pAKT (&gt;70%) and p4E-BP1 (&gt;26%) at 1.5 hours after multiple dosing on day 15 regardless of whether patients started at 45 mg or 30 mg ( <ref type="table" target="#tab_4">Table 4)</ref>. Among the 34 of 47 (72%) patients with NET who had evaluable biomarker results, 13 and 21 patients were dosed initially with 45 mg and 30 mg CC-223, respectively. At 45 mg, blood pAKT showed a median inhibition of 83% 1.5 hours after a single dose (day 1) and 76% after multiple doses (day 15) of CC-223. Inhibition of p4E-BP1 was more moderate and showed a median inhibition of 37% 1.5 hours after a single dose and 47% inhibition after multiple doses. At the lower starting dose of 30 mg, weaker inhibition was observed after the first dose for both biomarkers, but the difference became less pronounced by day 15 after repeated dosing and disappeared completely for pAKT. At 30 mg, pAKT showed a median inhibition from baseline of 59% after the first dose and of 79% at day 15 after multiple doses, while p4E-BP1 showed a median inhibition of 9% following a single dose and of 26% after multiple doses. Taken together, these results demonstrate good inhibition of pAKT and less but meaningful 4E-BP1 inhibition regardless of CC-223 dose after repeat dosing at these dose levels. However, as noted above, the majority of patients could not tolerate the starting doses, and doses were reduced for extended periods to levels as low as 15 mg for 45% of patients. The pharmacodynamic effects at lower doses were not evaluated. Due to challenges obtaining optional paired biopsies in this population, the effects of CC-223 in tumor tissue could not be evaluated.</p><p>Mean percent decrease from baseline to day 15 of treatment in [ 18 F]-FDG PET SUV in 31 patients was 32.0% (standard deviation 35.2%; P&lt;0.0001, Wilcoxon signed rank test). Twentyone patients (44.7%) exhibited at least a 15% reduction in uptake and 18 (38.3%) had at least a 25% reduction in SUV. These metabolic changes did not correlate strongly with subsequent tumor response outcomes using RECIST criteria <ref type="figure" target="#fig_1">(Fig 2)</ref>.</p><p>Of the 47 patients, 41 completed at least one cycle of CC-223, had at least one restaging, and were thus evaluable for efficacy. By investigator assessment, no patient had a complete response (CR), 3 patients (7.3%) had a partial response (PR), 34 (82.9%) showed stable disease (SD), 1 (2.4%) had progressive disease (PD), and for 3 (7.3%) the assessment was not done. Thus, the objective response rate (CR+PR) was 7.3% (95% CI 1.5-19.9%) and the disease control rate (CR+PR+SD) was 90.2% (95% CI 76.9-97.3%). It is noteworthy that tumor shrinkage of any magnitude relative to baseline was observed in 73.2% patients (95% CI 57.1-85.8%) ( <ref type="figure" target="#fig_1">Fig  2)</ref>. Duration of response for the three patients with PR was 125, 253+ (no PD reported), and 401 days. The median duration of SD was long and lasted 297 days (min 50 days, max 1519 days). Duration of SD was longer than a year in 17 patients. Median PFS for the treated population was 19.5 months (95% CI 10.4-28.5 months) with rates at 6 and 10 months of 85% and 64%, respectively; median OS was not assessable (OS rate at 48 weeks was 0.97) <ref type="figure" target="#fig_2">(Fig 3)</ref>.</p><p>On enrollment, carcinoid-related flushing and diarrhea were reported in 16 (34%) and 22 (47%) patients, respectively, with both reported in 13 patients (28%). Symptom reduction at any time during the study was observed for flushing in 8 (50%) patients, for diarrhea in 9 (41%) patients, and for both symptoms in 5 (39%) patients. An ad hoc exploratory analysis suggested that patients with carcinoid symptom improvement had a higher PFS than patients without improvement (median survival [95% CI] 108. <ref type="bibr" target="#b3">4</ref>  Among the 35 patients with elevated baseline levels in at least one hormone, a �50% decline from baseline was reported for CgA (7 patients), gastrin (6 patients), glucagon (3 patients), and serotonin (2 patients). Sample sizes were small and hormones fluctuated considerably over time; none of the changes from baseline were statistically significant except for CgA (cycle 21 and end of treatment; P�0.039 [log rank text] for each cycle) and serotonin in some later cycles (cycles <ref type="bibr" target="#b10">11,</ref><ref type="bibr" target="#b12">13,</ref><ref type="bibr" target="#b14">15,</ref><ref type="bibr" target="#b16">17,</ref><ref type="bibr" target="#b18">19,</ref><ref type="bibr">21,</ref><ref type="bibr">23,</ref><ref type="bibr">25</ref>, and end of treatment; P�0.037 [log rank test] for each cycle). One responder had a &gt;50% decline in CgA, and one responder had a &gt;50% decline in gastrin. Too few patients with any elevated baseline levels had sufficient tumor response data for meaningful correlative analysis.  </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Discussion</head><p>This study provides encouraging first results on response of patients with well-differentiated non-pancreatic GI NET to a TOR kinase inhibitor in combination with an SSA. The extended times on treatment and durable PFS were notable (median PFS of 19.5 months for CC-223), considering that previously published data for everolimus reported a median PFS of 11.0 months <ref type="bibr" target="#b2">[3,</ref><ref type="bibr" target="#b3">4]</ref>. These findings support preclinical data indicating that dual inhibition by CC-223 may have advantages over everolimus, for example in everolimus-refractory patients <ref type="bibr" target="#b11">[12]</ref>. The frequency of carcinoid symptom reduction, which started early in patients who were refractory to an SSA alone, was also of interest. Since symptom monitoring using a non-validated questionnaire was added partway through the study in response to patients spontaneously reporting early-onset marked relief in both flushing and diarrhea, further evaluation of this observation is needed. The selection of an optimal dose of CC-223 at the conclusion of the dose-finding phase of the study was based on considerations of drug tolerability, magnitude and duration of mTORC1 and mTORC2 biomarker inhibition, and preliminary efficacy observed in a mixed tumor population <ref type="bibr" target="#b12">[13]</ref>. The 45 mg CC-223 once daily was not well-tolerated in the NET cohort. Dose reductions were also reported for &gt;50% of patients in tumor-specific cohorts of nonsmall cell lung cancer and hepatocellular carcinoma dosed at 45 mg <ref type="bibr" target="#b15">[16]</ref>. Most dose reductions occurred during the first 1-2 cycles of treatment. Additionally, while most adverse events occurred at lower rates at the 30 mg/day dose in patients with NET <ref type="table">(Table 2)</ref>, the 30-mg cohort also required frequent dose adjustments. Longer treatment duration was achieved at significantly lower doses for both cohorts. This may be partly explained by the relatively less aggressive disease characteristics of NET and the reluctance of these highly functioning patients to tolerate the inconvenience of adverse effects associated with their cancer treatment. Further consideration is needed to determine whether it is better to start treatment at 30 mg/day (ie, close to the conventional mean dose administered [26 mg]) or to start at a much lower dose and titrate up to an optimally tolerable level in order to improve compliance and quality of life. To minimize toxicity and maintain compliance, a number of patients required dose reductions to as low as 15 mg per day, with 3 patients at this dose every other day. At the 15 mg dose level, target biomarker inhibition would be predicted (not tested) to be modest, yet these patients benefitted from durable tumor shrinkage for extended periods of time. These findings suggest it may be appropriate to re-evaluate the traditional practice in dose-finding studies of dosing close to MTD for cohort expansion, and instead consider using the dose achieving maximal biomarker inhibition. This is particularly relevant for oral, daily administered drugs where cumulative toxicities often occur beyond the "classical" four-week dose-limiting toxicity period.</p><p>The PET SUV findings approximately 2 weeks into therapy showed a statistically significant reduction in glucose uptake from baseline. However, among patients who achieved at least some metabolic response (at least a 15% reduction from baseline) there were no strong correlations between early metabolic improvements and subsequent tumor response assessed by RECIST <ref type="figure" target="#fig_1">(Fig 2)</ref>. This outcome may have been confounded by CC-223-related hyperglycemia. Furthermore, it was anticipated that well-differentiated NET would have generally low FDG-PET uptake because of its low metabolic rate, as was confirmed in this cohort. Reductions in CgA and other abnormal serum hormones were generally not statistically significant, but patients with carcinoid symptom improvement showed a numerically higher PFS probability than patients without symptom improvement (median PFS 108 weeks vs 48 weeks). Correlations between carcinoid symptom improvement and reduction in baseline serum hormone levels were inconclusive, possibly because of the small sample sizes and the multiplicity of analyses (S1 <ref type="figure">Fig)</ref>.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>Fig 1 .</head><label>1</label><figDesc>CONSORT diagram.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head>Table 2 .</head><label>2</label><figDesc>Most common treatment-related adverse events in �10% of patients (n</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_2"><head>Table 3 .</head><label>3</label><figDesc>Pharmacokinetic characteristics for CC-223 and principal metabolite (M1) in patients with NET initially treated with 30 mg or 45 mg CCare presented as geometric mean (%CV, n), except where indicated. AUC t , area under the plasma concentration-time curve from time 0 to the last measurable concentration at time t; AUC τ , area under the plasma concentration-time curve from time 0 to τ, where τ is the dosing interval; CL/F, apparent total body clearance; C max , maximum observed concentration in plasma; CV, percentage coefficient of variation; h, hour; N/A, not applicable; T max , time to maximum concentration; Vz/F, apparent volume of distribution. a Median (min, max, n) data are presented.https://doi.org/10.1371/journal.pone.0221994.t003</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_3"><head>Fig 2 .</head><label>2</label><figDesc>Waterfall plot of tumor response according to RECIST version 1.1 in patients treated with CC-223, by starting dose. Best percent change from baseline in the sum of the longest diameters of target lesions (n = 39). PR, partial response; RECIST, Response Evaluation Criteria In Solid Tumors; SD, stable disease. https://doi.org/10.1371/journal.pone.0221994.g002</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_4"><head>Fig 3 .</head><label>3</label><figDesc>Progression-free survival (A) and overall survival (B) for the treated population. $, censored; CI, confidence interval; NA, not assessable; OS, overall survival; PFS, progression-free survival.https://doi.org/10.1371/journal.pone.0221994.g003 mTORC1/C2 kinase inhibitor (CC-223) for non-pancreatic NET</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>The first patient was enrolled into the study on July 18, 2011 and the last patient completed the study on October 25, 2016.</head><label></label><figDesc></figDesc><table><row><cell>ie, Integreview Ethical Review Board, Committee of Human Research</cell></row><row><cell>Office of Research, Western Institutional Review Board, Mary Crowley Medical Research Cen-</cell></row><row><cell>ter, North Texas Institutional Review Board at Medical City, Western Institutional Review</cell></row><row><cell>Board, NYU School of Medicine Institutional Review Board, Office of the Human Research</cell></row><row><cell>Protection Program (OHRPP) UCLA Medical Institutional Review Board, Cedars-Sinai Medi-</cell></row><row><cell>cal Center Institutional Review Board Office of Research Compliance, Liberty IRB, Inc, Mayo</cell></row><row><cell>Clinic Institutional Review Board, Comité Autonomico de Ensayos Clinicos deAndalucia,</cell></row><row><cell>Comité Ético de Investigación Clínica Hospital Clínico Universitario de Salamanca, Comité</cell></row><row><cell>Consultatif de Protection des Personnes dans la Recherche, Comité de Protection des Per-</cell></row><row><cell>sonnes Ile de France III and NRES Committee London-Westminster). The protocol and sup-</cell></row><row><cell>porting CONSORT checklist are available as supporting information (S1 Checklist and S1</cell></row><row><cell>Protocol).</cell></row></table><note></note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_1"><head>Table 1 . Patient demographics and baseline characteristics (n = 47).</head><label>1</label><figDesc></figDesc><table><row><cell>Age</cell><cell></cell></row><row><cell>Median years (min, max)</cell><cell>63 (35, 79)</cell></row><row><cell>�65 years</cell><cell>26 (55.3)</cell></row><row><cell>&gt;65 years, n (%)</cell><cell>21 (44.7)</cell></row><row><cell>Sex, %</cell><cell></cell></row><row><cell>Males</cell><cell>19 (40.4)</cell></row><row><cell>Females</cell><cell>28 (59.6)</cell></row><row><cell>Race, n (%)</cell><cell></cell></row><row><cell>White</cell><cell>43 (91.5)</cell></row><row><cell>Asian</cell><cell>2 (4.3)</cell></row><row><cell>Black</cell><cell>1 (2.1)</cell></row><row><cell>Other</cell><cell>1 (2.1)</cell></row><row><cell>Primary site, n (%)</cell><cell></cell></row><row><cell>Midgut</cell><cell>27 (57.4)</cell></row><row><cell>Gastrointestinal not specified</cell><cell>11 (23.4)</cell></row><row><cell>Rectal</cell><cell>1 (2.1)</cell></row><row><cell>Not specified</cell><cell>8 (17.0)</cell></row><row><cell>ECOG PS, n (%)</cell><cell></cell></row><row><cell>0</cell><cell>17 (36.2)</cell></row><row><cell>1</cell><cell>30 (63.8)</cell></row><row><cell>Prior therapy other than somatostatin analogs, n (%)</cell><cell></cell></row><row><cell>0</cell><cell>38 (80.9)</cell></row><row><cell>1</cell><cell>5 (10.6)</cell></row><row><cell>2</cell><cell>2 (4.3)</cell></row><row><cell>�3</cell><cell>2 (4.3)</cell></row><row><cell>Carcinoid-related symptoms, a n (%)</cell><cell></cell></row><row><cell>Flushing</cell><cell>16 (34.0)</cell></row><row><cell>Diarrhea</cell><cell>22 (46.8)</cell></row><row><cell>Flushing and diarrhea</cell><cell>13 (27.7)</cell></row></table><note>ECOG PS, Eastern Cooperative Oncology Group performance status.a Two symptoms collected partly retrospectively with a non-validated multi-symptom carcinoid questionnaire.https://doi.org/10.1371/journal.pone.0221994.t001 frequent; overall, 12 (26%), 19 (40%), and 4 (9%) patients required 1, 2, or more reductions, respectively, with a mean time to first dose reduction of 46 days (range 8-589 days). By dose group, 11 (48%), 7 (30%), and 0 patients in the 30 mg group and 3 (13%), 12 (50%), and 2 (8%) patients in the 45 mg group required 1, 2, or more reductions, respectively. The mean dose overall was 26 mg (min-max: 15 [intermittently]-45 mg [once daily]). Patient exposure infor- mation is shown in S1 Fig.</note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_4"><head>Table 4 . Regulation of pAKT and p4E-BP1 in monocytes. Inhibition (percent change from baseline) for pAKT and p4E-BP1 in monocytes of patients initially dosed with 45 mg or 30 mg CC-223.</head><label>4</label><figDesc></figDesc><table><row><cell>pAKT</cell></row></table><note></note></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot">PLOS ONE | https://doi.org/10.1371/journal.pone.0221994 September 17, 2019</note>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Acknowledgments</head><p>We thank the patients and their families, and the principal investigator study teams, for enabling this study to complete successfully. We also thank the many support staff at Celgene who were involved in the operational aspects of the study, including Angela Joubert James and Torsten Trowe, who were employees of Celgene at the time of the study. The authors received medical writing assistance from Amy Agbonbhase, PhD, of The Lockwood Group, funded by Celgene Corporation.</p></div>
+			</div>
+
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>The safety profile of CC-223 appears to be comparable with the previously characterized class of approved mTOR inhibitors <ref type="bibr" target="#b2">[3,</ref><ref type="bibr" target="#b16">[17]</ref><ref type="bibr" target="#b17">[18]</ref><ref type="bibr" target="#b18">[19]</ref>, notwithstanding the increased incidence and severity of certain TRAEs. However, toxicity generally emerged early into treatment and was well-managed either by aggressive dose adjustments or standard treatment interventions. The commonly experienced on-target class effect of hyperglycemia correlated with drug exposure and was managed effectively with dose-reduction or with hypoglycemic agents <ref type="bibr" target="#b19">[20]</ref>. No lateonset new toxicity was identified even after extended treatment with CC-223. Overall, neither unexpected nor new major safety signals were identified for CC-223 compared with currently available mTOR inhibitors.</p><p>In conclusion, treatment with CC-223 showed encouraging preliminary evidence of antitumor activity in patients with advanced metastatic non-pancreatic GI NET. The durable tumor responses, coupled with meaningful symptom relief in patients reporting carcinoid symptoms, support further evaluation of CC-223 in this patient population. Dual mTORC1 and mTORC2 kinase inhibitors may have advantages over everolimus, for example in everolimus-refractory patients, as has been shown pre-clinically <ref type="bibr" target="#b11">[12]</ref>. In addition, CC-223 efficacy may be enhanced by combination with other cancer therapies, which will be worthy to explore.  </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Supporting information</head></div>			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">One hundred years after &quot;carcinoid&quot;: epidemiology of and prognostic factors for neuroendocrine tumors in 35,825 cases in the United States</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">C</forename><surname>Yao</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Hassan</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Phan</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><surname>Dagohoy</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><surname>Leary</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">E</forename><surname>Mares</surname></persName>
+		</author>
+		<idno type="DOI">10.1200/JCO.2007.15.4377</idno>
+		<idno type="PMID">18565894</idno>
+	</analytic>
+	<monogr>
+		<title level="j">J Clin Oncol</title>
+		<imprint>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="issue">18</biblScope>
+			<biblScope unit="page" from="3063" to="72" />
+			<date type="published" when="2008" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title/>
+		<ptr target="https://seer.cancer.gov/csr/1975_2016/results_merged/topic_prevcounts.pdf" />
+	</analytic>
+	<monogr>
+		<title level="j">National Cancer Institute. SEER Cancer Statistics Review</title>
+		<imprint>
+			<date type="published" when="1975" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Everolimus for the treatment of advanced, non-functional neuroendocrine tumours of the lung or gastrointestinal tract (RADIANT-4): a randomised, placebo-controlled, phase 3 study</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">C</forename><surname>Yao</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">N</forename><surname>Fazio</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Singh</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><surname>Buzzoni</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><surname>Carnaghi</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><surname>Wolin</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/S0140-6736(15)00817-X</idno>
+		<idno type="PMID">26703889</idno>
+		<ptr target="https://doi.org/10.1016/S0140-6736" />
+	</analytic>
+	<monogr>
+		<title level="j">Lancet</title>
+		<imprint>
+			<biblScope unit="volume">387</biblScope>
+			<biblScope unit="issue">15</biblScope>
+			<biblScope unit="page">817</biblScope>
+			<date type="published" when="2016" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<monogr>
+		<title level="m" type="main">Everolimus for advanced pancreatic neuroendocrine tumors. The New England journal of medicine</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">C</forename><surname>Yao</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">H</forename><surname>Shah</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Ito</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><forename type="middle">L</forename><surname>Bohas</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><forename type="middle">M</forename><surname>Wolin</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><surname>Van Cutsem</surname></persName>
+		</author>
+		<idno type="DOI">10.1056/NEJMoa1009290</idno>
+		<idno type="PMID">21306238</idno>
+		<imprint>
+			<date type="published" when="2011" />
+			<biblScope unit="volume">364</biblScope>
+			<biblScope unit="page">4208619</biblScope>
+		</imprint>
+	</monogr>
+	<note>PubMed Central PMCID</note>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Potentiation of the anticancer effects of everolimus using a dual mTORC1/2 inhibitor in hepatocellular carcinoma cells</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">O</forename><surname>Kim</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><forename type="middle">H</forename><surname>Kim</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">I</forename><forename type="middle">S</forename><surname>Song</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><forename type="middle">S</forename><surname>Cheon</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">O</forename><forename type="middle">H</forename><surname>Kim</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><forename type="middle">C</forename><surname>Lee</surname></persName>
+		</author>
+		<idno type="DOI">10.18632/oncotarget.13808</idno>
+		<idno type="PMID">27935857</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Oncotarget</title>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page">5356853</biblScope>
+			<date type="published" when="2017" />
+		</imprint>
+	</monogr>
+	<note>PubMed Central PMCID</note>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Doubling Down on mTOR Inhibition: Harnessing ZEBRA for Insights</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">Y</forename><surname>Chan</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Y</forename><surname>Choudhury</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">H</forename><surname>Tan</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.eururo.2015.09.047</idno>
+		<idno type="PMID">26463319</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Eur Urol</title>
+		<imprint>
+			<biblScope unit="volume">69</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="457" to="466" />
+			<date type="published" when="2016" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Inhibition of mTOR&apos;s Catalytic Site by PKI-587 Is a Promising Therapeutic Option for Gastroenteropancreatic Neuroendocrine Tumor Disease</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><surname>Freitag</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">F</forename><surname>Christen</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">F</forename><surname>Lewens</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">I</forename><surname>Grass</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">F</forename><surname>Briest</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Iwaszkiewicz</surname></persName>
+		</author>
+		<idno type="DOI">10.1159/000448843</idno>
+		<idno type="PMID">27513674</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Neuroendocrinology</title>
+		<imprint>
+			<biblScope unit="volume">105</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page">5475233</biblScope>
+			<date type="published" when="2017" />
+		</imprint>
+	</monogr>
+	<note>PubMed Central PMCID</note>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Dual mTOR inhibitor MLN0128 suppresses Merkel cell carcinoma (MCC) xenograft tumor growth</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Kannan</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Z</forename><surname>Lin</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Q</forename><surname>Shao</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Zhao</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">B</forename><surname>Fang</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">A</forename><surname>Moreno</surname></persName>
+		</author>
+		<idno type="DOI">10.18632/oncotarget.5878</idno>
+		<idno type="PMID">26536665</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Oncotarget</title>
+		<imprint>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page">4872734</biblScope>
+			<date type="published" when="2016" />
+		</imprint>
+	</monogr>
+	<note>PubMed Central PMCID</note>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<monogr>
+		<title level="m" type="main">Dual mTORC1/2 Inhibition as a Novel Strategy for the Resensitization and Treatment of Platinum-Resistant Ovarian Cancer. Mol Cancer Ther</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">F</forename><surname>Musa</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Alard</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">G</forename><surname>David-West</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">P</forename><surname>Curtin</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><forename type="middle">V</forename><surname>Blank</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><forename type="middle">J</forename><surname>Schneider</surname></persName>
+		</author>
+		<idno type="DOI">10.1158/1535-7163.MCT-15-0926</idno>
+		<idno type="PMID">27196780</idno>
+		<imprint>
+			<date type="published" when="2016" />
+			<biblScope unit="volume">15</biblScope>
+			<biblScope unit="page">5323079</biblScope>
+		</imprint>
+	</monogr>
+	<note>PubMed Central PMCID</note>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<monogr>
+		<title level="m" type="main">Targeted Inhibition of Rictor/mTORC2 in Cancer Treatment: A New Era after Rapamycin. Current cancer drug targets</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Z</forename><surname>Zou</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Chen</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Yang</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">X</forename><surname>Bai</surname></persName>
+		</author>
+		<idno type="PMID">26563881</idno>
+		<imprint>
+			<date type="published" when="2016" />
+			<biblScope unit="volume">16</biblScope>
+			<biblScope unit="page" from="288" to="304" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">CC-223, a Potent and Selective Inhibitor of mTOR Kinase: In Vitro and In Vivo Characterization</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><forename type="middle">S</forename><surname>Mortensen</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><forename type="middle">E</forename><surname>Fultz</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Xu</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">W</forename><surname>Xu</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">G</forename><surname>Packard</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">G</forename><surname>Khambatta</surname></persName>
+		</author>
+		<idno type="DOI">10.1158/1535-7163.MCT-14-1052</idno>
+		<idno type="PMID">25855786</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Mol Cancer Ther</title>
+		<imprint>
+			<biblScope unit="volume">14</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page" from="1295" to="305" />
+			<date type="published" when="2015" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">mTOR Kinase Inhibition Effectively Decreases Progression of a Subset of Neuroendocrine Tumors that Progress on Rapalog Therapy and Delays Cardiac Impairment</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">A</forename><surname>Orr-Asman</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Z</forename><surname>Chu</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Jiang</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Worley</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><surname>Lasance</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><forename type="middle">E</forename><surname>Koch</surname></persName>
+		</author>
+		<idno type="DOI">10.1158/1535-7163.MCT-17-0058</idno>
+		<idno type="PMID">28864682</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Mol Cancer Ther</title>
+		<imprint>
+			<biblScope unit="volume">16</biblScope>
+			<biblScope unit="issue">11</biblScope>
+			<biblScope unit="page" from="2432" to="2473" />
+			<date type="published" when="2017" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">A phase I dose-escalation study to assess safety, tolerability, pharmacokinetics, and preliminary efficacy of the dual mTORC1/ mTORC2 kinase inhibitor CC-223 in patients with advanced solid tumors or multiple myeloma</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">C</forename><surname>Bendell</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><forename type="middle">K</forename><surname>Kelley</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><forename type="middle">C</forename><surname>Shih</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">A</forename><surname>Grabowsky</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><surname>Bergsland</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Jones</surname></persName>
+		</author>
+		<idno type="DOI">10.1002/cncr.29422</idno>
+		<idno type="PMID">26177599</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Cancer</title>
+		<imprint>
+			<biblScope unit="volume">121</biblScope>
+			<biblScope unit="page">4832308</biblScope>
+			<date type="published" when="2015" />
+		</imprint>
+	</monogr>
+	<note>PubMed Central PMCID</note>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">New response evaluation criteria in solid tumours: revised RECIST guideline (version 1.1)</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><forename type="middle">A</forename><surname>Eisenhauer</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><surname>Therasse</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Bogaerts</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">L</forename><forename type="middle">H</forename><surname>Schwartz</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><surname>Sargent</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><surname>Ford</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.ejca.2008.10.026</idno>
+		<idno type="PMID">19097774</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Eur J Cancer</title>
+		<imprint>
+			<biblScope unit="volume">45</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="228" to="275" />
+			<date type="published" when="2009" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">Sequential tests of statistical hypotheses</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Wald</forename><forename type="middle">A</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">mTORC1/C2 kinase inhibitor (CC-223) for non-pancreatic NET</title>
+		<imprint>
+			<date type="published" when="1945" />
+			<biblScope unit="volume">16</biblScope>
+			<biblScope unit="page" from="117" to="86" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Phase I expansion trial of an oral TORC1/TORC2 inhibitor (CC-223) in advanced solid tumors</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Varga</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">M</forename><surname>Mita</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">J</forename><surname>Wu</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">J</forename><surname>Nemunaitis</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><forename type="middle">F</forename><surname>Cloughesy</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><forename type="middle">S</forename><surname>Mischel</surname></persName>
+		</author>
+		<idno type="DOI">10.1200/jco.2013.31.15_suppl.2606</idno>
+		<ptr target="https://doi.org/10.1200/jco.2013.31.15_suppl.2606" />
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Clinical Oncology</title>
+		<imprint>
+			<biblScope unit="volume">31</biblScope>
+			<biblScope unit="issue">15_suppl</biblScope>
+			<biblScope unit="page">2606</biblScope>
+			<date type="published" when="2013" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Efficacy and Safety of Everolimus in Extrapancreatic Neuroendocrine Tumor: A Comprehensive Review of Literature</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Faggiano</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><surname>Malandrino</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><surname>Modica</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><surname>Agrimi</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Aversano</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">V</forename><surname>Bassi</surname></persName>
+		</author>
+		<idno type="DOI">10.1634/theoncologist.2015-0420</idno>
+		<idno type="PMID">27053503</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Oncologist</title>
+		<imprint>
+			<biblScope unit="volume">21</biblScope>
+			<biblScope unit="issue">7</biblScope>
+			<biblScope unit="page">4943387</biblScope>
+			<date type="published" when="2016" />
+		</imprint>
+	</monogr>
+	<note>PubMed Central PMCID</note>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Strategies for the management of adverse events associated with mTOR inhibitors</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">B</forename><surname>Kaplan</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Y</forename><surname>Qazi</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">R</forename><surname>Wellen</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.trre.2014.03.002</idno>
+		<idno type="PMID">24685370</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Transplant Rev (Orlando)</title>
+		<imprint>
+			<biblScope unit="volume">28</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="126" to="159" />
+			<date type="published" when="2014" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<monogr>
+		<title level="m" type="main">The Clinical Pharmacology and Toxicity Profile of</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><forename type="middle">W</forename><surname>Su</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Mita</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><forename type="middle">C</forename><surname>Mita</surname></persName>
+		</author>
+		<editor>Rapalogs. 1 ed. Mita M, Mita A, Rowinsky EK</editor>
+		<imprint>
+			<date type="published" when="2016" />
+			<publisher>Springer-Verlag</publisher>
+			<pubPlace>Paris</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">Hyperglycemia Associated With Targeted Oncologic Treatment: Mechanisms and Management</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">W</forename><surname>Goldman</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">A</forename><surname>Mendenhall</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><forename type="middle">R</forename><surname>Rettinger</surname></persName>
+		</author>
+		<idno type="DOI">10.1634/theoncologist.2015-0519</idno>
+		<idno type="PMID">27473045</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Oncologist</title>
+		<imprint>
+			<biblScope unit="volume">21</biblScope>
+			<biblScope unit="issue">11</biblScope>
+			<biblScope unit="page">5189614</biblScope>
+			<date type="published" when="2016" />
+		</imprint>
+	</monogr>
+	<note>PubMed Central PMCID</note>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

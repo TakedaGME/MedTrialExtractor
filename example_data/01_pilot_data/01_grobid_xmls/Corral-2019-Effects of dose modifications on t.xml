@@ -1,0 +1,564 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /data/rsg/nlp/juanmoo1/bin/grobid-0.6.1/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Effects of dose modifications on the safety and efficacy of dacomitinib for EGFR mutation-positive non-small-cell lung cancer</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+				<date type="published" when="2019-07-17">17 July 2019</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author role="corresp">
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Jesús</forename><surname>Corral</surname></persName>
+							<email>jcorral@unav.es</email>
+							<affiliation key="aff0">
+								<orgName type="institution">Clínica Universidad de Navarra</orgName>
+								<address>
+									<postCode>28027</postCode>
+									<settlement>Madrid</settlement>
+									<country key="ES">Spain</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Tony</forename><forename type="middle">S</forename><surname>Mok</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="department">Department of Clinical Oncology</orgName>
+								<orgName type="laboratory">State Key Laboratory of South China</orgName>
+								<orgName type="institution">Chinese University of Hong Kong</orgName>
+								<address>
+									<settlement>Hong Kong</settlement>
+									<country key="CN">PR China</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Kazuhiko</forename><surname>Nakagawa</surname></persName>
+							<affiliation key="aff2">
+								<orgName type="institution">Kindai University Hospital</orgName>
+								<address>
+									<postCode>589-8511</postCode>
+									<settlement>Osaka</settlement>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Rafael</forename><surname>Rosell</surname></persName>
+							<affiliation key="aff3">
+								<orgName type="institution">Catalan Institute of Oncology</orgName>
+								<address>
+									<settlement>Barcelona</settlement>
+									<country key="ES">Spain</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Ki</forename><forename type="middle">Hyeong</forename><surname>Lee</surname></persName>
+							<affiliation key="aff4">
+								<orgName type="institution">Chungbuk National University Hospital</orgName>
+								<address>
+									<settlement>Cheongju</settlement>
+									<country key="KR">Korea</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Maria</forename><forename type="middle">Rita</forename><surname>Migliorino</surname></persName>
+							<affiliation key="aff5">
+								<orgName type="laboratory">Pulmonary Oncology Unit</orgName>
+								<orgName type="institution">San Camillo-Forlanini Hospital</orgName>
+								<address>
+									<postCode>00152</postCode>
+									<settlement>Rome</settlement>
+									<country key="IT">Italy</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Adam</forename><surname>Pluzanski</surname></persName>
+							<affiliation key="aff6">
+								<orgName type="institution">The Maria Sklodowska-Curie Memorial Cancer Centre &amp; Institute of Oncology</orgName>
+								<address>
+									<postCode>02-781</postCode>
+									<settlement>Warsaw</settlement>
+									<country key="PL">Poland</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Rolf</forename><surname>Linke</surname></persName>
+							<affiliation key="aff7">
+								<orgName type="institution">SFJ Pharmaceuticals R</orgName>
+								<address>
+									<postCode>94588</postCode>
+									<settlement>Pleasanton</settlement>
+									<region>CA</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Geeta</forename><surname>Devgan</surname></persName>
+							<affiliation key="aff8">
+								<orgName type="department">Pfizer Oncology</orgName>
+								<address>
+									<postCode>10017</postCode>
+									<settlement>New York</settlement>
+									<region>NY</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Weiwei</forename><surname>Tan</surname></persName>
+							<affiliation key="aff9">
+								<orgName type="department">Pfizer Clinical Pharmacology</orgName>
+								<address>
+									<postCode>92121</postCode>
+									<settlement>San Diego</settlement>
+									<region>CA</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Susan</forename><surname>Quinn</surname></persName>
+							<affiliation key="aff10">
+								<orgName type="department">Pfizer Oncology</orgName>
+								<address>
+									<postCode>02139</postCode>
+									<settlement>Cambridge</settlement>
+									<region>MA</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Tao</forename><surname>Wang</surname></persName>
+							<affiliation key="aff11">
+								<orgName type="department">Pfizer Oncology</orgName>
+								<address>
+									<postCode>06340</postCode>
+									<settlement>Groton</settlement>
+									<region>CT</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Yi-Long</forename><surname>Wu</surname></persName>
+							<affiliation key="aff12">
+								<orgName type="department">Guangdong Provincial People&apos;s Hospital</orgName>
+								<orgName type="institution" key="instit1">Guangdong Lung Cancer Institute</orgName>
+								<orgName type="institution" key="instit2">Guangdong Academy of Medical Sciences</orgName>
+								<address>
+									<postCode>510080</postCode>
+									<settlement>Guangzhou</settlement>
+									<region>Guangdong</region>
+									<country key="CN">PR China</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Effects of dose modifications on the safety and efficacy of dacomitinib for EGFR mutation-positive non-small-cell lung cancer</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date type="published" when="2019-07-17">17 July 2019</date>
+						</imprint>
+					</monogr>
+					<idno type="DOI">10.2217/fon-2019-0299</idno>
+					<note type="submission">First draft submitted: 23 May 2019; Accepted for publication: 24 June 2019;</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.6.1" ident="GROBID" when="2020-10-09T18:38+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>dacomitinib</term>
+					<term>dose</term>
+					<term>EGFR</term>
+					<term>first-line</term>
+					<term>NSCLC Future Oncol. (2019) 15(24) future science group</term>
+				</keywords>
+			</textClass>
+			<abstract>
+				<p>We evaluated reasons for dacomitinib dose reduction (DR) and examined adverse event (AE) incidence, key efficacy end points (progression-free survival [PFS]/overall survival [OS]), and pharmacokinetics in dose-reducing patients in the ARCHER 1050 trial. Patients &amp; methods: Newly diagnosed patients with EGFR mutation-positive, advanced non-small-cell lung cancer received oral dacomitinib (45 mg once-daily [QD]), with stepwise toxicity-managing DR (30 and 15 mg QD) permitted. Results: Skin toxicities (62.7%) were the most common DR-leading AEs. The AE incidence and severity decreased following DRs. Initial plasma dacomitinib exposure (45 mg QD) was generally lower in patients remaining at 45 mg QD compared with dose-reducing patients. Median PFS and OS were similar in all dacomitinib-treated patients and dose-reducing patients. Conclusion: Tolerability-guided dose modifications enabled patients to continue with dacomitinib and benefit from PFS/OS improvement. Trial registration number: NCT01774721</p>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>dermatitis acneiform and stomatitis. Furthermore, in the ARCHER 1050 trial, 66% of patients in the dacomitinib arm experienced dose reduction (DR). However, grade 4 adverse events (AEs) occurred in only 2% of dacomitinibtreated patients in that trial, and only 10% of dacomitinib-treated patients permanently discontinued the drug due to study drug-related AEs <ref type="bibr" target="#b1">[2]</ref>. The overall safety profile of dacomitinib in the ARCHER 1050 trial was similar to that seen with other EGFR TKIs <ref type="bibr" target="#b1">[2]</ref>. Tolerability-guided DR has proven to be an effective strategy in reducing treatment-related AEs associated with afatinib, a second-generation EGFR TKI, in a randomized Phase II study without negatively impacting the drug's therapeutic efficacy <ref type="bibr" target="#b5">[4,</ref><ref type="bibr" target="#b7">5]</ref>.</p><p>In the ARCHER 1050 trial, the starting dose of dacomitinib for all patients was 45 mg once daily (QD), with a maximum of two dose-level reductions permitted for treatment-related toxicities. The first DR was to 30 mg QD, while the second was to 15 mg QD. This analysis explored the effects of dacomitinib DR on safety, efficacy and pharmacokinetics (PK) outcomes in the ARCHER 1050 trial.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Patients &amp; methods</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Trial design &amp; patients</head><p>The ARCHER 1050 trial design and patient eligibility criteria have been published previously <ref type="bibr" target="#b1">[2,</ref><ref type="bibr" target="#b3">3]</ref>. ARCHER 1050 was an open-label, multinational, multicenter and randomized Phase III trial. Eligible patients had stage IIIB/IV or recurrent, EGFR mutation-positive NSCLC, measurable disease by Response Evaluation Criteria in Solid Tumors version 1.1, and an Eastern Cooperative Oncology Group performance status of 0 or 1. The primary end point of the trial was PFS as determined by blinded independent central radiologic review. Secondary end points included OS, best overall response, duration of response, overall safety profile, patient-reported outcomes and PK. The data cut-off date was 17 February 2017 for OS and 29 July 2016 for all other end points. The trial was conducted in accordance with legal and regulatory requirements, as well as the general principles set forth in the International Ethical Guidelines for Biomedical Research Involving Human Subjects (Council for International Organizations of Medical Sciences 2002) and the Declaration of Helsinki (World Medical Association 1996 and 2008). All patients provided written informed consent before enrollment.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Treatment</head><p>Patients were randomized (1:1) to oral dacomitinib 45 mg QD in 28-day cycles or oral gefitinib 250 mg QD in 28-day cycles (dosing and schedule details for both arms have been reported previously) <ref type="bibr" target="#b1">[2,</ref><ref type="bibr" target="#b3">3]</ref>. Randomization was stratified by EGFR mutation type (exon 19 deletion vs exon 21 L858R substitution) and race (Japanese vs mainland Chinese vs other East Asian vs non-East Asian). All patients randomized to the dacomitinib arm started with the standard 45 mg QD dose as per protocol. Dacomitinib DRs were permitted in order to manage treatment-related toxicity that was not controlled with optimal supportive care, or not tolerated due to symptoms or interference with normal daily activities regardless of severity. If, in the judgment of the investigator, a patient subsequently tolerated treatment well at a reduced dose level, the dose was permitted to be increased to the prior dose level. When implemented, the first dacomitinib DR was always from 45 to 30 mg QD, and the second was always from 30 to 15 mg QD. If a patient could not tolerate treatment after DR to 15 mg, treatment was discontinued. For grade 3, grade 4 or intolerable grade 2 toxicity (using Common Terminology Criteria for Adverse Events [CTCAE] v4.0), treatment was interrupted. Upon recovery to grade 2 or baseline, and in the clinical judgment of the investigator with the agreement of the patient, dacomitinib treatment was resumed as follows: for interruption due to grade 3 or intolerable grade 2 toxicity, treatment was permitted to be resumed at the same or a reduced dose level; for episodes of grade 4 toxicity, reduction to the next dose level was mandated. Per the protocol, interruptions to manage AEs were not anticipated to extend beyond 2 weeks. However, as permitted by the protocol, following discussion of the clinical circumstance between the investigator and sponsor, there were individual cases where patients were permitted to resume treatment after a lapse of greater than 2 weeks.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Assessments</head><p>Patients were observed for survival status and subsequent cancer therapies for up to 48 months from the date of the first dose. All causality AEs were measured and graded for severity according to National Cancer Institute CTCAE (NCI-CTCAE) v4.0. Incidence reported included all patients with an AE starting or ongoing during that interval. Skin toxicities was a compound term consisting of two clustered terms: other skin toxicity (dry skin, nail disorder, palmar-plantar erythrodysesthesia syndrome, paronychia, skin fissures, skin ulcer or xerosis) and rash/dermatitis acneiform (any reported preferred term within high-level term acnes plus Medical Dictionary for Regulatory Activities [MedDRA] preferred terms, including drug eruption, rash, rash erythematous, rash generalized, rash maculo-papular or rash pruritic). Diarrhea was a clustered term encompassing acute prerenal failure, azotemia, dehydration, diarrhea, blood urea nitrogen/creatinine ratio increased, electrolyte imbalance, hypovolemia and prerenal failure. All other reported AEs were recorded by preferred terms.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Post hoc analyses</head><p>For patients with dacomitinib DRs, frequency and severity of AEs of interest (diarrhea, dermatitis acneiform, stomatitis and paronychia) before and after DR from 45 mg QD were analyzed by NCI-CTCAE grade. Plasma steady-state trough concentrations (C trough, ss ) of dacomitinib were collected at day 1 of cycle 2, after at least 14 days of consecutive dacomitinib 45 mg QD dosing. These measurements were used to compare the initial plasma exposure in patients who remained at 45 mg QD for the duration of treatment, patients whose dose was reduced to 30 mg QD as the lowest dose and patients whose dose was reduced to 15 mg QD as the lowest dose. Kaplan-Meier estimates were used to construct survival curves and calculate median (with 95% CIs) PFS and OS for all patients in the dacomitinib arm, all patients in the dacomitinib arm who underwent DR (to either 30 mg QD or 15 mg QD as lowest dose), patients in the dacomitinib arm who remained at 45 mg QD for the duration of treatment, patients in the dacomitinib arm who dose reduced to 30 mg QD as lowest dose and patients who dose reduced to 15 mg QD as lowest dose.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Results</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Patients</head><p>Among all patients starting on the 45-mg QD dose of dacomitinib (n = 227), DRs due to AEs occurred in 150 (66.1%) patients, while 77 (33.9%) patients stayed at 45 mg QD for the duration of treatment. In total 87 patients (38.3% of all patients randomized to the dacomitinib arm) reduced to 30 mg QD as the lowest dose and 63 patients (27.8% of all patients randomized to the dacomitinib arm) further dose reduced to 15 mg QD as the lowest dose. Median time to DR was 12.9 weeks for the 87 patients with 30 mg QD as the lowest dose received. For the 63 patients who received 15 mg as the lowest dose, median time to the first DR (to 30 mg QD) was 8.4 weeks and median time to subsequent DR to 15 mg QD (from 30 mg QD) was 12.4 weeks. There were no baseline clinical characteristics that were predictive of which patients received DRs. However, DRs generally occurred more frequently in females. Additionally, median weights, as well as the lower-and upper-range bounds for weight, were lower in patients in both DR groups than in those remaining at 45 mg QD for the duration of treatment (Supplementary <ref type="table">Table 1</ref>).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Treatment exposure</head><p>Among patients treated at 45 mg QD who did not experience DRs (n = 77), the median (range) total treatment time was 36.1 (0.3-115.1) weeks, as compared with 63.7 (5.1-162.7) weeks for patients with 30 mg QD as the lowest dose (n = 87) and 83.7 (11.9-161.7) for patients with 15 mg QD as the lowest dose (n = 63). These numbers reflect the entire duration of dacomitinib treatment in patients who dose reduced, by lowest dose received, not duration of treatment only at a specific dose level.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Efficacy</head><p>Median PFS was similar in all dacomitinib-treated patients (n = 227) and those with DR (n = 150): 14.7 (95% CI: 11.1-16.6) months and 16.6 (95% CI: 14.6-18.6) months, respectively ( <ref type="figure" target="#fig_1">Figure 1A</ref>). Median (95% CI) PFS by the lowest dose received was as follows: 9.1 (5.6-12.8) months for patients (n = 77) who remained on 45 mg QD and 12.9 (10.8-16.7) months for patients (n = 87) who received 30 mg QD as the lowest dose and 31.2 (16.5-35.1) months for patients (n = 63) who received 15 mg QD as the lowest dose ( <ref type="figure" target="#fig_1">Figure 1B</ref>). Median (95% CI) OS was also similar in all dacomitinib-treated patients (n = 227) and those with DR (n = 151): 34.1 (29.5-37.7) months and 36.7 (32.6 -not reached [NR]) months, respectively <ref type="figure">(Figure 2A</ref>). Median (95% CI) OS for each of the lowest dose groups was as follows: 22.0 (15.6-26.4) months for patients (n = 76) who remained on 45 mg QD and 32.6 (28.8-37.7) months for patients (n = 88) who received 30 mg QD as the lowest dose and NR (34.7-NR) months for patients (n = 63) who received 15 mg QD as the lowest dose ( <ref type="figure">Figure 2B</ref>).     </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Safety</head><p>Among patients who dose reduced, all patients (n = 150; 100%) experienced all-causality AEs prior to DR; 37 (24.7%) patients who dose reduced did so due to a grade 3 AE. The most common AEs leading to DR were skin toxicities (n = 94; 62.7%), dermatitis acneiform (n = 46; 30.7%), paronychia (n = 38; 25.3%) and diarrhea (n = 21; 14.0%). The most common all-grade AEs in patients who subsequently underwent DR (n = 150) were diarrhea (n = 132; 88.0%), paronychia (n = 82; 54.7%), dermatitis acneiform (n = 76; 50.7%) and stomatitis (n = 69; 46.0%). The incidence of grade 3 AEs of interest (diarrhea, dermatitis acneiform, stomatitis and paronychia) decreased after DR <ref type="figure">(Figure 3)</ref>. Notably, incidence of grade 3 diarrhea decreased from 11.3% (n = 17) to 4.0% (n = 6) and that of dermatitis acneiform decreased from 15.3% (n = 23) to 6.7% (n = 10). There were no grade 4 events of interest in patients who had a DR. The incidence and severity of individual AEs of interest generally decreased after DR <ref type="figure" target="#fig_3">(Figure 4</ref>). However, incidence and severity did not decrease in all cases. For example, while the incidences of grade 3 dermatitis acneiform and paronychia decreased after DR, the incidence of grade 2 events did not. Incidence of grade 2 and grade 3 diarrhea ( <ref type="figure" target="#fig_3">Figure 4A</ref>), and grade 2 and grade 3 stomatitis ( <ref type="figure" target="#fig_3">Figure 4C</ref>) decreased after DR irrespective of whether 30 mg QD or 15 mg QD was the lowest dose. Permanent discontinuations due to treatment-related AEs occurred in 22 (9.7%) patients treated with dacomitinib.</p><p>Pharmacokinetic analyses A total of 177 patients had available C trough,ss data at cycle 2, day 1. Patients who received the 45 mg QD dacomitinib dose without any DR (n = 63) tended to have lower initial plasma dacomitinib exposure, as measured by dacomitinib C trough,ss at cycle 2, day 1 than those who dose reduced to either 30 mg QD (n = 67) or 15 mg QD (n = 47) ( <ref type="figure" target="#fig_4">Figure 5</ref>). Geometric mean (geometric coefficient of variation; gCV%) of C trough,ss at cycle 2, day 1 was 59.1 ng/ml (35%) for patients without any DR, 67.7 ng/ml (38%) for patients with 30 mg QD as the lowest dose, and 67.6 ng/ml (61%) for patients with 15 mg as the lowest dose, respectively.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Discussion</head><p>The ARCHER 1050 trial showed significant improvement in PFS and OS for dacomitinib versus gefitinib, and in the 66.1% (n = 150) patients who had dose adjustments the efficacy was maintained <ref type="bibr" target="#b1">[2,</ref><ref type="bibr" target="#b3">3]</ref>. Toxicity management  is a challenge across the entire class of EGFR TKIs, with the majority of drug-related AEs mediated by the inhibition of epithelial EGFR expression <ref type="bibr" target="#b8">[6,</ref><ref type="bibr" target="#b9">7]</ref>. The most commonly reported AEs with dacomitinib treatment (including diarrhea, dermatitis acneiform, stomatitis and paronychia) both in the ARCHER 1050 trial <ref type="bibr" target="#b1">[2]</ref>, as well as previous dacomitinib trials <ref type="bibr" target="#b11">[8]</ref><ref type="bibr" target="#b12">[9]</ref><ref type="bibr" target="#b13">[10]</ref>, are associated with this mechanism. With regard to second-generation TKIs, skin and gastrointestinal toxicities related to this mechanism are the major reasons for dose modification and discontinuation <ref type="bibr" target="#b1">[2,</ref><ref type="bibr" target="#b14">11]</ref>. Permanent discontinuation due to treatment-related AEs occurred in 9.7% (n = 22) of patients treated with dacomitinib in the ARCHER 1050 trial and in 6.3% (n = 15) of patients treated with afatinib in the LUX-Lung 6 trial <ref type="bibr" target="#b5">[4]</ref>. The DR rates for these treatment groups, meanwhile, were 66.1% (n = 150) and 28.0% (n = 67) in ARCHER 1050 and LUX-Lung 6, respectively <ref type="bibr" target="#b5">[4]</ref>. However, this safety profile comparison should be made with caution for several reasons. First, LUX-Lung 6, in contrast to ARCHER 1050, was conducted exclusively in an Asian patient population. Additionally, cross-trial comparison is difficult in general due to potential differences in a number of other variables (e.g., trial design details, age of patients, disease stage and disease subtype).</p><p>The current analysis revealed that dose modifications helped to manage AEs without the need for permanent discontinuation in the majority of patients, while maintaining efficacy. Additionally, dacomitinib DRs decreased the incidence and severity of all-causality AEs. Notably, the incidence of grade 2 and grade 3 diarrhea and stomatitis, two AEs with higher grade incidence at the starting dose of 45 mg QD in ARCHER 1050, decreased after DR. While the incidence of grade 3 dermatitis acneiform and paronychia also decreased after DR, the incidence of grade 2 events did not. We hypothesize that the increase seen in grade 2 dermatitis acneiform events following DR may in part be a result of grade 3 events converting to grade 2 events. The exact reason for the observed increase in grade 2 paronychia events following DR is unclear.</p><p>future science group www.futuremedicine.com The PK analysis showed that patients who remained at 45 mg QD tended to have the lowest initial dacomitinib exposure, compared with those patients who had their dose reduced to 30 mg QD or 15 mg QD as the lowest dose. These results are similar to those seen with the second-generation TKI afatinib, where, at day 22, the patient group that would remain on the starting dose (40 mg QD) until day 43 had lower exposure than the group that had the dose reduced (to 30 mg QD) by day 43 <ref type="bibr" target="#b5">[4]</ref>. Also, similar to results in the present report, patients whose dose reduced to 30 mg QD afatinib in the first 6 months of treatment had median PFS comparable with that in patients remaining on the 40 mg QD starting dose <ref type="bibr" target="#b5">[4]</ref>. Coupled with the fact that there are no apparent baseline characteristics predictive of which patients will eventually have a DR, the exposure data in the current report are not sufficient to determine whether starting on a lower dose (e.g., 30 mg QD) could be appropriate. Further studies, potentially in conjunction with modeling and simulations based on available clinical data, are needed to assess if, and for which patients, a lower starting dose might be prudent. In this regard, it should be noted that starting an EGFR TKI at a lower dose is common in real-world clinical practice. One recent study with afatinib showed that starting patients at a lower dose (31% started on less than the standard starting dose of 40 mg QD) did not result in compromised efficacy <ref type="bibr" target="#b7">[5]</ref>.</p><p>When interpreting the PFS and OS results summarized by the lowest dose received, it is important to recognize that comparisons across lowest dose levels of patients who dose reduced are confounded by the fact that the lowest dose received was a study outcome, and therefore, PFS and OS results by lowest dose received were outcome driven and not based on criteria present at randomization, as all patients received 45 mg QD as the starting dose. Further, the time to each successive DR was not immediate. The median time to DR for the 87 patients who dose reduced to 30 mg QD as the lowest dose received was 12.9 weeks, while for the 63 patients who subsequently dose reduced to 15 mg as the lowest dose received, median time to the first DR (to 30 mg QD) was 8.4 weeks and median time to the subsequent DR to 15 mg QD (from 30 mg QD) was 12.4 weeks. It is important to note that nonresponding patients with short treatment duration were less likely to have undergone DR at all. Since all patients started on future science group the 45 mg dose, and patients who eventually had their dose reduced remained on 45 mg QD for some time before DR, no conclusions can be drawn as to the potential efficacy of starting doses of either 30 mg QD or 15 mg QD, and direct statistical comparisons between the presented DR groups would not be informative with respect to those starting doses. A limitation of the study is that no conclusions can be drawn concerning the potential effect of DRs on the progression or control of brain metastases, since patients with brain metastases were excluded from participation in ARCHER 1050.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Conclusion</head><p>In summary, we found that the incidence and severity of AEs declined following DR (e.g., grade 3 dermatitis acneiform was reduced from 15.3 to 6.7%). However, both median PFS (14.7 and 16.6 months) and median OS (34.1 and 36.7 months) were similar in all dacomitinib-treated patients and those with DR. Thus, tolerabilityguided dose modifications enabled patients to continue with dacomitinib treatment and benefit from improvement in PFS and OS.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Summary points</head><p>• Dose modifications decreased the incidence and severity of treatment-related adverse events.</p><p>• Initial plasma dacomitinib exposure at 45 mg QD was generally lower in patients remaining at 45 mg QD compared with dose-reducing patients.</p><p>• The benefit of progression-free survival (PFS) and overall survival (OS) was maintained in patients who received dose reductions.</p><p>• Both median PFS and median OS were similar in all dacomitinib-treated patients and those with dose reduction.</p><p>• Tolerability-guided dose modifications enabled patients to manage AEs and continue with dacomitinib treatment and benefit from improvement in PFS and OS.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head>Figure 1 .Future</head><label>1</label><figDesc>Progression-free survival for dacomitinib in all patients, those with dose reduction and by lowest dose. (A) Kaplan-Meier curves for estimated PFS for all patients treated with dacomitinib (blue line; n = 227) and patients who dose reduced to either 30 mg QD or 15 mg QD as lowest dose (green line; n = 150). (B) Kaplan-Meier curves for estimated PFS for patients who remained on 45 mg QD dacomitinib (blue line; n = 77), patients who received 30 mg QD as lowest dose (red line; n = 87) and patients who received 15 mg QD as lowest dose (black line; n = 63). PFS was defined as the time from randomization to objective disease progression or death from any cause, whichever occurred first. Vertical lines on the survival curves indicate censoring of data. IRC: Independent review committee; NR: Not reached; PFS: Progression-free survival; QD: Once daily.2798</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_2"><head>Figure 2 .Figure 3 .</head><label>23</label><figDesc>Overall survival for dacomitinib in all patients, those with dose reduction and by lowest dose. (A) Kaplan-Meier curves for estimated OS for all patients treated with dacomitinib (blue line; n = 227) and patients who dose reduced to either 30 mg QD or 15 mg QD as lowest dose (green line; n = 151). (B) Kaplan-Meier curves for estimated OS for patients who remained on 45 mg QD dacomitinib (blue line; n = 76), patients who received 30 mg QD as lowest dose (red line; n = 88), and patients who received 15 mg QD as lowest dose (black line; n = 63). OS was defined as the time from randomization to death from any cause. Vertical lines on the survival curves indicate censoring of data.† n = 151 as opposed to 150 due to later cut-off date for OS (17 February 2017) than for other end points (29 July 2016). IRC: Independent review committee; NR: Not reached; OS: Overall survival; QD: Once daily. Grade 3 adverse events with dose reduction. Shown are incidence of grade 3 AEs of interest before (dark purple bars) and after (lighter purple bars) dose reduction in the population of all patients experiencing a dose reduction due to an AE (n = 150). There were no grade 4 events of interest in dacomitinib-treated patients who had a dose reduction.† One grade 5 event occurred after dose reduction and is not included in this percentage. ‡ Clustered term encompassing acute prerenal failure, azotemia, dehydration, diarrhea, blood urea nitrogen/creatinine ratio increased, electrolyte imbalance, hypovolemia and prerenal failure. AE: Adverse event.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_3"><head>Figure 4 .</head><label>4</label><figDesc>Safety by the lowest dacomitinib dose. Shown on the left side of each panel (A-D) are patients in the as-treated population (n = 227) who stayed on the 45 mg QD dacomitinib dose (dark purple bars; n = 77), in the middle are patients (before and after dose reduction) who received a lowest dose of 30 mg QD (lighter purple bars; n = 87), and on the right are patients (before and after dose reduction first to 30 mg QD, then to 15 mg QD) who received a lowest dose of 15 mg QD (lightest purple bars; n = 63).† Includes one grade 4 event in a patient who did not have a dose reduction. ‡ Clustered term encompassing acute prerenal failure, azotemia, dehydration, diarrhea, blood urea nitrogen/creatinine ratio increased, electrolyte imbalance, hypovolemia and prerenal failure. DR: Dose reduction; QD: Once daily.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_4"><head>Figure 5 .</head><label>5</label><figDesc>received 45 mg QD dacomitinib dose at measurement) Patients who dose reduced 45 mg → 30 mg QD (n = 67) Patients who dose reduced 45 mg → 30 mg → 15 mg QD (n = 47) 20 0 Comparison of dacomitinib initial exposure between lowest dose groups after first treatment cycle. Shown is a comparison of trough plasma concentrations on day 1 of cycle 2 in patients remaining on dacomitinib 45 mg QD (blue symbols; n = 64), dose reducing to 30 mg QD (red symbols; n = 74) as lowest dose, or dose reducing to 15 mg QD as lowest dose (black symbols; n = 47). All patients received 45 mg QD dacomitinib at the time of measurement. Boxes represent the median and interquartile range; the whiskers represent the 10th and 90th percentiles and the dots show data points outside percentiles. QD: Once daily.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_5"><head>2802</head><label></label><figDesc>Future Oncol. (2019) 15(24)</figDesc></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot">Future Oncol. (2019) 15(24) future science group</note>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Acknowledgments</head><p>We would like to thank all ARCHER 1050 patients and their families, participating clinical sites, all the investigators, nurses and site staff, Pfizer Inc., and SFJ Pharmaceuticals R . speaking/advisory board roles from AstraZeneca, Boehringer Ingelheim, Bristol-Myers Squibb, Merck Sharpe &amp; Dohme, and Roche. Y-L Wu reports receiving fees for speaking/advisory board roles, receiving grant/research support, and receiving honoraria from Boehringer Ingelheim and Roche, reports both receiving fees for speaking/advisory board roles and receiving honoraria from As-traZeneca, and reports receiving honoraria from Eli Lilly and Sanofi. R Linke is an employee of SFJ Pharmaceuticals R . G Devgan, S Quinn, W Tan and T Wang are employees of and own stock in Pfizer. This study was funded by Pfizer and SFJ Pharmaceuticals R .</p><p>The authors have no other relevant affiliations or financial involvement with any organization or entity with a financial interest in or financial conflict with the subject matter or materials discussed in the manuscript apart from those disclosed.</p><p>Editorial support was provided by JN Raksin, PhD, inScience Communications, Springer Healthcare (Philadelphia, PA, USA) and funded by Pfizer Inc.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Ethical conduct of research</head><p>The authors state that they have obtained appropriate institutional review board approval or have followed the principles outlined in the Declaration of Helsinki for all human or animal experimental investigations. In addition, for investigations involving human subjects, informed consent has been obtained from the participants involved.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Data sharing statement</head><p>The authors certify that this manuscript reports the secondary analysis of clinical trial data that have been shared with them, and that the use of this shared data is in accordance with the terms (if any) agreed upon their receipt. The source of this data is:</p><p>NCT01774721. Upon request, and subject to certain criteria, conditions, and exceptions (see www.pfizer.com/science/clinical-tr ials/trial-data-and-results for more information), Pfizer will provide access to individual deidentified participant data from Pfizersponsored global interventional clinical studies conducted for medicines, vaccines and medical devices for indications that have been approved in the USA and/or European Union or in programs that have been terminated (i.e., development for all indications has been discontinued). Pfizer will also consider requests for the protocol, data dictionary and statistical analysis plan. Data may be requested from Pfizer trials 24 months after study completion. The deidentified participant data will be made available to researchers whose proposals meet the research criteria and other conditions, and for which an exception does not apply, via a secure portal. To gain access, data requestors must enter into a data access agreement with Pfizer.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Open access</head><p>This work is licensed under the Attribution-NonCommercial-NoDerivatives 4.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-nc-nd/4.0/</p></div>
+			</div>
+
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Supplementary data</head><p>To view the supplementary data that accompany this paper please visit the journal website at: www.futuremedicine.com/doi/sup pl/10.2217/fon-2019-0299</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Authors' contributions</head><p>All authors contributed to the concept and design of the study, to conducting the analysis, interpretation of the results, writing and revisions of the manuscript and approval of the final version submitted for publication. </p></div>			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">PF00299804, an irreversible pan-ERBB inhibitor, is effective in lung cancer models with EGFR and ERBB2 mutations that are resistant to gefitinib</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">A</forename><surname>Engelman</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><surname>Zejnullahu</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><forename type="middle">M</forename><surname>Gale</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Cancer Res</title>
+		<imprint>
+			<biblScope unit="volume">67</biblScope>
+			<biblScope unit="issue">24</biblScope>
+			<biblScope unit="page" from="11924" to="11932" />
+			<date type="published" when="2007" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Dacomitinib versus gefitinib as first-line treatment for patients with EGFR-mutation-positive non-small-cell lung cancer (ARCHER 1050): a randomized, open-label, Phase III trial</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Y</forename><forename type="middle">L</forename><surname>Wu</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Y</forename><surname>Cheng</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">X</forename><surname>Zhou</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Lancet Oncol</title>
+		<imprint>
+			<biblScope unit="volume">18</biblScope>
+			<biblScope unit="issue">11</biblScope>
+			<biblScope unit="page" from="1454" to="1466" />
+			<date type="published" when="2017" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<monogr>
+		<title level="m" type="main">Improvement in progression-free survival with dacomitinib over gefitinib in patients with EGFR mutation-positive non-small-cell lung cancer (NSCLC) was demonstrated in this randomized Phase III ARCHER 1050 study</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">•</forename></persName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Improvement in overall survival in a randomized study that compared dacomitinib with gefitinib in patients with advanced non-small-cell lung cancer and EGFR-activating mutations</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><forename type="middle">S</forename><surname>Mok</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Y</forename><surname>Cheng</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">X</forename><surname>Zhou</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Clin. Oncol</title>
+		<imprint>
+			<biblScope unit="volume">36</biblScope>
+			<biblScope unit="issue">22</biblScope>
+			<biblScope unit="page" from="2244" to="2250" />
+			<date type="published" when="2018" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<monogr>
+		<title level="m" type="main">Significant improvement in overall survival compared with the standard-of-care TKI, gefitinib, in this mature overall survival analysis from the Phase III ARCHER 1050 study</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">•</forename></persName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Effect of dose adjustment on the safety and efficacy of afatinib for EGFR mutation-positive lung adenocarcinoma: post hoc analyses of the randomized LUX-Lung 3 and 6 trials</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">C</forename><surname>Yang</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">L</forename><forename type="middle">V</forename><surname>Sequist</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><surname>Zhou</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ann. Oncol</title>
+		<imprint>
+			<biblScope unit="volume">27</biblScope>
+			<biblScope unit="issue">11</biblScope>
+			<biblScope unit="page" from="2103" to="2110" />
+			<date type="published" when="2016" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<monogr>
+		<title level="m" type="main">Post hoc analysis of data from treatment-naive patients with advanced EGFR mutation-positive NSCLC, in two Phase III studies (LUX-Lung 3/6), showed that tolerability-guided dose adjustment effectively reduced afatinib-related adverse events without affecting therapeutic efficacy</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">•</forename></persName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Impact of afatinib dose modification on safety and effectiveness in patients with EGFR mutation-positive advanced NSCLC: results from a global real-world study (RealGiDo)</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">B</forename><surname>Halmos</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><forename type="middle">H</forename><surname>Tan</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><forename type="middle">A</forename><surname>Soo</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Lung Cancer</title>
+		<imprint>
+			<biblScope unit="volume">127</biblScope>
+			<biblScope unit="page" from="103" to="111" />
+			<date type="published" when="2019" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Management of diarrhea induced by epidermal growth factor receptor tyrosine kinase inhibitors</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">V</forename><surname>Hirsh</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">N</forename><surname>Blais</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><surname>Burkes</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Verma</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><surname>Croitoru</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Curr. Oncol</title>
+		<imprint>
+			<biblScope unit="volume">21</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page" from="329" to="336" />
+			<date type="published" when="2014" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Management of EGFR TKI-induced dermatologic adverse events</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">B</forename><surname>Melosky</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">N</forename><forename type="middle">B</forename><surname>Leighl</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Rothenstein</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><surname>Sangha</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><surname>Stewart</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><surname>Papp</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Curr. Oncol</title>
+		<imprint>
+			<biblScope unit="volume">22</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="123" to="132" />
+			<date type="published" when="2015" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<monogr>
+		<title level="m" type="main">Basic strategies for management of EGFR TKI-associated acneiform rash, stomatitis and paronychia were detailed in this expert opinion review</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Dacomitinib versus erlotinib in patients with advanced-stage, previously treated non-small-cell lung cancer (ARCHER 1009): a randomized, double-blind, Phase III trial</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><forename type="middle">S</forename><surname>Ramalingam</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><forename type="middle">A</forename><surname>Janne</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Mok</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Lancet Oncol</title>
+		<imprint>
+			<biblScope unit="volume">15</biblScope>
+			<biblScope unit="issue">12</biblScope>
+			<biblScope unit="page" from="1369" to="1378" />
+			<date type="published" when="2014" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">A Phase II trial of dacomitinib (PF-00299804), an oral, irreversible pan-HER (human epidermal growth factor receptor) inhibitor, in patients with advanced non-small-cell lung cancer after failure of prior chemotherapy and erlotinib</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><forename type="middle">L</forename><surname>Reckamp</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">G</forename><surname>Giaccone</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><forename type="middle">R</forename><surname>Camidge</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Cancer</title>
+		<imprint>
+			<biblScope unit="volume">120</biblScope>
+			<biblScope unit="issue">8</biblScope>
+			<biblScope unit="page" from="1145" to="1154" />
+			<date type="published" when="2014" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Dacomitinib compared with placebo in pretreated patients with advanced or metastatic non-small-cell lung cancer (NCIC CTG BR.26): a double-blind, randomised, Phase III trial</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><forename type="middle">M</forename><surname>Ellis</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">F</forename><forename type="middle">A</forename><surname>Shepherd</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Millward</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Lancet Oncol</title>
+		<imprint>
+			<biblScope unit="volume">15</biblScope>
+			<biblScope unit="issue">12</biblScope>
+			<biblScope unit="page" from="1379" to="1388" />
+			<date type="published" when="2014" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">Afatinib versus cisplatin plus gemcitabine for first-line treatment of Asian patients with advanced non-small-cell lung cancer harbouring EGFR mutations (LUX-Lung 6): an open-label, randomized Phase III trial</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Y</forename><forename type="middle">L</forename><surname>Wu</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><surname>Zhou</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><forename type="middle">P</forename><surname>Hu</surname></persName>
+		</author>
+		<ptr target="futuresciencegroupwww.futuremedicine.com" />
+	</analytic>
+	<monogr>
+		<title level="j">Lancet Oncol</title>
+		<imprint>
+			<biblScope unit="volume">15</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="213" to="222" />
+			<date type="published" when="2014" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

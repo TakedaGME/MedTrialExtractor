@@ -1,0 +1,831 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /data/rsg/nlp/juanmoo1/bin/grobid-0.6.1/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Retrospective cohort study of trifluridine/ tipiracil (TAS-102) plus bevacizumab versus trifluridine/tipiracil monotherapy for metastatic colorectal cancer</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Daisuke</forename><surname>Kotani</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Gastrointestinal Oncology</orgName>
+								<orgName type="institution">National Cancer Center Hospital East</orgName>
+								<address>
+									<settlement>Kashiwa</settlement>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff2">
+								<orgName type="department">Department of Gastrointestinal Oncology, National Cancer Center Hospital East</orgName>
+								<address>
+									<settlement>Kashiwa</settlement>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<author role="corresp">
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Yasutoshi</forename><surname>Kuboki</surname></persName>
+							<email>ykuboki@east.ncc.go.jp</email>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Gastrointestinal Oncology</orgName>
+								<orgName type="institution">National Cancer Center Hospital East</orgName>
+								<address>
+									<settlement>Kashiwa</settlement>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="department">Department of Experimental Therapeutics</orgName>
+								<orgName type="institution">National Cancer Center Hospital East</orgName>
+								<address>
+									<addrLine>6-5-1 Kashiwanoha</addrLine>
+									<postCode>277-8577</postCode>
+									<settlement>Kashiwa</settlement>
+									<region>Chiba</region>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff2">
+								<orgName type="department">Department of Gastrointestinal Oncology, National Cancer Center Hospital East</orgName>
+								<address>
+									<settlement>Kashiwa</settlement>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff3">
+								<orgName type="department">Department of Experimental Therapeutics, National Cancer Center Hospital East</orgName>
+								<address>
+									<addrLine>6-5-1 Kashiwanoha</addrLine>
+									<postCode>277-8577</postCode>
+									<settlement>Kashiwa</settlement>
+									<region>Chiba</region>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Satoshi</forename><surname>Horasawa</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Gastrointestinal Oncology</orgName>
+								<orgName type="institution">National Cancer Center Hospital East</orgName>
+								<address>
+									<settlement>Kashiwa</settlement>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff2">
+								<orgName type="department">Department of Gastrointestinal Oncology, National Cancer Center Hospital East</orgName>
+								<address>
+									<settlement>Kashiwa</settlement>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff4">
+								<orgName type="department">Translational Research Support Section, Translational Research Management Division, Clinical Research Support Office, National Cancer Center Hospital East</orgName>
+								<address>
+									<settlement>Kashiwa</settlement>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Asumi</forename><surname>Kaneko</surname></persName>
+							<affiliation key="aff5">
+								<orgName type="department">Department of Pharmacy, National Cancer Center Hospital East</orgName>
+								<address>
+									<settlement>Kashiwa</settlement>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Yoshiaki</forename><surname>Nakamura</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Gastrointestinal Oncology</orgName>
+								<orgName type="institution">National Cancer Center Hospital East</orgName>
+								<address>
+									<settlement>Kashiwa</settlement>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff2">
+								<orgName type="department">Department of Gastrointestinal Oncology, National Cancer Center Hospital East</orgName>
+								<address>
+									<settlement>Kashiwa</settlement>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff4">
+								<orgName type="department">Translational Research Support Section, Translational Research Management Division, Clinical Research Support Office, National Cancer Center Hospital East</orgName>
+								<address>
+									<settlement>Kashiwa</settlement>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Akihito</forename><surname>Kawazoe</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Gastrointestinal Oncology</orgName>
+								<orgName type="institution">National Cancer Center Hospital East</orgName>
+								<address>
+									<settlement>Kashiwa</settlement>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff2">
+								<orgName type="department">Department of Gastrointestinal Oncology, National Cancer Center Hospital East</orgName>
+								<address>
+									<settlement>Kashiwa</settlement>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Hideaki</forename><surname>Bando</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Gastrointestinal Oncology</orgName>
+								<orgName type="institution">National Cancer Center Hospital East</orgName>
+								<address>
+									<settlement>Kashiwa</settlement>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff2">
+								<orgName type="department">Department of Gastrointestinal Oncology, National Cancer Center Hospital East</orgName>
+								<address>
+									<settlement>Kashiwa</settlement>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff6">
+								<orgName type="department">Department of Clinical Oncology, Aichi Cancer Center Hospital</orgName>
+								<address>
+									<settlement>Nagoya</settlement>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Hiroya</forename><surname>Taniguchi</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Gastrointestinal Oncology</orgName>
+								<orgName type="institution">National Cancer Center Hospital East</orgName>
+								<address>
+									<settlement>Kashiwa</settlement>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff2">
+								<orgName type="department">Department of Gastrointestinal Oncology, National Cancer Center Hospital East</orgName>
+								<address>
+									<settlement>Kashiwa</settlement>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff4">
+								<orgName type="department">Translational Research Support Section, Translational Research Management Division, Clinical Research Support Office, National Cancer Center Hospital East</orgName>
+								<address>
+									<settlement>Kashiwa</settlement>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Kohei</forename><surname>Shitara</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Gastrointestinal Oncology</orgName>
+								<orgName type="institution">National Cancer Center Hospital East</orgName>
+								<address>
+									<settlement>Kashiwa</settlement>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff2">
+								<orgName type="department">Department of Gastrointestinal Oncology, National Cancer Center Hospital East</orgName>
+								<address>
+									<settlement>Kashiwa</settlement>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Takashi</forename><surname>Kojima</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Gastrointestinal Oncology</orgName>
+								<orgName type="institution">National Cancer Center Hospital East</orgName>
+								<address>
+									<settlement>Kashiwa</settlement>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff2">
+								<orgName type="department">Department of Gastrointestinal Oncology, National Cancer Center Hospital East</orgName>
+								<address>
+									<settlement>Kashiwa</settlement>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Akihito</forename><surname>Tsuji</surname></persName>
+							<affiliation key="aff7">
+								<orgName type="department" key="dep1">Department of Medical Oncology</orgName>
+								<orgName type="department" key="dep2">Graduated School of Medicine</orgName>
+								<orgName type="institution">Kagawa University</orgName>
+								<address>
+									<settlement>Takamatsu</settlement>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Takayuki</forename><surname>Yoshino</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Gastrointestinal Oncology</orgName>
+								<orgName type="institution">National Cancer Center Hospital East</orgName>
+								<address>
+									<settlement>Kashiwa</settlement>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff2">
+								<orgName type="department">Department of Gastrointestinal Oncology, National Cancer Center Hospital East</orgName>
+								<address>
+									<settlement>Kashiwa</settlement>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Retrospective cohort study of trifluridine/ tipiracil (TAS-102) plus bevacizumab versus trifluridine/tipiracil monotherapy for metastatic colorectal cancer</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<idno type="DOI">10.1186/s12885-019-6475-6</idno>
+					<note type="submission">Received: 24 August 2019 Accepted: 17 December 2019</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.6.1" ident="GROBID" when="2020-10-09T18:38+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>Trifluridine/tipiracil plus bevacizumab</term>
+					<term>TAS-102</term>
+					<term>mCRC</term>
+					<term>Lonsurf</term>
+				</keywords>
+			</textClass>
+			<abstract>
+				<p>Background: A previous phase I/II C-TASK FORCE study of trifluridine/tipiracil plus bevacizumab for patients with heavily pretreated metastatic colorectal cancer (mCRC) showed promising activity with an acceptable toxicity profile. This retrospective study aimed to investigate the safety and efficacy of trifluridine/tipiracil plus bevacizumab compared with trifluridine/tipiracil monotherapy in patients with heavily pretreated mCRC in clinical settings. Methods: Records of patients with mCRC refractory to standard therapies who initiated trifluridine/tipiracil plus bevacizumab from January 2016 to March 2018 or trifluridine/tipiracil monotherapy from June 2014 to December 2015 were retrospectively reviewed at our institution. Results: Totally, 60 patients received trifluridine/tipiracil plus bevacizumab and 66 received trifluridine/tipiracil monotherapy. All patients had previously received standard chemotherapy. Median progression-free survival (PFS) was 3.7 months [95% confidence interval (CI), 2.3-5.1] in the trifluridine/tipiracil plus bevacizumab group and 2.2 months (95% CI, 1.8-2.6) in the trifluridine/tipiracil monotherapy group [hazards ratio (HR) 0.69; 95% CI 0.48-0.99]. PFS rate at 16 weeks was 46.6% for the trifluridine/tipiracil plus bevacizumab group and 33.9% for the trifluridine/ tipiracil monotherapy group. Although a relatively higher incidence of grade ≥ 3 neutropenia was observed in the trifluridine/tipiracil plus bevacizumab group than that in the other group (50.0% vs. 40.9%, p = 0.371), the incidence of febrile neutropenia was not high (3.3% vs. 7.8%, p = 0.444). Conclusions: In real-world settings, trifluridine/tipiracil plus bevacizumab prolonged PFS and helped achieve higher 16-week PFS rate compared with trifluridine/tipiracil monotherapy in patients with heavily pretreated mCRC with manageable toxicities. Trial registration: Retrospectively registered.</p>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Background</head><p>Colorectal cancer (CRC) is the second leading cause of cancer-related death worldwide <ref type="bibr">[1]</ref>. The development of combination chemotherapy regimens comprising cytotoxic agents (e.g., fluoropyrimidine, oxaliplatin, and irinotecan) and molecular targeted therapies (e.g., bevacizumab, ramucirumab, ziv-aflibercept, cetuximab, panitumumab, and regorafenib) have increased the survival of patients with metastatic CRC (mCRC) by approximately 30 months <ref type="bibr" target="#b0">[2]</ref><ref type="bibr" target="#b1">[3]</ref><ref type="bibr" target="#b2">[4]</ref><ref type="bibr" target="#b3">[5]</ref><ref type="bibr" target="#b4">[6]</ref><ref type="bibr" target="#b5">[7]</ref>.</p><p>Trifluridine/tipiracil (TAS-102) is a novel, oral combination comprising the thymidine-based nucleoside analog trifluridine and tipiracil hydrochloride at a molar ratio of 1:0.5. Trifluridine is incorporated into DNA after phosphorylation by thymidine kinase 1 (TK1). We previously reported results from a randomized phase 2 study of trifluridine/tipiracil (J003-10040030), and this therapy was first approved in Japan in 2014 <ref type="bibr" target="#b6">[8]</ref>. More recently, the international phase 3 RECOURSE trial has demonstrated a more significant overall survival (OS) benefit of trifluridine/ tipiracil compared with placebo, with acceptable toxicity, in patients with refractory mCRC <ref type="bibr" target="#b5">[7]</ref>. In addition, the Asian phase 3 TERRA trial has reported the survival benefit and safety of trifluridine/tipiracil in Asian population <ref type="bibr" target="#b7">[9]</ref> . Based on these findings, trifluridine/tipiracil has been approved by many countries and regions including the US Food and Drug Administration and European Medicines Agency.</p><p>The combination of trifluridine/tipiracil plus bevacizumab has been demonstrated to have synergistic activity in a xenograft model of human CRC <ref type="bibr" target="#b8">[10]</ref>. We have reported results from the phase 1/2 C-TASK FORCE showing a promising activity of the aforementioned combination in patients with pretreated mCRC. The primary endpoint of 16-week progression-free survival (PFS) was 42.9% [80% confidence interval (CI), 27.8-59.0]. The most common grade ≥ 3 adverse events were neutropenia (72%), leucopenia (44%), anemia (16%), febrile neutropenia (16%), and thrombocytopenia (12%) <ref type="bibr" target="#b9">[11]</ref>. Managing the higher incidence of hematological toxicities is crucial to reduce the risks of serious treatment-related adverse events and maximize the efficacy of trifluridine/tipiracil plus bevacizumab treatment. Furthermore, the non-comparative phase 2 TASCO1 study evaluated the efficacy and safety of trifluridine/tipiracil plus bevacizumab and capecitabine plus bevacizumab and provided evidence demonstrating the efficacy of trifluridine/tipiracil plus bevacizumab in patients with untreated mCRC who were not eligible for standard first-line intensive therapy. The primary endpoint of PFS was 9.2 months in the trifluridine/tipiracil plus bevacizumab group and 7.8 months in the capecitabine plus bevacizumab group <ref type="bibr" target="#b10">[12]</ref>.</p><p>Although trifluridine/tipiracil plus bevacizumab is a promising regimen for mCRC patients, little is known about the survival benefit and safety profile of the combination compared with trifluridine/tipiracil monotherapy. Therefore, the aim of this study was to investigate efficacy and safety of trifluridine/tipiracil plus bevacizumab compared with trifluridine/tipiracil monotherapy in the clinical practice.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Methods</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Study design and patients</head><p>Clinical data of patients with mCRC who received trifluridine/tipiracil plus bevacizumab or trifluridine/tipiracil monotherapy at the National Cancer Center Hospital East was retrospectively collected. Study protocol was approved by the institutional review board. Informed consent requirement was waived due to the study's observational retrospective design, with an opt-out opportunity provided at the institution's website. Patient follow-up was performed until December 2018.</p><p>Eligibility criteria were as follows: histologically confirmed colorectal adenocarcinoma; no prior treatment with regorafenib; refractory or intolerant to fluoropyrimidine, oxaliplatin, and irinotecan, regardless of angiogenesis inhibitors or anti-EGFR antibody (if RAS wildtype); Eastern Cooperative Oncology Group performance status (ECOG PS) 0 to 2; adequate organ function; concurrent treatment with trifluridine/tipiracil plus bevacizumab from January 2016 to March 2018 or trifluridine/tipiracil monotherapy from June 2014 to December 2015.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Study procedures</head><p>Trifluridine/tipiracil plus bevacizumab regimen consisted of trifluridine/tipiracil 35 mg/m 2 of body surface area, given orally twice a day on days 1-5 and 8-12 in a 28-day cycle, and bevacizumab 5 mg/kg of bodyweight, administered by intravenous infusion every 2 weeks. Trifluridine/tipiracil monotherapy consisted of trifluridine/ tipiracil 35 mg/m 2 of body surface area, given orally twice a day on days 1-5 and 8-12 in a 28-day cycle.</p><p>The following baseline characteristics were collected for each patient: age, gender, ECOG PS, primary tumor location, history of primary resection, number of metastatic organs, time from first-line chemotherapy start, time from prior bevacizumab, prior chemotherapy agents, RAS status (KRAS exons 2, 3, and 4 and NRAS exons 2, 3, and 4), BRAF V600E mutation status, and microsatellite instability (MSI) status, if available.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Outcomes</head><p>Efficacy endpoints included PFS, defined as time from study treatment initiation to disease progression or death due to any cause; OS, defined as time from study treatment start to death from any cause; overall response rate (ORR), defined as proportion of patients with a complete or partial response to study treatment; disease control rate (DCR), defined as proportion of patients with a complete or partial response plus stable disease lasting more than 6 weeks from study treatment start. Tumor response was assessed by investigators using the Response Evaluation Criteria in Solid Tumors version 1.1. Adverse events were evaluated using the Common Terminology Criteria for Adverse Events version 4.03.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Statistical analysis</head><p>PFS and OS were compared between treatment groups using log-rank test with a two-sided significance level of p = 0.05. Hazard ratio (HR) and corresponding 95% CI were determined using a Cox proportional hazard model. Survival curves were generated using Kaplan-Meier estimates. Univariate and multivariate analyses were performed to evaluate the impact of trifluridine/tipiracil plus bevacizumab or trifluridine/tipiracil monotherapy treatments. Regression analysis covariates included treatment group, age, gender, ECOG PS, primary tumor location, RAS status, time from first-line chemotherapy start, and time from prior bevacizumab. Multivariate Cox analysis was employed using forward stepwise regression. Enter and remove limits were p = 0.05 and p = 0.20, respectively. Confounding variables considered in multivariate analysis included age (&lt; 65 years old vs. ≥65 years old), gender (male vs. female), ECOG PS (0 vs. ≥1), primary tumor location (right vs. left), RAS status (wild-type vs. mutant), time from first-line chemotherapy start (≥18 months vs. &lt; 18 months), and time from prior bevacizumab (≤1 month vs. &gt; 1 month or no prior bevacizumab). ORR, DCR, and safety analyses between treatment groups were performed using Fisher's exact test. Follow-up time was defined as time from study treatment start until the last followup date for censored cases. Statistical analyses were performed using IBM SPSS statistics version 22.0 (IBM Corp, Armonk, NY), and two-sided p &lt; 0.05 was considered statistically significant.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Results</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Patients</head><p>Sixty patients received trifluridine/tipiracil plus bevacizumab and 66 patients received trifluridine/tipiracil monotherapy. Patient demographics and baseline characteristics are shown in <ref type="table" target="#tab_0">Table 1</ref>. All patients had previously received fluoropyrimidine, oxaliplatin, and irinotecan. Most of the patients in each group had a history of treatment with angiogenesis inhibitors, including bevacizumab, ramucirumab, or ziv-aflibercept. Approximately half of patients had RAS wild-type tumors, and no patient had MSI-high tumor. BRAF V600E mutation was detected in one patient (1.7%) in the trifluridine/ tipiracil plus bevacizumab group and in four patients (6.1%) in the trifluridine/tipiracil monotherapy group. Patients with left-sided primary tumors were dominant in both groups and comprised 81.7% of the trifluridine/tipiracil plus bevacizumab group and 84.8% of the trifluridine/tipiracil monotherapy group. Median interval from study treatment start to first computed tomography evaluation was 1.8 months in both groups. Median follow-up was 7.1 months in the trifluridine/tipiracil plus bevacizumab groups and 7.2 months in the trifluridine/tipiracil monotherapy group. After study treatment discontinuation, 41.7% of patients in the trifluridine/tipiracil plus bevacizumab groups and 48.5% of patients in the trifluridine/ tipiracil monotherapy group received subsequent antitumor therapy including regorafenib (31.7 vs. 39.4%), clinical trial therapy (6.7 vs. 4.5%), and cytotoxic chemotherapy (3.3 vs. 6.0%).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Efficacy</head><p>Patients in the trifluridine/tipiracil plus bevacizumab group had significantly longer PFS compared with those in the trifluridine/tipiracil monotherapy group (HR 0.69; 95% CI 0.48-0.99; log-rank p = 0.037). Median PFS was 3.7 months (95% CI 2.3-5.1 months) in the trifluridine/ tipiracil plus bevacizumab group and 2.2 months (95% CI 1.8-2.6 months) in the trifluridine/tipiracil monotherapy group <ref type="figure">(Fig. 1a</ref>). PFS rate at 16 weeks was 46.6 and 33.9%, respectively. In multivariate analysis, similar PFS was observed between groups (adjusted HR 0.62; 95% CI 0.42-0.90, p = 0.01). Subgroup analyses also showed a PFS benefit for trifluridine/tipiracil plus bevacizumab compared with trifluridine/tipiracil monotherapy for all parameters except ECOG PS <ref type="table" target="#tab_1">(Table 2)</ref>.</p><p>Median OS was 8.6 months (95% CI 6.9-10.3 months) for trifluridine/tipiracil plus bevacizumab and 8.0 months (95% CI 6.6-9.4 months) for trifluridine/tipiracil monotherapy <ref type="figure">(Fig. 1b)</ref>. In multivariate analysis, an OS benefit was also observed for trifluridine/tipiracil plus bevacizumab compared with trifluridine/tipiracil monotherapy, but without statistical significance (HR 0.74; 95% CI 0.48-1.14; log-rank p = 0.164). Similarly to PFS, longer OS was observed for all subgroups, except ECOG PS.</p><p>Three patients in the trifluridine/tipiracil plus bevacizumab group and one patient in the trifluridine/tipiracil monotherapy group had partial response, resulting in a 5.0 and 1.5% ORR for each group, respectively (p = 0.35). Disease control was achieved in 32 patients (53.3%) in the trifluridine/tipiracil plus bevacizumab group and in 30 patients (45.5%) in the trifluridine/tipiracil monotherapy group (p = 0.48) ( <ref type="table" target="#tab_2">Table 3</ref>). Additionally, proportion of patients with 6 months or longer of disease control were significantly higher in the trifluridine/tipiracil plus bevacizumab group than the trifluridine/tipiracil monotherapy group (26.7% vs. 12.1%, p = 0.04).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Safety</head><p>All patients initially received full-dose trifluridine/tipiracil and bevacizumab or trifluridine/tipiracil monotherapy. Any cycle delay for ≥4 days was registered in 37 (61.7%) and 27 (40.9%) patients in the trifluridine/tipiracil plus bevacizumab group and trifluridine/tipiracil monotherapy groups (p = 0.02), and trifluridine/tipiracil dose reductions were required in 10 (16.7%) and 15 (22.7%) patients (p = 0.50), respectively.</p><p>Adverse events are summarized in <ref type="table" target="#tab_3">Table 4</ref>. Overall, grade ≥ 3 adverse events were more frequent in the trifluridine/tipiracil plus bevacizumab than in the trifluridine/tipiracil monotherapy group (n = 41, 68.3% vs. n = 36, 54.5%; p = 0.14). Incidence of grade ≥ 3 neutropenia was slightly higher in the trifluridine/tipiracil plus bevacizumab group than in the trifluridine/tipiracil monotherapy group, although this difference was not statistically significant (50.0% vs. 40.9%; p = 0.37). In </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Discussion</head><p>Although the clinical evidence for trifluridine/tipiracil plus bevacizumab in pretreated mCRC patients only comes from a phase 1/2 C-TASK FORCE trial with a single-arm design, the present study showed clinical benefit with manageable toxicities for this combination in the real-world setting. The PFS improvement associated with trifluridine/tipiracil plus bevacizumab can be regarded as clinically meaningful in this patient population. Considering the median PFS difference between trifluridine/tipiracil and placebo of 0.3 and 0.2 months reported in RECOURSE and TERRA trials, respectively, the absolute 1.5-month median PFS improvement observed in this study is clinically meaningful in salvage setting. Of note, a higher 16-week PFS rate was observed with trifluridine/tipiracil plus bevacizumab compared with trifluridine/tipiracil monotherapy (46.6 vs. 33.9%), consistent with the primary endpoint of the C-TASK FORCE trial. Furthermore, although limited efficacy was reported in the C-TASK FORCE trial for trifluridine/ tipiracil plus bevacizumab in patients with mutant RAS, a consistent benefit of the combination was observed in subgroup analyses in this study, irrespectively of RAS status. Although not statistically significant, a 0.74 HR for OS was observed in favor of trifluridine/tipiracil plus bevacizumab in this study. Fewer OS events in the trifluridine/tipiracil plus bevacizumab group due to limited follow-up may have failed to show statistical difference between both groups. In subgroup analyses, patients with ECOG PS 0 especially  benefited from trifluridine/tipiracil plus bevacizumab in both PFS and OS. Although no clear benefit of trifluridine/ tipiracil plus bevacizumab were observed in patients with ≥ ECOG PS 1, it is not sufficient reason to refrain from using trifluridine/tipiracil plus bevacizumab in those patients, considering retrospective nature of this study. Trifluridine/tipiracil plus bevacizumab toxicities were well tolerated in the clinical practice setting. Frequency of grade ≥ 3 neutropenia in the trifluridine/ tipiracil plus bevacizumab group in this study was lower than in the C-TASK FORCE trial (50.0 vs. 72%). Along with a relatively lower frequency of grade ≥ 3 neutropenia, G-CSF was used in 16.8% of patients in the trifluridine/tipiracil plus bevacizumab group in this study compared with 28% of patients in the C-TASK FORCE trial. However, considering the common occurrence of grade ≥ 3 neutropenia, the higher proportion of cycle initiation delay in the trifluridine/tipiracil plus bevacizumab group, and the patient population in salvage setting, appropriate supportive intervention with G-CSF or temporary dose interruptions were still important for safety management with trifluridine/tipiracil plus bevacizumab. As bevacizumabrelated toxicities, incidence of any grade proteinuria and hypertension were significantly higher in the trifluridine/tipiracil plus bevacizumab group. In the salvage line setting, since almost all patients have received one or more prior angiogenesis inhibitor including bevacizumab, these bevacizumabrelated toxicities should be monitored carefully. Notably, such safety management was not associated with an increase in emergency hospital admissions with trifluridine/tipiracil plus bevacizumab, and the incidence of serious adverse events in this study was similar to the observed in RECOURSE and C-TASK FORCE trials and in clinical practice, as previously reported from our institution <ref type="bibr" target="#b11">[13]</ref>.</p><p>Efficacy and safety of trifluridine/tipiracil plus bevacizumab is also being investigated in prospective clinical trials. The phase 2 JFMC51-1702-C7 study (UMIN000030077) will validate the use of trifluridine/tipiracil plus bevacizumab in pretreated mCRC patients. Furthermore, this combination is an effective (ORR 40.5% and DCR 86.5%) and well-tolerated first-line treatment regimen for elderly patients (KSCC1602; UMIN000025241) <ref type="bibr" target="#b12">[14]</ref>. More recently, a randomized Danish study of 80 patients with heavily pretreated mCRC reported a PFS extension with trifluridine/tipiracil plus bevacizumab compared with trifluridine/tipiracil monotherapy <ref type="bibr" target="#b14">[15]</ref>. Based on the abovementioned findings, several phase 2 or 3 studies are in place, including studies investigating this regimen as postinduction chemotherapy maintenance (ALEXANDRIA; NCT02654639) and as second-line treatment for mCRC patients who failed first-line oxaliplatin-based chemotherapy versus FOLFIRI (or S-1 plus irinotecan) plus bevacizumab (TRUSTY; JapicCTI-173,618) <ref type="bibr" target="#b15">[16]</ref>.</p><p>This study has several limitations. Firstly, as previously noted, it was a non-randomized retrospective study in a single institution with a limited sample size. Secondly, no patients received prior regorafenib. However, the C-TASK FORCE trial also did not allow prior regorafenib and the study population was very similar to the Japanese subset of the RECOURSE trial. Finally, all patients enrolled in this study were Japanese. The absence of  ethnic differences in the RECOURSE and TERRA trials could enable results to be applied to all patients, regardless of race.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Conclusions</head><p>In conclusion, in the present study trifluridine/tipiracil plus bevacizumab was shown to have superior clinical activity compared with trifluridine/tipiracil monotherapy in patients with heavily pretreated mCRC. Additionally, similarly to trifluridine/tipiracil monotherapy, toxicities observed with the combination were manageable in the real-world setting.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>Table 1</head><label>1</label><figDesc>Patient characteristics Kaplan-Meier plots for PFS. b Kaplan-Meier plots for OS</figDesc><table><row><cell cols="2">Trifluridine/tipiracil plus</cell><cell cols="2">Trifluridine/tipiracil monotherapy</cell></row><row><cell cols="2">bevacizumab group</cell><cell>group</cell><cell></cell></row><row><cell>N = 60</cell><cell>%</cell><cell>N = 66</cell><cell>%</cell></row></table><note>ECOG PS Eastern Cooperative Oncology Group performance status, EGFR epidermal growth factor receptor, MSS microsatellite stable contrast, no increased incidence of febrile neutropenia was observed in the trifluridine/tipiracil plus bevacizumab com- pared with the trifluridine/tipiracil monotherapy group (3.3% vs. 7.8%; p = 0.444). Ten patients (16.7%) in the tri- fluridine/tipiracil plus bevacizumab group and four patients (6.1%) in the trifluridine/tipiracil monotherapy group received granulocyte colony-stimulating factor (G-CSF), with no G-CSF prophylaxis use in the both groups. Any grade proteinuria (41.7% vs. 13.6%; p &lt; 0.01) and hyperten- sion (38.3% vs. 16.7%; p &lt; 0.01), potentially associated with bevacizumab, were more common in the trifluridine/tipira- cil plus bevacizumab group. Emergency hospital admission Fig. 1 a</note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_1"><head>Table 2</head><label>2</label><figDesc>PFS and OS subgroup analyses</figDesc><table><row><cell></cell><cell>PFS</cell><cell></cell><cell>OS</cell><cell></cell><cell></cell></row><row><cell>N</cell><cell>HR</cell><cell>95% CI</cell><cell>Interaction p HR</cell><cell>95% CI</cell><cell>Interaction p</cell></row></table><note>CI confidence interval, ECOG PS Eastern Cooperative Oncology Group performance status, HR hazard ratio, OS overall survival, PFS progression-free survival</note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_2"><head>Table 3</head><label>3</label><figDesc>Overall response</figDesc><table><row><cell>Best</cell><cell cols="2">Trifluridine/tipiracil plus bevacizumab group</cell><cell cols="2">Trifluridine/tipiracil monotherapy group</cell><cell>P</cell></row><row><cell>response</cell><cell>N = 60</cell><cell>%</cell><cell>N = 66</cell><cell>%</cell><cell></cell></row><row><cell>PR</cell><cell>3</cell><cell>5.0</cell><cell>1</cell><cell>1.5</cell><cell></cell></row><row><cell>SD</cell><cell>29</cell><cell>48.3</cell><cell>29</cell><cell>43.9</cell><cell></cell></row><row><cell>PD</cell><cell>25</cell><cell>41.7</cell><cell>34</cell><cell>51.5</cell><cell></cell></row><row><cell>NE</cell><cell>3</cell><cell>5.0</cell><cell>2</cell><cell>3.0</cell><cell></cell></row><row><cell>ORR</cell><cell>3</cell><cell>5.0</cell><cell>1</cell><cell>1.5</cell><cell>0.346</cell></row><row><cell>DCR</cell><cell>32</cell><cell>53.3</cell><cell>30</cell><cell>45.5</cell><cell>0.476</cell></row></table><note>DCR disease control rate, NE not evaluated, ORR overall response rate, PD progressive disease, PR partial response, SD stable disease</note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_3"><head>Table 4</head><label>4</label><figDesc>Adverse events Trifluridine/tipiracil plus bevacizumab group (N = 60) Trifluridine/tipiracil monotherapy group (N = 66)</figDesc><table><row><cell></cell><cell>Any grade (%)</cell><cell>Grade 3 (%)</cell><cell>Grade 4 (%)</cell><cell>Any grade (%)</cell><cell>Grade 3 (%)</cell><cell>Grade 4 (%)</cell></row><row><cell>Hematological</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Neutropenia</cell><cell>41 (68.3)</cell><cell>25 (41.7)</cell><cell>5 (8.3)</cell><cell>47 (71.2)</cell><cell>19 (28.8)</cell><cell>8 (12.1)</cell></row><row><cell>Leucopenia</cell><cell>49 (81.7)</cell><cell>23 (38.3)</cell><cell>0 (0)</cell><cell>47 (71.2)</cell><cell>17 (25.8)</cell><cell>2 (3.0)</cell></row><row><cell>Anemia</cell><cell>52 (86.7)</cell><cell>8 (13.3)</cell><cell>1 (1.7)</cell><cell>60 (90.9)</cell><cell>12 (18.2)</cell><cell>2 (3.0)</cell></row><row><cell>Thrombocytopenia</cell><cell>26 (43.3)</cell><cell>1 (1.7)</cell><cell>1 (1.7)</cell><cell>24 (36.</cell><cell></cell><cell></cell></row></table><note></note></figure>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Acknowledgements</head><p>Not applicable. </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Competing interests</head></div>
+			</div>
+
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Abbreviations CI: Confidence interval; CRC: Colorectal cancer; DCR: Disease control rate; ECOG PS: Eastern Cooperative Oncology Group performance status; G-CSF: Granulocyte colony-stimulating factor; HR: Hazards ratio; mCRC: Metastatic colorectal cancer; MSI: Microsatellite instability; ORR: Overall response rate; OS: Overall survival; PFS: Progression-free survival; TK1: Thymidine kinase 1</p><p>Authors' contributions DK initiated the study, participated in its design and data collection, performed statistical analyses, and drafted the manuscript. YK was responsible for study conception and helped manuscript writing. SH and AK1 participated in data collection. YN, AK2, HB, HT, KS, TK, AT edited manuscript. TY helped manuscript writing and participated in manuscript editing. All authors read and approved the final manuscript.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Funding</head><p>This research did not receive any specific grant from funding agencies in the public, commercial, or not-for-profit sectors.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Availability of data and materials</head><p>Not applicable.</p><p>Ethics approval and consent to participate Study protocol was approved by the institutional review board (National Cancer Center IRB, ref. 2017-279). Informed consent requirement was waived due to the study's observational retrospective design, with an opt-out opportunity provided at the institution's website.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Consent for publication</head><p>Not applicable.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Publisher's Note</head><p>Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.</p></div>			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">FOLFIRI plus cetuximab versus FOLFIRI plus bevacizumab as first-line treatment for patients with metastatic colorectal cancer (FIRE-3): a randomised, open-label, phase 3 trial</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">V</forename><surname>Heinmann</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">L</forename><forename type="middle">F</forename><surname>Von Weikersthal</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Decker</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Kiani</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">U</forename><surname>Vehling-Kaiser</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><forename type="middle">E</forename><surname>Al-Batran</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Lancet Oncol</title>
+		<imprint>
+			<biblScope unit="volume">15</biblScope>
+			<biblScope unit="page" from="1065" to="75" />
+			<date type="published" when="2014" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Effect of first-line chemotherapy combined with cetuximab or bevacizumab on overall survival in patients with kras wild-type advanced or metastatic colorectal cancer</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><forename type="middle">P</forename><surname>Venook</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><surname>Niedzwiecki</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><forename type="middle">J</forename><surname>Lenz</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">F</forename><surname>Innocenti</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">B</forename><surname>Fruth</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">A</forename><surname>Meyerhardt</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">JAMA</title>
+		<imprint>
+			<biblScope unit="volume">317</biblScope>
+			<biblScope unit="page" from="2392" to="401" />
+			<date type="published" when="2017" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Ramucirumab versus placebo in combination with second-line FOLFIRI in patients with metastatic colorectal carcinoma that progressed during or after first-line therapy with bevacizumab, oxaliplatin, and a fluoropyrimidine (RAISE): a randomized, double-blind, multicenter, phase 3 study</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Tabernero</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Yoshino</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><forename type="middle">L</forename><surname>Cohn</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><surname>Obermannova</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">G</forename><surname>Bodoky</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><surname>Garcia-Carbonero</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Lancet Oncol</title>
+		<imprint>
+			<biblScope unit="volume">16</biblScope>
+			<biblScope unit="page" from="499" to="508" />
+			<date type="published" when="2015" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Addition of aflibercept to fluorouracil, leucovorin, and irinotecan improves survival in a phase III randomized trial in patients with metastatic colorectal cancer previously treated with an oxaliplatin-based regimen</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><surname>Van Cutsem</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Tabernero</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><surname>Lakomy</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><surname>Prenen</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Prausová</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Macarulla</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Clin Oncol</title>
+		<imprint>
+			<biblScope unit="volume">30</biblScope>
+			<biblScope unit="page" from="3499" to="506" />
+			<date type="published" when="2012" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Regorafenib monotherapy for previously treated metastatic colorectal cancer (CORRECT): an international, multicenter, randomized, placebocontrolled, phase 3 trial</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Grothey</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><surname>Van Cutsem</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Sobrero</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Siena</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Falcone</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Ychou</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Lancet</title>
+		<imprint>
+			<biblScope unit="volume">318</biblScope>
+			<biblScope unit="page" from="303" to="315" />
+			<date type="published" when="2013" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Randomized trial of TAS-102 for refractory metastatic colorectal cancer</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><forename type="middle">J</forename><surname>Mayer</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><surname>Van Cutsem</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Falcone</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Yoshino</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><surname>Garcia-Carbonero</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">N</forename><surname>Mizunuma</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">N Engl J Med</title>
+		<imprint>
+			<biblScope unit="volume">372</biblScope>
+			<biblScope unit="page" from="1909" to="1928" />
+			<date type="published" when="2015" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">TAS-102 monotherapy for pretreated metastatic colorectal cancer: a doubleblind, randomized, placebo-controlled phase 3 trial</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Yoshino</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">N</forename><surname>Mizunuma</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><surname>Yamazaki</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Nishina</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Y</forename><surname>Komatsu</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><surname>Baba</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Lancet Oncol</title>
+		<imprint>
+			<biblScope unit="volume">13</biblScope>
+			<biblScope unit="page" from="993" to="1001" />
+			<date type="published" when="2012" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Results of a randomized, double-blind, placebo-controlled, phase III trial of trifluridine/ tipiracil (TAS-102) monotherapy in Asian patients with previously treated metastatic colorectal cancer: the TERRA study</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Xu</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><forename type="middle">W</forename><surname>Kim</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">L</forename><surname>Shen</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">V</forename><surname>Sriuranpong</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><surname>Pan</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><surname>Xu</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Clin Oncol</title>
+		<imprint>
+			<biblScope unit="volume">36</biblScope>
+			<biblScope unit="page" from="350" to="358" />
+			<date type="published" when="2017" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Efficacy of combination chemotherapy using a novel oral chemotherapeutic agent, TAS-102, together with bevacizumab, cetuximab, or panitumumab on human colorectal cancer xenografts</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><surname>Tsukihara</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">F</forename><surname>Nakagawa</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><surname>Sakamoto</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><surname>Ishida</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">N</forename><surname>Tanaka</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><surname>Okabe</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Oncol Rep</title>
+		<imprint>
+			<biblScope unit="volume">33</biblScope>
+			<biblScope unit="page" from="2135" to="2177" />
+			<date type="published" when="2015" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">TAS-102 plus bevacizumab for patients with metastatic colorectal cancer refractory to standard therapies (C-TASK FORCE): an investigator-initiated, open-label, single-arm, multicenter, phase 1/2 study</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Y</forename><surname>Kuboki</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Nishina</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><surname>Shinozaki</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><surname>Yamazaki</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><surname>Shitara</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">W</forename><surname>Okamoto</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Lancet Oncol</title>
+		<imprint>
+			<biblScope unit="volume">18</biblScope>
+			<biblScope unit="page" from="1172" to="81" />
+			<date type="published" when="2017" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Phase II study evaluating trifluridine/tipiracil + bevacizumab and capecitabine + bevacizumab in first-line unresectable metastatic colorectal cancer (mCRC) patients who are non-eligible for intensive therapy (TASCO1): results of the primary analysis</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><surname>Lesniewski-Kmak</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">V</forename><surname>Moiseenko</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Saunders</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><surname>Wasan</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">G</forename><surname>Argiles</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><surname>Borg</surname></persName>
+		</author>
+		<idno>mdy149.021</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Ann Oncol</title>
+		<imprint>
+			<biblScope unit="volume">29</biblScope>
+			<date type="published" when="2018" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Safety and efficacy of trifluridine/tipiracil monotherapy in clinical practice for patients with metastatic colorectal cancer: experience at a single institution</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><surname>Kotani</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><surname>Shitara</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Kawazoe</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Fukuoka</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Y</forename><surname>Kuboki</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><surname>Bando</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Clin Colorectal Cancer</title>
+		<imprint>
+			<biblScope unit="volume">15</biblScope>
+			<biblScope unit="page" from="109" to="124" />
+			<date type="published" when="2016" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<monogr>
+		<title/>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><surname>Oki</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Makiyama</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Y</forename><surname>Miyamoto</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Kotaka</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><surname>Kawanaka</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><surname>Miwa</surname></persName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Trifluridine/tipiracil plus bevacizumab in elderly patients with previously untreated metastatic colorectal cancer (KSCC1602): A multicenter, phase II clinical trial</title>
+	</analytic>
+	<monogr>
+		<title level="j">J Clin Oncol</title>
+		<imprint>
+			<biblScope unit="volume">37</biblScope>
+			<biblScope unit="page">3548</biblScope>
+			<date type="published" when="2019" />
+		</imprint>
+	</monogr>
+	<note>suppl</note>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">Rationale and design of the TRUSTY study: a randomized, multicenter, open-label phase II/III study of trifluridine/tipiracil plus bevacizumab versus irinotecan, fluoropyrimidine plus bevacizumab as second-line treatment in patients with metastatic colorectal cancer progressive during following firstline oxaliplatin-based chemotherapy</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Yoshino</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><surname>Oki</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><surname>Nozawa</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Eguchi-Nakajima</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><surname>Taniguchi</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Morita</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">ESMO Open</title>
+		<imprint>
+			<biblScope unit="volume">3</biblScope>
+			<biblScope unit="page">411</biblScope>
+			<date type="published" when="2018" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Randomized study evaluating trifluridine/tipiracil (TAS-102) versus + trifluridine/tipiracil + bevacizumab as last-line therapy in patients with chemorefractory unresectable metastatic colorectal cancer (mCRC)</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><surname>Pfeiffer</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Yilmaz</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Möller</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">L</forename><surname>Maltha</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Krogh</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><surname>Zitnjak</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Clin Oncol</title>
+		<imprint>
+			<biblScope unit="volume">37</biblScope>
+			<biblScope unit="page">637</biblScope>
+			<date type="published" when="2019" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

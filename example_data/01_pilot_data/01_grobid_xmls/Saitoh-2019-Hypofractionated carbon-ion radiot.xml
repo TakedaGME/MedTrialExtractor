@@ -1,0 +1,869 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /data/rsg/nlp/juanmoo1/bin/grobid-0.6.1/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Hypofractionated carbon-ion radiotherapy for stage I peripheral nonsmall cell lung cancer (GUNMA0701): Prospective phase II study</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author role="corresp">
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Jun-Ichi</forename><surname>Saitoh</surname></persName>
+							<email>junsaito@med.u-toyama.ac.jp</email>
+							<affiliation key="aff0">
+								<orgName type="institution">Gunma University Heavy Ion Medical Center</orgName>
+								<address>
+									<settlement>Maebashi</settlement>
+									<region>Gunma</region>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="department" key="dep1">Department of Radiation Oncology</orgName>
+								<orgName type="department" key="dep2">Faculty of Medicine</orgName>
+								<orgName type="institution">University of Toyama</orgName>
+								<address>
+									<settlement>Toyama</settlement>
+									<region>Toyama</region>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">|</forename><forename type="middle">Katsuyuki</forename><surname>Shirai</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="institution">Gunma University Heavy Ion Medical Center</orgName>
+								<address>
+									<settlement>Maebashi</settlement>
+									<region>Gunma</region>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff2">
+								<orgName type="department">Department of Radiology</orgName>
+								<orgName type="institution" key="instit1">Saitama Medical Center</orgName>
+								<orgName type="institution" key="instit2">Jichi Medical University</orgName>
+								<address>
+									<settlement>Saitama</settlement>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Tatsuji</forename><surname>Mizukami</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="institution">Gunma University Heavy Ion Medical Center</orgName>
+								<address>
+									<settlement>Maebashi</settlement>
+									<region>Gunma</region>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="department" key="dep1">Department of Radiation Oncology</orgName>
+								<orgName type="department" key="dep2">Faculty of Medicine</orgName>
+								<orgName type="institution">University of Toyama</orgName>
+								<address>
+									<settlement>Toyama</settlement>
+									<region>Toyama</region>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Takanori</forename><surname>Abe</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="institution">Gunma University Heavy Ion Medical Center</orgName>
+								<address>
+									<settlement>Maebashi</settlement>
+									<region>Gunma</region>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">|</forename><surname>Takeshi Ebara</surname></persName>
+							<affiliation key="aff3">
+								<orgName type="department">Department of Radiation Oncology</orgName>
+								<orgName type="institution">Gunma Prefectural Cancer Center</orgName>
+								<address>
+									<settlement>Ota</settlement>
+									<region>Gunma</region>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff4">
+								<orgName type="department" key="dep1">Department of Radiation Oncology</orgName>
+								<orgName type="department" key="dep2">School of Medicine</orgName>
+								<orgName type="institution">Kyorin University</orgName>
+								<address>
+									<settlement>Mitaka, Tokyo</settlement>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Tatsuya</forename><surname>Ohno</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="institution">Gunma University Heavy Ion Medical Center</orgName>
+								<address>
+									<settlement>Maebashi</settlement>
+									<region>Gunma</region>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">|</forename><forename type="middle">Koichi</forename><surname>Minato</surname></persName>
+							<affiliation key="aff5">
+								<orgName type="department">Department of Respiratory Medicine</orgName>
+								<orgName type="institution">Gunma Prefectural Cancer Center</orgName>
+								<address>
+									<settlement>Ota</settlement>
+									<region>Gunma</region>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Ryusei</forename><surname>Saito</surname></persName>
+							<affiliation key="aff6">
+								<orgName type="department">Department of Respiratory Medicine</orgName>
+								<orgName type="institution">National Hospital Organization Shibukawa Medical Center</orgName>
+								<address>
+									<settlement>Shibukawa</settlement>
+									<region>Gunma</region>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Masanobu</forename><surname>Yamada</surname></persName>
+							<affiliation key="aff7">
+								<orgName type="department">Department of Medicine and Molecular Science</orgName>
+								<orgName type="institution">Gunma University Graduate School of Medicine</orgName>
+								<address>
+									<settlement>Maebashi</settlement>
+									<region>Gunma</region>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Takashi</forename><surname>Nakano</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="institution">Gunma University Heavy Ion Medical Center</orgName>
+								<address>
+									<settlement>Maebashi</settlement>
+									<region>Gunma</region>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff8">
+								<orgName type="department" key="dep1">Department of Radiation Oncology</orgName>
+								<orgName type="department" key="dep2">Faculty of Medicine</orgName>
+								<orgName type="institution">University of Toyama</orgName>
+								<address>
+									<postCode>2630, 930-0194</postCode>
+									<settlement>Sugitani, Toyama</settlement>
+									<region>Toyama</region>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff9">
+								<orgName type="department">Heavy Ion Medical Center</orgName>
+								<orgName type="institution">Gunma University</orgName>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Hypofractionated carbon-ion radiotherapy for stage I peripheral nonsmall cell lung cancer (GUNMA0701): Prospective phase II study</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<idno type="DOI">10.1002/cam4.2561</idno>
+					<note type="submission">Received: 22 July 2019 | Revised: 4 September 2019 | Accepted: 4 September 2019</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.6.1" ident="GROBID" when="2020-10-09T18:38+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<abstract>
+				<p>This is an open access article under the terms of the Creative Commons Attribution License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.</p>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>| 6645</head><p>SAITOH eT Al</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="1">| INTRODUCTION</head><p>Lobectomy and mediastinal lymph node dissection represent the current standard of treatment for stage I NSCLC. <ref type="bibr" target="#b0">1</ref> Nevertheless, radical surgery is contraindicated for patients with severe comorbidity or poor pulmonary function. In those patients, stereotactic body radiation therapy with photons (SBRT) may provide an alternative choice of treatment. A multi-centric prospective study employing SBRT for treating NSCLC (T1N0M0) reported comparable 3-year overall survival rates for the operable and inoperable populations, of 76.5% and 59.9%, respectively; however, there was a relatively high incidence of severe lung toxicity, especially among the inoperable patients. <ref type="bibr" target="#b1">2</ref> Compared with photons, carbon ions can provide an increased probability of tumor control because of their higher linear energy transfer as well as greater relative biological effectiveness (RBE). <ref type="bibr" target="#b2">3,</ref><ref type="bibr" target="#b3">4</ref> In addition, the Bragg peak and small lateral scattering of carbon ions result in a theoretically superior dose distribution to that of photons. A prospective phase I/II study at the National Institute of Radiological Sciences Hospital (Chiba, Japan) dealing with application of carbonion radiotherapy (C-ion RT) for treating stage I NSCLC used fixed doses of 52.8 Gy and 60 Gy (RBE) for T1 tumors and T2 tumors, respectively, delivered in four fractions over 1 week. <ref type="bibr" target="#b4">5</ref> It was shown that the overall 5-year local control rate was 90%, while 97% and 80% were achieved for T1 and T2 tumors, respectively. <ref type="bibr" target="#b4">5</ref> A dosimetric analysis comparing C-ion RT and SBRT for stage I peripheral NSCLC reported that the dose distribution of C-ion RT exhibited better target conformity and spared normal lung tissue as well as tissues of trachea, esophagus, heart, and spinal cord. <ref type="bibr" target="#b5">6</ref> However, there have been few prospective assessments of C-ion RT efficacy for the stage I NSCLC at other C-ion RT facilities. We therefore undertook a prospective phase II study to confirm the therapeutic efficacy and safety of C-ion RT in patients with the stage I NSCLC.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2">| MATERIALS AND METHODS</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.1">| Patients</head><p>Here, we considered the following eligibility criteria for patients: histologically proven peripheral stage I NSCLC, diagnosed in line with TNM Classification of the Union for International Cancer Control's (7th Edition); inoperable, or refusal of surgery; a measurable tumor; and an Eastern Cooperative Oncology Group's scale performance status between 0 and 2. The following were set as exclusion criteria: a previous history of radiotherapy anywhere near the target volume; chemotherapy within the month prior to C-ion RT; a life expectancy estimated to be ≤6 months; a second active cancer; interstitial pneumonitis; or an intractable infectious disease in the region of the target volume. Each patient's eligibility was confirmed at a joint conference involving medical oncologists, thoracic surgeons, and radiation oncologists.</p><p>The study was conducted in line with the Declaration of Helsinki. The ethics committee approved the trial, and all patients gave written informed consent. The trial was registered under the number UMIN000003797 at the University Hospital Medical Information Network Center (http://www. umin.ac.jp).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.2">| Primary and secondary endpoints</head><p>Two-year local control rate was selected as the primary endpoint, whereas the rates of overall survival (OS), progression-free survival (PFS), and incidence rate of acute and late adverse events were chosen as secondary endpoints.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.3">| Planning and treatment</head><p>Depending on the tumor location, the patient was immobilized in the supine or prone position using a thermoplastic shell (Shellfitter; Sanyo Polymer Industrial) with a pillow made of water-sclerogenic polymers (Moldcare; ALCARE). To achieve a suitable posture for oblique beam irradiation, the patient was rotated ± 15° to the superior-inferior axis. Subsequently, computed tomography (CT) was run in 2-mm slices with two different body positions. A respiratory-gated CT image was obtained after exhaling. This was followed by a four-dimensional CT scan to account for respiratory motion, reconstructing four-dimensional images for each phase of respiration.</p><p>For the treatment, for respiratory-gated irradiation the gating level was set to within 30% of the wave height around peak exhalation. The following volumes were defined in the lung window: the gross tumor volume (GTV), the clinical target volume (CTV), and the planning target volume (PTV). CTV was defined as the GTV dilated 5 mm into the pulmonary parenchyma. The internal margin was set considering respiratory movement in each direction, as determined from the four-dimensional CT, with a 3-mm setup margin. Finally, to create PTV, a planning margin calculated as the square root of the sum of squares of the internal and setup margins was added to the CTV. The clinical dose distribution was calculated based on physical dose and RBE, in line with the previous results. <ref type="bibr" target="#b2">3</ref> XiO-N treatment planning software (Elekta/ Mitsubishi Electric) was used to calculate the passive scattering carbon-ion dose distribution. The prescribed dose (RBE) of C-ion RT for T1a and T1b tumors was 52.8 Gy, whereas 60.0 Gy dose was chosen for T2a tumors, in both cases divided to four fractions over 1 week. The dose was administered to the PTV's isocenter.</p><p>The percentage of the normal lung volume receiving more than 20 Gy (lung's V20) was set not to exceed 20%. Although the dose constraints for esophagus, trachea and main bronchus, spinal cord, and heart were not clearly established, the volumes of 20Gy (RBE) were suppressed as low as possible based on our institutional policy.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.4">| Patient and tumor response evaluations</head><p>Prior to treatment, the patients underwent the following evaluations: blood cell and biochemical analyses (blood cell counts, differential counts, serum biochemistry), electrocardiography, pulmonary function tests, imaging (chest radiography, CT of the thorax and abdomen, whole-brain CT or magnetic resonance imaging, and 18 F-fluorodeoxyglucose positron emission tomography. During 6 months following the C-ion RT, the patients underwent a physical examination, toxicity assessments, and X-ray of the chest every month, while thoracic CT scan with blood analyses were obtained every 3 months. The tumor response to the applied therapy was evaluated in line with the version 1.1 of the Response Evaluation Criteria in Solid Tumors guidelines. <ref type="bibr" target="#b6">7</ref> Toxicity was assessed in line with the version 4.0 of the Common Terminology Criteria for Adverse Events.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.5">| Statistical analysis</head><p>We calculated local control rates or survival times starting with the first day of C-ion RT administration. The Kaplan-Meier method was applied to determine the defined endpoints (local control rate, OS rate, and PFS rate). For purposes of sample size calculation, we hypothesized that the 2-year local control rate of stage I NSCLC would be 60% by conventionally fractionated radiation therapy with photons and 90% by C-ion RT. Using the normal approximation, we calculated that 35 patients would be needed for 80% power and 95% confidence. In the univariate analyses, we applied log-rank tests to evaluate the effects of age group, sex, histological type, performance status, T stage of TNM classification, operability, and smoking history on the study's endpoints. P-values of lower than 0.05 were considered as statistically significant. All tests were performed two-tailed with JMP version 12.2.0 (SAS Institute Inc).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3">| RESULTS</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.1">| Patients</head><p>Between June 2010 and March 2015, 37 patients satisfying all inclusion and exclusion criteria (25 men and 12 women; median age of 73 years with age range of 47-85 years) were recruited. All patients were followed up at least 2 years or until death, with the median follow-up duration of 56.3 months for all patients and 62.2 months for the surviving patients. The <ref type="table">Table 1</ref> shows a summary of characteristics of the patients and tumors. In 24 patients, the tumor was in the T1 stage while T2a was recorded in 13 individuals. In terms of histological types there were 24 patients with adenocarcinoma and 13 with squamous cell carcinoma. Nine of 37 patients were judged to be inoperable.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.2">| Dosimetric analysis</head><p>All patients received the planned full dose of C-ion RT. The median percentage of dose received by more than 95% of the PTV relative to the isocentric dose was 96.0% (range, 80.1%-99.8%). The median of lung's V20 was 5.7% (range, 1.4%-10.6%). The delineation of the PTV and dose distribution of a representative case with axial image is shown in <ref type="figure">Figure 1</ref>. <ref type="table">Table 2</ref> summarizes the failure patterns. Four patients experienced local recurrence. The local control rate throughout the duration of the follow-up is plotted in <ref type="figure">Figure 2</ref>. The values of actuarial 2-year, 3-year, and 5-year local control rates were 91.2% (95% confidence interval [CI], 76.0-97.1), 88.1% (95% CI, 72.3-95.5), and 88.1% (95% CI, 72.3-95.5), respectively. For the patients with T1 tumors, the 2-year and 5-year local control rates were 91.3% and 86.7%, similar to the patients with T2a tumors where both local control rates achieved 90.9% (P = .75). Smokers exhibited lower 2year local control rates than nonsmokers (82.4% vs 100.0%, P = .03). The 2-year local control rates were 90.0% and 91.2% for patients with squamous cell carcinoma and those with adenocarcinoma, respectively (P = .87). There were no significant associations between local control rates and any of the other clinical factors. Two patients experienced local-only progression; they underwent salvage treatment by surgery or reirradiation with C-ion RT, and both survived without disease reprogression more than 3 years after this treatment.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.3">| Local control and survival</head><p>The OS and PFS rates throughout the follow-up period are plotted in <ref type="figure" target="#fig_1">Figure 3</ref>. During follow-up, four patients died of disease progression and five of intercurrent diseases. The actuarial 2-, 3-, and 5-year OS rates achieved 91.9% (95% CI, 77.7-97.4), 80.0% (95% CI, 61.7-88.6), and 74.9% (95% CI, 58.2-86.4), respectively. The 5-year OS rates for the various subgroups were as follows: 80.0% for individuals with T1 tumors and 66.7% for those with T2a tumors (P = .39); 84.7% for the operable vs 44.4% for inoperable patients (P = .005); 53.9% for patients with squamous cell carcinoma compared with 86.7% for those with adenocarcinoma (P = .01); and 58.4% for smokers; and 93.8% for nonsmokers (P = .01). The 5-year OS rates showed no significant associations with the other clinical factors.</p><p>Thirteen patients experienced disease progression. The actuarial 2-year, 3-year, and 5-year PFS rates were 64.9% (95% CI, 48.5-78.4), 54.1% (95% CI, 38.1-69.2), and 51.4% (95% CI, 35.6-66.8), respectively. In addition to the two patients described earlier who received salvage therapy for local progression, three patients underwent salvage treatment by C-ion RT or stereotactic radiotherapy for regional lymph node metastases or solitary brain metastasis. The 5-year PFS rates were 52.0% and 50.0% for the T1 tumors and T2a tumors, respectively (P = .74), and 25.0% for smokers and 82.4% for nonsmokers, respectively (P = .0003). The 5-year PFS rates showed no significant associations with the other clinical factors. <ref type="table">Table 3</ref> summarizes the incidence of acute and late adverse events. No patients experienced toxicity with severity classified as grade 4 or higher. One patient with severe emphysema developed grade 3 pneumonitis, and another with bronchiectasis and atypical mycobacteriosis developed grade 2 pneumonitis. Pneumonitis of grade 2 severity or higher showed a cumulative incidence of 5%. Both these patients had T2a tumors; no patient with a T1 tumor experienced toxicity of severity greater than grade 1. In this trial, the local tumor control rate was selected as the primary endpoint. The 2-year and 5-year local control rates measured 91% and 88%, respectively, very similar to those reported of a previous phase II study of C-ion RT (90% and 90%, respectively). <ref type="bibr" target="#b4">5</ref> In our study, local control rate did not differ significantly between the tumors in stage T1 and T2a.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.4">| Assessment of toxicity</head><p>Compared to the previous study, <ref type="bibr" target="#b4">5</ref> there was greater local recurrence of T1 tumors in the present study but less recurrence of T2 tumors. The local recurrences may have been the result of a problem with the robustness of the treatment planning. We previously analyzed and reported some factors related to the possibility of dose degradation, <ref type="bibr" target="#b7">[8]</ref><ref type="bibr" target="#b8">[9]</ref><ref type="bibr" target="#b9">[10]</ref> as well as proposing some technical measures to improve the robustness of the planning. <ref type="bibr" target="#b10">11</ref> Following this analysis, we installed CT in the C-ion RT treatment room at our facility to allow accurate positioning and dose verification. Another explanation for the recurrence may be the smaller dose administered for T1 tumors, which was less than that for T2a tumors. Following the present study, for T1 tumors treated at our facility we have increased the dose to 60.0 Gy (RBE) in four fractions, since this dose has been shown here to be safe for patients with tumors &gt;3 cm. Furthermore, a dose escalation study of single-fraction C-ion RT for stage I NSCLC conducted in Japan demonstrated the efficacy and safety of a single fraction of 48-50 Gy (RBE). <ref type="bibr" target="#b11">12</ref> SBRT provides superior tumor control than conventional radiotherapy in treating stage I lung cancer, but few studies of SBRT reported the local tumor control over long-term follow-up. In three studies, the 5-year local control rates with SBRT were 78%-92% for T1 tumors and 69%-73% for T2 tumors. <ref type="bibr" target="#b12">[13]</ref><ref type="bibr" target="#b13">[14]</ref><ref type="bibr" target="#b14">[15]</ref> A large cohort study reported 84% 3year local control rate in T1 tumors, compared to 74% for T2. <ref type="bibr" target="#b15">16</ref> Typically, 10%-20% lower local control rate with SBRT was reported for T2 tumors than for T1. A Japanese dose escalation phase I study of SBRT with 40 Gy starting dose and 5 Gy increments was undertaken to improve local control of T2N0M0 NSCLC (&gt;3 cm) tumors. <ref type="bibr" target="#b16">17,</ref><ref type="bibr" target="#b17">18</ref> The report recommended a dose of 55 Gy in four fractions for peripheral PTVs &lt; 100 cm <ref type="bibr" target="#b2">3</ref> , and 50 Gy in four fractions for larger tumors with PTVs &gt; 100 cm <ref type="bibr" target="#b2">3</ref> . <ref type="bibr" target="#b16">17,</ref><ref type="bibr" target="#b17">18</ref> Shibamoto et al published the long-term results of SBRT treatment using a radiobiology-based regimen. 14 The prescribed doses of SBRT were 44-48 Gy and 52 Gy for T1 and T2 tumors, respectively, administered in four fractions with interfraction intervals of at least 3 days. The rate of local control for the T2 tumors was 73%, similar to that in previous reports of SBRT, although it should be noted that there was a relatively higher incidence of higher grade pneumonitis (21%). <ref type="bibr" target="#b13">14</ref> In the present C-ion radiotherapy trial, the 5-year local control rate reached 90.9% for T2a tumors, suggesting that the regimen of 60 Gy in four fractions was effective and possibly superior to that of SBRT. However, the number of treated patients was relatively small, so further evaluation is needed to confirm the efficacy of this treatment for T2 tumors.</p><p>Several previous studies have reported 2-year or 3-year OS rates following SBRT, with 3-year OS rates reported as 40%-60%. <ref type="bibr" target="#b15">16,</ref><ref type="bibr" target="#b18">[19]</ref><ref type="bibr" target="#b19">[20]</ref><ref type="bibr" target="#b20">[21]</ref> A meta-analysis of SBRT studies published in 2011 reported pooled estimates of 3-year OS of 56% and 5-year OS of 36%, respectively. <ref type="bibr" target="#b21">22</ref> OS is typically affected by late recurrence or intercurrent diseases, so it should be evaluated over a long follow-up period. Here, we found 80.0% 3-year OS and 74.9% 5-year OS rates, with 62.2 months duration of follow-up for the surviving patients.</p><p>There are various possible explanations for the favorable OS in our study. One relates to the patients' condition and the evolution of salvage treatment. In our study, 76% (28/37) of the patients were considered to be operable, and two patients with local recurrence and three patients with regional lymph node recurrence or brain oligometastasis underwent salvage treatment by surgery, C-ion RT or stereotactic radiotherapy. Otaki et al reported no severe complications, perioperative death, or local recurrence after salvage surgery following Cion RT, although combined resection was sometimes needed because of severe adhesion. <ref type="bibr" target="#b22">23</ref> A second reason for the favorable OS in our study may be related to histological type of NSCLC, considering that in this study OS was better in the patients with adenocarcinoma histological type. Indeed, three patients with adenocarcinoma experienced slow-growing lung metastases and survived the follow-up period without any treatment.</p><p>SBRT of lung tumors may lead to lung toxicity, which is dose-limiting effect. In a meta-analysis of SBRT studies it was reported that the incidence of grade 3 to 5 adverse events was 8%, with the incidence increasing among patients treated with a higher biologically effective dose. <ref type="bibr" target="#b21">22</ref> The RTOG 0236 trial in the USA tested 60 Gy in three fractions and showed a 16% rate of grade 3 and grade 4 lung toxicity. <ref type="bibr" target="#b23">24</ref> Recent reports regarding SBRT have reported the incidence of lung toxicity at grade 2 or higher as 1%-13%. <ref type="bibr" target="#b1">2,</ref><ref type="bibr" target="#b12">[13]</ref><ref type="bibr" target="#b13">[14]</ref><ref type="bibr" target="#b14">[15]</ref><ref type="bibr" target="#b15">[16]</ref><ref type="bibr" target="#b18">19</ref> In the previous phase II study of C-ion RT, grade 2 lung toxicity was seen in 1% of the patients, and there were no toxic reactions of grade ≥3. <ref type="bibr" target="#b4">5</ref> None of our patients with tumor in T1 stage experienced pneumonitis ≥grade 2. Grade 3 pneumonitis was recorded in only one patient with a T2 tumor; this patient had been considered inoperable because of severe lung emphysema. In the Japanese prospective trial, lung toxicity ≥grade 3 was reported in 6% of operable patients and 13% of inoperable patients. <ref type="bibr" target="#b1">2</ref> In the dosimetric analysis that compared C-ion RT and SBRT, described earlier, the lung's V20 with C-ion RT was about 50% of that with SBRT treatment, and the normal lung volume receiving ≥5 Gy was one-third that for SBRT. <ref type="bibr" target="#b5">6</ref> C-ion RT may therefore be considered as an effective and safe option for treating the patients with larger or inoperable tumors. In addition, severe adverse events in organs at risks without lung were not observed at all. Treatment target in this study was peripheral stage I NSCLC, and the mediastinal components were not included in the high-dose irradiated areas in all patients. More precise evaluation about the dose volume statistics for each organ at risk in hypofractionated C-ion RT will be confirmed in the future study. In this study, smoking history significantly affected the local control after C-ion RT. There were few reports about the difference of local control after radiation therapy between smokers and nonsmokers. In the analysis of postoperative radiation therapy with photons for NSCLC, Nguyen et al reported that smokers had worse 5-year local control than nonsmokers (70% vs 90%, P = .001), and histology was not the significant factor on univariate analysis for local control. <ref type="bibr" target="#b24">25</ref> They assumed that the harmful effects of smoking during radiation therapy may be explained by its hypoxic effect. In another report of prognostic factors in patients with glottis cancer treated with photon radiation therapy, local control was negatively affected by tobacco smoking (particularly more than 20 cigarettes per day over a period of time-more than 40 pack-years). <ref type="bibr" target="#b25">26</ref> The mechanisms underlying effects by smoking on C-ion RT remain uncertain, and the results might be confirmed in further study.</p><p>The present study had some limitations. It was a single-center prospective phase II study at a single center, and the number of participants was limited. Since April 2016, a multicenter prospective registry study of Japanese C-ion RT facilities has been established; this applies an integrated treatment schedule for treating stage I peripheral NSCLC, administering four fractions over 1 week to provide a 60 Gy dose of (RBE). This prospective registry study is expected to demonstrate further improvements in treatment results for patients with stage I NSCLC.</p><p>Our prospective study confirmed that C-ion RT was effective and safe in the treatment of stage I peripheral NSCLC. We considered that this study could show the validation about RBE assumption in the treatment planning of carbon beam between the different facilities, since the clinical results were almost same as the previous report. Our findings support the need for further clinical evaluations of the therapeutic efficacy of this treatment, which needs to be confirmed by a multicenter prospective registry study of Japanese C-ion RT facilities.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>F I G U R E 1 F I G U R E 2 F I G U R E 3</head><label>123</label><figDesc>Dose distribution of carbon-ion radiotherapy in a patient with T2 tumor. PTV was painted red. The percentage of the normal lung volume receiving more than 20 Gy was 8% in this patient T A B L E 2 Analysis of the failure patterns for the T1 and T2 tumors Local control rate during the follow-up period (N = 37) Overall (solid line) and progression-free (dashed line) survival from the start of treatment (N = 37)</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head>T A B L E 3</head><label>3</label><figDesc>Incidence of acute and late toxicity</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head></head><label></label><figDesc>Patient and tumor characteristics</figDesc><table><row><cell>SAITOH eT Al</cell><cell></cell><cell>| 6647</cell></row><row><cell>Number of patients</cell><cell></cell><cell>37</cell></row><row><cell>Sex</cell><cell>Male/Female</cell><cell>25/12</cell></row><row><cell>Age (years)</cell><cell>Median</cell><cell>73</cell></row><row><cell></cell><cell>Range</cell><cell>47-85</cell></row><row><cell>Performance status</cell><cell>0/1/2</cell><cell>17/18/2</cell></row><row><cell>Tumor site</cell><cell>Upper lobe</cell><cell>23</cell></row><row><cell></cell><cell>Middle lobe</cell><cell>2</cell></row><row><cell></cell><cell>Lower lobe</cell><cell>12</cell></row><row><cell>Tumor classification</cell><cell>T1a/T1b/T2</cell><cell>12/12/13</cell></row><row><cell>Histology</cell><cell>Adenocarcinoma</cell><cell>24</cell></row><row><cell></cell><cell>Squamous cell</cell><cell>13</cell></row><row><cell></cell><cell>carcinoma</cell><cell></cell></row><row><cell>Operability</cell><cell>Yes/No</cell><cell>28/9</cell></row><row><cell>Smoking</cell><cell>Yes/No</cell><cell>20/17</cell></row><row><cell>Planning target volume</cell><cell>Median</cell><cell>56.9</cell></row><row><cell>(mL)</cell><cell>Range</cell><cell>18.1-119.2</cell></row></table><note>T A B L E 1</note></figure>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>ACKNOWLEDGMENTS</head><p>This study was planned by the Working Group of the Lung Tumor of Gunma University Heavy Ion Medical Center, and all authors were the members of the working group. No specific grant from funding agencies in the public, commercial, or not-for-profit sectors were received for this research. This study was supported by the Research Project of Gunma University Heavy Ion Medical Center. The authors are grateful to Enago (www.enago.jp) for reviewing the English language.</p></div>
+			</div>
+
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>CONFLICT OF INTEREST</head><p>The authors declare that they have no competing interest.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>ORCID</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Jun-ichi Saitoh</head><p>https://orcid.org/0000-0001-7863-6023</p><p>Takanori Abe https://orcid.org/0000-0001-6209-9446</p></div>			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Randomized trial of lobectomy versus limited resection for T1 N0 non-small cell lung cancer</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><forename type="middle">J</forename><surname>Ginsberg</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">L</forename><forename type="middle">V</forename><surname>Rubinstein</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ann Thorac Surg</title>
+		<imprint>
+			<biblScope unit="volume">60</biblScope>
+			<biblScope unit="page" from="615" to="622" />
+			<date type="published" when="1995" />
+		</imprint>
+	</monogr>
+	<note>Lung Cancer Study Group</note>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Prospective trial of stereotactic body radiation therapy for both operable and inoperable T1N0M0 non-small cell lung cancer: Japan Clinical Oncology Group Study JCOG0403</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Y</forename><surname>Nagata</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Hiraoka</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Shibata</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Int J Radiat Oncol Biol Phys</title>
+		<imprint>
+			<biblScope unit="volume">93</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page" from="989" to="996" />
+			<date type="published" when="2015" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Biophysical characteristics of HIMAC clinical irradiation system for heavy ion radiation therapy</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Kanai</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Endo</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Minohara</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Int J Radiat Oncol Biol Phys</title>
+		<imprint>
+			<biblScope unit="volume">44</biblScope>
+			<biblScope unit="page" from="201" to="210" />
+			<date type="published" when="1999" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Particle radiation therapy using proton and heavier ion beams</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><surname>Schulz-Ertner</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><surname>Tsujii</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Clin Oncol</title>
+		<imprint>
+			<biblScope unit="volume">25</biblScope>
+			<biblScope unit="page" from="953" to="964" />
+			<date type="published" when="2007" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Carbon ion radiotherapy for stage I non-small cell lung cancer using a regimen of four fractions during 1 week</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Miyamoto</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Baba</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Sugane</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Thorac Oncol</title>
+		<imprint>
+			<biblScope unit="volume">2</biblScope>
+			<biblScope unit="page" from="916" to="926" />
+			<date type="published" when="2007" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Dosimetric analysis between carbon ion radiotherapy and stereotactic body radiotherapy in stage I lung cancer</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Ebara</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><surname>Shimada</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><surname>Kawamura</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Anticancer Res</title>
+		<imprint>
+			<biblScope unit="volume">34</biblScope>
+			<biblScope unit="page" from="5099" to="5104" />
+			<date type="published" when="2014" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">New guidelines to evaluate the response to treatment in solid tumors</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><surname>Therasse</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><forename type="middle">G</forename><surname>Arbuck</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><forename type="middle">A</forename><surname>Eisenhauer</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Natl Cancer Inst</title>
+		<imprint>
+			<biblScope unit="volume">92</biblScope>
+			<biblScope unit="page" from="205" to="216" />
+			<date type="published" when="2000" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Verification of dose distribution in carbon ion radiation therapy for stage I lung cancer</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><surname>Irie</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J-I</forename><surname>Saitoh</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><surname>Shirai</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Int J Radiat Oncol Biol Phys</title>
+		<imprint>
+			<biblScope unit="volume">96</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page" from="1117" to="1123" />
+			<date type="published" when="2016" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Potential pitfalls of a fiducial marker-matching technique in carbon-ion radiotherapy for lung cancer</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Shiba</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">I</forename><surname>Saitoh</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><surname>Irie</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Anticancer Res</title>
+		<imprint>
+			<biblScope unit="volume">37</biblScope>
+			<biblScope unit="issue">10</biblScope>
+			<biblScope unit="page" from="5673" to="5680" />
+			<date type="published" when="2017" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Robustness of patient positioning for interfractional error in carbon ion radiotherapy for stage I lung cancer: bone matching versus tumor matching</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Sakai</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Y</forename><surname>Kubota</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J-I</forename><surname>Saitoh</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Radiother Oncol</title>
+		<imprint>
+			<biblScope unit="volume">129</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="95" to="100" />
+			<date type="published" when="2018" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Technical note: predicting dose distribution with replacing stopping power ratio for inter-fractional motion and intra-fractional motion during carbon ion radiotherapy with passive irradiation method for stage I lung cancer</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Y</forename><surname>Kubota</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Sakai</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Tashiro</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Med Phys</title>
+		<imprint>
+			<biblScope unit="volume">45</biblScope>
+			<biblScope unit="issue">7</biblScope>
+			<biblScope unit="page" from="3435" to="3441" />
+			<date type="published" when="2018" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">A dose escalation clinical trial of single-fraction carbon ion radiotherapy for peripheral stage I non-small cell lung cancer</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">N</forename><surname>Yamamoto</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Miyamoto</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Nakajima</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Thorac Oncol</title>
+		<imprint>
+			<biblScope unit="volume">12</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="673" to="680" />
+			<date type="published" when="2017" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Accelerated hypofractionated radiotherapy versus stereotactic body radiotherapy for the treatment of stage I nonsmall cell lung cancer-a single institution experience with long-term follow-up</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><surname>Karasawa</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Hayakawa</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Y</forename><surname>Machitori</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Technol Cancer Res Treat</title>
+		<imprint>
+			<biblScope unit="volume">17</biblScope>
+			<biblScope unit="page">1533033818806318</biblScope>
+			<date type="published" when="2018" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Stereotactic body radiotherapy using a radiobiology-based regimen for stage I nonsmall-cell lung cancer: five-year mature results</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Y</forename><surname>Shibamoto</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><surname>Hashizume</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">F</forename><surname>Baba</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Thorac Oncol</title>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page" from="960" to="964" />
+			<date type="published" when="2015" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">Stereotactic body radiotherapy (SBRT) for operable stage I non-small-cell lung cancer: can SBRT be comparable to surgery?</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><surname>Onishi</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><surname>Shirato</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Y</forename><surname>Nagata</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Int J Radiat Oncol Biol Phys</title>
+		<imprint>
+			<biblScope unit="volume">81</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page" from="1352" to="1358" />
+			<date type="published" when="2011" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Safety and efficacy of stereotactic body radiotherapy for stage 1 non-small-cell lung cancer in routine clinical practice: a patterns-of-care and outcome analysis</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Guckenberger</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Allgäuer</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Appold</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Thorac Oncol</title>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="page" from="1050" to="1058" />
+			<date type="published" when="2013" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Phase I study of stereotactic body radiation therapy for peripheral T2N0M0 nonsmall cell lung cancer with PTV&lt;100 cc using a continual reassessment method (JCOG0702)</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><surname>Onimaru</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><surname>Shirato</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Shibata</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Radiother Oncol</title>
+		<imprint>
+			<biblScope unit="volume">116</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="276" to="280" />
+			<date type="published" when="2015" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Phase I study of stereotactic body radiation therapy for peripheral T2N0M0 non-small cell lung cancer (JCOG0702): results for the group with PTV⩾100cc</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><surname>Onimaru</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><surname>Onishi</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Shibata</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Radiother Oncol</title>
+		<imprint>
+			<biblScope unit="volume">122</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="281" to="285" />
+			<date type="published" when="2017" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">Stereotactic radiotherapy of histologically proven inoperable stage I nonsmall cell lung cancer: patterns of failure</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">N</forename><surname>Andratschke</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">F</forename><surname>Zimmermann</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><surname>Boehm</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Radiother Oncol</title>
+		<imprint>
+			<biblScope unit="volume">101</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="245" to="249" />
+			<date type="published" when="2011" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">Stereotactic body radiation therapy for early-stage non-small-cell lung carcinoma: four-year results of a prospective phase II study</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><forename type="middle">J</forename><surname>Fakiris</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><forename type="middle">C</forename><surname>Mcgarry</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><forename type="middle">T</forename><surname>Yiannoutsos</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Int J Radiat Oncol Biol Phys</title>
+		<imprint>
+			<biblScope unit="volume">75</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="677" to="682" />
+			<date type="published" when="2009" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">Outcome in a prospective phase II trial of medically inoperable stage I non-small-cell lung cancer patients treated with stereotactic body radiotherapy</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><surname>Baumann</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Nyman</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Hoyer</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Clin Oncol</title>
+		<imprint>
+			<biblScope unit="volume">27</biblScope>
+			<biblScope unit="issue">20</biblScope>
+			<biblScope unit="page" from="3290" to="3296" />
+			<date type="published" when="2009" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">Which is the optimal biologically effective dose of stereotactic body radiotherapy for stage I nonsmall-cell lung cancer? A meta-analysis</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Zhang</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">F</forename><surname>Yang</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">B</forename><surname>Li</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Int J Radiat Oncol Biol Phys</title>
+		<imprint>
+			<biblScope unit="volume">81</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="305" to="316" />
+			<date type="published" when="2011" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">Is salvage surgery for patients with lung cancer after carbon ion radiotherapy easy or difficult?</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Y</forename><surname>Ohtaki</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><surname>Shimizu</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J-I</forename><surname>Saitoh</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Interact Cardiovasc Thorac Surg</title>
+		<imprint>
+			<biblScope unit="volume">28</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page" from="953" to="956" />
+			<date type="published" when="2019" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title level="a" type="main">Stereotactic body radiation therapy for inoperable early stage lung cancer</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><surname>Timmerman</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><surname>Paulus</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Galvin</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">JAMA</title>
+		<imprint>
+			<biblScope unit="volume">303</biblScope>
+			<biblScope unit="issue">11</biblScope>
+			<biblScope unit="page" from="1070" to="1076" />
+			<date type="published" when="2010" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title level="a" type="main">Influence of smoking status on treatment outcomes after post-operative radiation therapy for non-small-cell lung cancer</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Nguyen</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">L</forename><surname>Masson-Côté</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Fortin</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Dagnault</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Radiother Oncol</title>
+		<imprint>
+			<biblScope unit="volume">96</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="89" to="93" />
+			<date type="published" when="2010" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title level="a" type="main">Prognostic factors in patients with T1 glottic cancer treated with radiotherapy</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Mucha-Małecka</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Chrostowska</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><surname>Urbanek</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><surname>Małecki</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Strahlenther Onkol</title>
+		<imprint>
+			<biblScope unit="volume">195</biblScope>
+			<biblScope unit="issue">9</biblScope>
+			<biblScope unit="page" from="792" to="804" />
+			<date type="published" when="2019" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

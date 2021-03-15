@@ -1,0 +1,1363 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /data/rsg/nlp/juanmoo1/bin/grobid-0.6.1/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">PF-06439535 (a Bevacizumab Biosimilar) Compared with Reference Bevacizumab (Avastin®), Both Plus Paclitaxel and Carboplatin, as First-Line Treatment for Advanced Non-Squamous Non-Small-Cell Lung Cancer: A Randomized, Double-Blind Study</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+				<date type="published" when="2019-07-23">23 July 2019</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author role="corresp">
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Niels</forename><surname>Reinmuth</surname></persName>
+							<email>n.reinmuth@asklepios.com</email>
+							<idno type="ORCID">0000-0002-7369-4512</idno>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Thoracic Oncology</orgName>
+								<orgName type="institution">Asklepios Lung Clinic Munich-Gauting</orgName>
+								<address>
+									<addrLine>Robert-Koch-Allee 2</addrLine>
+									<postCode>82131</postCode>
+									<settlement>Gauting</settlement>
+									<country key="DE">Germany</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Thoracic Oncology</orgName>
+								<orgName type="institution">Asklepios Lung Clinic Munich-Gauting</orgName>
+								<address>
+									<addrLine>Robert-Koch-Allee 2</addrLine>
+									<postCode>82131</postCode>
+									<settlement>Gauting</settlement>
+									<country key="DE">Germany</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">•</forename><surname>Maciej Bryl</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="department">Oncology Department, E.J. Zeyland Wielkopolska Center of Pulmonology and Thoracic Surgery</orgName>
+								<address>
+									<settlement>Poznan</settlement>
+									<country key="PL">Poland</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="department">Oncology Department, E.J. Zeyland Wielkopolska Center of Pulmonology and Thoracic Surgery</orgName>
+								<address>
+									<settlement>Poznan</settlement>
+									<country key="PL">Poland</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">•</forename><forename type="middle">Igor</forename><surname>Bondarenko</surname></persName>
+							<affiliation key="aff2">
+								<orgName type="department" key="dep1">Oncology and Medical Radiology Department</orgName>
+								<orgName type="department" key="dep2">Dnipropetrovsk Medical Academy</orgName>
+								<address>
+									<settlement>Dnipro</settlement>
+									<country key="UA">Ukraine</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff2">
+								<orgName type="department" key="dep1">Oncology and Medical Radiology Department</orgName>
+								<orgName type="department" key="dep2">Dnipropetrovsk Medical Academy</orgName>
+								<address>
+									<settlement>Dnipro</settlement>
+									<country key="UA">Ukraine</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Kostas</forename><surname>Syrigos</surname></persName>
+							<affiliation key="aff3">
+								<orgName type="department">3rd Department of Medicine</orgName>
+								<orgName type="institution" key="instit1">National and Kapodistrian University of Athens</orgName>
+								<orgName type="institution" key="instit2">Sotiria General Hospital</orgName>
+								<address>
+									<settlement>Athens</settlement>
+									<country key="GR">Greece</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff3">
+								<orgName type="department">3rd Department of Medicine</orgName>
+								<orgName type="institution" key="instit1">National and Kapodistrian University of Athens</orgName>
+								<orgName type="institution" key="instit2">Sotiria General Hospital</orgName>
+								<address>
+									<settlement>Athens</settlement>
+									<country key="GR">Greece</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Vladimir</forename><surname>Vladimirov</surname></persName>
+							<affiliation key="aff4">
+								<orgName type="department" key="dep1">Outpatient Department</orgName>
+								<orgName type="department" key="dep2">Pyatigorsk Oncology Dispensary</orgName>
+								<orgName type="institution">Stavropol Region</orgName>
+								<address>
+									<settlement>Pyatigorsk</settlement>
+									<country key="RU">Russian Federation</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff4">
+								<orgName type="department" key="dep1">Outpatient Department</orgName>
+								<orgName type="department" key="dep2">Pyatigorsk Oncology Dispensary</orgName>
+								<orgName type="institution">Stavropol Region</orgName>
+								<address>
+									<settlement>Pyatigorsk</settlement>
+									<country key="RU">Russian Federation</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Manuela</forename><surname>Zereu</surname></persName>
+							<affiliation key="aff5">
+								<orgName type="department">Nucleo de Oncologia</orgName>
+								<orgName type="institution">Santa Casa Hospital</orgName>
+								<address>
+									<settlement>Porto Alegre, Rio Grande Do Sul</settlement>
+									<country key="BR">Brazil</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff5">
+								<orgName type="department">Nucleo de Oncologia</orgName>
+								<orgName type="institution">Santa Casa Hospital</orgName>
+								<address>
+									<settlement>Porto Alegre, Rio Grande Do Sul</settlement>
+									<country key="BR">Brazil</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Angel</forename><forename type="middle">H</forename><surname>Bair</surname></persName>
+							<affiliation key="aff6">
+								<address>
+									<settlement>Pfizer, Groton</settlement>
+									<region>Connecticut</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff6">
+								<address>
+									<settlement>Pfizer, Groton</settlement>
+									<region>Connecticut</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Fiona</forename><surname>Hilton</surname></persName>
+							<affiliation key="aff6">
+								<address>
+									<settlement>Pfizer, Groton</settlement>
+									<region>Connecticut</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff6">
+								<address>
+									<settlement>Pfizer, Groton</settlement>
+									<region>Connecticut</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Katherine</forename><surname>Liau</surname></persName>
+							<affiliation key="aff6">
+								<address>
+									<settlement>Pfizer, Groton</settlement>
+									<region>Connecticut</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff6">
+								<address>
+									<settlement>Pfizer, Groton</settlement>
+									<region>Connecticut</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Kazuo</forename><surname>Kasahara</surname></persName>
+							<affiliation key="aff7">
+								<orgName type="department">Respiratory Medicine</orgName>
+								<orgName type="institution">Kanazawa University Hospital</orgName>
+								<address>
+									<settlement>Ishikawa</settlement>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff7">
+								<orgName type="department">Respiratory Medicine</orgName>
+								<orgName type="institution">Kanazawa University Hospital</orgName>
+								<address>
+									<settlement>Ishikawa</settlement>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">PF-06439535 (a Bevacizumab Biosimilar) Compared with Reference Bevacizumab (Avastin®), Both Plus Paclitaxel and Carboplatin, as First-Line Treatment for Advanced Non-Squamous Non-Small-Cell Lung Cancer: A Randomized, Double-Blind Study</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date type="published" when="2019-07-23">23 July 2019</date>
+						</imprint>
+					</monogr>
+					<idno type="DOI">10.1007/s40259-019-00363-4</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.6.1" ident="GROBID" when="2020-10-09T18:38+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<abstract>
+				<p>Background PF-06439535 is a bevacizumab biosimilar. We aimed to compare the efficacy and safety of PF-06439535 with that of reference bevacizumab (Avastin ®) sourced from the EU (bevacizumab-EU), each with paclitaxel and carboplatin, in the first-line treatment of advanced non-squamous non-small-cell lung cancer (NSCLC). Methods In this double-blind, parallel-group study, we recruited patients from 159 centers in 27 countries. Participants were randomized 1:1 to receive PF-06439535 plus paclitaxel and carboplatin or bevacizumab-EU plus paclitaxel and carboplatin on day 1 of each 21-day cycle for 4-6 cycles, followed by blinded monotherapy with PF-06439535 or bevacizumab-EU until disease progression, unacceptable toxicity, withdrawal of consent, or the end of the study. Randomization was stratified by region, sex, and smoking history. The primary endpoint was objective response rate (ORR) in accordance with RECIST 1.1, based on responses achieved by week 19 and confirmed by week 25. Results Between 21 May 2015 and 14 November 2016, 719 patients were randomized to the PF-06439535 group (n = 358) or the bevacizumab-EU group (n = 361). As of data cutoff for analysis of the primary endpoint (8 May 2017), 45.3% (95% confidence interval [CI] 40.01-50.57) of patients in the PF-06439535 group and 44.6% (95% CI 39.40-49.89) of patients in the bevacizumab-EU group achieved an objective response by week 19 that was confirmed by week 25. The unstratified ORR risk ratio was 1.015 (95% CI 0.863-1.193; 90% CI 0.886-1.163), and the unstratified ORR risk difference was 0.653% (95% CI − 6.608 to 7.908); all three CIs fell within pre-specified equivalence margins. Using final data after study completion (22 December 2017), no notable differences in progression-free survival or overall survival were observed between the groups. The most frequently reported grade 3 or higher treatment-emergent adverse events were hypertension, neutropenia, and anemia. There were no clinically meaningful differences in safety, pharmacokinetics, or immunogenicity across treatment groups. Conclusion Among patients with advanced non-squamous NSCLC, PF-06439535 demonstrated similarity to bevacizumab-EU in terms of efficacy. Safety profiles for the two treatments were comparable. Trial Registration ClinicalTrials.gov, NCT02364999. Funding Pfizer.</p>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="1">Introduction</head><p>Vascular endothelial growth factor (VEGF) is a key regulator of tumor angiogenesis <ref type="bibr" target="#b0">[1]</ref>. Elevated expression of VEGF is observed in many cancers and has been associated with poorer prognosis, including an increased likelihood of cancer recurrence, tumor metastasis, and death <ref type="bibr" target="#b1">[2]</ref><ref type="bibr" target="#b2">[3]</ref><ref type="bibr" target="#b3">[4]</ref>. Bevacizumab (Avastin ® ) is a recombinant humanized monoclonal antibody that binds to and inhibits the biological activity of VEGF by interrupting its interaction with endothelial cellsurface receptors <ref type="bibr" target="#b4">[5,</ref><ref type="bibr" target="#b5">6]</ref>.</p><p>Bevacizumab was licensed by the US Food and Drug Administration (FDA) in 2004 for the first-line treatment of metastatic colorectal cancer in combination with chemotherapy <ref type="bibr" target="#b4">[5]</ref>. Authorization in the European Union (EU) followed in 2005 <ref type="bibr" target="#b5">[6]</ref>. Since that time, bevacizumab has Key Points the EU (bevacizumab-EU) and the US (bevacizumab-US), and that it exhibits functional similarity to these reference products <ref type="bibr" target="#b20">[20]</ref>. Nonclinical in vivo studies have provided evidence of similarity between PF-06439535 and bevacizumab-EU in toxicity, toxicokinetics, and immunogenicity <ref type="bibr" target="#b20">[20]</ref>. Furthermore, a comparative, single-dose study in healthy male volunteers demonstrated the pharmacokinetic (PK) similarity of PF-06439535, bevacizumab-EU, and bevacizumab-US, with no marked differences observed in safety or immunogenicity <ref type="bibr" target="#b21">[21]</ref>. We conducted the current study (B7391003) to compare the efficacy and safety of PF-06439535 plus paclitaxel and carboplatin with that of bevacizumab-EU plus paclitaxel and carboplatin in the first-line treatment of advanced non-squamous NSCLC. Our primary objective was to assess whether PF-06439535 demonstrated similarity to bevacizumab-EU, based on the confirmed objective response rate (ORR) in each treatment group.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2">Methods</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.1">Study Design and Patients</head><p>This was a multinational, double-blind, randomized, parallel-group study registered at ClinicalTrials.gov (NCT02364999) and EudraCT (2014-003878-16). Patients were randomized at 159 centers in 27 countries (see Electronic Supplementary Material [ESM], <ref type="table" target="#tab_0">Table S1</ref>). Adult patients were eligible for inclusion if they had histologically or cytologically confirmed, predominantly non-squamous, newly diagnosed Stage IIIB or IV NSCLC (according to lung cancer staging criteria of 2010 <ref type="bibr" target="#b22">[22,</ref><ref type="bibr" target="#b23">23]</ref>) or recurrent NSCLC. For patients with recurrent disease, at least 6 months must have elapsed since completing adjuvant or neoadjuvant treatment. Additionally, patients had at least one measurable lesion per Response Evaluation Criteria in Solid Tumors version 1.1 (RECIST 1.1) <ref type="bibr" target="#b24">[24]</ref>, an Eastern Cooperative Oncology Group (ECOG) performance status of 0 or 1, and were eligible to receive study treatment of bevacizumab, paclitaxel, and carboplatin based on the local standard of care for the treatment of advanced or metastatic nonsquamous NSCLC. Key exclusion criteria included known central nervous system metastases (treated and stable brain metastases were allowed); known sensitizing EGFR mutations or EML4-ALK translocations (patients with unknown status were permitted to enroll); prior systemic therapy for NSCLC (prior neoadjuvant or adjuvant therapy was allowed if surgical resection for primary disease was performed); and prior treatment with immunotherapy or bevacizumab. Full eligibility criteria can be found in the ESM.</p><p>The original protocol (dated 4 November 2014) was amended three times; details of the changes can be found in This comparative clinical study was designed to demonstrate that there are no clinically meaningful differences in the efficacy and safety profile of PF-06439535 (a bevacizumab biosimilar) as compared with reference bevacizumab (Avastin ® ) sourced from the EU (bevacizumab-EU) in a patient population for which reference bevacizumab is indicated.</p><p>When PF-06439535 or bevacizumab-EU was combined with paclitaxel and carboplatin in the first-line treatment of advanced non-squamous non-small-cell lung cancer, we identified no notable differences between the two treatment groups with respect to efficacy, safety, pharmacokinetics, or immunogenicity.</p><p>The results confirm the similarity demonstrated in earlier analytical, nonclinical, and clinical studies of PF-06439535 and reference bevacizumab.</p><p>been approved for the treatment of several additional cancers, including non-squamous non-small-cell lung cancer (NSCLC), recurrent glioblastoma, metastatic renal cell carcinoma, cervical cancer, and ovarian cancer <ref type="bibr" target="#b4">[5,</ref><ref type="bibr" target="#b5">6]</ref>. Across tumor types, randomized controlled trials have demonstrated that bevacizumab plus chemotherapy is associated with benefits such as improved overall survival (OS) and progressionfree survival (PFS) relative to chemotherapy alone <ref type="bibr" target="#b6">[7]</ref><ref type="bibr" target="#b7">[8]</ref><ref type="bibr" target="#b8">[9]</ref>, and bevacizumab continues to have a prominent position in cancer treatment algorithms <ref type="bibr" target="#b9">[10,</ref><ref type="bibr" target="#b10">11]</ref>. Despite such benefits, however, patient access to bevacizumab may be limited, owing to factors such as lack of reimbursement and high out-of-pocket costs <ref type="bibr" target="#b12">[12]</ref>.</p><p>Biosimilars are biological products that are highly similar to a licensed reference biologic, with no clinically meaningful differences in quality characteristics, biological activity, safety, or efficacy <ref type="bibr" target="#b13">[13]</ref><ref type="bibr" target="#b14">[14]</ref><ref type="bibr" target="#b15">[15]</ref>. The introduction of biosimilars has been associated with cost savings <ref type="bibr" target="#b16">[16]</ref>, and the American Society of Clinical Oncology and the European Society for Medical Oncology have highlighted the importance of biosimilars in enhancing patient access to anticancer therapies and supporting the sustainability of cancer care <ref type="bibr" target="#b17">[17,</ref><ref type="bibr" target="#b18">18]</ref>. Biosimilars are developed in a stepwise process of head-tohead comparison with the reference product in analytical, nonclinical, and clinical studies, with biosimilarity determined based on the totality of evidence <ref type="bibr" target="#b13">[13]</ref><ref type="bibr" target="#b14">[14]</ref><ref type="bibr" target="#b15">[15]</ref>.</p><p>PF-06439535 (Zirabev™) is a bevacizumab biosimilar <ref type="bibr" target="#b19">[19]</ref>. Comprehensive comparative analytical studies have established that PF-06439535 has an identical amino acid sequence to reference bevacizumab (Avastin ® ) sourced from the final version of the protocol (dated 10 June 2016), which is available at ClinicalTrials.gov.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.2">Randomization and Blinding</head><p>Patients were enrolled by study investigators and randomized in a 1:1 ratio to receive either PF-06439535 plus paclitaxel and carboplatin or bevacizumab-EU plus paclitaxel and carboplatin for 4-6 cycles, followed by blinded monotherapy with PF-06439535 or bevacizumab-EU as previously assigned (ESM, <ref type="figure">Fig. S1</ref>). The randomization schedule was computer-generated by the sponsor and included the stratification variables of region (location of the drug depot supplying the site), sex (male/female), and smoking history (never/ever). The schedule was concealed from the sponsor's personnel directly involved in study conduct and was implemented by the study sites using an interactive web response system. Treatment assignments were blinded to patients, investigators, and the sponsor's study team. Limited members of the sponsor's study team were unblinded at the time of the primary efficacy analysis. Site personnel and patients remained blinded until the completion of the study. PF-06439535 and bevacizumab-EU were provided by the sponsor as blinded supplies in which the external packaging for each vial appeared identical and was identified with a unique container number. Paclitaxel and carboplatin were branded products or generic equivalents available in the local region. Use of nab-paclitaxel in place of paclitaxel was not permitted.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.3">Treatments</head><p>On treatment days when PF-06439535 or bevacizumab-EU was administered in combination with chemotherapy, the order of administration was paclitaxel, carboplatin, and PF-06439535 or bevacizumab-EU. Treatments were administered by intravenous infusion on day 1 of each 21-day cycle. Paclitaxel was administered at an initial dose of 200 mg/m 2 , carboplatin at an initial dose targeting an area under the concentration versus time curve of 6.0 mg/ mL•min, and PF-06439535 or bevacizumab-EU at an initial dose of 15 mg/kg. Paclitaxel and carboplatin dose reductions were allowed for toxicity. No dose reductions were planned for PF-06439535 or bevacizumab-EU, but if deemed necessary the investigator could decrease the dose to 7.5 mg/kg after discussion with the sponsor. Patients were pre-medicated before paclitaxel administration in order to prevent severe hypersensitivity reaction.</p><p>After chemotherapy had been discontinued, PF-06439535 or bevacizumab-EU monotherapy could be administered until disease progression (defined per RECIST 1.1), unacceptable toxicity, discretion of the investigator, death, withdrawal of consent, or the end of the study, whichever came first. The dose and regimen for PF-06439535 and bevacizumab-EU were chosen to be consistent with the product labeling of bevacizumab-EU. The chemotherapy given and the regimens used were considered standard of care.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.4">Endpoints and Assessments</head><p>The primary endpoint was ORR, defined as the percentage of patients within each treatment group who achieved a best overall response (BOR) of complete response (CR) or partial response (PR) by week 19 in accordance with RECIST 1.1, which was subsequently confirmed on a follow-up tumor assessment by week 25. BOR was derived by the sponsor based on tumor measurements reported by the investigator. This endpoint was considered sufficiently sensitive to detect differences in efficacy between PF-06439535 and bevacizumab-EU. The choice of primary endpoint and the use of investigator-reported tumor measurements were agreed with regulatory authorities.</p><p>Secondary efficacy endpoints were duration of response (DOR), 1-year PFS rate, and 1-year OS rate from randomization. DOR was calculated only for the subgroup of patients with an objective response achieved by week 19 and confirmed by week 25. Additional secondary endpoints included safety, peak and trough PF-06439535 and bevacizumab-EU concentrations at selected cycles up to 1 year from randomization, and incidence of anti-drug antibodies (ADAs; including neutralizing antibodies [NAbs]) up to 1 year from randomization.</p><p>Tumor assessments included computed tomography (CT) or magnetic resonance imaging (MRI) scans of the head, chest, abdomen (including adrenals), and other disease sites such as the pelvis if clinically indicated. CT scans were performed with contrast media unless contraindicated for medical reasons. MRI was only used when considered more appropriate than CT or when there was a contraindication for use of CT with contrast. For a given patient, the same method of tumor assessment was used throughout the trial. CT or MRI assessments were performed every 6 weeks (± 7 days) until week 25 (based on date of randomization). After week 25, assessments were performed every 9 weeks (± 7 days) until 1 year from randomization. Responses were required to be confirmed by a second set of scans obtained 6 weeks (± 7 days) later in accordance with RECIST 1.1. Additionally, brain scans were performed as clinically indicated and at the time of a confirmatory scan for CR/PR. Patients who continued to receive study treatment after 1 year had tumor assessments performed according to local standard of care.</p><p>Blood samples for assessment of immunogenicity were collected pre-dose at specified study cycles and analyzed for the presence or absence of ADAs (anti-bevacizumab or anti-PF-06439535 antibodies). A single, sensitive, specific, and semi-quantitative electrochemiluminescent immunoassay was used. The ADA assay had been validated and used biotinylated and ruthenium-labeled PF-06439535 as reagents. Analysis of ADA samples followed a tiered approach of screening, confirmation, and titer determination. Only those samples confirmed positive for ADAs were further tested for NAbs. The NAb analysis was conducted using a single, validated, quasi-quantitative enzyme-linked immunosorbent assay (ELISA) that utilized PF-06439535 as a reagent. Analysis of NAb samples followed a tiered approach of screening and titer determination.</p><p>Drug concentrations of PF-06439535 and bevacizumab-EU were determined using serum samples collected at prespecified time points. Samples were collected pre-dose; in addition, post-dose samples were collected 1 h (± 0.5 h) after the end of infusion on cycle 1, day 1 and cycle 5, day 1. Concentrations were determined using a validated, sensitive, and specific ELISA. Immunogenicity and PK analyses were carried out at QPS, LLC (Newark, DE, USA).</p><p>Safety was characterized by the type, incidence, severity, timing, seriousness, and relationship to study therapy of adverse events (AEs), including cardiotoxicity and infusion-related reactions, and laboratory abnormalities. Other safety evaluations included physical examinations, vital signs, and 12-lead electrocardiogram monitoring. The investigator obtained and recorded all observed or volunteered AEs, the severity of the events (based on Common Terminology Criteria for Adverse Events version 4.03), and his or her opinion of the relationship to study treatment. Treatment-emergent AEs (TEAEs) were those that occurred after the beginning of study treatment, or any pre-existing AE that worsened after the beginning of study treatment. AEs of special interest were arterial thromboembolic events, bleeding/hemorrhage (including pulmonary hemorrhage), cardiac disorders, congestive heart failure, hypertension (only grade 3 or higher), proteinuria or nephrotic syndrome, venous thromboembolic events, gastrointestinal perforations, and wound-healing complications.</p><p>After discontinuation from treatment, survival status was collected by telephone contact every 2 months (± 14 days) until death or 1 year from patient randomization. The study was considered complete when the last available patient completed up to 1 year from randomization plus a 28-day follow-up period.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.5">Statistical Analyses</head><p>The primary efficacy analysis for the primary endpoint was based on the Miettinen and Nurminen method <ref type="bibr" target="#b25">[25]</ref> without stratification variables and was carried out in the intent-totreat (ITT) population, defined as all patients who were randomized to study treatment. The estimated ORR risk ratio and ORR risk difference between the PF-06439535 and bevacizumab-EU groups were computed, along with asymptotic two-sided 95% and 90% confidence intervals (CIs). Equivalence was determined based on the following criteria agreed with regulatory authorities. For the FDA, equivalence was considered established if the 90% CI of the ORR risk ratio fell within the margin of 0.73-1.37. For Japan's Pharmaceuticals and Medical Devices Agency (PMDA), equivalence was considered established if the 95% CI of the ORR risk ratio fell within the margin of 0.729-1.371. Finally, for the European Medicines Agency (EMA), equivalence was considered established if the 95% CI of the ORR risk difference fell within the margin of − 13% to 13%.</p><p>The equivalence margins above were derived based on meta-analysis of three randomized studies of reference bevacizumab plus paclitaxel and carboplatin versus paclitaxel and carboplatin alone in patients with NSCLC <ref type="bibr" target="#b7">[8,</ref><ref type="bibr" target="#b26">26,</ref><ref type="bibr" target="#b27">27]</ref>. The ORR for reference bevacizumab plus chemotherapy was estimated to be approximately 40%, and the ORR for chemotherapy alone was estimated to be 21%. The ORR risk ratio for bevacizumab plus chemotherapy versus chemotherapy alone was 2.17 (95% CI 1.74-2.70). The margin of 0.73-1.37 in the current study maintained 43% of the effect size estimated from the historical ORR data using a log scale, and approximately 50% using a linear scale. Assuming an ORR of 38% in both treatment arms, a sample of 656 patients (328 per treatment arm) would provide approximately 85% power for achieving equivalence according to the FDA criteria above. Considering a possible ~ 7.5% attrition rate for patients reaching evaluation for ORR, a total sample of approximately 710 patients (355 per treatment arm) was to be randomized. Using the EMA and PMDA equivalence criteria, and again assuming an ORR of 38%, the planned sample size would provide power of approximately 86% and 74%, respectively.</p><p>As a sensitivity analysis, the Miettinen and Nurminen method <ref type="bibr" target="#b25">[25]</ref> was also conducted without stratification variables using the per-protocol (PP) population, defined as all patients who were randomized and received PF-06439535 or bevacizumab-EU as planned and had no major protocol deviations. The list of patients not included in the PP population and the reasons for exclusion were determined prior to unblinding for the primary efficacy analysis. As secondary analyses in both the ITT and PP populations, the Miettinen and Nurminen method <ref type="bibr" target="#b25">[25]</ref> was repeated with additional stratification variables (region, sex, and smoking history) to assess whether these would affect the ORR risk ratio or risk difference.</p><p>Time-to-event endpoints were assessed using the Kaplan-Meier method. A Cox proportional hazard model was used to estimate hazard ratios (HRs); the model included treatment and the covariates of region, sex, and smoking history. The two treatment groups were compared using a 2-sided log-rank test stratified by region, sex, and smoking history.</p><p>For the ORR endpoint, if a patient had a missing tumor outcome across all visits or had non-evaluable BOR per RECIST 1.1, he or she was considered a non-responder and was included in the denominator, but not the numerator. For the time-to-event endpoints, missing data were censored.</p><p>The safety population, defined as all patients who were randomized and received at least one dose of study treatment, was used for safety and immunogenicity analyses. AEs were summarized by body system and preferred term according to the Medical Dictionary for Regulatory Activities (version 20.1) classification system. The percentage of patients with positive ADA and NAb results was summarized for each treatment and each visit. Patients in the PP population who had at least one drug concentration measurement post-administration of treatment were included in the PK analysis. The drug concentration-time data were summarized by descriptive statistics according to treatment.</p><p>The primary efficacy analysis for statistical equivalence was performed when all patients had completed the week 25 visit to support the primary endpoint analysis or had discontinued from the disease evaluation period earlier. All other analyses presented herein are based on final data after study completion. All statistical analyses were conducted as specified in the statistical analysis plan, which can be accessed at ClinicalTrials.gov.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3">Results</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.1">Patient Baseline Characteristics and Disposition</head><p>Patients were randomized between 21 May 2015 and 14 November 2016. The data cutoff date for analysis of the primary efficacy endpoint was 8 May 2017. The last patient visit was on 22 December 2017, with final database release on 16 January 2018.</p><p>In total, 719 patients were assigned to PF-06439535 plus paclitaxel and carboplatin (PF-06439535 group; 358 patients) or bevacizumab-EU plus paclitaxel and carboplatin (bevacizumab-EU group; 361 patients) and comprised the ITT population ( <ref type="figure">Fig. 1</ref>). Of these, 714 patients received at least one dose of study drug or chemotherapy and were included in the safety population (356 patients in the PF-06439535 group and 358 patients in the bevacizumab-EU group).</p><p>Overall, the disposition of patients between treatment groups was comparable. Among the 714 patients in the safety population, the primary reason for discontinuation of PF-06439535 or bevacizumab-EU was objective disease progression or relapse (176 [49.4%] patients in the PF-06439535 group and 207 [57.8%] patients in the bevacizumab-EU group) (ESM, <ref type="table" target="#tab_4">Table S2</ref>). Including the survival follow-up period, the most frequent reason for discontinuation from the study was death (136 <ref type="bibr">[38.</ref>2%] patients in the PF-06439535 group and 138 <ref type="bibr">[38.</ref>5%] patients in the bevacizumab-EU group).</p><p>Demographic and baseline characteristics of the ITT population were similar between the treatment groups ( </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.2">Treatment Exposure</head><p>As of study completion (22 December 2017), the extent of exposure was similar between treatment groups in the safety population. The mean (standard deviation) duration of treatment was 35.2 <ref type="bibr">(27.19)</ref> weeks in the PF-06439535 group and 34.9 (25.96) weeks in the bevacizumab-EU group. In the PF-06439535 group, the median number of cycles of PF-06439535 treatment was 11.0 (range 1-41), with 6.0 cycles (range 1-6 cycles) of paclitaxel treatment and 6.0 cycles (range 1-6 cycles) of carboplatin treatment. In the bevacizumab-EU group, the median number of cycles of bevacizumab-EU treatment was 11.0 (range 1-38), with 6.0 cycles (range 1-6 cycles) of paclitaxel treatment and 6.0 cycles (range 1-6 cycles) of carboplatin treatment.  <ref type="table" target="#tab_4">Table 2</ref>). The unstratified ORR risk ratio was 1.015, with a 95% CI of 0.863-1.193 and a 90% CI of 0.886-1.163. The unstratified ORR risk difference was 0.653%, with a 95% CI of − 6.608% to 7.908%. All three CIs fell entirely within the equivalence margins described earlier <ref type="figure">(Fig. 2)</ref>. Thus, similarity between PF-06439535 and bevacizumab-EU was demonstrated for ORR, based on the pre-specified criteria for each of the three health authorities.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.3">Primary Efficacy Endpoint</head><p>A sensitivity analysis based on the unstratified ORR risk ratio and risk difference in the PP population yielded results consistent with those in the ITT population (data cutoff date 8 May 2017; data not shown). Additional supportive results were obtained in ORR analyses adjusted for stratification factors, in both the ITT and PP populations (data cutoff date 8 May 2017; data not shown).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.4">Secondary Efficacy Endpoints</head><p>Analyses of PFS, OS, and DOR were based on final data after study completion on <ref type="bibr" target="#b22">22</ref>   <ref type="figure">Fig. 1</ref> Participant flow diagram. a One patient received paclitaxel and carboplatin but withdrew before receiving PF-06439535. b Patient was indicated as "study terminated by sponsor" by the investigator; however, this patient was considered to have met the definition of study completion (i.e. patient was alive and had completed survival followup as defined by the protocol). c The most frequently reported reason for patients not being included in the PP population was due to being randomized but never dosed with PF-06439535 or bevacizumab-EU (3 [0.8%] patients in the PF-06439535 group and 3 [0.8%] patients in the bevacizumab-EU group). Bevacizumab-EU reference bevacizumab sourced from the European Union, COPD chronic obstructive pulmonary disease, ITT intent-to-treat, ORR objective response rate, PK pharmacokinetics, PP per-protocol </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.5">Safety</head><p>Safety analyses were performed on final data (22 December 2017). In the safety population, 344 (96.6%) patients in the PF-06439535 group and 347 (96.9%) patients in the Data are presented as number (%) of patients unless otherwise specified Bevacizumab-EU reference bevacizumab sourced from the European Union, ECOG Eastern Cooperative Oncology Group, N number of patients randomized, NSCLC non-small-cell lung cancer a Patients whose cancer had returned following an initial treatment with surgery, radiation therapy, and/or chemotherapy administered for curative intent b Only included primary tumor resection  There were (48.0%) patients in the PF-06439535 group and 172 (48.0%) patients in the bevacizumab-EU group with a TEAE reported at grade 3 or higher. The most frequently reported grade 3 or higher TEAEs were hypertension, neutropenia, and anemia ( <ref type="table" target="#tab_7">Table 3)</ref>. Deaths that occurred during the treatment period and up to 28 days after the last dose of study drug were considered grade 5 TEAEs. The incidence of grade 5 TEAEs was similar between the two treatment groups <ref type="table" target="#tab_7">(Table 3)</ref>. Regarding grade 5 TEAEs related to PF-06439535 or bevacizumab-EU, there were six events in the PF-06439535 group and one event in the bevacizumab-EU group. Three of the six deaths (acute myocardial infarction, pneumonia, and pulmonary hemorrhage) in the PF-06439535 group were considered to be also related to paclitaxel and carboplatin. Grade 5 TEAEs related to PF-06439535 or bevacizumab-EU were consistent with the complications of underlying disease and the known safety profile of reference bevacizumab <ref type="bibr" target="#b4">[5,</ref><ref type="bibr" target="#b5">6]</ref>.    <ref type="formula">3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28</ref>   Serious TEAEs were experienced by 81 (22.8%) patients in the PF-06439535 group and 80 (22.3%) patients in the bevacizumab-EU group. The most frequently reported serious TEAEs were pneumonia, febrile neutropenia, and neutropenia, which occurred at a similar incidence between the treatment groups <ref type="table" target="#tab_7">(Table 3)</ref>.</p><p>No clinically meaningful differences in the incidence of any TEAEs of special interest were identified between the groups (ESM, <ref type="table" target="#tab_7">Table S3</ref>). The most frequently reported grade 3 or higher TEAE of special interest was hypertension (34 [9.6%] patients in the PF-06439535 group and 32 <ref type="bibr">[8.9%]</ref> patients in the bevacizumab-EU group) ( <ref type="table" target="#tab_7">Table 3)</ref>.</p><p>There were no notable differences between the groups in laboratory results, maximal post-baseline shifts in blood pressure, absolute declines in left ventricular ejection fraction, or electrocardiograms. Data are presented as number (%) of patients unless otherwise specified. Final data after study completion on 22 December 2017. Data collected up to 28 days after the last dose of study drug or to start of subsequent anticancer therapy, whichever came first. Except for the number of TEAEs, patients were counted only once per treatment in each row. Serious adverse events were determined according to the investigator's assessment. Severity counts were based on the maximum severity or grade of events </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.6">PK and Immunogenicity</head><p>PK and immunogenicity analyses were conducted on final data (22 December 2017). In the PK population, mean serum concentrations were generally comparable between the two treatment groups at all time points measured from baseline through cycle 18, day 1 <ref type="figure" target="#fig_6">(Fig. 4)</ref>. No comparison of summary statistics of serum concentrations between the two groups after this time point was conducted, because such comparison was considered to be substantially confounded by the limited number of patients at the later time points. The observed rate of immunogenicity in the safety population was low, with comparable percentages of patients with ADAs and NAbs observed for the two groups. In the overall post-treatment assessment, five (1.5%) of 339 patients in the PF-06439535 group and five (1.4%) of 350 patients in the bevacizumab-EU group were reported ADA-positive <ref type="table" target="#tab_10">(Table 4</ref>). This included one patient in the bevacizumab-EU group who was also ADA-positive at baseline. All nine patients with treatment-emergent ADAs (five in the PF-06439535 group and four in the bevacizumab-EU group) had low titers, and the treatment-emergent ADAs appeared to be transient. In the overall post-treatment assessment, of the five patients who reported positive ADA status in the PF-06439535 group, none was NAb-positive; of the five patients who reported positive ADA status in the bevacizumab-EU group, three (0.9%) were NAb-positive (data for baseline NAb incidence not shown). Given the low number of patients with ADAs, the association between immunogenicity and safety could not be evaluated. No apparent impact of the low-titer ADAs on PK was observed.   </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="4">Discussion</head><p>Based on pre-specified equivalence margins agreed with the FDA, EMA, and PMDA, this study demonstrated similarity between PF-06439535 and bevacizumab-EU in terms of ORR, when each treatment was combined with paclitaxel and carboplatin in the first-line treatment of advanced nonsquamous NSCLC. There were no clinically meaningful differences observed between groups for secondary efficacy endpoints, safety, PK, or immunogenicity, as expected. Furthermore, no new safety signals were identified in the PF-06439535 group compared with the established safety profile of reference bevacizumab. The observation that serum concentrations of PF-06439535 and bevacizumab-EU were generally similar between the two groups at multiple time points supports the findings from the previous single-dose study that established PK similarity between PF-06439535, bevacizumab-EU, and bevacizumab-US in healthy male volunteers <ref type="bibr" target="#b21">[21]</ref>.</p><p>Our study was designed in accordance with guidance on demonstrating biosimilarity from the FDA and the EMA <ref type="bibr" target="#b14">[14,</ref><ref type="bibr" target="#b28">28]</ref>, in conjunction with scientific advice from regulatory authorities. Although survival-based endpoints are important when seeking to establish clinical benefit for a novel anticancer agent, such endpoints are less suitable for demonstrating biosimilarity <ref type="bibr" target="#b29">[29]</ref>. Whereas PFS and OS may be influenced by factors such as tumor burden and subsequent lines of therapy, ORR is a direct measure of drug antitumor activity and hence is considered a sensitive endpoint for detecting potential product-related differences between a biosimilar and reference product <ref type="bibr" target="#b29">[29,</ref><ref type="bibr" target="#b30">30]</ref>. Indeed, ORR has been used as the primary endpoint in comparative clinical studies of other oncology biosimilars <ref type="bibr" target="#b31">[31]</ref><ref type="bibr" target="#b32">[32]</ref><ref type="bibr" target="#b33">[33]</ref><ref type="bibr" target="#b34">[34]</ref>. Additionally, bevacizumab plus paclitaxel and carboplatin has a well-characterized safety and efficacy profile as first-line therapy for patients with advanced non-squamous NSCLC <ref type="bibr" target="#b7">[8]</ref>. Considering these factors, the design of the current study was considered sufficiently sensitive for detecting any clinically meaningful differences between PF-06439535 and bevacizumab-EU, should they exist.</p><p>This study incorporated design features from historical trials of reference bevacizumab plus paclitaxel and carboplatin <ref type="bibr" target="#b7">[8,</ref><ref type="bibr" target="#b26">26,</ref><ref type="bibr" target="#b27">27]</ref>, and patient eligibility criteria were similar to those in a pivotal phase III study of reference bevacizumab in NSCLC (ECOG 4599) <ref type="bibr" target="#b7">[8]</ref>. Although cross-trial comparisons should be made with caution, ORR in the ECOG 4599 arm treated with reference bevacizumab plus paclitaxel and carboplatin was 35%, and was therefore similar to the response rates observed in the current study (45.3% in the PF-06439535 group and 44.6% in the bevacizumab-EU group). Notably, median OS in the ECOG 4599 study arm treated with reference bevacizumab plus paclitaxel and carboplatin was shorter than that observed in both arms in our study, at 12.3 months as compared with 19.4 months (PF-06439535 group) and 17.8 months (bevacizumab-EU group) <ref type="bibr" target="#b7">[8]</ref>. Certain advances since the conduct of the historical trial may have contributed to these differences; for example, patients in the current study were able to receive follow-up anticancer therapy with treatments that were not available at the time of the ECOG 4599 study, including pemetrexed and immune-checkpoint inhibitors such as nivolumab <ref type="bibr" target="#b35">[35,</ref><ref type="bibr" target="#b36">36]</ref>.</p><p>One potential limitation of our study was that patient recruitment was weighted towards a minority of the 27 enrolling countries. Ten countries (Russia, Ukraine, Romania, Hungary, Poland, Germany, Turkey, India, Japan, and Greece) accounted for 85.4% of the total enrollment, with 45.6% of the overall study population recruited from centers in Russia and Ukraine only. Additionally, subsequent ADA anti-drug antibody, bevacizumab-EU reference bevacizumab sourced from the European Union, N number of patients who received study drug a For calculation of the overall incidence of post-treatment ADA, the denominator was the number of patients with at least one post-cycle 1 ADA sample tested. Patients with a positive ADA sample at any time post-cycle 1 were defined as having an overall positive ADA status lines of treatment might have been affected by drug availability discrepancies across different countries. However, as the proportions of patients enrolled from each country were well balanced between the treatment groups, the comparison of PF-06439535 and bevacizumab-EU was not adversely affected. Of note, high rates of recruitment from Russia and countries in Eastern Europe have been observed in other recent comparative clinical studies of oncology biosimilars <ref type="bibr" target="#b32">[32,</ref><ref type="bibr" target="#b37">37,</ref><ref type="bibr" target="#b38">38]</ref>. With respect to the applicability of the results to current practice, it is noteworthy that bevacizumab added to a platinum-based chemotherapy doublet remains a first-line option in the treatment of advanced or metastatic non-squamous NSCLC negative for molecular testing <ref type="bibr" target="#b9">[10,</ref><ref type="bibr" target="#b10">11]</ref>. However, the recent introduction of immune-checkpoint inhibitors has led to an expanded range of available first-line therapeutic options <ref type="bibr" target="#b10">[11]</ref>. In this new era, we anticipate that bevacizumab may have an important role when used in combination with immunotherapy. Results from the IMpower150 trial, for example, showed that the addition of atezolizumab to bevacizumab plus carboplatin and paclitaxel in the first-line treatment of non-squamous metastatic NSCLC led to a significant improvement in both PFS and OS, with the PFS benefit observed in key clinical and biomarker subgroups <ref type="bibr" target="#b39">[39]</ref>.</p><p>Addressing escalating healthcare costs and improving patient access to treatment remain priorities in the treatment of cancer, and biosimilars are expected to have a key role <ref type="bibr" target="#b17">[17,</ref><ref type="bibr" target="#b18">18]</ref>. In addition to PF-06439535, several potential bevacizumab biosimilars are in clinical development, and in most instances confirmatory clinical studies have been conducted in patients with advanced non-squamous NSCLC <ref type="bibr" target="#b31">[31,</ref><ref type="bibr" target="#b40">40]</ref>. Furthermore, the bevacizumab biosimilar ABP 215 has been licensed in the US and authorized in the EU <ref type="bibr" target="#b41">[41,</ref><ref type="bibr" target="#b42">42]</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="5">Conclusions</head><p>In conclusion, this study in patients with advanced nonsquamous NSCLC demonstrated similarity between PF-06439535 and bevacizumab-EU in terms of the primary efficacy endpoint of ORR, when each was administered in combination with paclitaxel and carboplatin as first-line treatment. No notable differences were observed between the groups in PFS or OS. There were no clinically meaningful differences in safety profile, and similar PK and immunogenicity results were observed across treatment groups. These results confirm the similarity demonstrated in earlier analytical, nonclinical, and clinical studies of PF-06439535 and reference bevacizumab <ref type="bibr" target="#b20">[20,</ref><ref type="bibr" target="#b21">21]</ref>.</p><p>Open Access This article is distributed under the terms of the Creative Commons Attribution-NonCommercial 4.0 International License (http://creat iveco mmons .org/licen ses/by-nc/4.0/), which permits any noncommercial use, distribution, and reproduction in any medium, provided you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons license, and indicate if changes were made.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head></head><label></label><figDesc>At the time of the data cutoff for the primary efficacy ORR analysis(8 May 2017), all randomized patients had completed the week 25 visit or had discontinued from the disease evaluation period earlier. In the ITT population, 45.3% (95% CI 40.01-50.57) of patients in the PF-06439535 group and 44.6% (95% CI 39.40-49.89) of patients in the bevacizumab-EU group achieved an objective response by week 19 that was confirmed by week 25 (</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head>Fig</head><label></label><figDesc>Fig. 2 Treatment comparison (PF-06439535 group vs bevacizumab-EU group) for ORR, based on responses achieved by week 19 and confirmed by week 25 in the intent-to-treat population. Panel a depicts the unstratified ORR risk ratio with 90% and 95% CIs, and panel b depicts the unstratified ORR risk difference with 95% CI. Dashed lines indicate equivalence margins agreed with regulatory authorities in the EU, Japan, or the US. Data cutoff date 8 May 2017. Analyses based on 2-sided Miettinen and Nurminen method without stratification variables. Bevacizumab-EU reference bevacizumab sourced from the European Union, CI confidence interval, ORR objective response rate</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_4"><head>Fig. 3</head><label>3</label><figDesc>Kaplan-Meier plots of a progression-free survival and b overall survival in the intent-to-treat population. Final data after study completion on 22 December 2017. a CI based on product-limit method. b CI based on Brookmeyer and Crowley method. c Hazard ratio based on Cox proportional hazards model stratified by region, sex, and smoking history. d 2-sided p-value based on log-rank test stratified by region, sex, and smoking history. Bevacizumab-EU reference bevacizumab sourced from the European Union, CI confidence interval, NE not estimable</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_6"><head>Fig. 4</head><label>4</label><figDesc>Mean serum concentrations of PF-06439535 and bevacizumab-EU in the PK population. Final data after study completion on 22 December 2017. Triangle or square and bar represent the mean with standard deviation. Concentrations are pre-dose (0-h time point) unless otherwise noted. Summary statistics calculated by setting concentration values below the LLOQ (&lt; 250 ng/mL) to 0. Unplanned readings excluded. Samples with a time deviation of &gt; 20% or any positive time deviation from the 0-h planned time point excluded. End of treatment and early withdrawal samples excluded. Standard deviation not shown for the 0-h time point at cycle 1, day 1 because the bars would be shorter than the height of the triangle and square symbols. There were 20 patients in the PF-06439535 group and 17 patients in the bevacizumab-EU group with measurable pre-dose concentrations above the LLOQ on cycle 1, day 1. Patients with measurable pre-dose concentrations &gt; 5% of apparent C max (serum concentration at 2.5-h time point) on cycle 1, day 1 were excluded from the summary analysis. After this pre-specified exclusion, six patients in the PF-06439535 group and seven patients in the bevacizumab-EU group with measurable pre-dose concentrations on cycle 1, day 1 were included in the summary. Bevacizumab-EU reference bevacizumab sourced from the European Union, C cycle, C max maximum concentration, h hour(s), LLOQ lower limit of quantification, PK pharmacokinetics</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>Table 1 )</head><label>1</label><figDesc>. Of the 719 randomized patients, 467 (65.0%) were male. The median age was 61.0 years, and more than half of patients (58.4%) were 45-64 years of age. The majority of patients were White (638 [88.7%] patients) or Asian (76 [10.6%] patients). In total, 547 (76.1%) patients had newly diagnosed Stage IV disease, while 95 (13.2%) patients presented at screening with recurrent disease. Overall, 129 (17.9%) patients had received prior resection of primary disease (not including biopsies), 35 (4.9%) had received prior systemic therapy, and 47 (6.5%) had received prior radiation therapy.</figDesc><table /><note></note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_1"><head>At completion of study (22 December 2017): 163At completion of study (22 December 2017): 171</head><label></label><figDesc>December 2017. In the ITT population, there were 228 (63.7%) patients in the PF-06439535 group and 255 (70.6%) patients in the</figDesc><table><row><cell></cell><cell>1095 screened</cell></row><row><cell></cell><cell>376 excluded</cell></row><row><cell></cell><cell>719 randomized</cell></row><row><cell>358 allocated to PF-06439535 group</cell><cell>361 allocated to bevacizumab-EU group</cell></row><row><cell>2 did not receive treatment</cell><cell>3 did not receive treatment</cell></row><row><cell>1 had exacerbation of COPD condition</cell><cell>1 withdrew consent</cell></row><row><cell>1 met exclusion criteria</cell><cell>2 mistakenly unblinded</cell></row><row><cell>356 received treatment a</cell><cell>358 received treatment</cell></row><row><cell>261 discontinued PF-06439535</cell><cell>262 discontinued bevacizumab-EU</cell></row><row><cell>349 discontinued carboplatin</cell><cell>351 discontinued carboplatin</cell></row><row><cell>349 discontinued paclitaxel</cell><cell>351 discontinued paclitaxel</cell></row><row><cell>At data cutoff for ORR analysis (8 May 2017):</cell><cell>At data cutoff for ORR analysis (8 May 2017):</cell></row><row><cell>179 ongoing in study</cell><cell>194 ongoing in study</cell></row><row><cell>137 discontinued from study</cell><cell>125 discontinued from study</cell></row><row><cell>109 died</cell><cell>99 died</cell></row><row><cell>2 protocol violation</cell><cell>2 protocol violation</cell></row><row><cell>9 lost to follow-up</cell><cell>11 lost to follow-up</cell></row><row><cell>3 objective progression or relapse</cell><cell>0 objective progression or relapse</cell></row><row><cell>0 global deterioration of health status</cell><cell>2 global deterioration of health status</cell></row><row><cell>13 patients refused further follow-up</cell><cell>10 patients refused further follow-up</cell></row><row><cell>1 other</cell><cell>1 other</cell></row><row><cell>40 alive and had completed survival follow-up</cell><cell>39 alive and had completed survival follow-up</cell></row><row><cell>355 discontinued PF-06439535</cell><cell>358 discontinued bevacizumab-EU</cell></row><row><cell>356 discontinued carboplatin</cell><cell>358 discontinued carboplatin</cell></row><row><cell>356 discontinued paclitaxel</cell><cell>358 discontinued paclitaxel</cell></row><row><cell>discontinued from study</cell><cell>discontinued from study</cell></row><row><cell>136 died</cell><cell>138 died</cell></row><row><cell>3 protocol violation</cell><cell>2 protocol violation</cell></row><row><cell>10 lost to follow-up</cell><cell>15 lost to follow-up</cell></row><row><cell>0 study terminated by sponsor</cell><cell>1 study terminated by sponsor b</cell></row><row><cell>14 patients refused further follow-up</cell><cell>14 patients refused further follow-up</cell></row><row><cell>0 other</cell><cell>1 other</cell></row><row><cell>193 alive and had completed survival follow-up</cell><cell>187 alive and had completed survival follow-up</cell></row><row><cell>358 included in efficacy analysis (ITT population)</cell><cell>361 included in efficacy analysis (ITT population)</cell></row><row><cell>351 included in efficacy analysis (PP population c )</cell><cell>355 included in efficacy analysis (PP population c )</cell></row><row><cell>351 included in PK analysis (PK population)</cell><cell>354 included in PK analysis (PK population)</cell></row><row><cell>356 included in safety analysis (safety population)</cell><cell>358 included in safety analysis (safety population)</cell></row></table><note></note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_2"><head>Table 1</head><label>1</label><figDesc>Demographic and baseline characteristics (intent-to-treat population)</figDesc><table><row><cell>PF-06439535</cell><cell>Bevacizumab-EU</cell></row><row><cell>group (N = 358)</cell><cell>group (N = 361)</cell></row></table><note></note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_3"><head>Table 1 (</head><label>1</label><figDesc></figDesc><table /><note>continued)</note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_4"><head>Table 2</head><label>2</label><figDesc>Summary of best overall response and ORR based on responses achieved by week 19 and confirmed by week 25 (intent-to-treat population) Data cutoff date 8 May 2017. ORR defined as the percentage of patients within each treatment group who achieved complete response or partial response by week 19 of the study in accordance with RECIST version 1.1, which was subsequently confirmed by week 25Bevacizumab-EU reference bevacizumab sourced from the European Union, CI confidence interval, CR complete response, N number of patients randomized, n number of patients with observation, ORR objective response rate, PR partial response, RECIST Response Evaluation Criteria in Solid Tumors a Indeterminate: early death, unevaluable tumor assessment, and early study discontinuations</figDesc><table><row><cell>Based on 2-sided Miettinen and Nurminen method without stratification variables</cell></row></table><note>b Exact method based on F-distribution was usedc</note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_7"><head>Table 3</head><label>3</label><figDesc>Summary of TEAEs of all causalities (safety population)</figDesc><table /><note></note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_8"><head></head><label></label><figDesc>Bevacizumab-EU reference bevacizumab sourced from the European Union, N number of patients evaluable for adverse events, TEAE treatmentemergent adverse event a Medical Dictionary for Regulatory Activities version 20.1 coding dictionary applied</figDesc><table><row><cell></cell><cell>PF-06439535</cell><cell>Bevacizumab-EU</cell></row><row><cell></cell><cell>group (N = 356)</cell><cell>group (N = 358)</cell></row><row><cell>Number of TEAEs</cell><cell>2442</cell><cell></cell></row><row><cell>TEAEs</cell><cell></cell><cell></cell></row><row><cell>Any</cell><cell>344 (96.6)</cell><cell>(96.9)</cell></row><row><cell>Serious</cell><cell>81 (22.8)</cell><cell>(22.3)</cell></row><row><cell>Grade 3</cell><cell>125 (35.1)</cell><cell>(29.1)</cell></row><row><cell>Grade 4</cell><cell>25 (7.0)</cell><cell>(12.3)</cell></row><row><cell>Grade 5</cell><cell>21 (5.9)</cell><cell>(6.7)</cell></row><row><cell>Led to discontinuation of any treatment</cell><cell>85 (23.9)</cell><cell>(24.0)</cell></row><row><cell>Grade 3 or higher TEAEs by preferred term in ≥ 5% of patients in either treatment group a</cell><cell></cell><cell></cell></row><row><cell>Hypertension</cell><cell>33 (9.3)</cell><cell>(8.7)</cell></row><row><cell>Neutropenia</cell><cell>26 (7.3)</cell><cell>(8.9)</cell></row><row><cell>Anemia</cell><cell>19 (5.3)</cell><cell>(5.0)</cell></row><row><cell>Grade 3 or higher TEAEs of special interest by category</cell><cell></cell><cell></cell></row><row><cell>Arterial thromboembolic events</cell><cell>6 (1.7)</cell><cell>(1.7)</cell></row><row><cell>Bleeding/hemorrhage (including pulmonary hemorrhage)</cell><cell>8 (2.2)</cell><cell>(2.0)</cell></row><row><cell>Cardiac disorders</cell><cell>10 (2.8)</cell><cell>(3.4)</cell></row><row><cell>Congestive heart failure</cell><cell>1 (0.3)</cell><cell>(0.8)</cell></row><row><cell>Gastrointestinal perforation</cell><cell>0</cell><cell>(0.6)</cell></row><row><cell>Hypertension, only grade 3 or higher</cell><cell>34 (9.6)</cell><cell>(8.9)</cell></row><row><cell>Proteinuria/nephrotic syndrome</cell><cell>4 (1.1)</cell><cell>(1.4)</cell></row><row><cell>Venous thromboembolic events</cell><cell>8 (2.2)</cell><cell>(1.1)</cell></row><row><cell>Serious TEAEs by preferred term in ≥ 1% of patients in either treatment group a</cell><cell></cell><cell></cell></row><row><cell>Pneumonia</cell><cell>8 (2.2)</cell><cell>(1.7)</cell></row><row><cell>Febrile neutropenia</cell><cell>5 (1.4)</cell><cell>(2.0)</cell></row><row><cell>Neutropenia</cell><cell>4 (1.1)</cell><cell>(1.7)</cell></row><row><cell>Disease progression</cell><cell>4 (1.1)</cell><cell>(1.4)</cell></row><row><cell>Pulmonary embolism</cell><cell>7 (2.0)</cell><cell>(0.6)</cell></row><row><cell>Anemia</cell><cell>2 (0.6)</cell><cell>(1.4)</cell></row><row><cell>Asthenia</cell><cell>4 (1.1)</cell><cell>(0.3)</cell></row><row><cell>Gastroenteritis</cell><cell>4 (1.1)</cell><cell></cell></row><row><cell>Hyponatremia</cell><cell>4 (1.1)</cell><cell></cell></row></table><note></note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_10"><head>Table 4</head><label>4</label><figDesc>Summary of ADA incidence (safety population) Data are presented as number (%) of patients unless otherwise specified. Final data after study completion on 22 December 2017. Percentages based on the number of patients evaluated at each visit. All samples taken prior to dosing. ADA-positive sample defined as ADA titer ≥ 2.29, ADA-negative sample defined as ADA titer &lt; 2.29</figDesc><table /><note></note></figure>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Acknowledgements</head><p>We would like to thank the patients, caregivers, and investigators who contributed to the B7391003 study. Medical writing support was provided by Paul Shepherd, MA, CMPP of Engage Scientific Solutions and was funded by Pfizer.</p></div>
+			</div>
+
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Author Contributions All authors contributed to the acquisition, analysis, or interpretation of data, and to drafting or revising the manuscript. All authors approved the final version of the manuscript and agree to be accountable for all aspects of the work. Niels Reinmuth is guarantor for the overall content.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Compliance with Ethical Standards</head><p>Funding This study was sponsored by Pfizer. Pfizer representatives were involved in the design and conduct of the study, data analysis, and manuscript preparation (see 'Author contributions' statement). Open access publication of this article was funded by Pfizer. Ethical approval This study was conducted in compliance with the ethical principles originating in or derived from the Declaration of Helsinki and in compliance with all International Council for Harmonisation Good Clinical Practice Guidelines. In addition, all local regulatory requirements were followed. The final protocol, any amendments, and informed consent documentation were reviewed and approved by the institutional review boards and/or independent ethics committees at each of the investigational centers participating in the study.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Conflict of interest</head><p>Informed consent A signed and dated informed consent document was required from each patient before any screening procedures were done.</p><p>Data availability Upon request, and subject to certain criteria, conditions, and exceptions (see https ://www.pfize r.com/scien ce/clini cal-trial s/trial -data-and-resul ts for more information), Pfizer will provide access to individual de-identified participant data from Pfizersponsored global interventional clinical studies conducted for medicines, vaccines, and medical devices (1) for indications that have been approved in the US and/or EU or <ref type="bibr" target="#b1">(2)</ref> in programs that have been terminated (i.e., development for all indications has been discontinued). Pfizer will also consider requests for the protocol, data dictionary, and statistical analysis plan. Data may be requested from Pfizer trials 24 months after study completion. The de-identified participant data will be made available to researchers whose proposals meet the research criteria and other conditions, and for which an exception does not apply, via a secure portal. To gain access, data requestors must enter into a data access agreement with Pfizer.</p></div>			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">The biology of VEGF and its receptors</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">N</forename><surname>Ferrara</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><forename type="middle">P</forename><surname>Gerber</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Lecouter</surname></persName>
+		</author>
+		<idno type="DOI">10.1038/nm0603-669</idno>
+		<ptr target="https://doi.org/10.1038/nm060" />
+	</analytic>
+	<monogr>
+		<title level="j">Nat Med</title>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="page" from="3" to="669" />
+			<date type="published" when="2003" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Vascular permeability factor/vascular endothelial growth factor: a critical cytokine in tumor angiogenesis and a potential target for diagnosis and therapy</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><forename type="middle">F</forename><surname>Dvorak</surname></persName>
+		</author>
+		<idno type="DOI">10.1200/jco.2002.10.088</idno>
+		<ptr target="https://doi.org/10.1200/jco.2002.10.088" />
+	</analytic>
+	<monogr>
+		<title level="j">J Clin Oncol</title>
+		<imprint>
+			<biblScope unit="volume">20</biblScope>
+			<biblScope unit="page" from="4368" to="80" />
+			<date type="published" when="2002" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Vascular endothelial growth factor as a target for anticancer therapy</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">N</forename><surname>Ferrara</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Oncologist</title>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="2" to="10" />
+			<date type="published" when="2004" />
+		</imprint>
+	</monogr>
+	<note>Suppl</note>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Vascular endothelial growth factor: its prognostic, predictive, and therapeutic implications</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Toi</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Matsumoto</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><surname>Bando</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/s1470-2045(01)00556-3</idno>
+		<ptr target="https://doi.org/10.1016/s1470-2045" />
+	</analytic>
+	<monogr>
+		<title level="j">Lancet Oncol</title>
+		<imprint>
+			<biblScope unit="volume">2</biblScope>
+			<biblScope unit="issue">01</biblScope>
+			<biblScope unit="page" from="556" to="559" />
+			<date type="published" when="2001" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title/>
+		<ptr target="https://www.accessdata.fda.gov/drugsatfda_docs/label/2018/125085s323lbl.pdf.Accessed" />
+	</analytic>
+	<monogr>
+		<title level="j">Genentech Inc. Avastin prescribing information</title>
+		<imprint>
+			<date type="published" when="2018-04-30" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<monogr>
+		<title level="m" type="main">Summary of product characteristics: Avastin</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Gmbh</forename><surname>Roche Registration</surname></persName>
+		</author>
+		<ptr target="https://www.ema.europa.eu/documents/product-information/avastin-epar-product-information_en.pdf.Accessed" />
+		<imprint>
+			<date type="published" when="2018-04-30" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Bevacizumab plus irinotecan, fluorouracil, and leucovorin for metastatic colorectal cancer</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><surname>Hurwitz</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">L</forename><surname>Fehrenbacher</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">W</forename><surname>Novotny</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Cartwright</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Hainsworth</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">W</forename><surname>Heim</surname></persName>
+		</author>
+		<idno type="DOI">10.1056/nejmoa032691</idno>
+		<ptr target="https://doi.org/10.1056/nejmoa032691" />
+	</analytic>
+	<monogr>
+		<title level="j">N Engl J Med</title>
+		<imprint>
+			<biblScope unit="volume">350</biblScope>
+			<biblScope unit="page" from="2335" to="2377" />
+			<date type="published" when="2004" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Paclitaxel-carboplatin alone or with bevacizumab for nonsmall-cell lung cancer</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Sandler</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><surname>Gray</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">C</forename><surname>Perry</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Brahmer</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">H</forename><surname>Schiller</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Dowlati</surname></persName>
+		</author>
+		<idno type="DOI">10.1056/nejmoa061884</idno>
+		<ptr target="https://doi.org/10.1056/nejmoa061884" />
+	</analytic>
+	<monogr>
+		<title level="j">N Engl J Med</title>
+		<imprint>
+			<biblScope unit="volume">355</biblScope>
+			<biblScope unit="page" from="2542" to="50" />
+			<date type="published" when="2006" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Improved survival with bevacizumab in advanced cervical cancer</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><forename type="middle">S</forename><surname>Tewari</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">W</forename><surname>Sill</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Long</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><forename type="middle">T</forename><surname>Penson</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><surname>Huang</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">L</forename><forename type="middle">M</forename><surname>Ramondetta</surname></persName>
+		</author>
+		<idno type="DOI">10.1056/nejmoa1309748</idno>
+		<ptr target="https://doi.org/10.1056/nejmoa1309748" />
+	</analytic>
+	<monogr>
+		<title level="j">N Engl J Med</title>
+		<imprint>
+			<biblScope unit="volume">370</biblScope>
+			<biblScope unit="page" from="734" to="777" />
+			<date type="published" when="2014" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<monogr>
+		<title level="m" type="main">National Comprehensive Cancer Network. NCCN Clinical Practice Guidelines in Oncology (NCCN Guidelines). Non-small cell lung cancer</title>
+		<imprint>
+			<date type="published" when="2019-04" />
+			<biblScope unit="page">29</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<monogr>
+		<title level="m" type="main">Metastatic non-small cell lung cancer: ESMO Clinical Practice Guidelines for diagnosis</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><surname>Planchard</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Popat</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><surname>Kerr</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Novello</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><forename type="middle">F</forename><surname>Smit</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><surname>Faivre-Finn</surname></persName>
+		</author>
+		<idno type="DOI">10.1093/annonc/mdy275</idno>
+		<imprint/>
+	</monogr>
+	<note>treatment and follow-up</note>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title/>
+		<idno type="DOI">10.1093/annonc/mdy275</idno>
+		<ptr target="https://doi.org/10.1093/annonc/mdy275" />
+	</analytic>
+	<monogr>
+		<title level="j">Ann Oncol</title>
+		<imprint>
+			<biblScope unit="volume">29</biblScope>
+			<biblScope unit="page" from="192" to="237" />
+			<date type="published" when="2018" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<monogr>
+		<title level="m" type="main">Barriers to the access of bevacizumab in patients with solid tumors and the potential impact of biosimilars: a physician survey</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">B</forename><forename type="middle">J</forename><surname>Monk</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><forename type="middle">E</forename><surname>Lammers</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Cartwright</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">I</forename><surname>Jacobs</surname></persName>
+		</author>
+		<idno type="DOI">10.3390/ph10010019</idno>
+		<ptr target="https://doi.org/10.3390/ph10010019" />
+		<imprint>
+			<date type="published" when="2017" />
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="page">19</biblScope>
+			<pubPlace>Basel</pubPlace>
+		</imprint>
+	</monogr>
+	<note type="report_type">Pharmaceuticals</note>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<monogr>
+		<title level="m" type="main">Guideline on similar biological medicinal products</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Agency</forename><surname>European Medicines</surname></persName>
+		</author>
+		<ptr target="https://www.ema.europa.eu/documents/scientific-guideline/guideline-similar-biological-medicinal-products-rev1_en.pdf.Accessed" />
+		<imprint>
+			<date type="published" when="2014-04-30" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<monogr>
+		<title level="m" type="main">Scientific considerations in demonstrating biosimilarity to a reference product: guidance for industry</title>
+		<ptr target="https://www.fda.gov/media/82647/download" />
+		<imprint>
+			<date type="published" when="2015-04" />
+		</imprint>
+	</monogr>
+	<note>US Food and Drug Administration</note>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<monogr>
+		<title level="m" type="main">gical s/areas /biolo gical _thera peuti cs/BIOTH ERAPE UTICS _FOR_WEB_22APR IL201 0.pdf. Accessed</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">World</forename><surname>Health Organization</surname></persName>
+		</author>
+		<ptr target="http://www.who.int/biolo" />
+		<imprint>
+			<date type="published" when="2009-04-30" />
+			<biblScope unit="page">23</biblScope>
+		</imprint>
+	</monogr>
+	<note>Guidelines on evaluation of similar biotherapeutic products (SBPs)</note>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<monogr>
+		<title level="m" type="main">The impact of biosimilar competition in Europe</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Quintilesims</surname></persName>
+		</author>
+		<ptr target="https://ec.europa.eu/docsroom/documents/23102/attachments/1/translations/en/renditions/pdf.Accessed" />
+		<imprint>
+			<date type="published" when="2017-04-30" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">American Society of Clinical Oncology Statement: biosimilars in oncology</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">G</forename><forename type="middle">H</forename><surname>Lyman</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><surname>Balaban</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Diaz</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Ferris</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Tsao</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><surname>Voest</surname></persName>
+		</author>
+		<idno type="DOI">10.1200/jco.2017.77.4893</idno>
+		<ptr target="https://doi.org/10.1200/jco.2017.77.4893" />
+	</analytic>
+	<monogr>
+		<title level="j">J Clin Oncol</title>
+		<imprint>
+			<biblScope unit="volume">36</biblScope>
+			<biblScope unit="page" from="1260" to="1265" />
+			<date type="published" when="2018" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">Biosimilars: a position paper of the European Society for Medical Oncology, with particular reference to oncology prescribers</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Tabernero</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Vyas</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><surname>Giuliani</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><surname>Arnold</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">F</forename><surname>Cardoso</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><forename type="middle">G</forename><surname>Casali</surname></persName>
+		</author>
+		<idno type="DOI">10.1136/esmoopen-2016-000142</idno>
+		<ptr target="https://doi.org/10.1136/esmoopen-2016-000142" />
+	</analytic>
+	<monogr>
+		<title level="j">ESMO Open</title>
+		<imprint>
+			<biblScope unit="volume">1</biblScope>
+			<date type="published" when="2016" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<monogr>
+		<title level="m" type="main">Zirabev summary of product characteristics</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Pfizer</forename><surname>Europe</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">A</forename><surname>Eeig</surname></persName>
+		</author>
+		<ptr target="https://www.ema.europa.eu/en/documents/product-information/zirabev-epar-product-information_en" />
+		<imprint>
+			<date type="published" when="2019-04" />
+			<biblScope unit="page">16</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">Nonclinical assessments of the potential biosimilar PF-06439535 and bevacizumab</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">A</forename><surname>Peraza</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><forename type="middle">E</forename><surname>Rule</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Mhi</forename><surname>Shiue</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">G</forename><forename type="middle">L</forename><surname>Finch</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Thibault</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><forename type="middle">R</forename><surname>Brown</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.yrtph.2018.03.020</idno>
+		<ptr target="https://doi.org/10.1016/j.yrtph.2018.03.020" />
+	</analytic>
+	<monogr>
+		<title level="j">Regul Toxicol Pharmacol</title>
+		<imprint>
+			<biblScope unit="volume">95</biblScope>
+			<biblScope unit="page" from="236" to="279" />
+			<date type="published" when="2018" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">A phase I pharmacokinetics study comparing PF-06439535 (a potential biosimilar) with bevacizumab in healthy male volunteers</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">B</forename><surname>Knight</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><surname>Rassam</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Liao</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><surname>Ewesuedo</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/s00280-016-3001-2</idno>
+		<ptr target="https://doi.org/10.1007/s00280-016-3001-2" />
+	</analytic>
+	<monogr>
+		<title level="j">Cancer Chemother Pharmacol</title>
+		<imprint>
+			<biblScope unit="volume">77</biblScope>
+			<biblScope unit="page" from="839" to="885" />
+			<date type="published" when="2016" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<monogr>
+		<title level="m" type="main">American Joint Committee on Cancer. AJCC cancer staging manual</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><forename type="middle">B</forename><surname>Edge</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2010" />
+			<publisher>Springer</publisher>
+			<pubPlace>New York</pubPlace>
+		</imprint>
+	</monogr>
+	<note>7th ed</note>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title level="a" type="main">The IASLC Lung Cancer Staging Project: proposals for the revision of the TNM stage groupings in the forthcoming (seventh) edition of the TNM Classification of malignant tumours</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><surname>Goldstraw</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Crowley</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><surname>Chansky</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><forename type="middle">J</forename><surname>Giroux</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><forename type="middle">A</forename><surname>Groome</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><surname>Rami-Porta</surname></persName>
+		</author>
+		<idno type="DOI">10.1097/jto.0b013e31812f3c1a</idno>
+		<ptr target="https://doi.org/10.1097/jto.0b013e31812f3c1a" />
+	</analytic>
+	<monogr>
+		<title level="j">J Thorac Oncol</title>
+		<imprint>
+			<biblScope unit="volume">2</biblScope>
+			<biblScope unit="page" from="706" to="720" />
+			<date type="published" when="2007" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title level="a" type="main">New response evaluation criteria in solid tumours: revised RECIST guideline (version 1.1)</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><forename type="middle">A</forename><surname>Eisenhauer</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><surname>Therasse</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Bogaerts</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">L</forename><forename type="middle">H</forename><surname>Schwartz</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><surname>Sargent</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><surname>Ford</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.ejca.2008.10.026</idno>
+		<ptr target="https://doi.org/10.1016/j.ejca.2008.10.026" />
+	</analytic>
+	<monogr>
+		<title level="j">Eur J Cancer</title>
+		<imprint>
+			<biblScope unit="volume">45</biblScope>
+			<biblScope unit="page" from="228" to="275" />
+			<date type="published" when="2009" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title level="a" type="main">Comparative analysis of two rates</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">O</forename><surname>Miettinen</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Nurminen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Stat Med</title>
+		<imprint>
+			<biblScope unit="volume">4</biblScope>
+			<biblScope unit="page" from="213" to="239" />
+			<date type="published" when="1985" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title level="a" type="main">Randomized phase II study of first-line carboplatin-paclitaxel with or without bevacizumab in Japanese patients with advanced nonsquamous non-small-cell lung cancer</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Niho</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><surname>Kunitoh</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><surname>Nokihara</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Horai</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Y</forename><surname>Ichinose</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Hida</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.lungcan.2011.12.005</idno>
+		<ptr target="https://doi.org/10.1016/j.lungcan.2011.12.005" />
+	</analytic>
+	<monogr>
+		<title level="j">Lung Cancer</title>
+		<imprint>
+			<biblScope unit="volume">76</biblScope>
+			<biblScope unit="page" from="362" to="369" />
+			<date type="published" when="2012" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+		<title level="a" type="main">Randomized phase II trial comparing bevacizumab plus carboplatin and paclitaxel with carboplatin and paclitaxel alone in previously untreated locally advanced or metastatic non-small-cell lung cancer</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><forename type="middle">H</forename><surname>Johnson</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">L</forename><surname>Fehrenbacher</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">W</forename><forename type="middle">F</forename><surname>Novotny</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><forename type="middle">S</forename><surname>Herbst</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">J</forename><surname>Nemunaitis</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><forename type="middle">M</forename><surname>Jablons</surname></persName>
+		</author>
+		<idno type="DOI">10.1200/jco.2004.11.022</idno>
+		<ptr target="https://doi.org/10.1200/jco.2004.11.022" />
+	</analytic>
+	<monogr>
+		<title level="j">J Clin Oncol</title>
+		<imprint>
+			<biblScope unit="volume">22</biblScope>
+			<biblScope unit="page" from="2184" to="91" />
+			<date type="published" when="2004" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<monogr>
+		<title level="m" type="main">Guideline on similar biological medicinal products containing biotechnology-derived proteins as active substance: non-clinical and clinical issues</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Agency</forename><surname>European Medicines</surname></persName>
+		</author>
+		<ptr target="https://www.ema.europa.eu/documents/scientific-guideline/guideline-similar-biological-medicinal-products-containing-biotechnology-derived-proteins-active_en-2.pdf.Accessed" />
+		<imprint>
+			<date type="published" when="2014-04-30" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<monogr>
+		<title level="m" type="main">Guideline on similar biological medicinal products containing monoclonal antibodies-nonclinical and clinical issues. 2012 (last update</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Agency</forename><surname>European Medicines</surname></persName>
+		</author>
+		<ptr target="https://www.ema.europa.eu/documents/scientific-guideline/guideline-similar-biological-medicinal-products-containing-monoclonal-antibodies-non-clinical_en.pdf.Accessed" />
+		<imprint>
+			<date type="published" when="2012-05-30" />
+			<biblScope unit="page">30</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<analytic>
+		<title level="a" type="main">Guidance for Industry. Clinical trial endpoints for the approval of cancer drugs and biologics</title>
+		<ptr target="https://www.fda.gov/media/71195/download.Accessed" />
+	</analytic>
+	<monogr>
+		<title level="m">US Food and Drug Administration</title>
+		<imprint>
+			<date type="published" when="2018-04-30" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<analytic>
+		<title level="a" type="main">Efficacy and safety of the biosimilar ABP 215 compared with bevacizumab in patients with advanced nonsquamous non-small cell lung cancer (MAPLE): a randomized, double-blind, phase III study</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">N</forename><surname>Thatcher</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">H</forename><surname>Goldschmidt</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Thomas</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Schenker</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Z</forename><surname>Pan</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Paz-Ares</forename><surname>Rodriguez</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">L</forename></persName>
+		</author>
+		<idno type="DOI">10.1158/1078-0432.ccr-18-2702</idno>
+		<ptr target="https://doi.org/10.1158/1078-0432.ccr-18-2702" />
+	</analytic>
+	<monogr>
+		<title level="j">Clin Cancer Res</title>
+		<imprint>
+			<biblScope unit="volume">25</biblScope>
+			<biblScope unit="page" from="2088" to="95" />
+			<date type="published" when="2019" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<analytic>
+		<title level="a" type="main">Effect of a proposed trastuzumab biosimilar compared with trastuzumab on overall response rate in patients with ERBB2 (HER2)-positive metastatic breast cancer: a randomized clinical trial</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><forename type="middle">S</forename><surname>Rugo</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Barve</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><forename type="middle">F</forename><surname>Waller</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Hernandez-Bronchud</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Herson</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Yuan</surname></persName>
+		</author>
+		<idno type="DOI">10.1001/jama.2016.18305</idno>
+		<ptr target="https://doi.org/10.1001/jama.2016.18305" />
+	</analytic>
+	<monogr>
+		<title level="j">JAMA</title>
+		<imprint>
+			<biblScope unit="volume">317</biblScope>
+			<biblScope unit="page" from="37" to="47" />
+			<date type="published" when="2017" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<analytic>
+		<title level="a" type="main">Rituximab biosimilar and reference rituximab in patients with previously untreated advanced follicular lymphoma (ASSIST-FL): primary results from a confirmatory phase 3, double-blind, randomised, controlled study</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">W</forename><surname>Jurczak</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">I</forename><surname>Moreira</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">G</forename><forename type="middle">B</forename><surname>Kanakasetty</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><surname>Munhoz</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">A</forename><surname>Echeveste</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><surname>Giri</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/s2352-3026(17)30106-0</idno>
+		<ptr target="https://doi.org/10.1016/s2352-3026" />
+	</analytic>
+	<monogr>
+		<title level="j">Lancet Haematol</title>
+		<imprint>
+			<biblScope unit="volume">4</biblScope>
+			<biblScope unit="issue">17</biblScope>
+			<biblScope unit="page" from="30106" to="30106" />
+			<date type="published" when="2017" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<analytic>
+		<title level="a" type="main">Efficacy, pharmacokinetics, and safety of the biosimilar CT-P10 in comparison with rituximab in patients with previously untreated low-tumour-burden follicular lymphoma: a randomised, double-blind, parallel-group, phase 3 trial</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Ogura</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">M</forename><surname>Sancho</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><forename type="middle">G</forename><surname>Cho</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><surname>Nakazawa</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Suzumiya</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">G</forename><surname>Tumyan</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/s2352-3026(18)30157-1</idno>
+		<ptr target="https://doi.org/10.1016/s2352-3026" />
+	</analytic>
+	<monogr>
+		<title level="j">Lancet Haematol</title>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="issue">18</biblScope>
+			<biblScope unit="page" from="30157" to="30158" />
+			<date type="published" when="2018" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b35">
+	<analytic>
+		<title level="a" type="main">Randomized phase III trial of pemetrexed versus docetaxel in patients with non-small-cell lung cancer previously treated with chemotherapy</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">N</forename><surname>Hanna</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">F</forename><forename type="middle">A</forename><surname>Shepherd</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">F</forename><forename type="middle">V</forename><surname>Fossella</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">R</forename><surname>Pereira</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">De</forename><surname>Marinis</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">F</forename></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Von</forename><surname>Pawel</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename></persName>
+		</author>
+		<idno type="DOI">10.1200/jco.2004.08.163</idno>
+		<ptr target="https://doi.org/10.1200/jco.2004.08.163" />
+	</analytic>
+	<monogr>
+		<title level="j">J Clin Oncol</title>
+		<imprint>
+			<biblScope unit="volume">22</biblScope>
+			<biblScope unit="page" from="1589" to="97" />
+			<date type="published" when="2004" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b36">
+	<analytic>
+		<title level="a" type="main">Nivolumab versus docetaxel in advanced nonsquamous non-small-cell lung cancer</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><surname>Borghaei</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">L</forename><surname>Paz-Ares</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">L</forename><surname>Horn</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><forename type="middle">R</forename><surname>Spigel</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Steins</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">N</forename><forename type="middle">E</forename><surname>Ready</surname></persName>
+		</author>
+		<idno type="DOI">10.1056/nejmoa1507643</idno>
+		<ptr target="https://doi.org/10.1056/nejmoa1507643" />
+	</analytic>
+	<monogr>
+		<title level="j">N Engl J Med</title>
+		<imprint>
+			<biblScope unit="volume">373</biblScope>
+			<biblScope unit="page" from="1627" to="1666" />
+			<date type="published" when="2015" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b37">
+	<analytic>
+		<title level="a" type="main">CT-P6 compared with reference trastuzumab for HER2-positive breast cancer: a randomised, doubleblind, active-controlled, phase 3 equivalence trial</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Stebbing</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Y</forename><surname>Baranau</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">V</forename><surname>Baryash</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Manikhas</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">V</forename><surname>Moiseyenko</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">G</forename><surname>Dzagnidze</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/s1470-2045(17)30434-5</idno>
+		<ptr target="https://doi.org/10.1016/s1470-2045" />
+	</analytic>
+	<monogr>
+		<title level="j">Lancet Oncol</title>
+		<imprint>
+			<biblScope unit="volume">18</biblScope>
+			<biblScope unit="issue">17</biblScope>
+			<biblScope unit="page" from="30434" to="30439" />
+			<date type="published" when="2017" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b38">
+	<analytic>
+		<title level="a" type="main">Efficacy and safety of ABP 980 compared with reference trastuzumab in women with HER2-positive early breast cancer (LILAC study): a randomised, double-blind, phase 3 trial</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">G</forename><surname>Von Minckwitz</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Colleoni</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><forename type="middle">C</forename><surname>Kolberg</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Morales</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><surname>Santi</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Z</forename><surname>Tomasevic</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/s1470-2045(18)30241-9</idno>
+		<ptr target="https://doi.org/10.1016/s1470-2045" />
+	</analytic>
+	<monogr>
+		<title level="j">Lancet Oncol</title>
+		<imprint>
+			<biblScope unit="volume">19</biblScope>
+			<biblScope unit="issue">18</biblScope>
+			<biblScope unit="page" from="30241" to="30250" />
+			<date type="published" when="2018" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b39">
+	<analytic>
+		<title level="a" type="main">Atezolizumab for first-line treatment of metastatic nonsquamous NSCLC</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">A</forename><surname>Socinski</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><forename type="middle">M</forename><surname>Jotte</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">F</forename><surname>Cappuzzo</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">F</forename><surname>Orlandi</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><surname>Stroyakovskiy</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">N</forename><surname>Nogami</surname></persName>
+		</author>
+		<idno type="DOI">10.1056/nejmoa1716948</idno>
+		<ptr target="https://doi.org/10.1056/nejmoa1716948" />
+	</analytic>
+	<monogr>
+		<title level="j">N Engl J Med</title>
+		<imprint>
+			<biblScope unit="volume">378</biblScope>
+			<biblScope unit="page" from="2288" to="301" />
+			<date type="published" when="2018" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b40">
+	<analytic>
+		<title level="a" type="main">Bevacizumab in colorectal cancer: current role in treatment and the potential of biosimilars</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">L</forename><forename type="middle">S</forename><surname>Rosen</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">I</forename><forename type="middle">A</forename><surname>Jacobs</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><forename type="middle">L</forename><surname>Burkes</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/s11523-017-0518-1</idno>
+		<ptr target="https://doi.org/10.1007/s11523-017-0518-1" />
+	</analytic>
+	<monogr>
+		<title level="j">Target Oncol</title>
+		<imprint>
+			<biblScope unit="volume">12</biblScope>
+			<biblScope unit="page" from="599" to="610" />
+			<date type="published" when="2017" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b41">
+	<analytic>
+		<title level="a" type="main">Mvasi (bevacizumab-awwb) prescribing information</title>
+		<ptr target="https://www.accessdata.fda.gov/drugsatfda_docs/label/2017/761028s000lbl.pdf.Accessed" />
+	</analytic>
+	<monogr>
+		<title level="j">Amgen Inc</title>
+		<imprint>
+			<date type="published" when="2017-04-30" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b42">
+	<monogr>
+		<title level="m" type="main">Mvasi summary of product characteristics</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Amgen</forename><surname>Europe</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">B</forename><forename type="middle">V</forename></persName>
+		</author>
+		<ptr target="https://www.ema.europa.eu/documents/product-information/mvasi-epar-product-information_en.pdf.Accessed" />
+		<imprint>
+			<date type="published" when="2018-04-10" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

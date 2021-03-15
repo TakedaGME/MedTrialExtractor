@@ -1,0 +1,1170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /data/rsg/nlp/juanmoo1/bin/grobid-0.6.1/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Safety and activity of ibrutinib in combination with durvalumab in patients with relapsed or refractory follicular lymphoma or diffuse large B-cell lymphoma</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author role="corresp">
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Alex</forename><forename type="middle">F</forename><surname>Herrera</surname></persName>
+							<email>aherrera@coh.org</email>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Hematology/Hematopoietic Cell Transplantation</orgName>
+								<orgName type="institution">City of Hope National Medical Center</orgName>
+								<address>
+									<settlement>Duarte</settlement>
+									<region>California</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">|</forename><forename type="middle">Andre</forename><surname>Goy</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="laboratory">John Theurer Cancer Center Division of Lymphoma</orgName>
+								<orgName type="institution">Hackensack University Medical Center</orgName>
+								<address>
+									<settlement>Hackensack</settlement>
+									<country>New Jersey</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">|</forename><forename type="middle">Amitkumar</forename><surname>Mehta</surname></persName>
+							<affiliation key="aff2">
+								<orgName type="department">Division of Hematology and Oncology</orgName>
+								<orgName type="institution">University of Alabama</orgName>
+								<address>
+									<settlement>Birmingham, Alabama</settlement>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Radhakrishnan</forename><surname>Ramchandren</surname></persName>
+							<affiliation key="aff3">
+								<orgName type="department">Department of Hematology/Oncology</orgName>
+								<orgName type="institution">Karmanos Cancer Institute</orgName>
+								<address>
+									<settlement>Detroit</settlement>
+									<region>Michigan</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">John</forename><forename type="middle">M</forename><surname>Pagel</surname></persName>
+							<affiliation key="aff4">
+								<orgName type="department" key="dep1">Center for Blood Disorders and Stem Cell Transplantation</orgName>
+								<orgName type="department" key="dep2">Division of Oncology</orgName>
+								<orgName type="institution">Swedish Cancer Institute</orgName>
+								<address>
+									<settlement>Seattle, Washington</settlement>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Jakub</forename><surname>Svoboda</surname></persName>
+							<affiliation key="aff5">
+								<orgName type="department" key="dep1">Department of Medicine</orgName>
+								<orgName type="department" key="dep2">Division of Hematology and Oncology</orgName>
+								<orgName type="institution">University of Pennsylvania</orgName>
+								<address>
+									<settlement>Philadelphia</settlement>
+									<region>Pennsylvania</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Shanhong</forename><surname>Guan</surname></persName>
+							<affiliation key="aff6">
+								<orgName type="department">Department of Biostatistics</orgName>
+								<orgName type="institution">Pharmacyclics LLC, an AbbVie Company</orgName>
+								<address>
+									<settlement>Sunnyvale</settlement>
+									<region>California</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">John</forename><forename type="middle">S</forename><surname>Hill</surname></persName>
+							<affiliation key="aff7">
+								<orgName type="department">Department of Translational Medicine</orgName>
+								<orgName type="institution">Pharmacyclics LLC, an AbbVie Company</orgName>
+								<address>
+									<settlement>Sunnyvale</settlement>
+									<region>California</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Kevin</forename><surname>Kwei</surname></persName>
+							<affiliation key="aff7">
+								<orgName type="department">Department of Translational Medicine</orgName>
+								<orgName type="institution">Pharmacyclics LLC, an AbbVie Company</orgName>
+								<address>
+									<settlement>Sunnyvale</settlement>
+									<region>California</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Emily</forename><forename type="middle">A</forename><surname>Liu</surname></persName>
+							<affiliation key="aff8">
+								<orgName type="department">Department of Clinical Science</orgName>
+								<orgName type="institution">Pharmacyclics LLC, an AbbVie Company</orgName>
+								<address>
+									<settlement>Sunnyvale</settlement>
+									<region>California</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Tycel</forename><surname>Phillips</surname></persName>
+							<affiliation key="aff9">
+								<orgName type="department" key="dep1">Rogel Cancer Center</orgName>
+								<orgName type="department" key="dep2">Division of Hematology and Oncology</orgName>
+								<orgName type="institution">University of Michigan</orgName>
+								<address>
+									<settlement>Ann Arbor</settlement>
+									<region>Michigan</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff10">
+								<orgName type="department">Department of Hematology &amp; Hematopoietic Cell Transplantation, City of Hope National Medical Center</orgName>
+								<address>
+									<addrLine>1500 Duarte Rd</addrLine>
+									<postCode>91010</postCode>
+									<settlement>Duarte</settlement>
+									<region>CA</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff11">
+								<address>
+									<settlement>Dublin</settlement>
+									<country key="IE">Ireland</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Safety and activity of ibrutinib in combination with durvalumab in patients with relapsed or refractory follicular lymphoma or diffuse large B-cell lymphoma</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<idno type="DOI">10.1002/ajh.25659</idno>
+					<note type="submission">Received: 25 June 2019 Revised: 12 September 2019 Accepted: 11 October 2019</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.6.1" ident="GROBID" when="2020-10-09T18:38+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<abstract>
+				<p>This phase 1b/2, multicenter, open-label study evaluated ibrutinib plus durvalumab in relapsed/refractory follicular lymphoma (FL) or diffuse large B-cell lymphoma (DLBCL). Patients were treated with once-daily ibrutinib 560 mg plus durvalumab 10 mg/kg every 2 weeks in 28-day cycles in phase 1b without dose-limiting toxicities, confirming the phase 2 dosing. Sixty-one patients with FL (n = 27), germinal center B-cell (GCB) DLBCL (n = 16), non-GCB DLBCL (n = 16), and unspecified DLBCL (n = 2) were treated. Overall response rate (ORR) was 25% in all patients, 26% in patients with FL, 13% in patients with GCB DLBCL, and 38% in patients with non-GCB DLBCL. Overall, median progression-free survival was 4.6 months and median overall survival was 18.1 months; both were longer in patients with FL than in patients with DLBCL. The most frequent treatment-emergent adverse events (AEs) in patients with FL and DLBCL, respectively, were diarrhea (16 [59%]; 16 [47%]), fatigue (12 [44%]; 16 [47%]), nausea (9 [33%]; 12 [35%]), peripheral edema (7 [26%]; 13 [38%]), decreased appetite (8 [30%]; 11 [32%]), neutropenia (6 [22%]; 11 [32%]), and vomiting (5 [19%]; 12 [35%]). Investigator-defined immune-related AEs were reported in 12/61 (20%) patients. Correlative analyses were conducted but did not identify any conclusive biomarkers of response. In FL, GCB DLBCL, and non-GCB DLBCL, ibrutinib plus durvalumab demonstrated similar activity to single-agent ibrutinib with the added toxicity of the PD-L1 blockade; the combination resulted in a safety profile generally consistent with those known for each individual agent.</p>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="1">| INTRODUCTION</head><p>Diffuse large B-cell lymphoma (DLBCL) and follicular lymphoma (FL) are the most common subtypes of non-Hodgkin lymphoma in adults. <ref type="bibr" target="#b5">[1]</ref><ref type="bibr" target="#b6">[2]</ref><ref type="bibr" target="#b7">[3]</ref><ref type="bibr" target="#b8">[4]</ref> Although most patients respond to first-line chemoimmunotherapy, a substantial proportion of patients with DLBCL and most patients with FL will eventually relapse or have refractory disease. <ref type="bibr" target="#b5">[1]</ref><ref type="bibr" target="#b6">[2]</ref><ref type="bibr" target="#b7">[3]</ref><ref type="bibr" target="#b8">[4]</ref><ref type="bibr" target="#b9">[5]</ref> The treatment of relapsed/refractory DLBCL and FL remains challenging, with a minority of patients with DLBCL achieving durable remission and patients with FL experiencing decreased duration of remission with successive therapies. <ref type="bibr" target="#b5">[1]</ref><ref type="bibr" target="#b6">[2]</ref><ref type="bibr" target="#b7">[3]</ref><ref type="bibr" target="#b8">[4]</ref><ref type="bibr" target="#b9">[5]</ref> Effective, well-tolerated therapy for relapsed/refractory DLBCL and FL remains an unmet need.</p><p>Ibrutinib, a first-in-class, once-daily inhibitor of Bruton's tyrosine kinase (BTK), is approved in the United States, Europe, and other countries for the treatment of various B-cell malignancies. <ref type="bibr" target="#b10">6,</ref><ref type="bibr" target="#b12">7</ref> In addition to BTK, ibrutinib has also been shown to inhibit interleukin 2-inducible kinase, resulting in suppression of Th2 cells and potentiation of Th1-mediated immunity. <ref type="bibr" target="#b14">8</ref> Although ibrutinib has demonstrated clinically meaningful efficacy against many B-cell malignancies, the ORR to ibrutinib alone for patients with relapsed/refractory FL is approximately 21%-38% among current studies, and the ORR for patients with relapsed/refractory DLBCL receiving single-agent ibrutinib is 28%, motivating the investigation of combination approaches to improve response. <ref type="bibr" target="#b15">[9]</ref><ref type="bibr" target="#b16">[10]</ref><ref type="bibr" target="#b17">[11]</ref> Programmed death (PD)-1, an inhibitory receptor expressed by activated T cells, limits autoimmunity by suppressing T cell-mediated immune responses following engagement by its ligands, PD-L1 or PD-L2. <ref type="bibr" target="#b18">12</ref> Tumors frequently exploit the PD-1 pathway to evade immune surveillance via upregulation of PD-1 and/or PD-L1 expression on tumor cells and tumorassociated immune cells. <ref type="bibr" target="#b19">13</ref> Gene amplification of the PD-1 ligands and overexpression of PD-L1 on tumor cells and tumor-associated macrophages is present in certain subsets of patients with DLBCL, <ref type="bibr" target="#b20">14,</ref><ref type="bibr" target="#b21">15</ref> and PD-L1 expression is associated with poorer survival after standard therapy. <ref type="bibr" target="#b22">16</ref> High PD-1 expression on CD4+ tumor-infiltrating lymphocytes has been observed in FL. <ref type="bibr" target="#b23">[17]</ref><ref type="bibr" target="#b24">[18]</ref><ref type="bibr" target="#b25">[19]</ref> Durvalumab is an anti-PD-L1 antibody that restores antitumor immune responses. <ref type="bibr" target="#b26">20</ref> Other PD-1/PD-L1-targeted agents have demonstrated antitumor activity in patients with DLBCL or FL. <ref type="bibr" target="#b27">[21]</ref><ref type="bibr" target="#b28">[22]</ref><ref type="bibr" target="#b29">[23]</ref><ref type="bibr" target="#b30">[24]</ref> Notably, data from murine lymphoma models suggest that ibrutinib combined with an anti-PD-L1 antibody may have synergistic antitumor activity. <ref type="bibr" target="#b31">25</ref> Together, the immune-modulating properties of ibrutinib, PD-1/PD-L1 expression observed in patients with DLBCL and FL, and preclinical data suggesting synergy between the agents provide a strong rationale for investigating the combination of ibrutinib with PD-1/PD-L1 blockade in FL and DLBCL.</p><p>We therefore performed a phase 1b/2 study to evaluate the safety and antitumor activity of the combination of ibrutinib and durvalumab in patients with relapsed/refractory DLBCL or FL.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2">| METHODS</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.1">| Patients</head><p>Key eligibility criteria included age ≥18 years; pathologically confirmed DLBCL, with subtype identified via gene expression or immunohistochemistry tests, or FL (grade 1, 2, or 3A) according to World Health Organization criteria; relapsed/refractory disease to at least one line of therapy; measurable disease (≥1 lesion &gt;1.5 cm in longest dimension); adequate hematological function independent of transfusion and growth factor support; adequate hepatic and renal function; prothrombin time &lt;1.5 times the upper limit of normal <ref type="bibr">(ULN)</ref> and activated partial thromboplastin time &lt;1.5 times ULN; and Eastern Cooperative Oncology Group performance status of 0 or 1. In the phase 2 portion of the study within the DLBCL cohort, patients with germinal center B-cell (GCB) and non-GCB subtypes were to be enrolled in a 1:1 ratio.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.2">| Study design, treatment, and oversight</head><p>This was an open-label, multicenter phase 1b/2 study conducted at 12 centers in the United States from May 2015 to February 2018.</p><p>The phase 1b portion of the study employed a 6 + 3 de-escalation design to determine the recommended phase 2 dose of ibrutinib in combination with durvalumab, with starting doses of ibrutinib 560 mg and durvalumab 10 mg/kg in cohort 1. The first patient in each dose cohort served as a sentinel patient who was observed for a period of ≥3 days to monitor for any unexpected acute or overlapping toxicities before dosing of the next patient. If two of the first six patients experienced a dose-limiting toxicity (DLT) during cycle 1, an additional three patients were to be enrolled. If ≤1 of six or ≤2 of nine patients experienced a DLT, the dose level was to be defined as the recommended phase 2 dose. If ≥2 of six or ≥3 of nine DLTs were observed, dose de-escalation cohorts (ibrutinib to 420 mg and/or durvalumab to 3 mg/kg) were available to be opened. In the phase 2 portion of the study, patients were treated at the recommended phase 2 dose as determined in phase 1b. In all cohorts, ibrutinib was administered orally once daily for up to 3 years in combination with durvalumab given intravenously on days 1 and 15 of each 28-day cycle for up to 12 cycles in the absence of progressive disease (PD) or unacceptable toxicity.</p><p>This study was conducted according to principles of the Declaration of Helsinki and the International Conference on Harmonisation Guidelines for Good Clinical Practice, The study was approved by the institutional review boards, research ethics boards, or independent ethics committees of participating institutions. All patients provided written informed consent. This study was registered with ClinicalTrials.gov, number NCT02401048.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.3">| Outcomes and assessments</head><p>The primary endpoints of the phase 1b portion of the study were to determine the recommended phase 2 dose of ibrutinib in combination with durvalumab as well as safety and tolerability; secondary endpoints included overall response rate (ORR) and duration of response.</p><p>The primary endpoint of the phase 2 portion of the study was the ORR; secondary endpoints included duration of response, progression-free survival (PFS), overall survival (OS), safety, and tolerability.</p><p>Response evaluations were performed every three cycles until cycle 12 and every six cycles thereafter. Response was assessed by the investigator according to revised criteria for malignant lymphoma described by the International Working Group for non-Hodgkin Lymphoma. <ref type="bibr" target="#b32">26</ref> Adverse events (AEs) were coded using the Medical Dictionary for Regulatory Activities (version 20.0) and graded according to the National Cancer Institute Common Terminology Criteria for AEs (CTCAE), version 4.03. Treatment-emergent adverse events (TEAEs) were defined as (1) any AE occurring after the start of study treatment and within 30 days of the last dose of ibrutinib or within 90 days after the last dose of durvalumab, (2) any study drug-related AE regardless of start date, or (3) any AE present at baseline that worsens in severity of frequency after the start of study treatment or is considered by the investigator to be study drug-related. Treatment-related DLTs followed guidelines provided in the CTCAE (version 4.03) and were defined as (1) any grade 3 or higher nonhematologic AE or (2) clinically relevant hematologic AE.  and white (90%) ( <ref type="table">Table 1</ref>). The median time from initial diagnosis to the first dose of study treatment was 26.1 months (range: 6.0-362.5).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.4">| Biomarker analysis</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.5">| Statistical analysis</head><p>Most patients (85%) had received ≥2 prior treatment regimens (median: 2 regimens [range: 1-7]) and 52% had disease that was refractory to the last prior regimen <ref type="table">(Table 1)</ref>.</p><p>Sixty-one patients received ≥1 dose of ibrutinib and 58 patients received ≥1 dose of durvalumab; one enrolled patient did not receive any study treatment. The most common reason for discontinuation of study treatment was PD <ref type="table">(Table S1)</ref> No DLTs were observed in the phase 1b portion of the study. Therefore, the starting dose level of ibrutinib 560 mg once daily in combination with durvalumab 10 mg/kg every 2 weeks was defined as the recommended phase 2 dose level. These doses are the highest approved single-agent dose for each study treatment.  <ref type="figure">Figure 1B</ref>). ( <ref type="figure">Figure S1</ref>).    </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.1">| Best overall response</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.2">| PFS and OS</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.3">| Biomarkers</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="4">| DISCUSSION</head><p>Ibrutinib has been shown to suppress regulatory T cells, increase activation of cytotoxic T cells, and enhance proinflammatory cytokine secretion, <ref type="bibr" target="#b15">9,</ref><ref type="bibr" target="#b36">30</ref> all of which might be expected to provide a more favorable tumor microenvironment for response to PD-1/PD-L1-targeted therapies. Despite this strong rationale for the combination of ibrutinib with PD-1/PD-L1-targeted therapy and preclinical evidence in murine lymphoma models for synergistic antitumor activity with ibrutinib plus durvalumab, <ref type="bibr" target="#b31">25</ref> our phase 1b/2 study of ibrutinib 560 mg once daily with durvalumab 10 mg/kg every 2 weeks met the early efficacy stopping rule. This suggests that the antitumor activity of the combination was similar to what would be expected with single-agent ibrutinib therapy in patients with relapsed/refractory FL and DLBCL.</p><p>In patients with relapsed/refractory FL, the ORR of 26% with the combination of ibrutinib plus durvalumab was similar to the ORR of 21% observed with single-agent ibrutinib in patients with relapsed/refractory FL in the phase 2 DAWN study 9 and was slightly lower than the ORR of 38% observed with single-agent ibrutinib in a phase 2 consortium in patients with relapsed/refractory FL. <ref type="bibr" target="#b16">10</ref> Although the ORR of 26% with ibrutinib plus durvalumab was lower than the previously observed response rate in a phase 1 study of single-agent nivolumab in patients with relapsed/refractory FL (40%), 23 a subsequent larger phase 2 study of nivolumab in patients with relapsed/refractory FL demonstrated that the ORR was only 4% (ClinicalTrials.gov, NCT02038946). The median PFS of 10.2 months achieved by patients with FL on combination treatment in this study, in which almost 80% of patients were on at least their third line of treatment, was comparable to the median PFS of 1 year reported for patients with FL on their third-line treatment. <ref type="bibr" target="#b37">31</ref> In patients with relapsed/refractory DLBCL, the ORR with the combination of ibrutinib plus durvalumab was 38% for patients with the non-GCB subtype and 13% for those with the GCB subtype.</p><p>These ORRs are consistent with those previously observed with single-agent ibrutinib in a phase 1/2 study in patients with relapsed/ refractory DLBCL, which demonstrated ORRs of 37% in patients with the activated B-cell subtype and 5% in those with the GCB subtype. <ref type="bibr" target="#b38">32</ref> The differential response rates between these subtypes is probably explained by chronic active B-cell receptor signaling, which activates the NF-ĸB pathway through BTK in non-GCB tumors but not in GCB tumors. <ref type="bibr" target="#b39">33</ref> DLBCL of the non-GCB subtype might also be expected to benefit to a greater extent from PD-1/PD-L1-targeted therapy, as high PD-L1 expression is only observed in non-GCB subtypes. <ref type="bibr" target="#b20">14,</ref><ref type="bibr" target="#b21">15</ref> While single-agent PD-1 blockade has demonstrated antitumor activity in patients with relapsed/refractory DLBCL, cell-of-origin analyses have not been conducted. <ref type="bibr" target="#b27">21,</ref><ref type="bibr" target="#b29">23</ref> In addition, despite the promising activity observed in initial studies, a larger phase 2 study of nivolumab in relapsed/refractory DLBCL demonstrated a response rate of only 10% (n = 121). <ref type="bibr" target="#b30">24</ref> Tumor mutation load was not found to correlate with best response Based on initial studies that suggested promising antitumor activity with PD-1/PD-L1 blockade, we and others undertook studies to evaluate the safety and activity of anti-PD-1/PD-L1-based combinations.</p><p>However, subsequent studies of anti-PD-1 monotherapy have demonstrated that the single-agent response rate in FL and DLBCL is 10% or lower (ClinicalTrials.gov, NCT02038946). Unfortunately, despite a strong rationale and promising preclinical data, the combination of ibrutinib and durvalumab demonstrated similar activity to single-agent ibrutinib and was associated with the added toxicity of PD-L1 blockade, although the safety profile of the combination was generally consistent with those known for each individual agent. Thus, this combination does not warrant further study in FL or DLBCL. As PD-1/PD-L1 combinations continue to be evaluated in patients with non-Hodgkin lymphoma, it will be critical to understand the biological basis for response to those agents in order to identify target populations for further study. </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>ACKNOWLEDGMENTS</head></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head></head><label></label><figDesc>Samples including peripheral blood, tumor tissue, buccal swabs, and other specimens, such as skin biopsies and fluid collected during the study, were used for biomarker analysis. Tumor tissue PD-L1 expression was visualized via immunohistochemistry with Dako PD-L1 22C3 pharmDx kit (Cancer Genetics, Rutherford, NJ, USA) following the kit instructions, with high PD-L1 expression defined as ≥50% positive tumor cells. 27,28 DNA was extracted for genomic testing using a targeted next-generation sequencing panel, ACE Extended Cancer Panel for DNA (Personalis, Menlo Park, CA, USA), which includes more than 1400 genes involved in cancer biology and more than 200 cancer-related microRNAs to assess baseline tumor mutation load and characterize somatic variants. Depending on tumor tissue availability, between 1 and 2 μg of tumor DNA was used as input material for panel testing, which resulted in an average &gt;500-fold coverage over the extended DNA panel footprint. Tumor mutation burden was limited to mutations that resulted in changes in amino acids and was evaluated for correlations in patients with complete response (CR), in nonevaluable (nonresponsive) patients, or in patients with PD using a Wilcoxon rank-sum test. The pharmacodynamics of durvalumab were assessed through measurement of the reduction in levels of free soluble PD-L1 in serum using an enzyme-linked immunosorbent assay.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head></head><label></label><figDesc>Efficacy and safety were evaluated in all patients who received ≥1 dose of any study treatment. ORR was evaluated as the proportion of patients achieving a best overall response of CR or partial response with two-sided 95% confidence intervals (CIs) based on exact binomial distribution (Clopper-Pearson interval). Time to event endpoints were estimated using the Kaplan-Meier method. Safety and tolerability were analyzed using descriptive summaries.The statistical design for both the FL and DLBCL cohorts in phase 2, including number of patients and responders, follows the statistical framework of Simon's two-stage design.<ref type="bibr" target="#b35">29</ref> To ensure adequate statistical power to determine a difference in ORR compared with singleagent ibrutinib for the phase 2 portion of the study, a maximum of 39 FL patients and 34 DLBCL patients (at a 1:1 ratio for GCB and non-GCB subtypes) were enrolled. Interim analysis was planned for the first 19 response-evaluable patients in the FL cohort and for the first nine response-evaluable patients in the DLBCL cohort.The response-evaluable population was defined as all patients who received ≥1 dose of any study treatment and provided ≥1 postbaseline response assessment. Cohort discontinuation was to be considered if there were ≤6 of 19 responders in the FL cohort or ≤1 of nine responders in the DLBCL cohort. However, assessment of biomarkers or tumor measurements could support continued enrollment. Enrollment continued while the first 19 FL and nine DLBCL patients underwent efficacy assessment. Enrollment was discontinued following interim analysis showing that stopping rules had been met. The primary analysis was considered the final analysis and was conducted after all patients had the opportunity to receive 12 cycles of durvalumab. The study was completed on February 5, 2018. 3 | RESULTS Beginning on May 11, 2015, 62 patients were enrolled, including 27 with FL and 35 with DLBCL (GCB, n = 17; non-GCB, n = 16; unknown, n = 2). The median age in all patients was 60 years (range: 22-82), with a median of 57 years (range: 31-79) in FL patients, 68 years (range: 22-82) in GCB DLBCL patients, and 67 years (range: 39-82) in non-GCB DLBCL patients; most patients were male (62%)</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_2"><head></head><label></label><figDesc>. The median follow-up duration was 17.3 months (range: 0.2-28.1) for all patients, 17.0 months (range: 1.8+−28.1) for patients with FL, and 17.5 months (range: 0.2-23.6) for patients with DLBCL.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_3"><head></head><label></label><figDesc>Among patients with FL on combination treatment who had tumor measurements at baseline and at least one time point posttreatment, 19 of 26 (73%) patients exhibited a decrease in tumor size; 7 of 26 (27%) patients experienced reductions &gt;50% (Figure S1). Of 18 treated patients with DLBCL who had tumor measurements at baseline and at least one posttreatment time point, 10 (56%) exhibited tumor size reduction; 8 of 18 (44%) patients had reductions &gt;50%</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_4"><head>8 F</head><label>8</label><figDesc>Overall baseline tumor mutation load based on a targeted panel consisting of approximately 1400 cancer-related genes was available for 13 patients with FL (median, 94 mutations [range, 65-103]) and seven patients with DLBCL (median, 96 mutations [range, 69-153]). In these patients, tumor mutational burden at baseline was not associated with best response status or maximum tumor shrinkage in either FL or DLBCL cohorts. In a small subset of patients with FL in whom tumor tissue was available (n = 11), baseline somatic variants in the HIST1H1E and CANT1 genes were correlated with increased tumor shrinkage (n = 11) (Figure S2). Additionally, the P21R single nucleotide polymorphism (SNP) in the TNFRSF13C gene was correlated with clinical progression in non-GCB DLBCL patients (n = 7). For all 41 patients with evaluable data, serum PD-L1 was suppressed to below the limit of quantitation starting within 10 minutes of the first dose of durvalumab and continuing throughout the dosing interval, I G U R E 1 Best response among patients with FL and DLBCL* (A) and duration of response among patients with complete or partial response (B). CR, complete response; DLBCL, diffuse large B-cell lymphoma; FL, follicular lymphoma; GCB, germinal center B-cell; ORR, overall response rate; PR, partial response; SD, stable disease. *Excludes two patients with unspecified DLBCL subtype regardless of response. At baseline, only one patient with evaluable response had high (&gt;50%) PD-L1 expression in tumor cells; this patient had GCB DLBCL and a best response of PD. One non-GCB DLBCL patient with a nonevaluable response also had high PD-L1 expression. No FL patients who were evaluable for response had &gt;10% PD-L1-positive tumor cells. Due to the small number of patients with high PD-L1 at baseline, the association of PD-L1 expression with clinical response could not be determined.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_5"><head>3. 4 |</head><label>4</label><figDesc>SafetyAmong the 61 patients who received ≥1 dose of study medication, the median duration of exposure to ibrutinib was 3.8 months (range: 0.1-23.2) and median duration of exposure to durvalumab was 3.0 months (range: 0.0-10.6). The most common TEAEs were generally grade 1/2 (Table 2). Atrial fibrillation, arthralgia, and anemia of any grade each occurred in 10% of all patients. Grade 3/4 TEAEs were reported in 34 (56%) patients; the most frequent (≥5%) grade 3/4 TEAEs were neutropenia (n = 13, 21%), dyspnea (n = 6, 10%), fatigue (n = 5, 8%), atrial fibrillation (n = 4, 7%), peripheral edema (n = 4, 7%), and rash maculopapular (n = 4, 7%) (Table 2). One FL patient had grade 5 multiple organ dysfunction syndrome. Serious TEAEs were reported in 33 (54%) patients; the most common (≥2%) serious TEAEs were atrial fibrillation (n = 4, 7%), and neutropenia, peripheral edema, pyrexia, cellulitis, pneumonia, urinary tract infection, hypercalcemia, muscular weakness, syncope, and dyspnea were reported in two patients (3%) each. Ibrutinib was discontinued because of TEAEs not related to PD in four patients (7%), including left ventricular failure, pneumonitis, peripheral edema, and autoimmune hepatitis, which occurred in one patient (2%) each. Durvalumab was discontinued because of TEAEs not related to PD in five patients (8%). The only TEAE leading to durvalumab discontinuation in ≥2 patients was pneumonitis (n = 2, 3%), with left ventricular failure, autoimmune hepatitis, and alanine aminotransferase increase occurring in one patient (2%) each.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_6"><head>FL 2</head><label>2</label><figDesc>Progression-free survival in patients with (A) FL and (B) DLBCL. Overall survival in in patients with (C) FL and (D) DLBCL. DLBCL, diffuse large B-cell lymphoma; FL, follicular lymphoma; GCB, germinal center B-cell; PFS, progression-free survival; OS, overall survival. *Includes patients with GCB DLBCL, non-GCB DLBCL, and unspecified DLBCL. "+" denotes censored observation [Color figure can be viewed at wileyonlinelibrary.com] Overall, investigator-defined immune-related AEs were reported in 12 (20%) patients and were grade 3/4 in seven (11%) patients. Immune-related AEs occurred in five of 27 (19%) patients with FL and in seven of 34 (21%) patients with DLBCL. Immune-related AEs of any grade occurring in ≥2 patients were rash maculopapular (n = 4, 7%), pneumonitis (n = 3, 5%), and dyspnea (n = 2, 3%).</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_7"><head></head><label></label><figDesc>status or tumor shrinkage in either cohort based on a targeted panel of approximately 1400 cancer-related genes. Further analysis with wholegenome sequencing or whole-exome sequencing would be informative for assessing global mutation load as it relates to response and tumor shrinkage. Baseline somatic variants in two genes, CANT1 and HIST1H1E, were correlated with tumor shrinkage in the FL cohort, and presence of the P21R SNP in the TNFRSF13C gene was correlated with PD status in the non-GCB DLBCL cohort. These correlations are based on small sample sizes and should not be considered true predictive biomarkers of response to the study regimen. These data evaluating somatic mutations associated with response are hypothesis generating, precluding definitive conclusion and requiring further confirmation. While the association of PD-L1 expression with response could not be determined in this study, recent work has demonstrated an association between expression of PD-L1 and CR in DLBCL patients treated with combination ibrutinib and nivolumab, an antibody to the PD-1 receptor. 34 The difference in results of the two studies could be attributed to potential differences in the mechanism of action of durvalumab and nivolumab (ie, PD-L1 rather than PD-1 blockade), differences in methodologies for PD-L1 detection and definitions of elevated PD-L1 expression, or other differences in study design. Further study of correlation between response and PD-L1 expression in FL patients may be worthwhile; however, the low antitumor activity observed with PD-L1 blockade in FL might make such studies difficult. Overall, safety findings with the combination of ibrutinib plus durvalumab were consistent with the known safety profiles of the individual drugs, with no new safety signals identified. The combination demonstrated acceptable tolerability at the highest dose level tested (ibrutinib 560 mg once daily in combination with durvalumab 10 mg/kg every 2 weeks), with no DLTs observed. No clinically meaningful differences were observed in the safety profile of the combination between the FL and DLBCL groups other than those expected due to disease type and duration of observation in the study.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_8"><head></head><label></label><figDesc>This study was sponsored byPharmacyclics  LLC, an AbbVie Company. Medical writing support was provided by Corey Mandel, PhD, and funded by Pharmacyclics LLC, an AbbVie Company. A.F. Herrera was supported by the National Cancer Institute of the National Institutes of Health under award numbers NIH 2K12CA001727-21 and P50CA107399, as well as the Lymphoma Research Foundation Larry and Denise Mason Clinical Investigator Career Development Award, and a Leukemia and Lymphoma Society Scholar in Clinical Research Award. The content is solely the responsibility of the authors and does not necessarily represent the official views of the National Institutes of Health. LLC, an AbbVie Company, and stock or other ownership in AbbVie. John S. Hill: employment with Amgen and Pfizer, and previously employed with Pharmacyclics LLC, an AbbVie Company; consultancy/ advisory role for Adgero Biopharmaceuticals; stock or other ownership in Amgen, AbbVie, and Pfizer; and patents, royalties, or other intellectual property with Amgen and Miravant Medical. Kevin Kwei: employment with Pharmacyclics LLC, an AbbVie Company, and stock or other ownership in AbbVie and Gilead. Emily A. Liu: employment with Pharmacyclics LLC, an AbbVie Company, and stock or other ownership in AbbVie. Tycel Phillips: consultancy/advisory role for Pharmacyclics LLC, an AbbVie Company, Genentech, Seattle Genetics, Curis, Gilead, Bayer and Incyte; and research funding from Bayer, Genentech, Incyte, AbbVie, and Pharmacyclics LLC, an AbbVie Company. AUTHOR CONTRIBUTIONS AFH, SG, JSH, KK, and EAL designed the analysis and interpreted the data. AFH, AG, AM, RR, JMP, JS, and TP collected data. SG performed statistical analyses. AFH, SG, JSH, KK, and EAL wrote the initial draft of the manuscript. All authors had full access to the data, contributed to data interpretation, and vouch for accuracy of the data. All authors were involved in manuscript preparation and approved the final version of the manuscript. ORCID Alex F. Herrera https://orcid.org/0000-0002-9665-7415</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head></head><label></label><figDesc>Among 61 patients who were treated, 15 patients had an objective response (25%; 95% CI, 15-37). ORRs were 26% (7/27 patients; 95% CI, 11-46) in FL patients, 13% (2/16 patients; 95% CI, 2-38) in patients with GCB DLBCL, and 38% (6/16 patients; 95% CI, in patients with non-GCB DLBCL (Figure 1A). CR was observed in one (4%) FL patient, one (6%) GCB DLBCL patient, and five (31%) non-GCB DLBCL patients. Partial response was observed in six (22%) FL patients, one (6%) GCB DLBCL patient, and one (6%) non-GCB DLBCL patient. Among all patients with a best response of CR or partial response, median duration of response was 11.3 months (95% CI, 5.5-not evaluable [NE]). Median duration of response was NE (95% CI, 5.5-NE) in T A B L E 1 Baseline demographic and disease characteristics</figDesc><table><row><cell></cell><cell>FL</cell><cell>GCB DLBCL</cell><cell>Non-GCB DLBCL</cell><cell>All DLBCL</cell><cell>All patients</cell></row><row><cell>Characteristic</cell><cell>n = 27</cell><cell>n = 16</cell><cell>n = 16</cell><cell>n = 34 a</cell><cell>n = 61 b</cell></row><row><cell>Median age (range), years</cell><cell>57 (31-79)</cell><cell>68 (22-82)</cell><cell>67 (39-82)</cell><cell>(22-82)</cell><cell>60 (22-82)</cell></row><row><cell>Sex, n (%)</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Male</cell><cell>17 (63)</cell><cell>12 (75)</cell><cell>8 (50)</cell><cell>(62)</cell><cell>38 (62)</cell></row><row><cell>Female</cell><cell>10 (37)</cell><cell>4 (25)</cell><cell>8 (50)</cell><cell>(38)</cell><cell>23 (38)</cell></row><row><cell>Race, n (%)</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>White</cell><cell>23 (85)</cell><cell>15 (94)</cell><cell>15 (94)</cell><cell>(94)</cell><cell>55 (90)</cell></row><row><cell>Black/African American</cell><cell>1 (4)</cell><cell>0</cell><cell>1 (6)</cell><cell>(3)</cell><cell>2 (3)</cell></row><row><cell>Unknown</cell><cell>3 (11)</cell><cell>1 (6)</cell><cell>0</cell><cell>(3)</cell><cell>4 (7)</cell></row><row><cell>ECOG performance status, n (%)</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>0</cell><cell>15 (56)</cell><cell>7 (44)</cell><cell>9 (56)</cell><cell>(47)</cell><cell>31 (51)</cell></row><row><cell>1</cell><cell>12 (44)</cell><cell>9 (56)</cell><cell>7 (44)</cell><cell>(53)</cell><cell>30 (49)</cell></row><row><cell>≥2</cell><cell>0</cell><cell>0</cell><cell>0</cell><cell>0</cell><cell>0</cell></row><row><cell>De novo DLBCL, n (%)</cell><cell>NA</cell><cell>16 (100)</cell><cell>16 (100)</cell><cell>(100)</cell><cell>NA</cell></row><row><cell>Bulky disease ≥5 cm, n (%)</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Yes</cell><cell>10 (37)</cell><cell>7 (44)</cell><cell>7 (44)</cell><cell>(41)</cell><cell>24 (39)</cell></row><row><cell>No</cell><cell>14 (52)</cell><cell>6 (38)</cell><cell>7 (44)</cell><cell>(41)</cell><cell>28 (46)</cell></row><row><cell>Unknown</cell><cell>3 (11)</cell><cell>3 (19)</cell><cell>2 (13)</cell><cell>(18)</cell><cell>9 (15)</cell></row><row><cell>B symptoms, n (%)</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Yes</cell><cell>9 (33)</cell><cell>3 (19)</cell><cell>4 (25)</cell><cell>(21)</cell><cell>16 (26)</cell></row><row><cell>No</cell><cell>18 (67)</cell><cell>12 (75)</cell><cell>12 (75)</cell><cell>(76)</cell><cell>44 (72)</cell></row><row><cell>Unknown</cell><cell>0</cell><cell>1 (6)</cell><cell>0</cell><cell>(3)</cell><cell>1 (2)</cell></row><row><cell>WHO grade of FL, n (%)</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>1</cell><cell>2 (7)</cell><cell>NA</cell><cell>NA</cell><cell>NA</cell><cell>NA</cell></row><row><cell>2</cell><cell>15 (56)</cell><cell>NA</cell><cell>NA</cell><cell>NA</cell><cell>NA</cell></row><row><cell>3A</cell><cell>10 (37)</cell><cell>NA</cell><cell>NA</cell><cell>NA</cell><cell>NA</cell></row><row><cell>3B</cell><cell>0</cell><cell>NA</cell><cell>NA</cell><cell>NA</cell><cell>NA</cell></row><row><cell>Number of prior regimens, n (%)</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>1</cell><cell>6 (22)</cell><cell>2 (13)</cell><cell>1 (6)</cell><cell>(9)</cell><cell>9 (15)</cell></row><row><cell>≥2</cell><cell>21 (78)</cell><cell>14 (88)</cell><cell>15 (94)</cell><cell>(91)</cell><cell>52 (85)</cell></row><row><cell>Median number of prior regimens (range)</cell><cell>2.0 (1.0-4.0)</cell><cell>2.0 (1.0-4.0)</cell><cell>3.0 (1.0-7.0)</cell><cell>2.5 (1.0-7.0)</cell><cell>2.0 (1.0-7.0)</cell></row><row><cell>Disease status following completion of</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>last prior regimen, n (%)</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Relapsed from CR</cell><cell>14 (52)</cell><cell>2 (13)</cell><cell>7 (44)</cell><cell>(26)</cell><cell>23 (38)</cell></row><row><cell>Relapsed from PR</cell><cell>2 (7)</cell><cell>1 (6)</cell><cell>2 (13)</cell><cell>(12)</cell><cell>6 (10)</cell></row><row><cell>Refractory (SD or PD)</cell><cell>11 (41)</cell><cell>13 (81)</cell><cell>7 (44)</cell><cell>(62)</cell><cell>32 (52)</cell></row><row><cell>Median time from initial diagnosis to</cell><cell>49.9 (9.8-362.5)</cell><cell>14.1 (6.0-104.1)</cell><cell>19.5 (7.3-86.7)</cell><cell>14.7 (6.0-104.1)</cell><cell>26.1 (6.0-362.5)</cell></row><row><cell>first dose (range), months</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row></table><note>Abbreviations: CR, complete response; DLBCL, diffuse large B-cell lymphoma; ECOG, Eastern Cooperative Oncology Group; FL, follicular lymphoma; GCB, germinal center B-cell; NA, not applicable; PD, progressive disease; PR, partial response; SD, stable disease; WHO, World Health Organization.a Includes patients with GCB DLBCL, non-GCB DLBCL, and unspecified DLBCL.b Patients who received ≥1 dose of study treatment.patients with GCB DLBCL, NE (95% CI, 2.5-NE) in those with non-GCB DLBCL, and 11.3 months (95% CI, 8.3-NE) in patients with FL (</note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_1"><head></head><label></label><figDesc>Sixty-one patients were included in this analysis. Overall, the median PFS was 4.6 months (95% CI, 2.6-7.8) and the median OS was 18.1 months</figDesc><table /><note>(95% CI, 7.8-NE). PFS and OS were longer in patients with FL compared to those with DLBCL, with a median PFS of 10.2 months (95% CI, 4.7-13.1); median OS was NE (95% CI, 23.6-NE). GCB DLBCL patients had a median PFS of 2.9 months (95% CI, 1.2-5.1) and a median OS of 5.5 months (95% CI, 3.2-13.2), and non-GCB DLBCL patients had a median PFS of 4.1 months (95% CI, 1.2-10.1) and a median OS of 7.3 months (95% CI, 1.8-NE) (Figure 2). Twelve-month PFS was 39.2% (95% CI, 18.8-59.1) in FL patients, 12.5% (95% CI, 2.1-32.8) in GCB DLBCL patients, and 26.7% (95% CI, 8.3-49.6) in non-GCB DLBCL patients.</note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_2"><head></head><label></label><figDesc>Treatment-emergent AEs of all grades occurring in ≥15% of all patients</figDesc><table><row><cell>T A B L E 2 AE, n (%)</cell><cell>FL n = 27 All Grades</cell><cell>Grade 3/4</cell><cell>All DLBCL n = 34 a All Grades</cell><cell>Grade 3/4</cell><cell>All n = 61 All Grades</cell><cell>Grade 3/4</cell></row><row><cell>Diarrhea</cell><cell>16 (59)</cell><cell>1 (4)</cell><cell>16 (47)</cell><cell>1 (3)</cell><cell>32 (52)</cell><cell>2 (3)</cell></row><row><cell>Fatigue</cell><cell>12 (44)</cell><cell>1 (4)</cell><cell>16 (47)</cell><cell>4 (12)</cell><cell>28 (46)</cell><cell>5 (8)</cell></row><row><cell>Nausea</cell><cell>9 (33)</cell><cell>0</cell><cell>12 (35)</cell><cell>1 (3)</cell><cell>21 (34)</cell><cell>1 (2)</cell></row><row><cell>Peripheral edema</cell><cell>7 (26)</cell><cell>1 (4)</cell><cell>13 (38)</cell><cell>3 (9)</cell><cell>20 (33)</cell><cell>4 (7)</cell></row><row><cell>Decreased appetite</cell><cell>8 (30)</cell><cell>0</cell><cell>11 (32)</cell><cell>1 (3)</cell><cell>19 (31)</cell><cell>1 (2)</cell></row><row><cell>Neutropenia</cell><cell>6 (22)</cell><cell>4 (15)</cell><cell>11 (32)</cell><cell>9 (26)</cell><cell>17 (28)</cell><cell>13 (21)</cell></row><row><cell>Vomiting</cell><cell>5 (19)</cell><cell>0</cell><cell>12 (35)</cell><cell>0</cell><cell>17 (28)</cell><cell>0</cell></row><row><cell>Upper respiratory tract infection</cell><cell>12 (44)</cell><cell>0</cell><cell>3 (9)</cell><cell>0</cell><cell>15 (25)</cell><cell>0</cell></row><row><cell>Cough</cell><cell>8 (30)</cell><cell>0</cell><cell>6 (18)</cell><cell>0</cell><cell>14 (23)</cell><cell>0</cell></row><row><cell>Dyspnea</cell><cell>6 (22)</cell><cell>2 (7)</cell><cell>8 (24)</cell><cell>4 (12)</cell><cell>14 (23)</cell><cell>6 (10)</cell></row><row><cell>Rash maculopapular</cell><cell>6 (22)</cell><cell>3 (11)</cell><cell>7 (21)</cell><cell>1 (3)</cell><cell>13 (21)</cell><cell>4 (7)</cell></row><row><cell>Back pain</cell><cell>6 (22)</cell><cell>1 (4)</cell><cell>5 (15)</cell><cell>0</cell><cell>11 (18)</cell><cell>1 (2)</cell></row><row><cell>Pyrexia</cell><cell>3 (11)</cell><cell>0</cell><cell>8 (24)</cell><cell>2 (6)</cell><cell>11 (18)</cell><cell>2 (3)</cell></row><row><cell>Constipation</cell><cell>3 (11)</cell><cell>0</cell><cell>7 (21)</cell><cell>0</cell><cell>10 (16)</cell><cell>0</cell></row><row><cell>Dry mouth</cell><cell>4 (15)</cell><cell>0</cell><cell>6 (18)</cell><cell>0</cell><cell>10 (16)</cell><cell>0</cell></row><row><cell>Hyperuricemia</cell><cell>5 (19)</cell><cell>1 (4)</cell><cell>5 (15)</cell><cell>1 (3)</cell><cell>10 (16)</cell><cell>2 (3)</cell></row><row><cell>Insomnia</cell><cell>4 (15)</cell><cell>0</cell><cell>6 (18)</cell><cell>0</cell><cell>10 (16)</cell><cell>0</cell></row><row><cell>Thrombocytopenia</cell><cell>4 (15)</cell><cell>0</cell><cell>6 (18)</cell><cell>2 (6)</cell><cell>10 (16)</cell><cell>2 (3)</cell></row><row><cell>Dizziness</cell><cell>3 (11)</cell><cell>1 (4)</cell><cell>6 (18)</cell><cell>0</cell><cell>9 (15)</cell><cell>1 (2)</cell></row><row><cell>Increased tendency to bruise</cell><cell>5 (19)</cell><cell>0</cell><cell>4 (12)</cell><cell>0</cell><cell>9 (15)</cell><cell>0</cell></row><row><cell>Muscle spasms</cell><cell>6 (22)</cell><cell>0</cell><cell>3 (9)</cell><cell>0</cell><cell>9 (15)</cell><cell>0</cell></row><row><cell cols="4">Abbreviations: AE, adverse event; DLBCL, diffuse large B-cell lymphoma; FL, follicular lymphoma.</cell><cell></cell><cell></cell><cell></cell></row></table><note>a Includes patients with GCB DLBCL, non-GCB DLBCL, and unspecified DLBCL.</note></figure>
+		</body>
+		<back>
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>SUPPORTING INFORMATION</head><p>Additional supporting information may be found online in the </p></div>			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<monogr>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Alex</forename><forename type="middle">F</forename><surname>Herrera</surname></persName>
+		</author>
+		<title level="m">Pharmacyclics LLC, an AbbVie Company, Adaptive Biotechnologies, and Kite Pharma; and research funding from Bristol-Myers Squibb</title>
+		<meeting><address><addrLine>Genentech, Merck; Genentech, Merck, Pharmacyclics LLC, an AbbVie Company, Kite Pharma, Seattle Genetics</addrLine></address></meeting>
+		<imprint/>
+	</monogr>
+	<note>/advisory role for Bristol-Myers Squibb</note>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<monogr>
+		<title level="m" type="main">Goy: honoraria, consultancy/advisory role, research funding, and speakers bureau for Takeda, Pharmacyclics LLC, an AbbVie Company</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Astrazeneca</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Andre</surname></persName>
+		</author>
+		<imprint>
+			<pubPlace>Janssen, Acerta, Kite/Gilead, and Genentech</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<monogr>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Kite</forename><surname>Celgene</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Bristol-Myers</forename><surname>Squibb</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Witty</forename><surname>Carevive</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Kyowa</forename><surname>Health</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Kirin</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Gilead</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Kite</forename><surname>Astrazeneca</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Pharma</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Seattle</forename><surname>Spectrum</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Genetics</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Llc</forename><surname>Pharmacyclics</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Abbvie</forename><surname>Company</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Janssen</forename></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Kyowa</forename><surname>Kirin</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">;</forename><surname>Research Funding From Roche</surname></persName>
+		</author>
+		<title level="m">Pharmacyclics LLC, an AbbVie Company, and Seattle Genetics. Radhakrishnan Ramchandren: consultancy/advisory role from Pharmacyclics LLC, an AbbVie Company; and research funding from Janssen and Pharmacyclics LLC, an AbbVie Company</title>
+		<meeting><address><addrLine>Incyte, Bristol-Myers Squibb, Kite Pharma, Juno, Astex, ADCT, TG Therapeutics, Merck, Rhizen, Takeda</addrLine></address></meeting>
+		<imprint/>
+	</monogr>
+	<note>Amitkumar Mehta: consultancy/advisory role for</note>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<monogr>
+		<title level="m" type="main">Pagel: consultancy/advisory role for Pharmacyclics LLC, an</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>John</surname></persName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<monogr>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Abbvie</forename><surname>Company</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Gilead</forename><forename type="middle">Jakub</forename><surname>Svoboda</surname></persName>
+		</author>
+		<title level="m">Pharmacyclics LLC, an AbbVie Company, and AstraZeneca; and research funding from Bristol-Myers Squibb, Merck, Seattle Genetics, Pharmacyclics LLC, an AbbVie Company, Celgene, and Incyte. Shanhong Guan: employment with Pharmacyclics REFERENCES</title>
+		<meeting><address><addrLine>Kite, Seattle Genetics, Kyowa</addrLine></address></meeting>
+		<imprint/>
+	</monogr>
+	<note>honoraria from Seattle Genetics; consultancy/advisory role for Bristol-Myers Squibb</note>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Diffuse large B-cell lymphoma</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Martelli</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><forename type="middle">J</forename><surname>Ferreri</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><surname>Agostinelli</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Di</forename><surname>Rocco</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Pfreundschuh</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Pileri</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><forename type="middle">A</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Crit Rev Oncol Hematol</title>
+		<imprint>
+			<biblScope unit="volume">87</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="146" to="171" />
+			<date type="published" when="2013" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Diffuse large B-cell lymphoma (DLBCL): ESMO Clinical Practice Guidelines for diagnosis, treatment and follow-up</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><surname>Tilly</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Gomes Da Silva</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">U</forename><surname>Vitolo</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ann Oncol</title>
+		<imprint>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page" from="116" to="125" />
+			<date type="published" when="2015" />
+		</imprint>
+	</monogr>
+	<note>Suppl</note>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Current therapeutic strategies and new treatment paradigms for follicular lymphoma</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Kritharis</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Sharma</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><forename type="middle">M</forename><surname>Evens</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Cancer Treat Res</title>
+		<imprint>
+			<biblScope unit="volume">165</biblScope>
+			<biblScope unit="page" from="197" to="226" />
+			<date type="published" when="2015" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Newly diagnosed and relapsed follicular lymphoma: ESMO Clinical Practice Guidelines for diagnosis, treatment and follow-up</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Dreyling</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Ghielmini</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Rule</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">G</forename><surname>Salles</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">U</forename><surname>Vitolo</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Ladetto</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ann Oncol</title>
+		<imprint>
+			<biblScope unit="volume">27</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page" from="83" to="90" />
+			<date type="published" when="2016" />
+		</imprint>
+	</monogr>
+	<note>suppl</note>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Outcomes in refractory diffuse large B-cell lymphoma: results from the international SCHOLAR-1 study</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Crump</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><forename type="middle">S</forename><surname>Neelapu</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">U</forename><surname>Farooq</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Blood</title>
+		<imprint>
+			<biblScope unit="volume">130</biblScope>
+			<biblScope unit="issue">16</biblScope>
+			<biblScope unit="page" from="1800" to="1808" />
+			<date type="published" when="2017" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<monogr>
+		<title level="m" type="main">IMBRUVICA (Ibrutinib)</title>
+		<imprint/>
+	</monogr>
+	<note>Prescribing Information</note>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<monogr>
+		<title/>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Llc</forename><surname>Pharmacyclics</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2019" />
+			<pubPlace>Sunnyvale, CA</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<monogr>
+		<title/>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Imbruvica (ibrutinib</surname></persName>
+		</author>
+		<imprint/>
+	</monogr>
+	<note>Summary of Product Characteristics</note>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<monogr>
+		<title/>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">N</forename><forename type="middle">V</forename><surname>Janssen-Cilag International</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2018" />
+			<pubPlace>Beerse, Belgium</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">Ibrutinib is an irreversible molecular inhibitor of ITK driving a Th1-selective pressure in T lymphocytes</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">A</forename><surname>Dubovsky</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><forename type="middle">A</forename><surname>Beckwith</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">G</forename><surname>Natarajan</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Blood</title>
+		<imprint>
+			<biblScope unit="volume">122</biblScope>
+			<biblScope unit="issue">15</biblScope>
+			<biblScope unit="page" from="2539" to="2549" />
+			<date type="published" when="2013" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Ibrutinib as treatment for patients with relapsed/refractory follicular lymphoma: results from the open-label, multicenter, phase II DAWN study</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><forename type="middle">K</forename><surname>Gopal</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><forename type="middle">J</forename><surname>Schuster</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">N</forename><forename type="middle">H</forename><surname>Fowler</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Clin Oncol</title>
+		<imprint>
+			<biblScope unit="volume">36</biblScope>
+			<biblScope unit="issue">23</biblScope>
+			<biblScope unit="page" from="2405" to="2412" />
+			<date type="published" when="2018" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Single-agent ibrutinib in relapsed or refractory follicular lymphoma: a phase 2 consortium trial</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">N</forename><forename type="middle">L</forename><surname>Bartlett</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">B</forename><forename type="middle">A</forename><surname>Costello</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">B</forename><forename type="middle">R</forename><surname>Laplant</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Blood</title>
+		<imprint>
+			<biblScope unit="volume">131</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="182" to="190" />
+			<date type="published" when="2018" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">A multi-institutional outcomes analysis of patients with relapsed or refractory DLBCL treated with ibrutinib</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><forename type="middle">M</forename><surname>Winter</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><forename type="middle">J</forename><surname>Landsburg</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><forename type="middle">R</forename><surname>Mato</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Blood</title>
+		<imprint>
+			<biblScope unit="volume">130</biblScope>
+			<biblScope unit="page" from="1676" to="1679" />
+			<date type="published" when="2017" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">The PD-1 pathway in tolerance and autoimmunity</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">L</forename><forename type="middle">M</forename><surname>Francisco</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><forename type="middle">T</forename><surname>Sage</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><forename type="middle">H</forename><surname>Sharpe</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Immunol Rev</title>
+		<imprint>
+			<biblScope unit="volume">236</biblScope>
+			<biblScope unit="page" from="219" to="242" />
+			<date type="published" when="2010" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">The blockade of immune checkpoints in cancer immunotherapy</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><forename type="middle">M</forename><surname>Pardoll</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nat Rev Cancer</title>
+		<imprint>
+			<biblScope unit="volume">12</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="252" to="264" />
+			<date type="published" when="2012" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">Programmed death ligand 1 is expressed by nonhodgkin lymphomas and inhibits the activity of tumor-associated T cells</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><forename type="middle">J</forename><surname>Andorsky</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><forename type="middle">E</forename><surname>Yamada</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Said</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">G</forename><forename type="middle">S</forename><surname>Pinkus</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><forename type="middle">J</forename><surname>Betting</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">M</forename><surname>Timmerman</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Clin Cancer Res</title>
+		<imprint>
+			<biblScope unit="volume">17</biblScope>
+			<biblScope unit="issue">13</biblScope>
+			<biblScope unit="page" from="4232" to="4244" />
+			<date type="published" when="2011" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">PD-L1 expression is characteristic of a subset of aggressive B-cell lymphomas and virus-associated malignancies</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">B</forename><forename type="middle">J</forename><surname>Chen</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">B</forename><surname>Chapuy</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Ouyang</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Clin Cancer Res</title>
+		<imprint>
+			<biblScope unit="volume">19</biblScope>
+			<biblScope unit="issue">13</biblScope>
+			<biblScope unit="page" from="3462" to="3473" />
+			<date type="published" when="2013" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">Expression of programmed cell death ligand 1 is associated with poor overall survival in patients with diffuse large B-cell lymphoma</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Kiyasu</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><surname>Miyoshi</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Hirata</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Blood</title>
+		<imprint>
+			<biblScope unit="volume">126</biblScope>
+			<biblScope unit="page" from="2193" to="2201" />
+			<date type="published" when="2015" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title level="a" type="main">Intratumoral CD4+CD25+ regulatory T-cell-mediated suppression of infiltrating CD4+ T cells in B-cell non-Hodgkin lymphoma</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Z</forename><forename type="middle">Z</forename><surname>Yang</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><forename type="middle">J</forename><surname>Novak</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">J</forename><surname>Stenson</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><forename type="middle">E</forename><surname>Witzig</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><forename type="middle">M</forename><surname>Ansell</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Blood</title>
+		<imprint>
+			<biblScope unit="volume">107</biblScope>
+			<biblScope unit="issue">9</biblScope>
+			<biblScope unit="page" from="3639" to="3646" />
+			<date type="published" when="2006" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title level="a" type="main">High numbers of tumor-infiltrating programmed cell death 1-positive regulatory lymphocytes are associated with improved overall survival in follicular lymphoma</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Carreras</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Lopez-Guillermo</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">G</forename><surname>Roncador</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Clin Oncol</title>
+		<imprint>
+			<biblScope unit="volume">27</biblScope>
+			<biblScope unit="issue">9</biblScope>
+			<biblScope unit="page" from="1470" to="1476" />
+			<date type="published" when="2009" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title level="a" type="main">High PD-1 expression and suppressed cytokine signaling distinguish T cells infiltrating follicular lymphoma tumors from peripheral T cells</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">H</forename><surname>Myklebust</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">M</forename><surname>Irish</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Brody</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Blood</title>
+		<imprint>
+			<biblScope unit="volume">121</biblScope>
+			<biblScope unit="issue">8</biblScope>
+			<biblScope unit="page" from="1367" to="1376" />
+			<date type="published" when="2013" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title level="a" type="main">PD-L1 blockade for cancer treatment: MEDI4736</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><surname>Ibrahim</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><surname>Stewart</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Shalabi</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Semin Oncol</title>
+		<imprint>
+			<biblScope unit="volume">42</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="474" to="483" />
+			<date type="published" when="2015" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+		<title level="a" type="main">Disabling immune tolerance by programmed death-1 blockade with pidilizumab after autologous hematopoietic stem-cell transplantation for diffuse large B-cell lymphoma: results of an international phase II trial</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><surname>Armand</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Nagler</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><forename type="middle">A</forename><surname>Weller</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Clin Oncol</title>
+		<imprint>
+			<biblScope unit="volume">31</biblScope>
+			<biblScope unit="issue">33</biblScope>
+			<biblScope unit="page" from="4199" to="4206" />
+			<date type="published" when="2013" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<analytic>
+		<title level="a" type="main">Safety and activity of PD1 blockade by pidilizumab in combination with rituximab in patients with relapsed follicular lymphoma: a single group, open-label, phase 2 trial</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">R</forename><surname>Westin</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">F</forename><surname>Chu</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Zhang</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Lancet Oncol</title>
+		<imprint>
+			<biblScope unit="volume">15</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="69" to="77" />
+			<date type="published" when="2014" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<analytic>
+		<title level="a" type="main">Nivolumab in patients with relapsed or refractory hematologic malignancy: preliminary results of a phase Ib study</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><forename type="middle">M</forename><surname>Lesokhin</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><forename type="middle">M</forename><surname>Ansell</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><surname>Armand</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Clin Oncol</title>
+		<imprint>
+			<biblScope unit="volume">34</biblScope>
+			<biblScope unit="issue">23</biblScope>
+			<biblScope unit="page" from="2698" to="2704" />
+			<date type="published" when="2016" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<analytic>
+		<title level="a" type="main">Nivolumab for relapsed/refractory diffuse large b-cell lymphoma in patients ineligible for or having failed autologous transplantation: a single-arm, phase II study</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><forename type="middle">M</forename><surname>Ansell</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">C</forename><surname>Minnema</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><surname>Johnson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Clin Oncol</title>
+		<imprint>
+			<biblScope unit="volume">37</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page" from="481" to="489" />
+			<date type="published" when="2019" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<analytic>
+		<title level="a" type="main">Therapeutic antitumor immunity by checkpoint blockade is enhanced by ibrutinib, an inhibitor of both BTK and ITK</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">I</forename><surname>Sagiv-Barfi</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><forename type="middle">E</forename><surname>Kohrt</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><forename type="middle">K</forename><surname>Czerwinski</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><forename type="middle">P</forename><surname>Ng</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">B</forename><forename type="middle">Y</forename><surname>Chang</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><surname>Levy</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Proc Natl Acad Sci</title>
+		<imprint>
+			<biblScope unit="volume">112</biblScope>
+			<biblScope unit="issue">9</biblScope>
+			<biblScope unit="page" from="966" to="972" />
+			<date type="published" when="2015" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<analytic>
+		<title level="a" type="main">Recommendations for initial evaluation, staging, and response assessment of Hodgkin and non-Hodgkin lymphoma: the Lugano classification</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">B</forename><forename type="middle">D</forename><surname>Cheson</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><forename type="middle">I</forename><surname>Fisher</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><forename type="middle">F</forename><surname>Barrington</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Clin Oncol</title>
+		<imprint>
+			<biblScope unit="volume">32</biblScope>
+			<biblScope unit="issue">27</biblScope>
+			<biblScope unit="page" from="3059" to="3068" />
+			<date type="published" when="2014" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<analytic>
+		<title level="a" type="main">Development of a companion diagnostic PD-L1 immunohistochemistry assay for pembrolizumab therapy in non-small-cell lung cancer</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><surname>Roach</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">N</forename><surname>Zhang</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><surname>Corigliano</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Appl Immunohistochem Mol Morphol</title>
+		<imprint>
+			<biblScope unit="volume">24</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page" from="392" to="397" />
+			<date type="published" when="2016" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<analytic>
+		<title level="a" type="main">Pembrolizumab for the treatment of non-small-cell lung cancer</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><forename type="middle">B</forename><surname>Garon</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">N</forename><forename type="middle">A</forename><surname>Rizvi</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><surname>Hui</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">N Engl J Med</title>
+		<imprint>
+			<biblScope unit="volume">372</biblScope>
+			<biblScope unit="issue">21</biblScope>
+			<biblScope unit="page" from="2018" to="2028" />
+			<date type="published" when="2015" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b35">
+	<analytic>
+		<title level="a" type="main">Optimal two-stage designs for phase II clinical trials</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><surname>Simon</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Control Clin Trials</title>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="1" to="10" />
+			<date type="published" when="1989" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b36">
+	<analytic>
+		<title level="a" type="main">Ibrutinib can modulate the T cell response in chronic lymphocytic leukemia by reducing PD1/PDL1 interactions</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><surname>Kondo</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">A</forename><surname>Burger</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><surname>Micheal</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Blood</title>
+		<imprint>
+			<biblScope unit="volume">126</biblScope>
+			<biblScope unit="issue">23</biblScope>
+			<biblScope unit="page" from="1737" to="1737" />
+			<date type="published" when="2015" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b37">
+	<analytic>
+		<title level="a" type="main">Elements of cancer immunity and the cancerimmune set point</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><forename type="middle">S</forename><surname>Chen</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">I</forename><surname>Mellman</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nature</title>
+		<imprint>
+			<biblScope unit="volume">541</biblScope>
+			<biblScope unit="issue">7637</biblScope>
+			<biblScope unit="page" from="321" to="330" />
+			<date type="published" when="2017" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b38">
+	<analytic>
+		<title level="a" type="main">Benchmark of progression free survival for multiple lines of therapy in follicular lymphoma treated in the rituximab era</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Alperovich</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><surname>Batlevi</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><surname>Smith</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Blood</title>
+		<imprint>
+			<biblScope unit="volume">128</biblScope>
+			<biblScope unit="issue">22</biblScope>
+			<biblScope unit="page" from="2955" to="2955" />
+			<date type="published" when="2016" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b39">
+	<analytic>
+		<title level="a" type="main">Targeting B cell receptor signaling with ibrutinib in diffuse large B cell lymphoma</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">W</forename><forename type="middle">H</forename><surname>Wilson</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><forename type="middle">M</forename><surname>Young</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><surname>Schmitz</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nat Med</title>
+		<imprint>
+			<biblScope unit="volume">21</biblScope>
+			<biblScope unit="issue">8</biblScope>
+			<biblScope unit="page" from="922" to="926" />
+			<date type="published" when="2015" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b40">
+	<analytic>
+		<title level="a" type="main">Safety and activity of ibrutinib in combination with nivolumab in patients with relapsed non-Hodgkin lymphoma or chronic lymphocytic leukaemia: a phase 1/2a study</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Younes</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Brody</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><surname>Carpio</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Lancet Haematol</title>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="67" to="78" />
+			<date type="published" when="2019" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

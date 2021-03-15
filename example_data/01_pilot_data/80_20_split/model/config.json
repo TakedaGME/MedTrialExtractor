@@ -1,0 +1,50 @@
+{
+  "architectures": [
+    "BertCRFForTagging"
+  ],
+  "attention_probs_dropout_prob": 0.1,
+  "gradient_checkpointing": false,
+  "hidden_act": "gelu",
+  "hidden_dropout_prob": 0.1,
+  "hidden_size": 768,
+  "id2label": {
+    "0": "O",
+    "1": "B-arm_efficacy_metric",
+    "2": "I-arm_efficacy_metric",
+    "3": "B-arm_dosage",
+    "4": "I-arm_dosage",
+    "5": "B-arm_description",
+    "6": "I-arm_description",
+    "7": "B-study_type",
+    "8": "I-study_type",
+    "9": "B-authors",
+    "10": "I-authors",
+    "11": "B-arm_efficacy_results",
+    "12": "I-arm_efficacy_results"
+  },
+  "initializer_range": 0.02,
+  "intermediate_size": 3072,
+  "label2id": {
+    "B-arm_description": 5,
+    "B-arm_dosage": 3,
+    "B-arm_efficacy_metric": 1,
+    "B-arm_efficacy_results": 11,
+    "B-authors": 9,
+    "B-study_type": 7,
+    "I-arm_description": 6,
+    "I-arm_dosage": 4,
+    "I-arm_efficacy_metric": 2,
+    "I-arm_efficacy_results": 12,
+    "I-authors": 10,
+    "I-study_type": 8,
+    "O": 0
+  },
+  "layer_norm_eps": 1e-12,
+  "max_position_embeddings": 512,
+  "model_type": "bert",
+  "num_attention_heads": 12,
+  "num_hidden_layers": 12,
+  "pad_token_id": 0,
+  "type_vocab_size": 2,
+  "vocab_size": 28996
+}

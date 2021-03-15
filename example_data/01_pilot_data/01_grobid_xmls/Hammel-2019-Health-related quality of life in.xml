@@ -1,0 +1,1049 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /data/rsg/nlp/juanmoo1/bin/grobid-0.6.1/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Health-related quality of life in patients with a germline BRCA mutation and metastatic pancreatic cancer receiving maintenance olaparib</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+				<date type="published" when="2019-09-28">28 September 2019</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><surname>Hammel</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Digestive Oncology</orgName>
+								<orgName type="institution">Hô pital Beaujon (AP-HP)</orgName>
+								<address>
+									<settlement>Clichy</settlement>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="institution">and University Paris VII</orgName>
+								<address>
+									<settlement>Paris</settlement>
+									<country key="FR">France</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><forename type="middle">L</forename><surname>Kindler</surname></persName>
+							<affiliation key="aff2">
+								<orgName type="department" key="dep1">Department of Medicine</orgName>
+								<orgName type="department" key="dep2">Section of Hematology/ Oncology</orgName>
+								<orgName type="institution">University of Chicago</orgName>
+								<address>
+									<settlement>Chicago</settlement>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Reni</surname></persName>
+							<affiliation key="aff3">
+								<orgName type="department">Department of Oncology</orgName>
+								<orgName type="institution">IRCCS Ospedale San Raffaele Scientific Institute</orgName>
+								<address>
+									<settlement>Milan</settlement>
+									<country key="IT">Italy</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><surname>Van Cutsem</surname></persName>
+							<affiliation key="aff4">
+								<orgName type="department">Division of Digestive Oncology</orgName>
+								<orgName type="institution">University Hospitals Gasthuisberg and KU Leuven</orgName>
+								<address>
+									<settlement>Leuven</settlement>
+									<country key="BE">Belgium</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Macarulla</surname></persName>
+							<affiliation key="aff5">
+								<orgName type="department">Department of Medical Oncology</orgName>
+								<orgName type="institution">Vall d&apos;Hebron University Hospital and Vall d&apos;Hebron Institute of Oncology</orgName>
+								<address>
+									<settlement>Barcelona</settlement>
+									<country key="ES">Spain</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">J</forename><surname>Hall</surname></persName>
+							<affiliation key="aff6">
+								<orgName type="department" key="dep1">Department of Medical Oncology</orgName>
+								<orgName type="department" key="dep2">Fox Chase Cancer Center</orgName>
+								<address>
+									<settlement>Philadelphia</settlement>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">O</forename><surname>Park</surname></persName>
+							<affiliation key="aff7">
+								<orgName type="department" key="dep1">Division of Hematology-Oncology</orgName>
+								<orgName type="department" key="dep2">Samsung Medical Center</orgName>
+								<orgName type="institution">Sungkyunkwan University School of Medicine</orgName>
+								<address>
+									<settlement>Seoul</settlement>
+									<country key="KR">South Korea</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><surname>Hochhauser</surname></persName>
+							<affiliation key="aff8">
+								<orgName type="department">Department of Oncology</orgName>
+								<orgName type="institution">University College London Cancer Institute</orgName>
+								<address>
+									<settlement>London</settlement>
+									<country key="GB">UK</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><surname>Arnold</surname></persName>
+							<affiliation key="aff9">
+								<orgName type="department" key="dep1">Department of Oncology</orgName>
+								<orgName type="department" key="dep2">10 Department of Internal Medicine</orgName>
+								<orgName type="institution">Asklepios Tumorzentrum Hamburg Asklepios Klinik Altona</orgName>
+								<address>
+									<settlement>Hamburg</settlement>
+									<country key="DE">Germany</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff10">
+								<orgName type="institution" key="instit1">Seoul National University Hospital</orgName>
+								<orgName type="institution" key="instit2">Cancer Research Institute</orgName>
+								<orgName type="institution" key="instit3">Seoul National University College of Medicine</orgName>
+								<address>
+									<settlement>Seoul</settlement>
+									<country key="KR">South Korea</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D.-Y</forename><surname>Oh</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Reinacher-Schick</surname></persName>
+							<affiliation key="aff11">
+								<orgName type="department">Department of Hematology, Oncology and Palliative Care</orgName>
+								<orgName type="institution" key="instit1">St. Josef-Hospital</orgName>
+								<orgName type="institution" key="instit2">Ruhr University Bochum</orgName>
+								<address>
+									<settlement>Bochum</settlement>
+									<country key="DE">Germany</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">G</forename><surname>Tortora</surname></persName>
+							<affiliation key="aff12">
+								<orgName type="department" key="dep1">Department of Medicine</orgName>
+								<orgName type="department" key="dep2">Section of Medical Oncology</orgName>
+								<orgName type="institution">Azienda Ospedaliera Universitaria Integrata Verona, Verona and Fondazione Policlinico Universitario Gemelli IRCCS</orgName>
+								<address>
+									<settlement>Rome</settlement>
+									<country key="IT">Italy</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><surname>Algü L 13</surname></persName>
+							<affiliation key="aff13">
+								<orgName type="department" key="dep1">Second Department of Internal Medicine</orgName>
+								<orgName type="department" key="dep2">Department of Internal Medicine II</orgName>
+								<orgName type="institution" key="instit1">Klinikum rechts der Isar</orgName>
+								<orgName type="institution" key="instit2">Comprehensive Cancer Center Munich-TUM</orgName>
+								<orgName type="institution" key="instit3">Technische Universität Mü nchen</orgName>
+								<address>
+									<settlement>Munich</settlement>
+									<country key="DE">Germany</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><forename type="middle">M</forename><surname>O'reilly</surname></persName>
+							<affiliation key="aff14">
+								<orgName type="department">Gastrointestinal Oncology Service</orgName>
+								<orgName type="institution">Memorial Sloan Kettering Cancer Center</orgName>
+								<address>
+									<region>New York</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><surname>Mcguinness</surname></persName>
+							<affiliation key="aff15">
+								<orgName type="institution">AstraZeneca</orgName>
+								<address>
+									<settlement>Cambridge</settlement>
+									<country key="GB">UK</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><forename type="middle">Y</forename><surname>Cui</surname></persName>
+							<affiliation key="aff16">
+								<orgName type="institution">AstraZeneca</orgName>
+								<address>
+									<settlement>Gaithersburg</settlement>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Joo</surname></persName>
+							<affiliation key="aff17">
+								<orgName type="institution">Merck &amp; Co., Inc</orgName>
+								<address>
+									<settlement>Kenilworth</settlement>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><forename type="middle">K</forename><surname>Yoo</surname></persName>
+							<affiliation key="aff15">
+								<orgName type="institution">AstraZeneca</orgName>
+								<address>
+									<settlement>Cambridge</settlement>
+									<country key="GB">UK</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">N</forename><surname>Patel</surname></persName>
+							<affiliation key="aff16">
+								<orgName type="institution">AstraZeneca</orgName>
+								<address>
+									<settlement>Gaithersburg</settlement>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Golan</surname></persName>
+							<affiliation key="aff18">
+								<orgName type="institution" key="instit1">The Oncology Institute</orgName>
+								<orgName type="institution" key="instit2">Sheba Medical Center</orgName>
+								<address>
+									<settlement>Tel Aviv</settlement>
+									<country key="IL">Israel</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><roleName>Prof</roleName><forename type="middle">Pascal</forename><surname>Hammel</surname></persName>
+						</author>
+						<author>
+							<affiliation key="aff19">
+								<orgName type="department">Hô pital Beaujon (AP-HP)</orgName>
+								<address>
+									<addrLine>100 Boulevard du Général Leclerc</addrLine>
+									<postCode>92118</postCode>
+									<settlement>Clichy</settlement>
+									<country key="FR">France</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Health-related quality of life in patients with a germline BRCA mutation and metastatic pancreatic cancer receiving maintenance olaparib</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date type="published" when="2019-09-28">28 September 2019</date>
+						</imprint>
+					</monogr>
+					<idno type="DOI">10.1093/annonc/mdz406</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.6.1" ident="GROBID" when="2020-10-09T18:38+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>pancreatic cancer</term>
+					<term>health-related quality of life</term>
+					<term>olaparib</term>
+					<term>BRCA</term>
+					<term>metastatic</term>
+				</keywords>
+			</textClass>
+			<abstract>
+				<p>Background: Patients with metastatic pancreatic cancer often have a detriment in health-related quality of life (HRQoL). In the randomized, double-blind, phase III POLO trial progression-free survival was significantly longer with maintenance olaparib, a poly(ADP-ribose) polymerase inhibitor, than placebo in patients with a germline BRCA1 and/or BRCA2 mutation (gBRCAm) and metastatic pancreatic cancer whose disease had not progressed during first-line platinum-based chemotherapy. The prespecified HRQoL evaluation is reported here. Patients and methods: Patients were randomized to receive maintenance olaparib (300 mg b.i.d.; tablets) or placebo. HRQoL was assessed using the European Organisation for Research and Treatment of Cancer Quality of Life Questionnaire Core 30-item module at baseline, every 4 weeks until disease progression, at discontinuation, and 30 days after last dose. Scores ranged from 0 to 100; a !10-point change or difference between arms was considered clinically meaningful. Adjusted mean change from baseline was analysed using a mixed model for repeated measures. Time to sustained clinically meaningful deterioration (TSCMD) was analysed using a log-rank test. Results: Of 154 randomized patients, 89 of 92 olaparib-arm and 58 of 62 placebo-arm patients were included in HRQoL analyses. The adjusted mean change in Global Health Status (GHS) score from baseline was &lt;10 points in both arms and there was no significant between-group difference [À2.47; 95% confidence interval (CI) À7.27, 2.33; P ¼ 0.31]. Analysis of physical functioning scores showed a significant between-group difference (À4.45 points; 95% CI À8.75, À0.</p>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Introduction</head><p>Pancreatic cancer is the 13th most common cancer and 7th most common cause of cancer death worldwide <ref type="bibr" target="#b0">[1]</ref>. Patients often present with advanced disease with worldwide 5-year survival rates of 9%, reducing to 3% for metastatic pancreatic cancer <ref type="bibr" target="#b1">[2]</ref>. Median progression-free survival (PFS) with standard-of-care first-line treatments is around 6 months and disease progression can result in deterioration in health-related quality of life (HRQoL) <ref type="bibr" target="#b2">[3,</ref><ref type="bibr" target="#b3">4]</ref>. As a consequence, patients with metastatic pancreatic cancer have reduced HRQoL due to high emotional burden, symptom burden (in particular pain, fatigue, vomiting and diarrhoea), and poor prognosis <ref type="bibr" target="#b4">[5]</ref><ref type="bibr" target="#b5">[6]</ref><ref type="bibr" target="#b6">[7]</ref><ref type="bibr" target="#b7">[8]</ref><ref type="bibr" target="#b8">[9]</ref><ref type="bibr" target="#b9">[10]</ref>. When evaluating the best treatment option for patients with metastatic pancreatic cancer, it is important to not only assess survival, which is relatively short, but also ensure that there are no detrimental effects of treatment on HRQoL. Indeed, American Society for Clinical Oncology guidelines on treatment of metastatic pancreatic cancer recommend that clinicians should proactively discuss quality of life issues such as pain, fatigue, and loss of appetite, which tend to be overlooked yet have significant impact on daily life, with their patients <ref type="bibr" target="#b10">[11]</ref>.</p><p>In the international, randomized, placebo-controlled phase III POLO trial patients with metastatic pancreatic cancer and a germline BRCA1 and/or BRCA2 mutation (gBRCAm) whose disease had not progressed on first-line platinum-based chemotherapy derived a statistically significant and clinically meaningful improvement in PFS from maintenance treatment with the poly(ADP-ribose) polymerase inhibitor olaparib versus placebo <ref type="bibr" target="#b11">[12]</ref>. The aim of maintenance treatment is to prolong PFS, and ultimately overall survival, delaying the need for subsequent cytotoxic chemotherapy. In addition, maintenance treatment should seek to preserve HRQoL, which may be improved following effective first-line chemotherapy <ref type="bibr" target="#b12">[13]</ref>. First-line treatment with FOLFIRINOX has been shown to improve overall HRQoL and lead to a decrease in some symptoms, including pain, for patients with metastatic pancreatic cancer <ref type="bibr" target="#b12">[13]</ref>. A prespecified secondary objective of the POLO trial was to evaluate the effect of olaparib on HRQoL, specifically the adjusted mean change from baseline in Global Health Status (GHS) score using the European Organisation for Research and Treatment of Cancer Quality of Life Questionnaire Core 30-item module (EORTC QLQ-C30).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Methods</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Patient population and study design</head><p>Details of this randomized double-blind, placebo-controlled phase III trial have been reported previously <ref type="bibr" target="#b11">[12]</ref>. Briefly, patients aged !18 years with histologically or cytologically confirmed pancreatic adenocarcinoma and a documented deleterious or suspected deleterious gBRCAm were eligible. Patients had received !16 weeks of continuous first-line platinum-based chemotherapy for metastatic pancreatic cancer, although duration was unlimited as long as no evidence of disease progression was noted by the investigator at randomization. Patients were randomized in a 3 : 2 ratio to receive maintenance olaparib tablets (300 mg twice daily) or matching placebo, initiated 4-8 weeks after the last dose of first-line chemotherapy and continued until objective radiologic disease progression (investigator-assessed according to modified Response Evaluation Criteria in Solid Tumors v1.1) or unacceptable toxicity <ref type="bibr" target="#b13">[14]</ref>. Crossover to olaparib was not permitted during the trial.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Study outcome measures</head><p>A prespecified secondary objective of the POLO study was to assess HRQoL using the EORTC QLQ-C30 questionnaire. Additional HRQoL data were collected using the pancreatic cancer specific EORTC QLQ-PAN26 questionnaire (data not reported here). These questionnaires are considered appropriate to assess the pancreatic cancer patient experience <ref type="bibr" target="#b14">[15]</ref>. The EORTC QLQ-C30 includes a two-item GHS scale, five multiitem functioning scales, three multi-item symptom scales, five singleitem symptom scales, and a single-item financial impact scale <ref type="bibr" target="#b15">[16]</ref>. Raw scores were transformed on to a scale ranging from 0 to 100; transformed scores are reported here. For GHS and functioning scales, a higher score is indicative of better quality of life whereas for symptom scales a higher score is indicative of more severe symptoms. A change from baseline of !10 points was predefined as clinically meaningful, based on the published literature <ref type="bibr" target="#b16">[17]</ref><ref type="bibr" target="#b17">[18]</ref><ref type="bibr" target="#b18">[19]</ref>. Assessments were undertaken at baseline, every 4 weeks until disease progression, at discontinuation of study treatment, and 30 days after last dose. The primary HRQoL end point was adjusted mean change from baseline in GHS score. Best HRQoL response (improvement, no change, or deterioration), the proportion of patients with a clinically meaningful change (defined as a !10-point change from baseline) and time to sustained clinically meaningful deterioration (TSCMD) were secondary HRQoL end points. A TSCMD event was defined as a !10-point decrease (GHS and functioning subscales) or increase (symptom subscales) from baseline (or a patient being too ill to complete the questionnaire) sustained at the next scheduled visit with no response of 'improved' or 'no change' in between the two visit responses of 'deterioration', or death. In addition to the GHS score evaluation, exploratory analyses of functioning scores (physical, role, cognitive, emotional, and social) and patient-reported symptoms (pain, fatigue, nausea and vomiting, appetite loss and insomnia) were prespecified. Results from datasets considered to be most clinically relevant (GHS, physical functioning, and symptom subscales) are reported here.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Statistical analysis</head><p>HRQoL data were analysed in the subset of patients in the intention-totreat population who had an evaluable baseline EORTC QLQ-C30 or QLQ-PAN26 form [patient-reported outcome (PRO) analysis set]. An evaluable form was defined as one on which at least one subscale baseline score could be determined. For the adjusted mean change from baseline in GHS score analysis, only visits with at least 25% non-missing values in each treatment arm were included; study treatment discontinuation and 30 days following last dose of study treatment visits were excluded. The analysis was carried out using a linear mixed model for repeated measures, adjusted for score at baseline, time, and treatment-by-time interaction to estimate the cumulative effect of olaparib versus placebo on GHS. Between-group differences were compared using adjusted mean estimates for each treatment group with a between-group difference of !10 points defined as clinically meaningful, based on published literature <ref type="bibr" target="#b16">[17]</ref><ref type="bibr" target="#b17">[18]</ref><ref type="bibr" target="#b18">[19]</ref>. A change of !10 points from baseline was also predefined as clinically meaningful <ref type="bibr" target="#b16">[17]</ref><ref type="bibr" target="#b17">[18]</ref><ref type="bibr" target="#b18">[19]</ref>. TSCMD was analysed by log-rank test [hazard ratio (HR) &lt;1 favours olaparib] in all patients with a baseline score !10 (GHS and functioning subscale analyses) or 90 (symptom subscales). HRQoL improvement rates were analysed using a logistic regression model [odds ratio (OR) &gt;1 favours olaparib].</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Results</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Population characteristics</head><p>Baseline characteristics of randomized patients are reported in the primary manuscript <ref type="bibr" target="#b11">[12]</ref>.</p><p>Of 154 randomized patients, 89 of 92 who received olaparib and 58 of 62 who received placebo were included in the PRO analysis set; the remaining seven patients had missing baseline forms. HRQoL scores were well-balanced between treatment groups at baseline with overall high scores for GHS and physical functioning scales, and low scores for symptom scales (supplementary <ref type="figure" target="#fig_0">Figure S1</ref>, available at Annals of Oncology online).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Questionnaire compliance</head><p>The overall compliance rate for EORTC QLQ-C30 was high, 100% at baseline and 96.6% and 94.8% overall in the olaparib and placebo groups, respectively, based on the PRO analysis set (supplementary <ref type="figure" target="#fig_1">Figure S2</ref>, available at Annals of Oncology online).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Global Health Status</head><p>Mean baseline scores for GHS were high compared with those from other metastatic pancreatic cancer trials <ref type="bibr" target="#b12">[13]</ref>; 70.4 in the olaparib and 74.3 in the placebo group (supplementary <ref type="figure" target="#fig_0">Figure  S1A</ref>, available at Annals of Oncology online). GHS scores remained relatively stable over time for both treatment groups ( <ref type="figure" target="#fig_0">Figure 1A</ref>). There was no statistically significant difference in overall between-group adjusted mean change from baseline for GHS score [between-group difference À2.47; 95% confidence interval (CI) À7.27, 2.33; P ¼ 0.31] calculated across the first 6 months of treatment <ref type="figure" target="#fig_1">(Figure 2A</ref>). The median TSCMD for GHS score was 21.2 months for olaparib and 6.0 months for placebo (HR 0.72; 95% CI 0.41, 1.27; P ¼ 0.25) ( <ref type="figure">Figure 3)</ref>. A similar proportion of patients in each arm reported improvement in GHS score: 26/89 (29.2%) in the olaparib and 13/58 (22.4%) in the placebo group (OR 1.43; 95% CI 0.67, 3.15; P ¼ 0.36) ( <ref type="figure">Figure 4</ref>).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Physical functioning</head><p>Mean baseline physical functioning scores were similarly high in both treatment groups and improved over time (supplementary <ref type="figure" target="#fig_0">Figure S1A</ref>, available at Annals of Oncology online; <ref type="figure" target="#fig_0">Figure 1B</ref>). The between-group difference in adjusted mean change from baseline for physical functioning was À4.45 points (95% CI À8.75, À0.16; P ¼ 0.04) ( <ref type="figure" target="#fig_1">Figure 2A</ref>). There was no statistically significant between-group difference in TSCMD for physical functioning (medians not reached; HR 1.38; 95% CI 0.73, 2.63; P ¼ 0.32) ( <ref type="figure">Figure 3B</ref>). The proportion of patients with best HRQoL responses of 'improved' or 'deterioration' for physical functioning was similar between arms ( <ref type="figure">Figure 4</ref>). Analyses of role, emotional, cognitive and social functioning showed no between-group differences in adjusted mean change from baseline of !10-points and no statistically significant differences in TSCMD between arms.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Symptom subscales</head><p>Mean symptom scale scores were low at baseline, reflecting a low symptom burden (supplementary <ref type="figure" target="#fig_0">Figure S1B</ref>, available at Annals of Oncology online). For the symptom scales of fatigue, nausea and vomiting, and appetite loss between-group differences were statistically significant in favour of placebo. For fatigue, and nausea and vomiting the between-group difference was &lt;10 points, whereas for appetite loss the between-group difference was 10.11 points ( <ref type="figure" target="#fig_1">Figure 2B</ref>). There were no between-group differences in TSCMD for any symptom scores, except for nausea and vomiting, and constipation for which there were significant differences in favour of placebo ( <ref type="figure">Figure 3B</ref>). Best HRQoL responses for symptom subscales are shown in <ref type="figure">Figure 4</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Discussion</head><p>Metastatic pancreatic cancer, which is the initial diagnosis for 50%-60% of pancreatic cancer patients, has a poor prognosis <ref type="bibr" target="#b19">[20]</ref>. Therefore, treatment should focus not only on prolonging disease progression or improving survival but should also consider preserving or improving quality of life, because symptoms such as fatigue, pain, appetite and weight loss, and decreased functional status all have a detrimental impact on HRQoL for patients with this disease.</p><p>Patients were randomized into the POLO study following a minimum of 4 months of first-line platinum-based chemotherapy (although there was no maximum limit to the duration of platinum-based treatment) and patients whose disease had progressed during first-line chemotherapy were not eligible for this maintenance trial. With the exception of alopecia, peripheral neuropathy and anaemia, toxic effects from previous treatments must have resolved to grade 1 before randomization <ref type="bibr" target="#b11">[12]</ref>. The majority of patients (84%) had received variants of FOLFIRINOX, which is known to significantly improve GHS over the first 6 months of treatment <ref type="bibr" target="#b11">[12,</ref><ref type="bibr" target="#b12">13]</ref>; in the seminal phase III study FOLFIRINOX improved mean GHS score from 53.8 at baseline to 68.3 at the end of 6 months of treatment <ref type="bibr" target="#b12">[13]</ref>. It is therefore not surprising that patients in the POLO study had consistently higher baseline GHS and physical functioning scores and lower symptom severity than the general population of patients with gastrointestinal cancers, reflecting low disease burden following first-line chemotherapy <ref type="bibr" target="#b20">[21]</ref>. The mean GHS score was 70.4 in the olaparib arm at baseline, consistent with expectations based on FOLFIRINOX data. Preservation of HRQoL is a major therapeutic goal in the maintenance setting and further improvement in comparison with placebo may not be expected. Furthermore, standard-of-care chemotherapy agents are often associated with cumulative treatment-emergent toxicities that further affect HRQoL and a potential decrease in GHS has been observed when FOLFIRINOX treatment is continued beyond 6 months <ref type="bibr" target="#b9">[10,</ref><ref type="bibr" target="#b12">13]</ref>. High baseline GHS scores in the POLO study were preserved with olaparib maintenance treatment and the primary HRQoL end point (adjusted mean change from baseline) showed no statistically significant or clinically meaningful difference between the olaparib and placebo groups. Furthermore, median TSCMD was longer in the olaparib (21.2 months) than the placebo group (6.0 months), although this difference was not statistically significant. This result may be influenced by a higher degree of censoring and smaller number of assessable patients (reflective of earlier disease progression) in the placebo arm compared with the olaparib arm. In addition, the proportion of patients with improved GHS score was similar in the olaparib (29.2%) and placebo groups <ref type="bibr">(22.4%)</ref>.</p><p>Evaluation of the physical functioning subscale indicated a significant between-group difference in adjusted mean change from baseline, favouring placebo; however, this difference was not considered to be clinically meaningful based on the 10-point change  points was considered to be clinically meaningful. For each subscale, only visits with at least 25% non-missing values in each treatment arm were included, therefore analyses cover only the first 6 months of treatment. Error bars denote 95% confidence intervals. *Between-group differences were considered statistically significant if P&lt;0.05. † For diarrhoea, N¼53. CI, confidence interval; QoL, quality of life.</p><p>threshold <ref type="bibr" target="#b16">[17]</ref><ref type="bibr" target="#b17">[18]</ref><ref type="bibr" target="#b18">[19]</ref> and high baseline scores were preserved with olaparib treatment. In addition, there were no clinically meaningful between-group differences in change from baseline for symptom scales, with the exception of appetite loss, which showed a clinically meaningful difference favouring placebo. The notable findings in appetite loss scores appear to be driven by an improvement of these symptoms in the placebo group, since appetite loss scores remained low and stable over time in the olaparib group. Furthermore, appetite loss is a recognised treatmentrelated symptom of olaparib <ref type="bibr" target="#b21">[22]</ref>. Lower symptom scores indicate reduced symptom burden and all other symptom scores remained low during maintenance olaparib treatment. A !10-point change from baseline in EORTC QLQ-C30 score was predefined as clinically meaningful, based on the published literature. A study designed to determine the significance to patients of HRQoL scores showed that a !10-point change from   <ref type="figure">Figure 3</ref>. Time to sustained clinically meaningful deterioration (A) Kaplan-Meier plot for EORTC QLQ-C30 Global Health Status and (B) Forest plot for EORTC QLQ-C30 Global Health Status, physical functioning and symptom scales. Patients with baseline scores !10 were included in analyses of Global Health Status and physical functioning scores; patients with baseline scores 90 were included in analyses of symptom scores. Patients who had not had a TSCMD event or who had a TSCMD event after two or more missed HRQoL assessment visits were censored at the time of their last HRQoL assessment where the respective score could be evaluated; however, patients were not censored if they had two missing visits between two evaluable HRQoL assessments (and the outcome of the second assessment was not deterioration) and subsequently went on to show sustained clinically meaningful deterioration. CI, confidence interval. baseline in EORTC QLQ-C30 score generally reflected a change in quality of life that was 'moderately' or 'very much' better or worse <ref type="bibr" target="#b16">[17]</ref> and was consistent with results from a systematic review of randomized controlled trials in various cancer settings, which demonstrated that a mean difference of 10-15 points in GHS score represented a medium effect size that was likely to be clinically relevant <ref type="bibr" target="#b17">[18]</ref>. This 10-point threshold has been adopted for other studies based on EORTC QLQ-C30 data, including those in the pancreatic cancer setting, suggesting that it is an appropriate and generally accepted definition <ref type="bibr" target="#b18">[19,</ref><ref type="bibr" target="#b22">23,</ref><ref type="bibr" target="#b23">24]</ref>; however, it is worth noting that at the time the POLO study was designed, there was no precedent for defining a clinically meaningful change in the maintenance setting.</p><p>In the POLO study, patients in the olaparib arm derived a statistically significant and clinically meaningful PFS benefit compared with placebo and a trend towards increased time to second progression was observed, suggesting the treatment benefit may be maintained through subsequent lines of therapy <ref type="bibr" target="#b11">[12]</ref>. In addition, time to first subsequent therapy was significantly delayed in the olaparib arm <ref type="bibr" target="#b24">[25]</ref>. Patients discontinued study treatment at disease progression and were only followed for HRQoL for 1 month after this point, therefore follow-up for HRQoL was considerably shorter in the placebo arm and the impact of disease progression, or any subsequent treatments, on HRQoL was not taken into account. Adjusted mean change from baseline analyses only included visits at which !25% of patients in each treatment arm had evaluable questionnaires; for the GHS analysis this equated to the first 6 months of treatment. This may mean that these analyses underestimate the overall impact of olaparib treatment in comparison with placebo, since disease progression and associated subsequent therapies would be expected to result in decreased HRQoL. Additional data assessing the psychological impact of having prolonged disease control (e.g. Brief Illness Perception Questionnaire or depression scale data) were not collected; however, the possibility of a positive benefit for this population of patients who had significantly improved PFS with maintenance olaparib may be considered.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Conclusions</head><p>HRQoL was preserved with olaparib maintenance therapy in patients with metastatic pancreatic cancer and a gBRCAm whose disease had not progressed during first-line platinum-based chemotherapy, with no meaningful difference observed compared with placebo. Results of prespecified end points from the POLO trial show that maintenance olaparib significantly <ref type="figure">Figure 4</ref>. Best overall quality of life response for EORTC QLQ-C30 Global Health Status, physical functioning and symptom scales. Percentages are calculated based on the 86 olaparib-arm patients and 55 placebo-arm patients (54 for the diarrhoea subscale) with available results. Three patients in each arm (4 placebo arm patients for the diarrhoea subscale) were included in the PRO analysis set, but had no evaluable baseline or post-baseline results and are excluded from this figure. O, olaparib; P, placebo.</p><p>improved PFS without compromising quality of life, an important result for patients particularly when considering the cumulative toxicities of standard-of-care chemotherapies.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>Figure 1 .</head><label>1</label><figDesc>Mean change from baseline in EORTC QLQ-C30 scores across timepoints, by treatment group for (A) Global Health Status and (B) physical functioning scores. A change from baseline of !10 points was predefined as clinically meaningful. Error bars denote 95% confidence intervals.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head>Figure 2 .</head><label>2</label><figDesc>Overall adjusted mean change from baseline in EORTC QLQ-C30 scores over the first 6 months of treatment (A) Global Health Status and physical functioning and (B) symptom scales. An adjusted mean change from baseline or between-group difference of !10</figDesc></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="1964">| Hammel et al. Volume 30 | Issue 12 | 2019</note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="1968">| Hammel et al. Volume 30 | Issue 12 | 2019</note>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Acknowledgements</head><p>We thank the patients who participated in this trial, their families and our co-investigators. Medical writing assistance was provided by Elin Pyke, MChem, from Mudskipper Business Ltd, funded by AstraZeneca and Merck Sharp &amp; Dohme Corp., a subsidiary of Merck &amp; Co., Inc., Kenilworth, NJ, USA (MSD).</p></div>
+			</div>
+
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Funding</head><p>This study was sponsored by AstraZeneca and is part of an alliance between AstraZeneca and MSD (no grant number). This research was funded in part through the NIH/NCI Cancer Center Support Grant P30-17 CA008748.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Disclosure</head><p>PH reports grants received from AstraZeneca during the conduct of this study. Personal fees and grants from Celgene, Erythec, Halozyme, Novartis, Pfizer and Servier outside of the submitted work. HLK reports grants and personal fees from AstraZeneca during the conduct of this study. Personal fees from Aldeyra Therapuetics, Astellas, Erytech, Five Prime Therapeutics, Ipsen Pharmaceuticals, and Kyowa. Personal fees and non-financial support from Boehringer-Ingelheim and Paredox Therapeutics. Grants and personal fees from Bristol-Myers Squibb and MedImmune. Grants from Aduro, Bayer, Deciphera, Glaxo Smith Kline, Lilly, Polaris, and Verastem. Grants, personal fees and non-financial support from Merck outside the submitted work. MR reports grants, personal fees and non-financial support from Celgene, personal fees from Baxalta, Eli Lilly, Pfizer, Novocure, Novartis, Shire and AstraZeneca and unpaid Steering Committee membership for Boston Pharmaceuticals, outside the submitted work. EvC reports grants from Amgen, Boehringer Ingelheim, Ipsen and Roche; grants and personal fees from Bayer, Celgene, Lilly, Merck Sharp &amp; Dohme, Merck KGaA, Novartis, Roche and Servier; personal fees from AstraZeneca, and Bristol-Myers Squibb outside the submitted work. TM reports personal fees and non-financial support from Shire Pharmaceuticals, Servier, Sanofi, Celgene, Incyte, and H3 Biomedicine; personal fees from Roche, Baxter, QED Therapeutics and Amgen; grants from BeiGene; grants and personal fees from AstraZeneca outside the submitted work. MJH reports non-financial support and research collaboration only from Myriad Genetic Laboratories, Caris Life Science, Foundation Medicine, Invitae, and Ambry; non-financial support from Astra-Zeneca, outside the submitted work. JOP reports grants and personal fees from Celgene, personal fees from Shire/Servier, Merck Serono, and Sanofi, outside the submitted work. DA reports personal fees from AstraZeneca during the conduct of the study; personal fees and non-financial support from Bayer, BMS, MSD, Servier, Sanofi, Roche, and Sirtex; personal fees from Biocompatibles, Eli Lilly, and Terumo outside the submitted work. D-YO reports grants from AstraZeneca, personal fees from Novartis, Genentech/Roche, Merck Serono, Bayer, Taiho, ASLAN, and Halozyme, outside the submitted work. AR-S reports grants from AstraZeneca during the conduct of the study; grants, personal fees and nonfinancial support from Amgen, Celgene, Roche, and Servier; personal fees from Baxalta, BMS, MSD, Pfizer, Sanofi-Aventis, Shire, iomedico, Aurikamed, MCI, med publico, BSH, Promedicis, and BOVita; grants and non-financial support from Ipsen; grants and personal fees from Lilly, and Merck Serono; grants from AIO Studien gGmbH, Mologen Berlin, Boehringer, Pharma Consulting Group AB Sweden, and Syneed medidata GmbH outside the submitted work. GT reports personal fees from Celgene outside the submitted work. HA reports personal fees from Servier and Celgene; grants from Chugai; nonfinancial support from Lilly and Revolution Medicine outside the submitted work. EMO'R reports grants and personal fees from AstraZeneca, grants from NCI, personal fees from Merck, during the conduct of the study; grants from ActaBiologica, Array, Genentech, MabVax, Novartis, OncoQuest, Polaris Puma, QED, and Roche; grants and personal fees from Agios, AstraZeneca, Bayer, Beigene, from BMS, Casi, Celgene, Exelixis, Halozyme, Incyte, and Lilly; personal fees from 3DMed, AlignMed, Amgen, Antengene, Aptus, Aslan, Astellas, Bioline, Boston Scientific, BridgeBio, CARsgen, Cipla, CytomX, Daiichi, Debiopharm, Delcath, Eisai, Genoscience, Hengrui, Inovio, Ipsen, Jazz, Janssen, Kyowa Kirin, LAM, Loxo, Merck, Mina, Novella, Onxeo, PCI Biotech, Pfizer, Pieris, RedHill, Sanofi, Servier, Silsenseed, SillaJen, Sobi, Targovax, Tekmira, TwoXAR, Vicus, Yakult, and Yiviva outside the submitted work. DH and DMcG have declared no conflicts of interest. KYC reports other funding from Merck &amp; Co., Inc associated with the conduct of the study. SJ is an employee of Merck Sharp &amp; Dohme Corp., a subsidiary of Merck &amp; Co., Inc., Kenilworth, NJ, USA and owns stock in Merck &amp; Co., Inc., Kenilworth, NJ, USA. HKY is an employee of AstraZeneca. NP is an employee of AstraZeneca and owns stock. TG reports personal fees from AstraZeneca during the conduct of the study; institutional research funding from AstraZeneca, and Merck MSD, consultancy fees from AstraZeneca, AbbVie, Bayer, Merck MSD and Teva, and has participated in speakers' bureaus for AbbVie outside the submitted work.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Appendix POLO Investigators</head><p>The table lists the principal investigator for each site who participated in the study.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Country</head><p>Principal investigator</p></div>			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<monogr>
+		<title level="m" type="main">GLOBOCAN: estimated cancer incidence, mortality and prevalence worldwide</title>
+		<ptr target="http://globocan.iarc.fr/Default.aspx" />
+		<imprint>
+			<date type="published" when="2018-10-01" />
+		</imprint>
+	</monogr>
+	<note>date last accessed</note>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title/>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><forename type="middle">M</forename><surname>Noone</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">N</forename><surname>Howlader</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Krapcho</surname></persName>
+		</author>
+		<ptr target="https://seer.cancer.gov/csr/1975_2015/sections.html" />
+	</analytic>
+	<monogr>
+		<title level="j">Cancer Statistics Review</title>
+		<imprint>
+			<date type="published" when="1975" />
+		</imprint>
+	</monogr>
+	<note>date last accessed</note>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">FOLFIRINOX versus gemcitabine for metastatic pancreatic cancer</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Conroy</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">F</forename><surname>Desseigne</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Ychou</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">N Engl J Med</title>
+		<imprint>
+			<biblScope unit="volume">364</biblScope>
+			<biblScope unit="page" from="1817" to="1825" />
+			<date type="published" when="2011" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Increased survival in pancreatic cancer with nab-paclitaxel plus gemcitabine</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Von</forename><surname>Hoff</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><forename type="middle">D</forename><surname>Ervin</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Arena</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">F</forename><forename type="middle">P</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">N Engl J Med</title>
+		<imprint>
+			<date type="published" when="2013" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Cancer of the pancreas: ESMO Clinical Practice Guidelines for diagnosis, treatment and follow-up</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Ducreux</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><forename type="middle">S</forename><surname>Cuhna</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><surname>Caramella</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ann Oncol</title>
+		<imprint>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page" from="56" to="68" />
+			<date type="published" when="2015" />
+		</imprint>
+	</monogr>
+	<note>Suppl</note>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Pain management in pancreatic cancer</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Hameed</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><surname>Hameed</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Erdek</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Cancers (Basel)</title>
+		<imprint>
+			<biblScope unit="volume">3</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="43" to="60" />
+			<date type="published" when="2010" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Road map for pain management in pancreatic cancer: a review</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">J</forename><surname>Lahoud</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><forename type="middle">R</forename><surname>Kourie</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Antoun</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">World J Gastrointest Oncol</title>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="issue">8</biblScope>
+			<biblScope unit="page" from="599" to="606" />
+			<date type="published" when="2016" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">A systematic review of the burden of pancreatic cancer in Europe: real-world impact on survival, quality of life and costs</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Carrato</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Falcone</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Ducreux</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Gastrointest Cancer</title>
+		<imprint>
+			<biblScope unit="volume">46</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="201" to="211" />
+			<date type="published" when="2015" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Prevalence and predictive factors of depression and anxiety in patients with pancreatic cancer: a longitudinal study</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">N</forename><surname>Akizuki</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Y</forename><surname>Uchitomi</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><surname>Inoguchi</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Jpn J Clin Oncol</title>
+		<imprint>
+			<biblScope unit="volume">46</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="71" to="77" />
+			<date type="published" when="2016" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Sequential FOLFIRI.3 þ gemcitabine improves health-related quality of life deterioration-free survival of patients with metastatic pancreatic adenocarcinoma: a randomized phase II trial</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Anota</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">G</forename><surname>Mouillet</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">I</forename><surname>Trouilloud</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">PLoS One</title>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page">125350</biblScope>
+			<date type="published" when="2015" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Metastatic pancreatic cancer: ASCO clinical practice guideline update</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Dps</forename><surname>Sohal</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><forename type="middle">B</forename><surname>Kennedy</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Khorana</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Clin Oncol</title>
+		<imprint>
+			<biblScope unit="volume">36</biblScope>
+			<biblScope unit="issue">24</biblScope>
+			<biblScope unit="page" from="2545" to="2556" />
+			<date type="published" when="2018" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Maintenance olaparib for germline BRCA-mutated metastatic pancreatic cancer</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Golan</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><surname>Hammel</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Reni</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">N Engl J Med</title>
+		<imprint>
+			<biblScope unit="volume">381</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="317" to="327" />
+			<date type="published" when="2019" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Impact of FOLFIRINOX compared with gemcitabine on quality of life in patients with metastatic pancreatic cancer: results from the PRODIGE 4/ACCORD 11 randomized trial</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Gourgou-Bourgade</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><surname>Bascoul-Mollevi</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">F</forename><surname>Desseigne</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Clin Oncol</title>
+		<imprint>
+			<biblScope unit="volume">31</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="23" to="29" />
+			<date type="published" when="2013" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">New response evaluation criteria in solid tumours: revised RECIST guideline (version 1.1)</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><forename type="middle">A</forename><surname>Eisenhauer</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><surname>Therasse</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Bogaerts</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Eur J Cancer</title>
+		<imprint>
+			<biblScope unit="volume">45</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="228" to="247" />
+			<date type="published" when="2009" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">Exploring the patient experience of locally advanced or metastatic pancreatic cancer to inform patientreported outcomes assessment</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">M</forename><surname>Herman</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><surname>Kitchen</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Degboe</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/s11136-019-02233-6</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Qual Life Res</title>
+		<imprint>
+			<date type="published" when="2019-07-04" />
+		</imprint>
+	</monogr>
+	<note>epub ahead of print</note>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">The European Organization for Research and Treatment of Cancer QLQ-C30: a quality-of-life instrument for use in international clinical trials in oncology</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">N</forename><forename type="middle">K</forename><surname>Aaronson</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Ahmedzai</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">B</forename><surname>Bergman</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Natl Cancer Inst</title>
+		<imprint>
+			<biblScope unit="volume">85</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page" from="365" to="376" />
+			<date type="published" when="1993" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Interpreting the significance of changes in health-related quality-of-life scores</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><surname>Osoba</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">G</forename><surname>Rodrigues</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Myles</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Clin Oncol</title>
+		<imprint>
+			<biblScope unit="volume">16</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="139" to="144" />
+			<date type="published" when="1998" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Evidence-based guidelines for determination of sample size and interpretation of the European Organisation for the Research and Treatment of Cancer Quality of Life Questionnaire Core 30</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><surname>Cocks</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">T</forename><surname>King</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">G</forename><surname>Velikova</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Clin Oncol</title>
+		<imprint>
+			<biblScope unit="volume">29</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="89" to="96" />
+			<date type="published" when="2011" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">Quality of life in a prospective, multicenter phase 2 trial of neoadjuvant full-dose gemcitabine, oxaliplatin, and radiation in patients with resectable or borderline resectable pancreatic adenocarcinoma</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><forename type="middle">E</forename><surname>Serrano</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">M</forename><surname>Herman</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><forename type="middle">A</forename><surname>Griffith</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Int J Radiat Oncol Biol Phys</title>
+		<imprint>
+			<biblScope unit="volume">90</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="270" to="277" />
+			<date type="published" when="2014" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">Pancreatic cancer</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Kleeff</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Korc</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Apte</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nat Rev Dis Primers</title>
+		<imprint>
+			<biblScope unit="volume">2</biblScope>
+			<biblScope unit="page">16022</biblScope>
+			<date type="published" when="2016" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<monogr>
+		<title/>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">N</forename><forename type="middle">W</forename><surname>Scott</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><forename type="middle">M</forename><surname>Fayers</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">N</forename><forename type="middle">K</forename><surname>Aaronson</surname></persName>
+		</author>
+		<ptr target="https://www.eortc.org/app/uploads/sites/2/2018/02/reference_values_manual2008.pdf" />
+		<imprint>
+			<date type="published" when="2019-10-01" />
+		</imprint>
+	</monogr>
+	<note>date last accessed</note>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<monogr>
+		<title level="m" type="main">Abst 2759. Management of nausea and vomiting during treatment with the capsule (CAP) and tablet (TAB) formulations of the PARP inhibitor olaparib</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Banerjee</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Ledermann</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">U</forename><surname>Matulonis</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2015" />
+			<publisher>European Cancer Congress</publisher>
+			<pubPlace>Vienna, Austria</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">Health-related quality of life impact of cobimetinib in combination with vemurafenib in patients with advanced or metastatic BRAF(V600) mutation-positive melanoma</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">B</forename><surname>Dreno</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><forename type="middle">A</forename><surname>Ascierto</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">V</forename><surname>Atkinson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Br J Cancer</title>
+		<imprint>
+			<biblScope unit="volume">118</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page" from="777" to="784" />
+			<date type="published" when="2018" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title level="a" type="main">Nivolumab versus standard, single-agent therapy of investigator&apos;s choice in recurrent or metastatic squamous cell carcinoma of the head and neck (CheckMate 141): health-related quality-of-life results from a randomised</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><forename type="middle">J</forename><surname>Harrington</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><forename type="middle">L</forename><surname>Ferris</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">G</forename><surname>Blumenschein</surname><genName>Jr</genName></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Lancet Oncol</title>
+		<imprint>
+			<biblScope unit="volume">18</biblScope>
+			<biblScope unit="issue">8</biblScope>
+			<biblScope unit="page" from="1104" to="1115" />
+			<date type="published" when="2017" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<monogr>
+		<title level="m" type="main">POLO: time to treatment discontinuation and subsequent therapies following maintenance olaparib for patients (pts) with a germline BRCA mutation and metastatic pancreatic cancer (mPC)</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><surname>Van Cutsem</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Golan</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><surname>Hammel</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2019" />
+			<publisher>European Society for Medical Oncology Congress</publisher>
+			<pubPlace>Barcelona</pubPlace>
+		</imprint>
+	</monogr>
+	<note>abstract #5029</note>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title/>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">David</forename><surname>Australia Lorraine Chantrill</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Warren</forename><surname>Goldstein</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Nick</forename><surname>Joubert</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Annette</forename><forename type="middle">Tognela</forename><surname>Pavlakis</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Frank</forename><surname>Belgium Eric Van Cutsem</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Jean-Luc</forename><surname>Van Fraeyenhove</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Marc</forename><surname>Van Laethem</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Petr</forename><surname>Peeters Canada Neesha Dhani</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">;</forename><surname>Kavan</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Ulrich Thorsten</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Elke</forename><surname>Hacker</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Lutz</forename><surname>Hennes</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Stephan</forename><surname>Jacobasch</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Ursula</forename><surname>Kanzler</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Anke</forename><surname>Pession</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Christian</forename><surname>Reinacher-Schick</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Marianne</forename><surname>Scholz</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Alexander</forename><surname>Sinn</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Christian</forename><surname>Stein</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Arndt</forename><surname>Strassburg</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Ronen</forename><surname>Vogel Israel Menachem Ben-Shahar</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Ron</forename><surname>Brenner</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Ravit</forename><surname>Epelbaum</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Alexander</forename><surname>Geva</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Talia</forename><surname>Gluzman</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Efraim</forename><surname>Golan</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Maya</forename><surname>Idelevich</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Valeriya</forename><surname>Kolin</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Ayelet</forename><surname>Semenisty</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Salomon</forename><surname>Shai</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Nirit Yarom Italy Luigi</forename><surname>Stemmer</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Pierfranco</forename><surname>Celio</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Carlo</forename><surname>Conte</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Luca</forename><surname>Garufi</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Francesco</forename><surname>Gianni</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Evaristo</forename><surname>Leonardi</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Mariacristina</forename><forename type="middle">Di</forename><surname>Maiello</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Michele</forename><surname>Marco</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Carmine</forename><surname>Milella</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Daniele</forename><surname>Pinto</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Mario</forename><surname>Santini</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Giampaolo</forename><surname>Scartozzi</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Tortora</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Tanios Bekaii-Saab</title>
+		<editor>Corey Carter, Deirdre Cohen, Alfred DiStefano, Tomislav Dragovich, Samuel Ejadi, James Ford, Stephen Grabelsky, Michael Hall, Howard Hochster, a Peter Hosein, Milind Javle, Hedy Kindler, Jill Lacy, Daniel Laheru, Stephen Leong, Maeve Lowery, a Robert Marsh, Anne Noonan, Paul Oberstein, Allyson Ocean, Eileen O&apos;Reilly, David Ryan, Tara Seery, Somasundaram Subramaniam, David Van Echo, a Andrea Wang-Gillam</editor>
+		<imprint/>
+	</monogr>
+	<note>Colin Weekes, a Stephen Welch a Former principal investigator</note>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

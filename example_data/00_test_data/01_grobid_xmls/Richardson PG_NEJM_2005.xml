@@ -1,0 +1,1175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /data/rsg/nlp/juanmoo1/bin/grobid-0.6.1/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Bortezomib or High-Dose Dexamethasone for Relapsed Multiple Myeloma</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+				<date type="published" when="2020-08-24">August 24, 2020</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author role="corresp">
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><roleName>M.D</roleName><forename type="first">Paul</forename><forename type="middle">G</forename><surname>Richardson</surname></persName>
+							<email>paul_richardson@dfci.harvard.edu</email>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><roleName>M.D</roleName><forename type="first">Pieter</forename><surname>Sonneveld</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><roleName>M.D</roleName><forename type="first">Michael</forename><forename type="middle">W</forename><surname>Schuster</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><roleName>M.D</roleName><forename type="first">David</forename><surname>Irwin</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><roleName>M.D</roleName><forename type="first">Edward</forename><forename type="middle">A</forename><surname>Stadtmauer</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><roleName>M.D</roleName><forename type="first">Thierry</forename><surname>Facon</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><roleName>M.D</roleName><forename type="first">Jean-Luc</forename><surname>Harousseau</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><roleName>M.D</roleName><forename type="first">Dina</forename><surname>Ben-Yehuda</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><roleName>M.D</roleName><forename type="first">Sagar</forename><surname>Lonial</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><roleName>M.D</roleName><forename type="first">Hartmut</forename><surname>Goldschmidt</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><roleName>M.D</roleName><forename type="first">Donna</forename><surname>Reece</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><roleName>M.D</roleName><forename type="first">Jesus</forename><forename type="middle">F</forename><surname>San-Miguel</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><roleName>M.D</roleName><forename type="first">Joan</forename><surname>Bladé</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><roleName>M.D</roleName><forename type="first">Mario</forename><surname>Boccadoro</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><roleName>M.D</roleName><forename type="first">Jamie</forename><surname>Cavenagh</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><roleName>M.D</roleName><forename type="first">William</forename><forename type="middle">S</forename><surname>Dalton</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><roleName>M.D</roleName><forename type="first">Anthony</forename><forename type="middle">L</forename><surname>Boral</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><roleName>Ph.D</roleName><forename type="first">Dixie</forename><forename type="middle">L</forename><surname>Esseltine</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><roleName>M.D</roleName><forename type="first">Jane</forename><forename type="middle">B</forename><surname>Porter</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><roleName>M.S</roleName><forename type="first">David</forename><surname>Schenkein</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><roleName>M.D</roleName><forename type="first">Kenneth</forename><forename type="middle">C</forename><surname>Anderson</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Claude</forename><surname>Huriez</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Lille</surname></persName>
+						</author>
+						<author>
+							<affiliation key="aff0">
+								<orgName type="department">Assessment of Proteasome Inhibition for Extending Remissions (APEX) Investigators</orgName>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff1">
+								<orgName type="department">From the Dana-Farber Cancer Institute</orgName>
+								<address>
+									<settlement>Boston</settlement>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff2">
+								<orgName type="institution">University of Pennsylvania Cancer Center</orgName>
+								<address>
+									<settlement>Philadelphia</settlement>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff3">
+								<orgName type="department">T.F.); Hotel Dieu Hospital</orgName>
+								<address>
+									<settlement>Nantes</settlement>
+									<country>France (, France</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff4">
+								<orgName type="institution">Hadassah University Hos-pital</orgName>
+								<address>
+									<settlement>Jerusalem</settlement>
+									<region>(D.B.-Y.); Emory</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff5">
+								<orgName type="institution">Univer-sity</orgName>
+								<address>
+									<settlement>Atlanta</settlement>
+									<region>S.L.</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff6">
+								<orgName type="department">Princess Margaret Hospital, Toronto (D.R.); Hospital Universitario de Salamanca</orgName>
+								<orgName type="institution">Universitaetsklinikum Heidelberg</orgName>
+								<address>
+									<settlement>Heidelberg, Sala-manca</settlement>
+									<country>Germany (H.G.</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff7">
+								<orgName type="department">Dana-Farber Cancer Institute</orgName>
+								<address>
+									<addrLine>44 Binney St</addrLine>
+									<postCode>02115</postCode>
+									<settlement>Bos-ton</settlement>
+									<region>MA</region>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Bortezomib or High-Dose Dexamethasone for Relapsed Multiple Myeloma</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date type="published" when="2020-08-24">August 24, 2020</date>
+						</imprint>
+					</monogr>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.6.1" ident="GROBID" when="2021-01-01T18:48+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<abstract>
+				<p>This study compared bortezomib with high-dose dexamethasone in patients with relapsed multiple myeloma who had received one to three previous therapies. methods We randomly assigned 669 patients with relapsed myeloma to receive either an intravenous bolus of bortezomib (1.3 mg per square meter of body-surface area) on days 1, 4, 8, and 11 for eight three-week cycles, followed by treatment on days 1, 8, 15, and 22 for three five-week cycles, or high-dose dexamethasone (40 mg orally) on days 1 through 4, 9 through 12, and 17 through 20 for four five-week cycles, followed by treatment on days 1 through 4 for five four-week cycles. Patients who were assigned to receive dexamethasone were permitted to cross over to receive bortezomib in a companion study after disease progression. results Patients treated with bortezomib had higher response rates, a longer time to progression (the primary end point), and a longer survival than patients treated with dexamethasone. The combined complete and partial response rates were 38 percent for bortezomib and 18 percent for dexamethasone (P&lt;0.001), and the complete response rates were 6 percent and less than 1 percent, respectively (P&lt;0.001). Median times to progression in the bortezomib and dexamethasone groups were 6.22 months (189 days) and 3.49 months (106 days), respectively (hazard ratio, 0.55; P&lt;0.001). The oneyear survival rate was 80 percent among patients taking bortezomib and 66 percent among patients taking dexamethasone (P=0.003), and the hazard ratio for overall survival with bortezomib was 0.57 (P=0.001). Grade 3 or 4 adverse events were reported in 75 percent of patients treated with bortezomib and in 60 percent of those treated with dexamethasone. conclusions Bortezomib is superior to high-dose dexamethasone for the treatment of patients with multiple myeloma who have had a relapse after one to three previous therapies.</p>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>uring the past 10 years, advances in the treatment of multiple myeloma have improved survival moderately. <ref type="bibr" target="#b0">1</ref> In newly diagnosed disease, only high-dose chemotherapy followed by autologous hematopoietic stem-cell transplantation provides a survival benefit. <ref type="bibr" target="#b1">2,</ref><ref type="bibr" target="#b2">3</ref> The optimal therapy for relapsed myeloma is not established, but high-dose dexamethasone is commonly used. <ref type="bibr" target="#b3">[4]</ref><ref type="bibr" target="#b4">[5]</ref><ref type="bibr" target="#b5">[6]</ref> Response rates with this treatment are similar to those with vincristine, doxorubicin, and dexamethasone (VAD), and the dexamethasone component is estimated to account for 85 percent of the effect of VAD. <ref type="bibr" target="#b6">7,</ref><ref type="bibr" target="#b7">8</ref> The proteasome inhibitor bortezomib induces apoptosis, reverses drug resistance of multiple myeloma cells, and affects their microenvironment by blocking cytokine circuits, cell adhesion, and angiogenesis in vivo. <ref type="bibr" target="#b8">[9]</ref><ref type="bibr">[10]</ref><ref type="bibr" target="#b9">[11]</ref><ref type="bibr" target="#b11">[12]</ref> In a phase 2 study of relapsed and refractory myeloma, 27 percent of heavily pretreated patients had a complete or partial response with bortezomib. <ref type="bibr" target="#b12">13,</ref><ref type="bibr" target="#b13">14</ref> On the basis of these results, bortezomib received approval for the treatment of relapsed and refractory multiple myeloma. The phase 3 randomized trial reported here compared bortezomib with high-dose dexamethasone in patients with multiple myeloma who had had a relapse after one to three other therapies.</p><p>patients Eligible patients had measurable progressive disease after one to three previous treatments. They had a score on the Karnofsky performance scale of at least 60, a platelet count of at least 50,000 per cubic millimeter, a hemoglobin level of at least 7.5 g per deciliter, an absolute neutrophil count of at least 750 per cubic millimeter, and a creatinine clearance of at least 20 ml per minute. Patients were excluded if they had previously received bortezomib or had disease that was refractory to high-dose dexamethasone (defined by a less-than-partial response or progressive disease within 6 months after receipt of at least 500 mg of dexamethasone during a 10week period or discontinuation of the drug due to associated grade 3 or higher adverse events), had at least grade 2 peripheral neuropathy, or had any clinically significant coexisting illness unrelated to myeloma. Review boards at all the participating institutions approved the study, and all patients provided written informed consent. The study was conducted according to the Declaration of Helsinki, the International Conference on Harmonization, and the Guidelines for Good Clinical Practice.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>study design and treatment</head><p>This randomized <ref type="bibr">(1:1)</ref>, open-label, phase 3 study was conducted at 93 centers in the United States, Canada, Europe, and Israel from June 2002 to October 2003. Randomization was stratified according to the number of previous treatments (1 vs. &gt;1), time to progression after the last treatment (≤6 months vs. &gt;6 months), and b 2 -microglobulin values (≤2.5 mg per liter vs. &gt;2.5 mg per liter). Bortezomib (at a dose of 1.3 mg per square meter of body-surface area) was administered by intravenous bolus on days 1, 4, 8, and 11 of cycles 1 through 8 (21-day cycles) and on days 1, 8, 15, and 22 of cycles 9 to 11 (35-day cycles), for a maximum treatment period of 273 days. Oral dexamethasone (40 mg) was administered on days 1 to 4, 9 to 12, and 17 to 20 of cycles 1 through 4 (35-day cycles) and on days 1 to 4 of cycles 5 through 9 (28-day cycles), for a maximum treatment period of 280 days. Patients in the dexamethasone group with confirmed disease progression were permitted to cross over to receive bortezomib in a companion study. Platelet and red-cell transfusions and the administration of neutrophil growth factors and epoetin alfa were allowed. All patients were to receive bisphosphonates intravenously every three to four weeks unless such treatment was clinically contraindicated.</p><p>The primary objective was to compare the time to disease progression in the two treatment groups. Secondary end points included overall and one-year survival, the response rate (complete plus partial response), the duration of the response, the time to the first evidence of a confirmed response, the time to a first infection of grade 3 or higher, the incidence of a grade 3 or higher infection, and the time to a first skeletal event (including new fractures, except vertebral compression or rib fractures, bone irradiation, bone surgery, and spinal cord compression).</p><p>The Assessment of Proteasome Inhibition for Extending Remissions (APEX) trial was designed as a collaborative effort by Dr. Richardson, the coinvestigators, the Investigators' Management Team (Drs. Anderson, Dalton, Harousseau, and San-Miguel), and the sponsor, Millennium Pharmaceuticals. Data were collected by the sponsor, and the final analysis was performed by the sponsor in collaboration with Dr. Richardson. All authors had full access to the primary data and the final analysis. Drs. Richardson and Anderson vouch for the pub-</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>d methods</head><p>The New England Journal of Medicine lished results. The sponsor placed no limits on the analysis or content of the manuscript, and all authors supported the decision to publish the results.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>assessments</head><p>Time to progression and response rates were determined by a computer-programmed algorithm (validated by a three-member independent review committee), according to the European Blood and Marrow Transplant Group. <ref type="bibr" target="#b14">15</ref> Briefly, a complete response was defined by the absence of monoclonal immunoglobulin (M protein) in serum and urine, as confirmed by immunofixation. A partial response was defined by a reduction of M protein in serum of at least 50 percent and a reduction in urine of at least 90 percent. A minimal response was defined by a reduction of M protein in serum of 25 to 49 percent and a reduction in urine of 50 to 89 percent. Progressive disease was defined by any of the following: an increase of M protein in serum or urine of more than 25 percent, an increase in bone marrow plasma cells of more than 25 percent, new or increased bone lesions or plasmacytomas, or new hypercalcemia. Complete, partial, and minimal responses were confirmed by repeated measurements of M protein in serum and urine after six weeks, and progressive disease was confirmed by repeated measurements of M protein in serum and urine after one to three weeks. Near-complete response, a subcategory of partial response, was defined as a complete response with a positive immunofixation test (lower limit of detection, 0.15 to 0.25 mg per milliliter). <ref type="bibr" target="#b12">13</ref> Efficacy data were based on analysis of blood and urine samples by a central laboratory, unless progression of myeloma occurred as an isolated bone lesion, growth of a plasmacytoma, or an increase in plasma cells in the bone marrow without a change in M protein.</p><p>Patients were evaluated every 3 weeks during the first 39 weeks. Follow-up was then performed every six weeks until disease progression, after which follow-up for skeletal events and survival was performed every three months. Patients with a complete response continued to receive treatment for two cycles after the confirmation of the response. Patients who discontinued treatment before disease progression were followed every 3 weeks for 39 weeks or until disease progression.</p><p>Safety was assessed throughout the study for all patients who received at least one dose of the assigned study drug until 30 days after the last dose and was graded according to the National Cancer Institute Common Toxicity Criteria (version 2). The onset and intensity of peripheral neuropathy and other neurotoxic effects were assessed with the neurotoxicity subscale of the Gynecologic Oncology Group's Functional Assessment of Cancer Therapy. <ref type="bibr" target="#b15">16,</ref><ref type="bibr" target="#b17">17</ref> A serious adverse event was defined as any event that resulted in death, was life-threatening, required hospitalization, resulted in persistent or substantial disability, or had important medical consequences.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>statistical analysis</head><p>The time to disease progression in the treatment groups was compared with the use of the stratified log-rank test; the Kaplan-Meier method was used to estimate the distribution of the time to progression in each group. The stratified Cox proportionalhazards model was used to estimate the hazard ratio and 95 percent confidence intervals. Analyses of overall and one-year survival, the time to a first skeletal event, and the time to a grade 3 or higher infection were performed with the use of this method. Response rates were compared with the Cochran-Mantel-Haenszel chi-square test, with adjustment for stratification factors. The incidence of grade 3 or higher infection was compared with the use of Fisher's exact test. Analyses of subgroups prospectively defined according to the number of previous treatments were performed with the use of the same methods. Treatment differences for all end points were tested at a two-sided a level of 0.05. The sample size of 310 patients per treatment group provided 80 percent power to detect a 30 percent difference in the time to disease progression between the two groups.</p><p>An interim analysis of the time to progression on the basis of the method of O'Brien and Fleming was planned when at least 50 percent of required disease-progression events (in 231 patients) had occurred. <ref type="bibr" target="#b18">18</ref> A statistically significant difference was to be declared at the interim analysis if the stratified log-rank P value for the time to progression was 0.005 or less or, failing this, if at the final analysis the P value was 0.048 or less. At the interim analysis, patients taking bortezomib had a significant prolongation of the median time to disease progression (P&lt;0.001) and a significantly improved overall survival (P=0.04), as compared with patients receiving dexamethasone. As a result of the interim analysis and the recommendation of the data-monitoring committee, all patients in the dexamethasone group were offered bortezomib. Data for the final analyses of the time to disease progression and the response were censored before December 15, 2003. Safety analyses, including survival, were censored before January <ref type="bibr" target="#b13">14,</ref><ref type="bibr">2004</ref>. In analyses of the time to progression, duration of the response, and time to the response, data for patients who started alternative chemotherapy (including crossover to bortezomib), who were lost to follow-up, or who died before documentation of progressive disease were censored at the last assessment. In analyses of survival, data for patients were censored before January 14, on the date they were last known to be alive, regardless of disease progression or alternative therapy. Analyses were performed with SAS statistical software (version 8.2, SAS Institute).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>patients and treatment</head><p>A total of 669 patients with relapsed multiple myeloma were randomly assigned to receive bortezomib (333) or high-dose dexamethasone (336). At the time of the final analysis, 85 patients in the bortezomib group and 55 patients in the dexamethasone group were still receiving a study drug. Base-line demographic and other characteristics of the two groups were balanced ( <ref type="table" target="#tab_0">Table 1</ref>).</p><p>The treatment groups were similar in the number and type of prior therapies <ref type="table" target="#tab_0">(Table 1)</ref>; 38 percent of patients had received only one prior treatment, and in 95 percent of these patients, the initial treatment included an alkylating agent or an anthracycline. Sixty-seven percent of patients had received a hematopoietic stem-cell transplant or other highdose therapy. On retrospective review, 14 patients in the bortezomib group (4 percent) and 23 in the dexamethasone group (7 percent) were found to have received more than three prior therapies. In accordance with the statistical analysis plan, these patients were included in the intention-to-treat population.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>efficacy</head><p>The median time to disease progression was 6.22 months (189 days) in the bortezomib group and 3.49 months (106 days) in the dexamethasone group (hazard ratio for the bortezomib group, 0.55; P&lt; 0.001) ( <ref type="figure" target="#fig_0">Fig. 1A)</ref>. A total of 627 patients (315 in the bortezomib group and 312 in the dexamethasone group) were judged to be suitable for evaluation if they had received at least one dose of a study drug and had measurable disease at baseline. The response rate (including both complete response and partial response) was 38 percent in the bortezomib group and 18 percent in the dexamethasone group (P&lt; 0.001) ( <ref type="table" target="#tab_3">Table 2</ref>). Complete response (including a negative immunofixation test) was achieved in 20 patients who received bortezomib (6 percent), as compared with 2 patients who received dexamethasone (&lt;1 percent, P&lt;0.001), with either a complete response or a near-complete response in 41 patients who received bortezomib (13 percent), as compared with 5 patients who received dexamethasone (2 percent, P&lt;0.001). The median time to a response was 43 days for patients in both groups. The median duration of the response was 8 months in the bortezomib group and 5.6 months in the dexamethasone group.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>results</head><p>At one year of follow-up, patients who received bortezomib had a higher rate of overall survival (80 percent) than those who received dexamethasone (66 percent, P=0.003). This is a 41 percent decrease in the risk of death in the bortezomib group during the first year after enrollment (hazard ratio for the bortezomib group, 0.57; P=0.001) ( <ref type="figure" target="#fig_0">Fig. 1B  and 1C</ref>). The analysis of overall survival includes data from 147 patients in the dexamethasone group who had disease progression and subsequently crossed over to receive bortezomib in a companion study (44 percent).</p><p>The time to a first skeletal event and the rate of grade 3 or higher infections did not differ significantly between the two treatment groups. The median time to a first skeletal event could not be estimated in either group, and the hazard ratios were not significantly different (P=0.32). The proportion of patients with grade 3 or higher infections was 13 percent in the bortezomib group and 16 percent in the dexamethasone group (P=0. <ref type="bibr" target="#b19">19</ref>).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>subgroup analysis</head><p>The median time to disease progression among patients who had received one previous therapy The New England Journal of Medicine was 7.0 months in the bortezomib group and 5.6 months in the dexamethasone group (hazard ratio for the bortezomib group, 0.56; P=0.002) ( <ref type="figure" target="#fig_0">Fig. 1D</ref>).</p><p>With more than one previous treatment, the medi-an times were 4.9 and 2.9 months, respectively (hazard ratio for the botezomib group, 0.55; P&lt;0.001). Patients who received bortezomib as second-line therapy also had a higher response rate Panel A shows the time to disease progression in the intention-to-treat populations (a total of 669 patients) for bortezomib and dexamethasone. Panel B shows the overall survival in both groups in the intention-to-treat population. The survival curves cross at approximately 500 days because of the death of one patient in the bortezomib group at 504 days. At that time, the curve had accounted for 330 of the 333 patients (with 50 deaths and data for 280 patients censored), with only 1 death and two censored data points after the curves cross. Panel C shows the survival data censored at one year in both groups of the intention-to-treat population, indicating that at 360 days the probability of survival was 80 percent in the bortezomib group and 66 percent in the dexamethasone group. Data were generated as comparisons of survival probabilities on the basis of normal approximations. Panel D shows the time to disease progression for patients in both groups of the intentionto-treat population who had received only one previous line of therapy (a total of 251 patients). Panel E shows the overall survival for the subgroup of 251 patients who had received only one previous line of therapy. P values for all analyses are from stratified log-rank tests. A B</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>C D E</head><p>The New England Journal of Medicine than did those who received dexamethasone (45 percent vs. 26 percent, P=0.004), as did those who had received two or more previous treatments (34 percent vs. 13 percent, P&lt;0.001). The median duration of a response for patients receiving bortezomib or dexamethasone as second-line treatment was 8.1 and 6.2 months, respectively, and for patients who had received more than one previous treatment, 7.8 and 4.1 months, respectively. Overall survival was significantly longer among patients who received bortezomib, both for those who had received one previous treatment (hazard ratio, 0.42; P=0.01) ( <ref type="figure" target="#fig_0">Fig. 1E</ref>) and for those who had received more than one previous treatment (hazard ratio, 0.63; P=0.02).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>sensitivity analysis</head><p>To determine whether inadvertent inclusion of patients who had disease that was refractory to highdose dexamethasone might have biased the results, a post hoc review of all previous therapy was performed, and patients who may have had disease that was refractory to high-dose dexamethasone (i.e., more than 500 mg within a 10-week period) were sought. As specified in the protocol, refractoriness to dexamethasone was defined as a lack of complete or partial response to a regimen containing high-dose dexamethasone or disease progression within six months after the last dose. Of 269 patients who had received high-dose dexamethasone as part of their previous therapy, 60 had disease that was potentially refractory to dexamethasone (32 patients who were randomly assigned to receive bortezomib and 28 who were randomly assigned to receive dexamethasone). Patients were considered to have refractory disease in this analysis if they met the criteria for such disease (53 patients) or if missing data made it impossible to conclude that they had refractory disease (7 patients).</p><p>After the exclusion of these patients from sensitivity analyses regarding the time to progression, overall survival, and response rate, bortezomib remained significantly superior to dexamethasone for all end points. The median time to progression was 6.22 months (189 days) in the bortezomib group and 3.49 months (106 days) in the dexamethasone group (P&lt;0.001), the hazard ratio for overall survival was 0.55 with bortezomib (P=0.002), and the response rate (including both complete response and partial response) was 39 percent in the bortezomib group and 18 percent in the dexamethasone group (P&lt;0.001).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>drug exposure, patient disposition, and safety</head><p>A total of 663 patients received at least one dose of study drug and are included in the safety population (331 patients in the bortezomib group and 332 patients in the dexamethasone group). The duration of treatment was similar in the two groups; 56 percent of patients completed five three-week cycles of bortezomib, and the same proportion completed three five-week cycles of dexamethasone; 29 percent of patients in the bortezomib group completed eight twice-weekly cycles of bortezomib, and 36 percent of patients in the dexamethasone group completed four cycles of high-dose dexamethasone. Nine percent and 5 percent of patients completed all planned therapy in the bortezomib and dexamethasone groups, respectively. A total of 121 patients in the bortezomib group (37 percent) had adverse events necessitating early discontinuation of treatment. These events included peripheral neuropathy (8 percent) and thrombocytopenia, various gastrointestinal disorders, fatigue, hypercalcemia, and spinal cord compression (2 percent each). Of the patients who discontinued treatment early because of hypercalcemia (seven patients), all had progressive disease. Of the patients who discontinued treatment because of spinal cord * All patients who received at least one dose of a study drug and who had measurable disease at baseline were evaluated for a response. Of the 669 patients enrolled, only 627 could be evaluated, since 6 did not receive a study drug and 36 did not have measurable disease (as defined by a serum M protein level that could be measured quantitatively, a urinary M protein level that could be measured quantitatively, or a measurable soft-tissue plasmacytoma). † P values were calculated with the Cochran-Mantel-Haenszel chi-square test, with adjustment for stratified randomization. ND denotes not determined. ‡ All criteria for a complete response were met except that immunofixation remained positive. The New England Journal of Medicine compression (seven patients), five had progressive disease, one had unconfirmed progressive disease, and one did not have progressive disease. The investigator identified the adverse event as the primary reason for discontinuation in all but one of these cases. In the dexamethasone group, 96 patients discontinued treatment early because of adverse events (29 percent), which included psychotic disorder, hyperglycemia, or thrombocytopenia (2 percent each). Disease progression led to early discontinuation in 98 patients receiving bortezomib (29 percent) and in 174 receiving dexamethasone (52 percent, P&lt;0.001). There were eight deaths considered possibly related to a study drug: four in the bortezomib group (three from cardiac causes and one from respiratory failure) and four in the dexamethasone group (three from sepsis and one sudden death of unknown cause). Certain adverse events (including gastrointestinal events, thrombocytopenia, and peripheral neuropathy) were more prominent in the bortezomib group <ref type="table" target="#tab_4">(Table 3)</ref>. Grade 3 adverse events were reported in 61 percent of patients receiving bortezomib and in 44 percent of patients receiving dexamethasone (P&lt;0.01). The most common grade 3 or 4 adverse events (reported in more than 10 percent of patients in either group) were thrombocytopenia, anemia, and neutropenia in patients receiving bortezomib and anemia in patients receiving dexamethasone. The bortezomib group and the dexamethasone group had similar rates of grade 4 events (14 percent and 16 percent, respectively) and serious adverse events (44 percent and 43 percent, respectively), as defined by the National Cancer Institute Common Toxicity Criteria (version 2). Deaths within 30 days of the last dose of the study drug were reported for 14 patients receiving bortezomib (4 percent; 1 percent drug-related) and 25 patients receiving dexamethasone (8 percent; 1 percent drug-related), with disease progression the most commonly reported cause of death (2 percent in each group). Improvement or resolution of grade 2 or higher peripheral neuropathy was reported in 44 of 87 patients in whom peripheral neuropathy developed during treatment with bortezomib (51 percent), with a median time to resolution of 107 days (approximately 3.5 months) from the onset of the adverse event. Of those 44 patients, 40 had resolution (a return to baseline), and 4 had improvement without complete resolution at the last assessment.</p><p>Among the bortezomib-treated patients with thrombocytopenia, the platelet count returned toward the baseline value between treatment cycles <ref type="figure" target="#fig_1">(Fig. 2)</ref>. Thrombocytopenia of grade 3 (platelet count, &lt;50,000 per cubic millimeter) or grade 4 (platelet count, &lt;10,000 per cubic millimeter) was more common in patients receiving bortezomib (grade 3, 26 percent; grade 4, 4 percent) than it was in patients receiving dexamethasone (grade 3, 5 percent; grade 4, 1 percent). However, the percentage of clinically significant bleeding episodes, more commonly associated with grade 3 thrombocytopenia in both treatment groups, was similar and included 13 patients receiving bortezomib (4 percent) and 15 patients receiving dexamethasone (5 percent). Two deaths were associated with bleeding in the dexamethasone group (subdural hematoma in one case and gastrointestinal hemorrhage in the other); there were no bleeding-associated deaths in the bortezomib group. The incidence of cardiac disorders during treatment with bortezomib and dexamethasone was 15 percent and 13 percent, respectively. No particular cardiac disorder occurred at an incidence of more than 10 percent in either group; seven patients receiving bortezomib (2 percent) and eight receiving dexamethasone (2 percent) had congestive cardiac failure during the study. However, it was noteworthy that the incidence of herpes zoster infection was higher in patients receiving bortezomib (13 percent) than it was in patients receiving dexamethasone (5 percent, P&lt;0.001).</p><p>In this study of patients with multiple myeloma who had a relapse after having received one to three previous therapies, the overall rate of response (complete response plus partial response) to bortezomib was 38 percent, as defined by the stringent criteria of the European Blood and Marrow Transplant Group, with a complete response rate of 6 percent and a near-complete response rate of 7 percent. This result compares favorably with the less rigorously defined response rates (i.e., a greater than 50 percent reduction in M protein) of 17 to 47 percent reported with thalidomide <ref type="bibr" target="#b19">[19]</ref><ref type="bibr" target="#b20">[20]</ref><ref type="bibr" target="#b21">[21]</ref><ref type="bibr" target="#b22">[22]</ref><ref type="bibr" target="#b23">[23]</ref><ref type="bibr" target="#b24">[24]</ref><ref type="bibr" target="#b25">[25]</ref><ref type="bibr" target="#b26">[26]</ref><ref type="bibr" target="#b27">[27]</ref><ref type="bibr" target="#b28">[28]</ref><ref type="bibr" target="#b29">[29]</ref><ref type="bibr" target="#b30">[30]</ref> and 25 to 50 percent with VAD. <ref type="bibr" target="#b31">[31]</ref><ref type="bibr" target="#b32">[32]</ref><ref type="bibr" target="#b34">[33]</ref><ref type="bibr" target="#b35">[34]</ref> High-dose dexamethasone was considered by the investigators and the regulatory agencies to be the best drug for comparison. There is no generally accepted standard therapy for patients with relapsed myeloma, and the choice of treatment de-</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>discussion</head><p>The New England Journal of Medicine pends on prior therapies, age, performance status, bone marrow reserve, and coexisting illnesses. High-dose dexamethasone is widely used in North America and Europe for relapsed myeloma and has been the drug used for comparison in several large studies of newly diagnosed myeloma. <ref type="bibr" target="#b4">[5]</ref><ref type="bibr" target="#b5">[6]</ref><ref type="bibr" target="#b6">[7]</ref><ref type="bibr">35,</ref><ref type="bibr" target="#b36">36</ref> To reduce the potential biases with an openlabel design, all assessments of M protein and calcium levels were confirmed at a central laboratory. The duration of treatment was similar in the two groups, and the interval between disease assessments was short (three weeks in both groups). Moreover, patients with disease that was refractory to high-dose dexamethasone were excluded, because they would have been expected to have either no response to dexamethasone or a response of short duration.</p><p>Randomization was stratified for three prognostic factors, and the treatment groups were well balanced with respect to demographic characteristics and the number and types of previous therapies. As initial treatment, 95 percent of patients who entered the trial at first relapse had received anthracycline-based therapy (e.g., VAD), alkylating-agent combinations (e.g., melphalan and prednisone), or both. In addition, 67 percent had received a * More than one patient in the bortezomib group had additional grade 4 adverse events, including hypercalcemia, hyponatremia, sepsis, disease progression, renal failure, and gastrointestinal hemorrhage. † More than one patient in the dexamethasone group had additional grade 4 adverse events, including hyperglycemia, sepsis, septic shock, dyspnea, respiratory failure, renal failure, cerebrovascular accident, pulmonary embolism, psychotic disorder, and death. ‡ P&lt;0.01. Proportions were compared with the use of Fisher's exact test. § P&lt;0.05. Proportions were compared with the use of Fisher's exact test. hematopoietic stem-cell transplant or other highdose therapy, and 98 percent had received some form of corticosteroids as part of their previous regimens (e.g., melphalan and prednisone or VAD), although patients with disease that was refractory to previous high-dose dexamethasone were excluded. There was a survival advantage for patients receiving bortezomib, despite the fact that 44 percent of patients in the dexamethasone group had crossed over to receive bortezomib after disease progression. As a result of early closure of the dexamethasone group, the median follow-up of surviving patients in both groups was limited to 8.3 months.</p><p>A clinical benefit from bortezomib was demonstrated for patients who had received only one or more than one previous treatment. Time to progression and survival were significantly improved in the bortezomib group as compared with the dexamethasone group, and the overall response rate was significantly higher for bortezomib. As expected from the recently reported experience at the Mayo Clinic, 37 response rates were higher in both groups among patients who had received only one prior treatment.</p><p>Inadvertent inclusion of patients with disease that was refractory to high-dose dexamethasone was a potential source of bias in this study. Therefore, we conducted sensitivity analyses of the time to progression, response rate, and survival in which patients who may have had disease that was refractory to previous high-dose dexamethasone were removed on the basis of a post hoc review of all prior therapy. Removal of these patients from the analyses had no significant effect on the results. The rates of grade 4 adverse events, serious adverse events, and discontinuation of treatment because of adverse events were similar in the two groups; however, the overall rate of grade 3 events was significantly higher in the bortezomib group. The major side effects of bortezomib were consistent in type and frequency with those described previously. <ref type="bibr" target="#b12">13,</ref><ref type="bibr" target="#b38">38</ref> The incidence of herpes zoster infection was higher in the bortezomib group, but the infection was manageable with appropriate antiviral therapy. As previously observed, thrombocytopenia was cyclical. <ref type="bibr" target="#b12">13,</ref><ref type="bibr" target="#b38">38,</ref><ref type="bibr" target="#b39">39</ref> Despite the higher incidence of thrombocytopenia in patients receiving bortezomib, the incidence of clinically significant bleeding was similar in the two groups. The rates of discontinuation because of neuropathy were similar to those among heavily pretreated patients The platelet counts decreased during the treatment phase of each cycle of treatment with bortezomib and approached the baseline value during the rest period of each cycle. The New England Journal of Medicine with more advanced disease, with resolution and improvement that were consistent with the findings in other studies. <ref type="bibr" target="#b40">40</ref> In conclusion, this study demonstrates that bortezomib is superior to high-dose dexamethasone for the treatment of relapsed multiple myeloma in patients who have received one to three previous therapies other than bortezomib. The benefits of bortezomib included a longer time to progression, a higher complete response rate, and longer overall survival, both in the total population and in the subgroup receiving bortezomib as second-line therapy. The results of this study support investigation of bortezomib in the initial treatment of multiple myeloma.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>Figure 1 .</head><label>1</label><figDesc>Kaplan-Meier Plots of the Time to Disease Progression and Survival in the Bortezomib and Dexamethasone Groups.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head>Figure 2 .</head><label>2</label><figDesc>Mean Platelet Count among 331 Patients during Eight Three-Week Cycles of Treatment with Bortezomib.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>Table 1 . Baseline Characteristics of Patients with Multiple Myeloma, According to Treatment Group.</head><label>1</label><figDesc></figDesc><table><row><cell>Characteristic</cell><cell>Bortezomib (N=333)</cell><cell>Dexamethasone (N=336)</cell></row><row><cell>Age -yr</cell><cell></cell><cell></cell></row><row><cell>Median</cell><cell>62</cell><cell>61</cell></row><row><cell>10th and 90th percentiles</cell><cell>48, 74</cell><cell>47, 73</cell></row><row><cell>Male sex -no. (%)</cell><cell>188 (56)</cell><cell>200 (60)</cell></row><row><cell>Type of myeloma</cell><cell></cell><cell></cell></row><row><cell>No. of patients</cell><cell>333</cell><cell>336</cell></row><row><cell>IgG/IgA/IgD/IgM -%</cell><cell>60/23/2/&lt;1</cell><cell>59/24/1/0</cell></row><row><cell>Light chain -%</cell><cell>12</cell><cell>13</cell></row><row><cell>Nonsecretory -%</cell><cell>1</cell><cell>1</cell></row><row><cell>Unspecified -%</cell><cell>&lt;1</cell><cell>0</cell></row><row><cell>Interval since diagnosis</cell><cell></cell><cell></cell></row><row><cell>No. of patients</cell><cell>331</cell><cell>332</cell></row><row><cell>Median -yr</cell><cell>3.5</cell><cell>3.1</cell></row><row><cell>10th and 90th percentiles -yr</cell><cell>1.3, 7.8</cell><cell>1.4, 7.2</cell></row><row><cell>Karnofsky performance scale ≥70% -no./total no. (%)</cell><cell>304/322 (94)</cell><cell>312/325 (96)</cell></row><row><cell>Serum b 2 -microglobulin</cell><cell></cell><cell></cell></row><row><cell>No. of patients</cell><cell>324</cell><cell>328</cell></row><row><cell>Median -mg/liter</cell><cell>3.7</cell><cell>3.6</cell></row><row><cell>10th and 90th percentiles -mg/liter</cell><cell>2.0, 8.8</cell><cell>2.1, 10.1</cell></row><row><cell>C-reactive protein</cell><cell></cell><cell></cell></row><row><cell>No. of patients</cell><cell>301</cell><cell>299</cell></row></table><note></note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_1"><head>Table 1 . (Continued.)</head><label>1</label><figDesc></figDesc><table><row><cell>Characteristic</cell><cell>Bortezomib (N=333)</cell><cell>Dexamethasone (N=336)</cell></row><row><cell>Hemoglobin</cell><cell></cell><cell></cell></row><row><cell>No. of patients</cell><cell>331</cell><cell>335</cell></row><row><cell>Median -g/liter</cell><cell>108</cell><cell>109</cell></row><row><cell>10th and 90th percentiles -g/liter</cell><cell>86, 132</cell><cell>86, 129</cell></row><row><cell>Platelet count</cell><cell></cell><cell></cell></row><row><cell>No. of patients</cell><cell>330</cell><cell>335</cell></row><row><cell>Median -cells/mm 3</cell><cell>193,000</cell><cell>188,000</cell></row><row><cell>10th and 90th percentiles -mm 3</cell><cell>88,000; 316,000</cell><cell>94,000; 279,000</cell></row><row><cell>Creatinine clearance ≤ 20 ml/min -no./total no. (%)</cell><cell>8/330 (2)</cell><cell>5/323 (2)</cell></row><row><cell>No. of previous therapies</cell><cell></cell><cell></cell></row><row><cell>Median -no.</cell><cell>2.0</cell><cell>2.0</cell></row><row><cell>1 -no. (%)</cell><cell>132 (40)</cell><cell>119 (35)</cell></row><row><cell>2 or 3 -no. (%)</cell><cell>186 (56)</cell><cell>194 (58)</cell></row><row><cell>≥4 -no. (%)</cell><cell>14 (4)</cell><cell>23 (7)</cell></row><row><cell>Type of previous therapy -no./total no. (%)</cell><cell></cell><cell></cell></row><row><cell>Corticosteroids</cell><cell>325/332 (98)</cell><cell>332/336 (99)</cell></row><row><cell>Alkylating agents</cell><cell>302/332 (91)</cell><cell>310/336 (92)</cell></row><row><cell>Anthracyclines</cell><cell>256/332 (77)</cell><cell>257/336 (76)</cell></row><row><cell>Thalidomide</cell><cell>160/332 (48)</cell><cell>168/336 (50)</cell></row><row><cell>Vinca alkaloids</cell><cell>248/332 (75)</cell><cell>242/336 (72)</cell></row><row><cell>Stem-cell transplantation or other high-dose</cell><cell>222/332 (67)</cell><cell>229/336 (68)</cell></row><row><cell>therapy</cell><cell></cell><cell></cell></row><row><cell>Experimental or other therapy</cell><cell>11/332 (3)</cell><cell>8/336 (2)</cell></row></table><note></note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_2"><head></head><label></label><figDesc>A listing of the total number of patients for whom data were censored in all five analyses is available in the Supplementary Appendix, available with the full text of this article at www.nejm.org.</figDesc><table><row><cell></cell><cell>Proportion of</cell><cell>Patients without</cell><cell>Progression</cell><cell>1.0 0.6 0.4 0.2 0.8 0.0</cell><cell>P&lt;0.001</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>Proportion of</cell><cell>Patients Surviving</cell><cell>1.0 0.6 0.4 0.2 0.8 0.0</cell><cell>P=0.001</cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell>0</cell><cell>90</cell><cell>180</cell><cell>270</cell><cell>360</cell><cell></cell><cell>450</cell><cell></cell><cell></cell><cell>0</cell><cell>90</cell><cell>180</cell><cell>270</cell><cell>360</cell><cell>450 510</cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell cols="3">Time (days)</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>Time (days)</cell></row><row><cell cols="3">No. at Risk</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell cols="3">No. at Risk</cell></row><row><cell cols="3">Bortezomib</cell><cell></cell><cell></cell><cell>153</cell><cell>73</cell><cell>26</cell><cell>8</cell><cell></cell><cell>1</cell><cell cols="3">Bortezomib</cell><cell>310</cell><cell>219</cell><cell>138</cell><cell>62</cell><cell>21</cell><cell>2</cell></row><row><cell cols="4">Dexamethasone</cell><cell></cell><cell>121</cell><cell>46</cell><cell>9</cell><cell>2</cell><cell></cell><cell>0</cell><cell cols="3">Dexamethasone</cell><cell>292</cell><cell>201</cell><cell>118</cell><cell>59</cell><cell>20</cell><cell>4</cell></row><row><cell></cell><cell>Proportion of</cell><cell>Patients Surviving</cell><cell>at One Year</cell><cell>1.0 0.6 0.4 0.2 0.8 0.0</cell><cell>P=0.003</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>Proportion of</cell><cell>Patients with One</cell><cell>Previous Therapy</cell><cell>without Progression</cell><cell>1.0 0.6 0.4 0.2 0.8 0.0</cell><cell>P=0.002</cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell>0</cell><cell>90</cell><cell></cell><cell>180</cell><cell>270</cell><cell></cell><cell>360</cell><cell></cell><cell></cell><cell>0</cell><cell>90</cell><cell>180</cell><cell>270</cell><cell>360</cell><cell>450</cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell cols="3">Time (days)</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>Time (days)</cell></row><row><cell cols="3">No. at Risk</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell cols="3">No. at Risk</cell></row><row><cell cols="3">Bortezomib</cell><cell></cell><cell></cell><cell>310</cell><cell></cell><cell>219</cell><cell>138</cell><cell></cell><cell>62</cell><cell cols="3">Bortezomib</cell><cell>67</cell><cell>37</cell><cell>16</cell><cell>4</cell></row><row><cell cols="4">Dexamethasone</cell><cell></cell><cell>292</cell><cell></cell><cell>201</cell><cell>118</cell><cell></cell><cell>59</cell><cell cols="3">Dexamethasone</cell><cell>54</cell><cell>23</cell><cell>5</cell><cell>1</cell></row><row><cell>Proportion of</cell><cell>Patients with One</cell><cell>Previous Therapy</cell><cell>Surviving</cell><cell>1.0 0.6 0.4 0.2 0.8 0.0</cell><cell>P=0.01</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell cols="3">Bortezomib Censored bortezomib Dexamethasone Censored dexamethasone</cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell>0</cell><cell>90</cell><cell>180</cell><cell>270</cell><cell>360</cell><cell cols="2">450 510</cell><cell></cell><cell></cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell cols="3">Time (days)</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell cols="3">No. at Risk</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell cols="3">Bortezomib</cell><cell></cell><cell></cell><cell>126</cell><cell>90</cell><cell>59</cell><cell>30</cell><cell>12</cell><cell>1</cell><cell></cell><cell></cell></row><row><cell cols="4">Dexamethasone</cell><cell></cell><cell>109</cell><cell>74</cell><cell>44</cell><cell>24</cell><cell>9</cell><cell>3</cell><cell></cell><cell></cell></row></table><note></note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_3"><head>Table 2 . Best Confirmed Response to Treatment.* Best Confirmed Response Bortezomib</head><label>2</label><figDesc></figDesc><table><row><cell></cell><cell></cell><cell>Dexamethasone</cell><cell>P</cell></row><row><cell></cell><cell>(N=315)</cell><cell>(N=312)</cell><cell>Value †</cell></row><row><cell></cell><cell cols="2">no. of patients (%)</cell><cell></cell></row><row><cell>Complete or partial response</cell><cell>121 (38)</cell><cell>56 (18)</cell><cell>&lt;0.001</cell></row><row><cell>Complete response, immuno-</cell><cell>20 (6)</cell><cell>2 (1)</cell><cell>&lt;0.001</cell></row><row><cell>fixation-negative</cell><cell></cell><cell></cell><cell></cell></row><row><cell>Partial response</cell><cell>101 (32)</cell><cell>54 (17)</cell><cell>&lt;0.001</cell></row><row><cell>Nearly complete response,</cell><cell>21 (7)</cell><cell>3 (1)</cell><cell>&lt;0.001</cell></row><row><cell>immunofixation-positive ‡</cell><cell></cell><cell></cell><cell></cell></row><row><cell>Minor response</cell><cell>25 (8)</cell><cell>52 (17)</cell><cell>ND</cell></row><row><cell>No change</cell><cell>137 (43)</cell><cell>149 (48)</cell><cell>ND</cell></row><row><cell>Progressive disease</cell><cell>22 (7)</cell><cell>41 (13)</cell><cell>ND</cell></row><row><cell>Could not be evaluated</cell><cell>10 (3)</cell><cell>14 (4)</cell><cell>ND</cell></row></table><note></note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_4"><head>Table 3 . Adverse Events during Treatment Reported by 15 Percent or More of Patients Receiving Bortezomib or Dexamethasone, Including Grade 3 and Grade 4 Events.</head><label>3</label><figDesc></figDesc><table><row><cell>Event</cell><cell>Bortezomib (N=331)</cell><cell>Dexamethasone (N=332)</cell></row></table><note></note></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot">Copyright © 2005 Massachusetts Medical Society. All rights reserved.</note>
+		</body>
+		<back>
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>n engl j med 352;24 www.nejm.org june <ref type="bibr">16 , 2005</ref> The new england journal of medicine n engl j med 352;24 www.nejm.org june <ref type="bibr">16 , 2005</ref> The new england journal of medicine We are indebted to the patients who participated in this study and their families; to the medical, nursing, and research staff at the study centers; to the data managers, statisticians, and programmers at Millennium Pharmaceuticals; to the clinical-trial management team; and to the members of the independent data-monitoring committee.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>appendix</head><p>In addition to the authors, the following investigators (listed in alphabetical order) participated in the APEX study: Austria -H. Ludwig </p></div>			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Cancer statistics</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Jemal</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><forename type="middle">C</forename><surname>Tiwari</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Murray</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">CA Cancer J Clin</title>
+		<imprint>
+			<biblScope unit="volume">54</biblScope>
+			<biblScope unit="page" from="8" to="29" />
+			<date type="published" when="2004" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">A prospective, randomized trial of autologous bone marrow transplantation and chemotherapy in multiple myeloma</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Attal</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J-L</forename><surname>Harousseau</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A-M</forename><surname>Stoppa</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">N Engl J Med</title>
+		<imprint>
+			<biblScope unit="volume">335</biblScope>
+			<biblScope unit="page" from="91" to="98" />
+			<date type="published" when="1996" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">High-dose chemotherapy with hematopoietic stem-cell rescue for multiple myeloma</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">A</forename><surname>Child</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">G</forename><forename type="middle">J</forename><surname>Morgan</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">F</forename><forename type="middle">E</forename><surname>Davies</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">N Engl J Med</title>
+		<imprint>
+			<biblScope unit="volume">348</biblScope>
+			<biblScope unit="page" from="1875" to="83" />
+			<date type="published" when="2003" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Management of multiple myeloma: a systematic review and critical appraisal of published studies</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Kumar</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Loughran</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Alsina</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">B</forename><forename type="middle">G</forename><surname>Durie</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">B</forename><surname>Djulbegovic</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Lancet Oncol</title>
+		<imprint>
+			<biblScope unit="volume">4</biblScope>
+			<biblScope unit="page" from="293" to="304" />
+			<date type="published" when="2003" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Highdose glucocorticoid treatment of resistant myeloma</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><surname>Alexanian</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">B</forename><surname>Barlogie</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><surname>Dixon</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ann Intern Med</title>
+		<imprint>
+			<biblScope unit="volume">105</biblScope>
+			<biblScope unit="page" from="8" to="11" />
+			<date type="published" when="1986" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Highdose dexamethasone for refractory or relapsing multiple myeloma</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">W</forename><forename type="middle">R</forename><surname>Friedenberg</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><forename type="middle">A</forename><surname>Kyle</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">W</forename><forename type="middle">H</forename><surname>Knospe</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">M</forename><surname>Bennett</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><forename type="middle">A</forename><surname>Tsiatis</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">M</forename><surname>Oken</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Am J Hematol</title>
+		<imprint>
+			<biblScope unit="volume">36</biblScope>
+			<biblScope unit="page" from="171" to="176" />
+			<date type="published" when="1991" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Primary dexamethasone treatment of multiple myeloma</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><surname>Alexanian</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">A</forename><surname>Dimopoulos</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><surname>Delasalle</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">B</forename><surname>Barlogie</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Blood</title>
+		<imprint>
+			<biblScope unit="volume">80</biblScope>
+			<biblScope unit="page" from="887" to="90" />
+			<date type="published" when="1992" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Cyclosporin A combined with vincristine, doxorubicin and dexamethasone (VAD) compared with VAD alone in patients with advanced refractory multiple myeloma: an EORTC-HOVON randomized phase III study (06914)</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><surname>Sonneveld</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Suciu</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><surname>Weijermans</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Br J Haematol</title>
+		<imprint>
+			<biblScope unit="volume">115</biblScope>
+			<biblScope unit="page" from="895" to="902" />
+			<date type="published" when="2001" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">The proteasome inhibitor PS-341 inhibits growth, induces apoptosis, and overcomes drug resistance in human multiple myeloma cells</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Hideshima</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><surname>Richardson</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><surname>Chauhan</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Cancer Res</title>
+		<imprint>
+			<biblScope unit="volume">61</biblScope>
+			<biblScope unit="page" from="1530" to="1534" />
+			<date type="published" when="2001" />
+		</imprint>
+	</monogr>
+	<note>Blood</note>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<monogr>
+		<title level="m" type="main">Molecular sequelae of proteasome inhibition in human multiple myeloma cells</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">N</forename><surname>Mitsiades</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><forename type="middle">S</forename><surname>Mitsiades</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">V</forename><surname>Poulaki</surname></persName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title/>
+	</analytic>
+	<monogr>
+		<title level="j">Proc Natl Acad Sci U S A</title>
+		<imprint>
+			<biblScope unit="volume">99</biblScope>
+			<biblScope unit="page" from="14374" to="14383" />
+			<date type="published" when="2002" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">bortezomib versus dexamethasone in multiple myeloma Proteasome inhibitor PS-341 inhibits human myeloma cell growth in vivo and prolongs survival in a murine model</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><surname>Leblanc</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">L</forename><forename type="middle">P</forename><surname>Catley</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Hideshima</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Cancer Res</title>
+		<imprint>
+			<biblScope unit="volume">62</biblScope>
+			<biblScope unit="page" from="4996" to="5000" />
+			<date type="published" when="2002" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">A phase 2 study of bortezomib in relapsed, refractory myeloma</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><forename type="middle">G</forename><surname>Richardson</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">B</forename><surname>Barlogie</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Berenson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">N Engl J Med</title>
+		<imprint>
+			<biblScope unit="volume">348</biblScope>
+			<biblScope unit="page" from="2609" to="2626" />
+			<date type="published" when="2003" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Survival, duration of response, and time to progression with bortezomib in patients with relapsed and refractory multiple myeloma: an update with additional followup</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><forename type="middle">G</forename><surname>Richardson</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">B</forename><surname>Barlogie</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Berenson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Hematol J</title>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<date type="published" when="2004" />
+		</imprint>
+	</monogr>
+	<note>Suppl 2:S103-S104. abstract</note>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">Criteria for evaluating disease response and progression in patients with multiple myeloma treated by high-dose therapy and haemopoietic stem cell transplantation</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Bladé</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><surname>Samson</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><surname>Reece</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Br J Haematol</title>
+		<imprint>
+			<biblScope unit="volume">102</biblScope>
+			<biblScope unit="page" from="1115" to="1138" />
+			<date type="published" when="1998" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<monogr>
+		<title level="m" type="main">Validity and selective sensitivity of the FACT/GOG-Ntx</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><forename type="middle">A</forename><surname>Calhoun</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Fishman</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><forename type="middle">Y</forename><surname>Roland</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Lurain</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C-H</forename><surname>Chang</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><surname>Cella</surname></persName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title/>
+	</analytic>
+	<monogr>
+		<title level="j">Proc Am Soc Clin Oncol</title>
+		<imprint>
+			<biblScope unit="volume">19</biblScope>
+			<biblScope unit="page">446</biblScope>
+			<date type="published" when="2000" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">The Functional Assessment of Cancer Therapy scale: development and validation of the general measure</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><forename type="middle">F</forename><surname>Cella</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><forename type="middle">S</forename><surname>Tulsky</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">G</forename><surname>Gray</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Clin Oncol</title>
+		<imprint>
+			<biblScope unit="volume">11</biblScope>
+			<biblScope unit="page" from="570" to="579" />
+			<date type="published" when="1993" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">A multiple testing procedure for clinical trials</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><forename type="middle">C</forename><surname>O'brien</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><forename type="middle">R</forename><surname>Fleming</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Biometrics</title>
+		<imprint>
+			<biblScope unit="volume">35</biblScope>
+			<biblScope unit="page" from="549" to="56" />
+			<date type="published" when="1979" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">Thalidomide with or without dexamethasone for refractory relapsing multiple myeloma</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><surname>Alexanian</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><surname>Weber</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Anagnostopoulos</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><surname>Delasalle</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Wang</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><surname>Rankin</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Semin Hematol</title>
+		<imprint>
+			<biblScope unit="volume">40</biblScope>
+			<biblScope unit="page" from="3" to="7" />
+			<date type="published" when="2000" />
+		</imprint>
+	</monogr>
+	<note>Suppl</note>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">Extended survival in advanced and refractory multiple myeloma after single-agent thalidomide: identification of prognostic factors in a phase 2 study of 169 patients</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">B</forename><surname>Barlogie</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><surname>Desikan</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><surname>Eddlemon</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Blood</title>
+		<imprint>
+			<biblScope unit="volume">98</biblScope>
+			<biblScope unit="page" from="492" to="496" />
+			<date type="published" when="2001" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">Efficacy of low dose thalidomide (T) in multiple myeloma</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Bgm</forename><surname>Durie</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><forename type="middle">E</forename><surname>Stepan</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Blood</title>
+		<imprint>
+			<biblScope unit="volume">94</biblScope>
+			<biblScope unit="page">316</biblScope>
+			<date type="published" when="1999" />
+		</imprint>
+	</monogr>
+	<note>abstract</note>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">Thalidomide (Thal) in the treatment of advanced multiple myeloma (MM): a prospective study of 120 patients</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">B</forename><surname>Grosbois</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><surname>Bellisant</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><surname>Moreau</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Blood</title>
+		<imprint>
+			<biblScope unit="volume">98</biblScope>
+			<biblScope unit="page">689</biblScope>
+			<date type="published" when="2001" />
+		</imprint>
+	</monogr>
+	<note>abstract</note>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title level="a" type="main">Thalidomide treatment of resistant or relapsed multiple myeloma patients</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Hus</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Dmoszynska</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Soroka-Wojtaszko</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Haematologica</title>
+		<imprint>
+			<biblScope unit="volume">86</biblScope>
+			<biblScope unit="page" from="404" to="412" />
+			<date type="published" when="2001" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title level="a" type="main">Frequent good partial remissions from thalidomide including best response ever in patients with advanced refractory and relapsed myeloma</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">G</forename><surname>Juliusson</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">F</forename><surname>Celsing</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">I</forename><surname>Turesson</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Lenhoff</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Adriansson</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><surname>Malm</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Br J Haematol</title>
+		<imprint>
+			<biblScope unit="volume">109</biblScope>
+			<biblScope unit="page" from="89" to="96" />
+			<date type="published" when="2000" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title level="a" type="main">A phase II trial of thalidomide in the treatment of relapsed multiple myeloma (MM) with laboratory correlative studies</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><forename type="middle">V</forename><surname>Rajkumar</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><surname>Fonseca</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Dispenzieri</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Blood</title>
+		<imprint>
+			<biblScope unit="volume">96</biblScope>
+			<biblScope unit="page">168</biblScope>
+			<date type="published" when="2000" />
+		</imprint>
+	</monogr>
+	<note>abstract</note>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title level="a" type="main">Durable response to thalidomide in relapsed/refractory multiple myeloma (MM)</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><forename type="middle">N</forename><surname>Raza</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Yst</forename><surname>Veksler</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Z</forename><surname>Li</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Blood</title>
+		<imprint>
+			<biblScope unit="volume">96</biblScope>
+			<biblScope unit="page" from="168" to="169" />
+			<date type="published" when="2000" />
+		</imprint>
+	</monogr>
+	<note>abstract</note>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+		<title level="a" type="main">Salvage therapy with thalidomide in patients with advanced relapsed/refractory multiple myeloma</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><surname>Tosi</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><surname>Zamagni</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><surname>Cellini</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Haematologica</title>
+		<imprint>
+			<biblScope unit="volume">87</biblScope>
+			<biblScope unit="page" from="408" to="422" />
+			<date type="published" when="2002" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<analytic>
+		<title level="a" type="main">Thalidomide alone or with dexamethasone for previously untreated multiple myeloma</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><surname>Weber</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><surname>Rankin</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Gavino</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><surname>Delasalle</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><surname>Alexanian</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Clin Oncol</title>
+		<imprint>
+			<biblScope unit="volume">21</biblScope>
+			<biblScope unit="page" from="16" to="25" />
+			<date type="published" when="2003" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<analytic>
+		<title level="a" type="main">Thalidomide in patients with advanced multiple myeloma: a study of 83 patientsreport of the Intergroupe Francophone du Myelome (IFM)</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">I</forename><surname>Yakoub-Agha</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Attal</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><surname>Dumontet</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Hematol J</title>
+		<imprint>
+			<biblScope unit="volume">3</biblScope>
+			<biblScope unit="page" from="185" to="92" />
+			<date type="published" when="2002" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<analytic>
+		<title level="a" type="main">Dose-dependent effect of thalidomide on overall survival in relapsed multiple myeloma</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><surname>Neben</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Moehler</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Benner</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Clin Cancer Res</title>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="page" from="3377" to="82" />
+			<date type="published" when="2002" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<analytic>
+		<title level="a" type="main">Therapy of primary resistant and relapsed multiple myeloma</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">B</forename><surname>Barlogie</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><surname>Alexanian</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Onkologie</title>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="page" from="210" to="214" />
+			<date type="published" when="1986" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<monogr>
+		<title level="m" type="main">VAD or VMBCP in multiple myeloma refractory to or relapsing after cyclophosphamide-prednisone therapy</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><surname>Mineur</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">F</forename><surname>Menard</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Le</forename><surname>Loet</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">X</forename></persName>
+		</author>
+		<imprint/>
+	</monogr>
+	<note>protocol MY 85</note>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<analytic>
+		<title/>
+	</analytic>
+	<monogr>
+		<title level="j">Br J Haematol</title>
+		<imprint>
+			<biblScope unit="volume">103</biblScope>
+			<biblScope unit="page" from="512" to="519" />
+			<date type="published" when="1998" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<analytic>
+		<title level="a" type="main">Phase III study comparing vincristine, doxorubicin (Adriamycin), and dexamethasone (VAD) chemotherapy with VAD plus recombinant interferon alfa-2 in refractory or relapsed multiple myeloma: an Eastern Cooperative Oncology Group study</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">A</forename><surname>Gertz</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">L</forename><forename type="middle">A</forename><surname>Kalish</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><forename type="middle">A</forename><surname>Kyle</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><forename type="middle">G</forename><surname>Hahn</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><forename type="middle">C</forename><surname>Tormey</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">M</forename><surname>Oken</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Am J Clin Oncol</title>
+		<imprint>
+			<biblScope unit="volume">18</biblScope>
+			<biblScope unit="page" from="475" to="80" />
+			<date type="published" when="1995" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b35">
+	<analytic>
+		<title level="a" type="main">Modified Adriamycin-vincristine-dexamethasone (m-VAD) in primary refractory and relapsed plasma cell myeloma: an NCI (Canada) pilot study</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">G</forename><forename type="middle">P</forename><surname>Browman</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Belch</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Skillings</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Proc Am Soc Clin Oncol</title>
+		<imprint>
+			<biblScope unit="volume">82</biblScope>
+			<biblScope unit="page">582</biblScope>
+			<date type="published" when="1992" />
+		</imprint>
+	</monogr>
+	<note>Br J Haematol</note>
+</biblStruct>
+
+<biblStruct xml:id="b36">
+	<analytic>
+		<title level="a" type="main">A randomised phase III trial of thalidomide plus dexamethasone versus dexamethasone in newly diagnosed multiple myeloma (E1A00): a trial coordinated by the Eastern Cooperative Oncology Group</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><forename type="middle">V</forename><surname>Rajkumar</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><surname>Blood</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><forename type="middle">H</forename><surname>Vesole</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Clin Oncol</title>
+		<imprint>
+			<biblScope unit="volume">22</biblScope>
+			<biblScope unit="page">560</biblScope>
+			<date type="published" when="2004" />
+		</imprint>
+	</monogr>
+	<note>abstract</note>
+</biblStruct>
+
+<biblStruct xml:id="b37">
+	<analytic>
+		<title level="a" type="main">Clinical course of patients with relapsed multiple myeloma</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><forename type="middle">V</forename><surname>Kumar</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><forename type="middle">M</forename><surname>Therneau</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">A</forename><surname>Gertz</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Mayo Clin Proc</title>
+		<imprint>
+			<biblScope unit="volume">79</biblScope>
+			<biblScope unit="page" from="867" to="74" />
+			<date type="published" when="2004" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b38">
+	<analytic>
+		<title level="a" type="main">A phase 2 study of two doses of bortezomib in relapsed or refractory myeloma</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Jagannath</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">B</forename><surname>Barlogie</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Berenson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Br J Haematol</title>
+		<imprint>
+			<biblScope unit="volume">127</biblScope>
+			<biblScope unit="page" from="165" to="72" />
+			<date type="published" when="2004" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b39">
+	<analytic>
+		<title level="a" type="main">Evaluation of the severity and risk of thrombocytopenia with bortezomib therapy in relapsed and refractory multiple myeloma</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Lonial</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><forename type="middle">K</forename><surname>Waller</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><forename type="middle">G</forename><surname>Richardson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Hematol</title>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<date type="published" when="2004" />
+		</imprint>
+	</monogr>
+	<note>Suppl 2:S130-S131. abstract</note>
+</biblStruct>
+
+<biblStruct xml:id="b40">
+	<analytic>
+		<title level="a" type="main">Peripheral neuropathy following bortezomib (VELCADE, formerly PS-341) therapy in patients with advanced multiple myeloma (MM): characterization and reversibility</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><forename type="middle">G</forename><surname>Richardson</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><surname>Briemberg</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Jagannath</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Blood</title>
+		<imprint>
+			<biblScope unit="volume">102</biblScope>
+			<biblScope unit="page">149</biblScope>
+			<date type="published" when="2003" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

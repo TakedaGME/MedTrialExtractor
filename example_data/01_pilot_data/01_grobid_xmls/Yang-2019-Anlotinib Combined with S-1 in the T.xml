@@ -1,0 +1,607 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /data/rsg/nlp/juanmoo1/bin/grobid-0.6.1/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main"></title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Oncology</orgName>
+								<orgName type="institution" key="instit1">Mianyang Central Hospital</orgName>
+								<orgName type="institution" key="instit2">Mian Yang</orgName>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff1">
+								<orgName type="department">Department of Oncology</orgName>
+								<orgName type="institution">Affiliated Hospital of North Sichuan Medical College</orgName>
+								<address>
+									<settlement>Nan Chong</settlement>
+									<country key="CN">China</country>
+								</address>
+							</affiliation>
+						</author>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<idno type="DOI">10.31557/APJCP.2019.20.12.3849</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.6.1" ident="GROBID" when="2020-10-09T18:38+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>Anlotinib-S-1-Third-line treatment-Non-small cell lung cancer</keywords>
+			</textClass>
+			<abstract>
+				<p>Background: A proportion of patients with stage IV non-small-cell lung cancer (NSCLC) is predicted to receive third-line treatment. However, currently no standard third-line treatment for NSCLC is available. Anlotinib is an oral, multi-targeted tyrosine kinase (TK) receptor inhibitor, which was approved as a third-line treatment for stage IV NSCLC in China on May 9, 2018. Nevertheless, The objective response rate of patients treated with anlotinib was merely 9.2% and the overall survival was only 3 months compared with the patients treated with placebo. Previous studies have shown that cancer treatment with a combination of chemotherapy with TK receptor inhibitors is effective and safe well tolerated. Therefore, the combination of anlotinib with other chemotherapeutic agents may be an effective treatment strategy for patients with stage IV NSCLC. Oral S-1 is a third-generation fluorouracil derivative; it showed good efficacy and caused relatively low toxicity in patients with NSCLC. Methods: The purpose of this trial is to evaluate the efficacy and safety of anlotinib combined with S-1 as the third-line treatment for patients with stage IV NSCLC. This is a prospective, phase II clinical trial. We will enroll29 patients with stage IV NSCLC treated with anlotinib plus S-1. Tumors will be assessed using computed tomography prior to treatment, after two, four, and six cycles of treatment, and during follow-up every 3 months until disease progression or death. The primary endpoint is the objective response rate (ORR). The secondary endpoints are progression-free survival, duration of response, proportion of disease control, and safety. Discussion: The expected outcome of this study is that anlotinib combined with S-1 has tolerable toxicity and better ORR than anlotinibmonotherapy. The results may indicate additional treatment options for patients with stage IV NSCLC.</p>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Introduction</head><p>Lung cancer has far-reaching medical, psychosocial, and economic impacts, and is a burden on the society <ref type="bibr" target="#b21">(Rui et al., 2019)</ref>.Worldwide, Lung cancer has the highest incidence and high mortality among all types of cancer; 2.1 million new lung cancer cases and 1.8 million deaths were predicted in 2018, which is approximately 1 in 5 (18.4%) cancer deaths <ref type="bibr" target="#b0">(Bray et al., 2018)</ref>. Non-small-cell lung cancer (NSCLC) accounts for ~85% of all lung cancer cases; majority of the patients are diagnosed after the disease has advanced or has become metastatic <ref type="bibr">(Crinòet al., 2010;</ref><ref type="bibr">Felipet al., 2005;</ref><ref type="bibr">Williamet al., 2009)</ref>.</p><p>The latest National Comprehensive Cancer Network (NCCN) Guidelines recommend gefitinib, lcotinib, erlotinib, and afatinib as the first-line treatment for stage IV NSCLC positive for epidermal growth factor receptor (EGFR) mutation. For patients with anaplasticlymphoma kinase (ALK) rearrangement or ROS proto-oncogene 1 PROTOCOL Anlotinib Combined with S-1 in the Third-Line Treatment of Stage IV Non-Small Cell Lung Cancer: Study Protocol for Phase II Clinical Trial Xiyue Yang 1,2 , Miao Xiang 1 , Lidan Geng 1,2 , Yixue Wen 1,2 , Xiaobo Du 1 * (ROS1) fusion gene, crizotinib is recommended as the firstline treatment. First-line chemotherapy is recommended for advanced NSCLC without a driver gene; second-line treatment is used as a replacement of chemotherapy <ref type="bibr">(National Comprehensive Cancer Network.,2019)</ref>.Most patients with stage IV NSCLC are predicted to receive a third-line treatment; however, currently, there is no standard third-line treatment for NSCLC.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>K9</head><p>Anlotinib is an oral, multi-targeted tyrosine kinase (TK) receptor inhibitor, which was approved as a third-line treatment for stage IV NSCLC on May 9, 2018 in China. However, the objective response rate (ORR) was only 9.2% and the overall survival (OS) time was prolonged only 3months <ref type="bibr">(China Food and Drug Administration, 2018;</ref><ref type="bibr" target="#b9">Han et al., 2017;</ref>. The combination of multi-targeted TK receptor inhibitors and chemotherapy is effective and well-tolerated in patients with NSCLC Editorial Process: Submission:09/20/2019 Acceptance:12/02/2019 and ovarian cancer <ref type="bibr">(Nishioet al., 2013;</ref><ref type="bibr" target="#b3">Chun et al., 2018)</ref>. Therefore, anlotinib combined with chemotherapy maybe an effective treatment strategy for patients with stage IV NSCLC. S-1 is an oral fluoropyrimidine agent containing the 5-fluorouracil, the prodrug tegafur, and two enzyme inhibitors, namely, 5-chloro-2,4-dihydroxypyridine and potassium oxonate; it showed good efficacy and caused relatively low toxicity in patients with stage IV NSCLC <ref type="bibr" target="#b12">(Masuda et al., 2018;</ref><ref type="bibr" target="#b11">Iwamoto et al., 2015;</ref><ref type="bibr" target="#b20">Okumura et al., 2013)</ref>.We designed this study to evaluate the efficacy and safety of anlotinib combined with S-1 as a third-line treatment for patients with stage IV NSCLC.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Materials and Methods</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Study design</head><p>The study design has been registered with the Chinese Clinical Trial Registry (Number: ChiCTR1900020948). This is a prospective, multicenter, phase II clinical trial. We will enroll 29 patients with cytologically or histologically confirmed stage IV NSCLC. The patients will be treated with anlotinib and S-1; they will undergo computed tomography (CT) before the treatment, after two, four, and six cycles, and during follow-up every 3 months until disease progression or death. If the efficacy is assessed as stable disease (SD), partial response (PR), and complete response (CR) after six cycles, anlotinib will be maintained until disease progression or death. Efficacy will be evaluated according to response evaluation criteria in solid tumors (RECIST); toxicity and side effects will be recorded. Statistical analysis of the data will be conducted using SPSS.</p><p>For this study, patients will be recruited from several hospitals in the Sichuan Province. There will be no randomized control group in this study. All patients who meet the inclusion criteria and provide informed consent will participate in the study.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Objectives</head><p>The primary endpoint is the ORR. The secondary endpoints are progression-free survival (PFS), duration of response, proportion of disease control, and safety.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Inclusion criteria</head><p>1. Aged 18-75 years 2. Pathologically diagnosed with late NSCLC 3. Eastern Cooperative Oncology Group (ECOG) performance scale (PS) score of0-1 4. Failure to respond to second-line treatment (patients with negative driver genes were evaluated for progression or intolerance after ≥ two different regimens of chemotherapy,and those with positive driver genes [EGFR mutation or ALK rearrangement] were evaluated for progression or intolerance after treatment with TK inhibitors and ≥ one regimen of chemotherapy) 5. A measurable lesion based on the RECIST criteria 6. The expected survival time≥12 weeks 7. Normally functioning major organs 8. Hemoglobin &gt;100 g/L; platelet count &gt; 100*10 9 /L; number of neutrophils &gt;1.5 × 10 9 /L 9. Serum creatinine ≤1.25×upper limits of normal (ULN) or creatinine clearance rate &gt; 60 mL/min. 10. Total bilirubin (TBIL) ≤1.5× ULN; as partate aminotransferase (AST)and alanine aminotransferase (ALT or SGPT) ≤2.5×ULN; alkaline phosphatase ≤ 5×ULN</p><p>11. Doppler ultrasound evaluation: left ventricular ejection fraction (LVEF)≥50%</p><p>12. No interstitial pneumonia or history of interstitial pneumonia 13. Patients or their family members who signed the informed consent 14. Female patients of childbearing age who agreed to use contraceptives (such as intrauterine devices, birth control pills, or condoms) in the study period and for six months after the end of the drug treatment; the serum or urine test indicated no pregnancy in the seven days prior to the study, and patients who were not lactating; male patients who agreed to use contraception during the study period and for six months after the end of the study period.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Exclusion criteria</head><p>1. Previously used anlotinib or S-1 2. Small-cell lung cancer (including small-cell carcinoma and non-small-cell carcinoma mixed lung cancer)</p><p>3. Presence of malignancies currently or in the past 5 years 4. Unable to intake medication orally (such as the inability to swallow, chronic diarrhea, intestinal obstruction.)</p><p>5. EGFR mutation-positive or ALK rearrangementpositive and no use the relevant targeted drugs 6. Brain metastases with symptoms or controlled symptoms for &lt;two months 7. Central, empty lung squamous cell carcinoma or NSCLC with hemoptysis (&gt;50 mL/day); 8. Severe and/or uncontrolled disease, including: a. Uncontrolled high blood pressure (systolic blood pressure ≥ 150 mmHg and diastolic blood pressure ≥ 100 mmHg) b. Myocardial ischemia or myocardial infarction and arrhythmia (QTc≥480 ms and ≥ 2 levels of congestive heart failure according to the New York Heart Association <ref type="bibr">[NYHA]</ref> If the efficacy was assessed as SD, PR, and CR after six cycles; anlotinib was maintained until disease progression or death.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Assessment of the primary and secondary endpoints</head><p>Adverse events were recorded in accordance with the requirements of Medical Dictionary for Regulatory Activities (Med DRA). The severity of adverse events was graded according to the National Cancer Institute Common Terminology Criteria(NCI-CTC). The toxicity of the treatment, including acute and chronic toxicity, was evaluated during treatment and follow-up <ref type="table" target="#tab_2">(Table 1)</ref>.Any serious adverse drug reaction was promptly reported to the hospital ethics committee. PFS was defined as the date from randomization to tumor progression or death. Duration of response was assessed in patients who achieved a response and was defined as the time from the date of the first documented response to the date of the documented progression or death from any cause. Disease control was defined as the proportion of patients who achieved a CR, PR, or SD.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Criteria for study discontinuation</head><p>1. Withdrawal of informed consent 2. To ensure patients' safety, the researchers may decide to discontinue the study 3. In case of an adverse event, researchers or patients may choose to discontinue the study 4. Researchers' discretion</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Ethics</head><p>The study was approved by the Ethics Committee of Mianyang Central Hospital, Sichuan, China (Number: S2019001). The study was supervised and managed by the ethics committee.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Status</head><p>We registered in the Chinese Clinical Trial Registry(Number: ChiCTR1900020948).Recruitment was initiated in January 2019, with a planned recruitment period of two years.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Discussion</head><p>There is currently no standard third-line treatment for advanced NSCLC. The vascular endothelial growth factor (VEGF) and its receptors (VEGFRs) are crucial in both vasculogenesis and angiogenesis, and have been proven as effective anticancer targets <ref type="bibr">(Strumberget al., 2005;</ref><ref type="bibr"></ref> 9. Imaging studies shows that the tumor has invaded important vessels or the researchers determine that the tumor is likely to invade important blood vessels caused by fatal bleeding during the follow-up 10. Regardless of the severity, patients with any sign or medical history of bleeding four weeks prior to allocation, patients with any bleeding events ≥ CTCAE level 3, unhealed wounds, ulcers, or fractures 11. Arterial/venous thrombotic events(such as cerebrovascular accident [temporary ischemic attack], deep vein thrombosis, and pulmonary embolism) six months before allocation 12. Extra-field radiotherapy (EF-RT) performed four weeks before allocation, restricted radiotherapy performed for assessing tumor lesions two weeks before allocation or those prepared to receive local treatment (radiotherapy or radiofrequency ablation) at the time of the study; those undergoing palliative treatment, such as radiotherapy for bone metastases, will not be excluded.</p><p>13. Participated in other anti-tumor drug trials within four weeks 14. A history of psychotropic medicine abuse or mental disorders 15. Diagnosed with a disease that will severely endanger health or influence the completion of this study 16. Pregnant or lactating women 17. Considered unfit for inclusion by other physicians</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Data collection and management</head><p>The following data will be collected from the patients: name, gender, age, lesion location, pathological type of cancer, clinical stage, drug dose and frequency, and examination results. We will review and analyze the data. We will acquire the data using an electronic data management system and generate a data base. We will perform statistical analysis before data audit.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Sample size calculation</head><p>We estimated the sample size using Simon's phase II clinical trial design: with α = 0.05, power β = 0.2, and Pl-P0 = 0.20. The required number of patients was estimated to be ≥29based on the objective response rate of anlotinib monotherapy.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Dose and frequency</head><p>Anlotinib: orally 12mg once-a-day before breakfast for two consecutive weeks, then withdrawn for one week, with a 21-day course of treatment.</p><p>S-1: orally 70mg/m 2 /day, twice-a-day after meals for two consecutive weeks, then withdrawn for one week,   <ref type="bibr">Mrosset al., 2012;</ref><ref type="bibr" target="#b10">Huang et al., 2012;</ref>. In a multicenter, randomized phase II trial, anlotinib was used as a third-line treatment; compared with placebo, anlotinib significantly improved PFS in patients with NSCLC, and the toxicity profiles showed good tolerance . ALTER-0303 was a trial that compared the efficacy and safety of anlotinib with that of placebo in patients with advanced NSCLC who had progressed even after second-line treatment. S-1 is used for the treatment of NSCLC and to reduce the adverse effects of tegafur <ref type="bibr" target="#b12">(Masuda et al., 2018)</ref>. As S-1 is considered more effective than uracil-tegafur (UFT), long-term S-1 administration may be promising as an adjuvant chemotherapy regimen for advanced lung cancer <ref type="bibr" target="#b11">(Iwamoto et al., 2015)</ref>. Several studies have shown that the use of S-1 as adjuvant chemotherapy is associated with significant survival benefits in patients with NSCLC <ref type="bibr" target="#b11">(Iwamoto et al., 2015;</ref><ref type="bibr" target="#b20">Okumura et al., 2013)</ref>. The carboplatin and paclitaxel (CP) regimen is the standard chemotherapy regimen for advanced lung cancer <ref type="bibr" target="#b22">(Schiller et al., 2002)</ref>. In as tudy, the 5-year OS and disease-free survival were almost the same between the S-1 group and the CP group <ref type="bibr" target="#b19">(Okuda et al., 2018)</ref>. S-1 monotherapy also showed lesser hematotoxic adverse effects than other third-generation chemotherapy drugs. A randomized controlled trial in patients with NSCLC (East Asia S-1 Trial in Lung Cancer) confirmed S-1 as a viable treatment option for patients previously treated with NSCLC <ref type="bibr">(Nokiharaet al., 2017)</ref>. In ALTER-0303, each cycle of anlotinib treatment was defined as two weeks on-treatment followed by one week off-treatment; S-1 administration is the same with the anlotinib in combined regimen <ref type="bibr">(Crinòet al., 2010;</ref>.</p><p>We believe that anlotinibin combination with chemotherapy would be an effective treatment strategy for patients with stage IV NSCLC. Therefore, we designed a prospective, phase II clinical trial to investigate the effectiveness and safety of anlotinibin combination with S-1; if this combination treatment is effective and welltolerated, then it may be used as a third-line treatment for patients with stage IV NSCLC.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_2"><head>Table 1 .</head><label>1</label><figDesc>Evaluation of the Treatment Process</figDesc><table /><note></note></figure>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Acknowledgements</head><p>This work was supported by the Beijing Bethune Charitable Foundation (B19136DT).</p></div>
+			</div>
+
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Authors' contributions (I) Conceived and designed: X Du; (II) Administrative support: X Du; (III) Provision of study materials or patients: X Yang, M Xiang; (IV) Collection and assembly of data: X Yang, M Xiang, L Geng, Y Wen; (V) Data analysis and interpretation: X Yang, M Xiang; (VI) Manuscript writing: All authors; (VII) Final approval of manuscript: All authors.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Competing interests</head><p>None declared.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Ethics approval</head><p>The trial received ethical approval from the Ethics Committee of Mianyang Central Hospital, Sichuan, China (Number: S2019001)</p><p>Provenance and peer review Not commissioned; externally peer reviewed.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Data sharing statement</head><p>The informed consent documents are available on request.</p></div>			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Global cancer statistics 2018: GLOBOCAN estimates of incidence and mortality worldwide for 36 cancers in 185 countries</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">F</forename><surname>Bray</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Ferlay</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">I</forename><surname>Soerjomataram</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">CA Cancer J Clin</title>
+		<imprint>
+			<biblScope unit="volume">68</biblScope>
+			<biblScope unit="page" from="394" to="424" />
+			<date type="published" when="2018" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">China Food and Drug Administration, Approved drugs</title>
+		<ptr target="http://app1.sfda.gov.cn/datasearch/face3/base.jsp?tableId=25&amp;tableName=TABLE25&amp;title=%E5%9B%BD%E4%BA%A7%E8%8D%AF%E5%93%81&amp;bc" />
+	</analytic>
+	<monogr>
+		<title level="j">Anlotinib</title>
+		<imprint>
+			<date type="published" when="2018" />
+		</imprint>
+	</monogr>
+	<note>internet</note>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<monogr>
+		<title/>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Id=124356560303886909015737447882</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Apatinib combined with oral etoposide in patients with platinum-resistant or platinum-refractory ovarian cancer (AEROC): a phase 2, single-arm, prospective study</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">L</forename><surname>Chun-Yan</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">W</forename><surname>Yin</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">X</forename><surname>Ying</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Lancet Oncol</title>
+		<imprint>
+			<biblScope unit="page">1470204518303498</biblScope>
+			<date type="published" when="2018" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Early stage and locally advanced (non-metastatic) non-small-cell lung cancer: ESMO Clinical Practice Guidelines for diagnosis, treatment and follow-up</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">L</forename><surname>Crinò</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">W</forename><surname>Weder</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Van Meerbeeck</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><surname>Felip</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ann Oncol</title>
+		<imprint>
+			<biblScope unit="volume">21</biblScope>
+			<biblScope unit="page" from="103" to="118" />
+			<date type="published" when="2010" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">ESMO Minimum Clinical Recommendations for diagnosis, treatment and follow-up of non-small-cell lung cancer (NSCLC)</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><surname>Felip</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><forename type="middle">A</forename><surname>Stahel</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">N</forename><surname>Pavlidis</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ann Oncol</title>
+		<imprint>
+			<biblScope unit="volume">16</biblScope>
+			<biblScope unit="page" from="28" to="37" />
+			<date type="published" when="2005" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<monogr>
+		<title level="m" type="main">Anlotinib as a third-line therapy in patients with refractory advanced non-small-cell lung cancer: a multicentre, randomised phase II trial (ALTER0302)</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">B</forename><surname>Han</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><surname>Li</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Y</forename><surname>Zhao</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2018" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title/>
+	</analytic>
+	<monogr>
+		<title level="j">Br J Cancer</title>
+		<imprint>
+			<biblScope unit="volume">118</biblScope>
+			<biblScope unit="page" from="654" to="61" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Effect of anlotinib as a third-line or further treatment on overall survival of patients with advanced non-small cell lung cancer: The ALTER 0303 Phase 3 Randomized Clinical Trial</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">B</forename><surname>Han</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><surname>Li</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Q</forename><surname>Wang</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">JAMA Oncol</title>
+		<imprint>
+			<biblScope unit="volume">4</biblScope>
+			<biblScope unit="page" from="1569" to="75" />
+			<date type="published" when="2018" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Third-line treatment: a randomized, double-blind, placebo-controlled phase III ALTER-0303 study-efficacy and safety of anlotinib treatment in patients with refractory advanced NSCLC</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">B</forename><surname>Han</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><surname>Li</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Q</forename><surname>Wang</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Clin Oncol</title>
+		<imprint>
+			<biblScope unit="volume">35</biblScope>
+			<biblScope unit="page">9053</biblScope>
+			<date type="published" when="2017" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Development and strategies of VEGFR-2/KDR inhibitors</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">L</forename><surname>Huang</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Z</forename><surname>Huang</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Z</forename><surname>Bai</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Future Med Chem</title>
+		<imprint>
+			<biblScope unit="volume">4</biblScope>
+			<biblScope unit="page" from="1839" to="52" />
+			<date type="published" when="2012" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Randomized phase II study of adjuvant chemotherapy with long-term S-1 versus Cisplatin+S-1 in completely resected stage II-IIIA non-small cell lung cancer</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Y</forename><surname>Iwamoto</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Mitsudomi</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><surname>Sakai</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Clin Cancer Res</title>
+		<imprint>
+			<biblScope unit="volume">21</biblScope>
+			<biblScope unit="page" from="5245" to="52" />
+			<date type="published" when="2015" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Alternate-day administration of S-1 for elderly patients with advanced non-small-cell lung carcinoma: A prospective feasibility study</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Masuda</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Watanabe</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><surname>Fujitaka</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Mol Clin Oncol</title>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="page" from="539" to="583" />
+			<date type="published" when="2018" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">A phase I dose-escalation study of regorafenib (BAY 73-4506), an inhibitor of oncogenic, angiogenic, and stromal kinases, in patients with advanced solid tumors</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><surname>Mross</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Frost</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Steinbild</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Clin Cancer Res</title>
+		<imprint>
+			<biblScope unit="volume">18</biblScope>
+			<biblScope unit="page" from="2658" to="67" />
+			<date type="published" when="2012" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<monogr>
+		<title level="m" type="main">National Comprehensive Cancer Network Guidelines for nonsmall cell lung cancer</title>
+		<idno type="DOI">10.31557/APJCP.2019.20.12.3849</idno>
+		<ptr target="https://www.nccn.org/store/login/login.aspx" />
+		<imprint>
+			<date type="published" when="2019" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<monogr>
+		<title level="m" type="main">Anlotinib Combined with S-1 in the Third-Line of NSCLC org%2fprofessionals%2fphysician_gls%2fpdf%2fnscl</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<monogr>
+		<title level="m" type="main">Phase 1 study of lenvatinib combined with carboplatin and paclitaxel in patients with non-small-cell lung cancer</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Nishio</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Horai</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Horiike</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2013" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title/>
+	</analytic>
+	<monogr>
+		<title level="j">Br J Cancer</title>
+		<imprint>
+			<biblScope unit="volume">109</biblScope>
+			<biblScope unit="page" from="538" to="582" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">Randomized controlled trial of S-1 versus docetaxel in patients with non-small-cell lung cancer previously treated with platinum-based chemotherapy (East Asia S-1 Trial in Lung Cancer)</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><surname>Nokihara</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Lu</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Tsk</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ann Oncol</title>
+		<imprint>
+			<biblScope unit="page">2698</biblScope>
+			<date type="published" when="2017" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">The relationship between the expression of thymidylate synthase, dihydropyrimidine dehydrogenase, orotate phosphoribosyltransferase, excision repair cross-complementation group 1 and class III β-tubulin, and the therapeutic effect of S-1 or carboplatin</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><surname>Okuda</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Tatematsu</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Yano</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Mol Clin Oncol</title>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="page" from="21" to="30" />
+			<date type="published" when="2018" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">Feasibility of adjuvant chemotherapy with S-1 consisting of a 4-week administration and a two-week rest period in patients with completely resected non-small cell lung cancer</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Okumura</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Sasaki</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><surname>Satoh</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Mol Clin Oncol</title>
+		<imprint>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="page" from="124" to="154" />
+			<date type="published" when="2013" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">Comparative efficacy and safety of first-line treatments for advanced non-small cell lung cancer with immune checkpoint inhibitors: A systematic review and meta-analysis</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><surname>Rui</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><surname>Xiaoming</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Y</forename><surname>Liping</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Z</forename><surname>Da</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Thorac Cancer</title>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="page" from="607" to="630" />
+			<date type="published" when="2019" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">Eastern cooperative oncology group: Comparison of four chemotherapy regimens for advanced non-small-cell lung cancer</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">H</forename><surname>Schiller</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><surname>Harrington</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><forename type="middle">P</forename><surname>Belani</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">N Engl J Med</title>
+		<imprint>
+			<biblScope unit="volume">346</biblScope>
+			<biblScope unit="page" from="92" to="100" />
+			<date type="published" when="2002" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title level="a" type="main">Phase I clinical and pharmacokinetic study of the Novel Raf kinase and vascular endothelial growth factor receptor inhibitor BAY 43-9006 in patients with advanced refractory solid tumors</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><surname>Strumberg</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><surname>Richly</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><forename type="middle">A</forename><surname>Hilger</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Clin Oncol</title>
+		<imprint>
+			<biblScope unit="volume">23</biblScope>
+			<biblScope unit="page" from="965" to="72" />
+			<date type="published" when="2005" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title level="a" type="main">Revisiting stage IIIB and IV non-small cell lung cancer: analysis of the surveillance, epidemiology, and end results data</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">W</forename><forename type="middle">J</forename><surname>William</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><forename type="middle">Y</forename><surname>Lin</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">J</forename><surname>Lee</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">CHEST J</title>
+		<imprint>
+			<biblScope unit="volume">136</biblScope>
+			<biblScope unit="page" from="701" to="710" />
+			<date type="published" when="2009" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<monogr>
+		<title level="m" type="main">This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

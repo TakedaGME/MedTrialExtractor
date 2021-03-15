@@ -1,0 +1,1152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /data/rsg/nlp/juanmoo1/bin/grobid-0.6.1/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">MONALEESA clinical program: a review of ribociclib use in different clinical settings</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+				<date type="published" when="2019-07-15">15 July 2019</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author role="corresp">
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Denise</forename><forename type="middle">A</forename><surname>Yardley</surname></persName>
+							<email>dyardley@tnonc.com</email>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Medical Oncology</orgName>
+								<orgName type="institution">Sarah Cannon Research Institute &amp; Tennessee Oncology PLLC</orgName>
+								<address>
+									<postCode>37203</postCode>
+									<settlement>Nashville</settlement>
+									<region>TN</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">MONALEESA clinical program: a review of ribociclib use in different clinical settings</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date type="published" when="2019-07-15">15 July 2019</date>
+						</imprint>
+					</monogr>
+					<idno type="DOI">10.2217/fon-2019-0130</idno>
+					<note type="submission">First draft submitted: 8 March 2019; Accepted for publication: 19 June 2019;</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.6.1" ident="GROBID" when="2020-10-09T18:38+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>breast</keywords>
+			</textClass>
+			<abstract>
+				<p>Ribociclib has received approval in the pre/peri-and postmenopausal disease settings on the basis of the MONALEESA trials. MONALEESA-2 demonstrated that ribociclib plus letrozole significantly improved progression-free survival compared with placebo plus letrozole as first-line therapy in postmenopausal patients with HR-positive, HER2-negative advanced breast cancer. Subsequently, ongoing trials reported significant progression-free survival improvements with ribociclib in combination with either fulvestrant in postmenopausal patients with advanced breast cancer who were either treatment naive or received ≤1 line of prior endocrine therapy in the advanced disease setting (MONALEESA-3) or tamoxifen/nonsteroidal aromatase inhibitor with ovarian function suppression in pre/perimenopausal women (MONALEESA-7). This review summarizes the MONALEESA clinical program. ClinicalTrials.gov identifiers: NCT01958021 (MONALEESA-2), NCT02422615 (MONALEESA-3), NCT02278120 (MONALEESA-7).</p>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Introduction to the trial program</head><p>The clinical activity and safety of ribociclib are being investigated across a diverse population of patients through the MONALEESA (Mammary Oncology Assessment of LEE011's Efficacy and Safety) clinical trial program, which includes the MONALEESA-2, MONALEESA-3 and MONALEESA-7 trials. The initial approval of ribociclib was based on results from MONALEESA-2, a Phase III trial that evaluated the combination of ribociclib with letrozole as first-line therapy in postmenopausal women with ABC <ref type="bibr" target="#b7">[7]</ref>. MONALEESA-3 and MONALEESA-7 are relatively newer trials that are evaluating ribociclib in advanced HR+, HER2-breast cancer populations, with treatment lines and combination partners that differ from those explored in MONALEESA-2 <ref type="bibr" target="#b13">[13]</ref><ref type="bibr" target="#b15">[14]</ref><ref type="bibr" target="#b17">[15]</ref>. Available results from the MONALEESA program have consistently shown that ribociclib is an effective combination partner with a predictable and manageable safety profile, and the ongoing trials and analyses seek to identify optimal combination regimens in different patient types <ref type="bibr" target="#b13">[13,</ref><ref type="bibr" target="#b15">14,</ref><ref type="bibr" target="#b19">16]</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Background &amp; rationale</head><p>The combination of CDK4/6 inhibitors with AIs as first-line ABC treatment has been studied in other clinical trials, such as PALOMA-2 <ref type="bibr" target="#b21">[17]</ref> and MONARCH 3 <ref type="bibr" target="#b22">[18]</ref>, and owing to the evident therapeutic activity of this combination, it has emerged as a new standard in the first-line treatment setting of postmenopausal women with HR+, HER2-ABC <ref type="bibr" target="#b11">[11,</ref><ref type="bibr" target="#b23">19]</ref>. In addition, treatment with CDK4/6 inhibitors in combination with fulvestrant has established CDK4/6 inhibitor combination therapy in HR+, HER2-ABC in postmenopausal women who have progressed on antiestrogen therapy <ref type="bibr" target="#b25">[20,</ref><ref type="bibr" target="#b26">21]</ref>. Both PALOMA-3 <ref type="bibr" target="#b25">[20]</ref> and MONARCH 2 <ref type="bibr" target="#b26">[21]</ref> included pre/perimenopausal women; however, these women made up only a minority of the enrolled patients. The MONALEESA trials have further investigated new patient populations and CDK4/6 inhibitor combinations in the first-line ABC treatment setting. MONALEESA-3 is a Phase III study investigating CDK4/6 inhibition plus fulvestrant in de novo HR+, HER2-ABC and as first-line treatment for advanced disease in postmenopausal patients <ref type="bibr" target="#b13">[13]</ref>. MONALEESA-7 is the only study to investigate CDK4/6 inhibition in a large population composed entirely of pre/perimenopausal women <ref type="bibr" target="#b15">[14]</ref>. On the basis of findings from MONALEESA-3 and MONALEESA-7, ribociclib has been approved for the treatment of HR+, HER2-ABC in combination with either an AI or fulvestrant in postmenopausal women and in combination with an AI in pre/perimenopausal women <ref type="bibr" target="#b27">[22]</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Trial design</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Design overview</head><p>The MONALEESA-2, MONALEESA-3 and MONALEESA-7 trials (ClinicalTrials.gov identifiers NCT01958021, NCT02422615 and NCT02278120, respectively) are double-blind, placebo-controlled, randomized Phase III trials. In all three trials, the starting dose of ribociclib was 600 mg once daily for 21 days of a 28-day cycle (3-weeks-on, 1-week-off schedule). In the MONALEESA-2 trial, ribociclib was combined with letrozole (2.5 mg once daily) in postmenopausal women with HR+, HER2-ABC <ref type="bibr" target="#b17">[15]</ref>. In the MONALEESA-3 trial, the patient population consisted of postmenopausal women with HR+, HER2-ABC who had relapsed &gt;12 months from their adjuvant or neoadjuvant ET or presented with de novo ABC and were treatment naive or had received ≤1 line of prior ET in the advanced setting. Patients were randomized to receive ribociclib or placebo in combination with fulvestrant (500 mg intramuscularly on days 1 and 15 of the first 28-day cycle, then on day 1 of all subsequent 28-day cycles) <ref type="bibr" target="#b13">[13]</ref>. In contrast, the MONALEESA-7 trial evaluated pre/perimenopausal patients with HR+, HER2-ABC who received treatment with either ribociclib or placebo with either tamoxifen (20 mg daily) or a nonsteroidal AI (NSAI; letrozole 2.5 mg daily or anastrozole 1 mg daily, both orally) <ref type="bibr" target="#b15">[14]</ref>. All patients in MONALEESA-7 received goserelin (3.6 mg subcutaneously on day 1 of every 28-day cycle) for ovarian suppression. In all of the MONALEESA trials, eligibility for study enrollment required the presence of measurable disease according to Response Evaluation Criteria in Solid Tumors (RECIST), version 1.1, or at least one predominantly lytic bone lesion <ref type="bibr" target="#b13">[13]</ref><ref type="bibr" target="#b15">[14]</ref><ref type="bibr" target="#b17">[15]</ref>. In addition, patients had to have an Eastern Cooperative Oncology Group performance status (ECOG PS) score of 0 or 1 and demonstrate adequate bone marrow and organ function. The presence or absence of liver or lung metastases was a stratification factor in all MONALEESA trials. Adverse events (AEs) were characterized according to Common Terminology Criteria for Adverse Events, version 4.03. Ribociclib dose reductions were standardized across the trials, from 600 to 400 to 200 mg once daily, and were permitted if treatment-related AEs were noted; however, dose reductions were not permitted for letrozole, fulvestrant, tamoxifen, NSAIs or goserelin. Treatment continued until disease progression, unacceptable toxicity, death or discontinuation for any other reason ( <ref type="figure">Figure 1</ref>).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Procedures &amp; outcome measures MONALEESA-2</head><p>Patients were excluded from the study if they received a previous CDK4/6 inhibitor or any previous systemic chemotherapy or ET for advanced disease <ref type="bibr" target="#b17">[15]</ref>. Patients with inflammatory breast cancer, CNS metastases, impaired gastrointestinal function that would alter drug absorption or a history of cardiac disease or dysfunction or baseline corrected QT interval (Fridericia's formula; QTcF) &gt;450 ms were also excluded <ref type="bibr" target="#b17">[15]</ref>. Previous neoadjuvant or adjuvant use of an NSAI was permitted contingent on a disease-free interval &gt;12 months <ref type="bibr" target="#b17">[15]</ref>. Patients who discontinued ribociclib or placebo could remain on study, receiving only letrozole, but treatment unblinding and treatment crossover were not permitted <ref type="bibr" target="#b17">[15]</ref>. The primary end point was PFS and the secondary end points were overall survival (OS), overall response rate (ORR; complete or partial response), clinical benefit rate (ORR plus stable disease lasting at least 24 weeks), safety, and quality-of-life assessments. Exploratory end points were pharmacokinetics and biomarkers of response or resistance <ref type="bibr" target="#b17">[15]</ref>. Tumor assessments were performed during screening, every 8 weeks during the first 18 months, every 12 weeks thereafter until disease progression, and at the end of treatment. All imaging data were reviewed by a blinded independent review committee. ECG evaluations were performed at screening, on day 15 of cycle 1, and on day 1 of each subsequent cycle until cycle 9. In patients with a mean QTcF ≥481 ms before cycle 10, further ECG measurements were conducted on day 1 of cycle 10 and on day 1 of each subsequent cycle <ref type="bibr" target="#b17">[15]</ref>. The recommendation for monitoring neutropenia is a complete blood count (CBC) evaluation before treatment initiation, followed by complete blood count monitoring every 2 weeks for the first two cycles, at the beginning of each of the subsequent 4 cycles, and as clinically indicated <ref type="bibr" target="#b27">[22]</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>MONALEESA-3</head><p>The MONALEESA-3 trial included a broad range of postmenopausal patients with HR+, HER2-disease, including de novo ABC, regardless of completion of (neo) adjuvant ET, disease-free interval after completion of (neo) adjuvant ET, or receipt of ≤1 prior treatment for ABC <ref type="bibr" target="#b13">[13,</ref><ref type="bibr" target="#b27">22]</ref>. Exclusion criteria were having clinically significant cardiac arrhythmias and/or uncontrolled heart disease (including QTcF &gt;450 ms) and having received prior fulvestrant, CDK4/6 inhibitor or chemotherapy for ABC <ref type="bibr" target="#b13">[13]</ref>.</p><p>The primary end point was investigator-assessed PFS, with secondary end points including OS, ORR, clinical benefit rate, safety and tolerability <ref type="bibr" target="#b13">[13]</ref>. Tumor response was assessed per RECIST, version 1.1, at screening, every 8 weeks after randomization for 18 months and every 12 weeks thereafter until disease progression, death, withdrawal of consent or loss to follow-up <ref type="bibr" target="#b13">[13]</ref>. ECG assessments were performed at screening, on day 15 of cycle 1, on days 1 and 15 of cycle 2, on day 1 of all subsequent cycles up to cycle 6, at end of treatment, and as clinically indicated. In patients with a QTcF ≥481 ms at any time before cycle 7, additional ECGs were performed predose on day 1 of subsequent cycles and post dose every third cycle <ref type="bibr" target="#b13">[13]</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>MONALEESA-7</head><p>The MONALEESA-7 trial included pre/perimenopausal women aged 18-59 years with HR+, HER2-ABC <ref type="bibr" target="#b15">[14]</ref>. Patients with inflammatory breast cancer, CNS metastases, symptomatic visceral disease or clinically significant heart disease or cardiac repolarization abnormality, including QTcF &gt;450 ms, and patients who received prior CDK4/6 treatment or ET were excluded <ref type="bibr" target="#b15">[14]</ref>.</p><p>The primary end point was PFS and secondary end points included OS, ORR, clinical benefit rate, time to response, duration of response, time to definitive deterioration of ECOG PS, quality of life, and safety and tolerability <ref type="bibr" target="#b15">[14]</ref>. Tumor assessments were done using computed tomography or MRI at screening, every 8 weeks during the first 18 months, and every 12 weeks thereafter. Standard ECG assessments were performed at screening, on cycle 1 days 1 and 15, cycle 2 day 1, cycle 3 day 15, day 1 of all subsequent cycles, and at the end of treatment <ref type="bibr" target="#b15">[14]</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Data analysis</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Patient characteristics</head><p>Baseline characteristics and prior treatments of patients who participated in the MONALEESA trials are shown in <ref type="table">Table 1</ref>. In MONALEESA-2, between January 2014 and March 2015 <ref type="bibr" target="#b17">[15]</ref>, a total of 668 patients were randomized to receive ribociclib plus letrozole and placebo plus letrozole (n = 334 in each arm), and as of 2 January 2017, 219 patients (32.8%) remained on study <ref type="bibr" target="#b19">[16]</ref>. MONALEESA-3 enrolled 726 postmenopausal women and men with histologically and/or cytologically confirmed HR+, HER2-ABC from June 2015 through June 2016, who were randomly assigned to receive ribociclib plus fulvestrant (n = 484) or placebo plus fulvestrant (n = 242) <ref type="bibr" target="#b13">[13]</ref>. MONALEESA-7 focused on enrollment of only pre/perimenopausal patients and ultimately enrolled and randomized 672 patients between December 2014 and August 2016, with 335 assigned to receive ribociclib plus tamoxifen/NSAI and goserelin and 337 assigned to receive placebo plus tamoxifen/NSAI and goserelin <ref type="bibr" target="#b15">[14]</ref>. Despite differences among the study designs of these three trials, the trial characteristics among the ribociclib and placebo arms within the trials were balanced, and the rates were mostly similar. Because patients enrolled in the MONALEESA-7 trial were required to be pre/perimenopausal, the median age was much younger compared with patients in the other two trials <ref type="bibr" target="#b15">[14]</ref>. The number of Asian patients enrolled in the MONALEESA-7 trial was also higher than that in the MONALEESA-2 and MONALEESA-3 trials, which was likely due to increased availability of trial sites in Asia in the MONALEESA-7 trial (22 sites in Asian countries vs 14 and nine for MONALEESA-2 and MONALEESA-3, respectively) <ref type="bibr" target="#b29">[23]</ref><ref type="bibr" target="#b30">[24]</ref><ref type="bibr" target="#b31">[25]</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Efficacy</head><p>In all three trials, the primary end point was met, and PFS was significantly improved in the treatment arm containing ribociclib versus that with the placebo arm. In MONALEESA-2, median PFS in patients who received ribociclib plus letrozole versus placebo plus letrozole was 25.3 versus 16 months (hazard ratio [HR]: 0.568 [95% CI: 0.457-0.704]; p = 9.63 × 10 -8 ) <ref type="bibr" target="#b19">[16]</ref>. In MONALEESA-3, which allowed up to one prior treatment for ABC, the median PFS was 20.5 months (95% CI: 18.5−23.5 months) versus 12.8 months (95% CI: 10.9−16.3 months) in the ribociclib plus fulvestrant arm versus the placebo plus fulvestrant arm, and the HR was 0.593 (95% CI: 0.480−0.732; p &lt; 0.001) <ref type="bibr" target="#b13">[13]</ref>. Results from the MONALEESA-7 trial also showed a significantly longer duration of PFS in the ribociclib group versus the placebo group <ref type="bibr" target="#b15">[14]</ref>. Median PFS was 23.8 months (95% CI: 19.  [95% CI: 0.44-0.74]). The consistency in the HRs among these three trials underscores the efficacy of CDK4/6 inhibitors across a broad population of patients with HR+, HER2-ABC. The ORR in the MONALEESA-2 trial was 42.5 versus 28.7% (p &lt; 0.0001) in the ribociclib group versus the placebo group, and in patients with measurable disease, the ORR was 54.5 versus 38.8% (p &lt; 0.001) <ref type="bibr" target="#b19">[16]</ref>. In MONALEESA-3, where about half the patients in the trial were receiving second-line therapy, the ORR was 32.4 versus 21.5% (p &lt; 0.001) in the ribociclib group versus the placebo group for all patients. In patients with measurable disease, the ORR was 40.9 versus 28.7% in the ribociclib group versus the placebo group (p = 0.003) <ref type="bibr" target="#b13">[13]</ref>. The ORR in MONALEESA-7 in all patients was 41% in the ribociclib group versus 30% in the placebo group, and among patients with measurable disease, ORR was 51% and 36%, respectively (p &lt; 0.001 for both comparisons) <ref type="bibr" target="#b15">[14]</ref>. In all MONALEESA trials, the addition of ribociclib to ET resulted in measurable tumor reductions conferring an advantage in ORR.</p><p>On the basis of the available data for the three trials, ribociclib demonstrated benefit in pre-, peri-, and postmenopausal patients in combination with a variety of endocrine agents in the treatment of HR+, HER2-ABC among a diverse population. Subgroup analyses in the MONALEESA trials showed consistent treatment benefit across all subgroups evaluated including age ≥65 years, presence of visceral metastases, bone-only disease, prior (neo)adjuvant chemotherapy or ET and having de novo disease ( <ref type="table" target="#tab_2">Table 2)</ref>. A recent collated subgroup analysis showed that PFS benefit was consistent in patients with visceral metastases regardless of the disease burden (&gt;3 visceral metastases); the HR values were 0.60 (95% CI: 0.40-0.90), 0.52 (95% CI: 0.26-1.02) and 0.50 (95% CI: 0.31-0.82) in MONALEESA-2, MONALEESA-3 and MONALEESA-7, respectively <ref type="bibr" target="#b32">[26]</ref>. In MONALEESA-2, among patients with non de novo ABC, the PFS benefit of ribociclib plus letrozole was consistent regardless of treatment-free interval (TFI) duration. In patients with TFI ≤24 months, the HR was 0.455 (95% CI: 0.296-0.701) and with TFI &gt;24 months, the HR was 0.455 (95% CI: 0.287-0.720) <ref type="bibr" target="#b33">[27]</ref>. In patients with TFI ≤36 months and TFI &gt;36 months, the HR was 0.422 (95% CI: 0.284-0.627) and 0.507 (95% CI: 0.303-0.851), respectively. In patients with TFI ≤48 months and TFI &gt;48 months, the HR was 0.449 (95% CI: 0.310-0.650) and 0.496 (95% CI: 0.274-0.898), respectively.</p><p>In the MONALEESA-2 and MONALEESA-7 trials, PFS benefit was also observed in Asian patients <ref type="table" target="#tab_2">(Table 2)</ref>. However, in MONALEESA-3, there was no treatment benefit with ribociclib in Asian patients attributable to the small sample size and limited number of events in this population. Ribociclib plus letrozole has also shown effective tumor reduction versus placebo plus letrozole in MONALEESA-2, where early response was reported in 37.2% of patients in the ribociclib arm versus 23.3% of patients in the placebo arm (n = 334 in each arm) at 6 months <ref type="bibr" target="#b34">[28]</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Safety &amp; tolerability</head><p>Overall, the AE profiles of ribociclib in all three trials were similar. The most common AEs of any grade that occurred in ≥25% of patients were neutropenia, leukopenia and nausea <ref type="table">(Table 3</ref>). In MONALEESA-2, the most common Grade 3/4 AEs (≥15% in either arm) were neutropenia and leukopenia <ref type="bibr" target="#b19">[16]</ref>. In MONALEESA-3, the future science group www.futuremedicine.com <ref type="table">Table 3</ref>. Adverse events occurring in at least 25% of patients in either arm of all trials. most common Grade 3 AEs occurring in ≥10% of patients were neutropenia and leukopenia <ref type="bibr" target="#b13">[13]</ref>. The only Grade 4 AE reported in ≥5% of patients was neutropenia. In MONALEESA-7, the most common Grade 3/4 AEs (≥5% of the patients in either group) were neutropenia, leukopenia and increased alanine aminotransferase level <ref type="bibr" target="#b15">[14]</ref>. Grade 1/2 hot flash was reported at a higher frequency in this trial compared with the others (34% of patients in each of the ribociclib arm and the placebo arm) possibly because of ovarian function suppression in premenopausal women. Elevated levels of aminotransferases were observed in all three trials, and Grade 3/4 increases were reported in alanine aminotransferase levels (10 vs 2%) and aspartate aminotransferase levels (7 vs 2%) in the ribociclib versus placebo arms among all trials <ref type="bibr" target="#b27">[22]</ref>. Febrile neutropenia in the ribociclib group was reported in five patients (1.5%) in the MONALEESA-2 trial, five patients (1%) in the MONALEESA-3 trial and in seven patients (2.1%) in the MONALEESA-7 trial. A collated analysis of the MONALEESA program demonstrated that AEs were effectively managed with dose modifications that primarily occurred within the initial 3 months of treatment, and the efficacy of ribociclib was maintained regardless of dose intensity <ref type="bibr" target="#b35">[29]</ref>. Detailed information on dose modifications and management of AEs associated with ribociclib can be found in the package insert <ref type="bibr" target="#b27">[22]</ref>. QTcF prolongation was reported in a small number of patients receiving ribociclib in all three trials. In the MONALEESA-2 trial, 10 of 334 patients in the ribociclib group (3%) experienced a &gt;60-ms QTcF prolongation from baseline, and 12 patients (3.6%) had at least one postbaseline QTcF &gt;480 ms versus two of 334 patients (0.6%) in the placebo group <ref type="bibr" target="#b19">[16]</ref>. In MONALEESA-3, prolongation of QTcF (any grade) was reported in 6.2% of patients receiving ribociclib plus fulvestrant and 0.8% of patients receiving placebo plus fulvestrant <ref type="bibr" target="#b13">[13]</ref>. Postbaseline QTcF &gt;480 ms occurred in 5.6% of patients in the ribociclib arm and 2.5% of patients in the placebo arm, and of these patients, 1.7 and 0.4%, respectively, experienced a postbaseline QTcF &gt;500 ms. An increase of &gt;60 ms from baseline in QTcF occurred in 6.5 and 0.4% of patients randomized to ribociclib plus fulvestrant and placebo plus fulvestrant, respectively. Three patients (0.6%) in the ribociclib plus fulvestrant arm and no patients in the placebo plus fulvestrant arm discontinued study treatment because of QTcF prolongation. In MONALEESA-7, a postbaseline QTcF &gt;480 ms occurred in 23 patients (6.9%) in the ribociclib group and in four patients (1.2%) in the placebo group, and among these patients, postbaseline QTcF &gt;500 ms was reported in five patients (1.5%) and one patient (0.3%), respectively <ref type="bibr" target="#b15">[14]</ref>. A &gt;60-ms increase in QTcF from baseline occurred in 32 patients (9.6%) in the ribociclib group and in six patients (1.8%) in the placebo group. In the ribociclib group, a &gt;60-ms increase from baseline in QTcF was observed in 14 of 87 patients (16%) receiving tamoxifen and in 18 of 245 patients (7%) receiving NSAI <ref type="bibr" target="#b27">[22]</ref>. In the placebo group, an increase of &gt;60 ms from baseline occurred in six of 90 patients (7%) receiving tamoxifen and in no patients receiving NSAI. However, none of the patients had clinical symptoms or arrhythmias. During treatment with ribociclib, more frequent ECG monitoring is recommended in case of QTcF prolongation at any given time <ref type="bibr" target="#b27">[22]</ref>.</p><p>Of note, ribociclib is not indicated in combination with tamoxifen for the treatment of premenopausal women with ABC. Ribociclib use should also be avoided with strong cytochrome P4503A inhibitors and other drugs that prolong the QT interval <ref type="bibr" target="#b27">[22]</ref>. Detailed information on drug-drug interactions with ribociclib can be found in the Package Insert <ref type="bibr" target="#b27">[22]</ref>.</p><p>Health-related quality of life Overall health-related quality of life was maintained from baseline in both arms of the MONALEESA-2 trial in subgroups of patients with visceral disease, bone-only metastases, best overall response of complete or partial response and ECOG PS score of 0 or 1 <ref type="bibr" target="#b36">[30]</ref>. Clinically meaningful reduction (&gt;5 points) in the European Organisation for Research and Treatment of Cancer Quality of Life Core 30 Questionnaire (EORTC QLQ-C30) pain score was observed at week 8 and was maintained up to cycle 11 in the ribociclib arm <ref type="bibr" target="#b36">[30,</ref><ref type="bibr" target="#b37">31]</ref>. A greater improvement in pain from baseline was reported in the ribociclib arm (26%) versus that in the placebo arm (15%) <ref type="bibr" target="#b34">[28]</ref>. The percent change from baseline in EORTC QLQ-C30 pain score in patients receiving ribociclib was -40 versus -29% in those receiving placebo, and in patients with clinical benefit, the mean change in pain score from baseline was -7 and -1.3 points in the ribociclib and placebo arms, respectively <ref type="bibr" target="#b34">[28]</ref>. In the MONALEESA-3 and MONALEESA-7 trials, time to definitive deterioration was ≥10% in the ribociclib arm versus placebo arm <ref type="bibr" target="#b38">[32]</ref><ref type="bibr" target="#b39">[33]</ref><ref type="bibr" target="#b40">[34]</ref>. Global health-related quality of life was improved or maintained during treatment compared with baseline and worsened upon treatment discontinuation in both arms in both trials. In MONALEESA-7, a reduction in pain was observed at week 8 and maintained up to cycle 19 in the ribociclib arm <ref type="bibr" target="#b39">[33]</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Conclusion</head><p>The overall findings from the MONALEESA program highlight the treatment benefit and manageable safety profile of ribociclib in combination with AIs or fulvestrant compared with placebo, and in different patient subpopulations with HR+, HER2-ABC. Most of the AEs reported across these trials were consistent. Careful monitoring and dose modifications are recommended and should be implemented as needed in patients with a high risk of QTcF prolongation.</p><p>The MONALEESA clinical program for ribociclib includes diverse patient populations in different treatment settings. Besides the available clinical evidence that supports the widespread use of ribociclib, ongoing clinical investigations are further exploring other applications and characteristics of ribociclib with different combination agents, in different patient populations and in other treatment settings. For instance, to further characterize the efficacy and safety of ribociclib in a large and diverse patient population with HR+, HER2-ABC, a Phase IIIb openlabel, single-arm, multicenter trial, the CompLEEment-1 trial (ClinicalTrials.gov identifier: NCT02941926), is currently ongoing (enrollment is 3256 patients). Preliminary results from the initial 1008 patients with any menopausal status enrolled with 56 days of follow-up demonstrated a safety profile of ribociclib plus letrozole consistent with that of the MONALEESA-2 trial of postmenopausal women receiving first-line treatment for HR+, HER2-ABC <ref type="bibr" target="#b41">[35]</ref>. Another ongoing trial, the TRINITI-1 trial (ClinicalTrials.gov identifier: NCT02732119), is investigating the effects of continuing a CDK4/6 inhibitor through triplet therapy (ribociclib plus everolimus plus exemestane) in patients with disease progression on a CDK4/6 inhibitor <ref type="bibr" target="#b42">[36]</ref>. Furthermore, the disposition of ribociclib in the CNS is also being investigated in preclinical and early clinical studies. Preclinical results in a mouse model have shown adequate CNS penetration, which resulted in subsequent preclinical efficacy studies <ref type="bibr" target="#b43">[37]</ref>. Results from a Phase I, multicenter, open-label, dose-escalation study of ribociclib (ClinicalTrials.gov identifier: NCT01747876) in 32 pediatric patients with malignant rhabdoid tumor or neuroblastoma also showed rapid absorption of ribociclib, despite some interpatient variability and a predictable safety profile <ref type="bibr" target="#b44">[38]</ref>.</p><p>Overall survival data with ribociclib for the treatment of HR+, HER2-ABC in a Phase III setting are not yet available and are currently being investigated. Mixed results in OS data with the CDK4/6 inhibitor palbociclib have been observed in the PALOMA-1 and PALOMA-3 trials <ref type="bibr" target="#b45">[39,</ref><ref type="bibr" target="#b46">40]</ref>. PALOMA-3 demonstrated improved OS in patients with sensitivity to previous ET treated with palbociclib plus fulvestrant compared with that in patients treated with placebo plus fulvestrant (39.7 vs 29.7 mo, respectively; HR for death, 0.72 [95% CI: 0.55-0.93]) <ref type="bibr" target="#b46">[40]</ref>; however, there was not a significant OS benefit in the entire patient population. No significant OS benefit was observed with treatment with palbociclib plus letrozole versus placebo plus letrozole in the Phase II PALOMA-1 study <ref type="bibr" target="#b45">[39]</ref>. Furthermore, interpretation of OS data in the PALOMA trials is confounded by postprogression therapies after study discontinuation. For example, the length of OS relative to PFS in PALOMA-3 indicates that many patients will be treated with at least one postprogression therapy for years following study treatment discontinuation.</p><p>Ribociclib is now being investigated as a potential adjuvant or neoadjuvant therapy in patients with breast cancer. These trials are randomizing HR+, HER2-breast cancer patients to treatment with ribociclib in combination with ET or to standard of care treatment. In the neoadjuvant setting, the Phase II FELINE trial is comparing ribociclib plus letrozole versus placebo plus letrozole in postmenopausal women with HR+, HER2early breast cancer (NCTT02712723) <ref type="bibr" target="#b47">[41,</ref><ref type="bibr" target="#b48">42]</ref>; the Phase II NEOLBC trial is comparing ribociclib plus letrozole versus standard chemotherapy as a neoadjuvant therapy in postmenopausal women with HR+, HER2-luminal breast cancer (NCT03283384) <ref type="bibr" target="#b49">[43]</ref>; and the CORALLEEN trial is comparing ribociclib plus letrozole versus standard chemotherapy as a neoadjuvant therapy in postmenopausal women with luminal B, HER2-breast cancer (NCT03248427) <ref type="bibr" target="#b50">[44,</ref><ref type="bibr" target="#b51">45]</ref>. In addition, the Phase III NATALEE trial will evaluate the efficacy and safety of ribociclib plus ET compared with ET alone as an adjuvant treatment in pre/perimenopausal and postmenopausal women with early breast cancer (NCT03701334) <ref type="bibr" target="#b52">[46]</ref>.</p><p>Despite ET being the primary treatment option, the combinations of ribociclib with AIs or fulvestrant are becoming preferred ET combinations in patients with HR+, HER2-ABC in the first-or second-line disease setting. The addition of ribociclib with other established therapeutic agents has become an important option to improve PFS and overcome ET resistance.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head></head><label></label><figDesc>2 monthsnot reached) in the ribociclib group and 13.0 months (95% CI: 11.0-16.4 months) in the placebo group (HR: 0.55 [95% CI: 0.44-0.69]; one-sided p &lt; 0.001). Median PFS in the subgroup of patients receiving tamoxifen as the combination partner (n = 177) was 22.1 months (95% CI: 16.6-24.7 months) in the ribociclib group and 11.0 months (95% CI: 9.1-16.4 months) in the placebo group (HR: 0.59 [95% CI: 0.39-0.88]). In patients receiving NSAI as the combination partner (n = 495), median PFS was 27.5 months (95% CI: 19.1 months-not reached) in the ribociclib group and 13.8 months (95% CI: 12.6-17.4 months) in the placebo group (HR: 0.57</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_1"><head>Table 1 .Table 1 .</head><label>11</label><figDesc>Baseline characteristics. Baseline characteristics (cont.).</figDesc><table><row><cell>Characteristic</cell><cell cols="2">MONALEESA-2 [15]</cell><cell cols="2">MONALEESA-3 [13]</cell><cell cols="2">MONALEESA-7 [14]</cell></row><row><cell></cell><cell>Ribociclib (n = 334)</cell><cell>Placebo (n = 334)</cell><cell>Ribociclib (n = 484)</cell><cell>Placebo (n = 242)</cell><cell>Ribociclib (n = 335)</cell><cell>Placebo (n = 337)</cell></row><row><cell cols="2">Median age (range), y 62 (23-91)</cell><cell>63 (29-88)</cell><cell>63 (31-89)</cell><cell>63 (34-86)</cell><cell>43 (25-58)</cell><cell>45 (29-58)</cell></row><row><cell>Race:</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>-White</cell><cell>269 (80.5)</cell><cell>280 (83.8)</cell><cell>406 (83.9)</cell><cell>213 (88.0)</cell><cell>187 (56)</cell><cell>201 (60)</cell></row><row><cell>-Asian</cell><cell>28 (8.4)</cell><cell>23 (6.9)</cell><cell>45 (9.3)</cell><cell>18 (7.4)</cell><cell>99 (30)</cell><cell>99 (29)</cell></row><row><cell>-Black</cell><cell>10 (3.0)</cell><cell>7 (2.1)</cell><cell>3 (0.6)</cell><cell>2 (0.8)</cell><cell>10 (3)</cell><cell>9 (3)</cell></row><row><cell>-Native American</cell><cell>NR</cell><cell>NR</cell><cell>5 (1.0)</cell><cell>1 (0.4)</cell><cell>NR</cell><cell>NR</cell></row><row><cell>-Other/unknown</cell><cell>27 (8.1)</cell><cell>24 (7.2)</cell><cell>25 (5.2)</cell><cell>8 (3.3)</cell><cell>39 (12)</cell><cell>28 (8)</cell></row><row><cell>ECOG PS:</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>-0</cell><cell>205 (61.4)</cell><cell>202 (60.5)</cell><cell>310 (64.0)</cell><cell>158 (65.3)</cell><cell>245 (73)</cell><cell>255 (76)</cell></row><row><cell>-1</cell><cell>129 (38.6)</cell><cell>132 (39.5)</cell><cell>173 (35.7)</cell><cell>83 (34.3)</cell><cell>87 (26)</cell><cell>78 (23)</cell></row><row><cell>-2</cell><cell>NR</cell><cell>NR</cell><cell>NR</cell><cell>NR</cell><cell>0</cell><cell>1 (Ͻ1)</cell></row><row><cell>-Missing</cell><cell>NR</cell><cell>NR</cell><cell>1 (0.2)</cell><cell>1 (0.4)</cell><cell>3 (1)</cell><cell>3 (1)</cell></row><row><cell>Disease stage:</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>-II</cell><cell>NR</cell><cell>NR</cell><cell>2 (0.4)</cell><cell>0</cell><cell>NR</cell><cell>NR</cell></row><row><cell>-III</cell><cell>1 (0.3)</cell><cell>3 (0.9)</cell><cell>4 (0.8)</cell><cell>2 (0.8)</cell><cell>NR</cell><cell>NR</cell></row><row><cell>-IV</cell><cell>333 (99.7)</cell><cell>331 (99.1)</cell><cell>478 (98.8)</cell><cell>239 (98.8)</cell><cell>NR</cell><cell>NR</cell></row><row><cell>-Locally advanced</cell><cell>NR</cell><cell>NR</cell><cell>NR</cell><cell>NR</cell><cell>1 (Ͻ1)</cell><cell>1 (Ͻ1)</cell></row><row><cell>-Metastatic</cell><cell>NR</cell><cell>NR</cell><cell>NR</cell><cell>NR</cell><cell>334 (100)</cell><cell>336 (100)</cell></row><row><cell>-Missing</cell><cell>NR</cell><cell>NR</cell><cell>0</cell><cell>1 (0.4)</cell><cell>NR</cell><cell>NR</cell></row><row><cell>HR status:</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>-ER+</cell><cell>332 (99.4)</cell><cell>333 (99.7)</cell><cell>481 (99.4)</cell><cell>241 (99.6)</cell><cell>331 (99)</cell><cell>335 (99)</cell></row><row><cell>-PR+</cell><cell>271 (81.1)</cell><cell>278 (83.2)</cell><cell>353 (72.9)</cell><cell>167 (69.0)</cell><cell>290 (87)</cell><cell>288 (85)</cell></row><row><cell>-DFI</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>-Newly diagnosed</cell><cell>114 (34.1)</cell><cell>113 (33.8)</cell><cell>97 (20.0)</cell><cell>42 (17.4)</cell><cell>136 (41)</cell><cell>134 (40)</cell></row><row><cell>-Existing disease</cell><cell>220 (65.9)</cell><cell>221 (66.2)</cell><cell>387 (80.0)</cell><cell>199 (82.2)</cell><cell>199 (59)</cell><cell>203 (60)</cell></row><row><cell>-≤12 months</cell><cell>4 (1.2)</cell><cell>10 (3.0)</cell><cell>22 (4.5)</cell><cell>9 (3.7)</cell><cell>23 (7)</cell><cell>13 (4)</cell></row><row><cell>-Ͼ12 months</cell><cell>NR</cell><cell>NR</cell><cell>365 (75.4)</cell><cell>190 (78.5)</cell><cell>176 (53)</cell><cell>190 (56)</cell></row><row><cell cols="2">-Ͼ12 to ≤24 months 14 (4.2)</cell><cell>15 (4.5)</cell><cell>NR</cell><cell>NR</cell><cell>NR</cell><cell>NR</cell></row><row><cell>-Ͼ24 months</cell><cell>202 (60.5)</cell><cell>195 (58.4)</cell><cell>NR</cell><cell>NR</cell><cell>NR</cell><cell>NR</cell></row><row><cell>-Missing</cell><cell>0</cell><cell>1 (0.3)</cell><cell>0</cell><cell>1 (0.4)</cell><cell>NR</cell><cell>NR</cell></row><row><cell>Prior endocrine</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>therapy:</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>-Treatment naive</cell><cell>NR</cell><cell>NR</cell><cell>238 (49.2)</cell><cell>129 (53.3)</cell><cell>208 (62)</cell><cell>196 (58)</cell></row><row><cell>-≤1 line</cell><cell>NR</cell><cell>NR</cell><cell>236 (48.8)</cell><cell>109 (45.0)</cell><cell>NR</cell><cell>NR</cell></row><row><cell>-(Neo) adjuvant</cell><cell>175 (52.4)</cell><cell>171 (51.2)</cell><cell>289 (59.7)</cell><cell>142 (58.7)</cell><cell>127 (38)</cell><cell>141 (42)</cell></row><row><cell>-Advanced status</cell><cell>NR</cell><cell>NR</cell><cell>110 (22.7)</cell><cell>40 (16.5)</cell><cell>NR</cell><cell>NR</cell></row><row><cell>Prior chemotherapy:</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>-(Neo) adjuvant</cell><cell>146 (43.7)</cell><cell>145 (43.4)</cell><cell>274 (56.6)</cell><cell>131 (54.1)</cell><cell>138 (41)</cell><cell>138 (41)</cell></row><row><cell>-For advanced</cell><cell>NR</cell><cell>NR</cell><cell>NR</cell><cell>NR</cell><cell>47 (14)</cell><cell>47 (14)</cell></row><row><cell>disease</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>-None</cell><cell>NR</cell><cell>NR</cell><cell>NR</cell><cell>NR</cell><cell>150 (45)</cell><cell>152 (45)</cell></row><row><cell>Metastatic sites:</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>-0</cell><cell>2 (0.6)</cell><cell>1 (0.3)</cell><cell>2 (0.4)</cell><cell>0</cell><cell>1 (Ͻ1)</cell><cell>0</cell></row><row><cell>-1</cell><cell>100 (29.9)</cell><cell>117 (35.0)</cell><cell>151 (31.2)</cell><cell>73 (30.2)</cell><cell>112 (33)</cell><cell>117 (35)</cell></row><row><cell>-2</cell><cell>118 (35.3)</cell><cell>103 (30.8)</cell><cell>156 (32.2)</cell><cell>76 (31.4)</cell><cell>106 (32)</cell><cell>99 (29)</cell></row><row><cell>-≥3</cell><cell>114 (34.1)</cell><cell>113 (33.8)</cell><cell>175 (36.2)</cell><cell>92 (38.0)</cell><cell>116 (35)</cell><cell>121 (36)</cell></row><row><cell>-Missing</cell><cell>NR</cell><cell>NR</cell><cell>0</cell><cell>1 (0.4)</cell><cell>NR</cell><cell>NR</cell></row></table><note>Values are the number (percentage) unless otherwise indicated. DFI: Disease-free interval; ECOG PS: Eastern Cooperative Oncology Group performance status; ER+: ER positive; NR: Not reported; PR+: PR positive.future science group www.futuremedicine.comDFI: Disease-free interval; ECOG PS: Eastern Cooperative Oncology Group performance status; ER+: ER positive; NR: Not reported; PR+: PR positive.</note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_2"><head>Table 2 .16], no. of events/N MONALEESA-3 [13], no. of events/N (%) MONALEESA-7 [14], no. of events/N Ribociclib + letro- zole Placebo + letrozole HR (95% CI) Ribociclib + fulves- trant Placebo + fulves- trant HR (95% CI) Ribociclib group Placebo group HR (95% CI)</head><label>2</label><figDesc>Efficacy across different subgroups in the MONALEESA program.</figDesc><table><row><cell>0.55 (0.44-0.69)</cell><cell>0.42 (0.27-0.66)</cell><cell>0.54 (0.29-1.01)</cell><cell>0.76 (0.31-1.86)</cell><cell>0.84 (0.39-1.82)</cell><cell></cell><cell>0.55 (0.42-0.72)</cell><cell>0.50 (0.32-0.77)</cell><cell></cell><cell>0.44 (0.29-0.67)</cell><cell>0.59 (0.45-0.78)</cell><cell></cell><cell>0.40 (0.26-0.63)</cell><cell>0.66 (0.49-0.88)</cell><cell>NR</cell><cell>NR</cell><cell></cell><cell>0.64 (0.45-0.91)</cell><cell>0.50 (0.38-0.68)</cell><cell></cell><cell>0.53 (0.42-0.69)</cell><cell>0.70 (0.41-1.19)</cell><cell>0.43 (0.29-0.64)</cell><cell></cell><cell>0.57 (0.44-0.74)</cell><cell>0.59 (0.39-0.88)</cell><cell>0.52 (0.38-0.70)</cell><cell>NR</cell><cell>NR</cell><cell>NR</cell><cell></cell><cell>0.41 (0.28-0.60)</cell><cell>0.68 (0.48-0.96)</cell><cell></cell><cell>0.60 (0.44-0.81)</cell><cell>0.50 (0.35-0.72)</cell><cell></cell></row><row><cell>187/337</cell><cell>56/88</cell><cell>27/50</cell><cell>11/25</cell><cell>18/35</cell><cell></cell><cell>134/255</cell><cell>51/79  †</cell><cell></cell><cell>61/88  ‡</cell><cell>126/249  ‡</cell><cell></cell><cell>62/99</cell><cell>112/213</cell><cell>NR</cell><cell>NR</cell><cell></cell><cell>78/167</cell><cell>109/170</cell><cell></cell><cell>154/259</cell><cell>33/78</cell><cell>72/134</cell><cell></cell><cell>132/247</cell><cell>55/90</cell><cell>108/196</cell><cell>NR</cell><cell>NR</cell><cell>NR</cell><cell></cell><cell>82/152</cell><cell>76/138</cell><cell></cell><cell>106/216</cell><cell>81/121</cell><cell></cell></row><row><cell>0.593 (0.480-0.732) 131/335</cell><cell>NR 33/92</cell><cell>NR 19/47</cell><cell>NR 12/31</cell><cell>NR 12/29</cell><cell></cell><cell>0.559 (0.427-0.733) 87/245</cell><cell>0.633 (0.450-0.890) 43/87</cell><cell></cell><cell>0.607 (0.454-0.810) 42/98  ‡</cell><cell>0.597 (0.436-0.818) 89/237  ‡</cell><cell></cell><cell>1.353 (0.574-3.186) 33/99</cell><cell>84/200</cell><cell>0.562 (0.448-0.704) NR</cell><cell>0.881 (0.199-3.907) NR</cell><cell></cell><cell>0.563 (0.415-0.764) 56/162</cell><cell>0.645 (0.483-0.861) 75/173</cell><cell></cell><cell>0.658 (0.519-0.833) 106/254</cell><cell>0.379 (0.234-0.613) 25/81</cell><cell>NR 40/136</cell><cell></cell><cell>0.670 (0.507-0.886) 92/248</cell><cell>0.620 (0.443-0.866) 39/87</cell><cell>0.577 (0.415-0.802) 73/208</cell><cell>0.565 (0.428-0.744) NR</cell><cell>0.562 (0.428-0.738) NR</cell><cell>0.481 (0.345-0.669) NR</cell><cell></cell><cell>NR 45/150</cell><cell>NR 64/138</cell><cell></cell><cell>0.586 (0.447-0.768) 76/219</cell><cell>0.621 (0.441-0.874) 55/116</cell><cell></cell></row><row><cell>151/242 (62)</cell><cell>NR</cell><cell>NR</cell><cell>NR</cell><cell>NR</cell><cell></cell><cell>95/158 (60)</cell><cell>56/83 (67)</cell><cell></cell><cell>81/129 (63)</cell><cell>70/113 (62)</cell><cell></cell><cell>7/18 (39)</cell><cell></cell><cell>136/213 (64)</cell><cell>3/6 (50)</cell><cell></cell><cell>74/120 (62)</cell><cell>77/121 (64)</cell><cell></cell><cell>116/190 (61)</cell><cell>35/51 (69)</cell><cell>NR</cell><cell></cell><cell>80/118 (68)</cell><cell>63/104 (61)</cell><cell>66/129 (51)</cell><cell>84/109 (77)</cell><cell>88/137 (64)</cell><cell>71/123 (58)</cell><cell></cell><cell>NR</cell><cell>NR</cell><cell></cell><cell>92/149 (62)</cell><cell>59/92 (64)</cell><cell></cell></row><row><cell>0.568 (0.457-0.704) 210/484 (43)</cell><cell>0.265 (0.135-0.520) NR</cell><cell>0.608 (0.414-0.892) NR</cell><cell>1.800 (0.381-8.504) NR</cell><cell>0.900 (0.423-1.915) NR</cell><cell></cell><cell>0.581 (0.439-0.769) 126/310 (41)</cell><cell>0.543 (0.385-0.766) 83/173 (48)</cell><cell></cell><cell>0.518 (0.392-0.684) 115/258 (45)</cell><cell>0.658 (0.466-0.928) 95/226 (42)</cell><cell></cell><cell>0.370 (0.180-0.760) 22/45 (49)</cell><cell>0.614 (0.486-0.775)</cell><cell>NR 174/406 (43)</cell><cell>NR 8/18 (44)</cell><cell></cell><cell>0.597 (0.426-0.837) 94/242 (39)</cell><cell>0.561 (0.424-0.743) 116/242 (48)</cell><cell></cell><cell>0.551 (0.432-0.702) 174/381 (46)</cell><cell>0.642 (0.393-1.048) 36/103 (35)</cell><cell>0.569 (0.384-0.843) NR</cell><cell></cell><cell>0.375 (0.235-0.599) 135/257 (53)</cell><cell>0.617 (0.426-0.894) 79/193 (41)</cell><cell>0.651 (0.468-0.904) 76/238 (32)</cell><cell>NR 131/236 (56)</cell><cell>NR 131/291 (45)</cell><cell>N R 7 5 /227 (33)</cell><cell></cell><cell>0.640 (0.470-0.871) NR</cell><cell>0.501 (0.368-0.681) NR</cell><cell></cell><cell>N R 1 2 6 /309 (41)</cell><cell>N R 8 4 /175 (48)</cell><cell></cell></row><row><cell>Group MONALEESA-2 [All patients 140/334 205/334</cell><cell>Asia 13/35 27/33</cell><cell>North America 44/108 67/121</cell><cell>Latin America 4/7 3 /7</cell><cell>Other regions 15/34 15/27</cell><cell>ECOG PS</cell><cell>0 8 2 /205 123/202</cell><cell>1 5 8 /129 82/132</cell><cell>Age</cell><cell>Ͻ65 Years 82/184 127/189</cell><cell>≥65 Years 58/150 78/145</cell><cell>Race</cell><cell>Asian 14/28 19/23</cell><cell>Non-Asian 121/281 171/287</cell><cell>White NR NR</cell><cell>Other NR NR</cell><cell>Liver or lung metastases</cell><cell>No 59/152 80/143</cell><cell>Yes 81/182 125/191</cell><cell>Bone-only disease</cell><cell>No 114/265 159/256</cell><cell>Yes 26/69 46/78</cell><cell>De novo disease 43/114 61/113</cell><cell>Previous ET</cell><cell>AI 30/71 48/67</cell><cell>TAM 47/104 71/105</cell><cell>None 62/158 86/162</cell><cell>≥1 line NR NR</cell><cell>No prior TAM NR NR</cell><cell>N o p r i o r A I N R N R</cell><cell>Previous (neo) adjuvant chemotherapy</cell><cell>No 69/188 102/189</cell><cell>Yes 71/146 103/145</cell><cell>No. of metastatic sites</cell><cell>Ͻ3 N R N R</cell><cell>≥3 N R N R</cell><cell>Age was categorized as ≥40 years and Ͻ40 years.</cell></row></table><note>† One patient in the MONALEESA-7 study from the placebo group had ECOG PS of 2.‡AI: Aromatase inhibitors; CT: Chemotherapy; ECOG PS: Eastern Cooperative Oncology Group performance status; ET: Endocrine therapy; HR: Hazard ratio; NR: Not reported; TAM: Tamoxifen.</note></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot">Future Oncol. (2019) 15<ref type="bibr" target="#b29">(23)</ref> future science group</note>
+		</body>
+		<back>
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Executive summary</head><p>• The clinical activity and safety of ribociclib, an orally bioavailable, selective inhibitor of CDK4/6, are being investigated in the MONALEESA clinical trial program that includes the MONALEESA-2, MONALEESA-3 and MONALEESA-7 trials. Design • In all three double-blind, placebo-controlled, randomized Phase III trials in patients with HR-positive, HER2-negative advanced breast cancer, the starting dose of ribociclib was 600 mg once daily for 21 days of a 28-day cycle (3-weeks-on, 1-week-off schedule).</p><p>• Postmenopausal women received ribociclib plus letrozole (2.5 mg once daily) in the MONALEESA-2 trial.</p><p>• The MONALEESA-3 trial evaluated ribociclib plus fulvestrant (500 mg intramuscularly) in postmenopausal women who had relapsed &gt;12 months from their endocrine therapy or presented with de novo advanced breast cancer and were treatment naive or had received ≤1 line of prior endocrine therapy in the advanced setting. • In the MONALEESA-7 trial, pre/perimenopausal women received ribociclib plus goserelin (3.6 mg) with either tamoxifen (20 mg daily) or a nonsteroidal aromatase inhibitor (letrozole 2.5 mg daily or anastrozole 1 mg daily).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Data analysis Efficacy</head><p>• In all three trials, the primary end point was met, and progression-free survival (PFS) was significantly improved in the treatment arm containing ribociclib versus that in the placebo arm. </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Safety</head><p>• Overall, the adverse event profiles of ribociclib in all three trials were similar.</p><p>• The most common adverse events of any grade that occurred in ≥25% of patients were neutropenia, leukopenia and nausea. </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Ethical conduct of research</head><p>This review article does not contain any studies with human participants or animals performed by the author.</p><p>future science group www.futuremedicine.com</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Open access</head><p>This work is licensed under the Attribution-NonCommercial-NoDerivatives 4.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-nc-nd/4.0/</p></div>			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">The potent and selective cyclin-dependent kinases 4 and 6 inhibitor ribociclib (LEE011) is a versatile combination partner in preclinical cancer models</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Kim</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><surname>Tiedt</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Loo</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Oncotarget</title>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="issue">81</biblScope>
+			<biblScope unit="page" from="35226" to="35240" />
+			<date type="published" when="2018" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<monogr>
+		<title level="m" type="main">• Provides a detailed report of the preclinical profile of ribociclib in both single-agent and combination settings</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Lee011: an orally bioavailable, selective small molecule inhibitor of CDK4/6 -reactivating Rb in cancer</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Kim</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Loo</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><surname>Chopra</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Presented at: AACR-NCI-EORTC International Conference: Molecular Targets and Cancer Therapeutics</title>
+		<meeting><address><addrLine>Boston, MA, USA</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2013-10" />
+			<biblScope unit="page" from="19" to="23" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Dual CDK4/CDK6 inhibition induces cell-cycle arrest and senescence in neuroblastoma</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Rader</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">R</forename><surname>Russell</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">L</forename><forename type="middle">S</forename><surname>Hart</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Clin. Cancer. Res</title>
+		<imprint>
+			<biblScope unit="volume">19</biblScope>
+			<biblScope unit="issue">22</biblScope>
+			<biblScope unit="page" from="6173" to="6182" />
+			<date type="published" when="2013" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title/>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><forename type="middle">E</forename><surname>Caldon</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><forename type="middle">J</forename><surname>Daly</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><forename type="middle">L</forename><surname>Sutherland</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><forename type="middle">A</forename><surname>Musgrove</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Cell cycle control in breast cancer cells. J. Cell. Biochem</title>
+		<imprint>
+			<biblScope unit="volume">97</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="261" to="274" />
+			<date type="published" when="2006" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">P21 and p27: roles in carcinogenesis and drug resistance</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><forename type="middle">M</forename><surname>Abukhdeir</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">B</forename><forename type="middle">H</forename><surname>Park</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Expert. Rev. Mol. Med</title>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="page">19</biblScope>
+			<date type="published" when="2008" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">FDA approval of palbociclib in combination with fulvestrant for the treatment of hormone receptor-positive, HER2-negative metastatic breast cancer</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><forename type="middle">J</forename><surname>Walker</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Wedam</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">L</forename><surname>Amiri-Kordestani</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Clin. Cancer. Res</title>
+		<imprint>
+			<biblScope unit="volume">22</biblScope>
+			<biblScope unit="issue">20</biblScope>
+			<biblScope unit="page" from="4968" to="4972" />
+			<date type="published" when="2016" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">FDA approval: ribociclib for the treatment of postmenopausal women with hormone receptor-positive, HER2-negative advanced or metastatic breast cancer</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Shah</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><surname>Bloomquist</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Tang</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Clin. Cancer. Res</title>
+		<imprint>
+			<biblScope unit="volume">24</biblScope>
+			<biblScope unit="issue">13</biblScope>
+			<biblScope unit="page" from="2999" to="3004" />
+			<date type="published" when="2018" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Abemaciclib: first global approval</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><forename type="middle">S</forename><surname>Kim</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Drugs</title>
+		<imprint>
+			<biblScope unit="volume">77</biblScope>
+			<biblScope unit="issue">18</biblScope>
+			<biblScope unit="page" from="2063" to="2070" />
+			<date type="published" when="2017" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Recent advances in the treatment of breast cancer</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Cws</forename><surname>Tong</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Wu</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Wcs</forename><surname>Cho</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Kkw</forename><surname>To</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Front Oncol</title>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="page">227</biblScope>
+			<date type="published" when="2018" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Progression-free survival with endocrine-based therapies following progression on non-steroidal aromatase inhibitor among postmenopausal women with hormone receptor positive, human epidermal growth factor receptor-2 negative metastatic breast cancer: a network meta-analysis</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><surname>Ayyagari</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><surname>Tang</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">O</forename><surname>Patterson-Lomba</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Curr. Med. Res. Opin</title>
+		<imprint>
+			<biblScope unit="volume">34</biblScope>
+			<biblScope unit="issue">9</biblScope>
+			<biblScope unit="page" from="1645" to="1652" />
+			<date type="published" when="2018" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<monogr>
+		<title level="m" type="main">To view the most recent and complete verison of the guideline, go online to NCCN.org. NCCN makes no warranties of any kind whatsoever regarding their content, use or application and disclaims any responsibility for their application or use in any way</title>
+		<imprint>
+			<date type="published" when="2019-03-06" />
+		</imprint>
+	</monogr>
+	<note>Referenced with permission from the NCCN Clinical Practice Guidelines in Breast Cancer V.4.2018. C National Comprehensive Cancer Network, Inc. 2019. All rights reserved</note>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Everolimus in postmenopausal hormone-receptor-positive advanced breast cancer</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Baselga</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Campone</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Piccart</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">N. Engl. J. Med</title>
+		<imprint>
+			<biblScope unit="volume">366</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page" from="520" to="529" />
+			<date type="published" when="2012" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Phase III randomized study of ribociclib and fulvestrant in hormone receptor-positive, human epidermal growth factor receptor 2-negative advanced breast cancer: MONALEESA-3</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><forename type="middle">J</forename><surname>Slamon</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><surname>Neven</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Chia</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Clin. Oncol</title>
+		<imprint>
+			<biblScope unit="volume">36</biblScope>
+			<biblScope unit="issue">24</biblScope>
+			<biblScope unit="page" from="2465" to="2472" />
+			<date type="published" when="2018" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<monogr>
+		<title level="m" type="main">Discusses findings from a Phase III study that evaluated ribociclib plus fulvestrant in patients with hormone receptor-positive, human epidermal growth factor receptor 2-negative advanced breast cancer who were treatment-naive in the advanced setting or had received ≤1 line of prior endocrine therapy for advanced disease</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">•</forename></persName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Ribociclib plus endocrine therapy for premenopausal women with hormone-receptor-positive, advanced breast cancer (MONALEESA-7): a randomised Phase 3 trial</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><surname>Tripathy</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><forename type="middle">A</forename><surname>Im</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Colleoni</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Lancet. Oncol</title>
+		<imprint>
+			<biblScope unit="volume">19</biblScope>
+			<biblScope unit="issue">7</biblScope>
+			<biblScope unit="page" from="904" to="915" />
+			<date type="published" when="2018" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<monogr>
+		<title level="m" type="main">Provides evidence that ribociclib in combination with endocrine therapy plus ovarian suppression with goserelin is effective and well tolerated in premenopausal women with hormone receptor-positive, human epidermal growth factor receptor 2-negative advanced breast cancer</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">•</forename></persName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Ribociclib as first-line therapy for HR-positive, advanced breast cancer</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">G</forename><forename type="middle">N</forename><surname>Hortobagyi</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><forename type="middle">M</forename><surname>Stemmer</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><forename type="middle">A</forename><surname>Burris</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">N. Engl. J. Med</title>
+		<imprint>
+			<biblScope unit="volume">375</biblScope>
+			<biblScope unit="issue">18</biblScope>
+			<biblScope unit="page" from="1738" to="1748" />
+			<date type="published" when="2016" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<monogr>
+		<title level="m" type="main">Reports efficacy and safety data of the combination of ribociclib and letrozole as initial therapy in patients with hormone receptor-positive, human epidermal growth factor receptor 2-negative advanced breast cancer from MONALEESA-2, a Phase III trial. The approval of ribociclib for treatment was based on data from this trial</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">•</forename></persName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">Updated results from MONALEESA-2, a Phase III trial of first-line ribociclib plus letrozole versus placebo plus letrozole in hormone receptor-positive, HER2-negative advanced breast cancer</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">G</forename><forename type="middle">N</forename><surname>Hortobagyi</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><forename type="middle">M</forename><surname>Stemmer</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><forename type="middle">A</forename><surname>Burris</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ann. Oncol</title>
+		<imprint>
+			<biblScope unit="volume">29</biblScope>
+			<biblScope unit="issue">7</biblScope>
+			<biblScope unit="page" from="1541" to="1547" />
+			<date type="published" when="2018" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<monogr>
+		<title level="m" type="main">• Describes updated efficacy and safety data from the MONALEESA-2 trial with a longer follow-up</title>
+		<imprint/>
+	</monogr>
+	<note>Exploratory biomarker analyses are also reported</note>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">Efficacy and safety of palbociclib in combination with letrozole as first-line treatment of ER-positive, HER2-negative, advanced breast cancer: expanded analyses of subgroups from the randomized pivotal trial PALOMA-1/TRIO-18</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><forename type="middle">S</forename><surname>Finn</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">P</forename><surname>Crown</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Ettl</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Breast Cancer Res</title>
+		<imprint>
+			<biblScope unit="volume">18</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page">67</biblScope>
+			<date type="published" when="2016" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">MONARCH 3: abemaciclib as initial therapy for advanced breast cancer</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">P</forename><surname>Goetz</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Toi</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Campone</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Clin. Oncol</title>
+		<imprint>
+			<biblScope unit="volume">35</biblScope>
+			<biblScope unit="issue">32</biblScope>
+			<biblScope unit="page" from="3638" to="3646" />
+			<date type="published" when="2017" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title level="a" type="main">CDK4/6 inhibition in breast cancer: current practice and future directions</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Pernas</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><forename type="middle">M</forename><surname>Tolaney</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><forename type="middle">P</forename><surname>Winer</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Goel</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ther. Adv. Med. Oncol</title>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="page">1758835918786451</biblScope>
+			<date type="published" when="2018" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<monogr>
+		<title level="m" type="main">• Provides a comprehensive review of the use of cyclin-dependent kinases 4 and 6 inhibitors in breast cancer and discusses their use in clinical practice</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title level="a" type="main">Fulvestrant plus palbociclib versus fulvestrant plus placebo for treatment of hormone-receptor-positive, HER2-negative metastatic breast cancer that progressed on previous endocrine therapy (PALOMA-3): final analysis of the multicentre, double-blind, Phase 3 randomised controlled trial</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Cristofanilli</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">N</forename><forename type="middle">C</forename><surname>Turner</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">I</forename><surname>Bondarenko</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Lancet Oncol</title>
+		<imprint>
+			<biblScope unit="volume">17</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="425" to="439" />
+			<date type="published" when="2016" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title level="a" type="main">MONARCH 2: abemaciclib in combination with fulvestrant in women with HR+/HER2− advanced breast cancer who had progressed while receiving endocrine therapy</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">G</forename><forename type="middle">W</forename><surname>Sledge</surname><genName>Jr</genName></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Toi</forename><forename type="middle">M</forename><surname>Neven</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Clin. Oncol</title>
+		<imprint>
+			<biblScope unit="volume">35</biblScope>
+			<biblScope unit="issue">25</biblScope>
+			<biblScope unit="page" from="2875" to="2884" />
+			<date type="published" when="2017" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<monogr>
+		<title/>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Kisqali</surname></persName>
+		</author>
+		<imprint/>
+	</monogr>
+	<note>package insert</note>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<analytic>
+		<title/>
+	</analytic>
+	<monogr>
+		<title level="j">Novartis Pharmaceuticals Corp</title>
+		<imprint>
+			<date type="published" when="2018" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<monogr>
+		<title level="m" type="main">Study of Efficacy and Safety of LEE011 in Postmenopausal Women With Advanced Breast Cancer (MONALEESA-2)</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Clinicaltrials</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Gov</surname></persName>
+		</author>
+		<ptr target="https://clinicaltrials.gov/ct2/show/NCT01958021" />
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<monogr>
+		<title level="m" type="main">Study of Efficacy and Safety of LEE011 in Men and Postmenopausal Women With Advanced Breast Cancer (MONALEESA-3)</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Clinicaltrials</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Gov</surname></persName>
+		</author>
+		<ptr target="https://clinicaltrials.gov/ct2/show/NCT02422615" />
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<monogr>
+		<title level="m" type="main">Study of Efficacy and Safety in Premenopausal Women With Hormone Receptor Positive, HER2-negative Advanced Breast Cancer (MONALEESA-7</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Clinicaltrials</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Gov</surname></persName>
+		</author>
+		<ptr target="https://clinicaltrials.gov/ct2/show/NCT02278120" />
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<monogr>
+		<title level="m" type="main">Ribociclib plus endocrine therapy in patients with hormone receptor-positive, HER2-negative advanced breast cancer presenting with visceral metastases: subgroup analysis of Phase 3 MONALEESA trials. Presented at: San Antonio Breast Cancer Symposium</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><surname>Yardley</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Chan</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Nusch</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2018-12" />
+			<biblScope unit="page" from="4" to="8" />
+			<pubPlace>San Antonio, TX, USA</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<monogr>
+		<title level="m" type="main">Subsequent treatment for postmenopausal women with hormone receptor-positive, HER2-negative advanced breast cancer who received ribociclib + letrozole vs placebo + letrozole in the Phase III MONALEESA-2 study. Presented at: San Antonio Breast Cancer Symposium</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><forename type="middle">L</forename><surname>Blackwell</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Paluch-Shimon</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Campone</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2017-12" />
+			<biblScope unit="page" from="5" to="9" />
+			<pubPlace>TX, USA</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<analytic>
+		<title level="a" type="main">First-line ribociclib plus letrozole in postmenopausal women with HR+, HER2-advanced breast cancer: tumor response and pain reduction in the Phase 3 MONALEESA-2 trial</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">W</forename><surname>Janni</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><surname>Alba</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Bachelot</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Breast. Cancer. Res. Treat</title>
+		<imprint>
+			<biblScope unit="volume">169</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="469" to="479" />
+			<date type="published" when="2018" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b35">
+	<monogr>
+		<title level="m" type="main">Ribociclib treatment benefit in patients with advanced breast cancer with ≥1 dose reduction: data from the MONALEESA-2, -3, and -7 trials. Presented at: San Antonio Breast Cancer Symposium</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">T</forename><surname>Beck</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><surname>Neven</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Sohn</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2018-12" />
+			<biblScope unit="page" from="4" to="8" />
+			<pubPlace>San Antonio, TX, USA</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b36">
+	<analytic>
+		<title level="a" type="main">Health-related quality of life of postmenopausal women with hormone receptor-positive, human epidermal growth factor receptor 2-negative advanced breast cancer treated with ribociclib + letrozole: results from MONALEESA-2</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Verma</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">O</forename><surname>Shaughnessy</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Burris</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><forename type="middle">A</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Breast Cancer Res. Treat</title>
+		<imprint>
+			<biblScope unit="volume">170</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="535" to="545" />
+			<date type="published" when="2018" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b37">
+	<analytic>
+		<title level="a" type="main">Maintenance of health-related quality of life in elderly patients treated with ribociclib + letrozole in MONALEESA-2</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><forename type="middle">A</forename><surname>Burris</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><forename type="middle">M</forename><surname>Tolaney</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">L</forename><forename type="middle">L</forename><surname>Hart</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">of Clinical Oncology Annual Meeting</title>
+		<meeting><address><addrLine>Chicago, IL, USA</addrLine></address></meeting>
+		<imprint>
+			<publisher>American Society</publisher>
+			<date type="published" when="2018-06" />
+			<biblScope unit="page" from="1" to="5" />
+		</imprint>
+	</monogr>
+	<note>Presented at</note>
+</biblStruct>
+
+<biblStruct xml:id="b38">
+	<analytic>
+		<title level="a" type="main">Ribociclib + tamoxifen or a non-steroidal aromatase inhibitor in premenopausal patients with hormone receptor-positive, HER2-negative advanced breast cancer: MONALEESA-7 patient-reported outcomes. Presented at: European Society for</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">N</forename><surname>Harbeck</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Villanueva</forename><surname>Vazquez</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><surname>Franke</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">F</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Medical Oncology</title>
+		<imprint>
+			<biblScope unit="page" from="19" to="23" />
+			<date type="published" when="2018-10" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b39">
+	<analytic>
+		<title level="a" type="main">Ribociclib (RIB) plus tamoxifen (TAM) or a non-steroidal aromatase inhibitor (NSAI) in premenopausal women with hormone receptorpositive (HR+), human epidermal growth factor receptor 2-negative (HER2−) advanced breast cancer (ABC): additional results from the MONALEESA-7 trial</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">N</forename><surname>Harbeck</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Villanueva</forename><surname>Vazquez</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><surname>Tripathy</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Eur. J. Cancer</title>
+		<imprint>
+			<biblScope unit="volume">92</biblScope>
+			<biblScope unit="page">1</biblScope>
+			<date type="published" when="2018" />
+		</imprint>
+	</monogr>
+	<note>Suppl 3</note>
+</biblStruct>
+
+<biblStruct xml:id="b40">
+	<analytic>
+		<title level="a" type="main">Patient-reported outcomes (PROs) in advanced breast cancer (ABC) treated with ribociclib + fulvestrant: results from MONALEESA-3. Presented at: European Society for</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><forename type="middle">A</forename><surname>Fasching</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">F</forename><forename type="middle">J</forename><surname>Esteva</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">X</forename><surname>Pivot</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Medical Oncology</title>
+		<imprint>
+			<biblScope unit="page" from="19" to="23" />
+			<date type="published" when="2018-10" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b41">
+	<analytic>
+		<title level="a" type="main">Ribociclib + letrozole in patients with hormone receptor-positive, human epidermal growth factor receptor 2-negative advanced breast cancer (ABC) with no prior endocrine therapy for ABC: preliminary results from the Phase 3b CompLEEment-1 trial</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>De Laurentiis</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><surname>Neven</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">G</forename><surname>Jerusalem</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">of Clinical Oncology Annual Meeting</title>
+		<meeting><address><addrLine>Chicago, IL, USA</addrLine></address></meeting>
+		<imprint>
+			<publisher>American Society</publisher>
+			<date type="published" when="2018-06" />
+			<biblScope unit="page" from="1" to="5" />
+		</imprint>
+	</monogr>
+	<note>Presented at</note>
+</biblStruct>
+
+<biblStruct xml:id="b42">
+	<analytic>
+		<title level="a" type="main">Ribociclib in combination with everolimus and exemestane in men and postmenopausal women with HR+/HER2− advanced breast cancer after progression on a CDK4/6 inhibitor: efficacy and safety results from Phase 2 of the TRINITI-1 study</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Moulder</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Karuturi</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Yardley</forename><surname>Da</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Presented at: American Association for Cancer Research Annual Meeting</title>
+		<meeting><address><addrLine>Chicago, IL, USA</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2018-04" />
+			<biblScope unit="page" from="14" to="18" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b43">
+	<analytic>
+		<title level="a" type="main">CNS penetration of the CD4/6 inhibitor ribociclib (LEE011) in non-tumor bearing mice and mice bearing orthotopic pediatric brain tumors</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Y</forename><surname>Patel</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Davis</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Kala</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Neuro Oncol</title>
+		<imprint>
+			<biblScope unit="volume">18</biblScope>
+			<biblScope unit="page">152</biblScope>
+			<date type="published" when="2018" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b44">
+	<analytic>
+		<title level="a" type="main">A Phase I study of the CDK4/6 inhibitor ribociclib (LEE011) in pediatric patients with malignant rhabdoid tumors, neuroblastoma, and other solid tumors</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">B</forename><surname>Geoerger</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">F</forename><surname>Bourdeaut</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><forename type="middle">G</forename><surname>Dubois</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Clin. Cancer Res</title>
+		<imprint>
+			<biblScope unit="volume">23</biblScope>
+			<biblScope unit="issue">10</biblScope>
+			<biblScope unit="page" from="2433" to="2441" />
+			<date type="published" when="2017" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b45">
+	<analytic>
+		<title level="a" type="main">Overall survival results from the randomized Phase II study of palbociclib (P) in combination with letrozole (L) vs letrozole alone for frontline treatment of ER+/HER2− advanced breast cancer (PALOMA-1; TRIO-18)</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><surname>Finn</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Crown</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">I</forename><surname>Lang</surname></persName>
+		</author>
+		<ptr target="futuresciencegroupwww.futuremedicine.com" />
+	</analytic>
+	<monogr>
+		<title level="m">of Clinical Oncology Annual Meeting</title>
+		<meeting><address><addrLine>Chicago, IL, USA, 2-6</addrLine></address></meeting>
+		<imprint>
+			<publisher>American Society</publisher>
+			<date type="published" when="2017-06" />
+		</imprint>
+	</monogr>
+	<note>Presented at</note>
+</biblStruct>
+
+<biblStruct xml:id="b46">
+	<analytic>
+		<title level="a" type="main">Overall survival with palbociclib and fulvestrant in advanced breast cancer</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">N</forename><forename type="middle">C</forename><surname>Turner</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><forename type="middle">J</forename><surname>Slamon</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Ro</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">N. Engl. J. Med</title>
+		<imprint>
+			<biblScope unit="volume">379</biblScope>
+			<biblScope unit="issue">20</biblScope>
+			<biblScope unit="page" from="1926" to="1936" />
+			<date type="published" when="2018" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b47">
+	<monogr>
+		<title level="m" type="main">Femara plus ribociclib or placebo as neo-adjuvant endocrine therapy for women with ER+, HER2-negative early breast cancer -The Feline trial. Presented at: 2016 San Antonio Breast Cancer Symposium</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Q</forename><surname>Khan</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">L</forename><surname>Prochaska</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Mohammad</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2016-12" />
+			<biblScope unit="page" from="6" to="10" />
+			<pubPlace>San Antonio, TX, USA</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b48">
+	<monogr>
+		<title level="m" type="main">Letrozole plus ribociclib or placebo as neo-adjuvant therapy in ER-positive HER2-negative early breast cancer (FELINE)</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Clinicaltrials</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Gov</surname></persName>
+		</author>
+		<ptr target="https://clinicaltrials.gov/ct2/show/NCT02712723" />
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b49">
+	<monogr>
+		<title level="m" type="main">Tailoring NEOadjuvant therapy in hormone receptor positive, HER2 negative, luminal breast cancer</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Clincaltrials</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Gov</surname></persName>
+		</author>
+		<ptr target="https://clinicaltrials.gov/ct2/show/NCT03283384" />
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b50">
+	<analytic>
+		<title level="a" type="main">CORALLEEN: a Phase 2 clinical trial of chemotherapy or letrozole plus ribociclib as neoadjuvant treatment for postmenopausal patients with luminal B/HER2-negative breast cancer</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Gavilá</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><surname>Saura</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Oliveira</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Clin. Oncol</title>
+		<imprint>
+			<biblScope unit="issue">15</biblScope>
+			<biblScope unit="page" from="594" to="594" />
+			<date type="published" when="2017" />
+		</imprint>
+	</monogr>
+	<note>Suppl</note>
+</biblStruct>
+
+<biblStruct xml:id="b51">
+	<monogr>
+		<title level="m" type="main">Neadjuvant multi-agent chemotherapy or letrozole plus ribociclib in luminal B/Her2-negative breast cancer</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Clinicaltrials</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Gov</surname></persName>
+		</author>
+		<ptr target="https://clinicaltrials.gov/ct2/show/nct03248427" />
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b52">
+	<monogr>
+		<title level="m" type="main">A trial to evaluate efficacy and safety of ribociclib with endocrine therapy as adjuvant treatment in patients with HR+/HER2− early breast cancer (NATALEE)</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Clinicaltrials</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Gov</surname></persName>
+		</author>
+		<ptr target="https://clinicaltrials.gov/ct2/show/NCT03701334" />
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

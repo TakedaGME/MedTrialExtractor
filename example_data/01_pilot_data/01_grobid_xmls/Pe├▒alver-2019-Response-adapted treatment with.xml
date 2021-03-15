@@ -1,0 +1,1205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /data/rsg/nlp/juanmoo1/bin/grobid-0.6.1/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Response-adapted treatment with rituximab, bendamustine, mitoxantrone, and dexamethasone followed by rituximab maintenance in patients with relapsed or refractory follicular lymphoma after first-line immunochemotherapy: Results of the RBMDGELTAMO08 phase II trial</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+				<date type="published" when="2019-11-04">4 November 2019</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author role="corresp">
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Francisco-Javier</forename><surname>Peñalver</surname></persName>
+							<email>fjpenalver@fhalcorcon.es</email>
+							<affiliation key="aff0">
+								<address>
+									<postCode>8 10</postCode>
+								</address>
+							</affiliation>
+							<affiliation key="aff0">
+								<address>
+									<postCode>8 10</postCode>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">José-Antonio</forename><surname>Márquez</surname></persName>
+							<affiliation key="aff0">
+								<address>
+									<postCode>8 10</postCode>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Soledad</forename><surname>Durán</surname></persName>
+							<affiliation key="aff0">
+								<address>
+									<postCode>8 10</postCode>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Pilar</forename><surname>Giraldo</surname></persName>
+							<affiliation key="aff0">
+								<address>
+									<postCode>8 10</postCode>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Alejandro</forename><surname>Martín</surname></persName>
+							<affiliation key="aff0">
+								<address>
+									<postCode>8 10</postCode>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Carlos</forename><surname>Montalbán</surname></persName>
+							<affiliation key="aff0">
+								<address>
+									<postCode>8 10</postCode>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Juan-Manuel</forename><surname>Sancho</surname></persName>
+							<idno type="ORCID">0000-0001-9062-077X</idno>
+							<affiliation key="aff0">
+								<address>
+									<postCode>8 10</postCode>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">María-José</forename><surname>Ramírez</surname></persName>
+							<affiliation key="aff0">
+								<address>
+									<postCode>8 10</postCode>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">María-José</forename><surname>Terol</surname></persName>
+							<affiliation key="aff0">
+								<address>
+									<postCode>8 10</postCode>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Francisco-Javier</forename><surname>Capote</surname></persName>
+							<affiliation key="aff0">
+								<address>
+									<postCode>8 10</postCode>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">|</forename><surname>Antonio Gutiérrez</surname></persName>
+							<idno type="ORCID">0000-0001-9062-077X</idno>
+							<affiliation key="aff0">
+								<address>
+									<postCode>8 10</postCode>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Blanca</forename><surname>Sánchez</surname></persName>
+							<affiliation key="aff0">
+								<address>
+									<postCode>8 10</postCode>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">|</forename><surname>Andrés López</surname></persName>
+							<affiliation key="aff0">
+								<address>
+									<postCode>8 10</postCode>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Antonio</forename><surname>Salar</surname></persName>
+							<idno type="ORCID">0000-0002-4652-4825</idno>
+							<affiliation key="aff0">
+								<address>
+									<postCode>8 10</postCode>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">|</forename><surname>Gil Rodríguez-Caravaca</surname></persName>
+							<affiliation key="aff0">
+								<address>
+									<postCode>8 10</postCode>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Miguel</forename><surname>Canales</surname></persName>
+							<affiliation key="aff0">
+								<address>
+									<postCode>8 10</postCode>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">María-Dolores</forename><surname>Caballero</surname></persName>
+							<affiliation key="aff0">
+								<address>
+									<postCode>8 10</postCode>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Response-adapted treatment with rituximab, bendamustine, mitoxantrone, and dexamethasone followed by rituximab maintenance in patients with relapsed or refractory follicular lymphoma after first-line immunochemotherapy: Results of the RBMDGELTAMO08 phase II trial</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date type="published" when="2019-11-04">4 November 2019</date>
+						</imprint>
+					</monogr>
+					<idno type="DOI">10.1002/cam4.2555</idno>
+					<note type="submission">Received: 26 April 2019 | Revised: 30 August 2019 | Accepted: 30 August 2019</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.6.1" ident="GROBID" when="2020-10-09T18:38+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<abstract>
+				<p>This is an open access article under the terms of the Creative Commons Attribution License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.</p>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="1">| INTRODUCTION</head><p>Follicular lymphoma (FL) is the most common form of indolent lymphoma and the second most frequent subtype of non-Hodgkin's lymphoma (NHL) diagnosed in the Western hemisphere. <ref type="bibr" target="#b0">1,</ref><ref type="bibr" target="#b1">2</ref> Rituximab plus chemotherapy has significantly improved outcomes in patients with newly diagnosed FL and emerged as the standard of care for frontline therapy. <ref type="bibr" target="#b2">[3]</ref><ref type="bibr" target="#b3">[4]</ref><ref type="bibr" target="#b4">[5]</ref><ref type="bibr" target="#b5">[6]</ref><ref type="bibr" target="#b6">[7]</ref> Rituximab maintenance after induction therapy has significantly improved progression-free survival (PFS) in FL patients. <ref type="bibr" target="#b7">8</ref> Although FL usually responds to first-line immunotherapy or immunochemotherapy, the majority of patients relapse.</p><p>In the absence of consensus regarding optimal salvage therapy, the selection of treatment for relapsed FL poses a daunting challenge. Moreover, there are limited treatment options for patients with refractory FL. Multiple factors influence the choice of salvage treatment, including prior treatment, duration of prior response, age, comorbidities, and therapeutic goals. <ref type="bibr" target="#b1">2</ref> When this trial was designed recommended treatment options included fludarabine-based regimens combined with rituximab <ref type="bibr" target="#b8">9</ref> and R-CHOP (rituximab, cyclophosphamide, doxorubicin, vincristine, and prednisone). <ref type="bibr" target="#b9">10,</ref><ref type="bibr" target="#b10">11</ref> Two phase II trials of bendamustine plus rituximab (BR) as salvage therapy in indolent lymphoma patients reported overall response rates (ORR) in FL subgroups of 93% <ref type="bibr" target="#b11">12</ref> and 96% <ref type="bibr" target="#b12">13</ref> (median PFS, 23 and 24 months, respectively). In a German prospective randomized phase III trial, BR was more effective than fludarabine plus rituximab (FR) in patients with relapsed indolent lymphoma. <ref type="bibr" target="#b13">14</ref> Survival is poor in treatment-refractory FL patients and those with early progression after first-line therapy, <ref type="bibr" target="#b14">[15]</ref><ref type="bibr" target="#b15">[16]</ref><ref type="bibr" target="#b16">[17]</ref> particularly in those previously treated with rituximab. <ref type="bibr" target="#b17">18</ref> A phase II trial of the combination of bendamustine, mitoxantrone, and rituximab found that it was effective (ORR, 92%; median PFS, 19 months) and well-tolerated in patients with relapsed/refractory indolent lymphoma with or without prior rituximab-containing immunochemotherapy. <ref type="bibr" target="#b18">19</ref> While rituximab maintenance has shown beneficial effects in relapsed patients not previously exposed to rituximab in first-line therapy, <ref type="bibr" target="#b9">10</ref> few studies have evaluated rituximab maintenance at the moment of relapse in patients previously exposed to rituximab in first-line therapy, <ref type="bibr" target="#b9">10,</ref><ref type="bibr" target="#b13">14</ref> and available information on the usefulness of second rituximab maintenance therapy is anecdotal. <ref type="bibr" target="#b19">20</ref> Data on the effect of rituximab immunochemotherapy. Sixty patients received three treatment cycles, and depending on their response received an additional one (complete/unconfirmed complete response) or three (partial response) cycles. Patients who responded to induction received rituximab maintenance therapy for 2 years. Results: Thirty-three (55%) and 42 (70%) patients achieved complete/unconfirmed complete response after three cycles and on completing induction therapy (4-6 cycles), respectively (final overall response rate, 88.3%). Median progression-free survival was 56.4 months (median follow-up, 28.3 months; 95% CI, 15.6-51.2). Overall survival was not reached. Progression-free survival did not differ between patients who received four vs six cycles (P = .6665), nor between patients who did/did not receive rituximab maintenance after first-line therapy (P = .5790). Median progression-free survival in the 10 refractory patients was 25.5 months (95% CI, 0.6-N/A) and was longer in patients who had shown progression of disease after 24 months of first-line therapy (median, 56.4 months; 95% CI, 19.8-56.4) than in those who showed early progression (median, 42.31 months; 95% CI, 24.41-NA) (P = .4258).</p><p>Thirty-six (60%) patients had grade 3/4 neutropenia. maintenance after treatment with BR in patients with relapsed/refractory indolent lymphoma are limited to the findings of a phase III trial in which a small subgroup of patients (two thirds of cases were rituximab-naïve) received rituximab maintenance after responding to BR. 14 Obinutuzumab plus bendamustine followed by obinutuzumab maintenance has shown clinically beneficial effects in rituximab-refractory patients with indolent NHL. <ref type="bibr" target="#b17">18</ref> In this phase II trial, we evaluated the efficacy and safety of salvage therapy with RBMD followed by rituximab maintenance in patients with relapsed/refractory FL after first-line rituximab-based immunochemotherapy.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2">| MATERIALS AND METHODS</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.1">| Study design and patient eligibility</head><p>RBMDGELTAMO08 is a multicenter, phase II trial conducted at 27 Spanish centers by GELTAMO (The Spanish Lymphoma Cooperative Group).</p><p>The study population consisted of patients who had relapsed after or were refractory to first-line rituximab-based immunochemotherapy, including those who had received rituximab maintenance after first-line therapy. Patients eligible for inclusion were those aged 18-75 years who had been previously diagnosed (lymph node or tissue biopsy) by a local pathologist and fulfilled the following criteria: FL grade, 1-3a; Eastern Cooperative Oncology Group (ECOG) score, ≤2; Ann Arbor stage, I-IV; Follicular Lymphoma International Prognostic Index (FLIPI), 0-5. Patients to whom any of the following exclusion criteria applied were considered ineligible: previous radiotherapy treatment; relapse after autologous stem cell transplantation; central nervous system involvement; previous or concomitant malignant disease; clinical suspicion or histological confirmation of transformed lymphoma (in the staging bone marrow biopsy performed on each patient or in a new lymph node or tissue biopsy performed prior to inclusion in some patients with clinical suspicion of transformation); previous or active infection with hepatitis B virus, hepatitis C virus, or HIV; other serious immunosuppressive conditions; organ function deficits (liver, kidney, or heart) unrelated to lymphoma.</p><p>Refractory patients were defined as those who were nonresponsive (less than partial response) or showed disease progression after at least three immunochemotherapy cycles, during rituximab maintenance, or within less than 6 months of the last immunochemotherapy cycle or the last dose of rituximab maintenance therapy. Relapse was defined as progressive disease beyond 6 months after the last cycle of first-line immunochemotherapy or the last dose of rituximab maintenance therapy.</p><p>The trial was approved by the Institutional Review Boards and the local ethical committees of each participating center. Patients provided written informed consent before inclusion.</p><p>All procedures were performed according to the principles expressed in the Declaration of Helsinki. This clinical trial is registered at clini caltr ials.gov (NCT01133158).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.2">| Treatment and procedures</head><p>The RBMD regimen was designed based on modifications of two previously described regimens. <ref type="bibr" target="#b18">19,</ref><ref type="bibr" target="#b20">21</ref> Patients received the following treatment every 4 weeks: intravenous infusion of 375 mg/m 2 rituximab on day 1; 90 mg/m 2 bendamustine on days 1 and 2; 6 mg/m 2 mitoxantrone on day 1; and 20 mg oral dexamethasone on days 1-5.</p><p>We used a response-adapted approach to guide treatment intensity at induction. Patients with complete response/unconfirmed complete response (CR/uCR) after three cycles of RBMD received a total of four cycles, whereas those with partial response (PR) received additional three cycles (six cycles in total). Patients with stable disease/progressive disease (SD/PD) after the third or sixth cycle were withdrawn from the trial. Patients who achieved CR/uCR, or PR at the end of induction therapy (after four or six cycles) received rituximab maintenance (375 mg/m 2 ) every 12 weeks for 2 years or until progression or unacceptable toxicity.</p><p>Participants underwent laboratory and clinical assessment before each treatment cycle, which they received only upon fulfilling the following criteria: absolute neutrophil count (ANC) &gt;1.5 × 10 9 /L; platelet count &gt;75 × 10 9 /L; absence of toxic effects of grade 3 or higher. If grade 3/4 cytopenia was detected, the next cycle was delayed by 7-14 days, and bendamustine treatment resumed at a reduced dose of 70 mg/ m 2 for all subsequent cycles. If parameters did not return to baseline levels within 14 days, the cycle was delayed by a further 14 days and bendamustine treatment resumed at a further reduced dose of 50 mg/m 2 for the remaining cycles. If parameters failed to return to baseline levels after the second 14-day delay, the patient was withdrawn from the trial. Reduction of the bendamustine dose to 70 and 50 mg/m 2 was accompanied by a reduction in the mitoxantrone dose to 5 and 4 mg/m 2 , respectively. Treatment was discontinued if toxic effects were observed with the 50 mg/m 2 dose of bendamustine. Rituximab dose reduction was not permitted. Escalation of the bendamustine dose after a dose reduction was not permitted.</p><p>Cycles were delayed for a maximum of 4 weeks in patients with grade 3/4 neutropenia. Longer delays resulted in withdrawal from the trial. Treatment was discontinued in cases of grade &gt;3 nonhematologic adverse events (AEs) and grade 4 infections.</p><p>Patients with a lymphocyte count &lt;1 × 10 9 /L or a previous history of herpes virus infection received prophylaxis with co-trimoxazole and acyclovir. Primary prophylaxis with G-CSF and secondary prophylaxis or treatment in accordance with the American Society of Clinical Oncology Guidelines were permitted. <ref type="bibr" target="#b21">22</ref> </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.3">| Study objectives, response assessment, response criteria, and safety</head><p>The primary endpoint was CR/uCR after induction therapy (4-6 cycles). Secondary endpoints were toxicity, the role of rituximab maintenance to prolong the response and delay the next treatment, OS and PFS.</p><p>Treatment response was assessed every 3 months during induction and maintenance treatment, every 6 months for the following 2 years, and then annually. Tumor assessment included clinical assessment, physical examination, a routine laboratory test, and a CT scan. In patients in whom bone marrow infiltration was detected at staging, bone marrow biopsy was repeated in subsequent efficacy reassessments until confirmation of complete response in responding patients.</p><p>Patients were classified as CR, uCR, PR, SD, or PD according to the criteria of the National Cancer Institute International Working Group. <ref type="bibr" target="#b22">23</ref> PFS was defined as the time from the first dose of treatment to progression or tumor-related death.</p><p>Patients who received at least one treatment cycle were included in the toxicity analysis. AEs were monitored throughout the study and graded according to the National Cancer Institute Common Terminology Criteria for AEs (v3.0). <ref type="bibr" target="#b23">24</ref> </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.4">| Statistical analysis</head><p>Based on previous studies that reported an ORR of 50% after single agent rituximab, we selected a sample size of 60 patients to enable detection of a 20% increase in ORR after treatment with BR with a statistical power &gt;80% (using a two-tailed analysis with significance set at 95%). Patients without at least one response assessment were considered nonresponders.</p><p>Continuous variables are represented as the mean, standard deviation, median, and range, and qualitative variables as absolute and relative frequencies (%) and corresponding 95% confidence interval (95% CI).</p><p>A two-sided 95% exact CI for ORR was calculated using the binomial distribution. The Kaplan-Meier method was used to estimate median OS and PFS. Fisher's exact test was used for comparisons of independent groups. Significance was set at P &lt; .05 for statistical analyses. SAS ® 9.4 was used.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3">| RESULTS</head><p>Sixty-one patients were enrolled and assessed. After exclusion of one screen failure, 60 patients (median age, 62.5 years; range, 32-76) received treatment according to the study protocol ( <ref type="figure">Figure 1</ref>). These 60 patients had FL</p><formula xml:id="formula_0">F I G U R E 1 Patient disposition.</formula><p>Patient disposition during induction therapy with RBMD. *1 patient who showed progressive disease during the first RBMD cycle died. **1 patient died due to grade 5 infection (CMV reactivation in the context of influenza A sepsis). † 8 patients were withdrawn due to toxicity, including five patients withdrawn due to treatment delays &gt;4 wk. CR, complete response; PD, progressive disease; PR, partial response; RBMD, rituximab, bendamustine, mitoxantrone, and dexamethasone; SD, stable disease; uCR, unconfirmed complete response relapsed (n = 50) or refractory (n = 10) to first-line rituximab-containing immunotherapy and 43.3% (n = 26) had received rituximab maintenance after first-line therapy <ref type="table">(Table 1</ref>, baseline characteristics in the intention-to-treat (ITT) analysis). None of the patients had received bendamustine in first-line therapy.</p><p>Early response assessment revealed an ORR of 95% (95% CI, 86.1-99.0): after the third cycle of RBMD, 55% of patients (33/60) achieved CR/uCR (CR-3 group), 40% (24/60) achieved PR, and 5% (3/60) had PD/SD. Per protocol, 24 patients who achieved PR after three cycles received a total of six treatment cycles (CR-6 group). Of these, 10 (41.7%) subsequently achieved CR/uCR and 11 (45.8%) maintained PR. On completion of induction therapy (4-6 cycles), 70% of patients were in CR or uCR and 18.3% in PR, for an ORR of 88.3% (53/60 patients) ( <ref type="table">Table 2)</ref>.</p><p>Seventeen patients (28.3%) were withdrawn from the trial before they could begin rituximab maintenance: seven were in PD/SD; two (both in CR) failed to fulfill the inclusion criteria for starting maintenance therapy; and eight (5 in CR/uCR, 3 in PR) due to toxicity. Forty-three patients (71.7%) began rituximab maintenance: 25 in the CR-3 group and 18 in the CR-6 group (10 in CR/uCR, 8 in PR) ( <ref type="figure">Figure 1</ref>).</p><p>After 2 years of maintenance therapy, 32 patients were in CR/uCR, three in PR, and eight in PD <ref type="table">(Table 2</ref>). In the CR-3 subgroup, 65.6% (21/32) of patients maintained their response at the end of maintenance therapy. In the CR-6 subgroup, two patients in PR achieved CR during maintenance. During the maintenance therapy period, three patients were withdrawn from the trial due to protocol violation/deviations and another three due to toxicity. All six patients left the trial in CR.</p><p>With a median follow-up of 28.3 months (95% CI, 15.6-51.2) after completion of rituximab maintenance, eight patients showed PD. Median PFS was 56.4 months (95% CI, 28.3-56.4), with 2-and 4-year PFS probabilities of 73.4% (95% CI, 57.7-84.0) and 52.9% (95% CI, 36.6-66.7), respectively ( <ref type="figure">Figure 2A</ref>). Median overall survival (OS) was not reached; the 4-year OS probability was 96.4% (95% CI, 86.5-99.1) ( <ref type="figure">Figure 2B</ref>).</p><p>No differences in PFS were observed between the CR-3 subgroup, which showed an early response to RBMD (four cycles), and the group that received six cycles (P = .6665) ( <ref type="figure">Figure 3)</ref>. Similarly, PFS did not differ significantly between patients who did/did not receive rituximab maintenance in first-line therapy (median PFS, 42.3 months [95% CI, 15.6-NR] and 56.4 [95% CI, 25.5-56.4], respectively; P = .5790) <ref type="figure">(Figure 4</ref>). However, PFS was significantly lower in patients refractory to first-line therapy vs relapsed patients (median PFS, 25.5 months [95% CI, 0.6-NR] and 56.4 months [95% CI, 39.0-56.4], respectively; P = .0338). The 2-year and 3-year PFS probabilities in the refractory group were 52.5% (95% CI, 8.4-84.6) and 26.3% (95% CI, 1.1-67.5), respectively ( <ref type="figure">Figure 5</ref>). PFS patients who had shown progression of disease (POD) after 24 months of first-line therapy had longer (median, 56.4 months [95% CI, 19.8-56.4]) than those who showed POD after less than 24 months of first-line therapy (median, 42.31 months [95% CI, 24.41-NA]), although this difference was not statistically significant ( <ref type="figure">Figure 6</ref>).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="4">| SAFET Y</head><p>All 60 patients who received RBMD were included in the safety analysis. A total of 275 cycles of RBMD were administered (median and range per patient: 4, 1-6). The number of chemotherapy cycles per patient was &lt;4 in eight patients (13.3%); four in 27 patients (45%); five in five patients (8.3%); and six in 20 patients (33.3%). The bendamustine dose was reduced in 14 patients, in all cases due to hematological toxicity. Forty-four of the 275 (16%) cycles were delayed, due to hematological toxicity (28 <ref type="bibr">[</ref> treatment cycle delay &gt;4 weeks and three (5%) patients were drawn due to toxicity (severe infusion reaction, severe respiratory infection, and septic shock associated with respiratory infection in the context of influenza A infection after the fifth RBMD cycle, resulting in death in CR). Five (8.3%) patients developed severe infections without neutropenia and one patient (with PD during the first cycle) died. During maintenance therapy, three of 43 (7%) patients were withdrawn from the trial due to toxicity; specifically, a treatment cycle delay &gt;4 weeks for recovery from neutropenia (n = 1); myelodysplastic syndrome (n = 1); and worsening performance status without relapse or infection (n = 1). Granulocyte colony-stimulating factor (G-CSF) was administered to 34 of 60 (56.6%) patients (median, 3 doses; range, 1-6) either as prophylaxis or as treatment during the induction phase, and to nine of 43 (20.9%) patients during rituximab maintenance (median, 1 dose; range, 1-5).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="5">| DISCUSSION</head><p>Our results indicate that RBMD therapy using a responseadapted strategy followed by rituximab maintenance is effective and safe in FL patients relapsed or refractory to first-line immunochemotherapy, including those who previously received rituximab maintenance after first-line therapy.</p><p>Treatment of patients with relapsed or refractory FL, particularly those who have received immunochemotherapy with regimens such as R-CHOP, R-CVP, or R-FCM, is becoming increasingly difficult. RBMD is a new regimen for the treatment of these patients and this trial is the first specifically designed to assess this combination in a homogeneous population of FL patients previously treated with rituximab. We also evaluated the efficacy of rituximab maintenance in patients treated with regimens that included rituximab and bendamustine as salvage therapy.</p><p>The observed response rate (88.3%, including 70% CR and a median PFS of 56.4 months) is very promising, particularly given that less than 50% of patients received more than four cycles. Other regimens based on bendamustine-containing chemotherapy plus rituximab have been previously used to treat relapsed/refractory indolent lymphoma, and have achieved response rates comparable to those of RBMD, albeit mainly in rituximab-naïve patients. A similar schema consisting of rituximab, bendamustine, and mitoxantrone was used to treat relapsed or refractory indolent and mantle cell lymphoma patients. <ref type="bibr" target="#b18">19</ref> That study, which included 29 patients with FL (38% previously treated with rituximab), reported an ORR of 92% (CR 50%) and a median PFS of 17 months. In patients treated with BR, ORR ranged from 93% to 96% and CR rates from 54% to 71%, but the median PFS was 23-24 months (44-100% rituximab-naïve). <ref type="bibr" target="#b11">12,</ref><ref type="bibr" target="#b12">13</ref> The addition of bortezomib <ref type="bibr" target="#b24">25</ref> to BR resulted in an ORR of 88% (CR, 53%) and a median PFS of 14.9 months. In a randomized phase III trial comparing BR with FR in patients with relapsed indolent lymphoma (61% rituximab-naïve), BR was significantly more efficacious (ORR, 82%; CR, 40%; median PFS, 34.2 months) than FR. <ref type="bibr" target="#b13">14</ref> In hard-to-treat rituximab-refractory indolent lymphoma patients, bendamustine as monotherapy at a higher dose (120 mg/m 2 , days 1-2) resulted in an ORR of 77%-80%, although the benefit was short-lived (median PFS, 7-9 months), <ref type="bibr" target="#b25">26,</ref><ref type="bibr" target="#b26">27</ref> and when combined with obinutuzumab <ref type="bibr" target="#b17">18</ref> resulted in higher minimal residual disease-negative rates and improved efficacy and overall survival.</p><p>In recent years, novel therapies (eg, immunomodulatory therapies, PI3K inhibitors, BTK inhibitors, BLC2 inhibitors) in monotherapy or combined with rituximab have been used to treat this population. High response rates have been reported for the immunomodulator lenalidomide and for PI3K inhibitors. The Augment study of 358 patients with relapsed indolent lymphoma (84% FL; median number of previous treatments, 1) reported an ORR of 78%, CR of 34%, and a median PFS of 39.4 months after treatment with lenalidomide plus rituximab, although patients refractory to rituximab or rituximab combinations were excluded. <ref type="bibr" target="#b27">28</ref> Based on the results of phase II studies, three PI3K inhibitors (idelalisib, copanlisib, and duvelisib) are currently available for the treatment of FL that has relapsed or is refractory after two or more previous lines of therapy. <ref type="bibr" target="#b28">[29]</ref><ref type="bibr" target="#b29">[30]</ref><ref type="bibr" target="#b30">[31]</ref> These studies, which included heavily treated FL patients, reported ORR rates of 56%, 59%, and 42%, respectively (with respective CR rates of 14%, 14%, and 1%), and median PFS ranging from 9.5 to 11 months. One of the main concerns with PI3K inhibitors is their potential toxicity, which can cause gastrointestinal, hepatic, and infectious complications. However, their high activity makes them a therapeutic option for high-risk FL (particularly in patients with early progression or treatment failure for whom available strategies are unsatisfactory); in these situations PI3K inhibitors may provide a bridge to transplantation. <ref type="bibr" target="#b31">32</ref> Comparatively poorer response rates have been reported for BTK inhibitors <ref type="bibr" target="#b32">33</ref> and BCL2 inhibitors. <ref type="bibr" target="#b33">34,</ref><ref type="bibr" target="#b34">35</ref> In our study, the median PFS in the 10 patients refractory to first-line rituximab-containing immunochemotherapy was 25.5 months. The PFS obtained with RBMD followed by rituximab maintenance in this subgroup of patients, over half of whom received only four cycles, is similar to that reported for obinutuzumab plus bendamustine followed by obinutuzumab maintenance (25.3 months), <ref type="bibr" target="#b17">18</ref> suggesting that RBMD may be a useful alternative if obinutuzumab is unavailable.</p><p>Two recent studies proposed that POD within 2 years of diagnosis in FL patients treated with first-line immunochemotherapy is a predictor of poor outcome. <ref type="bibr" target="#b14">15,</ref><ref type="bibr" target="#b35">36</ref> Stratification of our patient population according to POD following first-line therapy (before or after 24 months) revealed that the majority (n = 32, including the 10 refractory cases) corresponded to the former subgroup. We observed no significant differences in PFS between subgroups. Nonetheless, for patients who showed POD in less than 24 months the median PFS was 42.31 months, an acceptable response for patients who have a poor prognosis and are not candidates for intensive chemotherapy.</p><p>The EORTC 20891 trial demonstrated that in relapsed and refractory FL patients, rituximab maintenance improves PFS after CHOP and R-CHOP (no patients had been previously treated with rituximab). At 6-year follow-up, the median PFS after induction for patients in CR was 52.8 months in the rituximab maintenance arm, vs 14.4 months in the observation arm. <ref type="bibr" target="#b9">10</ref> However, data on the efficacy of rituximab maintenance in relapsed patients who have responded to BR schedules are scarce. Currently, most patients receive rituximab maintenance after first-line therapy. We hypothesize that after achieving a response with RBMD rescue treatment, the duration of the response can be prolonged with rituximab maintenance. Compared with other studies of bendamustine-containing chemotherapy plus rituximab, in which the majority of patients was not treated with rituximab and did not receive rituximab maintenance therapy, our results show that rituximab maintenance improves PFS after rescue with RBMD, with no significant differences between patients who did/did not receive rituximab maintenance after first-line therapy. The median PFS in this trial, in which all patients had been previously exposed to rituximab, was 56.4 months. This outcome is superior to those reported for bendamustine-containing combinations without rituximab maintenance (median PFS, 17-24 months). <ref type="bibr" target="#b11">12,</ref><ref type="bibr" target="#b12">13,</ref><ref type="bibr" target="#b18">19</ref> A German phase III trial that included a small subgroup of patients who received rituximab maintenance after response to BR reported a median PFS of 72.1 months, although two-thirds of the cases were rituximab-naïve. 14 However, these trials included heterogeneous populations of patients, precluding accurate comparison of study outcomes. In current practice, all relapsed/ refractory FL patients would have been previously exposed to rituximab during induction and/or maintenance therapy. We found no significant differences in PFS between patients who did/did not receive prior rituximab maintenance after first-line therapy. While data on the usefulness of second rituximab maintenance are scarce, <ref type="bibr" target="#b19">20</ref> the median PFS of 42.3 months reported here suggests that second rituximab maintenance is a reasonable strategy in responding patients. In conclusion, our results show that rituximab maintenance improves PFS after rescue with RBMD, with no significant differences between patients who did/did not receive rituximab maintenance after first-line therapy.</p><p>In our study, 55% of patients achieved CR/uCR after only three cycles of RBMD. Furthermore, two patients with PR after six RBMD cycles achieved CR during maintenance with rituximab. After rituximab maintenance, no differences in PFS were observed between the CR-3 and CR-6 subgroups. These results suggest that patients treated with RBMD can achieve CR with fewer cycles and identify a subset of patients who may require less rescue treatment.</p><p>Overall, dose-adapted RBMD was well tolerated, with a safety profile similar to that reported for BR. <ref type="bibr" target="#b36">37</ref> Rituximab maintenance resulted in no unexpected toxicity. The most common toxicity during induction and maintenance was hematological (grade 3/4 neutropenia in 60% of patients), but did not translate into an increase in the number of patients with febrile neutropenia or infections. One patient developed an opportunistic infection due to CMV reactivation in the context of influenza A sepsis, and ultimately died. Fatigue was the most common nonhematological toxicity, which was tolerable. Only four cases of skin rash were recorded, likely due to the inclusion of dexamethasone in the regimen. A previous phase II trial of bendamustine and mitoxantrone plus rituximab in patients with untreated high-risk FL was prematurely closed due to severe hematological and infectious toxicities and second malignancies. <ref type="bibr" target="#b37">38</ref> In our trial, in which all patients had received previous immunochemotherapy, we observed no severe toxicities and only one diagnosis of myelodysplastic syndrome. Our response-adapted strategy, which limited immunochemotherapy to only four cycles in over half of all cases, together with the low dose of mitoxantrone and the early withdrawal of patients with sustained myelotoxicity, likely contributed to favorable tolerability. The use of G-CSF and mandatory anti-infective prophylaxis with co-trimoxazole and acyclovir may also have made this regimen safer. Recent data from a phase III trial have raised concerns about the toxicity profile of bendamustine with rituximab or obinutuzumab followed by anti-CD20 maintenance in first-line treatment of FL. <ref type="bibr" target="#b38">39</ref> However, acceptable toxicity was reported in two recent phase III trials of induction therapy with BR followed by rituximab maintenance. <ref type="bibr" target="#b39">40,</ref><ref type="bibr" target="#b40">41</ref> Additional studies with longer follow-up periods will be required to better characterize the toxicity profile of this drug combination.</p><p>Limitations of our study include the small sample size of the refractory patient subgroup, the lack of a comparator group, and the fact that response evaluation was based on assessments made by local investigators. Moreover, some of the studies with which we have compared our findings included rituximab-naïve patients with indolent and mantle cell lymphoma.</p><p>In summary, in patients with relapsed/refractory FL after first-line immunochemotherapy, RBMD salvage therapy using a response-adapted strategy followed by rituximab maintenance is effective, has an acceptable safety profile, and allows for a reduced induction therapy, thereby improving tolerability without compromising efficacy. This regimen could constitute an alternative salvage regimen for patients treated with other rituximab-containing combinations plus rituximab maintenance in first-line therapy.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head></head><label></label><figDesc>This response-adapted treatment with RBMD followed by rituximab maintenance is an effective and well-tolerated salvage treatment for relapsed/refractory follicular lymphoma following first-line immunochemotherapy.</figDesc><table><row><cell>PEÑALVER Et AL.</cell><cell>| 6957</cell></row><row><cell cols="2">Grade 3/4 febrile neutropenia</cell></row><row><cell cols="2">and infection were recorded during induction (4/60 [6.7%] and 5/60 [8.3%] patients,</cell></row><row><cell cols="2">respectively) and maintenance (2/43 [4.5%] and 4/43 [9.1%] patients, respectively).</cell></row><row><cell>Conclusions: K E Y W O R D S</cell><cell></cell></row><row><cell>bendamustine, follicular lymphoma, immunochemotherapy, refractory, relapsed</cell><cell></cell></row></table><note>Clinical trial registration: ClinicalTrials.gov # NCT01133158.</note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_1"><head>Progression-free survivalMonths after study inclusion</head><label></label><figDesc>Response to RBMD</figDesc><table><row><cell cols="3">PEÑALVER Et AL.</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>| 6961</cell></row><row><cell></cell><cell></cell><cell></cell><cell cols="4">After three cycles</cell><cell></cell><cell></cell><cell></cell><cell cols="9">At end of induction therapy (3-6 cycles)</cell><cell cols="4">To R-maintenance therapy</cell></row><row><cell></cell><cell></cell><cell></cell><cell cols="3">(N = 60)</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell cols="3">(N = 60)</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell cols="2">(N = 43)</cell><cell></cell></row><row><cell></cell><cell></cell><cell></cell><cell>N</cell><cell></cell><cell>%</cell><cell cols="4">95% CI</cell><cell>N</cell><cell></cell><cell>%</cell><cell></cell><cell></cell><cell cols="2">95% CI</cell><cell></cell><cell></cell><cell>N</cell><cell></cell><cell>%</cell><cell>95% CI</cell></row><row><cell cols="3">Complete response a</cell><cell cols="2">33</cell><cell>55</cell><cell cols="4">41.61-67.88</cell><cell>42</cell><cell></cell><cell>70</cell><cell></cell><cell></cell><cell cols="3">56.79-81.85</cell><cell></cell><cell>32</cell><cell></cell><cell cols="2">74.5</cell><cell>58.83-86.48</cell></row><row><cell cols="3">Partial response</cell><cell cols="2">24</cell><cell>40</cell><cell cols="4">27.56-53.46</cell><cell>11</cell><cell></cell><cell cols="2">18.3</cell><cell></cell><cell cols="3">9.52-30.44</cell><cell></cell><cell>3</cell><cell></cell><cell>7</cell><cell>1.46-19.06</cell></row><row><cell cols="3">Overall response</cell><cell cols="2">57</cell><cell>95</cell><cell cols="4">86.08-98.96</cell><cell>53</cell><cell></cell><cell cols="2">88.3</cell><cell></cell><cell cols="3">77.43-95.18</cell><cell></cell><cell>35</cell><cell></cell><cell cols="2">81.5</cell><cell>66.60-91.61</cell></row><row><cell cols="3">Stable disease</cell><cell cols="2">1</cell><cell cols="2">1.7</cell><cell cols="3">0.04-8.94</cell><cell>1</cell><cell></cell><cell cols="2">1.7</cell><cell></cell><cell cols="2">0.04-8.94</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell cols="3">Progressive disease</cell><cell cols="2">2</cell><cell cols="2">3.3</cell><cell cols="3">0.41-11.53</cell><cell>6</cell><cell></cell><cell>10</cell><cell></cell><cell></cell><cell cols="3">4.82-22.57</cell><cell></cell><cell>8</cell><cell></cell><cell cols="2">18.5</cell><cell>8.39-33.40</cell></row><row><cell cols="17">Abbreviations: CI, confidence interval; RBMD, rituximab, bendamustine, mitoxantrone, and dexamethasone.</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell cols="10">T A B L E 1 Baseline patient demographics and clinical</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell cols="4">characteristics at enrollment A</cell><cell cols="5">Progression-free survival</cell><cell></cell><cell></cell><cell></cell><cell cols="2">B</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell cols="2">Overall survival</cell><cell></cell></row><row><cell></cell><cell>1.00</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>1.00</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>N</cell><cell cols="2">%</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell cols="2">Patients 0.75</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>60</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>0.75</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell cols="2">Age (y)</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell cols="2">&lt;60 &gt;60 Probability 0.50</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>26 34</cell><cell cols="2">43 57</cell><cell></cell><cell>Probability</cell><cell>0.50</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Sex</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell cols="2">Female 0.25</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>30</cell><cell cols="2">50</cell><cell></cell><cell></cell><cell>0.25</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell cols="2">Male</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>30</cell><cell cols="2">50</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell cols="2">0.00 B symptoms 0</cell><cell>6</cell><cell>12</cell><cell>18</cell><cell>24</cell><cell>30</cell><cell></cell><cell>36</cell><cell>42</cell><cell>48</cell><cell></cell><cell>54</cell><cell></cell><cell>0.00</cell><cell>0</cell><cell>6</cell><cell>1 2</cell><cell>1 8</cell><cell>2 4</cell><cell>3 0</cell><cell>3 6</cell><cell>4 2</cell><cell>4 8</cell><cell>5 4</cell><cell>6 0</cell></row><row><cell cols="2">Present</cell><cell></cell><cell></cell><cell cols="5">Months after study inclusion</cell><cell>10</cell><cell cols="2">17</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell cols="4">Months after study inclusion</cell></row><row><cell cols="2">Absent</cell><cell cols="2">60 No. of Subjects</cell><cell cols="2">35.0% (21) Event</cell><cell cols="2">65.0% (39) Censored</cell><cell cols="2">50 56.4 (28.3, 56.4) Median (95% CI)</cell><cell cols="2">83</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell cols="3">60 No. of Subjects</cell><cell>3.3% (2) Event</cell><cell cols="2">96.7% (58) Censored</cell><cell>NA (NA, NA) Median (95% CI)</cell></row><row><cell cols="3">Ann Arbor stage</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>I-II</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>19</cell><cell cols="3">31.5</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell cols="2">III-IV</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>41</cell><cell cols="3">68.5</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell cols="2">ECOG-PS</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>0</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>38</cell><cell cols="2">63</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>1 2</cell><cell>1.00</cell><cell></cell><cell cols="2">+ Censored</cell><cell></cell><cell cols="4">21 Patients with CR/uCR 1 after C3</cell><cell cols="2">35 2</cell><cell cols="4">Patients without CR/uCR after C3</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell cols="5">FLIPI (number of risk factors)</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell cols="2">Low (0-1)</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>30</cell><cell cols="2">50</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell cols="3">Intermediate (2) 0.75</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>17</cell><cell cols="2">28</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell cols="3">High (3-5) First-line treatment R-CHOP 0.50 Probability</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>13 43</cell><cell cols="3">22 71.7</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell cols="2">R-CVP</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>12</cell><cell cols="2">20</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell cols="2">R-FC 0.25</cell><cell>Long-Rank</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>5 P = .6665</cell><cell></cell><cell cols="2">8.3</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell cols="8">Rituximab maintenance after first-line therapy Patients with CR/uCR after C3 vs. HR:</cell><cell></cell><cell>26</cell><cell cols="3">43.3</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell></cell><cell></cell><cell cols="4">Patients without CR/uCR after C3</cell><cell></cell><cell></cell><cell></cell><cell>0.8246</cell><cell cols="3">(0.3426, 1.9846)</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell></cell><cell>0.00</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell></cell><cell>0</cell><cell>6</cell><cell>12</cell><cell></cell><cell>18</cell><cell>24</cell><cell></cell><cell cols="2">30</cell><cell>36</cell><cell></cell><cell>42</cell><cell>48</cell><cell></cell><cell>54</cell><cell>60</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell cols="5">F I G U R E 3 Progression-free survival</cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell cols="4">No. of subjects</cell><cell>Event</cell><cell></cell><cell cols="2">Censored</cell><cell cols="4">Median (95% CI)</cell><cell></cell><cell cols="5">in patients with/without complete or</cell></row><row><cell></cell><cell cols="3">Patients with CR/uCR after C3 Patients without CR/uCR after C3</cell><cell></cell><cell></cell><cell>33 27</cell><cell></cell><cell></cell><cell cols="2">30.3% (10) 40.7% (11)</cell><cell cols="2">69.7% (19) 59.3% (16)</cell><cell cols="4">NA (28.3, NA) 56.4 (12.9, 56.4)</cell><cell></cell><cell cols="5">unconfirmed complete response (CR/uCR) after three treatment cycles (CR-3 vs CR-6)</cell></row></table><note>Note: Table shows data for 60 patients included in the intention-to-treat analysis. B symptoms refer to fever, weight loss &gt;10%, and nights sweats. Abbreviations: ECOG-PS, Eastern Cooperative Oncology Group performance status; FLIPI, Follicular International Prognostic Index; R-CHOP, rituximab, cyclophosphamide, doxorubicin, vincristine, and prednisone; R-CVP, rituximab, cyclophosphamide, vincristine, and prednisone; R-FC, rituximab, fludarabine, and cyclophosphamide.T A B L E 2a Complete response includes unconfirmed complete response.F I G U R E 2 Progression-free survival (A) and overall survival (B) in patients who received RBMD plus rituximab maintenance therapy</note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_2"><head></head><label></label><figDesc>Adverse events observed in &gt;2 patients who received at least one cycle of RBMD Adverse events recorded during induction and maintenance therapy in 60 patients who received at least one cycle of RBMD and were included in the toxicity analysis. Abbreviations: RBMD, rituximab, bendamustine, mitoxantrone, and dexamethasone; R-maintenance, rituximab maintenance therapy.</figDesc><table><row><cell cols="3">PEÑALVER Et AL.</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>| 6963</cell></row><row><cell cols="11">F I G U R E 4 Progression-free survival in patients who did/did not receive first-line maintenance therapy 1.00 1.00 + Censored Progression-free survival 1.00 POD before 24 months</cell><cell>+ Censored POD after 24 months</cell><cell>Progression-free survival Patients who did receive first-line maintenance therapy 24 mo of treatment) prior to enrollment in Patients who did not receive first-line maintenance therapy F I G U R E 6 Progression-free survival first-line immunochemotherapy (before/after according to progression of disease after</cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>the trial</cell></row><row><cell></cell><cell>0.75 0.75</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>0.75</cell><cell></cell><cell></cell><cell></cell></row><row><cell>Probability</cell><cell>0.50 0.50</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>Probability</cell><cell>0.50</cell><cell></cell><cell></cell><cell></cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>0.25</cell><cell></cell><cell></cell><cell></cell></row><row><cell></cell><cell>0.25 0.25</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell cols="3">Long-Rank</cell><cell>P = .5790</cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>HR:</cell><cell cols="2">Patients who did receive first-line maintenance therapy vs</cell></row><row><cell></cell><cell>0.00 0.00</cell><cell cols="4">HR: POD after 24 months vs POD before 24 months Log-Rank</cell><cell cols="6">Patients who did not receive first-line maintenance therapy 6 1 2 1 8 4 (0.2844, 1.7051) 0 0.00 P = .4258 0.6964</cell><cell>3 0 1.2812</cell><cell>3 6 (0.5327, 3.0814) 4 2</cell><cell>4 8</cell><cell>5 4</cell></row><row><cell></cell><cell>0 0</cell><cell>6 6</cell><cell>12 12</cell><cell>18 18</cell><cell>24 24</cell><cell>30 30</cell><cell></cell><cell cols="2">36 36</cell><cell></cell><cell>42 42</cell><cell>48 48</cell><cell>54 54</cell><cell>Months after study inclusion 60 60</cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell cols="7">Months after study inclusion</cell><cell>No. of subjects</cell><cell>Event</cell><cell>Censored</cell><cell>Median (95% CI)</cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell cols="2">No. of subjects</cell><cell>Event</cell><cell cols="5">Patients who did receive first-line maintenance therapy Median (CI 95%) Censored</cell><cell>26</cell><cell>38.5% (10)</cell><cell>61.5% (16)</cell><cell>42.3 (15.6, NA)</cell></row><row><cell></cell><cell></cell><cell cols="2">POD before 24 months</cell><cell>32</cell><cell cols="7">Patients who did not receive first-line maintenance therapy 42.3 (24.4, NA) 62.5% (20) 37.5% (12)</cell><cell>34</cell><cell>32.4% (11)</cell><cell>67.6% (23)</cell><cell>56.4 (25.5, 56.4)</cell></row><row><cell></cell><cell></cell><cell cols="2">POD after 24 months</cell><cell>28</cell><cell></cell><cell cols="2">32.1% (9)</cell><cell cols="3">67.9% (19)</cell><cell>56.4 (19.8, 56.4)</cell></row><row><cell cols="6">F I G U R E 5 Progression-free survival (relapsed vs refractory) T A B L E 3 Grades 1-2</cell><cell></cell><cell>1.00</cell><cell></cell><cell></cell><cell></cell><cell>+</cell><cell>C</cell><cell>Progression-free survival Relapsed e f R d e r o s n e Grades 3-4</cell><cell>c a r</cell><cell>y r o t</cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell cols="2">RBMD (%)</cell><cell></cell><cell></cell><cell></cell><cell cols="3">R-maintenance (%)</cell><cell>RBMD (%)</cell><cell>R-maintenance (%)</cell></row><row><cell cols="3">Hematological</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell cols="3">Lymphopenia</cell><cell></cell><cell cols="2">12 (20)</cell><cell></cell><cell>0.75</cell><cell></cell><cell></cell><cell cols="2">25 (56.82)</cell><cell>42 (70)</cell><cell>11 (25)</cell></row><row><cell cols="3">Neutropenia Anemia Thrombocytopenia</cell><cell></cell><cell cols="2">11 (18.3) 38 (63.3) 34 (56.7)</cell><cell>Probability</cell><cell>0.50</cell><cell></cell><cell></cell><cell cols="2">14 (31.8) 17 (38.6) 14 (31.8)</cell><cell>36 (60) 1 (1.7) 2 (3.3)</cell><cell>12 (27.3) 1 (2.3) 1 (2.3)</cell></row><row><cell cols="3">Nonhematological</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell cols="2">Fatigue</cell><cell></cell><cell></cell><cell cols="2">13 (21.7)</cell><cell></cell><cell>0.25</cell><cell></cell><cell></cell><cell></cell><cell>2 (4.5)</cell><cell>1 (1.7)</cell></row><row><cell cols="3">Infections</cell><cell></cell><cell cols="2">11 (18.3)</cell><cell></cell><cell></cell><cell></cell><cell cols="3">Long-Rank 13 (27.5)</cell><cell>P = .0338</cell><cell>5 (8.3) a</cell><cell>4 (9.1)</cell></row><row><cell cols="4">Fever (nonneutropenic) Vomiting</cell><cell></cell><cell>9 (15) 8 (13.3)</cell><cell></cell><cell>0.00</cell><cell>0</cell><cell cols="3">HR refractory vs relapsed 2 (4.5) 6 1 2</cell><cell>3.1461 1 8</cell><cell>(1.0316, 9.5949) 2 (3.3) 2 4 3 0</cell><cell>3 6</cell><cell>4 2</cell><cell>4 8</cell><cell>5 4</cell></row><row><cell cols="3">Infusion reactions</cell><cell></cell><cell></cell><cell>6 (10)</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>Months since study inclusion 2 (3.3)</cell></row><row><cell cols="3">Constipation</cell><cell></cell><cell></cell><cell>5 (8.3)</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>No. of subjects</cell><cell>Event</cell><cell>Censored</cell><cell>Median (95% CI)</cell></row><row><cell cols="2">Pain</cell><cell></cell><cell></cell><cell></cell><cell>5 (8.3)</cell><cell></cell><cell></cell><cell></cell><cell cols="3">Relapsed Refractory 4 (9.1)</cell><cell>50 10</cell><cell>34.0% (17) 40.0% (4)</cell><cell>66.0% (33) 60.0% (6)</cell><cell>56.4 (39.0, 56.4) 25.5 (0.6, NA)</cell></row><row><cell cols="2">Diarrhea</cell><cell></cell><cell></cell><cell></cell><cell>4 (6.7)</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>1 (1.7)</cell></row><row><cell cols="2">Nausea</cell><cell></cell><cell></cell><cell></cell><cell>3 (5)</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell cols="2">Rash</cell><cell></cell><cell></cell><cell></cell><cell>3 (5)</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>1 (2.3)</cell></row><row><cell cols="3">Febrile neutropenia</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>Rituximab maintenance therapy was administered to 43 4 (6.7) 2 (4.5)</cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>patients (total number of doses: 286; median and range per</cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>patient: 8, 1-10). Twenty-six (60.5%) patients received the</cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>eight scheduled doses of rituximab. Rituximab maintenance</cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>was delayed in 10 of 43 (23.3%) patients due to hematologi-</cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>cal toxicity (9.3%), nonhematological toxicity (2.3%), or non-</cell></row><row><cell cols="12">3/4 toxicity was hematological (Table 3), including lympho-</cell><cell>rituximab-related toxicity (11.6%). observed in only 6.7% (4/60) of patients during induction</cell></row><row><cell cols="12">penia (70%) and neutropenia (60%). The most frequent se-</cell><cell>At least one grade 3/4 AE was observed in 53 of 60 (88.3%) with RBMD and 4.5% (2/43) during rituximab maintenance.</cell></row><row><cell cols="12">vere toxicities during maintenance therapy were neutropenia</cell><cell>patients during the induction phase and 24 of 43 (55.8%) pa-During induction and before maintenance therapy, five</cell></row><row><cell cols="12">(27.3%) and lymphopenia (25%). Febrile neutropenia was</cell><cell>tients during the maintenance phase. The most common grade (8.3%) patients were withdrawn from the trial due to a</cell></row></table><note>10.2%] cycles); nonhematological toxicity (3 [1.1%] cycles); hematological and nonhematological toxicity (3 [1.1%] cycles); or other reasons (10 [3.6%] cycles).Note:a One patient had grade 5 infection and died from septic shock due to influenza A infection.</note></figure>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>ACKNOWLEDGMENTS</head><p>We thank the patients and their families who participated in this study as well as the other members of GELTAMO working at participating centers, without whom this study would not have been possible: José Luis Bello López (HU de Santiago de Compostela), Félix Carbonell (HGU de Valencia), Secundino Ferrer Bordás (HU Doctor Peset, Valencia), Patricia Font López (HU Gregorio Marañón, Madrid), Ernesto Pérez Persona (Hospital Txagorritxu, Vitoria-Gasteiz), Armando López Guillermo (Hospital Clínic de Barcelona), Roberto Hernández Martín (Hospital Virgen de la Concha, Zamora), José Ramón Mayans (HU Arnau de Vilanova, Lleida), Luis Palomera (HCU Lozano Blesa, Zaragoza), Elena Pérez Ceballos (HGU Morales Meseguer, Murcia), José Antonio Queizán Hernández (Hospital General de Segovia), Rosalía Riaza Grau (HU Severo Ochoa, Leganés), Fátima de la Cruz (HU Virgen del Rocío, Sevilla), and Andrés Sánchez Salinas (HCU Virgen de la Arrixaca, Murcia). Thanks also to Adelaida Velasco and Owen Howard for editorial assistance, and Ana Drozdowskyj for assistance with the statistical analyses. Finally, thanks to Yago Parga for his continued support of this project.</p></div>
+			</div>
+
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>CONFLICT OF INTEREST</head><p>The authors declare no potential conflict of interest.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>AUTHOR CONTRIBUTIONS</head><p>Francisco-Javier Peñalver: Study concept, study design, enrollment of patients, data collection, data analysis, study oversight, manuscript writing, and approval of final manuscript. José-Antonio Márquez, Soledad Durán, Pilar Giraldo, Alejandro Martín, Carlos Montalbán, María-José Ramírez, María-José Terol, Francisco-Javier Capote, Antonio Gutiérrez, and Blanca Sánchez: Enrollment of patients, data collection and analysis, and approval of final manuscript. Juan-Manuel Sancho, Andrés López and Antonio Salar: Enrollment of patients, data collection, data analysis, manuscript writing, and approval of final manuscript. Gil Rodríguez-Caravaca: data analysis, study oversight, and approval of final manuscript. Miguel Canales: Study design, enrollment of patients, data collection, data analysis, and approval of final manuscript, María-Dolores Caballero: Study design, study oversight, funding, and approval of final manuscript.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>ORCID</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Antonio Gutiérrez</head><p>https://orcid.org/0000-0001-9062-077X</p><p>Antonio Salar https://orcid.org/0000-0002-4652-4825</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>DATA AVAILABILITY STATEMENT</head><p>The data that support the findings of this study are available on request from the corresponding author. The data are not publicly available due to privacy or ethical restrictions.</p></div>			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">How we manage follicular lymphoma</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">W</forename><surname>Hiddemann</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">B</forename><forename type="middle">D</forename><surname>Cheson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Leukemia</title>
+		<imprint>
+			<biblScope unit="volume">28</biblScope>
+			<biblScope unit="issue">7</biblScope>
+			<biblScope unit="page" from="1388" to="1395" />
+			<date type="published" when="2014" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Follicular lymphoma: evolving therapeutic strategies</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">B</forename><forename type="middle">S</forename><surname>Kahl</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><forename type="middle">T</forename><surname>Yang</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Blood</title>
+		<imprint>
+			<biblScope unit="volume">127</biblScope>
+			<biblScope unit="issue">17</biblScope>
+			<biblScope unit="page" from="2055" to="2063" />
+			<date type="published" when="2016" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Frontline therapy with rituximab added to the combination of cyclophosphamide, doxorubicin, vincristine, and prednisone (CHOP) significantly improves the outcome for patients with advanced-stage follicular lymphoma compared with therapy with CHOP alone: results of a prospective randomized study of the German Low-Grade Lymphoma Study Group</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">W</forename><surname>Hiddemann</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Kneba</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Dreyling</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Blood</title>
+		<imprint>
+			<biblScope unit="volume">106</biblScope>
+			<biblScope unit="issue">12</biblScope>
+			<biblScope unit="page" from="3725" to="3732" />
+			<date type="published" when="2005" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Phase III study of R-CVP compared with cyclophosphamide, vincristine, and prednisone alone in patients with previously untreated advanced follicular lymphoma</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><surname>Marcus</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><surname>Imrie</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><surname>Solal-Celigny</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Clin Oncol</title>
+		<imprint>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="issue">28</biblScope>
+			<biblScope unit="page" from="4579" to="4586" />
+			<date type="published" when="2008" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Rituximab added to first-line mitoxantrone, chlorambucil, and prednisolone chemotherapy followed by interferon maintenance prolongs survival in patients with advanced follicular lymphoma: an East German Study Group Hematology and Oncology Study</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Herold</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Haas</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Srock</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Clin Oncol</title>
+		<imprint>
+			<biblScope unit="volume">25</biblScope>
+			<biblScope unit="issue">15</biblScope>
+			<biblScope unit="page" from="1986" to="1992" />
+			<date type="published" when="2007" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Rituximab combined with chemotherapy and interferon in follicular lymphoma patients: results of the GELA-GOELAMS FL2000 study</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">G</forename><surname>Salles</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">N</forename><surname>Mounier</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>De Guibert</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Blood</title>
+		<imprint>
+			<biblScope unit="volume">112</biblScope>
+			<biblScope unit="issue">13</biblScope>
+			<biblScope unit="page" from="4824" to="4831" />
+			<date type="published" when="2008" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Long-term results of the FOLL05 trial comparing R-CVP versus R-CHOP versus R-FM for the initial treatment of patients with advanced-stage symptomatic follicular lymphoma</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Luminari</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Ferrari</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Manni</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Clin Oncol</title>
+		<imprint>
+			<biblScope unit="volume">36</biblScope>
+			<biblScope unit="issue">7</biblScope>
+			<biblScope unit="page" from="689" to="696" />
+			<date type="published" when="2018" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Long term follow-up of the PRIMA study: half of patients receiving rituximab maintenance remain progression free at 10 years</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">G</forename><surname>Salles</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">F</forename><surname>Seymour</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><surname>Feugier</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Blood</title>
+		<imprint>
+			<biblScope unit="volume">130</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page">486</biblScope>
+			<date type="published" when="2017" />
+		</imprint>
+	</monogr>
+	<note>Suppl</note>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">The addition of rituximab to a combination of fludarabine, cyclophosphamide, mitoxantrone (FCM) significantly increases the response rate and prolongs survival as compared with FCM alone in patients with relapsed and refractory follicular and mantle cell</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><surname>Forstpointner</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Dreyling</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><surname>Repp</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Blood</title>
+		<imprint>
+			<biblScope unit="volume">104</biblScope>
+			<biblScope unit="issue">10</biblScope>
+			<biblScope unit="page" from="3064" to="3071" />
+			<date type="published" when="2004" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Rituximab maintenance treatment of relapsed/resistant follicular non-Hodgkin&apos;s lymphoma: long-term outcome of the EORTC 20981 phase III randomized intergroup study</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Van Oers</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Van Glabbeke</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">L</forename><surname>Giurgea</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Clin Oncol</title>
+		<imprint>
+			<biblScope unit="volume">28</biblScope>
+			<biblScope unit="issue">17</biblScope>
+			<biblScope unit="page" from="2853" to="2858" />
+			<date type="published" when="2010" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Clinical practice guidelines for first-line/after-relapse treatment of patients with follicular lymphoma</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>López-Guillermo</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><surname>Caballero</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Canales</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Provencio</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Rueda</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Salar</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Leuk Lymphoma</title>
+		<imprint>
+			<biblScope unit="volume">52</biblScope>
+			<biblScope unit="issue">sup3</biblScope>
+			<biblScope unit="page" from="1" to="14" />
+			<date type="published" when="2011" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Phase II multicenter study of bendamustine plus rituximab in patients with relapsed indolent B-cell and mantle cell non-Hodgkin&apos;s lymphoma</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><forename type="middle">S</forename><surname>Robinson</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">E</forename><surname>Williams</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><forename type="middle">H</forename><surname>Van Der Jagt</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Clin Oncol</title>
+		<imprint>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="issue">27</biblScope>
+			<biblScope unit="page" from="4473" to="4479" />
+			<date type="published" when="2008" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Bendamustine plus rituximab is effective and has a favorable toxicity profile in the treatment of mantle cell and low-grade non-Hodgkin&apos;s lymphoma</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">J</forename><surname>Rummel</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><forename type="middle">E</forename><surname>Al-Batran</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S-Z</forename><surname>Kim</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Clin Oncol</title>
+		<imprint>
+			<biblScope unit="volume">23</biblScope>
+			<biblScope unit="issue">15</biblScope>
+			<biblScope unit="page" from="3383" to="3389" />
+			<date type="published" when="2005" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Bendamustine plus rituximab versus fludarabine plus rituximab for patients with relapsed indolent and mantle-cell lymphomas: a multicentre, randomised, openlabel, non-inferiority phase 3 trial</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Rummel</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">U</forename><surname>Kaiser</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><surname>Balser</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Lancet Oncol</title>
+		<imprint>
+			<biblScope unit="volume">17</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="57" to="66" />
+			<date type="published" when="2016" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">Early relapse of follicular lymphoma after rituximab plus cyclophosphamide, doxorubicin, vincristine, and prednisone defines patients at high risk for death: an analysis from the National LymphoCare Study</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><surname>Casulo</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Byrtek</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><forename type="middle">L</forename><surname>Dawson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Clin Oncol</title>
+		<imprint>
+			<biblScope unit="volume">33</biblScope>
+			<biblScope unit="issue">23</biblScope>
+			<biblScope unit="page" from="2516" to="2522" />
+			<date type="published" when="2015" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Chemoimmunotherapy resistant follicular lymphoma: predictors of resistance, association with transformation and prognosis</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">L</forename><surname>Mozessohn</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">C</forename><surname>Cheung</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Crump</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Leuk Lymphoma</title>
+		<imprint>
+			<biblScope unit="volume">55</biblScope>
+			<biblScope unit="issue">11</biblScope>
+			<biblScope unit="page" from="2502" to="2507" />
+			<date type="published" when="2014" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Prevalence, predictive factors therapy and outcome of patients with follicular lymphoma refractory to first line immunochemotherapy</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Sorigue</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J-M</forename><surname>Sancho</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Mercadal</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Blood</title>
+		<imprint>
+			<biblScope unit="volume">126</biblScope>
+			<biblScope unit="issue">23</biblScope>
+			<biblScope unit="page">1510</biblScope>
+			<date type="published" when="2015" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Obinutuzumab plus bendamustine versus bendamustine monotherapy in patients with rituximab-refractory indolent non-Hodgkin lymphoma (GADOLIN): a randomised, controlled, open-label, multicentre, phase 3 trial</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">L</forename><forename type="middle">H</forename><surname>Sehn</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">N</forename><surname>Chua</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Mayer</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Lancet Oncol</title>
+		<imprint>
+			<biblScope unit="volume">17</biblScope>
+			<biblScope unit="issue">8</biblScope>
+			<biblScope unit="page" from="1081" to="1093" />
+			<date type="published" when="2016" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">High anti-lymphoma activity of bendamustine/mitoxantrone/rituximab in rituximab pretreated relapsed or refractory indolent lymphomas and mantle cell lymphomas. A multicenter phase II study of the German Low Grade Lymphoma Study Group (GLSG)</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><surname>Weide</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">G</forename><surname>Hess</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><surname>Köppler</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Leuk Lymphoma</title>
+		<imprint>
+			<biblScope unit="volume">48</biblScope>
+			<biblScope unit="issue">7</biblScope>
+			<biblScope unit="page" from="1299" to="1306" />
+			<date type="published" when="2007" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">Usefulness of second rituximab maintenance after relapse in patients with follicular and mantle cell lymphoma</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">B</forename><surname>Sanchez-Gonzalez</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><surname>Gimeno</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">F</forename><surname>Garcia-Pallarols</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Ancochea</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Salar</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Leuk Lymphoma</title>
+		<imprint>
+			<biblScope unit="volume">55</biblScope>
+			<biblScope unit="issue">10</biblScope>
+			<biblScope unit="page" from="2384" to="2386" />
+			<date type="published" when="2014" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">Fludarabine, mitoxantrone, and dexamethasone: an effective new regimen for indolent lymphoma</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><surname>Mclaughlin</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">F</forename><forename type="middle">B</forename><surname>Hagemeister</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">E</forename><surname>Romaguera</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Clin Oncol</title>
+		<imprint>
+			<biblScope unit="volume">14</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="1262" to="1268" />
+			<date type="published" when="1996" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">of Clinical Oncology Clinical Practice Guideline Update</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><forename type="middle">J</forename><surname>Smith</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><surname>Bohlke</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">G</forename><forename type="middle">H</forename><surname>Lyman</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Clin Oncol</title>
+		<imprint>
+			<biblScope unit="volume">33</biblScope>
+			<biblScope unit="issue">28</biblScope>
+			<biblScope unit="page" from="3199" to="3212" />
+			<date type="published" when="2015" />
+			<publisher>American Society</publisher>
+		</imprint>
+	</monogr>
+	<note>Recommendations for the use of WBC growth factors</note>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">Report of an international workshop to standardize response criteria for non-Hodgkin&apos;s lymphomas</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">B</forename><forename type="middle">D</forename><surname>Cheson</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><forename type="middle">J</forename><surname>Horning</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">B</forename><surname>Coiffier</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Clin Oncol</title>
+		<imprint>
+			<biblScope unit="volume">17</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="1244" to="1253" />
+			<date type="published" when="1999" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<monogr>
+		<title level="m" type="main">Common terminology criteria for adverse events v3.0 (CTCAE)</title>
+		<ptr target="https://ctep.cancer.gov/protocolDevelopment/electronic_applications/docs/ctcaev3.pdf" />
+		<imprint>
+			<date type="published" when="2006-06-13" />
+		</imprint>
+	</monogr>
+	<note>Cancer Therapy Evaluation Program. Published</note>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title level="a" type="main">Bortezomib, bendamustine, and rituximab in patients with relapsed or refractory follicular lymphoma: The phase II vertical study</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">N</forename><surname>Fowler</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">B</forename><forename type="middle">S</forename><surname>Kahl</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><surname>Lee</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Clin Oncol</title>
+		<imprint>
+			<biblScope unit="volume">29</biblScope>
+			<biblScope unit="issue">25</biblScope>
+			<biblScope unit="page" from="3389" to="3395" />
+			<date type="published" when="2011" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title level="a" type="main">Bendamustine in patients with rituximab-refractory indolent and transformed non-Hodgkin&apos;s lymphoma: results from a phase II multicenter, single-agent study</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">W</forename><surname>Friedberg</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><surname>Cohen</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">L</forename><surname>Chen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Clin Oncol</title>
+		<imprint>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="204" to="210" />
+			<date type="published" when="2008" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title level="a" type="main">Bendamustine is effective therapy in patients with rituximab-refractory, indolent B-cell non-Hodgkin lymphoma: results from a multicenter study</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">B</forename><forename type="middle">S</forename><surname>Kahl</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">N</forename><forename type="middle">L</forename><surname>Bartlett</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">P</forename><surname>Leonard</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Cancer</title>
+		<imprint>
+			<biblScope unit="volume">116</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="106" to="114" />
+			<date type="published" when="2010" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+		<title level="a" type="main">AUGMENT: a phase III study of lenalidomide plus rituximab versus placebo plus rituximab in relapsed or refractory indolent lymphoma</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">P</forename><surname>Leonard</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Trneny</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><surname>Izutsu</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Clin Oncol</title>
+		<imprint>
+			<biblScope unit="volume">37</biblScope>
+			<biblScope unit="issue">14</biblScope>
+			<biblScope unit="page" from="1188" to="1199" />
+			<date type="published" when="2019" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<analytic>
+		<title level="a" type="main">Efficacy and safety of idelalisib in patients with relapsed, rituximab-and alkylating agentrefractory follicular lymphoma: a subgroup analysis of a phase 2 study</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">G</forename><surname>Salles</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><forename type="middle">J</forename><surname>Schuster</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>De Vos</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Haematologica</title>
+		<imprint>
+			<biblScope unit="volume">102</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="156" to="159" />
+			<date type="published" when="2017" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<analytic>
+		<title level="a" type="main">Phosphatidylinositol 3-kinase inhibition by copanlisib in relapsed or refractory indolent lymphoma</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Dreyling</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Santoro</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">L</forename><surname>Mollica</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Clin Oncol</title>
+		<imprint>
+			<biblScope unit="volume">35</biblScope>
+			<biblScope unit="issue">35</biblScope>
+			<biblScope unit="page" from="3898" to="3905" />
+			<date type="published" when="2017" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<analytic>
+		<title level="a" type="main">DYNAMO: a phase II study of duvelisib (IPI-145) in patients with refractory indolent non-Hodgkin lymphoma</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">I</forename><forename type="middle">W</forename><surname>Flinn</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><forename type="middle">B</forename><surname>Miller</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><forename type="middle">M</forename><surname>Ardeshna</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Clin Oncol</title>
+		<imprint>
+			<biblScope unit="volume">37</biblScope>
+			<biblScope unit="issue">11</biblScope>
+			<biblScope unit="page" from="912" to="922" />
+			<date type="published" when="2019" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<analytic>
+		<title level="a" type="main">Recent landmark studies in follicular lymphoma</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Sorigue</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J-M</forename><surname>Sancho</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Blood Rev</title>
+		<imprint>
+			<biblScope unit="volume">35</biblScope>
+			<biblScope unit="page" from="68" to="80" />
+			<date type="published" when="2019" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<analytic>
+		<title level="a" type="main">Long-term follow-up and analysis of dose groups with ibrutinib in relapsed follicular lymphoma</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">N</forename><surname>Fowler</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><forename type="middle">E</forename><surname>Boyd</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">P</forename><surname>Sharman</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Blood</title>
+		<imprint>
+			<biblScope unit="volume">126</biblScope>
+			<biblScope unit="issue">23</biblScope>
+			<biblScope unit="page">2706</biblScope>
+			<date type="published" when="2015" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<analytic>
+		<title level="a" type="main">A phase 1 study of venetoclax (ABT-199 / GDC-0199) monotherapy in patients with relapsed/ refractory non-Hodgkin lymphoma</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">F</forename><surname>Gerecitano</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><forename type="middle">W</forename><surname>Roberts</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">F</forename><surname>Seymour</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Blood</title>
+		<imprint>
+			<biblScope unit="volume">126</biblScope>
+			<biblScope unit="issue">23</biblScope>
+			<biblScope unit="page">254</biblScope>
+			<date type="published" when="2015" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<analytic>
+		<title level="a" type="main">A dose-escalation study of venetoclax (ABT-199/GDC-0199) in combination with bendamustine and rituximab in patients with relapsed or refractory non-Hodgkin&apos;s lymphoma</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>De Vos</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">L</forename><surname>Swinnen</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Kozloff</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Blood</title>
+		<imprint>
+			<biblScope unit="volume">126</biblScope>
+			<biblScope unit="issue">23</biblScope>
+			<biblScope unit="page">255</biblScope>
+			<date type="published" when="2015" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b35">
+	<analytic>
+		<title level="a" type="main">Improvements in observed and relative survival in follicular grade 1-2 lymphoma during 4 decades: the Stanford University experience</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><surname>Tan</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><forename type="middle">J</forename><surname>Horning</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><forename type="middle">T</forename><surname>Hoppe</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Blood</title>
+		<imprint>
+			<biblScope unit="volume">122</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page" from="981" to="987" />
+			<date type="published" when="2013" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b36">
+	<analytic>
+		<title level="a" type="main">Recommendations on the clinical use of bendamustine in lymphoproliferative syndromes and multiple myeloma</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">F</forename><forename type="middle">J</forename><surname>Peñalver</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Delgado</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Loscertales</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Eur J Haematol</title>
+		<imprint>
+			<biblScope unit="volume">96</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page" from="532" to="540" />
+			<date type="published" when="2016" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b37">
+	<analytic>
+		<title level="a" type="main">Premature closure of a phase II study of bendamustine, mitoxantrone and rituximab for patients with untreated high-risk follicular lymphoma due to severe haematological and infectious toxicity</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><forename type="middle">Y</forename><surname>Cheah</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">L</forename><forename type="middle">J</forename><surname>Nastoupil</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><surname>Mclaughlin</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Br J Haematol</title>
+		<imprint>
+			<biblScope unit="volume">175</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="531" to="533" />
+			<date type="published" when="2016" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b38">
+	<analytic>
+		<title level="a" type="main">Obinutuzumab for the first-line treatment of follicular lymphoma</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><surname>Marcus</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Davies</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><surname>Ando</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">N Engl J Med</title>
+		<imprint>
+			<biblScope unit="volume">377</biblScope>
+			<biblScope unit="issue">14</biblScope>
+			<biblScope unit="page" from="1331" to="1344" />
+			<date type="published" when="2017" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b39">
+	<analytic>
+		<title level="a" type="main">Four versus two years of rituximab maintenance (R-maintenance) following bendamustine plus rituximab (B-R): initial results of a prospective, randomized multicenter phase 3 study in first-line follicular lymphoma (the StiL NHL7-2008 MAINTAIN study)</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">J</forename><surname>Rummel</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><surname>Buske</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">B</forename><surname>Hertenstein</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Blood</title>
+		<imprint>
+			<biblScope unit="volume">130</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page">483</biblScope>
+			<date type="published" when="2017" />
+		</imprint>
+	</monogr>
+	<note>Suppl</note>
+</biblStruct>
+
+<biblStruct xml:id="b40">
+	<analytic>
+		<title level="a" type="main">Assessment of maintenance rituximab after first-line bendamustine-rituximab in patients with follicular lymphoma: an analysis from the BRIGHT trial</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">B</forename><forename type="middle">S</forename><surname>Kahl</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">M</forename><surname>Burke</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><surname>Van Der Jagt</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Blood</title>
+		<imprint>
+			<biblScope unit="volume">130</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page">484</biblScope>
+			<date type="published" when="2017" />
+		</imprint>
+	</monogr>
+	<note>Suppl</note>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

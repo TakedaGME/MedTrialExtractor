@@ -1,0 +1,1169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /data/rsg/nlp/juanmoo1/bin/grobid-0.6.1/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Thalidomide and dexamethasone vs. bortezomib and dexamethasone for melphalan refractory myeloma: a randomized study</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author role="corresp">
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Martin</forename><surname>Hjorth</surname></persName>
+							<email>martin.hjorth@vgregion.se</email>
+							<affiliation key="aff1">
+								<orgName type="department">Department of Medicine, Lidkö ping Hospital</orgName>
+								<address>
+									<addrLine>Lidkö ping</addrLine>
+									<country key="SE">Sweden</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Øyvind</forename><surname>Hjertner</surname></persName>
+							<affiliation key="aff2">
+								<orgName type="department" key="dep1">Department of Hematology</orgName>
+								<orgName type="department" key="dep2">Department of Cancer Research and Molecular Medicine</orgName>
+								<orgName type="institution" key="instit1">St Olavs University Hospital</orgName>
+								<orgName type="institution" key="instit2">Norwegian University of Science and Technology</orgName>
+								<address>
+									<settlement>Trondheim</settlement>
+									<country key="NO">Norway</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Lene</forename><forename type="middle">Meldgaard</forename><surname>Knudsen</surname></persName>
+							<affiliation key="aff3">
+								<orgName type="department">Department of Hematology</orgName>
+								<orgName type="institution">Odense University Hospital</orgName>
+								<address>
+									<settlement>Odense</settlement>
+									<country key="DK">Denmark</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Nina</forename><surname>Gulbrandsen</surname></persName>
+							<affiliation key="aff4">
+								<orgName type="department">Department of Hematology and Faculty Division</orgName>
+								<orgName type="institution">Ullevå l University Hospital</orgName>
+								<address>
+									<settlement>Oslo</settlement>
+									<country key="NO">Norway</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Erik</forename><surname>Holmberg</surname></persName>
+							<affiliation key="aff5">
+								<orgName type="department" key="dep1">Department of Oncology</orgName>
+								<orgName type="department" key="dep2">Institute of Clinical Sciences</orgName>
+								<orgName type="institution">Sahlgrenska Academy at University of Gothenburg</orgName>
+								<address>
+									<settlement>Gothenburg</settlement>
+									<country key="SE">Sweden</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><roleName>Per</roleName><forename type="first">Trøllund</forename><surname>Pedersen</surname></persName>
+							<affiliation key="aff3">
+								<orgName type="department">Department of Hematology</orgName>
+								<orgName type="institution">Odense University Hospital</orgName>
+								<address>
+									<settlement>Odense</settlement>
+									<country key="DK">Denmark</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff6">
+								<orgName type="department">Department of Hematology, Esbjerg Hospital</orgName>
+								<address>
+									<settlement>Esbjerg</settlement>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Niels</forename><surname>Frost Andersen</surname></persName>
+							<affiliation key="aff7">
+								<orgName type="department">Department of Hematology</orgName>
+								<orgName type="institution">Aarhus University Hospital</orgName>
+								<address>
+									<settlement>Aarhus</settlement>
+									<country key="DK">Denmark</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Bjö</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">André</forename><surname>Asson</surname></persName>
+							<affiliation key="aff8">
+								<orgName type="department" key="dep1">Hematology Section</orgName>
+								<orgName type="department" key="dep2">Department of Medicine</orgName>
+								<orgName type="institution">NU Health Organization</orgName>
+								<address>
+									<settlement>Uddevalla</settlement>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Rolf</forename><surname>Billströ</surname></persName>
+							<affiliation key="aff9">
+								<orgName type="department" key="dep1">Department of Medicine, Skö vde Hospital ⁄ KSS</orgName>
+								<orgName type="department" key="dep2">Department of Hema-tology</orgName>
+								<orgName type="institution">Uppsala University Hospital</orgName>
+								<address>
+									<addrLine>Skö vde; 10</addrLine>
+									<settlement>Uppsala</settlement>
+									<country key="SE">Sweden</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Kristina</forename><surname>Carlson</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Margaretha</forename><forename type="middle">S</forename><surname>Carlsson</surname></persName>
+							<affiliation key="aff10">
+								<orgName type="department" key="dep1">Department of Medicine, Växjö Hospital</orgName>
+								<orgName type="department" key="dep2">Department of Medicine, Vä xjö Hospital</orgName>
+								<address>
+									<settlement>Växjö ; 11, Växjö</settlement>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Max</forename><surname>Flogegå Rd 12</surname></persName>
+							<affiliation key="aff11">
+								<orgName type="department">Department of Medicine, Falun Hospital</orgName>
+								<address>
+									<settlement>Falun</settlement>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Karin</forename><surname>Forsberg</surname></persName>
+							<affiliation key="aff12">
+								<orgName type="department">Department of Hematology</orgName>
+								<orgName type="institution">Norrland University Hospital</orgName>
+								<address>
+									<settlement>Umeå</settlement>
+									<country key="SE">Sweden</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Peter</forename><surname>Gimsing</surname></persName>
+							<affiliation key="aff13">
+								<orgName type="department">Department of Hematology, Rigshospitalet</orgName>
+								<orgName type="institution">University of Copenhagen</orgName>
+								<address>
+									<settlement>Copenhagen</settlement>
+									<country key="DK">Denmark</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Torbjö</forename><surname>Rn Karlsson</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Olle</forename><surname>Linder</surname></persName>
+							<affiliation key="aff14">
+								<orgName type="department" key="dep1">Department of Hematology, Ö rebro Univer-sity Hospital, Ö rebro; 16 Division of Hematology</orgName>
+								<orgName type="department" key="dep2">Department of Medicine</orgName>
+								<orgName type="department" key="dep3">Department of Medicine, Gä vle Hospital, Gä vle; 18 Department of Hematology</orgName>
+								<orgName type="institution">Skane University Hospital</orgName>
+								<address>
+									<addrLine>Karolinska Institutet, Huddinge, Stockholm; 17</addrLine>
+									<settlement>Lund</settlement>
+									<country key="SE">Sweden</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Hareth</forename><surname>Nahi</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Annika</forename><surname>Othzé</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Agneta</forename><surname>Swedin</surname></persName>
+						</author>
+						<author>
+							<affiliation key="aff0">
+								<orgName type="laboratory">for the Nordic Myeloma Study Group</orgName>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff15">
+								<orgName type="department">Department of Medicine, Lidkö ping Hospital</orgName>
+								<address>
+									<postCode>S-53185</postCode>
+									<settlement>Lidkö ping</settlement>
+									<country key="SE">Sweden</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Thalidomide and dexamethasone vs. bortezomib and dexamethasone for melphalan refractory myeloma: a randomized study</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<idno type="DOI">10.1111/j.1600-0609.2012.01775.x</idno>
+					<note type="submission">Accepted for publication 21 February 2012</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.6.1" ident="GROBID" when="2021-01-01T18:48+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<abstract>
+				<p>Objectives: Thalidomide and bortezomib have been frequently used for second-line therapy in patients with myeloma relapsing after or refractory to initial melphalan-based treatment, but no randomized trials have been published comparing these two treatment alternatives. Methods: Thalidomide-and bortezomib-naïve patients with melphalan refractory myeloma were randomly assigned to low-dose thalidomide + dexamethasone (Thal-Dex) or bortezomib + dexamethasone (Bort-Dex). At progression on either therapy, the patients were offered crossover to the alternative drug combination. An estimated 300 patients would be needed for the trial to detect a 50% difference in median PFS between the treatment arms. Results: After inclusion of 131 patients, the trial was prematurely closed because of low accrual. Sixty-seven patients were randomized to Thal-Dex and 64 to Bort-Dex. Progression-free survival was similar (median, 9.0 months for Thal-Dex and 7.2 for Bort-Dex). Response rate was similar (55% for Thal-Dex and 63% for Bort-Dex), but time to response was shorter (P &lt; 0.05) and the VGPR rate higher (P &lt; 0.01) for Bort-Dex. Time-to-other treatment after crossover was similar (median, 13.2 months for Thal-Dex and 11.2 months for Bort-Dex), as was overall survival (22.8 months for Thal-Dex and 19.0 for Bort-Dex). Venous thromboembolism was seen in seven patients and cerebrovascular events in four patients in the Thal-Dex group. Severe neuropathy, reactivation of herpes virus infections, and mental depression were more frequently observed in the Bort-Dex group. In the quality-of-life analysis, no difference was noted for physical function, pain, and global quality of life. Fatigue and sleep disturbances were significantly more prevalent in the Bort-Dex group. Conclusions: Thalidomide (50-100 mg daily) in combination with dexamethasone seems to have an efficacy comparable with that of bortezomib and dexamethasone in melphalan refractory myeloma. However, the statistical strength of the results in this study is limited by the low number of included patients.</p>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>The treatment options for multiple myeloma have improved considerably in recent years, both as concerns initial therapy and treatment for refractory and relapsing disease. In 2007, when this study was initiated, there was still a consensus in most centers on the use of high-dose melphalan with autologous stem cell support for initial therapy in younger patients and melphalan-prednisone in elderly patients <ref type="bibr" target="#b0">(1)</ref>. For relapsed and refractory disease, however, few randomized clinical trials had been performed and no consensus on best choice of therapy was present. Thalidomide was frequently used since the initial report on favorable results in 1999 <ref type="bibr" target="#b1">(2)</ref>. A systematic review of published phase II studies on thalidomide monotherapy reported a 29% response rate <ref type="bibr" target="#b3">(3)</ref>. The addition of dexamethasone to thalidomide was reported to increase the response rate to 46% with a median event-free survival of 8 months (4). However, no randomized trials were carried out, and thalidomide was not approved by the European authorities. Bortezomib was introduced in 2006 and approved after the publications of two phase II studies <ref type="bibr" target="#b5">(5,</ref><ref type="bibr" target="#b6">6)</ref> and one phase III study comparing bortezomib with high-dose dexamethasone <ref type="bibr" target="#b7">(7,</ref><ref type="bibr" target="#b8">8)</ref>. Briefly, these studies reported a response rate of 30-43% for bortezomib monotherapy, increasing 10-15% after the addition of dexamethasone, and a median time to progression of 7 months. The phase III trial <ref type="bibr" target="#b7">(7)</ref> showed a superiority of bortezomib over dexamethasone. In the setting of this study, no randomized studies have been published comparing thalidomide with bortezomib, nor any studies comparing any of these drugs with other chemotherapy.</p><p>The purpose of this study was to compare thalidomide + dexamethasone with bortezomib + dexamethasone for efficacy, toxicity, and quality of life (QoL) in patients with melphalan refractory myeloma. Progression-free survival (PFS) was the primary endpoint. Secondary endpoints were response rate and duration, toxicity, QoL, time to next treatment, and overall survival. The study was carried out in a multicenter setting involving several local hospitals. In our study, we used drug doses considered the current best standard treatment, which reflects day-to-day clinical practice. This was a genuinely academic study without any support or involvement from the pharmaceutical industry.</p><p>Since 2008, when the trial was opened for patient inclusions, the prerequisites for the study have changed. Both thalidomide and bortezomib have been approved for use in combination with melphalan and prednisone for initial therapy and lenalidomide for relapsed and refractory myeloma. For these reasons, the accrual rate of the study dropped and the study was prematurely closed before half of the projected number of patients was included. Nevertheless, no other randomized trial comparing thalidomide with bortezomib has been published, and the results of the trial are still of relevance for patients who have not received thalidomide or bortezomib as part of initial therapy, as well as for patients relapsing after high-dose melphalan.</p><p>The study was registered at ClinicalTrials.gov. identifier: NCT00602511.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Design and methods</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Patients</head><p>This open phase III randomized multicenter trial was conducted in 29 hospitals in Sweden, Denmark, and Norway. From October 2007 to September 2010, 131 patients entered the study (60 were recruited from university hospitals and 71 from local hospitals). Eligible for the study was patients of any age who had treatment demanding myeloma and were refractory to melphalan defined by (i) the absence of response or progression on initial melphalan-based treatment (primary refractory disease), (ii) the absence of response or progression on reinstituted melphalan treatment after previous response (relapsed and refractory), and (iii) treatment demanding relapse after previous response if occurring within 12 months after high-dose therapy or within 6 months after oral melphalan treatment (relapsing disease). However, even patients with later relapse could be included if further melphalan-based therapy was regarded as futile according to the responsible physician. Exclusion criteria were (i) former treatment with thalidomide, bortezomib, or lenalidomide; (ii) sensory neuropathy (grade 3 or more) or neuropathic pain (grade 2 or more); (iii) platelet counts &lt;25 • 10 9 ⁄ L; (iv) severe comorbidity; (v) transformation to plasma cell leukemia or aggressive lymphoma; and (vi) non-secreting myeloma without abnormal free light chain ratio. The study was conducted in accordance with the Helsinki declaration and was approved by ethical committees in Sweden, Denmark, and Norway.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Statistical considerations</head><p>We estimated that 300 patients would be needed for the trial assuming a median PFS in the control arm of 7 months, a 50% difference in median PFS between the treatment arms, an accrual rate of 12 patients per month during 25 months and a 4-month follow-up after the last included patient, and a PFS analysis with a statistical power of 80% and a significance level of 5%.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Study design</head><p>Randomization: After stratification for previously given high-dose melphalan or not, patients were randomized 1 : 1 to receive treatment with either thalidomide and dexamethasone (Thal-Dex) or bortezomib and dexamethasone (Bort-Dex). The randomization procedure was centralized and performed electronically by a web-based form.</p><p>Treatment according to randomization: In the Thal-Dex group, thalidomide was given at a dose of 50 mg once daily initially, escalated by 50 mg every 3 wk to a maximum of 200 mg daily, unless sufficient response was achieved by a lower dose. The dexamethasone dose was 40 mg on days 1-4, repeated every third week. In the Bort-Dex group, bortezomib was given with 1.3 mg ⁄ m 2 intravenously on days 1, 4, 8, and 11 of a 3-wk cycle. The dexamethasone dose was 20 mg on days 1-2, 4-5, 8-9, and 11-12. In both groups, treatment was continued until the achievement of best response followed by 1-2 additional 3-wk treatment cycles, followed by a treatment pause. In case of progression during the treatment pause, the initial treatment was reinstituted and continued until definitive failure. In case of neurotoxicity or other dose-dependent side effects, the doses of thalidomide and bortezomib were reduced. For bortezomib neurotoxicity, internationally accepted guidelines were followed. The initial dose of dexamethasone was given for two treatment cycles and thereafter individualized depending on response and side effects.</p><p>Crossover treatment: Patients with definitive failure in the Thal-Dex group were offered crossover treatment with bortezomib and dexamethasone. Similarly, patients with failure in the Bort-Dex group received crossover treatment with thalidomide and dexamethasone. The principles, dosing, schedules, and duration of treatment were the same after crossover as for initial treatment according to randomization.</p><p>Concomitant medication: Antithrombotic prophylaxis and acyclovir prophylaxis were not mandatory according to the study protocol but used routinely in an increasing proportion of participating centers during the study period.</p><p>Follow-up: Patients were followed every 3 wk until the achievement of response and plateau phase or at least four treatment cycles; thereafter, follow-up was every 3-6 wk until the patient reached the end of the study, defined by death or start of other treatment off-protocol. At each visit, a response evaluation was performed after laboratory check-up of relevant tests, including M protein in blood or urine or serum free light lambda chains, as well as toxicity evaluation according to common terminology criteria for adverse events (CTCAE v3.0) (9). All patients were followed until death or until January 2011.</p><p>Quality-of-life assessment: Health-related QoL (HRQoL) was measured by the European Organization of Research and Treatment of Cancer QLQ-C30 questionnaire. It is constructed to be cancer specific and multidimensional and has been validated for MM patients. The questionnaire incorporates five functional scales (physical, role, emotional, cognitive, and social functioning), three symptom scales (pain, fatigue, and nausea ⁄ vomiting), a global health and quality-of-life scale, and a number of single items (appetite loss, dyspnea, diarrhea, constipation, sleep disturbances, and financial impact). All scale and item scores were linearly transformed, so that the results ranged from 0 to 100. For the five functioning scales and the single global health ⁄ quality-of-life scale, higher scores represent higher level of functioning. For the three symptom scales and the single symptom items, higher scores represent higher level of symptoms. The patients completed the questionnaires before randomization and thereby before start of treatment, and later mailed to the patients after 6, 12 wk, 6 months, and thereafter every 6 months until the patient reached the end of the study.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Definitions</head><p>Partial response (PR), very good partial response (VGPR), and progressive disease (PD) were defined according to the IMWG guidelines <ref type="bibr" target="#b10">(10)</ref>. Failure was defined by (i) PD during treatment, (ii) stable disease, that is, neither PR nor PD, but with remaining treatment demanding ROTI despite treatment with optimal drug doses, (iii) PD on reinstituted treatment after previous response, and (iv) PD during treatment pause in responding patients in which reinstituted treatment was contraindicated because of toxicity.</p><p>PFS was calculated from the time of randomization until definitive failure on treatment according to randomization, or death. Time to response was calculated from randomization until the achievement of at least PR and response duration from that time until definitive failure. Time to next treatment after the first treatment line was calculated from randomization until start of crossover treatment, other treatment off-protocol, or death, whichever came first. Time to other treatment off-protocol was calculated from randomization until start of other treatment off-protocol, or death. Overall survival was calculated from the time of randomization.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Statistical methods</head><p>Comparisons between groups for PFS, time to response, response duration, time to other treatment, and overall survival were performed by a two-sided log-rank test based on Kaplan-Meier curves. Comparisons between groups for response rates were performed by Fisher's exact test. Cox's regression test was used to analyze prognostic factors. The principle of intention-to-treat was applied in all analyses, except time to response and response duration, in which only responding patients were included. The patients' self-assessments of QoL using the QLQ-C30 were analyzed using the Mann-Whitney test for related samples. Differences or changes of 10 or more on a 0-100 scale were regarded as clinically significant <ref type="bibr" target="#b11">(11)</ref>. As a large number of comparisons were performed, in the QoL analysis, a P-value of &lt;0.01 was considered necessary for statistical significance.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Results</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Evaluable patients</head><p>Sixty-seven patients were randomized to Thal-Dex and 64 to Bort-Dex ( <ref type="figure">Fig. 1</ref>). All patients are included in the analysis of progression-free survival. All are also included in the analyses of response, toxicity, time to other treatment, and survival. All these analyses are performed according to the principle of intention-totreat.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Patient characteristics</head><p>Patients' clinical and laboratory characteristics at the time of randomization are shown in <ref type="table" target="#tab_1">Table 1</ref>. About half of the patients in both groups were previously treated with high-dose melphalan with autologous stem cell support. 30% of patients in the Thal-Dex group and 25% in the Bort-Dex group were true refractory to melphalan. The remaining patients had relapsed off-therapy after previous response or plateau phase. There were significantly more women in the Thal-Dex group. However, in a univariate analysis, no prognostic importance of gender for PFS was found. For all other patient characteristics, the treatment arms were well balanced.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Dose intensity</head><p>Thalidomide: The initial dose of thalidomide was 50 mg ⁄ d in 66 patients and 100 mg ⁄ d in 1 patient in the Thal-Dex group. The dose was escalated to a maximum of 100 mg in 26 patients (39%), 150 mg in 6 (9%), and 200 mg in 5 (7%). The median duration of thalidomide treatment was 5.1 months.</p><p>Bortezomib: All patients in the Bort-Dex group received at least one full cycle of bortezomib. The median number of completed cycles was four; and the median time on bortezomib treatment was 3.5 months. In 19 patients (30%), the dose of bortezomib was reduced because of toxicity in the second or later treatment cycle. The remaining 45 patients received full dose until treatment was stopped because of response, progression, or toxicity.</p><p>Dexamethasone: The dose of dexamethasone given during the first 3-wk treatment cycle was 160 mg in 65 patients (97%) in the Thal-Dex group and 58 patients (91%) in the Bort-Dex group. Remaining patients received 80 mg per 3-wk cycle initially. The median time on dexamethasone treatment was 4.0 months for Thal-Dex and 3.5 months for Bort-Dex, and the median total given dose of dexamethasone was 640 and 560 mg for Thal-Dex and Bort-Dex, respectively.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Concomitant medication</head><p>Twenty-one of 67 patients (31%) in the Thal-Dex group and five of 64 (10%) in the Bort-Dex group received some form of anticoagulant treatment, usually aspirin 75 mg daily. Acyclovir was given in nine patients (13%) in the Thal-Dex group and in 28 (44%) in the Bort-Dex group trimethoprim-sulfamethoxazole was given to six patients (9%) in the Thal-Dex group and to 10 (16%) in the Bort-Dex group; and erythropoietin was given to 10 patients (15%) in the Thal-Dex group and to six patients (9%) in the Bort-Dex group.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Response evaluation</head><p>At least PR was achieved in 55% of the patients treated with Thal-Dex and in 63% of the patients treated with Bort-Dex, a difference that did not reach statistical significance <ref type="table" target="#tab_2">(Table 2)</ref>. However, the proportion of patients reaching VGPR was significantly higher in the Bort-Dex group: 36% vs. 13% (P &lt; 0.01). No statistically significant difference was demonstrated between patients previously treated with high-dose melphalan and those not; nor was there a significant difference between refractory and relapsing patients.</p><p>For responding patients, the time to response from start of therapy was shorter for Bort-Dex, with a median of 1.6 months (95% CI 1.4;2.3) vs. 3.0 months (95% CI 2.1;5.6) for Thal-Dex (P &lt; 0.05). The response duration was similar in the two groups, with a median time of 9.9 months (95% CI 5.7;23.2) for Thal-Dex and 12.7 months (95% CI 5.4;15.3) for Bort-Dex. Further, the time to start of next line of treatment (all patients included) was similar for both groups, with a median of 9.7 months (95% CI 5.3;11.4) for Thal-Dex and 8.5 months (95% CI 4.5;11.8) for Bort-Dex.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Progression-free survival</head><p>No difference in PFS was noted between the two patient groups ( <ref type="figure" target="#fig_0">Fig. 2A)</ref>. The median PFS time was 9.0 months (95% CI 4.3;10.4) for Thal-Dex and 7.2 months (95% CI 3.9;11.5) for Bort-Dex.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Prognostic factors</head><p>In a univariate analysis, serum b-2-microglobulin, plasma albumin, and plasma creatinine were found to have prognostic importance for PFS. No prognostic importance was found for age, gender, previous high-dose therapy, refractoriness vs. relapse, WHO performance status, blood hemoglobin, plasma calcium, or M-protein class. In a multivariate analysis, however, only serum b-2-microglobulin was found to have independent prognostic importance for PFS (P &lt; 0.001, hazard rate 1.10 (95% CI 1.05;1.17)).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Crossover treatment</head><p>Thirty-nine patients received bortezomib + dexamethasone after failure on Thal-Dex, while 33 received thalidomide + dexamethasone after failure on Bort-Dex. The reasons for not giving crossover treatment are given in <ref type="figure">Fig. 1</ref>. The main reason was neuropathy precluding thalidomide therapy in 13 previously bortezomib-treated patients and bortezomib in three previously thalidomidetreated patients. In the Thal-Dex group, 18 patients (46%) reached an at least PR on crossover treatment with bortezomib + dexamethasone. In the Bort-Dex group, 10 patients (30%) responded to thalidomide + dexamethasone. </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Time-to-other treatment</head><p>The total effect of the combined thalidomide and bortezomib treatment was estimated by the time from randomization to start of the treatment off-protocol <ref type="figure" target="#fig_0">(Fig. 2B)</ref>. Again, no statistically significant difference was found (P = 0.35). The median time to start of other treatment was 13.2 months (95% CI 9.3;19.3) in the Thal-Dex group and 11.2 months (95% CI 7.7;16.6) in the Bort-Dex group.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Survival</head><p>Overall survival was similar in the two treatment groups <ref type="figure" target="#fig_0">(Fig. 2C)</ref>. The median survival time from randomization was 22.8 months (95% CI 16.0;34.7) in the Thal-Dex group and 19.0 months (95% CI 15.9;35.6) in the Bort-Dex group.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Toxicity</head><p>Toxicity during treatment according to randomization, that is, before crossover, is shown in <ref type="table" target="#tab_3">Table 3</ref>.</p><p>Neurotoxicity was observed more frequently in the Bort-Dex group than in the Thal-Dex group. Sensory or motor neuropathy (grade 3-4) was noted in 12 compared with six patients, and neuropathic pain (grade 2-4) was seen in 21 compared with 5.</p><p>Infections that are clinically or microbiologically documented (grade 3-5), herpes infections excluded, were detected in 16 patients in the Thal-Dex group and in 21  patients in the Bort-Dex group. About half of the cases in both groups were pneumonia. Reactivation of herpes zoster (grade 2-3) was seen in five patients in the Bort-Dex group and in one patient in the Thal-Dex group, while herpes simplex (grade 3) was found in two patients in the Bort-Dex group and in one patient in the Thal-Dex group. Only one of these patients, assigned to the Bort-Dex group, was on prophylactic acyclovir treatment at the time of the outbreak. Psychiatric reactions (grade 3-4) were discovered in two patients in the Thal-Dex group, one of whom developed visual hallucinations and one severe anxiety. Five patients in the Bort-Dex group developed depressive reactions (grade 3-4).</p><p>Deep vein thrombosis or pulmonary embolism was observed in seven patients in the Thal-Dex group and in one patient in the Bort-Dex group. None of these patients was on prophylactic anticoagulant treatment at the time of the event.</p><p>Four severe cerebrovascular events occurred in the Thal-Dex group vs. none in the Bort-Dex group. One patient suffered a hemorrhagic stroke with a fatal outcome; one patient had a major ischemic stroke with subsequent sequel; and two patients had minor strokes without sequel. As for the patients with venous thromboembolism, none of these patients was on prophylactic anticoagulant treatment at the time of the event.</p><p>Pulmonary and cardiac toxicity: One patient developed acute pulmonary edema (grade 4) the day after the second injection of bortezomib. The cardiac function was found to be normal, and a bortezomib-induced pulmonary edema could not be excluded. Cardiac failure (grade 3-4) was seen in two patients in the Thal-Dex group and three in the Bort-Dex group. No case of myocardial infarction was noted.</p><p>Toxicity during crossover treatment: Toxicity after crossover was similar to that during treatment according to randomization. In the Thal-Dex group receiving bortezomib + dexamethasone after crossover, one patient had a minor ischemic stroke. In the Bort-Dex group receiving thalidomide + dexamethasone, one additional patient experienced deep vein thrombosis, one had a minor stroke, and one developed intestinal gangrene, probably from arterial obstruction, with a fatal outcome. None of these patients was on prophylactic anticoagulant treatment at the time of the event.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Quality of life</head><p>The quality-of-life questionnaire (QLQ) was completed by 96% of patients still alive at 6 wk, 90% at 12 wk, and 76% at 6 months. The mean scores for the most important quality-of-life variables physical function, global quality of life, pain, and fatigue are shown in <ref type="figure" target="#fig_1">Fig. 3A-D</ref>. No improvement over time was seen for any of these variables. No differences were seen between the treatment groups beside fatigue, in which the scores for the Bort-Dex group was somewhat worse at 12 wk with a score difference of 10 (P = 0.04, ns).</p><p>Among other symptom-related QLQ variables, there was a higher score for sleep disturbances in the Bort-Dex group reaching statistical significance at 6 and 12 wk <ref type="figure" target="#fig_1">(Fig. 3E)</ref>. The score increased by 14 points from the time of randomization and the difference amounted 20 points at 12 wk. For the remaining QoL variables, no significant differences were seen.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Discussion</head><p>The choice of treatment for relapsing and refractory myeloma patients is challenging and hampered by the lack of randomized trials. Bortezomib and lenalidomide have both showed superiority to high-dose dexamethasone in relapse patients. However, high-dose dexamethasone is a treatment strategy that has never been regarded as standard treatment in the Nordic countries. Thus, in the absence of comparative trials for the practicing physician, it was not possible to make an evidence-based choice between thalidomide and bortezomib for melphalan refractory patients. This trial was designed to answer the question of whether any of these drugs was to be preferred before the other and, for patients in whom both drugs were planned to be used, whether there were any advantages to start with one or another.</p><p>The main result of this trial is that low-dose thalidomide (50-100 mg daily) in combination with dexamethasone has comparable efficacy as bortezomib + dexamethasone regarding PFS and time to next treatment for patients with melphalan refractory myeloma. Bortezomib was found to induce a more rapid response and a higher rate of VGPR, but this did not translate into a longer PFS or overall survival.</p><p>The median time on bortezomib (3.5 months) and thalidomide treatment (5.1 months) was short in this trial. The main reasons for early termination of treatment were therapeutic failure and toxicity. Peripheral neuropathy was a major concern, especially in the Bort-Dex group, and frequently the cause of early treatment discontinuation although we deliberately tried to limit this problem by early bortezomib dose reduction and a low starting dose for thalidomide.</p><p>The main strength of the study, additional to the unique design, was that it was performed in a multicenter setting with several local hospitals involved and that the doses of the study drugs were those generally used in the Nordic countries at the time of the trial, thereby reflecting everyday clinical practice.</p><p>The main weakness was that less than a half of the projected number of patients was included. The primary reason for this event was the introduction of thalidomide and bortezomib in the treatment strategies for initial therapy during the years 2007-2010, resulting in a drop in patient accrual and a premature closing of the study. However, the fact that response rates and PFS for both treatment arms are in the same magnitude as in other published trials (4-7) makes it probable that the results of this trial are reliable.</p><p>The time to other treatment off-protocol was similar for the two treatment groups, and we cannot answer the question of any probable advantage of giving thalidomide or bortezomib before the other. In this trial, there was a higher rate of neurotoxicity in the bortezomib group, thereby precluding crossover treatment with thalidomide. Recently, reports on single weekly bortezomib dosing and subcutaneous administration have shown a reduced rate of neurotoxicity without loss of efficacy <ref type="bibr" target="#b12">(12,</ref><ref type="bibr" target="#b13">13)</ref>. Therefore, it cannot be excluded that the patients in the Bort-Dex group had done better with once weekly bortezomib instead of twice weekly that was the standard dose at the time of the study. The spectrum of toxicity was mainly as expected. The limited number of patients in the study makes it difficult to compare the treatment arms for toxicity. Nevertheless, some observations are worth noting. There was a high rate of neurotoxicity in the Bort-Dex group, which underlines the necessity of a high grade of observance and dose reductions even at minor signs of neurotoxicity. A high but similar rate of severe infections was found in both treatment groups. Dexamethasone, which may have contributed to this event, was given in an equivalent total dose in the two treatment groups. The increased risk of herpes virus reactivations during bortezomib treatment has been noted in other studies <ref type="bibr" target="#b14">(14)</ref> and underscores the recommendations of acyclovir prophylaxis <ref type="bibr" target="#b15">(15)</ref>. As concerns psychiatric toxicity, we observed several depressive reactions in the Bort-Dex group. However, the significance of this finding is not clear because of the low number of patients. This complication has not been described in other reports.</p><p>An important observation is the high number of vascular adverse events in the Thal-Dex group: seven patients experienced venous thromboembolism and four cerebrovascular complications. All these events occurred in those 46 patients who were not on thromboprophylactic medication. Three additional vascular events occurred during treatment with thalidomide and dexamethasone after cross-over. The risk of venous thromboembolism is well recognized since several years <ref type="bibr" target="#b16">(16)</ref><ref type="bibr" target="#b17">(17)</ref><ref type="bibr" target="#b18">(18)</ref>, whereas the risk of arterial obstruction has been observed more recently <ref type="bibr" target="#b19">(19)</ref><ref type="bibr" target="#b20">(20)</ref><ref type="bibr" target="#b21">(21)</ref>. The results of this study support the recommendation that anticoagulant prophylaxis should be given when the combination of thalidomide and dexamethasone is used for relapsed or refractory myeloma as well as for initial therapy <ref type="bibr" target="#b22">(22,</ref><ref type="bibr" target="#b23">23)</ref>.</p><p>In contrast to what is ordinarily seen in the treatment of newly diagnosed myeloma <ref type="bibr" target="#b24">(24,</ref><ref type="bibr" target="#b25">25)</ref>, the quality-of-life analysis did not reveal any improvement over time for either treatment group. The reasons for this could be that treatment in relapsing patients is initiated before the patient has as severe symptoms as in newly diagnosed disease and that the response rate is lower than for initial treatment. In the interpretation of QoL results, a score difference of 6-17 points or more is regarded as clinically important <ref type="bibr" target="#b11">(11,</ref><ref type="bibr" target="#b26">26)</ref>. In this study, a difference of 10 was seen for fatigue, suggesting possible clinical importance albeit not reaching the statistical significance level of 0.01. For sleep disturbances, the score increment in the Bort-Dex group and the difference compared to the Thal-Dex group was both statistically significant and clinically important. The reason for the increase in sleep disturbances is not clear but may be related to neurotoxicity-dependent paresthesia and pains.</p><p>The value of prognostic factors is well established in newly diagnosed myeloma in which ISS stage and cytogenetics are used both for characterizing patients in clinical trials and for discussion of prognosis and choice of treatment for the individual patient <ref type="bibr" target="#b27">(27,</ref><ref type="bibr" target="#b28">28)</ref>. In this trial, we found that serum b-2-microglobulin also had prognostic importance in the relapse setting. Therefore, b-2microglobulin can also be used for prognostic purposes in relapsed and refractory patients.</p><p>In conclusion, low-dose thalidomide (50-100 mg daily), in combination with dexamethasone, seems to have an efficacy that is comparable with that of bortezomib and dexamethasone in melphalan refractory myeloma. In clinical practice, most patients will receive both drugs, one after the other. For the majority of patients, in the absence of differences in efficacy, the choice of initial treatment should be based on the differences in toxicity, QoL aspects, and other patientrelated factors. For a patient with advanced disease with threatening complications, when a rapid response is desirable, bortezomib may be the preferred drug. For both drugs, measures should be taken to prevent evitable toxicity.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>Figure 2</head><label>2</label><figDesc>(A) Progression-free survival. (B) Time-to-other treatment after completed crossover therapy. (C) Overall survival from the time of randomization.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head>Figure 3</head><label>3</label><figDesc>Self-reported QoL during treatment with Thal-Dex and Bort-Dex: mean scores at various times after the start of treatment. For physical functioning and global quality of life, higher scores indicate better functioning. For fatigue, pain, and sleep disturbances, higher scores indicate a higher level of symptoms.Hjorth et al. Thal-Dex vs Bort-Dex in refractory myeloma ª 2012 John Wiley &amp; Sons A/S</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head></head><label></label><figDesc>Flow diagram of randomized patients.</figDesc><table><row><cell>131 patients randomized 67 allocated to thalidomide + dexamethasone 67 started allocated treatment 64 allocated to bortezomib + dexamethasone 64 started allocated treatment Analysis of primary endpoint, PFS 49 reached primary endpoint 25 primary failures 20 secondary failures 4 deaths 18 censored 3 off-protocol because of other severe events + 1 by physician's choice 14 still on protocol at the time of last follow-up, median 16 (4-47) months Analysis of primary endpoint, PFS 54 reached primary endpoint 22 primary failures 30 secondary failures 2 deaths 10 censored 1 off-protocol because of other severe disease 9 still on protocol at the time of last follow-up, median 15 (4-21) months 46 patients were considered for cross-over treatment with bortezomib + dexamethasone after failure on thalidomide 7 were not eligible for bortezomib 3 neurotoxicity 4 other reasons 39 (58%) received bortezomib + dex 33 reached endpoint for PFS 17 primary failures 14 secondary failures 2 deaths 6 censored 2 off-protocol because of other severe events 4 still on protocol after 2-24 months of follow-up 49 patients were considered for cross-over treatment with thalidomide + dexamethasone after failure on bortezomib 16 were not eligible for thalidomide 13 neurotoxicity 3 other reasons 33 (52%) received thalidomide + dex 24 reached endpoint for PFS 18 primary failures 5 secondary failures 1 death 9 censored 1 off-protocol because of other severe event + 1 by physician's choice 7 still on protocol after 1-22 months of follow-up Secondary endpoints 64 patients evaluable for quality of life All patients evaluable for toxicity All patients evaluable for survival 38 deaths 29 alive at the time of last follow-up Secondary endpoints 61 patients evaluable for quality of life All patients evaluable for toxicity All patients evaluable for survival 35 deaths 29 alive at the time of last follow-up Figure 1 Thal-Dex vs Bort-Dex in refractory myeloma</cell><cell>Hjorth et al.</cell></row></table><note></note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_1"><head>Table 1</head><label>1</label><figDesc>Patient characteristics at the time of randomization</figDesc><table><row><cell>Thal-Dex (n = 67)</cell><cell>Bort-Dex (n = 64)</cell></row></table><note>1 Patient categories: Refractory disease -no response to melphalan or progression during ongoing melphalan treatment, either during initial therapy (Primary refractory disease) or during re-instituted therapy after response (Relapsed and refractory). Insidious relapse -increase in M-protein con- centration in serum or urine (biochemical relapse) during more than 100 days before clinical signs of relapse. Classical form of relapse -clinical signs of relapse within 100 days after biochemically defined relapse. Plasmacytoma form of relapse -skeletal or extraskeletal plasmacytoma with minor or no other signs of relapse.</note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_2"><head>Table 2</head><label>2</label><figDesc>Response rate</figDesc><table><row><cell>Treatment according</cell><cell>Thal-Dex</cell><cell>Bort-Dex</cell><cell></cell></row><row><cell>to randomization</cell><cell>(n = 67)</cell><cell>(n = 64)</cell><cell></cell></row><row><cell>PR + VGPR</cell><cell>37 (55%)</cell><cell>40 (63%)</cell><cell>n.s.</cell></row><row><cell>VGPR</cell><cell>9 (13%)</cell><cell>23 (36%)</cell><cell>P &lt; 0.01</cell></row><row><cell>No response</cell><cell>30 (45%)</cell><cell>24 (38%)</cell><cell></cell></row><row><cell>Crossover treatment</cell><cell>Bortezomib + Dex</cell><cell>Thalidomide + Dex</cell><cell></cell></row><row><cell>after failure</cell><cell>(n = 39)</cell><cell>(n = 33)</cell><cell></cell></row><row><cell>PR + VGPR</cell><cell>18 (46%)</cell><cell>10 (30%)</cell><cell></cell></row><row><cell>VGPR</cell><cell>8 (21%)</cell><cell>4 (12%)</cell><cell></cell></row><row><cell>No response</cell><cell>21 (54%)</cell><cell>23 (70%)</cell><cell></cell></row></table><note></note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_3"><head>Table 3</head><label>3</label><figDesc>Toxicity The highest noted toxicity grade for each patient during treatment according to randomization</figDesc><table><row><cell></cell><cell cols="2">Thal-Dex</cell><cell>Bort-Dex</cell><cell></cell></row><row><cell></cell><cell>n = 67</cell><cell></cell><cell>n = 64</cell><cell></cell></row><row><cell>CTCAE grade</cell><cell>2</cell><cell>3 4 5</cell><cell>2</cell><cell>4 5</cell></row><row><cell>Sensory neuropathy</cell><cell>12</cell><cell>5</cell><cell>15</cell><cell></cell></row><row><cell>Motor neuropathy</cell><cell>5</cell><cell>4</cell><cell>7</cell><cell></cell></row><row><cell>Neuropathic pain</cell><cell>5</cell><cell></cell><cell>12</cell><cell></cell></row><row><cell>Neutropenia</cell><cell>13</cell><cell>8 1</cell><cell>8</cell><cell>3</cell></row><row><cell>Thrombocytopenia</cell><cell>7</cell><cell>3 1</cell><cell cols="2">11 3</cell></row><row><cell>Hemorrhage</cell><cell></cell><cell>1</cell><cell>3</cell><cell></cell></row><row><cell>Infections (Herpes excluded)</cell><cell cols="2">17 12 3 1</cell><cell cols="2">9 3 1</cell></row><row><cell>Herpes zoster or simplex</cell><cell>1</cell><cell>1</cell><cell>4</cell><cell></cell></row><row><cell>Fever without documented</cell><cell>1</cell><cell></cell><cell>3</cell><cell></cell></row><row><cell>infection</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Nausea and vomiting</cell><cell>3</cell><cell>1</cell><cell>1</cell><cell></cell></row><row><cell>Diarrhea</cell><cell></cell><cell>1</cell><cell>6</cell><cell></cell></row><row><cell>Constipation</cell><cell>14</cell><cell>5</cell><cell>11</cell><cell></cell></row><row><cell>Somnolence</cell><cell>6</cell><cell>1</cell><cell>5</cell><cell></cell></row><row><cell>Psychiatric reactions</cell><cell>10</cell><cell>1 1</cell><cell>6</cell><cell></cell></row><row><cell>Vertigo</cell><cell>7</cell><cell>5</cell><cell>7</cell><cell></cell></row><row><cell>Skin reactions</cell><cell>8</cell><cell></cell><cell>5</cell><cell></cell></row><row><cell>Deep vein thrombosis and ⁄ or</cell><cell></cell><cell>5 2</cell><cell></cell><cell></cell></row><row><cell>pulmonary embolism</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Cardiac failure</cell><cell>4</cell><cell>1 1</cell><cell>3</cell><cell></cell></row><row><cell>Cerebrovascular events</cell><cell></cell><cell>3 1</cell><cell></cell><cell></cell></row><row><cell>Pulmonary toxicity</cell><cell></cell><cell></cell><cell></cell><cell>1</cell></row><row><cell>Insulin-dependent diabetes</cell><cell></cell><cell>3</cell><cell></cell><cell></cell></row><row><cell>mellitus</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Other toxicity</cell><cell>12</cell><cell>2</cell><cell>13</cell><cell></cell></row></table><note>ª 2012 John Wiley &amp; Sons A/S</note></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot">Thal-Dex vs Bort-Dex in refractory myeloma Hjorth et al.</note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot">ª 2012 John Wiley &amp; Sons A/S</note>
+		</body>
+		<back>
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Authorship</head><p>MH, ØH, LMK, NG, and PTP designed the study, participated in patient enrollment and data acquisition and interpretation, and wrote the article. EH was responsible for data management and statistical analysis. NG was responsible for the QoL analysis. NFA, BA, RB, KC, MSC, MF, KF, PG, TK, OL, HN, AO, and AS participated in patient enrollment and data acquisition and reviewed the article. MH had the main responsibility for the study.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Funding</head><p>This study was supported by grants from the Norwegian Research Council and by the Research Fund at Skaraborg Hospital, Sweden.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Appendix</head><p>The following members and centers of the Nordic Myeloma Study Group participated in this study:</p><p>Sweden: Bjo¨rn Andre´asson, Uddevalla Hospital, Uddevalla; Martin Hjorth, Lidko¨ping Hospital, Lidko¨ping; Annika Othze´n Jerner, Ga¨vle Hospital, Ga¨vle; Stig</p></div>			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Guidelines on the diagnosis and management of multiple myeloma 2005</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Smith</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">F</forename><surname>Wisloff</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><surname>Samson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Br J Haematol</title>
+		<imprint>
+			<biblScope unit="volume">132</biblScope>
+			<biblScope unit="page" from="410" to="51" />
+			<date type="published" when="2006" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Antitumor activity of thalidomide in refractory multiple myeloma</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Singhal</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Mehta</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><surname>Desikan</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">N Engl J Med</title>
+		<imprint>
+			<biblScope unit="volume">341</biblScope>
+			<biblScope unit="page" from="1565" to="71" />
+			<date type="published" when="1999" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<monogr>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Al</surname></persName>
+		</author>
+		<title level="m">Thal-Dex vs Bort-Dex in refractory myeloma Hjorth et</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">A systematic review of phase-II trials of thalidomide monotherapy in patients with relapsed or refractory multiple myeloma</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Glasmacher</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><surname>Hahn</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">F</forename><surname>Hoffmann</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><surname>Naumann</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><surname>Goldschmidt</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Von Lilienfeld-Toal</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><surname>Orlopp</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">I</forename><surname>Schmidt-Wolf</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Gorschluter</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Br J Haematol</title>
+		<imprint>
+			<biblScope unit="volume">132</biblScope>
+			<biblScope unit="page" from="584" to="93" />
+			<date type="published" when="2006" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Glasmacher A. A systematic review of phase II trials of thalidomide ⁄ dexamethasone combination therapy in patients with relapsed or refractory multiple myeloma</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Von</forename><surname>Lilienfeld-Toal</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Hahn-Ast</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><surname>Furkert</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><surname>Hoffmann</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">F</forename><surname>Naumann</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><surname>Bargou</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><surname>Cook</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">G</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Eur J Haematol</title>
+		<imprint>
+			<biblScope unit="volume">81</biblScope>
+			<biblScope unit="page" from="247" to="52" />
+			<date type="published" when="2008" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">A phase 2 study of bortezomib in relapsed, refractory myeloma</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><forename type="middle">G</forename><surname>Richardson</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">B</forename><surname>Barlogie</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Berenson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">N Engl J Med</title>
+		<imprint>
+			<biblScope unit="volume">348</biblScope>
+			<biblScope unit="page" from="2609" to="2626" />
+			<date type="published" when="2003" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">A phase 2 study of two doses of bortezomib in relapsed or refractory myeloma</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Jagannath</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">B</forename><surname>Barlogie</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Berenson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Br J Haematol</title>
+		<imprint>
+			<biblScope unit="volume">127</biblScope>
+			<biblScope unit="page" from="165" to="72" />
+			<date type="published" when="2004" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Bortezomib or high-dose dexamethasone for relapsed multiple myeloma</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><forename type="middle">G</forename><surname>Richardson</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><surname>Sonneveld</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">W</forename><surname>Schuster</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">N Engl J Med</title>
+		<imprint>
+			<biblScope unit="volume">352</biblScope>
+			<biblScope unit="page" from="2487" to="98" />
+			<date type="published" when="2005" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Extended follow-up of a phase 3 trial in relapsed multiple myeloma: final time-to-event results of the APEX trial</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><forename type="middle">G</forename><surname>Richardson</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><surname>Sonneveld</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Schuster</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Blood</title>
+		<imprint>
+			<biblScope unit="volume">110</biblScope>
+			<biblScope unit="page" from="3557" to="60" />
+			<date type="published" when="2007" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<monogr>
+		<title level="m" type="main">Common Terminology Criteria for Adverse Events (CTCAE) and Common Toxicity Criteria (CTC)</title>
+		<ptr target="http://ctep.cancer.gov/protocolDevelopment/electronic_applications/docs/ctcaev3.pdf" />
+		<imprint>
+			<date type="published" when="2007" />
+		</imprint>
+		<respStmt>
+			<orgName>National Cancer Institute</orgName>
+		</respStmt>
+	</monogr>
+	<note>National Cancer Institute</note>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">International uniform response criteria for multiple myeloma</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">B</forename><forename type="middle">G</forename><surname>Durie</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">L</forename><surname>Harousseau</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">S</forename><surname>Miguel</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Leukemia</title>
+		<imprint>
+			<biblScope unit="volume">20</biblScope>
+			<biblScope unit="page" from="1467" to="73" />
+			<date type="published" when="2006" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Interpreting the significance of changes in health-related quality-oflife scores</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><surname>Osoba</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">G</forename><surname>Rodrigues</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Myles</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">B</forename><surname>Zee</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Pater</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Clin Oncol</title>
+		<imprint>
+			<biblScope unit="volume">16</biblScope>
+			<biblScope unit="page" from="139" to="183" />
+			<date type="published" when="1998" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Bortezomib, melphalan, and prednisone versus bortezomib, thalidomide, and prednisone as induction therapy followed by maintenance treatment with bortezomib and thalidomide versus bortezomib and prednisone in elderly patients with untreated multiple myeloma: a randomised trial</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">V</forename><surname>Mateos</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Oriol</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Martinez-Lopez</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Lancet Oncol</title>
+		<imprint>
+			<biblScope unit="volume">11</biblScope>
+			<biblScope unit="page" from="934" to="975" />
+			<date type="published" when="2010" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Subcutaneous bortezomib: a step towards optimised drug use</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">V</forename><surname>Mateos</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Lancet Oncol</title>
+		<imprint>
+			<biblScope unit="volume">12</biblScope>
+			<biblScope unit="page" from="410" to="411" />
+			<date type="published" when="2011" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">Analysis of herpes zoster events among bortezomib-treated patients in the phase III APEX study</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Chanan-Khan</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><surname>Sonneveld</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">W</forename><surname>Schuster</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Clin Oncol</title>
+		<imprint>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="page" from="4784" to="90" />
+			<date type="published" when="2008" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Acyclovir to prevent reactivation of varicella zoster virus (herpes zoster) in multiple myeloma patients receiving bortezomib therapy</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><surname>Vickrey</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Allen</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Mehta</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Singhal</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Cancer</title>
+		<imprint>
+			<biblScope unit="volume">115</biblScope>
+			<biblScope unit="page" from="229" to="261" />
+			<date type="published" when="2009" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Thalidomide plus oral melphalan compared with thalidomide alone for advanced multiple myeloma</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Offidani</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">L</forename><surname>Corvatta</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Marconi</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Hematol J</title>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="page" from="312" to="319" />
+			<date type="published" when="2004" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Oral melphalan and prednisone chemotherapy plus thalidomide compared with melphalan and prednisone alone in elderly patients with multiple myeloma: randomised controlled trial</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Palumbo</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Bringhen</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Caravita</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Lancet</title>
+		<imprint>
+			<biblScope unit="volume">367</biblScope>
+			<biblScope unit="page" from="825" to="856" />
+			<date type="published" when="2006" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">Phase III clinical trial of thalidomide plus dexamethasone compared with dexamethasone alone in newly diagnosed multiple myeloma: a clinical trial coordinated by the Eastern Cooperative Oncology Group</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><forename type="middle">V</forename><surname>Rajkumar</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><surname>Blood</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><surname>Vesole</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><surname>Fonseca</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><forename type="middle">R</forename><surname>Greipp</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Clin Oncol</title>
+		<imprint>
+			<biblScope unit="volume">24</biblScope>
+			<biblScope unit="page" from="431" to="437" />
+			<date type="published" when="2006" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">Arterial thrombosis and thalidomide</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Goz</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">N</forename><surname>Eren</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">O</forename><surname>Cakir</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Thromb Thrombolysis</title>
+		<imprint>
+			<biblScope unit="volume">25</biblScope>
+			<biblScope unit="page" from="224" to="230" />
+			<date type="published" when="2008" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">Arterial thrombosis with immunomodulatory derivatives in the treatment of multiple myeloma: a single-center case series and review of the literature</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">G</forename><surname>Martin</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><surname>Vij</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Clin Lymphoma Myeloma</title>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="page" from="320" to="323" />
+			<date type="published" when="2009" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">Arterial and venous thrombosis in monoclonal gammopathy of undetermined significance and multiple myeloma: a population-based study</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><forename type="middle">Y</forename><surname>Kristinsson</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><forename type="middle">M</forename><surname>Pfeiffer</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Bjorkholm</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">L</forename><forename type="middle">R</forename><surname>Goldin</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Schulman</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><surname>Blimark</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">U</forename><forename type="middle">H</forename><surname>Mellqvist</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Wahlin</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">I</forename><surname>Turesson</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">O</forename><surname>Landgren</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Blood</title>
+		<imprint>
+			<biblScope unit="volume">115</biblScope>
+			<biblScope unit="page" from="4991" to="4999" />
+			<date type="published" when="2010" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">Prevention of thalidomide-and lenalidomide-associated thrombosis in myeloma</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Palumbo</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><forename type="middle">V</forename><surname>Rajkumar</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">A</forename><surname>Dimopoulos</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Leukemia</title>
+		<imprint>
+			<biblScope unit="volume">22</biblScope>
+			<biblScope unit="page" from="414" to="437" />
+			<date type="published" when="2008" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title level="a" type="main">Thrombosis in multiple myeloma</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><forename type="middle">Y</forename><surname>Kristinsson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Hematology Am Soc Hematol Educ Program</title>
+		<imprint>
+			<biblScope unit="volume">2010</biblScope>
+			<biblScope unit="page" from="437" to="481" />
+			<date type="published" when="2010" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title level="a" type="main">Effect of interferon on the health-related quality of life of multiple myeloma patients: results of a Nordic randomized trial comparing melphalan-prednisone to melphalan-prednisone + alpha-interferon. The Nordic Myeloma Study Group</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">F</forename><surname>Wisloff</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Hjorth</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Kaasa</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Westin</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Br J Haematol</title>
+		<imprint>
+			<biblScope unit="volume">94</biblScope>
+			<biblScope unit="page" from="324" to="356" />
+			<date type="published" when="1996" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title level="a" type="main">Health-related quality of life in multiple myeloma patients receiving highdose chemotherapy with autologous blood stem-cell support</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">N</forename><surname>Gulbrandsen</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">F</forename><surname>Wisloff</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">L</forename><surname>Brinch</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Med Oncol</title>
+		<imprint>
+			<biblScope unit="volume">18</biblScope>
+			<biblScope unit="page" from="65" to="77" />
+			<date type="published" when="2001" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title level="a" type="main">What changes in healthrelated quality of life matter to multiple myeloma patients? A prospective study</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><forename type="middle">K</forename><surname>Kvam</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><surname>Fayers</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">F</forename><surname>Wisloff</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Eur J Haematol</title>
+		<imprint>
+			<biblScope unit="volume">84</biblScope>
+			<biblScope unit="page" from="345" to="53" />
+			<date type="published" when="2010" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+		<title level="a" type="main">International staging system for multiple myeloma</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><forename type="middle">R</forename><surname>Greipp</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">San</forename><surname>Miguel</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Durie</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">B</forename><forename type="middle">G</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Clin Oncol</title>
+		<imprint>
+			<biblScope unit="volume">23</biblScope>
+			<biblScope unit="page" from="3412" to="3432" />
+			<date type="published" when="2005" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<analytic>
+		<title level="a" type="main">Role of genetics in prognostication in myeloma</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><surname>Avet-Loiseau</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Best Pract Res Clin Haematol</title>
+		<imprint>
+			<biblScope unit="volume">20</biblScope>
+			<biblScope unit="page" from="625" to="660" />
+			<date type="published" when="2007" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<monogr>
+		<title/>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Agneta</forename><surname>Lenhoff</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Swedin</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Lund University</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Hospital</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Lund</surname></persName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<monogr>
+		<title/>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Margaretha S Carlsson</surname></persName>
+		</author>
+		<imprint>
+			<pubPlace>Va¨xjo¨Hospital, Va¨xjo¨</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<analytic>
+		<title/>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Max</forename><surname>Flogega˚rd</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Falun</forename><surname>Hospital</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Falun; Rolf</forename><surname>Billstro¨m</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Sko¨vde Hospital ⁄ KSS</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<monogr>
+		<title/>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Karin</forename><surname>Forsberg</surname></persName>
+		</author>
+		<imprint>
+			<pubPlace>Umea˚</pubPlace>
+		</imprint>
+		<respStmt>
+			<orgName>Norrland University Hospital</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<monogr>
+		<title/>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Kristina</forename><surname>Carlson</surname></persName>
+		</author>
+		<imprint/>
+		<respStmt>
+			<orgName>Uppsala University Hospital, Uppsala; Olle Linder, Ö rebro University Hospital</orgName>
+		</respStmt>
+	</monogr>
+	<note>Ö rebro</note>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<analytic>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Torbjo¨rn</forename><surname>Karlsson</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Va¨stera˚s</forename><surname>Hospital</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Va¨stera˚s</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>St</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Go¨ran Hospital</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Helsingborg</forename><surname>Stockholm; Per Axelsson</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Hospital</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Helsingborg; Kjell</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Lundqvist</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Rnsko¨ldsvik Hospital</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Blekinge</forename><surname>Gun Larsson</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Karlshamn; Elena</forename><surname>Hospital</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Malmo¨university</forename><surname>Holm</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Hospital</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">;</forename><surname>Malmo¨</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Rose-Marie Kristoffersson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Mo¨lndal; Cecilie Blimark, Sahlgrenska University Hospital, Go¨teborg; Maria Strandberg</title>
+		<editor>Lene Meldgaard Knudsen and Per Trøllund Pedersen</editor>
+		<meeting><address><addrLine>Sundsvall Hospital, Sundsvall. Denmark; Odense University Hospital, Odense; Rigshospitalet, Ko¨benhavn</addrLine></address></meeting>
+		<imprint>
+			<publisher>Peter Gimsing</publisher>
+		</imprint>
+		<respStmt>
+			<orgName>Niels Frost Andersen, Å rhus University Hospital</orgName>
+		</respStmt>
+	</monogr>
+	<note>Å rhus</note>
+</biblStruct>
+
+<biblStruct xml:id="b35">
+	<analytic>
+		<title/>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Annette</forename><surname>Vangsted</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Herlev</forename><surname>Hospital</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Ko¨benhavn; Henrik</forename><surname>Gregersen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">St Olavs Hospital</title>
+		<imprint/>
+		<respStmt>
+			<orgName>Aalborg University Hospital, Aalborg. Norway: Øyvind Hjertner</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b36">
+	<monogr>
+		<title/>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Nina</forename><surname>Gulbrandsen</surname></persName>
+		</author>
+		<imprint>
+			<pubPlace>Stavanger</pubPlace>
+		</imprint>
+		<respStmt>
+			<orgName>Ulleva˚l University Hospital, Oslo; Fredrik Schjesvold, Diakonhjemmet, Oslo; Einar Hauka˚s, Stavanger University Hospital</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

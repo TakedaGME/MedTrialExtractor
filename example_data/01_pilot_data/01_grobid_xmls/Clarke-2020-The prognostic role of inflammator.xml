@@ -1,0 +1,973 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /data/rsg/nlp/juanmoo1/bin/grobid-0.6.1/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">The prognostic role of inflammatory markers in patients with metastatic colorectal cancer treated with bevacizumab: A translational study [ASCENT]</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+				<date type="published" when="2020-03-06">March 6, 2020</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Stephen</forename><surname>John</surname></persName>
+							<idno type="ORCID">0000-0001-5817-1222</idno>
+							<affiliation key="aff0">
+								<orgName type="department">Cancer Services</orgName>
+								<orgName type="institution" key="instit1">Royal North Shore Hospital</orgName>
+								<orgName type="institution" key="instit2">St Leonards</orgName>
+								<address>
+									<country key="AU">Australia</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Matthew</forename><surname>Burge</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="department">Cancer Care Services</orgName>
+								<orgName type="institution" key="instit1">Royal Brisbane and Women Hospital</orgName>
+								<orgName type="institution" key="instit2">University of Queensland</orgName>
+								<address>
+									<settlement>Herston</settlement>
+									<country key="AU">Australia</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Kynan</forename><surname>Feeney</surname></persName>
+							<affiliation key="aff2">
+								<orgName type="department">Department of Oncology, Haematology and Palliative Care</orgName>
+								<orgName type="institution">St John of God Murdoch Hospital</orgName>
+								<address>
+									<settlement>Murdoch</settlement>
+									<country key="AU">Australia</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Peter</forename><surname>Gibbs</surname></persName>
+							<affiliation key="aff3">
+								<orgName type="department">Medical Oncology</orgName>
+								<orgName type="institution">Western Hospital</orgName>
+								<address>
+									<settlement>Footscray</settlement>
+									<country key="AU">Australia</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Kristian</forename><surname>Jones</surname></persName>
+							<affiliation key="aff4">
+								<orgName type="department">Medical Affairs</orgName>
+								<address>
+									<addrLine>Roche Products</addrLine>
+									<settlement>Pty, Sydney</settlement>
+									<region>Limited</region>
+									<country key="AU">Australia</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Gavin</forename><surname>Marx</surname></persName>
+							<affiliation key="aff5">
+								<orgName type="department">Integrated Cancer Centre</orgName>
+								<orgName type="institution" key="instit1">Sydney Adventist Hospital</orgName>
+								<orgName type="institution" key="instit2">University of Sydney</orgName>
+								<address>
+									<settlement>Wahroonga</settlement>
+									<country key="AU">Australia</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Mark</forename><forename type="middle">P</forename><surname>Molloy</surname></persName>
+							<affiliation key="aff6">
+								<orgName type="department">Australian Proteome Analysis Facility</orgName>
+								<orgName type="institution">Macquarie University</orgName>
+								<address>
+									<settlement>Sydney</settlement>
+									<country key="AU">Australia</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Timothy</forename><surname>Price</surname></persName>
+							<affiliation key="aff7">
+								<orgName type="department">Haematology and Medical Oncology</orgName>
+								<orgName type="institution">The Queen Elizabeth Hospital and University of Adelaide</orgName>
+								<address>
+									<addrLine>9 Biostatistics</addrLine>
+									<settlement>Adelaide</settlement>
+									<country key="AU">Australia</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff8">
+								<orgName type="institution">Covance Pty Ltd</orgName>
+								<address>
+									<settlement>Sydney</settlement>
+									<country key="AU">Australia</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">William</forename><forename type="middle">H H</forename><surname>Reece</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Eva</forename><surname>Segelov</surname></persName>
+							<affiliation key="aff9">
+								<orgName type="department">Medical Oncology</orgName>
+								<orgName type="institution">St Vincent&apos;s Hospital</orgName>
+								<address>
+									<settlement>Darlinghurst</settlement>
+									<country key="AU">Australia</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Niall</forename><forename type="middle">C</forename><surname>Tebbutt</surname></persName>
+							<affiliation key="aff10">
+								<orgName type="department">Medical Oncology</orgName>
+								<orgName type="institution">Austin Health</orgName>
+								<address>
+									<settlement>Heidelberg</settlement>
+									<country key="AU">Australia</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Clarke</forename><surname>Sj</surname></persName>
+						</author>
+						<author>
+							<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Burge</forename><forename type="middle">M</forename><surname>Feeney</surname></persName>
+						</author>
+						<author>
+							<affiliation key="aff11">
+								<orgName type="institution">Monash University and Monash Health</orgName>
+								<address>
+									<settlement>Clayton</settlement>
+									<country key="AU">Australia</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff12">
+								<orgName type="department">Istituto di Ricovero e Cura a Carattere Scientifico Centro di Riferimento Oncologico della Basilicata</orgName>
+								<address>
+									<country key="IT">ITALY</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">The prognostic role of inflammatory markers in patients with metastatic colorectal cancer treated with bevacizumab: A translational study [ASCENT]</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date type="published" when="2020-03-06">March 6, 2020</date>
+						</imprint>
+					</monogr>
+					<idno type="DOI">10.1371/journal.pone.0229900</idno>
+					<note type="submission">Received: June 3, 2019 Accepted: February 11, 2020</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.6.1" ident="GROBID" when="2020-10-09T18:38+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<abstract>
+				<p>Background In spite of demonstrating prognostic and possibly predictive benefit in retrospective cohorts and meta-analyses of cancer populations, including colorectal cancer (CRC), prospective evaluation of the relationship between neutrophil to lymphocyte ratio (NLR) and treatment outcomes in previously untreated mCRC patients receiving bevacizumab-based therapy has not yet been performed. Methods An open-label, single arm, multi-centre study. Patients received first-line bevacizumab plus XELOX or mFOLFOX6 (Phase-A) and continued bevacizumab plus FOLFIRI beyond first progression (Phase-B). Analyses included the association of NLR with phase A progression free survival (PFS) and overall survival (OS). A sub-study investigated the safety in patients with the primary in situ tumor. An exploratory sub-study examined relationships of circulating proteomic markers with PFS. Results Phase-A enrolled 128 patients; median age was 64 years (range: 26-84), 70 (55%) were female, 71 (56%) were PS-0 and 51 (40%) had primary in situ tumor. Fifty-three (41%) patients entered Phase-B. The median baseline (b) NLR was 3.2 (range: 1.5-20.4) with 32</p>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>(25%) patients having bNLR &gt; 5. The PFS hazard ratio (HR) by bNLR &gt; 5 versus � 5 was 1.4 (95% CI: 0.9-2.2; p = 0.101). The median PFS was 9.2 months (95% CI: 7.9-10.8) for Phase-A and 6.7 months (95% CI: 3.0-8.2) for Phase-B. The HR for OS based on bNLR &gt; 5 versus � 5 was 1.6 (95% CI: 1.0-2.7; p = 0.052). The median OS was 25 months (95% CI: 19.2-29.7) for the full analysis set and 14.9 months for Phase-B. Baseline levels of nine proteomic markers showed a relationship with PFS. Treatment related toxicities were consistent with what has previously been published. There were 4 (3%) instances of GI perforation, of which, 3 (6%) occurred in the primary in situ tumor group.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Conclusions</head><p>Results from this study are aligned with the previously reported trend towards worse PFS and OS in patients with higher bNLR.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Trial registration</head><p>ClinicalTrials.gov: NCT01588990; posted May 1, 2012.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Background</head><p>The efficacy of bevacizumab in combination with fluoropyrimidine-containing chemotherapy has been demonstrated in metastatic colorectal cancer (mCRC). <ref type="bibr" target="#b0">[1]</ref><ref type="bibr" target="#b1">[2]</ref><ref type="bibr" target="#b2">[3]</ref><ref type="bibr" target="#b3">[4]</ref><ref type="bibr" target="#b4">[5]</ref><ref type="bibr" target="#b5">[6]</ref><ref type="bibr" target="#b6">[7]</ref> However, to date, there are no reproducible, validated, simple and inexpensive prognostic biomarkers to aid treatment selection. The optimal treatment duration and the role of bevacizumab in certain patient subgroups, specifically those considered at particular risk of bevacizumab-mediated toxicity, also require further investigation.</p><p>The microenvironment of the tumor and the inflammatory response are considered important effectors of cancer biology and tumorigenesis. <ref type="bibr" target="#b7">[8]</ref> Tumor development and progression induced by an inflammatory response are mediated by interactions between pro-inflammatory cytokines and cellular pathways, including the nuclear factor kappa-light-chain-enhancer of activated B cells (NF-ΚB) and the signal transducer and activator of transcription-3 (STAT-3). <ref type="bibr" target="#b8">[9]</ref> The role of inflammatory markers as predictive or prognostic tools in the setting of bevacizumab has been investigated retrospectively. <ref type="bibr" target="#b9">[10,</ref><ref type="bibr" target="#b10">11]</ref> The use of blood-based markers such as neutrophil/lymphocyte ratio (NLR) as prognostic/predictive biomarkers in patients receiving bevacizumab-based chemotherapy had not been previously evaluated in this setting.</p><p>This study <ref type="bibr" target="#b11">[12]</ref> aimed to evaluate the relationship between the host inflammatory response, measured by NLR, selected proteomic plasma markers and treatment outcomes, in patients with previously untreated mCRC receiving bevacizumab-based first-and second-line treatments.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Methods</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Study design</head><p>An open-label, prospective, single arm, phase-IV, multi-center study (NCT01588990) evaluating the relationship between NLR and treatment outcomes in patients with histologically confirmed, previously untreated mCRC; had World Health Organization (WHO) performance status (PS) of 0-1 and life expectancy of � 3 months; and were eligible to received access to related clinical study documents, see here (https://www.roche.com/research_and_ development/who_we_are_how_we_work/clinical_ trials/our_commitment_to_data_sharing.htm).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Funding:</head><p>The study was sponsored by Roche Products, Pty. Limited. The funder provided support in the form of salaries for authors KJ as an employee of the funder and WR as an employee of the Clinical Research Organization contracted to perform the data management and statistical analyses of the study. The funder was involved in the study design, data collection and analysis, decision to publish, and preparation of the manuscript. The specific roles of these authors are articulated in the 'author contributions' section.</p><p>Competing interests: SC has served on advisory boards for Roche Products, Pty. Limited and has received travel support. MB has served on advisory boards for Roche Products, Pty. Limited and has received travel support. KF has served on advisory boards for Roche Products, Pty. Limited and has received travel support. PG has served on advisory boards for Roche Products, Pty. Limited, has received consultancy fees, travel and research support. MM is an employee of Macquarie University who was contracted by Roche Products, Pty. Limited for proteomic analyses. GM declared no conflict of interest. TP has served on advisory boards for Roche Products, Pty. Limited and has received travel support. ES has served on advisory boards for Roche Products, Pty. Limited and has received travel support. NT has served on Advisory Boards for Roche Products, Pty. Limited and has received travel support. KJ is an employee of Roche Products, Pty. Limited (the study sponsor). WR is an employee of Covance Pty. Ltd who was contracted by Roche Products, Pty. Limited. This does not alter our adherence to PLOS ONE policies on sharing data and materials.</p><p>Abbreviations: AACT, Acetoacetyl-coenzyme A thiolase; AE, Adverse events; A1AGLP, Alpha-1 acid glycoprotein; A1MICG, Alpha-1 microglobulin; APOC3, Apolipoprotein C-III; CRLPLSMN, Ceruloplasmin; CRP, C-reactive protein; FAS, Full analysis set; FIBB, Fibrinogen binding protein; FOLFIRI, Folinic acid, fluorouracil, irinotecan regimen; HR, Hazards ratio; KNG1, Kininogen 1; mCRC, metastatic colorectal cancer; mFOLFOX6, Modified folinic acid, fluorouracil, oxaliplatin regimen; NF-ΚB, Nuclear factor kappa-light-chainenhancer of activated B cells; NLR, Neutrophil/ lymphocyte ratio; OS, Overall survival; PFS, Progression free survival; PREALB, Prealbumin; RECIST, Response evaluation criteria in solid tumors; STAT-3, signal transducer and activator of bevacizumab-based, first-and second-line, treatment. The study protocol has previously been published. <ref type="bibr" target="#b11">[12]</ref> In summary, there were two phases of treatment; in Phase-A bevacizumab (7.5 mg/kg every 3 weeks) plus XELOX or bevacizumab (5mg/kg every 2 weeks) plus mFOLFOX6 were administered from study start until first disease progression. In Phase-B bevacizumab (5.0 mg/kg every 2 weeks) plus FOLFIRI were administered from first disease progression until second disease progression. The study planned to recruit a total of 150 patients; however, due to competing recruitment only 144 patients were enrolled. The study was conducted in accordance with local guidelines and in line with the principles of the Declaration of Helsinki and Good Clinical Practice Guidelines. Ethics approval was obtained from the following Here we present results for the primary endpoint which investigated the prognostic value of the host inflammatory response as assessed by the NLR (� 5 versus &gt; 5) on Progression Free Survival (PFS); and the secondary endpoints which investigated the safety profile of bevacizumab, efficacy by treatment phase, the role of NLR as predictor of Overall Survival (OS); the association between post-baseline changes in NLR, PFS and OS. The incidence of serious adverse events related to the primary tumor in the primary in situ tumor patient cohort is also presented.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Proteomic analysis</head><p>Pre-treatment, baseline plasma samples were independently prepared in duplicate by reduction and alkylation and then digested overnight at 37˚C with trypsin. For each preparation, 1 μg of peptide was analyzed as technical duplicates by nano liquid chromatography-selected reaction monitoring mass spectrometry assays of 66 peptides representing 32 acute phase and inflammation related plasma proteins as previously described. <ref type="bibr" target="#b12">[13,</ref><ref type="bibr" target="#b13">14]</ref> Individual peptide peak areas were obtained following normalization to total peak area, and the means and variances reported.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Statistical methodologies</head><p>The statistical and analytical plan has been previously published. <ref type="bibr" target="#b11">[12]</ref> The analysis populations included the Full Analysis Set (FAS), defined as subjects who received at least one dose of bevacizumab; the "primary in situ population" was defined as all subjects in the FAS with a primary in situ tumor; and the "resected primary tumor population" was defined as all subjects in the FAS without a primary in situ tumor. PFS was defined as the time from the start of initial treatment to documentation of first disease progression or death from any cause, whichever occurred first. PFS in Phase-B was defined as the time from the start of Phase-B treatment to documentation of second disease progression or death from any cause, whichever occurred first. OS was defined as the time from the start of initial treatment to the date of death, regardless of the cause of death. OS in Phase-B was defined as the time from the start of treatment in Phase-B to death of any cause.</p><p>All analyses were conducted (using the Statistical Analysis System, SAS v9.3) on the FAS unless otherwise stated. Testing of statistical hypotheses was conducted at two-sided alpha of 0.05.</p><p>The NLR at the start of treatment was dichotomized between � 5 and &gt; 5 and tested in a standard Proportional Hazards Cox regression model <ref type="bibr" target="#b14">[15]</ref> for an association with PFS (primary analysis) and OS (secondary analysis), in a model adjusted for the default covariates, which included the WHO PS (0 versus. 1), metastatic disease in the liver (Yes/No), number of different sites of metastatic disease (� 3 versus. &gt; 3), and presence of metastatic disease in the liver with no other sites involved (Yes/No). The association between longitudinal NLR measurements and PFS and OS was assessed by including NLR (� 5 versus &gt; 5) as a time-varying covariate in the primary model, adjusted for all the covariates that were defined as covariates in the primary model.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Results</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Patients</head><p>A total of 144 patients were screened (signed the informed consent) from 17 sites; 16 patients were excluded <ref type="figure" target="#fig_1">(Fig 1)</ref>. A total of 128 patients were enrolled in Phase-A (June-2012 to September-2016) and received treatment. Fifty-eight patients ended Phase-A due to disease progression; of these 53 patients continued into Phase-B <ref type="figure" target="#fig_1">(Fig 1)</ref>. The median age of the overall population was 64 years (range: 26-84). There were more female (n = 70; 55%; <ref type="table" target="#tab_0">Table 1</ref>). The majority (n = 100; 78%) had a Charlson comorbidity index � 1. Seventy-one patients (56%) had WHO PS 0 and 56 (44%) patients had PS of 1. Overall, 96 (75%) patients had baseline (b) NLR � 5 while 32 (25%) patients had bNRL &gt; 5, with median bNLR of 3 (range: 1.2-20.0). Fifty-one patients had primary in situ tumor and 77 had resected primary tumor.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Treatment exposure</head><p>Patients received median 15 cycles (range: 1-91) of bevacizumab treatment; 11 cycles (range: 1-91) in Phase-A and 8 cycles (range: 1-79) in Phase-B. At study end, 6 patients remained on treatment in Phase-A and 5 patients in Phase-B. Bevacizumab dose interruption due to adverse events (AEs) were recorded in 78 (61%) patients overall; 70 (55%) patients in Phase-A and 20 (38%) patients in Phase-B. The major reasons for treatment discontinuation were disease progression (n = 58; 45%) and AEs (n = 28; 22%) in Phase-A and disease progression (n = 37; 70%) in Phase-B <ref type="figure" target="#fig_1">(Fig 1)</ref>.</p><p>XELOX was administered in 38 patients in Phase-A, with median 32 weeks (range: 3-189). Eighty patients received mFOLFOX6; median number of weeks was 23 (range: 2-189). In Phase-B, 53 patients received a median of 18 weeks of FOLFIRI (range: 0-198).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Efficacy analyses</head><p>Using the Cox proportional hazards model <ref type="table" target="#tab_1">(Table 2)</ref> for the primary analyses, NLR was not shown to be prognostic of PFS; the Hazard Ratio (HR) [NLR &gt; 5 versus NLR � 5] was 1.4 (95% CI: 0.9-2.2; p = 0.101). An HR of 1.4 equates to a predicted difference in 12-month PFS from 56% for patient with bNLR � 5 vs 44%, had that same patient had bNLR &gt;5 (S1 <ref type="table">Table)</ref>.</p><p>The HR for OS (bNLR &gt; 5 versus � 5) was 1.6 (95% CI: 1.0-2.7; p = 0.052). The predicted OS probability at 12 months from the primary model for subjects with WHO PS 0, no metastatic liver disease and �3 sites of metastatic disease, was 87% for subjects with bNLR � 5 and 79% for subjects with bNLR &gt; 5 (S2 <ref type="table">Table)</ref>.</p><p>To determine whether post baseline normalization of NLR was a determinant of response to treatment, the longitudinal NLR was added as a time-varying covariate to the primary model. The model generated a PFS HR = 1.3 (95% CI: 0.9-1.9; p = 0.188) and an OS HR = 2.2 (95% CI: 1.2-4.0; p = 0.016). While these results do not support the hypothesis that normalization of NLR is a predictor of response, they suggest that NLR status of the patient at any time is associated with an increased rate of mortality.</p><p>To determine whether any of the baseline characteristics or other laboratory values were confounding for the effect of NLR, the demographic and laboratory values were each individually included in the primary model (S3 <ref type="table">Table)</ref>. None of these changed the association to being statistically significant. Only the inclusion of the Glasgow Prognostic Index as a linear variable changed the direction of the association, but the effect was still not statistically significant.</p><p>Time to event measures for each of the following secondary outcome variables, PFS in Phase-A and Phase-B, OS in the FAS population and Phase-B OS are summarised in <ref type="table">Table 3</ref>. https://doi.org/10.1371/journal.pone.0229900.g001</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>PLOS ONE</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Safety analyses</head><p>All 128 patients experienced at least one AE. Most patients experienced mild (n = 125; 98%) or moderate (n = 119; 93%) AEs. Grade 3-5 AEs were reported in 102 (79.7%) patients overall; 97 (75.8%) patients in Phase-A and 24 (45.3%) patients in Phase-B. The incidence of the most frequent AEs by primary tumor status is presented in <ref type="table" target="#tab_2">Table 4</ref>.</p><p>Of particular interest within the study context, any grade anal abscess and enterovesical fistula were reported in two patients each; and anal fistula, gastrointestinal perforation, intestinal Abbreviations: max = maximum; min = minimum; NLR = neutrophil/lymphocyte ratio, PLR = platelet/lymphocyte ratio; SD = standard deviation.</p><p>https://doi.org/10.1371/journal.pone.0229900.t001</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>PLOS ONE</head><p>perforation, large intestine perforation and rectal perforation in one patient each. Anal abscess, enterovesical fistula, and anal fistula were mostly reported in primary in situ tumor patients (4 of 5 cases) and in patients with baseline NLR � 5 (4 of 5 cases). Similarly, gastro-intestinal perforations were mostly observed in patients with primary in situ tumor (3 of 4 cases) and in patients with baseline NLR � 5 (3 of 4 cases).</p><p>AEs possibly related to bevacizumab were reported in 88 (69%) patients; 38 (30%) patients experienced at least 1 Grade 3-5 AE possibly related to bevacizumab, the most frequently reported of which were pulmonary embolism (n = 13; 10%) and hypertension (n = 8; 6%), followed by neutropenia (n = 7; 6%), and proteinuria (n = 3; 2%).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Death on study</head><p>Eighty-two subjects died on study, the majority due to disease progression. Fatal AEs were reported in 7 (6%) patients and included acute renal failure, intestinal obstruction, pulmonary embolism, pneumonia, and sepsis in the primary in situ tumor population, and gangrene and aspiration pneumonia in the resected primary tumor population. The pulmonary embolism was considered related to bevacizumab.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Proteomic analysis</head><p>Fifty-one (40%) patients were included in the proteomic analyses. We examined whether the baseline abundances of 32 high-medium abundance plasma proteins had a relationship with PFS (S4 <ref type="table">Table)</ref>. Nine acute phase reactants were found to be significantly related with PFS (p &lt; 0.05) after adjusting for the effect of NLR, and warrant further investigation in larger cohorts: A1AGLP [HR = 1.13 (95% CI: 1.00-1.28; p = 0.047)], A1MICG [HR = 0.09 (95% CI: 0.01-0.99; p = 0.049)] AACT [HR = 1.62 (95% CI: 1.04-2.53; p = 0.033)], APOC3 [HR = 0.77 (95% CI: 0.60-1.00; p = 0.049)], CRLPLSMN [HR = 14.65 (95% CI: 1.06-202.32; p = 0.045)], CRP (Logged and raw) [HR = 1.48 (95% CI: 1.09-2.02; p = 0.013], FIBB [HR = 0.80 (95% CI: </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>PLOS ONE</head><p>0.67-0.96; p = 0.014)], KNG1 [HR = 0 (95% CI: 0.00-0.49; p = 0.024)] and PREALB [HR = 0.01 (95% CI: 0.00-0.59; p = 0.027). There were three Grade 3-5 AEs in the first cycle amongst patients in the proteomic substudy population, therefore significance of the proteomic markers to predict Grade 3-5 AEs in the first cycle could not be assessed.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Discussion</head><p>This multi-center study was the first to prospectively evaluate the relationship between the host inflammatory response, measured by NLR, and outcomes in subjects with previously untreated mCRC who received bevacizumab-based first-and second-line treatment. Progression was based not on the RECIST criteria, but on investigators' routine clinical assessment which enabled the primary endpoint to reflect the clinical course of disease under routine clinical practice. The observed median PFS and OS in both phases of our study is consistent with the published literature, reporting that patients continue to derive benefits from bevacizumab when used beyond progression. <ref type="bibr" target="#b15">[16]</ref><ref type="bibr" target="#b16">[17]</ref><ref type="bibr" target="#b17">[18]</ref> Although this study is significantly smaller than the retrospective, published, literature on NLR in other cancers, it did have enough power to detect a HR of 1.7 <ref type="bibr" target="#b9">[10]</ref>. While our results did not prove the claim that NLR &gt; 5 is prognostic for lower PFS <ref type="bibr" target="#b9">[10,</ref><ref type="bibr" target="#b19">19]</ref>, the size of the association (HR of 1.4) is consistent with data published by Chua et al <ref type="bibr" target="#b9">[10]</ref> and other subsequent data. <ref type="bibr" target="#b20">[20,</ref><ref type="bibr" target="#b21">21]</ref> The observed association between longitudinal NLR measurements and OS [HR = 2.2 (95% CI: 1.2-4.0; p = 0.016)] indicates that NLR status of the patient at any time is associated with an increased rate of mortality and warrants further investigation. Results were after adjustment for the baseline disease characteristics included in the primary model. This is consistent with results from a recent meta-analysis <ref type="bibr" target="#b21">[21]</ref> which analysed data from 9363 colorectal cancer patients and showed that elevated NLR was a negative predictor of outcome. <ref type="bibr" target="#b22">[22]</ref>  Abbreviations: NLR = neutrophil/lymphocyte ratio; PIS = primary in situ tumor; RPT = resected primary tumor. The denominator for percentages is the number of patients in the FAS for each Primary Intact or Resected group. Sorted in descending order of frequency based on the total column. Note: This table contains counts of subjects. If a subject experienced more than one episode of an adverse event, the subject is counted only once within a preferred term.</p><p>https://doi.org/10.1371/journal.pone.0229900.t004</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>PLOS ONE</head><p>The detected associations of PFS with the A1AGLP, A1MICG, AACT, APOC3, CRLPLSMN, CRP (Logged and raw), FIBB, KNG1 and PREALB proteomic markers were found through post-hoc exploratory analysis. Further validation of the associations is required, especially interesting for those proteins where large effects were observed (CRLPLSMN, KING1, PREALB).</p><p>The safety profile observed in the study was consistent with the known safety profile of bevacizumab, with no apparent differences between the primary in situ tumor and resected primary tumor populations. The numbers of reported perforations were not higher than the published data.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Conclusion</head><p>Although this study did not confirm the prognostic value of NLR in metastatic colorectal cancer patients, treated with bevacizumab, there was a trend towards worse PFS and OS with higher bNLR which is consistent with previous studies. <ref type="bibr" target="#b21">[21]</ref>. Treatment related toxicities were consistent with prior experience with no apparent differences between the primary in situ tumor and resected primary tumor populations. No new safety signals were reported for this study. </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Supporting information</head></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head></head><label></label><figDesc>Human Research Ethics committees (HREC): Australian Capital Territory Health HREC (ETH.7.12.168; August 2012); Calvary Health Care Adelaide HREC (Reference number: 12-CHREC-F002; April 2012); Cancer Institute NSW Clinical Research Ethics Committee (HREC/12/CIC/3; May 2012); Central Northern Adelaide Health Service Ethics of Human Research Committee (HREC/12/TQEHLMH/63; October 2012); Melbourne Health HREC (HREC/11/MH/383; March 2012); St John of God Health Care Ethics Committee (HREC #573; October 2012); St Vincent's Hospital HREC (Reference number: 12/109; June 2012); Sydney Adventist Hospital Group HREC (HREC-2012-020; August 2012); Sydney Local Health District Ethics Review Committee (Royal Prince Alfred Hospital Zone; X12-0243; August 2012); and Tasmanian Health and Medical HREC (H12421; May 2012). All participating patients provided written informed consent prior to participation in the study.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head>Fig 1 .</head><label>1</label><figDesc>Patient disposition.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_2"><head></head><label></label><figDesc>Predicted PFS probabilities from the primary model (full analysis set). (DOCX) S2 Table. Predicted overall survival probabilities from the primary model (full analysis set). (DOCX) S3 Table. Impact of potential confounders on the primary endpoint (full analysis set). (DOCX) S4 Table. The association between baseline proteomic markers and PFS (full analysis set). (DOCX)</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>Table 1 . Summary of demographics and patient characteristics at baseline (full analysis set population).</head><label>1</label><figDesc></figDesc><table><row><cell>NLR � 5 (N = 96)</cell><cell>NLR &gt; 5 (N = 32)</cell><cell>Total (N = 128)</cell></row></table><note></note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_1"><head>Table 2 . Multivariate cox proportional hazards analysis of the influence of baseline characteristics on PFS and OS (full analysis set).</head><label>2</label><figDesc></figDesc><table><row><cell></cell><cell></cell><cell>Progression Free Survival</cell><cell></cell><cell></cell><cell>Overall Survival</cell><cell></cell></row><row><cell>Covariate</cell><cell>HR</cell><cell>95% CI</cell><cell>p</cell><cell>HR</cell><cell>95% CI</cell><cell>p</cell></row><row><cell>NLR (&gt; 5 versus � 5)</cell><cell>1.4</cell><cell>0.9,2.2</cell><cell>0.101</cell><cell>1.6</cell><cell>1.0, 2.7</cell><cell>0.052</cell></row><row><cell>WHO PS (� 1 versus 0)</cell><cell>1.6</cell><cell>1.1, 2.4</cell><cell>0.013</cell><cell>1.8</cell><cell>1.1, 2.8</cell><cell>0.011</cell></row><row><cell>Metastatic liver disease (yes versus no)</cell><cell>1.5</cell><cell>1.0, 2.4</cell><cell>0.079</cell><cell>1.4</cell><cell>0.8, 2.4</cell><cell>0.206</cell></row><row><cell>Number of metastatic sites (&gt; 3 versus � 3)</cell><cell>1.0</cell><cell>0.5, 2.0</cell><cell>0.886</cell><cell>1.5</cell><cell>0.8, 3.1</cell><cell>0.219</cell></row><row><cell>Metastatic liver disease with no other sites (yes versus no)</cell><cell>1.0</cell><cell>0.6, 1.7</cell><cell>0.916</cell><cell>0.8</cell><cell>0.4, 1.5</cell><cell>0.440</cell></row><row><cell>https://doi.org/10.1371/journal.pone.0229900.t002</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row></table><note>Abbreviations: FAS = full analysis set; mo = Months; PFS = Progression Free Survival; OS = Overall Survival https://doi.org/10.1371/journal.pone.0229900.t003</note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_2"><head>Table 4 . Summary of non-serious adverse events reported by � 20% of patients (full analysis set).</head><label>4</label><figDesc></figDesc><table><row><cell>Preferred Term</cell><cell>PIS (N = 51) n (%)</cell><cell>RPT (N = 77) n (%)</cell><cell>Total (N = 128) n (%)</cell></row><row><cell>Nausea</cell><cell>37 (72.5)</cell><cell>50 (64.9)</cell><cell>87 (68.0)</cell></row><row><cell>Fatigue</cell><cell>33 (64.7)</cell><cell>47 (61.0)</cell><cell>80 (62.5)</cell></row><row><cell>Neuropathy peripheral</cell><cell>28 (54.9)</cell><cell>52 (67.5)</cell><cell>80 (62.5)</cell></row><row><cell>Diarrhea</cell><cell>28 (54.9)</cell><cell>44 (57.1)</cell><cell>72 (56.3)</cell></row><row><cell>Constipation</cell><cell>26 (51.0)</cell><cell>26 (33.8)</cell><cell>52 (40.6)</cell></row><row><cell>Abdominal pain</cell><cell>14 (27.5)</cell><cell>30 (39.0)</cell><cell>44 (34.4)</cell></row><row><cell>Palmar-plantar erythrodysaesthesia syndrome</cell><cell>14 (27.5)</cell><cell>24 (31.2)</cell><cell>38 (29.7)</cell></row><row><cell>Vomiting</cell><cell>14 (27.5)</cell><cell>26 (33.8)</cell><cell>40 (31.3)</cell></row><row><cell>Neutropenia</cell><cell>15 (29.4)</cell><cell>18 (23.4)</cell><cell>33 (25.8)</cell></row><row><cell>Mucosal inflammation</cell><cell>14 (27.5)</cell><cell>17 (22.1)</cell><cell>31 (24.2)</cell></row><row><cell>Epistaxis</cell><cell>9 (17.6)</cell><cell>21 (27.3)</cell><cell>30 (23.4)</cell></row><row><cell>Decreased appetite</cell><cell>16 (31.4)</cell><cell>12 (15.6)</cell><cell>28 (21.9)</cell></row><row><cell>Gastroesophageal reflux disease</cell><cell>15 (29.4)</cell><cell>12 (15.6)</cell><cell>27 (21.1)</cell></row><row><cell>Paraesthesia</cell><cell>10 (19.6)</cell><cell>16 (20.8)</cell><cell>26 (20.3)</cell></row><row><cell>Alopecia</cell><cell>7 (13.7)</cell><cell>19 (24.7)</cell><cell>26 (20.3)</cell></row></table><note></note></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot">PLOS ONE | https://doi.org/10.1371/journal.pone.0229900 March 6, 2020</note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot">transcription-3; WHO, World health organization; XELOX, Capecitabine plus oxaliplatin regimen.</note>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Acknowledgments</head><p>The authors would like to thank the clinical research team at Roche, the investigation sites and all the patients who participated in this study and their families. Medical writing assistance was provided by Dr Joseline Ojaimi from Roche Product, Pty. Limited.</p></div>
+			</div>
+
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Author Contributions</head></div>			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Bevacizumab combined with chemotherapy for patients with advanced colorectal cancer: a systematic review</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Welch</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><surname>Spithoff</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><forename type="middle">B</forename><surname>Rumble</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Maroun</surname></persName>
+		</author>
+		<idno type="DOI">10.1093/annonc/mdp533</idno>
+		<idno type="PMID">19942597</idno>
+		<ptr target="https://doi.org/10.1093/annonc/mdp533" />
+	</analytic>
+	<monogr>
+		<title level="j">Ann Oncol</title>
+		<imprint>
+			<biblScope unit="volume">21</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page" from="1152" to="62" />
+			<date type="published" when="2010" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<monogr>
+		<title level="m" type="main">Risk/benefit profile of bevacizumab in metastatic colon cancer: a systematic review and meta-analysis. Dig Liver Dis</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><surname>Galfrascoli</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Piva</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Cinquini</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Rossi</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">La</forename><surname>Verde</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">N</forename><surname>Bramati</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename></persName>
+		</author>
+		<idno type="DOI">10.1016/j.dld.2010.10.010</idno>
+		<idno type="PMID">21146479</idno>
+		<ptr target="https://doi.org/10.1016/j.dld.2010.10.010" />
+		<imprint>
+			<date type="published" when="2011" />
+			<biblScope unit="volume">43</biblScope>
+			<biblScope unit="page" from="286" to="94" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<monogr>
+		<title level="m" type="main">Anti-angiogenic therapies for metastatic colorectal cancer. Cochrane database of systematic reviews (Online)</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><forename type="middle">D</forename><surname>Wagner</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><surname>Arnold</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><forename type="middle">A</forename><surname>Grothey</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Haerting</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Unverzagt</surname></persName>
+		</author>
+		<idno type="DOI">10.1002/14651858.CD005392.pub3</idno>
+		<idno type="PMID">19588372</idno>
+		<ptr target="https://doi.org/10.1002/14651858.CD005392.pub3" />
+		<imprint>
+			<date type="published" when="2009" />
+			<biblScope unit="page">5392</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Bevacizumab in combination with oxaliplatin, fluorouracil, and leucovorin (FOLFOX4) for previously treated metastatic colorectal cancer: results from the Eastern Cooperative Oncology Group Study E3200</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">B</forename><forename type="middle">J</forename><surname>Giantonio</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><forename type="middle">J</forename><surname>Catalano</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">N</forename><forename type="middle">J</forename><surname>Meropol</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">O</forename><surname>Dwyer</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><forename type="middle">J</forename><surname>Mitchell</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><forename type="middle">P</forename><surname>Alberts</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><forename type="middle">R</forename></persName>
+		</author>
+		<idno type="DOI">10.1200/JCO.2006.09.6305</idno>
+		<idno type="PMID">17442997</idno>
+		<ptr target="https://doi.org/10.1200/JCO.2006.09.6305" />
+	</analytic>
+	<monogr>
+		<title level="j">J Clin Oncol</title>
+		<imprint>
+			<biblScope unit="volume">25</biblScope>
+			<biblScope unit="issue">12</biblScope>
+			<biblScope unit="page" from="1539" to="1583" />
+			<date type="published" when="2007" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Bevacizumab in combination with oxaliplatin-based chemotherapy as first-line therapy in metastatic colorectal cancer: a randomized phase III study</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">L</forename><forename type="middle">B</forename><surname>Saltz</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Clarke</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><surname>Diaz-Rubio</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">W</forename><surname>Scheithauer</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Figer</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><surname>Wong</surname></persName>
+		</author>
+		<idno type="DOI">10.1200/JCO.2007.14.9930</idno>
+		<idno type="PMID">18421054</idno>
+		<ptr target="https://doi.org/10.1200/JCO.2007.14.9930" />
+	</analytic>
+	<monogr>
+		<title level="j">J Clin Oncol</title>
+		<imprint>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="issue">12</biblScope>
+			<biblScope unit="page" from="2013" to="2022" />
+			<date type="published" when="2008" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<monogr>
+		<title level="m" type="main">Bevacizumab plus irinotecan, fluorouracil, and leucovorin for metastatic colorectal cancer. The New England journal of medicine</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><surname>Hurwitz</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">L</forename><surname>Fehrenbacher</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">W</forename><surname>Novotny</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Cartwright</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Hainsworth</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">W</forename><surname>Heim</surname></persName>
+		</author>
+		<idno type="DOI">10.1056/NEJMoa032691</idno>
+		<idno type="PMID">15175435</idno>
+		<ptr target="https://doi.org/10.1056/NEJMoa032691" />
+		<imprint>
+			<date type="published" when="2004" />
+			<biblScope unit="volume">350</biblScope>
+			<biblScope unit="page" from="2335" to="2377" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">bevacizumab, and mitomycin in first-line treatment of metastatic colorectal cancer: results of the Australasian Gastrointestinal Trials Group Randomized Phase III MAX Study</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">N</forename><forename type="middle">C</forename><surname>Tebbutt</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><surname>Wilson</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">V</forename><forename type="middle">J</forename><surname>Gebski</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">M</forename><surname>Cummins</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><surname>Zannino</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">G</forename><forename type="middle">A</forename><surname>Van Hazel</surname></persName>
+		</author>
+		<idno type="DOI">10.1200/JCO.2009.27.7723</idno>
+		<idno type="PMID">20516443</idno>
+		<ptr target="https://doi.org/10.1200/JCO.2009.27.7723" />
+	</analytic>
+	<monogr>
+		<title level="j">J Clin Oncol</title>
+		<imprint>
+			<biblScope unit="volume">28</biblScope>
+			<biblScope unit="issue">19</biblScope>
+			<biblScope unit="page" from="3191" to="3199" />
+			<date type="published" when="2010" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Hallmarks of Cancer: The Next Generation</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><surname>Hanahan</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Weinberg</forename><surname>Robert</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename></persName>
+		</author>
+		<idno type="DOI">10.1016/j.cell.2011.02.013</idno>
+		<ptr target="https://doi.org/10.1016/j.cell.2011.02.013S0092-8674" />
+	</analytic>
+	<monogr>
+		<title level="j">Cell</title>
+		<imprint>
+			<biblScope unit="volume">144</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page" from="127" to="136" />
+			<date type="published" when="2011" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Stat3: linking inflammation to epithelial cancer-more than a &quot;gut&quot; feeling?</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Jarnicki</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Putoczki</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Ernst</surname></persName>
+		</author>
+		<idno type="DOI">10.1186/1747-1028-5-14</idno>
+		<idno type="PMID">20478049</idno>
+		<ptr target="https://doi.org/10.1186/1747-1028-5-14" />
+	</analytic>
+	<monogr>
+		<title level="j">Cell Division</title>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page">14</biblScope>
+			<date type="published" when="2010" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Neutrophil/lymphocyte ratio predicts chemotherapy outcomes in patients with advanced colorectal cancer</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">W</forename><surname>Chua</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><forename type="middle">A</forename><surname>Charles</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">V</forename><forename type="middle">E</forename><surname>Baracos</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><forename type="middle">J</forename><surname>Clarke</surname></persName>
+		</author>
+		<idno type="DOI">10.1038/bjc.2011.100</idno>
+		<idno type="PMID">21448173</idno>
+		<ptr target="https://doi.org/10.1038/bjc.2011.100" />
+	</analytic>
+	<monogr>
+		<title level="j">Br J Cancer</title>
+		<imprint>
+			<biblScope unit="volume">104</biblScope>
+			<biblScope unit="issue">8</biblScope>
+			<biblScope unit="page">3078587</biblScope>
+			<date type="published" when="2011" />
+		</imprint>
+	</monogr>
+	<note>PubMed Central PMCID</note>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Impact of pre-angiogenic factors on the treatment effect of bevacizumab in patients with metastatic colorectal cancer</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Dirican</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Y</forename><surname>Kucukzeybek</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Alacacioglu</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">U</forename><surname>Varol</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Aksun</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">I</forename><forename type="middle">V</forename><surname>Bayoglu</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/s12032-014-0905-8</idno>
+		<idno type="PMID">24596030</idno>
+		<ptr target="https://doi.org/10.1007/s12032-014-0905-8" />
+	</analytic>
+	<monogr>
+		<title level="j">Med Oncol</title>
+		<imprint>
+			<biblScope unit="volume">31</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<date type="published" when="2014" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">An Australian translational study to evaluate the prognostic role of inflammatory markers in patients with metastatic ColorEctal caNcer Treated with bevacizumab (Avastin</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Clarke</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Burge</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><surname>Cordwell</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><surname>Gibbs</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">W</forename><surname>Reece</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">N</forename><surname>Tebbutt</surname></persName>
+		</author>
+		<idno type="DOI">10.1186/1471-2407-13-120</idno>
+		<idno type="PMID">23497305</idno>
+		<ptr target="https://doi.org/10.1186/1471-2407-13-120" />
+	</analytic>
+	<monogr>
+		<title level="j">BMC Cancer</title>
+		<imprint>
+			<biblScope unit="volume">13</biblScope>
+			<biblScope unit="issue">120</biblScope>
+			<biblScope unit="page">3600989</biblScope>
+			<date type="published" when="2013" />
+		</imprint>
+	</monogr>
+	<note>PubMed Central PMCID</note>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Analytical performance of nano-LC-SRM using nondepleted human plasma over an 18-month period</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">X</forename><surname>Song</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Amirkhani</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">X</forename><surname>Wu</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><surname>Pascovici</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Zaw</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><surname>Xavier</surname></persName>
+		</author>
+		<idno type="DOI">10.1002/pmic.201500507</idno>
+		<idno type="PMID">27233598</idno>
+		<ptr target="https://doi.org/10.1002/pmic.201500507" />
+	</analytic>
+	<monogr>
+		<title level="j">Proteomics</title>
+		<imprint>
+			<biblScope unit="volume">16</biblScope>
+			<biblScope unit="page" from="2118" to="2145" />
+			<date type="published" when="2016" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">The development of multiple reaction monitoring assays for liver-derived plasma proteins</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">J</forename><surname>Mckay</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Sherman</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">T</forename><surname>Laver</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">S</forename><surname>Baker</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><forename type="middle">J</forename><surname>Clarke</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">P</forename><surname>Molloy</surname></persName>
+		</author>
+		<idno type="DOI">10.1002/prca.200700305</idno>
+		<idno type="PMID">21136656</idno>
+		<ptr target="https://doi.org/10.1002/prca.200700305" />
+	</analytic>
+	<monogr>
+		<title level="j">Proteomics Clin Appl</title>
+		<imprint>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="issue">12</biblScope>
+			<biblScope unit="page" from="1570" to="81" />
+			<date type="published" when="2007" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">Regression models and life tables (with discussion)</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><forename type="middle">R</forename><surname>Cox</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J R Statist Soc B</title>
+		<imprint>
+			<biblScope unit="volume">34</biblScope>
+			<biblScope unit="page" from="187" to="220" />
+			<date type="published" when="1972" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<monogr>
+		<title level="m" type="main">Continuation of bevacizumab after first progression in metastatic colorectal cancer (ML18147): a randomised phase 3 trial. Lancet Oncol</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Bennouna</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Sastre</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><surname>Arnold</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><surname>Osterlund</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><surname>Greil</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><surname>Van Cutsem</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/S1470-2045(12)70477-1</idno>
+		<idno type="PMID">23168366</idno>
+		<ptr target="https://doi.org/10.1016/S1470-2045(12)70477-1" />
+		<imprint>
+			<date type="published" when="2013" />
+			<biblScope unit="volume">14</biblScope>
+			<biblScope unit="page" from="29" to="37" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<monogr>
+		<title level="m" type="main">FOLFIRI plus bevacizumab as second-line therapy in patients with metastatic colorectal cancer after first-line bevacizumab plus oxaliplatin-based therapy: the randomized phase III EAGLE study</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Iwamoto</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Takahashi</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><surname>Tamagawa</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Nakamura</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Y</forename><surname>Munemoto</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Kato</surname></persName>
+		</author>
+		<idno type="DOI">10.1093/annonc/mdv197</idno>
+		<idno type="PMID">25908603</idno>
+		<ptr target="https://doi.org/10.1093/annonc/mdv197" />
+		<imprint>
+			<date type="published" when="2015" />
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="page">4478977</biblScope>
+		</imprint>
+	</monogr>
+	<note>Annals of oncology: official journal of the European Society for Medical Oncology. PubMed Central PMCID</note>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<monogr>
+		<title level="m" type="main">The efficacy and safety of bevacizumab beyond first progression in patients treated with first-line mFOLFOX6 followed by second-line FOLFIRI in advanced colorectal cancer: a multicenter, single-arm</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">G</forename><surname>Nakayama</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><surname>Uehara</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">K</forename><surname>Ishigure</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><surname>Yokoyama</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Ishiyama</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">T</forename><surname>Eguchi</surname></persName>
+		</author>
+		<imprint/>
+	</monogr>
+	<note>II trial (CCOG-0801</note>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title/>
+		<idno type="DOI">10.1007/s00280-012-1948-1</idno>
+		<idno type="PMID">22886005</idno>
+		<ptr target="https://doi.org/10.1007/s00280-012-1948-1" />
+	</analytic>
+	<monogr>
+		<title level="j">Cancer Chemother Pharmacol</title>
+		<imprint>
+			<biblScope unit="volume">70</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page">3456942</biblScope>
+			<date type="published" when="2012" />
+		</imprint>
+	</monogr>
+	<note>PubMed Central PMCID</note>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">Treatment of metastatic colorectal cancer with or without bevacizumab: can the neutrophil/lymphocyte ratio predict the efficiency of bevacizumab?</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Dirican</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">U</forename><surname>Varol</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Y</forename><surname>Kucukzeybek</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Alacacioglu</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><surname>Erten</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">I</forename><surname>Somali</surname></persName>
+		</author>
+		<idno type="DOI">10.7314/apjcp.2014.15.12.4781</idno>
+		<idno type="PMID">24998541</idno>
+		<ptr target="https://doi.org/10.7314/apjcp.2014.15.12.4781" />
+	</analytic>
+	<monogr>
+		<title level="j">Asian Pac J Cancer Prev</title>
+		<imprint>
+			<biblScope unit="volume">15</biblScope>
+			<biblScope unit="issue">12</biblScope>
+			<biblScope unit="page" from="4781" to="4787" />
+			<date type="published" when="2014" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">The neutrophil lymphocyte ratio is associated with breast cancer prognosis: an updated systematic review and meta-analysis</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">B</forename><surname>Wei</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Yao</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><surname>Xing</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">W</forename><surname>Wang</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Yao</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Y</forename><surname>Hong</surname></persName>
+		</author>
+		<idno type="DOI">10.2147/OTT.S108419</idno>
+		<idno type="PMID">27660475</idno>
+		<ptr target="https://doi.org/10.2147/OTT.S108419" />
+	</analytic>
+	<monogr>
+		<title level="j">Onco Targets Ther</title>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="page">5021064</biblScope>
+			<date type="published" when="2016" />
+		</imprint>
+	</monogr>
+	<note>PubMed Central PMCID</note>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">Neutrophil-lymphocyte ratio predicts the prognosis of patients with colorectal cancer: a meta-analysis</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><forename type="middle">C</forename><surname>Zheng</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">C</forename><surname>Zheng</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Wu</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">H</forename><surname>Ye</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">J</forename><surname>Chen</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">B</forename><surname>Zhou</surname></persName>
+		</author>
+		<idno>78-90. ISI:000371356600009</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Int J Clin Exp Med</title>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<date type="published" when="2016" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">Clinical outcomes in elderly patients with metastatic colorectal cancer receiving bevacizumab and chemotherapy: results from the BRiTE observational cohort study</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">F</forename><surname>Kozloff</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Berlin</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><forename type="middle">J</forename><surname>Flynn</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">F</forename><surname>Kabbinavar</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Ashby</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">W</forename><surname>Dong</surname></persName>
+		</author>
+		<idno type="DOI">10.1159/000320222</idno>
+		<idno type="PMID">20733336</idno>
+		<ptr target="https://doi.org/10.1159/000320222" />
+	</analytic>
+	<monogr>
+		<title level="j">Oncology</title>
+		<imprint>
+			<biblScope unit="volume">78</biblScope>
+			<biblScope unit="issue">5-6</biblScope>
+			<biblScope unit="page" from="329" to="368" />
+			<date type="published" when="2010" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>
