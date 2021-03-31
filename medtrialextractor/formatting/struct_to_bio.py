@@ -147,7 +147,6 @@ def struct_to_bio_dict_rd(struct_ann_path, is_pred=False):
         bio_dict[doc_id] = create_doc_bio_annotations_rd(
             struct['documents'][doc_id], is_pred=is_pred)
 
-
     return bio_dict
 
 
@@ -190,6 +189,7 @@ def create_doc_bio_annotations_rd(doc_struct, is_pred=False, filters={}):
                                     for l_idx in range(start + 1, stop):
                                         par_annotations[(
                                             ac, dn)]['labs'][l_idx] = f'I-{k}'
+
                                 else:
                                     if 'desc_range' not in par_annotations[(ac, dn)]:
                                         par_annotations[(
@@ -203,15 +203,20 @@ def create_doc_bio_annotations_rd(doc_struct, is_pred=False, filters={}):
             if 'desc_range' in ann:
                 toks = ann['toks']
                 labs = ann['labs']
-                lines = ['\t'.join(e) for e in zip(toks, labs)]
+                # lines = ['\t'.join(e) for e in zip(toks, labs)]
 
-                for i, j in ann['desc_range']:
-                    desc_lines = list(lines)
-                    # Delineate trigger entity
-                    desc_lines.insert(j, '[P2]\tO')
-                    desc_lines.insert(i, '[P1]\tO')
-                    desc_txt = '\n'.join(desc_lines)
-                    bio_pars.append('\n'.join(desc_lines))
+                if len(ann['desc_range']) > 0:
+                    for i, j in ann['desc_range']:
+                        desc_labs = list(labs)
+
+                        # label trigger entity
+                        desc_labs[i] = f'B-{k}'
+                        for l_idx in range(i + 1, j):
+                            desc_labs[l_idx] = f'I-{k}'
+                        desc_lines = ['\t'.join(e) for e in zip(toks, desc_labs)]
+
+                        desc_txt = '\n'.join(desc_lines)
+                        bio_pars.append(desc_txt)
 
         return '\n\n'.join(bio_pars)
 
@@ -224,7 +229,7 @@ def create_doc_bio_annotations_rd(doc_struct, is_pred=False, filters={}):
             if ('predictions' not in par) or\
                 ('ner' not in par['predictions']) or\
                 (default_trigger not in par['predictions']['ner']) or\
-                (len(par['predictions']['ner'][default_trigger]) == 0):
+                    (len(par['predictions']['ner'][default_trigger]) == 0):
 
                 continue
 
@@ -237,7 +242,7 @@ def create_doc_bio_annotations_rd(doc_struct, is_pred=False, filters={}):
                 par_txt = '\n'.join(toks)
                 toks.pop(i)
                 toks.pop(j)
-                
+
                 bio_pars.append(par_txt)
 
         return '\n\n'.join(bio_pars)

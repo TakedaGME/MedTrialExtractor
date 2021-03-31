@@ -1,7 +1,8 @@
 import json
 import re
-from struct_to_bio import struct_to_bio_dict, struct_to_bio_dict_rd
+from .struct_to_bio import struct_to_bio_dict, struct_to_bio_dict_rd
 from seqeval.metrics.sequence_labeling import get_entities
+
 
 def make_empty_ner_bio(struct_path, output_path):
     bio_dir = struct_to_bio_dict(struct_path, 1, use_tags=False)
@@ -36,7 +37,8 @@ def load_ner_predictions(struct_path, ner_output_file_path, output_struct_path):
     with open(ner_output_file_path, 'r') as ner_output_file:
         ner_txt = ner_output_file.read()
 
-    extracted_paragraphs = [par for par in ner_txt.split('\n\n') if len(par.strip()) > 0]
+    extracted_paragraphs = [par for par in ner_txt.split(
+        '\n\n') if len(par.strip()) > 0]
 
     # Parse and add predictions to struct
     for par in extracted_paragraphs:
@@ -52,7 +54,8 @@ def load_ner_predictions(struct_path, ner_output_file_path, output_struct_path):
         document_id = par_info['passage']
         paragraph_idx = int(par_info['par_idx'])
 
-        tokens, labels = zip(*[re.sub('\s+|\t', ' ', e.strip()).split() for e in lines[1:]])
+        tokens, labels = zip(
+            *[re.sub('\s+|\t', ' ', e.strip()).split() for e in lines[1:]])
         tokens = list(tokens)
         labels = list(labels)
 
@@ -62,18 +65,19 @@ def load_ner_predictions(struct_path, ner_output_file_path, output_struct_path):
             if k not in spans:
                 spans[k] = []
             spans[k].append((start, stop + 1))
-        
+
         par_dict = struct['documents'][document_id]['paragraphs'][paragraph_idx]
         if 'predictions' not in par_dict:
             par_dict['predictions'] = dict()
-        
+
         par_dict['predictions']['ner'] = spans
-    
+
     with open(output_struct_path, 'w') as output_struct_file:
         json.dump(struct, output_struct_file, indent=4)
 
-def make_empty_rd_input(struct_path, output_path):
-    bio_dir = struct_to_bio_dict_rd(struct_path, is_pred=True)
+
+def make_empty_rd_input(struct_path, output_path, is_training=False):
+    bio_dir = struct_to_bio_dict_rd(struct_path, is_pred=(not is_training))
 
     paragraphs = []
 
@@ -91,15 +95,22 @@ def make_empty_rd_input(struct_path, output_path):
     with open(output_path, 'w') as ner_input_file:
         ner_input_file.write(ner_input)
 
+def load_rd_predictions():
+    pass
+
 if __name__ == '__main__':
 
-    struct_base_path = '/data/rsg/nlp/juanmoo1/projects/05_dev/workdir/collections_dir/Hello/structs/struct_base.json'
-    ner_output_path = '/data/rsg/nlp/juanmoo1/projects/05_dev/workdir/tempdir/root/ner_output.txt'
-    output_struct_path = '/data/rsg/nlp/juanmoo1/projects/05_dev/workdir/collections_dir/Hello/structs/struct_pred.json'
+    # struct_base_path = '/data/rsg/nlp/juanmoo1/projects/05_dev/workdir/collections_dir/Hello/structs/struct_base.json'
+    # ner_output_path = '/data/rsg/nlp/juanmoo1/projects/05_dev/workdir/tempdir/root/ner_output.txt'
+    # output_struct_path = '/data/rsg/nlp/juanmoo1/projects/05_dev/workdir/collections_dir/Hello/structs/struct_pred.json'
 
+    # bio_output_path = '/data/rsg/nlp/juanmoo1/projects/05_dev/workdir/tempdir/root/rd_input.txt'
+
+    # make_empty_rd_input(output_struct_path, bio_output_path)
+
+    # load_ner_predictions(struct_base_path, ner_output_path, output_struct_path)
+
+    struct_path = '/data/rsg/nlp/juanmoo1/projects/02_takead_tests/03_takeda_new/01_takeda_repo/example_data/01_pilot_data/02_structs/struct_ann_v2_and_v3.json'
     bio_output_path = '/data/rsg/nlp/juanmoo1/projects/05_dev/workdir/tempdir/root/rd_input.txt'
+    make_empty_rd_input(struct_path, bio_output_path, is_training=True)
 
-    make_empty_rd_input(output_struct_path, bio_output_path)
-
-
-    # load_ner_predictions(struct_base_path, ner_output_path, output_struct_path) 
