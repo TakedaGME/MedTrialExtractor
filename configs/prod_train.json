@@ -1,8 +1,8 @@
 {
-  "data_dir": "/data/rsg/nlp/juanmoo1/projects/02_takead_tests/03_takeda_new/00_workdir/01_span_dosage/ner/split/",
+  "data_dir": "/data/rsg/nlp/juanmoo1/projects/05_dev/medext/example_data/01_pilot_data/80_20_split/result_split/att2/",
   "model_name_or_path": "bert-base-cased",
-  "output_dir": "/data/rsg/nlp/juanmoo1/projects/02_takead_tests/03_takeda_new/00_workdir/01_span_dosage/ner/split/output",
-  "labels": "configs/prod_labels.txt",
+  "output_dir": "/data/rsg/nlp/juanmoo1/projects/05_dev/medext/example_data/01_pilot_data/80_20_split/result_split/att2/model",
+  "labels": "configs/prod_labels_split.txt",
   "max_seq_length": 512,
   "num_train_epochs": 4,
   "per_device_train_batch_size": 16,

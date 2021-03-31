@@ -17,11 +17,11 @@ from transformers.data.data_collator import default_data_collator
 from transformers import set_seed
 
 from .trainer import IETrainer as Trainer
-from chemrxnextractor.models import BertForTagging, BertCRFForTagging
-from chemrxnextractor.data import ProdDataset
-from chemrxnextractor.data.utils import get_labels
-from chemrxnextractor.data.prod import write_predictions
-from chemrxnextractor.utils import create_logger
+from medtrialextractor.models import BertForTagging, BertCRFForTagging
+from medtrialextractor.data import ProdDataset
+from medtrialextractor.data.utils import get_labels
+from medtrialextractor.data.prod import write_predictions
+from medtrialextractor.utils import create_logger
 
 
 logger = logging.getLogger(__name__)

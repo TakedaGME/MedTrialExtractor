@@ -1,0 +1,21 @@
+{
+  "data_dir": "/data/rsg/nlp/juanmoo1/projects/05_dev/medext/example_data/01_pilot_data/80_20_split",
+  "model_name_or_path": "bert-base-cased",
+  "output_dir": "/data/rsg/nlp/juanmoo1/projects/05_dev/medext/example_data/01_pilot_data/80_20_split/model",
+  "labels": "configs/prod_labels.txt",
+  "max_seq_length": 512,
+  "num_train_epochs": 4,
+  "per_device_train_batch_size": 16,
+  "save_steps": 1000,
+  "eval_steps": 100,
+  "seed": 12,
+  "do_train": true,
+  "do_eval": true,
+  "do_predict": true,
+  "evaluate_during_training": true,
+  "use_crf": true,
+  "crf_learning_rate": 5e-3,
+  "use_fast": true,
+  "overwrite_output_dir": true,
+  "overwrite_cache": true
+}

@@ -18,12 +18,12 @@ from transformers.data.data_collator import default_data_collator
 from transformers import set_seed
 
 from .trainer import IETrainer as Trainer
-from chemrxnextractor.models import BertForRoleLabeling, BertCRFForRoleLabeling
-from chemrxnextractor.data import RoleDataset, PlainRoleDataset
-from chemrxnextractor.data.utils import get_labels
-from chemrxnextractor.constants import PROD_START_MARKER, PROD_END_MARKER
-from chemrxnextractor.data.role import write_predictions
-from chemrxnextractor.utils import create_logger
+from medtrialextractor.models import BertForRoleLabeling, BertCRFForRoleLabeling
+from medtrialextractor.data import RoleDataset, PlainRoleDataset
+from medtrialextractor.data.utils import get_labels
+from medtrialextractor.constants import PROD_START_MARKER, PROD_END_MARKER
+from medtrialextractor.data.role import write_predictions
+from medtrialextractor.utils import create_logger
 
 
 logger = logging.getLogger(__name__)

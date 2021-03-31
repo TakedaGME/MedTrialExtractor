@@ -1,7 +1,7 @@
 import torch
 import torch.nn as nn
 
-from chemrxnextractor.constants import INFINITY
+from medtrialextractor.constants import INFINITY
 
 class Pooler(nn.Module):
     def __init__(self, config):

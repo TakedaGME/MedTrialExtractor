@@ -4,7 +4,7 @@ import json
 
 import warnings
 warnings.filterwarnings("ignore")
-from chemrxnextractor import RxnExtractor
+from medtrialextractor import RxnExtractor
 
 if __name__ == '__main__':
     logging.basicConfig(format="%(message)s", level=logging.WARNING)

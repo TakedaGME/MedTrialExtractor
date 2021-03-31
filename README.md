@@ -28,7 +28,7 @@ tar zxvf cre_models_v0.1.tgz
 
 Using RxnExtractor in your code:
 ```python
-from chemrxnextractor import RxnExtractor
+from medtrialextractor import RxnExtractor
 
 model_dir="models" # directory saving both prod and role models
 rxn_extractor = RxnExtractor(model_dir)

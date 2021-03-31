@@ -4,7 +4,7 @@ from setuptools import setup, find_packages
 __version__ = None
 
 src_dir = os.path.abspath(os.path.dirname(__file__))
-version_file = os.path.join(src_dir, 'chemrxnextractor', '_version.py')
+version_file = os.path.join(src_dir, 'medtrialextractor', '_version.py')
 
 with open(version_file, encoding='utf-8') as fd:
     exec(fd.read())

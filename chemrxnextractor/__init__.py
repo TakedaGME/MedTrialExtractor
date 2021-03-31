@@ -1,12 +1,12 @@
-import chemrxnextractor.data
-import chemrxnextractor.models
-import chemrxnextractor.train
+import medtrialextractor.data
+import medtrialextractor.models
+import medtrialextractor.train
 
-import chemrxnextractor.prod_args
-import chemrxnextractor.role_args
-import chemrxnextractor.constants
-import chemrxnextractor.utils
+import medtrialextractor.prod_args
+import medtrialextractor.role_args
+import medtrialextractor.constants
+import medtrialextractor.utils
 
-from chemrxnextractor._version import __version__
+from medtrialextractor._version import __version__
 
 from .cre import RxnExtractor

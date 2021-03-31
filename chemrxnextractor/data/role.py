@@ -13,7 +13,7 @@ from torch import nn
 from torch.utils.data.dataset import Dataset
 
 from .utils import InputExample
-from chemrxnextractor.constants import PROD_START_MARKER, PROD_END_MARKER
+from medtrialextractor.constants import PROD_START_MARKER, PROD_END_MARKER
 
 
 logger = logging.getLogger(__name__)
