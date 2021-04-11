@@ -181,8 +181,7 @@ def create_doc_bio_annotations_rd(doc_struct, is_pred=False, filters={}):
                         a_count, d_num = arm_key
 
                         for ac, dn in par_annotations:
-                            if (ac == a_count or ac == '*') and (dn == d_num or dn == '*'):
-                                # print((ac, dn), arm_key)
+                            if (ac == a_count or a_count == '*') and (dn == d_num or d_num == '*'):
                                 if k != default_trigger:
                                     par_annotations[(
                                         ac, dn)]['labs'][start] = f'B-{k}'
@@ -236,13 +235,15 @@ def create_doc_bio_annotations_rd(doc_struct, is_pred=False, filters={}):
             desc_spans = par['predictions']['ner'][default_trigger]
 
             toks = par['text'].split(' ')
+            labs = ['O'] * len(toks)
             for i, j in desc_spans:
-                toks.insert(j, '[P2]')
-                toks.insert(i, '[P1]')
-                par_txt = '\n'.join(toks)
-                toks.pop(i)
-                toks.pop(j)
+                labs[i] = f'B-{default_trigger}'
+                for l_idx in range(i + 1, j):
+                    labs[l_idx] = f'I-{default_trigger}'
 
-                bio_pars.append(par_txt)
+            desc_lines = ['\t'.join(e) for e in zip(toks, labs)]
+            desc_txt = '\n'.join(desc_lines)
+            bio_pars.append(desc_txt)
+
 
         return '\n\n'.join(bio_pars)
