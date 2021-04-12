@@ -7,11 +7,10 @@ from os import kill
 import pandas as pd
 
 
-def create_table(args):
+def create_table(struct_path, output_path):
 
     # Load struct
-    struct = None
-    with open(args.input_struct, 'r') as struct_file:
+    with open(struct_path, 'r') as struct_file:
         struct = json.load(struct_file)
 
     document_ids = list(struct['documents'].keys())
@@ -101,5 +100,5 @@ def create_table(args):
     df = df.rename(columns=rename_map, errors='raise')
 
     # Save Table
-    df.to_excel(args.output_path, index=False)
+    df.to_excel(output_path, index=False)
     return df
