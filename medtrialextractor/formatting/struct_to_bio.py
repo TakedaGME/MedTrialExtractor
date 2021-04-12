@@ -202,20 +202,23 @@ def create_doc_bio_annotations_rd(doc_struct, is_pred=False, filters={}):
             if 'desc_range' in ann:
                 toks = ann['toks']
                 labs = ann['labs']
-                # lines = ['\t'.join(e) for e in zip(toks, labs)]
+                lab_cols = []
 
-                if len(ann['desc_range']) > 0:
-                    for i, j in ann['desc_range']:
-                        desc_labs = list(labs)
+                for i, j in ann['desc_range']:
+                    desc_labs = list(labs)
 
-                        # label trigger entity
-                        desc_labs[i] = f'B-{k}'
-                        for l_idx in range(i + 1, j):
-                            desc_labs[l_idx] = f'I-{k}'
-                        desc_lines = ['\t'.join(e) for e in zip(toks, desc_labs)]
+                    # label trigger entity
+                    desc_labs[i] = f'B-{k}'
+                    for l_idx in range(i + 1, j):
+                        desc_labs[l_idx] = f'I-{k}'
+                    lab_cols.append(desc_labs)
+                    # desc_lines = ['\t'.join(e) for e in zip(toks, desc_labs)]
 
-                        desc_txt = '\n'.join(desc_lines)
-                        bio_pars.append(desc_txt)
+                    # desc_txt = '\n'.join(desc_lines)
+                    # bio_pars.append(desc_txt)
+                lines = ['\t'.join(e) for e in zip(toks, *lab_cols)]
+                text = '\n'.join(lines)
+                bio_pars.append(text)
 
         return '\n\n'.join(bio_pars)
 

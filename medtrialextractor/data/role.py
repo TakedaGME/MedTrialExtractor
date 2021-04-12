@@ -103,8 +103,6 @@ class RoleDataset(Dataset):
                     if words:
                         labels_by_prod = list(zip(*labels))
                         for y in labels_by_prod:
-                            if 'B-arm_description' not in y:
-                                print(y)
                             assert "B-arm_description" in y # make sure there is a Product
                             examples.append(InputExample(
                                 guid=f"{guid_index}",

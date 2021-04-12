@@ -27,7 +27,6 @@ def make_empty_ner_bio(struct_path, output_path):
 def load_ner_predictions(struct_path, ner_output_file_path, output_struct_path):
 
     # Load base struct
-
     struct = None
     with open(struct_path, 'r') as struct_file:
         struct = json.load(struct_file)
@@ -110,7 +109,8 @@ if __name__ == '__main__':
 
     # load_ner_predictions(struct_base_path, ner_output_path, output_struct_path)
 
-    struct_path = '/data/rsg/nlp/juanmoo1/projects/02_takead_tests/03_takeda_new/01_takeda_repo/example_data/01_pilot_data/02_structs/struct_ann_v2_and_v3.json'
-    bio_output_path = '/data/rsg/nlp/juanmoo1/projects/05_dev/workdir/tempdir/root/rd_input.txt'
+    struct_path = '/data/rsg/nlp/juanmoo1/projects/05_dev/workdir/example_data/01_pilot_data/02_structs/struct_ann_v2_and_v3.json'
+    bio_output_path = '/data/rsg/nlp/juanmoo1/projects/05_dev/workdir/example_data/02_inputs/role_input.bio'
     make_empty_rd_input(struct_path, bio_output_path, is_training=True)
+
 

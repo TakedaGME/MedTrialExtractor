@@ -190,7 +190,7 @@ def train(model_args, data_args, train_args):
         predictions = output['predictions']
         label_ids = output['label_ids']
         metrics = output["metrics"]
-        # Note: preds_list doesn't contain labels for [arm_description] and [/arm_description]
+        # Note: preds_list doesn't contain labels for [Prod] and [/Prod]
         preds_list = [[label_map[x] for x in seq] for seq in predictions]
 
         output_test_results_file = os.path.join(train_args.output_dir, "test_results.txt")

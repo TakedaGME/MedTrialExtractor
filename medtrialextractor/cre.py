@@ -254,7 +254,7 @@ class RxnExtractor(object):
                         rxn_labels.append(all_preds[example_id].pop(0))
                 rxn = {}
                 for role, ss, se in get_entities(rxn_labels):
-                    if role == "arm_description":
+                    if role == "Prod":
                         rxn["Product"] = (ss, se)
                     else:
                         if role not in rxn:

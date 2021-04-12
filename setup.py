@@ -13,7 +13,7 @@ with open('README.md', encoding='utf-8') as f:
     long_description = f.read()
 
 setup(
-    name='chemrxnextractor',
+    name='medtrialextractor',
     author="Jiang Guo, Santiago Ibanez, Hanyu Gao",
     author_email="jiang_guo@csail.mit.edu",
     description='Chemical Reaction Extraction from Literature',
@@ -25,14 +25,17 @@ setup(
     packages=find_packages(),
     python_requires='>=3.6',
     install_requires=[
-        'torch>=1.5.0',
-        'tqdm>=4.36.0',
-        'transformers>=3.0.2',
-        'seqeval',
-        'numpy>=1.18.0'
+        'numpy==1.20.2',
+        'seqeval==1.2.2',
+        'torch==1.8.1',
+        'tqdm==4.60.0',
+        'transformers==3.0.2',
+        'ya.dotdict',
+        'beautifulsoup4',
+        'spacy',
+        'pandas'
     ],
     keywords=[
-        'chemistry',
         'information extraction',
         'reaction extraction',
         'natural language processing',
