@@ -22,18 +22,20 @@ setup(
     version=__version__,
     license='MIT',
     packages=find_packages(),
-    python_requires='>=3.7',
+    python_requires='>=3.8.8',
+    dependency_links=[
+                'https://download.pytorch.org/whl/torch_stable.html'
+    ],
     install_requires=[
-        'numpy==1.20.2',
-        'seqeval==1.2.2',
-        'torch==1.8.1',
-        'tqdm==4.60.0',
-        'transformers==3.0.2',
-        'ya.dotdict',
-        'beautifulsoup4',
-        'spacy',
-        'pandas',
-        'openpyxl'
+                'numpy==1.20.2',
+                'seqeval==1.2.2',
+                'torch==1.8.1+cu111',
+                'tqdm==4.60.0',
+                'transformers==4.6.0',
+                'beautifulsoup4',
+                'spacy',
+                'pandas'
+
     ],
     keywords=[
         'information extraction',

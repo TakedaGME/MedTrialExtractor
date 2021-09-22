@@ -336,4 +336,3 @@ class BertCRFForRoleLabeling(BertForTokenClassification):
         viterbi_tags = [x for x, y in viterbi_path]
 
         return viterbi_tags
-

@@ -40,8 +40,8 @@ class RxnExtractor(object):
         self.batch_size = batch_size
         self.pad_token_label_id = nn.CrossEntropyLoss().ignore_index
 
-        self.prod_max_seq_len = 256
-        self.role_max_seq_len = 512
+        self.prod_max_seq_len = 512
+        # self.role_max_seq_len = 512
 
         self.device = torch.device(
             "cuda"
@@ -52,9 +52,10 @@ class RxnExtractor(object):
         self.load_model()
 
     def load_model(self):
-        prod_model_dir = os.path.join(self.model_dir, "prod")
+        prod_model_dir = os.path.join(self.model_dir, "ner")
         if os.path.isdir(prod_model_dir):
-            sys.stderr.write(f"Loading product extractor from {prod_model_dir}...")
+            sys.stderr.write(
+                f"Loading product extractor from {prod_model_dir}...")
             config = AutoConfig.from_pretrained(prod_model_dir)
             prod_tokenizer = AutoTokenizer.from_pretrained(
                 prod_model_dir,
@@ -74,46 +75,49 @@ class RxnExtractor(object):
                 prod_labels[int(i)] = label
             sys.stderr.write("done\n")
         else:
-            sys.stderr.write(f"Product extractor not found in {self.model_dir}!")
+            sys.stderr.write(
+                f"Product extractor not found in {self.model_dir}!")
             prod_tokenizer = None
             prod_extractor = None
 
-        role_model_dir = os.path.join(self.model_dir, "role")
-        if os.path.isdir(role_model_dir):
-            sys.stderr.write(f"Loading role extractor from {role_model_dir}...")
-            config = AutoConfig.from_pretrained(role_model_dir)
-            role_tokenizer = AutoTokenizer.from_pretrained(
-                role_model_dir,
-                use_fast=True
-            )
-            model_class = (
-                BertCRFForRoleLabeling
-                if "BertCRFForRoleLabeling" in config.architectures
-                else BertForRoleLabeling
-            )
-            role_extractor = model_class.from_pretrained(
-                role_model_dir,
-                config=config,
-                use_cls=True,
-                prod_pooler="span"
-            )
-            role_labels = ["O"] * len(config.id2label)
-            for i, label in config.id2label.items():
-                role_labels[int(i)] = label
-            sys.stderr.write("done\n")
-        else:
-            sys.stderr.write("Role labeling model not found in {self.model_dir}!")
-            role_tokenizer = None
-            role_extractor = None
+        # role_model_dir = os.path.join(self.model_dir, "role")
+        # if os.path.isdir(role_model_dir):
+        #     sys.stderr.write(
+        #         f"Loading role extractor from {role_model_dir}...")
+        #     config = AutoConfig.from_pretrained(role_model_dir)
+        #     role_tokenizer = AutoTokenizer.from_pretrained(
+        #         role_model_dir,
+        #         use_fast=True
+        #     )
+        #     model_class = (
+        #         BertCRFForRoleLabeling
+        #         if "BertCRFForRoleLabeling" in config.architectures
+        #         else BertForRoleLabeling
+        #     )
+        #     role_extractor = model_class.from_pretrained(
+        #         role_model_dir,
+        #         config=config,
+        #         use_cls=True,
+        #         prod_pooler="span"
+        #     )
+        #     role_labels = ["O"] * len(config.id2label)
+        #     for i, label in config.id2label.items():
+        #         role_labels[int(i)] = label
+        #     sys.stderr.write("done\n")
+        # else:
+        #     sys.stderr.write(
+        #         "Role labeling model not found in {self.model_dir}!")
+        #     role_tokenizer = None
+        #     role_extractor = None
 
         self.prod_tokenizer = prod_tokenizer
         self.prod_extractor = prod_extractor.to(self.device)
         self.prod_extractor.eval()
-        self.role_tokenizer = role_tokenizer
-        self.role_extractor = role_extractor.to(self.device)
-        self.role_extractor.eval()
+        # self.role_tokenizer = role_tokenizer
+        # self.role_extractor = role_extractor.to(self.device)
+        # self.role_extractor.eval()
         self.prod_labels = prod_labels
-        self.role_labels = role_labels
+        # self.role_labels = role_labels
 
     def get_products(self, sents):
         """
@@ -258,7 +262,7 @@ class RxnExtractor(object):
                         rxn["Product"] = (ss, se)
                     else:
                         if role not in rxn:
-                            rxn[role] = [] # e.g., multiple reactants
+                            rxn[role] = []  # e.g., multiple reactants
                         rxn[role].append((ss, se))
                 rxns["reactions"].append(rxn)
                 example_id += 1
@@ -266,4 +270,3 @@ class RxnExtractor(object):
             results.append(rxns)
 
         return results
-
