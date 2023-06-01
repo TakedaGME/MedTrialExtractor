@@ -1,6 +1,6 @@
-# Chemical Reaction Extraction from Scientific Literature
+# Full Publication Data Extraction for Systematic Literature Review
 
-This repository contains code/data for extracting chemical reactions from scientific literature.
+This repository contains code/data for extraction of entities and relationships from scientific literature for the purposes of a systematic review.  The code is based on a previous project extracting chemical reactions from scientific literature.
 
 ## Installation
 
