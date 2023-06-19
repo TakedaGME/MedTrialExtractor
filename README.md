@@ -118,10 +118,25 @@ Configure `configs/prod_train.json` to turn on/off the train/eval modes.
 
 Performance of the provided trained models on our test set (`tests/sample_data/<task>/test.txt`):
 
-Task | Precision | Recall | F1 |
-| :---: | :---: | :---: | :---: |
-Product Extraction | 84.62 | 69.37 | 76.24 |
-Role Extraction | 80.12 | 77.25 | 78.66 |
+Entity recognition performance across machine learning models
+Model	Relaxed	Strict
+Precision, %	Recall, %	F1 score, %	Precision, %	Recall, %	F1 score, %
+SLR 1
+BiLSTM+linear	68.1	58.8	63.0	45.5	39.3	42.1
+BiLSTM+CRF	74.9	53.4	62.2	53.0	37.8	44.0
+BERT+linear	67.3	66.8	67.0	46.3	45.7	46.0
+BERT+CRF	73.5	64.5	68.7	52.3	45.8	48.8
+Pretrained BERT+linear	68.1	71.7	69.8	47.5	49.8	48.6
+Pretrained BERT+CRF	74.0	71.9	72.8	53.3	51.7	52.4
+SLR 2
+BiLSTM+linear	69.2	58.0	63.1	46.9	44.6	45.7
+BiLSTM+CRF	73.3	56.3	63.4	55.3	42.2	47.7
+BERT+linear    59.2	60.8	59.1	43.7	44.6	43.4
+BERT+CRF	65.6	58.3	60.7	50.3	44.5	46.4
+Pretrained BERT+linear	62.5	66.6	63.7	46.9	49.8	47.8
+Pretrained BERT+CRF	69.7	70.5	69.5	55.8	56.0	55.4
+
+BERT, bidirectional encoder representations from transformers; BiLSTM, bidirectional long-short-term memory; CRF, conditional random field; SLR, systematic literature review.
 
 ## Predict
 
