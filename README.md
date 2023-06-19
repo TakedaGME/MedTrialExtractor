@@ -61,69 +61,44 @@ We provide scripts to train new models (product/role extraction) using your own 
 Your training data should contain texts (sequences of tokens) and known target labels.
 We follow conventional BIO-tagging scheme, where `B-{type}` indicates the Beginning of a specific entity type (e.g., Prod, Reactants, Solvent), and `I-{type}` means the Inside of an entity.
 
-##### Product Extraction
+##### Extraction
 
 The train/dev/test files have the same CoNLL-style format:
 ```csv
-#	passage=10.1021/ja00020a078-5	sentence=1
-Reaction	O
-of	O
-diphenylacetylene	O
-with	O
-complex	O
-19A	O
-led	O
-to	O
-only	O
-cycloheptadienone	B-arm_description
-23A	B-arm_description
-in	O
-30	O
-%	O
-yield	O
-```
+The\O
+main\O
+objective\O
+of\O
+the\O
+18\O
+-\O
+month\O
+,\O
+randomised\O
+,\O
+active\O
+-\O
+controlled\O
+ATTRACT\O
+study\O
+was\O
+to\O
+assess\O
+the\O
+effects\O
+of\O
+migalastat\B-drug
+on\O
+renal\O
+function\O
+in\O
+patients\O
+with\O
+Fabry\B-disease
+disease\I-disease
+.\O’
 
-It is assumed that the tokens are in the first column, and the targets are in the second column.
-The comment line (optional) can contain any meta information of the current text sequence, such as the DOI of a paper.
-
-##### Reaction Role Extraction
-
-Data files for role extraction can have multiple label columns, each corresponding to one product. For example:
-```csv
-#	passage=10.1021/ja00020a078-5	segment=1
-Reaction	O	O	O
-of	O	O	O
-diphenylacetylene	B-Reactants	B-Reactants	B-Reactants
-with	O	O	O
-complex	O	O	O
-19A	B-Reactants	B-Reactants	O
-led	O	O	O
-to	O	O	O
-only	O	O	O
-cycloheptadienone	B-arm_description	O	O
-23A	O	B-arm_description	O
-in	O	O	O
-30	B-Yield	B-Yield	O
-%	I-Yield	I-Yield	O
-yield	O	O	O
-;	O	O	O
-with	O	O	O
-(phenylcyclopropy1)-	O	O	O
-carbene	O	O	O
-complex	O	O	O
-19B	O	O	B-Reactants
-,	O	O	O
-cycloheptadienone	O	O	O
-25	O	O	B-arm_description
-was	O	O	O
-produced	O	O	O
-in	O	O	O
-53	O	O	B-Yield
-%	O	O	I-Yield
-yield	O	O	O
-```
-
-The tokens are in the first column, and the target labels are in the remaining columns.
+The tokens are in the first column, and the target labels are in the second columns.
 
 #### Run
 To train or evaluate a product extraction model, run:
