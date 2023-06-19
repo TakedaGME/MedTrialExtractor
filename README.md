@@ -64,7 +64,7 @@ We follow conventional BIO-tagging scheme, where `B-{type}` indicates the Beginn
 ##### Extraction
 
 The train/dev/test files have the same CoNLL-style format:
-'```csv
+```csv
 
 The\O
 main\O
@@ -98,7 +98,7 @@ with\O
 Fabry\B-disease
 disease\I-disease
 .\O
-
+```
 The tokens are in the first column, and the target labels are in the second columns.
 
 #### Run
@@ -119,6 +119,8 @@ Configure `configs/prod_train.json` to turn on/off the train/eval modes.
 
 Performance of the provided trained models on our test set (`tests/sample_data/<task>/test.txt`):
 
+```csv
+
 Entity recognition performance across machine learning models
 Model	Relaxed	Strict
 Precision, %	Recall, %	F1 score, %	Precision, %	Recall, %	F1 score, %
@@ -138,6 +140,7 @@ Pretrained BERT+linear	62.5	66.6	63.7	46.9	49.8	47.8
 Pretrained BERT+CRF	69.7	70.5	69.5	55.8	56.0	55.4
 
 BERT, bidirectional encoder representations from transformers; BiLSTM, bidirectional long-short-term memory; CRF, conditional random field; SLR, systematic literature review.
+```
 
 ## Predict
 
