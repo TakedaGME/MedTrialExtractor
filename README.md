@@ -64,7 +64,8 @@ We follow conventional BIO-tagging scheme, where `B-{type}` indicates the Beginn
 ##### Extraction
 
 The train/dev/test files have the same CoNLL-style format:
-```csv
+'```csv
+
 The\O
 main\O
 objective\O
@@ -96,7 +97,7 @@ patients\O
 with\O
 Fabry\B-disease
 disease\I-disease
-.\O’
+.\O
 
 The tokens are in the first column, and the target labels are in the second columns.
 
@@ -152,4 +153,3 @@ python predict.py prod configs/prod_predict.json
 
 ## Contact
 Please create an issue or email to [antonia.panayi@takeda.com](mailto:antonia.panayi@takeda.com) should you have any questions, comments or suggestions.
-
