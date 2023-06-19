@@ -13,7 +13,7 @@ This repository contains code/data for extraction of entities and relationships 
 5. seqeval
 
 ### Install from source
-1. `git clone https://github.com/jiangfeng1124/ChemRxnExtractor`
+1. `git clone https://github.com/TakedaGME/MedTrialExtractor`
 2. `cd ChemRxnExtractor`
 3. `pip install -r requirements.txt`
 4. `pip install -e .`
