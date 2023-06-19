@@ -161,5 +161,5 @@ python predict.py prod configs/prod_predict.json
 ```
 
 ## Contact
-Please create an issue or email to [jiang_guo@csail.mit.edu](mailto:jiang_guo@csail.mit.edu) should you have any questions, comments or suggestions.
+Please create an issue or email to [antonia.panayi@takeda.com](mailto:antonia.panayi@takeda.com) should you have any questions, comments or suggestions.
 
